@@ -312,3 +312,298 @@ cliente y al tribunal.
 - *"¿Qué características debe tener un buen dictamen jurídico?"*
 
 ---
+
+
+## 14. Cómo aparece en un juicio
+
+- **Preparación del caso:** identificar hechos relevantes, cuestiones jurídicas, fuentes y
+  estrategia es metodología aplicada (IRAC a escala procesal).
+- **Investigación de precedentes:** localizar y validar la jurisprudencia favorable y anticipar
+  la contraria; verificar su vigencia.
+- **Construcción de la teoría del caso:** una narrativa coherente de hechos + derecho, sostenida
+  metodológicamente.
+- **Escritos bien estructurados:** demandas y alegatos con método (cuestión, fundamentos
+  validados, aplicación, conclusión) persuaden y resisten.
+
+## 15. Cómo aparece en un contrato
+
+- **Investigación previa a redactar:** verificar el marco legal aplicable (normas imperativas,
+  límites), precedentes sobre cláusulas similares y prácticas de mercado.
+- **Uso de precedentes y *templates*:** los despachos parten de modelos, pero el método exige
+  **adaptarlos** al caso y **validar** que reflejen la ley vigente (no copiar ciegamente).
+- **Verificación de fuentes citadas en el contrato:** que los artículos y leyes referidos estén
+  vigentes y bien citados.
+
+## 16. Cómo aparece en una empresa
+
+- **Memorandos internos y notas de riesgo:** el área legal produce análisis metódicos para la
+  toma de decisiones de negocio.
+- **Sistemas de gestión del conocimiento:** los despachos y áreas legales organizan
+  precedentes, modelos y *know-how* (gestión metodológica del conocimiento).
+- **Actualización normativa:** monitorear reformas que afectan a la empresa es metodología de
+  vigilancia jurídica.
+
+## 17. Cómo aparece en una operación de M&A
+
+La **due diligence** es metodología jurídica aplicada a escala industrial; este libro es su
+fundamento.
+
+- **El proceso de due diligence = método de investigación estructurado:** se define el **alcance**
+  (qué revisar), se solicita información (*request list*), se analiza el *data room*, se
+  **validan** títulos, contratos, permisos y litigios, y se reporta. Es investigación jurídica
+  sistemática.
+- **El reporte de due diligence = producto metodológico:** se organiza por áreas (corporativo,
+  contratos, laboral, fiscal, litigios, regulatorio), se **jerarquizan los hallazgos** por riesgo
+  (alto/medio/bajo) y se proponen **acciones** (condición de cierre, indemnidad, ajuste de
+  precio): IRAC aplicado a cada hallazgo.
+- **Legal opinions:** producto metodológico riguroso con estructura fija (*assumptions* →
+  *opinions* → *qualifications*); exige investigación y validación impecables.
+- **Memorandos de posición y de estructura:** análisis metódicos sobre cómo estructurar la
+  operación (fiscal, societaria, regulatoria) con sus fuentes validadas.
+- **Verificación de vigencia y de autorizaciones:** confirmar que normas, permisos y poderes
+  estén **vigentes** es metodología que evita desastres en el cierre.
+
+> **Cómo razona el socio:** "Una due diligence es una **investigación**: alcance claro, fuentes
+> validadas, hallazgos jerarquizados por riesgo y un reporte **accionable**. El asociado que
+> domina el método entrega trabajo confiable; el que no, expone al cliente y al despacho. El
+> método **es** la calidad."
+
+## 18. Cómo aparece en la práctica internacional
+
+- **Legal research multijurisdiccional:** coordinar la investigación del derecho de varias
+  jurisdicciones (con abogados locales) y consolidar los hallazgos.
+- **Estándares de legal writing y citación:** dominar el inglés jurídico, el formato de *memos*,
+  *briefs* y *opinions*, y sistemas de citación (*Bluebook*).
+- **Due diligence cross-border:** coordinar equipos en distintos países, con metodología
+  homogénea de alcance, validación y reporte.
+- **Verificación y uso responsable de *legal tech* e IA:** herramientas globales de investigación
+  y revisión, siempre con **verificación humana** de las fuentes.
+
+---
+
+## 19. Casos
+
+**Caso 1. Dictamen sobre una norma derogada.** Un abogado dictamina la validez de una operación
+citando un artículo **derogado** por una reforma reciente. *Análisis:* el dictamen es erróneo y
+puede constituir **malpráctica**; el cliente, confiando en él, asume un riesgo no detectado.
+Lección: **validar la vigencia** de toda norma citada es ineludible.
+
+**Caso 2. Tesis aislada presentada como jurisprudencia obligatoria.** En un litigio, una parte
+invoca una **tesis aislada** como si fuera jurisprudencia obligatoria. *Análisis:* el tribunal no
+está obligado por una tesis aislada; el error debilita la posición. Lección: distinguir el
+**valor** de cada criterio.
+
+**Caso 3. Hallazgo de due diligence bien jerarquizado.** En un *data room* se detecta que un
+permiso ambiental clave está **por vencer**. *Análisis:* el método exige reportarlo como riesgo
+**alto** y proponer una acción (renovación como condición de cierre o indemnidad específica).
+Lección: el valor del reporte está en la **jerarquización y la acción**, no en la mera lista.
+
+## 20. Preguntas abiertas
+
+1. ¿La IA jurídica transformará el método de investigación o solo lo acelerará, manteniendo la
+   responsabilidad humana de verificar?
+2. ¿Debe la investigación jurídica abrirse decididamente a métodos empíricos e
+   interdisciplinarios, o perdería su identidad dogmática?
+3. ¿El *case method* anglosajón forma mejores juristas que el método dogmático continental, o son
+   complementarios?
+4. ¿Cómo se garantiza la calidad y la ética metodológica frente a la presión de facturación y
+   velocidad de los despachos?
+5. ¿La estandarización de *templates* mejora la calidad o fomenta el "copiar y pegar" sin
+   análisis?
+
+## 21. Preguntas tipo examen (con respuesta modelo)
+
+**P1. Describa el proceso de investigación jurídica.** *R.* Comprender los **hechos** → identificar
+la **cuestión** jurídica → localizar las **fuentes** (legislación, jurisprudencia, doctrina) →
+**validar** su vigencia y jerarquía → interpretar y argumentar → **comunicar** una conclusión
+accionable.
+
+**P2. ¿Qué es IRAC?** *R.* Estructura de análisis y redacción: **I**ssue (cuestión), **R**ule
+(norma), **A**pplication (aplicación a los hechos) y **C**onclusion (conclusión). Ordena el
+pensamiento y el escrito jurídico.
+
+**P3. ¿Cómo se valida una fuente en México?** *R.* Confirmando que la **norma** esté vigente (no
+derogada/reformada; consultar la última versión) y que la **tesis** sea jurisprudencia
+obligatoria y esté vigente (no interrumpida/sustituida), distinguiéndola de la tesis aislada.
+
+**P4. Distinga método dogmático y método del caso.** *R.* El dogmático sistematiza e interpreta el
+derecho vigente desde la ley y los conceptos; el del caso (*case method*) extrae reglas y
+razonamientos del análisis de casos concretos. Hoy se combinan.
+
+**P5. ¿Qué características tiene un buen dictamen?** *R.* Parte de los hechos, identifica la
+cuestión, cita fuentes **vigentes y verificables**, analiza con rigor (argumentación y lógica),
+concluye de forma **accionable** y delimita supuestos y riesgos (*qualifications*).
+
+## 22. Casos complejos (nivel "socio")
+
+**Caso A. Diseño y conducción de una due diligence legal completa.** Tu cliente quiere adquirir
+una empresa manufacturera. Diseña la **metodología** de la due diligence: (i) define el
+**alcance** (áreas: corporativo, contratos, laboral, fiscal, ambiental, litigios, regulatorio,
+propiedad/garantías) y el **request list**; (ii) establece el método de **revisión del data
+room** y de **validación** (títulos inscritos, poderes vigentes, permisos al corriente,
+litigios); (iii) define cómo **jerarquizar hallazgos** por riesgo y cómo traducirlos en acciones
+(condición de cierre, indemnidad específica, ajuste de precio, *walk-right*); (iv) estructura el
+**reporte** (resumen ejecutivo + hallazgos por área con IRAC). Explica cómo el método garantiza
+que **nada crítico** se escape y que el cliente reciba un producto **accionable**.
+
+**Caso B. Investigación jurídica de una cuestión novedosa y dictamen.** El cliente pregunta si
+puede instrumentar una garantía sobre un activo digital (criptoactivo) conforme al derecho
+mexicano —cuestión con regulación incipiente—. Diseña la **investigación**: (i) hechos (qué
+activo, cómo se custodia, quién es titular); (ii) cuestión (¿es un bien?, ¿qué garantía cabe?,
+¿es oponible?); (iii) fuentes primarias (normas de bienes y garantías —Libro 6—, regulación
+fintech aplicable) validadas en su vigencia; (iv) doctrina y **derecho comparado** ante el vacío;
+(v) construcción de la respuesta con IRAC, distinguiendo lo claro de lo dudoso; (vi) redacción de
+un dictamen con conclusión accionable, supuestos y **advertencias** sobre el riesgo regulatorio.
+Justifica cada paso metodológico y la honestidad intelectual frente a la incertidumbre.
+
+---
+
+## 23. Flashcards
+
+- **¿Por dónde empieza el análisis jurídico?** → Por los **hechos**.
+- **¿IRAC?** → Issue, Rule, Application, Conclusion.
+- **¿Primer deber al citar una norma?** → Verificar su **vigencia** (no derogada/reformada).
+- **¿Jurisprudencia vs. tesis aislada?** → Obligatoria vs. orientadora.
+- **¿Método dogmático?** → Sistematizar e interpretar el derecho vigente como sistema.
+- **¿Case method?** → Aprender/analizar derecho a partir de casos concretos.
+- **¿Fuentes primarias vs. secundarias?** → El derecho mismo (ley, jurisprudencia) vs. lo que lo
+  comenta (doctrina).
+- **¿Qué es un dictamen accionable?** → El que dice al cliente **qué hacer**, con supuestos y
+  riesgos.
+- **¿Riesgo de la IA jurídica?** → Inventar fuentes; hay que **verificar todo**.
+- **¿Plagio?** → Usar ideas/textos ajenos sin atribución (falta ética).
+- **¿Estructura de una legal opinion?** → Assumptions → opinions → qualifications.
+- **¿Due diligence?** → Investigación jurídica estructurada con hallazgos jerarquizados por
+  riesgo.
+
+## 24. Mapas mentales
+
+```
+METODOLOGÍA JURÍDICA
+├── MÉTODOS DEL DERECHO
+│   ├── Dogmático/sistemático · exegético · histórico
+│   ├── Comparado · sociológico/empírico · económico
+│   └── Del caso (case method)
+├── ANÁLISIS DEL CASO (IRAC)
+│   └── Issue → Rule → Application → Conclusion
+├── PROCESO DE INVESTIGACIÓN
+│   ├── 1. Hechos → 2. Cuestión → 3. Localizar fuentes
+│   ├── 4. VALIDAR (vigencia/jerarquía) → 5. Interpretar/argumentar
+│   └── 6. Doctrina/comparado → 7. Construir → 8. Comunicar
+├── FUENTES (validar)
+│   ├── Primarias: legislación · jurisprudencia (¿vigente?)
+│   └── Secundarias: doctrina · comparado · soft law
+├── PRODUCTOS
+│   └── Dictamen · opinión · memorando · reporte de due diligence (accionables)
+└── ÉTICA
+    └── Citación · no plagio · verificación (también de la IA)
+```
+
+## 25. Cuadros comparativos
+
+**Método dogmático vs. método del caso**
+
+| | Dogmático (continental) | Case method (anglosajón) |
+|---|---|---|
+| Punto de partida | La ley y los conceptos | Los casos concretos |
+| Objetivo | Sistematizar el derecho vigente | Extraer reglas y razonamientos |
+| Producto típico | Tratado, dictamen | Análisis de casos, *briefs* |
+
+**Fuentes primarias vs. secundarias**
+
+| | Primarias | Secundarias |
+|---|---|---|
+| Qué son | El derecho mismo | Lo que lo comenta |
+| Ejemplos | Ley, jurisprudencia | Doctrina, manuales |
+| Valor | Vinculante (según jerarquía) | Persuasivo |
+
+**Jurisprudencia vs. tesis aislada (México)**
+
+| | Jurisprudencia | Tesis aislada |
+|---|---|---|
+| Valor | Obligatoria (según reglas) | Orientadora |
+| Origen | Reiteración/contradicción/precedente | Criterio individual |
+| Uso | Fundamento fuerte | Apoyo persuasivo |
+
+## 26. Mnemotecnias
+
+- **Análisis de casos:** **"IRAC"** → **I**ssue, **R**ule, **A**pplication, **C**onclusion.
+- **Orden de la investigación:** *"Hechos primero, fuentes validadas después, conclusión
+  accionable al final"*.
+- **Validar siempre:** *"¿está vigente la norma?, ¿está vigente la tesis?"*.
+- **Producto útil:** *"el cliente quiere saber qué hacer, no solo 'depende'"*.
+- **IA:** *"confía pero verifica" (la IA alucina fuentes)*.
+
+## 27. Checklist del jurista (producir un dictamen / due diligence)
+
+- [ ] **Hechos:** ¿los entendí completos y precisos?
+- [ ] **Cuestión:** ¿está formulada con precisión la pregunta jurídica?
+- [ ] **Fuentes localizadas:** ¿legislación, jurisprudencia y doctrina aplicables?
+- [ ] **Vigencia validada:** ¿la norma está vigente?, ¿la tesis no fue superada?
+- [ ] **Jerarquía:** ¿jerarquicé correctamente (federal/local, especial/general)?
+- [ ] **Análisis (IRAC):** ¿apliqué la norma a los hechos argumentando y con lógica?
+- [ ] **Conclusión accionable:** ¿digo qué hacer, con supuestos y riesgos?
+- [ ] **Jerarquización de riesgos** (due diligence): ¿alto/medio/bajo y acción propuesta?
+- [ ] **Citación y ética:** ¿fuentes citadas correctamente?, ¿sin plagio?, ¿verifiqué lo de la
+  IA?
+- [ ] **Claridad:** ¿el documento es claro, estructurado y profesional?
+
+## 28. Resumen ejecutivo
+
+La metodología jurídica es el **oficio** que convierte el conocimiento del derecho en
+**productos profesionales** —dictámenes, opiniones, memorandos, reportes de due diligence,
+contratos—. Enseña el **proceso completo**: investigar (comprender los **hechos**, identificar la
+**cuestión**, localizar y **validar** las fuentes en su vigencia y jerarquía), analizar
+(interpretar y argumentar con rigor lógico, estructurando con **IRAC**) y comunicar (un producto
+claro, con fuentes verificables y conclusión **accionable**, delimitando supuestos y riesgos).
+Distingue y combina los **métodos** del derecho (dogmático, del caso, histórico, comparado,
+económico, empírico) según el problema, y exige **honestidad intelectual** (citación, no plagio,
+verificación —incluida la de las herramientas de IA, que pueden inventar fuentes—).
+
+Para el abogado corporativo, este es el método de trabajo diario: la **due diligence** es
+investigación jurídica estructurada con hallazgos jerarquizados por riesgo y acciones
+propuestas; la **legal opinion** es un producto metodológico riguroso; el **dictamen** debe
+partir de los hechos, citar fuentes vigentes y concluir de forma accionable. El error metodológico
+—opinar sin hechos, citar normas derogadas, confundir tesis aislada con jurisprudencia— es
+malpráctica. Dominar el método es lo que separa al estudiante que "sabe derecho" del **profesional
+que produce trabajo confiable**. Con este libro cierra el Nivel I: tienes ya las piezas, el
+sistema, el poder, el acto, la persona, los bienes, las obligaciones, los contratos, el contexto
+económico, la argumentación, la lógica y el método. **Estás listo para profundizar.**
+
+## 29. Bibliografía
+
+**Doctrina mexicana (prioritaria):**
+- Witker, Jorge, *Metodología Jurídica* y *Cómo elaborar una tesis en derecho*.
+- Fix-Zamudio, Héctor, *Metodología, docencia e investigación jurídicas*.
+- Rodríguez Cepeda, Bartolo Pablo, *Metodología Jurídica*.
+- Villoro Toranzo, Miguel, *Metodología del trabajo jurídico*.
+
+**Doctrina comparada:**
+- Larenz, Karl, *Metodología de la ciencia del derecho*.
+- Manuales de *legal research* y *legal writing* (tradición anglosajona); *The Bluebook* (sistema
+  de citación).
+
+**Fuentes para la práctica (México):**
+- Diario Oficial de la Federación; portales legislativos federales y estatales.
+- Semanario Judicial de la Federación y sistemas de jurisprudencia de la SCJN.
+- Instituto de Investigaciones Jurídicas de la UNAM (doctrina y revistas).
+
+## 30. Ruta para continuar
+
+**Has terminado el Nivel I (Fundamentos).** Tienes la **arquitectura mental** completa del
+derecho: comprendes *por qué* existen las instituciones, cómo opera el sistema, quién ejerce el
+poder, cómo se crean y deshacen los actos y contratos, cómo circula la riqueza y las
+obligaciones, y cómo razonar, argumentar e investigar con método. Esta base es lo que sostendrá
+todo lo demás.
+
+- **Siguiente nivel:** *[Nivel II · Derecho Civil Profundo](../Nivel-II-Derecho-Civil-Profundo/)*,
+  donde **expandiremos** (sin repetir) las obligaciones, los contratos en particular, la
+  responsabilidad civil y las garantías, conectándolos con criterios jurisprudenciales y casos.
+- **Conexión inmediata:** el método y la argumentación que cierran este nivel serán tu
+  herramienta en cada caso del Nivel II.
+- **Conexión de largo alcance:** vuelve a las secciones 17 y 22 cuando llegues a Due Diligence
+  (Nivel IV): la metodología es su esqueleto.
+
+> *"El método no sustituye al talento, pero el talento sin método se desperdicia."* Has forjado
+> los cimientos de un jurista. Ahora, sobre esta base sólida, empezaremos a construir al
+> **abogado corporativo de élite** que te propusiste ser.
