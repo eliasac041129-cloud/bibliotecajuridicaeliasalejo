@@ -20,7 +20,7 @@ integridad. Este archivo es el tablero de control.
 | 8 | Contratos (parte general) | ✅ |
 | 9 | Historia del Pensamiento Jurídico y Económico | ✅ |
 | 10 | Economía para juristas | ✅ |
-| 11 | Argumentación Jurídica | ⬜ |
+| 11 | Argumentación Jurídica | ✅ |
 | 12 | Lógica Jurídica | ⬜ |
 | 13 | Metodología Jurídica | ⬜ |
 

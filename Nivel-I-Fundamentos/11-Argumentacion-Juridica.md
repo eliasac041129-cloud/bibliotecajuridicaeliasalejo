@@ -352,3 +352,303 @@ es **funcional**: cada palabra sirve a la persuasión.
 - *"¿Cómo se argumenta la interpretación conforme y el principio pro persona?"*
 
 ---
+
+
+## 14. Cómo aparece en un juicio
+
+- **El proceso entero es un duelo argumentativo:** demanda (pretensión + fundamentos),
+  contestación (defensas + refutación), alegatos (síntesis persuasiva), sentencia (motivación).
+- **Subsunción y prueba de los hechos:** el actor debe argumentar que los hechos probados encajan
+  en el supuesto de la norma; el demandado, lo contrario.
+- **Interpretación de la norma/cláusula controvertida:** cada parte propone el tipo de argumento
+  que le favorece (literal vs. teleológico).
+- **Ponderación en amparo:** en conflictos de derechos, el tribunal aplica proporcionalidad.
+- **Control de la motivación:** una sentencia mal motivada (sin razones suficientes) es
+  recurrible; la argumentación es **garantía** contra la arbitrariedad.
+
+## 15. Cómo aparece en un contrato
+
+- **Considerandos y "recitals":** argumentan el **propósito** del contrato, lo que guía su
+  interpretación teleológica.
+- **Definiciones y cláusulas de interpretación:** controlan anticipadamente cómo se argumentará
+  el sentido (reducen el margen de disputa).
+- **Cláusulas de motivación de decisiones:** en contratos que otorgan discrecionalidad (p. ej.,
+  un *waiver*), exigir que se **funde** la decisión limita la arbitrariedad.
+- **Memorandos de posición:** en disputas contractuales, las partes intercambian escritos
+  argumentativos antes de litigar o arbitrar.
+
+## 16. Cómo aparece en una empresa
+
+- **Opiniones jurídicas internas:** el área legal argumenta la viabilidad y los riesgos de
+  decisiones de negocio.
+- **Defensa regulatoria:** ante COFECE, CNBV o el SAT, la empresa argumenta el cumplimiento o la
+  improcedencia de una sanción.
+- **Actas y resoluciones del consejo:** las decisiones relevantes se **motivan** para sustentar
+  el cumplimiento del deber de diligencia (gobierno corporativo).
+- **Comunicación persuasiva al consejo:** convencer al órgano de administración exige argumentos
+  claros (riesgo, beneficio, alternativas).
+
+## 17. Cómo aparece en una operación de M&A
+
+La argumentación es transversal a todo el *deal*:
+
+- **Legal opinions del cierre:** los abogados emiten opiniones **argumentadas** de validez,
+  *due authorization* y *enforceability* del SPA y los contratos accesorios. Es argumentación
+  formal de alto nivel (con sus *assumptions* y *qualifications*).
+- **Memorandos de due diligence:** se **argumenta** el nivel de riesgo de cada hallazgo (alto,
+  medio, bajo) y su impacto; el cliente decide con base en ese razonamiento.
+- **Negociación del SPA:** cada cláusula se sostiene con un argumento ("este *cap* es de mercado
+  **porque**..."; "esta *rep* debe limitarse a *knowledge* **porque** el vendedor no puede
+  garantizar lo que no controla"). Ganar puntos de negociación es argumentar mejor.
+- **Posiciones en disputas post-closing:** los *claims* de indemnización se ganan con argumentos
+  sobre interpretación de *reps*, materialidad y daños (Libros 7 y 8 + argumentación).
+- **Fairness y proceso (deberes fiduciarios):** los administradores **motivan** su recomendación
+  de aceptar/rechazar una oferta para cumplir su deber de diligencia (sustento argumentativo).
+
+> **Cómo razona el socio:** "Toda mi labor es **argumentar**: por qué la operación es válida
+> (opinion), por qué este riesgo es asumible (due diligence memo), por qué esta cláusula
+> protege a mi cliente (negociación), por qué tenemos razón en el *claim* (disputa). El abogado
+> que argumenta con claridad, convergencia de razones y anticipación del contrario, gana."
+
+## 18. Cómo aparece en la práctica internacional
+
+- **Legal opinions internacionales:** estructura estandarizada (*assumptions*, *opinions*,
+  *qualifications*); piezas argumentativas que asignan responsabilidad profesional.
+- **Memoriales de arbitraje internacional:** escritos extensos y sofisticados; la **calidad
+  argumentativa** decide laudos millonarios.
+- **Diálogo civil law / common law:** el abogado debe argumentar tanto por **principios y fines**
+  (civil) como por **precedente y analogía de casos** (common law), según el foro.
+- **Proporcionalidad como lenguaje global:** en derechos humanos e inversión, el test de
+  proporcionalidad es lingua franca argumentativa ante tribunales internacionales.
+
+---
+
+## 19. Casos
+
+**Caso 1. Convergencia de argumentos vence a la literalidad aislada.** Una cláusula, leída
+literalmente, favorece a la parte A; pero su finalidad, el contexto del contrato (sistemática) y
+la conducta de las partes apuntan al sentido que favorece a B. *Análisis:* B **acumula**
+argumentos (teleológico + sistemático + conducta + buena fe) que superan la lectura literal
+aislada de A. Lección: la convergencia persuade más que un solo argumento fuerte.
+
+**Caso 2. Detección de una falacia en el contrario.** La contraparte argumenta: "aceptar tu
+interpretación abriría la puerta a fraudes masivos" (pendiente resbaladiza) y "además, tu
+abogado siempre pierde estos casos" (ad hominem). *Análisis:* ambos son **falaces**; se desmonta
+mostrando que no hay nexo necesario hacia el "fraude masivo" y que la calidad del abogado es
+irrelevante para la validez del argumento. Lección: nombrar la falacia la neutraliza.
+
+**Caso 3. Ponderación de principios.** Una regulación limita la libertad de empresa para
+proteger a los consumidores. *Análisis:* se aplica proporcionalidad: ¿la medida es **idónea**
+para proteger al consumidor?, ¿es **necesaria** (no hay medio menos lesivo)?, ¿es
+**proporcional** en sentido estricto? El resultado depende del peso de cada principio en el
+caso.
+
+## 20. Preguntas abiertas
+
+1. ¿La ponderación es un método racional o encubre decisiones subjetivas del juez?
+2. ¿Existe una "única respuesta correcta" (Dworkin) o el juez siempre tiene discrecionalidad
+   (Hart)?
+3. ¿Hasta dónde es legítimo el uso del *pathos* (emoción) en la argumentación jurídica?
+4. ¿El argumento económico (eficiencia) debe tener el mismo peso que los argumentos de justicia?
+5. ¿La IA generativa cambiará la argumentación jurídica, y cómo se controla su corrección?
+
+## 21. Preguntas tipo examen (con respuesta modelo)
+
+**P1. Distinga justificación interna y externa.** *R.* La interna verifica que la conclusión se
+**siga lógicamente** de las premisas (validez deductiva); la externa justifica las **premisas
+mismas** (por qué esa norma, esa interpretación, esos hechos). Los casos difíciles se deciden en
+la externa.
+
+**P2. ¿Qué es el silogismo jurídico y por qué es insuficiente?** *R.* Razonamiento subsuntivo
+(norma + hechos → consecuencia). Es insuficiente en casos difíciles porque no justifica la
+elección e interpretación de las premisas (ambigüedad, lagunas, principios en conflicto).
+
+**P3. Explique el test de proporcionalidad.** *R.* Tres subprincipios: **idoneidad** (la medida
+sirve al fin legítimo), **necesidad** (no hay medio igualmente eficaz menos lesivo) y
+**proporcionalidad en sentido estricto** (el beneficio justifica el sacrificio del otro
+principio).
+
+**P4. Dé tres tipos de argumento interpretativo.** *R.* Por ejemplo: **teleológico** (por la
+finalidad de la norma), **a fortiori** (si se prohíbe lo menos, con mayor razón lo más) y
+**ad absurdum** (rechazar la interpretación que lleva al absurdo).
+
+**P5. ¿Qué es una falacia ad hominem?** *R.* Atacar a la persona que argumenta en lugar de
+refutar su argumento; es irrelevante para la validez de este y, por tanto, falaz.
+
+## 22. Casos complejos (nivel "socio")
+
+**Caso A. Construcción de una legal opinion sobre la validez y exigibilidad de un SPA.** Debes
+emitir una opinión jurídica de que el SPA es "válido, vinculante y exigible" conforme a derecho
+mexicano. Estructura el documento argumentativamente: (i) **assumptions** (lo que das por cierto
+sin verificar: autenticidad de firmas, capacidad de la otra parte); (ii) los **fundamentos** de
+cada conclusión (existencia y validez del acto —Libro 4—, facultades —Libro 5—, licitud del
+objeto, cumplimiento de autorizaciones); (iii) las **qualifications** (excepciones: concurso,
+orden público, discrecionalidad judicial en *specific performance*); (iv) la **conclusión**
+cualificada. Explica por qué cada eslabón debe argumentarse y blindarse, y cómo la opinión
+asigna **responsabilidad profesional**.
+
+**Caso B. Batalla argumentativa en un claim de indemnización post-closing.** El comprador
+reclama indemnización por una *rep* supuestamente falsa ("no hay litigios materiales"). El
+vendedor responde que (i) el litigio fue **revelado** en la *disclosure schedule*; (ii) no es
+"material" según la definición pactada; (iii) el daño no es consecuencia directa (Libro 7).
+Construye el argumento de **cada parte** usando: interpretación de la *rep* y de "material"
+(literal, sistemática con definiciones, contra proferentem), el efecto de la *disclosure* (¿
+excluye el dolo/error?), la causalidad del daño (art. 2110) y la carga de la prueba. Anticipa y
+refuta el mejor contraargumento de cada lado. Determina qué posición es **más fuerte** y por qué.
+
+---
+
+## 23. Flashcards
+
+- **¿Qué es un argumento?** → Premisas que apoyan una conclusión mediante una inferencia.
+- **¿Silogismo jurídico?** → Norma (mayor) + hechos (menor) → consecuencia (conclusión).
+- **¿Justificación interna vs. externa?** → La conclusión se sigue de las premisas vs.
+  justificar las premisas.
+- **¿Caso difícil?** → Norma ambigua, laguna, antinomia o conflicto de principios.
+- **¿Tres medios de persuasión (Aristóteles)?** → Ethos, pathos, logos.
+- **¿Argumento a fortiori?** → Si vale para lo menos, con mayor razón para lo más.
+- **¿Argumento ad absurdum?** → Rechazar la interpretación que lleva a un resultado absurdo.
+- **¿Principios vs. reglas?** → Reglas: todo o nada; principios: se ponderan (mandatos de
+  optimización).
+- **¿Subprincipios de proporcionalidad?** → Idoneidad, necesidad, proporcionalidad en sentido
+  estricto.
+- **¿Falacia ad hominem?** → Atacar a la persona, no al argumento.
+- **¿Hombre de paja?** → Refutar una versión deformada del argumento contrario.
+- **¿Deber del art. 16?** → Fundamentación (norma) y motivación (razones) de los actos de
+  autoridad.
+
+## 24. Mapas mentales
+
+```
+ARGUMENTACIÓN JURÍDICA
+├── EL DERECHO COMO PRÁCTICA ARGUMENTATIVA (razón práctica)
+├── ESTRUCTURA DEL ARGUMENTO
+│   ├── Silogismo jurídico (justificación interna)
+│   ├── Justificación externa (justificar las premisas)
+│   └── Modelo de Toulmin (datos, garantía, respaldo, refutación)
+├── TIPOS DE ARGUMENTO
+│   ├── Literal · sistemático · histórico · teleológico
+│   ├── Analógico (a pari) · a contrario · a fortiori · ad absurdum
+│   ├── De autoridad (doctrina/jurisprudencia) · de principios
+│   └── Consecuencialista (incl. económico)
+├── PRINCIPIOS Y PONDERACIÓN
+│   ├── Reglas (subsunción) vs. principios (ponderación)
+│   └── PROPORCIONALIDAD: idoneidad · necesidad · prop. estricta
+├── FALACIAS
+│   └── Ad hominem · falso dilema · hombre de paja · petición de principio · pendiente
+│       resbaladiza
+└── ESCRITURA PERSUASIVA
+    └── Cuestión → tesis → fundamentos → refutación → conclusión
+```
+
+## 25. Cuadros comparativos
+
+**Justificación interna vs. externa**
+
+| | Interna | Externa |
+|---|---|---|
+| Qué verifica | Validez lógica (conclusión ← premisas) | Corrección de las premisas |
+| Herramienta | Silogismo | Tipos de argumento, ponderación |
+| Importa en | Casos fáciles | Casos difíciles |
+
+**Reglas vs. principios**
+
+| | Reglas | Principios |
+|---|---|---|
+| Aplicación | Subsunción (todo o nada) | Ponderación (gradual) |
+| Conflicto | Se excluyen / antinomia | Se sopesan (peso en el caso) |
+| Método | Silogismo | Proporcionalidad |
+
+**Tipos de argumento (selección)**
+
+| Argumento | Idea | Fuerza |
+|---|---|---|
+| Literal | "la ley dice X" | Alta si el texto es claro |
+| Teleológico | "la finalidad es Y" | Muy persuasivo |
+| A fortiori | "con mayor razón" | Sólido |
+| Ad absurdum | "lleva al absurdo" | Defensivo potente |
+| Económico | "mejores incentivos/efectos" | Creciente en lo corporativo |
+
+## 26. Mnemotecnias
+
+- **Persuasión (Aristóteles):** **"EPL"** → **E**thos, **P**athos, **L**ogos.
+- **Proporcionalidad:** **"I-N-P"** → **I**doneidad, **N**ecesidad, **P**roporcionalidad
+  estricta.
+- **Estructura del escrito:** **"C-T-F-R-C"** → **C**uestión, **T**esis, **F**undamentos,
+  **R**efutación, **C**onclusión.
+- **Argumentar, no afirmar:** *"toda conclusión necesita su 'porque'"*.
+- **Convergencia:** *"un argumento convence; tres, ganan"*.
+
+## 27. Checklist del jurista (construcción de un argumento/escrito)
+
+- [ ] **Cuestión:** ¿está identificada con precisión la pregunta jurídica?
+- [ ] **Tesis:** ¿la respuesta/posición está clara y al frente?
+- [ ] **Justificación interna:** ¿la conclusión se sigue de las premisas (norma + hechos)?
+- [ ] **Justificación externa:** ¿están justificadas la interpretación de la norma y los
+  hechos?
+- [ ] **Convergencia:** ¿uso varios tipos de argumento que apuntan a lo mismo?
+- [ ] **Contraargumento:** ¿anticipo y **refuto** la mejor objeción?
+- [ ] **Falacias:** ¿evito falacias y detecto las del contrario?
+- [ ] **Principios:** si hay conflicto, ¿aplico ponderación/proporcionalidad?
+- [ ] **Claridad:** ¿el escrito es claro, ordenado y conciso?
+- [ ] **Cierre:** ¿la conclusión responde la cuestión y es proporcional a lo argumentado?
+
+## 28. Resumen ejecutivo
+
+El derecho es una **práctica argumentativa**: las decisiones jurídicas no se "calculan", se
+**justifican** y se **persuade** de ellas. Este libro enseña la técnica de razonar y convencer.
+El modelo básico es el **silogismo jurídico** (norma + hechos → consecuencia), que solo cubre la
+**justificación interna**; el trabajo real está en la **justificación externa** —justificar la
+elección e interpretación de la norma y la determinación de los hechos—, que se realiza con un
+**arsenal de argumentos** (literal, sistemático, teleológico, analógico, a contrario, a
+fortiori, ad absurdum, de autoridad, de principios y consecuencialista/económico). En el Estado
+constitucional, los conflictos de **principios** se resuelven por **ponderación** y el **test de
+proporcionalidad** (idoneidad, necesidad, proporcionalidad estricta). El jurista de élite
+acumula argumentos **convergentes**, **anticipa y refuta** el contrario, detecta y desmonta
+**falacias**, y escribe con **claridad persuasiva**.
+
+Para el abogado corporativo, esta es la habilidad transversal por excelencia: sustenta las
+**legal opinions**, los **memorandos de due diligence**, la **negociación** del SPA cláusula por
+cláusula y los **claims** post-closing, además del deber constitucional de **fundar y motivar**
+(art. 16) y los estándares de **interpretación conforme** y **pro persona** (art. 1º). Quien
+argumenta mejor —con estructura, convergencia de razones, anticipación del contrario y
+claridad— gana negociaciones, convence a consejos y prevalece en disputas. La argumentación es,
+literalmente, el oficio del jurista en acción.
+
+## 29. Bibliografía
+
+**Doctrina (prioritaria en español):**
+- Atienza, Manuel, *Las razones del derecho* y *Curso de argumentación jurídica*.
+- Perelman, Chaïm, *Tratado de la argumentación. La nueva retórica*.
+- Alexy, Robert, *Teoría de la argumentación jurídica* y *Teoría de los derechos
+  fundamentales* (proporcionalidad).
+
+**Doctrina comparada y clásica:**
+- Aristóteles, *Retórica* y *Tópicos*.
+- Viehweg, Theodor, *Tópica y Jurisprudencia*.
+- Toulmin, Stephen, *Los usos de la argumentación*.
+- MacCormick, Neil, *Razonamiento jurídico y teoría del derecho*.
+- Dworkin, Ronald, *Los derechos en serio* (principios).
+
+**Práctica:**
+- Manuales de escritura jurídica y de redacción de opiniones (legal writing).
+
+**Legislación:**
+- Constitución, arts. 1º (interpretación conforme, pro persona) y 16 (fundamentación y
+  motivación).
+
+## 30. Ruta para continuar
+
+Ya sabes **argumentar**. Ahora afinaremos la herramienta que da rigor al argumento: la lógica.
+
+- **Siguiente libro:** *Lógica Jurídica* (Nivel I, Libro 12): inferencia, validez, lógica
+  deóntica (del deber ser), la estructura lógica de las normas y los razonamientos, y los errores
+  formales.
+- **Conexión inmediata:** la **justificación interna** (validez deductiva) que viste aquí es,
+  precisamente, el objeto de la lógica jurídica.
+- **Conexión de largo alcance:** vuelve a las secciones 17 y 22 cuando redactes legal opinions y
+  negocies un SPA (Nivel IV): allí la argumentación es tu instrumento diario.
+
+> *"El que solo sabe derecho, ni derecho sabe."* Y el que sabe derecho pero no sabe
+> **argumentarlo**, no puede defenderlo. La diferencia entre tener razón y **hacer valer** tu
+> razón es la argumentación: domínala y serás escuchado en cualquier mesa.
