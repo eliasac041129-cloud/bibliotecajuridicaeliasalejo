@@ -606,3 +606,174 @@ concepto de grupo/unidad económica en materia laboral, fiscal y de competencia;
 indemnidades específicas y reestructuras pre-cierre mitigan el riesgo; y cómo se valúa y
 asigna contractualmente esa contingencia. ¿Conviene un *share deal* o un *asset deal* para
 aislar el riesgo?
+
+
+---
+
+## 23. Flashcards
+
+- **¿Dos clases de persona?** → Física (ser humano) y moral (ente creado por el derecho).
+- **¿Atributos de la persona física?** → Nombre, domicilio, estado civil, patrimonio,
+  capacidad, nacionalidad.
+- **¿Atributo que la persona moral NO tiene?** → Estado civil.
+- **¿Capacidad de goce?** → Aptitud para ser titular de derechos; la tiene toda persona.
+- **¿Capacidad de ejercicio?** → Aptitud para actuar por sí; falta en menores e incapaces.
+- **¿Cómo actúa la persona moral?** → Por sus órganos (asamblea, consejo/administrador,
+  vigilancia) y apoderados.
+- **¿Qué es el objeto social?** → Actividades para las que se creó; delimita su
+  capacidad/facultades.
+- **¿Patrimonio vs. capital social?** → Patrimonio = activos/pasivos reales; capital = cifra
+  estatutaria.
+- **¿El socio es dueño de los bienes sociales?** → No; es titular de acciones/partes
+  sociales.
+- **¿Cuándo es mexicana una sociedad?** → Constituida conforme a leyes mexicanas y con
+  domicilio en México.
+- **¿Levantamiento del velo?** → Ignorar la separación de personalidades por fraude o abuso.
+- **¿Caso fundacional de la separación (common law)?** → *Salomon v. Salomon* (1897).
+- **¿*Societas delinquere potest* hoy en México?** → Sí: las personas morales pueden ser
+  penalmente responsables.
+
+## 24. Mapas mentales
+
+```
+PERSONA (sujeto de derecho)
+├── PERSONA FÍSICA
+│   ├── Inicio: nacimiento (protección del concebido)
+│   ├── Fin: muerte
+│   └── Atributos: nombre · domicilio · estado civil · patrimonio · capacidad · nacionalidad
+├── PERSONA MORAL
+│   ├── Naturaleza: ficción (Savigny) / realidad-órgano (Gierke) / patrimonio (Brinz)
+│   ├── Inicio: constitución + inscripción (mercantiles)
+│   ├── Fin: disolución y liquidación
+│   ├── Atributos: denominación/razón social · domicilio · patrimonio · capacidad · nacionalidad
+│   ├── Actúa por: ÓRGANOS (asamblea, consejo/administrador, vigilancia) + apoderados
+│   ├── Límite de capacidad: OBJETO SOCIAL (ultra vires)
+│   └── Separación patrimonial → responsabilidad limitada
+│       └── Excepción: LEVANTAMIENTO DEL VELO (fraude/abuso)
+└── CAPACIDAD
+    ├── De goce (todos)
+    └── De ejercicio (mayores capaces) ─falta→ representación (legal/orgánica/voluntaria)
+```
+
+**Puente con M&A:**
+`persona moral = la target` · `atributos → reps de organización y good standing`
+`capacidad/facultades → due authorization + poderes` · `nacionalidad → inversión extranjera`
+`separación patrimonial → estructura de holding` · `velo → contingencias cruzadas`.
+
+## 25. Cuadros comparativos
+
+**Persona física vs. persona moral**
+
+| Atributo | Persona física | Persona moral |
+|---|---|---|
+| Nombre | Nombre y apellidos | Denominación / razón social |
+| Estado civil | Sí | No |
+| Patrimonio | Sí | Sí (propio, separado del de socios) |
+| Capacidad | Goce y ejercicio (según edad/estado) | Goce y ejercicio por órganos, limitada por objeto |
+| Nacionalidad | Sí | Sí (lugar de constitución) |
+| Inicio / fin | Nacimiento / muerte | Constitución / liquidación |
+
+**Capacidad de goce vs. de ejercicio**
+
+| | Goce | Ejercicio |
+|---|---|---|
+| Definición | Ser titular de derechos | Ejercerlos por sí mismo |
+| Quién la tiene | Toda persona | Mayores de edad capaces |
+| Falta | No existe (toda persona la tiene) | Menores, incapaces → representante |
+| Efecto en el acto | — | Su falta = nulidad relativa |
+
+**Razón social vs. denominación**
+
+| | Razón social | Denominación |
+|---|---|---|
+| Formación | Con nombres de socios | Libre / de fantasía |
+| Típica de | Sociedades de personas (S. en N.C.) | Sociedad anónima |
+| Responsabilidad asociada | Suele implicar responsabilidad de socios nombrados | Limitada (S.A.) |
+
+## 26. Mnemotecnias
+
+- **Atributos de la persona física:** **"NA-DO-EC-PA-CA-NA"** → **NA**mbre/Nombre,
+  **DO**micilio, **E**stado **C**ivil, **PA**trimonio, **CA**pacidad, **NA**cionalidad.
+- **La moral no tiene estado civil:** *"las empresas no se casan"*.
+- **Órganos de la S.A.:** **"A-C-V"** → **A**samblea, **C**onsejo (administración),
+  **V**igilancia.
+- **Tipos de representación:** **"LOV"** → **L**egal, **O**rgánica, **V**oluntaria.
+- **Velo corporativo:** *"separados, salvo fraude"*.
+
+## 27. Checklist del jurista (verificación de una persona moral)
+
+- [ ] **Existencia:** acta constitutiva e inscripción en el Registro Público de Comercio.
+- [ ] **Vigencia:** que no esté disuelta/liquidada; duración estatutaria.
+- [ ] **Objeto social:** ¿cubre el acto que va a realizar?
+- [ ] **Capital y socios:** libro de registro de accionistas; estructura accionaria real.
+- [ ] **Órganos:** ¿quiénes integran el consejo/administración?, ¿comisario?
+- [ ] **Facultades del firmante:** poder (escritura, notario, fecha), tipo (administración/
+  dominio/títulos/pleitos), suficiencia y **vigencia** (no revocado).
+- [ ] **Autorizaciones internas:** resoluciones del consejo/asamblea que aprueban el acto.
+- [ ] **Nacionalidad e inversión extranjera:** ¿hay capital foráneo?, ¿sector restringido?,
+  ¿registro RNIE?
+- [ ] **Riesgo de velo:** ¿hay confusión patrimonial, infracapitalización, grupo/unidad
+  económica?
+- [ ] **Beneficiario final:** identificación del *ultimate beneficial owner* (compliance).
+
+## 28. Resumen ejecutivo
+
+La persona es el **sujeto del derecho**: el centro al que se imputan derechos y obligaciones.
+Hay dos clases: la **persona física** (el ser humano, con personalidad desde el nacimiento y
+todos los atributos, incluido el estado civil) y la **persona moral** (ente creado por el
+derecho, distinto de sus miembros). La persona moral es la herramienta capital del derecho de
+los negocios: tiene **patrimonio, nombre, domicilio, nacionalidad y capacidad propios**, actúa
+por sus **órganos** (teoría del órgano) dentro de su **objeto social**, y su **separación
+patrimonial** funda la **responsabilidad limitada** —la innovación que hizo posible el
+capitalismo de inversión—. Esa separación tiene un límite: el **levantamiento del velo** en
+casos de fraude o abuso.
+
+La **capacidad** se desdobla en goce (ser titular, la tiene toda persona) y ejercicio (actuar
+por sí; falta en menores e incapaces, que actúan por **representante**). Para el abogado
+corporativo, este libro es el primer capítulo de toda due diligence: verificar que la
+sociedad **existe** y está bien constituida, que **es dueña** de lo que vende, que **quien
+firma puede obligarla** (cadena de facultades), y que su **nacionalidad** y estructura
+respetan la regulación. Dominar la persona moral —sus atributos, su forma de actuar y los
+límites de su separación patrimonial— es dominar el cimiento sobre el que se levantan la
+empresa, las sociedades y las operaciones de M&A.
+
+## 29. Bibliografía
+
+**Doctrina mexicana:**
+- Rojina Villegas, Rafael, *Derecho Civil Mexicano*, t. I, Porrúa.
+- Galindo Garfias, Ignacio, *Derecho Civil. Primer Curso*, Porrúa.
+- Domínguez Martínez, Jorge Alfredo, *Derecho Civil. Parte general, personas, cosas...*,
+  Porrúa.
+- Barrera Graf, Jorge, *Instituciones de Derecho Mercantil* (persona moral mercantil).
+- Mantilla Molina, Roberto, *Derecho Mercantil*.
+
+**Doctrina comparada y teórica:**
+- Savigny, F. C. von (teoría de la ficción); Gierke, Otto von (teoría del órgano/realidad).
+- *Salomon v. Salomon & Co. Ltd.* [1897] (Reino Unido), sobre separación de personalidad.
+
+**Legislación:**
+- Código Civil Federal: arts. 22-32 y 35 y ss. (verificar el código de la entidad
+  aplicable).
+- Ley General de Sociedades Mercantiles (personalidad, órganos, responsabilidad).
+- Ley de Inversión Extranjera (nacionalidad y límites).
+- Código Nacional de Procedimientos Penales, arts. 421 y ss. (responsabilidad penal de
+  personas morales).
+
+## 30. Ruta para continuar
+
+Ya tienes al sujeto (persona) y al acto que celebra (acto jurídico). Falta el **objeto** sobre
+el que recaen sus derechos: las cosas y los bienes.
+
+- **Siguiente libro:** *Bienes y Derechos Reales* (Nivel I, Libro 6): clasificación de los
+  bienes, propiedad, posesión, copropiedad, derechos reales y de garantía (prenda, hipoteca,
+  fideicomiso de garantía). Es la base del **patrimonio** que aquí estudiaste como atributo y
+  de las garantías del financiamiento corporativo.
+- **Conexión inmediata:** el **patrimonio** (atributo de la persona) es el conjunto de bienes
+  y derechos que el siguiente libro analiza en detalle.
+- **Conexión de largo alcance:** vuelve a las secciones 5.2 y 17 cuando estudies Sociedades
+  (LGSM, Nivel III) y Due Diligence (Nivel IV): la persona moral es su protagonista.
+
+> *"La persona moral es la máscara más poderosa jamás inventada por el derecho."* Tras ella
+> opera la empresa moderna. Aprende a mirar **quién** está detrás (los beneficiarios), **con
+> qué patrimonio** responde y **quién** puede hablar en su nombre: ahí reside buena parte del
+> arte del abogado corporativo.
