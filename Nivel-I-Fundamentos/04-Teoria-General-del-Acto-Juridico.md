@@ -465,3 +465,179 @@ estatales). Mapa de artículos esenciales:
 > identifiques el **interés protegido** por cada tipo de ineficacia.
 
 ---
+
+
+## 14. Cómo aparece en un juicio
+
+- **Acción de nulidad:** el pleito típico. El actor pide declarar la nulidad (absoluta o
+  relativa) y las **restituciones** consiguientes (arts. 2239–2242 CCF: las partes se
+  devuelven lo recibido). La calificación correcta del tipo de nulidad define legitimación,
+  prescripción y posibilidad de convalidación.
+- **Excepción de nulidad:** el demandado por cumplimiento puede excepcionar que el contrato
+  es nulo. Defensa frecuente en juicios mercantiles de cobro.
+- **Prueba del vicio:** quien alega dolo, error o violencia debe **probarlo** (carga de la
+  prueba). En dolo, demostrar el artificio y su carácter **determinante**.
+- **Prescripción de la acción de nulidad relativa:** corre desde que cesa el vicio
+  (violencia) o se conoce el error/dolo; pasado el plazo, el acto queda convalidado. Litigar
+  esto exige precisión en fechas.
+- **Falta o exceso de representación:** se discute la eficacia del acto frente al
+  "representado" y la posible ratificación tácita por actos propios.
+
+## 15. Cómo aparece en un contrato
+
+Aquí la teoría se vuelve cláusula. En un contrato bien redactado verás:
+
+- **Declaraciones (*representations*):** cada parte declara que tiene **capacidad** y
+  **facultades** suficientes (existencia y validez del acto). Es el primer bloque de todo
+  contrato serio.
+- **Cláusula de inexistencia/nulidad y salvaguarda (*severability*):** si una cláusula es
+  nula, las demás subsisten (busca aislar el vicio para no contaminar todo el acto).
+- **Condiciones suspensivas y resolutorias:** modalidades del acto que sujetan la eficacia a
+  hechos futuros e inciertos (autorizaciones, etc.).
+- **Forma:** la cláusula que exige que las modificaciones consten por escrito y, en su caso,
+  ante notario o en escritura pública.
+- **Cláusula de no dependencia (*non-reliance*) y de declaraciones:** delimita qué
+  manifestaciones cuentan, para controlar el riesgo de **error/dolo** por declaraciones
+  extracontractuales.
+- **Vicios y remedios:** el contrato puede pactar consecuencias de declaraciones falsas
+  (indemnización), articulando contractualmente lo que la ley trata como dolo/error.
+
+## 16. Cómo aparece en una empresa
+
+- **Actos corporativos como actos jurídicos:** la constitución de la sociedad, los acuerdos
+  de asamblea y de consejo, los aumentos de capital, las emisiones: todos son actos
+  jurídicos sujetos a existencia, validez y posibles nulidades.
+- **Nulidad de acuerdos sociales:** un acuerdo de asamblea tomado sin quórum, sin
+  convocatoria debida o con objeto ilícito puede ser **nulo**; su impugnación se rige por la
+  LGSM con apoyo supletorio en esta teoría.
+- **Representación orgánica:** la sociedad actúa por sus órganos (consejo, administrador,
+  apoderados). La validez de cada acto depende de que el firmante tenga **facultades**
+  vigentes y suficientes: revisar poderes es rutina diaria.
+- **Saneamiento societario:** ratificar actos celebrados sin facultades, confirmar acuerdos
+  anulables, protocolizar lo que requiere forma.
+
+## 17. Cómo aparece en una operación de M&A
+
+El M&A es teoría del acto jurídico a escala industrial. Conexiones precisas:
+
+- **El SPA es un acto jurídico bilateral:** requiere consentimiento (firma), objeto (las
+  acciones/activos, su precio) y, para ciertos efectos, forma (a veces escritura pública o
+  ratificación).
+- **Capacidad y *authority*:** las primeras *representations* del SPA son que cada parte
+  está **debidamente constituida** y que la persona que firma tiene **facultades** (poderes,
+  resoluciones del consejo). Es el requisito de validez "capacidad/representación" del acto.
+- **Representations & Warranties ≈ control de error y dolo:** las *reps* asignan quién
+  responde por la veracidad de los hechos. Una *rep* falsa a sabiendas es **dolo**
+  (*fraud*); una *rep* falsa sin culpa activa la **indemnización** contractual. El régimen
+  de *disclosure* sirve para **excluir el error/dolo** revelando la verdad.
+- **Conditions precedent ≈ condición suspensiva:** el *closing* solo ocurre si se cumplen
+  condiciones (autorizaciones COFECE/CNBV, *no MAC*, veracidad de *reps* a la fecha de
+  cierre). Pura modalidad del acto (art. 1938 y ss. CCF).
+- **Nulidad vs. terminación:** distinguir si una patología hace el SPA **nulo** (vicio de
+  origen) o solo da derecho a **terminarlo/indemnizar** (incumplimiento posterior) define la
+  estrategia. La buena práctica anglosajona prefiere remedios contractuales (indemnity) a la
+  incierta nulidad civil.
+- **Saneamiento de defectos de la *target*:** en due diligence se detectan actos de la
+  sociedad objetivo afectados de nulidad (poderes mal otorgados, acuerdos sin quórum); se
+  exige **subsanarlos** como condición de cierre o se cubren con *specific indemnities*.
+
+> **Cómo razona el socio:** "Cuando reviso una *target*, busco actos potencialmente nulos
+> (¿quién firmó esos contratos clave?, ¿con qué facultades?, ¿hubo autorizaciones?). Cada
+> nulidad latente es un pasivo contingente: o se subsana antes del closing, o se traslada al
+> vendedor vía indemnización específica." Eso es teoría del acto jurídico convertida en
+> dinero.
+
+## 18. Cómo aparece en la práctica internacional
+
+- **Traducción de categorías:** *misrepresentation* (inocente, negligente, fraudulenta) ↔
+  error/dolo; *duress* y *undue influence* ↔ violencia; *mistake* ↔ error;
+  *unconscionability* ↔ lesión. El abogado cross-border mapea estas equivalencias y sus
+  distintos remedios (rescisión vs. *damages*).
+- **Capacidad y *authority* en operaciones internacionales:** se emiten **legal opinions**
+  que certifican la debida constitución, capacidad y facultades de las partes y la validez y
+  exigibilidad (*due authorization, execution and delivery; valid and binding*) del
+  contrato. Son la versión profesional del análisis de existencia/validez.
+- **Ley aplicable a la validez:** la validez sustantiva del acto puede regirse por una ley
+  distinta de la de la forma (*locus regit actum*); el derecho internacional privado decide.
+- **Buena fe precontractual:** sistemas civiles (y el Code francés reformado) imponen deberes
+  de información en la negociación; el common law es más reacio. Define cuánto debe revelarse
+  antes de firmar.
+
+---
+
+## 19. Casos
+
+**Caso 1. Dolo por reticencia en una compraventa de empresa.** El vendedor calla un litigio
+millonario inminente que conocía. El comprador, tras el cierre, descubre el pasivo.
+*Análisis:* hay **dolo** por omisión (reticencia dolosa, arts. 1815-1816 CCF) si el silencio
+fue determinante; el comprador puede pedir **nulidad relativa** o **confirmar y reclamar
+daños**. En un SPA, esto se canaliza como *breach of representation* + indemnización (a
+menudo más eficiente que la nulidad).
+
+**Caso 2. Acto celebrado por falso representante.** Quien dice ser apoderado firma un
+contrato sin poder vigente. *Análisis:* el acto es **ineficaz frente al "representado"**,
+salvo **ratificación**. El tercero de buena fe puede invocar la apariencia (mandato
+aparente) según las circunstancias. *Lección:* verificar facultades es insustituible.
+
+**Caso 3. Objeto ilícito.** Dos partes pactan repartirse un mercado para excluir a
+competidores (práctica monopólica absoluta). *Análisis:* objeto/fin **ilícito** (contra el
+art. 28 const. y la Ley de Competencia): **nulidad absoluta**, invocable por cualquiera, no
+convalidable, además de sanciones administrativas.
+
+## 20. Preguntas abiertas
+
+1. ¿Tiene sentido mantener la "inexistencia" como categoría distinta de la nulidad absoluta,
+   o el CCF conserva una distinción más teórica que práctica?
+2. ¿Debería el derecho mexicano, como el francés de 2016, abandonar la "causa" y hablar solo
+   de fin lícito?
+3. Entre partes sofisticadas y bien asesoradas (un M&A), ¿debería limitarse la posibilidad de
+   anular por error o lesión, en aras de la seguridad del tráfico?
+4. ¿Hasta dónde llega el deber de informar en la negociación? ¿Cuándo el silencio se vuelve
+   dolo?
+5. ¿La autonomía de la voluntad puede "contratar fuera" de las nulidades civiles mediante
+   remedios contractuales (indemnity), o el orden público lo impide?
+
+## 21. Preguntas tipo examen (con respuesta modelo)
+
+**P1. Elementos de existencia vs. requisitos de validez.** *R.* Existencia: consentimiento,
+objeto y (si la ley lo exige) solemnidad (art. 1794); su falta = inexistencia (2224).
+Validez: capacidad, ausencia de vicios, licitud y forma (art. 1795); su falta = nulidad
+absoluta (ilicitud) o relativa (incapacidad, vicios, forma).
+
+**P2. ¿Cuándo el error vicia el consentimiento?** *R.* Cuando recae sobre el **motivo
+determinante** de la voluntad (art. 1813 CCF). El error de cálculo solo da derecho a
+rectificación; el error indiferente no invalida.
+
+**P3. Diferencie nulidad absoluta y relativa.** *R.* Absoluta: protege el orden público,
+la invoca cualquiera, no se convalida por confirmación ni prescripción. Relativa: protege un
+interés particular, la invoca solo el afectado, se convalida por confirmación o prescripción
+(arts. 2226-2228).
+
+**P4. ¿Qué es la lesión y qué remedios genera?** *R.* Desproporción enorme entre
+prestaciones por explotación de la suma ignorancia, notoria inexperiencia o extrema miseria
+(art. 17 CCF). Remedios: nulidad o reducción equitativa de la prestación.
+
+**P5. Un menor celebra un contrato sin representante. ¿Qué ineficacia opera?** *R.* Nulidad
+**relativa** (la incapacidad protege al menor); puede convalidarse al cesar la incapacidad o
+por prescripción, y solo la invoca el incapaz o su representante.
+
+## 22. Casos complejos (nivel "socio")
+
+**Caso A. Cadena de nulidades en una due diligence.** Al revisar una *target*, encuentras
+que: (i) un aumento de capital de hace 3 años se aprobó en una asamblea sin quórum; (ii)
+varios contratos clave fueron firmados por un "apoderado" cuyo poder había sido revocado;
+(iii) la empresa pactó con un competidor cláusulas de no competencia que rozan lo
+anticompetitivo. Clasifica cada vicio (inexistencia / nulidad absoluta / relativa),
+determina quién puede invocarlo y en qué plazo, evalúa qué puede **convalidarse** y diseña la
+solución transaccional: ¿condición de cierre para subsanar?, ¿indemnización específica?,
+¿ajuste de precio?, ¿*walk-right*? Argumenta el riesgo residual para el comprador.
+
+**Caso B. Error vs. asignación contractual del riesgo.** En un SPA, el comprador alega que
+celebró por **error** sobre la rentabilidad futura de la empresa, que resultó muy inferior a
+lo proyectado. El vendedor responde que el contrato **asignó ese riesgo** al comprador
+(cláusula de no dependencia en proyecciones; *as is* salvo *reps* expresas). Discute: ¿el
+error sobre expectativas futuras vicia el consentimiento o es riesgo asumido? ¿Qué peso tiene
+la cláusula de *non-reliance*? ¿Puede la autonomía de la voluntad excluir la acción de
+nulidad por error? Construye el argumento de cada parte y la solución que un tribunal o
+árbitro probablemente adoptaría, distinguiendo error sobre **hechos presentes** (protegible)
+de error sobre **expectativas** (riesgo del negocio).
