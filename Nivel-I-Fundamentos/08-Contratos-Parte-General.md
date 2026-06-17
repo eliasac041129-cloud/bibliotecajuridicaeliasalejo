@@ -277,3 +277,160 @@ Distingue con precisión (es un error frecuente confundirlas):
 
 Cada vía tiene **causa, efectos y legitimación** distintos; elegir la correcta es estrategia
 pura.
+
+
+---
+
+## 6. Comparación doctrinal
+
+**Voluntarismo vs. objetivismo en la fuerza del contrato.** ¿Por qué obliga el contrato? El
+**voluntarismo** (dogma clásico) responde: porque las partes **lo quisieron**; la voluntad es
+la fuente y la medida de la obligación. El **objetivismo** (s. XX) responde: el contrato obliga
+porque el **ordenamiento** le da fuerza por su utilidad social y la protección de la confianza;
+de ahí que la buena fe, los usos y la ley **completen** y limiten la voluntad. La tendencia
+moderna combina ambos: voluntad **+** estándares objetivos (buena fe, equilibrio).
+
+**Causalismo y la cuestión de la causa.** Como en Acto Jurídico, se debate si el contrato
+requiere una **causa** (causalismo francés clásico) o basta el objeto y el consentimiento
+(anticausalismo, Planiol). El Code francés **suprimió la causa** en 2016, exigiendo contenido y
+fin lícitos. México mantiene la noción de **motivo o fin determinante** lícito. *Relevancia
+práctica:* la "causa" sirve para anular contratos con fines ilícitos disfrazados (simulación,
+fraude).
+
+**Interpretación subjetiva vs. objetiva.** El civil law parte de la **intención común real**
+(subjetiva, art. 1851); el common law tiende a una interpretación más **objetiva y literal**
+del texto (lo que un destinatario razonable entendería), con la **parol evidence rule** que
+limita la prueba de negociaciones previas para contradecir el texto. *Por qué importa:* un
+contrato regido por *NY/English law* se interpreta de forma más literal; por eso esos contratos
+son tan **detallados** y usan cláusulas de *entire agreement* —para que el texto sea la única
+fuente—.
+
+**Contrato relacional vs. transaccional.** La teoría del **contrato relacional** (Macneil)
+observa que muchos contratos (suministro de largo plazo, *joint ventures*) no son intercambios
+puntuales sino **relaciones** que exigen cooperación, flexibilidad y buena fe continua, frente
+al modelo **transaccional** del intercambio discreto. Útil para entender por qué ciertos
+contratos corporativos privilegian mecanismos de gobernanza y resolución de disputas sobre la
+mera asignación rígida de prestaciones.
+
+## 7. Autores más importantes
+
+**Doctrina mexicana:**
+- **Ramón Sánchez Medal**, *De los Contratos Civiles*: el manual mexicano de referencia en
+  contratos.
+- **Manuel Borja Soriano** y **Rafael Rojina Villegas** (teoría general, dentro de
+  obligaciones).
+- **Ernesto Gutiérrez y González** (contratos y responsabilidad).
+- **Bernardo Pérez Fernández del Castillo** (contratos y su técnica notarial).
+- **Jorge Alfredo Domínguez Martínez** (acto jurídico y contratos).
+
+**Doctrina comparada y clásica:**
+- **Robert Joseph Pothier**, *Tratado de los Contratos*.
+- **Emilio Betti**, *Teoría general del negocio jurídico* (interpretación e integración).
+- **Ian Macneil** (teoría del contrato relacional).
+- **Atiyah** y **Treitel** (*The Law of Contract*, derecho inglés de contratos).
+- **Farnsworth** (*Contracts*, derecho estadounidense).
+
+## 8. Derecho comparado
+
+- **Francia (Code reformado 2016):** codificó la **negociación de buena fe**, el **deber
+  precontractual de información**, la **imprevisión**, los **contratos de adhesión** y el
+  control de **cláusulas que crean desequilibrio significativo**.
+- **Alemania (BGB):** dogmática precisa; *Treu und Glauben* (buena fe, §242) como cláusula
+  general poderosísima; control de condiciones generales de contratación (AGB).
+- **Common law (Inglaterra/EE. UU.):** el contrato exige **consideration** (algo a cambio);
+  interpretación más **literal/objetiva**; **parol evidence rule**; **entire agreement
+  clauses**; remedios centrados en **damages** (la *specific performance* es excepcional); en
+  EE. UU., el **UCC** rige la venta de bienes y la **Restatement (Second) of Contracts**
+  sistematiza la doctrina. No existe un deber general de negociar de buena fe tan amplio como
+  en el civil law (aunque hay *good faith* en la ejecución, sobre todo en EE. UU.).
+- **Lección para el corporativo internacional:** el **mismo acuerdo** se redacta distinto según
+  la ley aplicable. Bajo derecho mexicano, puedes confiar más en la integración por buena fe y
+  ley supletoria; bajo *NY/English law*, debes **escribirlo todo** (definiciones,
+  *representations*, *covenants*, *boilerplate*) porque el texto manda. Por eso los SPA
+  internacionales son tan extensos.
+
+## 9. Relación con México
+
+Régimen en el **Código Civil Federal**:
+- **Definición y elementos:** arts. 1792-1793 (convenio y contrato), 1794-1795 (elementos y
+  validez, remite al acto jurídico), 1796 (perfeccionamiento por consentimiento y obligación de
+  buena fe).
+- **Clasificación:** arts. 1835-1838 (uni/bilaterales, onerosos/gratuitos,
+  conmutativos/aleatorios).
+- **Formación (consentimiento):** arts. 1803-1811 (oferta, aceptación, contratos entre
+  ausentes, medios electrónicos).
+- **Interpretación:** arts. 1851-1859.
+- **Vicisitudes:** facultad resolutoria (1949); nulidades (2224 y ss.); lesión (17);
+  saneamiento (2119 y ss.).
+- **Contratos en particular** (compraventa, arrendamiento, mutuo, mandato, fianza, prenda,
+  hipoteca, sociedad civil, etc.): se estudian en el Nivel II.
+- **Materia mercantil:** **Código de Comercio** (arts. 78-88: los contratos mercantiles se
+  rigen por la voluntad de las partes y, en su defecto, por el Código; el **art. 78** consagra
+  que en las convenciones mercantiles cada uno se obliga **en la manera y términos en que
+  quiso obligarse**, sin requisitos sacramentales); **firma electrónica** y contratación
+  electrónica; leyes especiales (consumidor —LFPC—, seguros, etc.).
+
+> **Advertencia federalista y mercantil:** la materia civil es local (verifica el código de la
+> entidad); los contratos **mercantiles** se rigen por el Código de Comercio y leyes
+> especiales, con supletoriedad del derecho civil. La **Ley Federal de Protección al
+> Consumidor** controla los contratos de adhesión y cláusulas abusivas.
+
+## 10. Relación con otras materias
+
+- **Acto Jurídico (Libro 4):** el contrato es su especie bilateral; existencia, validez y
+  nulidades aplican íntegras.
+- **Obligaciones (Libro 7):** el contrato es la fuente reina; cumplimiento, incumplimiento,
+  daños, mora y extinción son su régimen.
+- **Bienes (Libro 6):** los contratos traslativos transmiten propiedad; los de garantía crean
+  derechos reales.
+- **Personas (Libro 5):** capacidad y representación de las partes contratantes.
+- **Contratos civiles en particular (Nivel II) y mercantiles (Nivel III):** desarrollan los
+  contratos típicos sobre esta base general.
+- **Títulos de crédito (Nivel III):** muchos nacen de relaciones contractuales subyacentes.
+- **M&A y documentación (Nivel IV):** el SPA, APA, SHA, term sheet y joint venture agreement
+  son contratos; esta es su gramática.
+
+## 11. Aplicación profesional
+
+1. **Redactar contratos:** estructurar definiciones, declaraciones, obligaciones, condiciones,
+   garantías, indemnización, terminación y *boilerplate* con precisión y previsión.
+2. **Negociar (mark-ups):** entender la dinámica oferta-contraoferta, qué es vinculante y qué
+   no (cartas de intención), y proteger a tu cliente en cada ronda.
+3. **Interpretar y dictaminar:** emitir opiniones sobre el sentido y alcance de cláusulas
+   disputadas usando las reglas de interpretación.
+4. **Diseñar contratos atípicos:** crear figuras nuevas (joint ventures, earn-outs, opciones)
+   dentro de los límites del orden público.
+5. **Gestionar vicisitudes:** decidir y ejecutar la salida correcta (resolución, terminación,
+   nulidad) y sus consecuencias.
+
+## 12. Errores comunes
+
+- **Confundir nulidad, rescisión, resolución y terminación.** Tienen causas, efectos y
+  legitimación distintos; elegir mal arruina la estrategia.
+- **Creer que "lo que las partes quieren, vale" sin límite.** El orden público y las normas
+  imperativas mandan; pactar contra ellas = nulidad.
+- **Redactar ambiguamente y confiar en "el juez entenderá".** La ambigüedad se interpreta en tu
+  contra (contra proferentem) si tú redactaste. La precisión es protección.
+- **Ignorar la relatividad del contrato.** No puedes obligar a terceros ni "ceder" un contrato
+  sin cumplir los requisitos (consentimiento, cláusulas de *assignment*).
+- **Olvidar la buena fe precontractual.** Romper negociaciones de mala fe o no informar lo
+  debido puede generar responsabilidad.
+- **Subestimar el *boilerplate*** (ley aplicable, jurisdicción/arbitraje, notificaciones,
+  cesión, *entire agreement*, divisibilidad): cláusulas "de relleno" que deciden litigios.
+- **No definir los estándares** (mejores esfuerzos, materialidad, conocimiento): dejarlos
+  vagos traslada el poder al intérprete.
+
+## 13. Cómo lo preguntaría un profesor
+
+- *"Defina contrato y distíngalo del convenio. Fundamente en los arts. 1792-1793."*
+- *"Explique la autonomía de la voluntad y sus límites."*
+- *"¿Cómo se forma el consentimiento entre ausentes en México?"* (Teoría de la recepción.)
+- *"Enuncie y explique las reglas de interpretación de los arts. 1851-1859."*
+- *"Distinga nulidad, rescisión, resolución y terminación de un contrato."*
+- *"¿Qué es un contrato de adhesión y cómo se controlan sus cláusulas abusivas?"*
+- *"Compare la interpretación contractual del civil law y del common law."*
+
+> El sinodal valora el **árbol de interpretación** y la nítida distinción entre las
+> **vicisitudes** del contrato.
+
+---
