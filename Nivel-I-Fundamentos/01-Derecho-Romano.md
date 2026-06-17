@@ -451,3 +451,161 @@ El Derecho Romano es la raíz; estas son sus ramas dentro de la biblioteca:
 - **M&A (Nivel IV):** la *emptio venditio* con saneamiento es el esqueleto del SPA.
 - **Argumentación y Metodología (Libros 11–13):** el método casuístico romano es el modelo
   del razonamiento jurídico.
+
+
+---
+
+## 11. Aplicación profesional
+
+¿Para qué le sirve a un abogado en ejercicio, hoy, el derecho romano? Más de lo que el
+estudiante imagina.
+
+1. **Interpretar el Código Civil con criterio histórico.** Cuando una norma es oscura, su
+   genealogía romana ilumina su sentido. Un abogado que sabe *por qué* existe el
+   saneamiento por evicción argumenta mejor que quien solo cita el artículo.
+2. **Dominar el vocabulario técnico.** *Pro indiviso*, *erga omnes*, *inter partes*,
+   *solve et repete*, *pacta sunt servanda*, *res inter alios acta*, *nemo dat quod non
+   habet*, *prior in tempore potior in iure*: los aforismos romanos son herramientas de
+   precisión y de persuasión en escritos y negociaciones.
+3. **Razonar por analogía y distinción.** El método romano —comparar casos, distinguir
+   supuestos— es el del dictamen jurídico y el de la due diligence.
+4. **Dialogar entre sistemas.** En operaciones internacionales, entender que *causa* y
+   *consideration*, o *title-and-mode* y consensualismo, son respuestas a un mismo problema,
+   evita malentendidos costosos.
+
+---
+
+## 12. Errores comunes
+
+- **Confundir propiedad y posesión.** Son cosas distintas: se puede poseer sin ser dueño
+  (arrendatario, poseedor de mala fe) y ser dueño sin poseer. Roma lo separó con nitidez;
+  el novato los mezcla.
+- **Creer que el contrato siempre transmite la propiedad.** Depende del sistema. En el
+  modelo romano clásico y alemán hace falta el *modo* (entrega). En el francés/mexicano, el
+  consentimiento basta para bienes determinados. Confundirlos genera errores graves en la
+  transmisión de activos.
+- **Tratar el pacto desnudo como vinculante en clave romana.** En Roma, *ex nudo pacto non
+  oritur actio*. El estudiante proyecta el principio moderno de autonomía de la voluntad
+  hacia atrás y malinterpreta los textos clásicos.
+- **Leer el Digesto como un código.** No lo es: es una antología de opiniones casuísticas,
+  a veces contradictorias. Buscar en él coherencia sistemática total es un error.
+- **Despreciar la materia como "historia muerta".** El que la subestima pierde la llave
+  conceptual de todo el derecho privado.
+
+---
+
+## 13. Cómo lo preguntaría un profesor
+
+Preguntas típicas de examen oral en la Facultad, con el enfoque que valora el sinodal:
+
+- *"Defina obligación y explique cada elemento de la definición de las Institutiones."*
+  (Buscan el *vinculum*, sujetos, objeto *dare/facere/praestare* y la coercibilidad.)
+- *"Distinga propiedad de posesión y diga por qué Roma protege al poseedor."* (Valoran que
+  expliques los interdictos y la paz social.)
+- *"¿Por qué la compraventa romana no transmite la propiedad? Relaciónelo con el Código
+  Civil mexicano."* (Buscan título y modo vs. consensualismo.)
+- *"Clasifique los contratos romanos y explique por qué los consensuales fueron una
+  revolución."* (Reales, verbales, literales, consensuales; el papel de la buena fe.)
+- *"Explique el sistema de acciones y compárelo con la noción moderna de derecho
+  subjetivo."* (Mentalidad remedial; *ubi ius ibi remedium*.)
+- *"¿Qué es la *bona fides* y qué huella dejó en el derecho mexicano vigente?"*
+
+> Consejo: el sinodal premia al estudiante que **conecta** Roma con el derecho vigente y
+> que **razona**, no al que recita fechas.
+
+---
+
+## 14. Cómo aparece en un juicio
+
+Aunque nadie litiga "derecho romano" directamente, sus categorías son munición procesal:
+
+- **Acciones reales vs. personales:** la distinción romana (¿reclamo una *cosa* frente a
+  todos, o una *prestación* frente a un obligado?) determina hoy qué acción ejercer:
+  reivindicatoria (art. 4 CPC y normas sustantivas) vs. acción personal de cumplimiento.
+- **Excepciones:** muchas defensas procesales descienden de las *exceptiones* pretorias
+  (p. ej. *exceptio non adimpleti contractus*: la excepción de contrato no cumplido, viva
+  en el art. 1949 CCF).
+- **Prescripción:** la *usucapio* y la prescripción liberatoria son defensas cotidianas.
+- **Carga de la prueba:** *ei incumbit probatio qui dicit, non qui negat* (la prueba
+  incumbe al que afirma) es regla procesal romana plenamente vigente.
+- **Saneamiento por evicción:** en un juicio donde un tercero reivindica la cosa vendida,
+  el comprador llama al vendedor en garantía (denuncia del pleito), figura de raíz romana.
+
+---
+
+## 15. Cómo aparece en un contrato
+
+Todo contrato moderno está tejido con hilos romanos:
+
+- **Objeto, causa y consentimiento:** los elementos esenciales (arts. 1794 y 2224 CCF)
+  derivan de la reflexión romana sobre *res*, *causa* y *conventio*.
+- **Cláusulas de saneamiento:** la garantía por evicción y por vicios ocultos se pacta,
+  amplía o limita expresamente; en un SPA reaparece como *title warranties* e
+  indemnización.
+- **Estipulaciones penales:** la *stipulatio poenae* romana es la cláusula penal del art.
+  1840 CCF y la *liquidated damages* anglosajona.
+- **Condición y término:** *condicio* y *dies* romanos son las *conditions precedent* y los
+  plazos de un contrato corporativo.
+- **Pacto comisorio y resolución:** la *lex commissoria* romana late en la facultad
+  resolutoria por incumplimiento (art. 1949 CCF).
+
+---
+
+## 16. Cómo aparece en una empresa
+
+- **La sociedad como contrato:** la *societas* romana (poner en común para repartir
+  ganancias y pérdidas) es la matriz conceptual del contrato de sociedad de la LGSM.
+- **La persona moral:** las *universitates*, *collegia* y *corpora* romanos —patrimonios y
+  entes con cierta autonomía— anticipan la personalidad jurídica de la sociedad mercantil,
+  que separa el patrimonio social del de los socios (germen de la responsabilidad limitada).
+- **Representación y mandato:** el *mandatum* romano funda la representación orgánica
+  (administradores) y voluntaria (apoderados) de la empresa.
+- **Patrimonio y garantías:** la distinción de patrimonios, la prenda y la hipoteca
+  estructuran cómo la empresa financia y garantiza sus operaciones.
+
+---
+
+## 17. Cómo aparece en una operación de M&A
+
+Aquí se cierra el círculo: el SPA moderno es, en su anatomía profunda, una *emptio
+venditio* sofisticada.
+
+- **Compraventa de acciones/activos = emptio venditio:** cosa (las acciones o activos),
+  precio (en dinero, cierto o determinable —*earn-out*—) y consentimiento.
+- **Representations & Warranties = saneamiento.** Las declaraciones del vendedor sobre la
+  empresa (su propiedad, ausencia de pasivos ocultos, validez de contratos) son la versión
+  contractual y ampliada de las garantías romanas por evicción (titularidad de las
+  acciones) y por vicios ocultos (defectos del negocio).
+- **Indemnización (*indemnity*) = acciones edilicias.** El régimen de *caps*, *baskets* y
+  *de minimis* que limita la indemnización es la negociación moderna de hasta dónde
+  responde el vendedor: una calibración de la responsabilidad que Roma ya graduaba (dolo,
+  culpa).
+- **Conditions precedent = condicio.** El *closing* sujeto a condiciones (autorizaciones,
+  *no MAC*) es la *condicio* suspensiva romana.
+- **Transmisión de la propiedad en el closing = título y modo.** La distinción romana
+  explica por qué firma (*signing*) y cierre (*closing*) se separan: el contrato (título)
+  obliga a transmitir; el endoso/entrega de las acciones (modo) consuma la transmisión.
+- **Escrow y garantías = pignus/fiducia.** Retener parte del precio en garantía replica la
+  lógica de las garantías reales romanas.
+
+> **Ejercicio mental del experto:** ante cualquier cláusula de un SPA, pregúntate "¿qué
+> problema romano resuelve?". Casi siempre hay una respuesta, y verla te da control
+> conceptual sobre la negociación.
+
+---
+
+## 18. Cómo aparece en la práctica internacional
+
+- **Lengua franca latina:** los contratos internacionales y los laudos arbitrales están
+  salpicados de latín jurídico (*force majeure* como heredera del *casus*, *pacta sunt
+  servanda*, *rebus sic stantibus*, *pari passu*, *pro rata*, *bona fide*). Es el esperanto
+  del abogado transaccional.
+- **Principios UNIDROIT y soft law:** los Principios sobre los Contratos Comerciales
+  Internacionales y los PECL europeos sistematizan, sobre base romanista, reglas de
+  formación, cumplimiento e incumplimiento. Saber Roma es entender su lógica.
+- **Arbitraje internacional:** los árbitros recurren a principios generales del derecho de
+  raíz romana cuando el contrato calla. La *bona fides* y la prohibición del abuso del
+  derecho son moneda corriente.
+- **Diálogo civil law / common law:** en un *cross-border deal*, el abogado romanista
+  traduce entre la mentalidad codificada y la del precedente, anticipando dónde chocan
+  *causa* y *consideration*, o transmisión consensual y *delivery*.
