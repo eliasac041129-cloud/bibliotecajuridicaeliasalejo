@@ -1,0 +1,281 @@
+# [Nivel I · Libro 3] Tratado de Teoría del Estado
+
+> El Derecho Romano nos dio las piezas; la Introducción al Estudio del Derecho, el
+> sistema. La Teoría del Estado responde la pregunta que las sostiene a ambas: **¿quién
+> crea, impone y garantiza el derecho, y con qué legitimidad?** Sin Estado no hay
+> coercibilidad; sin coercibilidad, no hay derecho exigible. Aquí se estudia el poder.
+
+**Etiquetas:** fundamentos · teoría política y constitucional · poder · soberanía · legitimidad
+**Prerrequisitos:** [Derecho Romano](./01-Derecho-Romano.md), [Introducción al Estudio del Derecho](./02-Introduccion-al-Estudio-del-Derecho.md).
+**Nivel de tratamiento:** TRATADO (materia central: explica el origen del poder normativo).
+
+> **Cómo está escrito este libro.** No es un repaso. Cada concepto se define con rigor,
+> se explica *por qué* importa, se ilustra con un ejemplo concreto y se cierra con un
+> ejercicio de práctica. Busca que termines *entendiendo*, no *reconociendo*.
+
+---
+
+## Índice de las 30 secciones
+
+1. ¿Por qué existe? · 2. Historia · 3. Problema que resolvió · 4. Conceptos ·
+5. Explicación completa · 6. Comparación doctrinal · 7. Autores · 8. Derecho comparado ·
+9. Relación con México · 10. Relación con otras materias · 11. Aplicación profesional ·
+12. Errores comunes · 13. Cómo lo preguntaría un profesor · 14. En un juicio ·
+15. En un contrato · 16. En una empresa · 17. En M&A · 18. Práctica internacional ·
+19. Casos · 20. Preguntas abiertas · 21. Preguntas tipo examen · 22. Casos complejos ·
+23. Flashcards · 24. Mapas mentales · 25. Cuadros comparativos · 26. Mnemotecnias ·
+27. Checklist · 28. Resumen ejecutivo · 29. Bibliografía · 30. Ruta.
+
+---
+
+## 1. ¿Por qué esta materia existe?
+
+Hagamos primero el razonamiento, no la definición. Pregúntate: cuando en el libro anterior
+dijimos que la norma jurídica es **coercible** —que puede imponerse por la fuerza
+legítima—, ¿de quién es esa fuerza? ¿Quién la organiza, la limita y la legitima? La
+respuesta es el **Estado**. La Teoría del Estado existe para explicar la entidad que está
+*detrás* de todo el derecho: la que monopoliza la fuerza legítima, dicta las normas
+generales, juzga los conflictos y ejecuta las decisiones.
+
+Tres motivos la hacen indispensable para el futuro abogado corporativo:
+
+**Primero: el Estado es la fuente última de las fuentes.** En el libro 2 viste la pirámide
+normativa con la Constitución en la cúspide. Pero ¿de dónde sale la Constitución? Del
+**poder constituyente**, una categoría de teoría del Estado. Quien no entiende soberanía,
+poder constituyente y división de poderes, no entiende por qué la Constitución vale más
+que una ley, ni por qué la COFECE puede bloquear una fusión, ni por qué una autoridad
+puede expropiar o regular una industria.
+
+**Segundo: el derecho corporativo opera dentro de un marco de poder estatal.** Cada
+operación de M&A se somete a autoridades del Estado: la Comisión Federal de Competencia
+Económica (COFECE) o el IFT autorizan concentraciones; la Comisión Nacional Bancaria y de
+Valores (CNBV) regula emisoras; el SAT cobra; los jueces resuelven. Entender la
+**organización, las competencias y los límites** del poder público es saber con quién se
+juega y con qué reglas.
+
+**Tercero: legitimidad y límites del poder.** El abogado de élite no solo conoce qué puede
+hacer la autoridad, sino qué **no** puede: los límites constitucionales al poder
+(derechos, división de poderes, legalidad) son las defensas del particular y de la empresa
+frente al Estado. Saber dónde termina el poder es saber dónde empieza la libertad
+contractual y patrimonial.
+
+> **Tesis del libro:** el Estado es la condición de posibilidad del derecho. Es, a la vez,
+> el **mayor garante** de los negocios (hace cumplir los contratos, protege la propiedad)
+> y su **mayor riesgo regulatorio**. El abogado corporativo necesita comprenderlo en ambas
+> caras.
+
+**Ejercicio de arranque (resuélvelo antes de seguir):** una empresa quiere fusionarse con
+su principal competidor. ¿Por qué necesita autorización de una autoridad estatal y no le
+basta el acuerdo libre entre dos privados? *Pista:* piensa en qué interés protege el
+Estado que está por encima de la voluntad de las partes. (Respuesta desarrollada en la
+sección 17.)
+
+---
+
+## 2. Historia
+
+La idea de "Estado" en sentido moderno es reciente (siglos XVI–XVII), pero la reflexión
+sobre el poder político es tan antigua como la civilización. Conviene verla como una
+evolución de formas de organización del poder.
+
+### 2.1 Antigüedad: la *polis* y la *res publica*
+Grecia no conoció el "Estado" sino la **polis** (ciudad-Estado): comunidad política donde
+el ciudadano participa directamente. Aristóteles, en la *Política*, define al hombre como
+*zoon politikon* (animal político) y clasifica las formas de gobierno (monarquía,
+aristocracia, "politeia" y sus degeneraciones: tiranía, oligarquía, democracia
+demagógica). Roma aportó la **res publica** ("la cosa pública") y la idea de *imperium*
+(poder de mando) y de *populus* como fuente de autoridad.
+
+### 2.2 Edad Media: poder fragmentado y dualidad
+El poder se **fragmenta** (feudalismo): no hay un centro único, sino una pirámide de
+lealtades personales. Y se **dualiza**: el poder temporal (emperador, reyes) frente al
+espiritual (Papado). De este conflicto nace, paradójicamente, la idea de **límites al
+poder** y la distinción entre esferas de autoridad.
+
+### 2.3 El nacimiento del Estado moderno (s. XVI–XVII)
+Aquí aparece el concepto. **Maquiavelo** (*El Príncipe*, 1513) usa por primera vez *lo
+stato* para designar la organización política estable y emplea una mirada realista del
+poder. **Jean Bodin** (1576) formula la **soberanía**: un poder supremo, perpetuo,
+indivisible y absoluto. **Thomas Hobbes** (*Leviatán*, 1651) funda el Estado en un
+**contrato social**: los individuos, para escapar de la "guerra de todos contra todos"
+(*bellum omnium contra omnes*), ceden su fuerza a un soberano que garantiza la paz.
+
+### 2.4 El Estado liberal y el constitucionalismo (s. XVII–XVIII)
+**John Locke** (1689) reformula el contrato: el poder existe para proteger derechos
+naturales (vida, libertad, propiedad) y es **limitado y revocable**; introduce la
+separación de poderes embrionaria. **Montesquieu** (*El Espíritu de las Leyes*, 1748)
+sistematiza la **división de poderes** (legislativo, ejecutivo, judicial) como garantía de
+la libertad: "el poder detiene al poder". **Rousseau** (*El Contrato Social*, 1762) sitúa
+la soberanía en el **pueblo** y la **voluntad general**. Estas ideas detonan las
+revoluciones americana (1776) y francesa (1789) y el **Estado constitucional**.
+
+### 2.5 Siglo XIX–XX: del Estado de Derecho al Estado social y constitucional
+- **Estado de Derecho** (*Rechtsstaat*): el poder se somete a la ley; nadie está por encima
+  del derecho.
+- **Estado social** (s. XX): el Estado no solo no interfiere, sino que **provee** (derechos
+  sociales, regulación económica). Constitución de Weimar (1919) y **Constitución mexicana
+  de 1917**, pioneras mundiales en derechos sociales.
+- **Estado constitucional de derecho** (posguerra): la Constitución, con su catálogo de
+  derechos y su tribunal garante, se vuelve norma jurídica directamente aplicable y límite
+  efectivo del legislador.
+
+---
+
+## 3. Problema jurídico que resolvió
+
+La Teoría del Estado ordena un haz de problemas fundamentales:
+
+1. **El problema del orden:** ¿cómo se sale del caos y la violencia privada? Respuesta: un
+   poder que **monopoliza la fuerza legítima** (Weber) y garantiza la paz y la seguridad
+   jurídica —condición de todo negocio.
+2. **El problema de la legitimidad:** ¿por qué debo obedecer? ¿Qué hace que el poder sea
+   legítimo y no mera dominación? Respuestas: consenso/contrato social, legalidad,
+   democracia.
+3. **El problema de los límites:** ¿cómo evitar que el poder que protege se vuelva
+   opresor? Respuesta: división de poderes, Estado de Derecho, derechos fundamentales,
+   control constitucional.
+4. **El problema de la organización:** ¿cómo se estructura el poder (formas de Estado y de
+   gobierno; centralismo vs. federalismo; presidencialismo vs. parlamentarismo)?
+5. **El problema de la titularidad:** ¿de quién es la soberanía (del monarca, del pueblo,
+   de la nación)?
+
+> Para el abogado de negocios, los problemas 1 y 3 son los más operativos: el Estado que
+> **garantiza** (orden, cumplimiento de contratos) y el Estado **limitado** (que no puede
+> expropiar sin indemnizar ni regular arbitrariamente) son las dos caras del riesgo y la
+> seguridad jurídica.
+
+---
+
+## 4. Conceptos
+
+Cada definición incluye un ejemplo para fijarla.
+
+- **Estado:** organización política de una sociedad asentada en un **territorio**, dotada
+  de un **poder soberano** y un **ordenamiento jurídico**, que persigue el bien común.
+  *Ejemplo:* los Estados Unidos Mexicanos.
+- **Elementos del Estado:** **población** (el elemento humano), **territorio** (el espacio
+  físico, incluido mar y espacio aéreo), **poder/gobierno** (la organización que manda) y
+  —para muchos autores— el **orden jurídico** y el **reconocimiento** internacional.
+- **Soberanía:** poder supremo del Estado, que no reconoce otro superior en su territorio
+  (soberanía interna) ni acepta subordinación a otro Estado (soberanía externa). *Ejemplo:*
+  México decide su política fiscal sin permiso de otro país.
+- **Poder constituyente:** poder originario que crea o reforma la Constitución. Se
+  distingue del **poder constituido** (los órganos creados por la Constitución, que actúan
+  dentro de ella). *Ejemplo:* el Congreso Constituyente de 1916–1917.
+- **Legitimidad:** justificación del poder (por qué se le debe obedecer). Distinta de la
+  **legalidad** (conformidad con la ley). Un poder puede ser legal pero no legítimo, o
+  viceversa.
+- **Legitimación weberiana:** Max Weber distingue tres tipos de dominación legítima:
+  **tradicional** (la costumbre, "siempre ha sido así"), **carismática** (las cualidades
+  excepcionales del líder) y **racional-legal** (la ley impersonal; la del Estado moderno).
+- **Formas de Estado:** modos de distribuir el poder en el territorio: **unitario**
+  (centralizado) o **federal/compuesto** (poder repartido entre la federación y los
+  estados). *Ejemplo:* México es federal; Francia, unitaria.
+- **Formas de gobierno:** modos de organizar y relacionar los poderes: **presidencial**
+  (separación rígida; el ejecutivo es jefe de Estado y de gobierno), **parlamentario** (el
+  gobierno emana y depende del parlamento) y **semipresidencial**.
+- **División de poderes:** separación de funciones en Legislativo (crea normas), Ejecutivo
+  (las aplica/administra) y Judicial (las interpreta y resuelve conflictos), con **frenos y
+  contrapesos** (*checks and balances*).
+- **Estado de Derecho:** sometimiento del poder al derecho; principios de **legalidad**,
+  **seguridad jurídica**, **igualdad ante la ley** y **control judicial**.
+- **Nación:** comunidad humana unida por vínculos históricos, culturales y de identidad.
+  No es lo mismo que Estado: hay naciones sin Estado y Estados plurinacionales.
+- **Gobierno:** el conjunto de órganos que ejercen el poder en un momento dado (es mudable;
+  el Estado, permanente).
+- **Bien común:** fin del Estado; el conjunto de condiciones que permiten a las personas
+  desarrollarse.
+
+---
+
+## 5. Explicación completa
+
+### 5.1 La naturaleza del Estado: tres miradas
+¿Qué *es* el Estado? Hay tres grandes respuestas que debes saber distinguir:
+
+1. **Mirada sociológica (Weber, Heller):** el Estado es una **realidad social**: una
+   estructura de dominación que monopoliza el uso legítimo de la fuerza física en un
+   territorio. Lo que lo define es el **monopolio de la coacción**.
+2. **Mirada jurídica (Kelsen):** el Estado **es** el orden jurídico mismo, personificado.
+   No hay "Estado" por un lado y "derecho" por otro: el Estado es la totalidad del sistema
+   normativo centralizado. *"El Estado es un sistema de normas o la expresión de su
+   unidad."*
+3. **Mirada política/teleológica (tradición aristotélico-tomista):** el Estado es una
+   comunidad orientada a un **fin** (el bien común); su esencia se entiende por su
+   finalidad, no solo por su estructura.
+
+El jurista maduro no elige una y desecha las otras: las usa según el problema. Para
+entender la coacción, Weber; para entender la jerarquía normativa, Kelsen; para juzgar la
+legitimidad de una política pública, la mirada teleológica.
+
+### 5.2 Los elementos del Estado, en concreto
+- **Población:** no es una masa amorfa; es el conjunto de personas sujetas al poder estatal.
+  Genera el vínculo de **nacionalidad** (pertenencia jurídica) y **ciudadanía** (derechos
+  políticos). *Por qué le importa al corporativo:* la nacionalidad de socios y sociedades
+  determina el régimen de **inversión extranjera** y restricciones en ciertos sectores.
+- **Territorio:** ámbito espacial de validez del orden jurídico (art. 42 constitucional en
+  México: partes integrantes de la Federación, mar territorial, plataforma continental,
+  espacio aéreo). *Por qué importa:* define dónde rige la ley mexicana, dónde tributa una
+  empresa, dónde se ejecuta una garantía.
+- **Poder soberano:** la capacidad de dictar normas y hacerlas cumplir sin superior. Se
+  ejerce mediante el gobierno y se organiza en poderes.
+
+### 5.3 Soberanía: del absolutismo a la soberanía popular limitada
+Bodin la pensó **absoluta**; Hobbes la concentró en el Leviatán. Pero la modernidad
+democrática la transformó: hoy la soberanía **reside en el pueblo** (art. 39 constitucional
+mexicano: "La soberanía nacional reside esencial y originariamente en el pueblo. Todo poder
+público dimana del pueblo y se instituye para beneficio de éste"). Y es **limitada**: por
+los derechos humanos, por la Constitución y, en el plano externo, por el derecho
+internacional. La globalización (tratados, arbitraje, organismos supranacionales) ha
+"erosionado" la soberanía clásica: un punto crucial para el abogado internacional.
+
+### 5.4 La división de poderes, explicada por su función
+No memorices "tres poderes"; entiende la **lógica**: el poder absoluto corrompe, así que se
+**fragmenta** y cada fragmento **vigila** a los otros.
+
+- **Legislativo:** produce normas generales y abstractas (leyes). Representa al pueblo.
+- **Ejecutivo:** administra, ejecuta las leyes y conduce el gobierno; incluye la enorme
+  **administración pública** (de la que dependen las autoridades regulatorias).
+- **Judicial:** resuelve conflictos aplicando el derecho y, en el Estado constitucional,
+  **controla** la constitucionalidad de los actos de los otros poderes.
+
+Los **frenos y contrapesos**: el ejecutivo puede vetar leyes; el legislativo aprueba el
+presupuesto y ratifica nombramientos; el judicial puede declarar inconstitucional una ley.
+*Por qué importa al corporativo:* las **autoridades regulatorias** (COFECE, CNBV, IFT,
+CRE) son parte del ejecutivo/administración, pero con autonomía; sus decisiones se
+controlan judicialmente (amparo). Entender esta arquitectura permite **diseñar la
+estrategia regulatoria y contenciosa** de una operación.
+
+### 5.5 Estado de Derecho y seguridad jurídica: el sistema operativo de los negocios
+Para que exista inversión y comercio se necesita **previsibilidad**: que las reglas sean
+conocidas, generales, estables, y que el poder se someta a ellas. Eso es el Estado de
+Derecho. Sus principios:
+
+- **Legalidad:** la autoridad solo puede hacer lo que la ley le permite (art. 16
+  constitucional: todo acto de molestia debe fundarse y motivarse). El particular, en
+  cambio, puede hacer todo lo que la ley no prohíbe (autonomía de la voluntad).
+- **Seguridad jurídica:** certeza sobre las reglas y sus consecuencias; irretroactividad
+  (art. 14).
+- **Igualdad ante la ley** y **acceso a la justicia** (art. 17).
+
+> **Conexión directa con M&A:** el valor de una empresa y el apetito de un inversionista
+> dependen del **Estado de Derecho** del país: ¿se respetan los contratos?, ¿son
+> predecibles los tribunales?, ¿hay expropiaciones arbitrarias? El *country risk* que se
+> descuenta en una valuación (Nivel V) es, en buena medida, una medición del Estado de
+> Derecho.
+
+### 5.6 Formas de Estado y de gobierno: cómo leerlas
+- **Forma de Estado** responde *cómo se reparte el poder en el territorio*: México es una
+  **república representativa, democrática, laica y federal** (art. 40 constitucional). El
+  federalismo implica que coexisten la Federación, 32 entidades y los municipios, cada uno
+  con competencias: relevante para saber **qué autoridad** regula o grava una operación.
+- **Forma de gobierno** responde *cómo se organizan los poderes entre sí*: México es
+  **presidencial**. Esto tiene consecuencias prácticas (estabilidad del ejecutivo, dinámica
+  con el Congreso) que afectan el riesgo político y regulatorio.
+
+**Cómo razona un experto (walkthrough):** ante una operación en una industria regulada
+(p. ej., energía), el abogado no piensa "el Estado autoriza"; piensa en capas: *¿es
+competencia federal o local? (forma de Estado) → ¿qué órgano del ejecutivo regula y con
+qué autonomía? → ¿qué ley lo faculta y cuáles son sus límites? (legalidad) → ¿qué control
+judicial cabe si la decisión es adversa? (división de poderes)*. Esa descomposición es
+teoría del Estado en acción.
