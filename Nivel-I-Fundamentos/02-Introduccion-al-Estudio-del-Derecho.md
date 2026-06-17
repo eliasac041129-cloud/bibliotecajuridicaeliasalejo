@@ -385,3 +385,147 @@ por *New York law* se lee distinto de uno regido por derecho mexicano.
   Constitución."*
 
 ---
+
+
+## 14. Cómo aparece en un juicio
+
+- **La fundamentación y motivación** (art. 16 constitucional) obliga al juez a citar la
+  norma (fundamentación) y a explicar por qué aplica al caso (motivación): IED pura.
+- **El conflicto de leyes en el tiempo** (irretroactividad, art. 14 constitucional) y en el
+  espacio (derecho internacional privado) se resuelve con la teoría de la vigencia.
+- **La interpretación de la norma controvertida:** las partes litigan, muchas veces, no
+  sobre los hechos sino sobre *qué significa* el texto aplicable; cada una propone un método
+  (literal vs. teleológico).
+- **La integración de lagunas:** el juez colma vacíos por analogía o principios generales;
+  el abogado hábil propone la analogía que le favorece.
+- **El control de constitucionalidad y convencionalidad:** el juez puede inaplicar una norma
+  contraria a la Constitución o a tratados de derechos humanos (control difuso, post-Radilla).
+
+## 15. Cómo aparece en un contrato
+
+- **Interpretación contractual:** los arts. 1851–1859 CCF son IED aplicada al contrato: si
+  los términos son claros, se está a su letra; si hay duda, prevalece la **intención común**
+  de las partes; las cláusulas se interpretan unas por otras (interpretación sistemática);
+  el uso y costumbre del lugar integran.
+- **Cláusulas de integración (*entire agreement*):** declaran que el contrato es la única
+  fuente, excluyendo negociaciones previas; deciden qué cuenta como "fuente" entre las
+  partes.
+- **Cláusula de ley aplicable y jerarquía documental:** los contratos complejos establecen
+  un **orden de prelación** entre el contrato marco, los anexos y las órdenes de trabajo:
+  resolución contractual de antinomias.
+- **Normas imperativas vs. dispositivas:** el redactor debe saber qué puede pactarse
+  libremente (normas dispositivas) y qué no (imperativas/orden público), so pena de nulidad.
+
+## 16. Cómo aparece en una empresa
+
+- **Jerarquía normativa interna:** Constitución y leyes → estatutos sociales → reglamentos
+  internos y políticas → acuerdos de asamblea y consejo → contratos. La empresa es un
+  microordenamiento jerarquizado.
+- **Cumplimiento normativo (compliance):** identificar qué normas (imperativas, sectoriales,
+  internacionales) obligan a la empresa y cómo se interpretan es la esencia del compliance
+  (Nivel IV).
+- **Interpretación de estatutos:** los conflictos societarios suelen ser conflictos de
+  interpretación de cláusulas estatutarias y de jerarquía entre estatutos, convenios de
+  accionistas y ley.
+
+## 17. Cómo aparece en una operación de M&A
+
+- **Elección de ley aplicable y foro:** decidir si el SPA se rige por derecho mexicano,
+  neoyorkino o inglés determina cómo se interpretará e integrará. La IED comparada es la base
+  de esa decisión estratégica.
+- **Jerarquía de la documentación transaccional:** Term Sheet (no vinculante salvo cláusulas
+  específicas) → SPA y sus anexos → Disclosure Schedules → contratos accesorios. Saber qué
+  prevalece ante contradicción es vital (la "order of precedence clause").
+- **Interpretación de *representations* y *covenants*:** los litigios post-closing son, casi
+  siempre, disputas de interpretación (¿qué significaba "pasivo material"? ¿qué cubría la
+  *knowledge qualifier*?). Quien domina los métodos interpretativos gana esos casos.
+- **Normas imperativas que no pueden contratarse:** competencia económica (autorización
+  COFECE), inversión extranjera, normas societarias de orden público (derechos de minorías).
+  La autonomía de la voluntad tiene límites: IED en estado puro.
+
+## 18. Cómo aparece en la práctica internacional
+
+- **Conflicto de sistemas:** en un *deal* cross-border conviven la lógica del civil law y la
+  del common law. El abogado traduce entre "interpretar conforme a la intención" (civil) y
+  la **regla de la prueba extrínseca** (*parol evidence rule*) y la interpretación literal
+  estricta del common law.
+- **Soft law y lex mercatoria:** Principios UNIDROIT, Incoterms, reglas de la CCI: fuentes no
+  estatales que el contrato puede incorporar. Reabren, en clave global, el viejo debate sobre
+  qué es "fuente del derecho".
+- **Arbitraje:** los árbitros deciden qué fuentes aplican (derecho elegido, usos del
+  comercio, principios generales); la teoría de las fuentes se vuelve operativa y negociable.
+
+---
+
+## 19. Casos
+
+**Caso 1. Antinomia entre ley general y ley especial.** Una ley general de sociedades
+posterior parece contradecir una disposición de una ley especial (p. ej. de instituciones
+de crédito) anterior. *Solución:* prevalece, en principio, la **especial** (*lex specialis
+derogat generali*), salvo que la general manifieste voluntad de derogar expresamente. Se
+combina con el criterio cronológico y con la interpretación sistemática.
+
+**Caso 2. Laguna contractual.** Un contrato de suministro no previó qué ocurre si sube
+drásticamente el precio de la materia prima. *Solución:* se integra con la ley supletoria
+(Código de Comercio/CCF), los usos mercantiles y la buena fe; eventualmente se discute la
+teoría de la imprevisión (*rebus sic stantibus*), incorporada en varios códigos civiles
+estatales.
+
+**Caso 3. Norma vigente pero ineficaz / e inconstitucional.** Una norma local se aplica
+rutinariamente pese a contradecir un derecho humano de fuente convencional. Un juez, vía
+control difuso de convencionalidad, la **inaplica** al caso concreto. Ilustra la diferencia
+entre vigencia, eficacia y validez sustantiva.
+
+## 20. Preguntas abiertas
+
+1. Si la jurisprudencia obligatoria "crea" derecho, ¿sigue siendo cierto que en el civil law
+   el juez solo aplica la ley?
+2. ¿La incorporación de principios y derechos humanos a la Constitución disuelve la frontera
+   entre iusnaturalismo y positivismo?
+3. ¿Tiene Dworkin razón en que existe "una respuesta correcta", o Hart en que hay
+   discrecionalidad en la penumbra?
+4. ¿Es legítimo que un árbitro aplique *lex mercatoria* no estatal para resolver un conflicto
+   entre empresas? ¿Quién la valida?
+5. ¿Hasta dónde puede la autonomía de la voluntad desplazar a la ley dispositiva sin tocar el
+   orden público?
+
+## 21. Preguntas tipo examen (con respuesta modelo)
+
+**P1. Distinga validez, vigencia, eficacia y justicia.** *R.* Validez = pertenencia al
+sistema por creación regular; vigencia = obligatoriedad temporal (en vigor); eficacia =
+cumplimiento real; justicia = conformidad con valores. Son planos independientes: una norma
+válida y vigente puede ser ineficaz e injusta.
+
+**P2. Enuncie y explique los criterios de solución de antinomias.** *R.* Jerárquico (*lex
+superior*), cronológico (*lex posterior*) y de especialidad (*lex specialis*). Pueden entrar
+en conflicto entre sí; entonces se pondera, privilegiando usualmente jerarquía > especialidad
+> cronología.
+
+**P3. ¿Qué son los principios generales del derecho y qué función cumplen en México?** *R.*
+Criterios fundamentales del ordenamiento (buena fe, *pacta sunt servanda*, prohibición del
+abuso del derecho); función **integradora** de lagunas (arts. 14 constitucional y 19 CCF) e
+**interpretativa**.
+
+**P4. Explique la pirámide de Kelsen y su recepción en el art. 133 constitucional.** *R.*
+Sistema escalonado donde cada norma deriva su validez de una superior hasta la Constitución y
+la *Grundnorm*. El art. 133 ubica a la Constitución como ley suprema, con los tratados; tras
+2011, los de derechos humanos integran el parámetro de regularidad constitucional.
+
+## 22. Casos complejos (nivel "socio")
+
+**Caso A. Choque de fuentes en un contrato financiero internacional.** Un crédito sindicado
+se rige por *English law*, las garantías por derecho mexicano y el contrato incorpora usos
+bancarios (LMA) y prevé arbitraje CCI. Surge una contradicción entre una cláusula del
+contrato inglés y una norma **imperativa** mexicana sobre prelación de acreedores en concurso.
+Analice: (i) qué fuente prevalece y por qué la norma imperativa concursal mexicana no puede
+ser desplazada por la ley elegida; (ii) cómo interpreta el árbitro; (iii) el papel del orden
+público internacional mexicano como límite al reconocimiento del laudo. Conclusión: la
+*autonomía conflictual* tiene como muro el orden público del foro donde se ejecutará.
+
+**Caso B. Interpretación de una *representation* ambigua.** En un SPA, el vendedor declaró que
+"no existen pasivos materiales no revelados". Aparece una contingencia fiscal cuya
+"materialidad" se discute. Construya el argumento de cada parte usando los métodos
+interpretativos (literal, sistemático con las definiciones del contrato, teleológico según el
+propósito de las *reps*, y la regla *contra proferentem*). Discuta si la *knowledge qualifier*
+("a leal saber y entender del vendedor") cambia el resultado y cómo la jerarquía
+contrato/Disclosure Schedule resuelve la duda.
