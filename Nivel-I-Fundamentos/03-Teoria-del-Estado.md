@@ -279,3 +279,158 @@ competencia federal o local? (forma de Estado) → ¿qué órgano del ejecutivo 
 qué autonomía? → ¿qué ley lo faculta y cuáles son sus límites? (legalidad) → ¿qué control
 judicial cabe si la decisión es adversa? (división de poderes)*. Esa descomposición es
 teoría del Estado en acción.
+
+
+---
+
+## 6. Comparación doctrinal
+
+**Contractualismo: Hobbes vs. Locke vs. Rousseau.** Los tres parten del "estado de
+naturaleza" y de un pacto, pero llegan a Estados distintos:
+- **Hobbes:** el estado de naturaleza es guerra; el pacto crea un soberano **absoluto** e
+  irrevocable (seguridad a cambio de libertad). Justifica el poder fuerte.
+- **Locke:** el estado de naturaleza tiene derechos pero es inseguro; el pacto crea un poder
+  **limitado y revocable**, para proteger vida, libertad y **propiedad**. Justifica el
+  Estado liberal y el derecho de resistencia. *Es el padre intelectual del
+  constitucionalismo y de la protección de la propiedad privada* —base del orden económico.
+- **Rousseau:** el pacto crea la **voluntad general** y la soberanía popular; el individuo
+  obedece a la comunidad de la que forma parte. Justifica la democracia (y, leído en
+  exceso, riesgos de "tiranía de la mayoría").
+
+**Kelsen vs. Heller vs. Schmitt (siglo XX).**
+- **Kelsen:** identifica Estado y derecho; el Estado es el orden jurídico. Visión normativa
+  y pacifista.
+- **Hermann Heller:** el Estado es una realidad social y un "centro de acción" con sentido
+  histórico; critica el formalismo kelseniano por vaciar al Estado de su dimensión social.
+- **Carl Schmitt:** lo político se define por la distinción **amigo/enemigo**; el soberano
+  es "quien decide sobre el estado de excepción". Visión decisionista y peligrosa, pero
+  imprescindible para entender los límites del Estado de Derecho en crisis.
+
+**Estado mínimo vs. Estado social.** El **liberalismo clásico** (y autores como Nozick)
+quiere un Estado mínimo (seguridad, justicia, defensa) que no interfiera en el mercado. El
+**Estado social** (constitucionalismo del siglo XX, Heller, doctrina de los derechos
+sociales) exige un Estado que regule la economía y garantice derechos prestacionales. El
+debate define cuánta **regulación** soporta la actividad empresarial: el corazón del
+derecho económico.
+
+## 7. Autores más importantes
+
+- **Aristóteles** (*Política*): formas de gobierno; el hombre como animal político.
+- **Maquiavelo** (*El Príncipe*): realismo político; el término "Estado".
+- **Jean Bodin** (*Los seis libros de la República*): teoría de la soberanía.
+- **Thomas Hobbes** (*Leviatán*): contractualismo, soberano absoluto.
+- **John Locke** (*Segundo Tratado sobre el Gobierno Civil*): poder limitado, propiedad,
+  separación de poderes.
+- **Montesquieu** (*El Espíritu de las Leyes*): división de poderes.
+- **Rousseau** (*El Contrato Social*): soberanía popular, voluntad general.
+- **Max Weber** (*Economía y Sociedad*, *La política como vocación*): monopolio de la fuerza
+  legítima; tipos de dominación legítima.
+- **Hans Kelsen** (*Teoría General del Estado*): identidad Estado-derecho.
+- **Hermann Heller** (*Teoría del Estado*): dimensión social del Estado.
+- **Carl Schmitt** (*Teología Política*, *El concepto de lo político*): soberanía,
+  excepción, decisionismo.
+- **Doctrina mexicana:** Felipe Tena Ramírez (*Derecho Constitucional Mexicano*), Ignacio
+  Burgoa (*Derecho Constitucional Mexicano* y *Las Garantías Individuales*), Jorge Carpizo
+  (*La Constitución Mexicana de 1917*, *El presidencialismo mexicano*), Diego Valadés (*El
+  control del poder*).
+
+## 8. Derecho comparado
+
+- **Estados Unidos:** federalismo robusto, presidencialismo, *checks and balances* fuertes,
+  control de constitucionalidad difuso desde *Marbury v. Madison* (1803). Modelo de
+  inspiración del federalismo mexicano.
+- **Reino Unido:** **parlamentarismo**, soberanía del Parlamento, Constitución no escrita
+  (consuetudinaria). Sin una constitución codificada, la "limitación del poder" descansa en
+  convenciones y en el *rule of law*.
+- **Francia:** Estado **unitario**, semipresidencial (V República), fuerte tradición de
+  *service public* y derecho administrativo (Consejo de Estado).
+- **Alemania:** federalismo cooperativo, parlamentarismo (canciller), Tribunal
+  Constitucional Federal poderosísimo; modelo de **Estado social y democrático de
+  derecho**.
+- **Lección para el corporativo:** el tipo de Estado y de gobierno determina **dónde** y
+  **cómo** se regula un sector, qué tan estable es el marco y qué remedios existen contra el
+  poder. Invertir en un Estado unitario centralizado no es igual que en uno federal con 32
+  legislaciones locales.
+
+## 9. Relación con México
+
+El orden constitucional mexicano es teoría del Estado positivizada. Artículos clave:
+- **Art. 39:** la soberanía reside en el pueblo; todo poder dimana de él.
+- **Art. 40:** México es república representativa, democrática, laica y **federal**.
+- **Art. 41:** el pueblo ejerce su soberanía por medio de los Poderes de la Unión y de los
+  Estados.
+- **Art. 49:** **división de poderes** (Legislativo, Ejecutivo, Judicial); prohibición de
+  reunir dos o más en una persona o corporación.
+- **Art. 42–48:** territorio nacional.
+- **Arts. 14 y 16:** legalidad, seguridad jurídica, irretroactividad, fundamentación y
+  motivación: el núcleo del **Estado de Derecho** que protege a empresas y particulares.
+- **Art. 133:** supremacía constitucional.
+- **Órganos constitucionales autónomos:** el diseño mexicano creó autoridades fuera del
+  esquema tradicional de tres poderes —Banco de México, INE, CNDH, COFECE, IFT, INEGI—,
+  pensadas para decisiones técnicas e independientes. **Para el corporativo, la COFECE y la
+  CNBV/IFT son las más relevantes.**
+
+**El presidencialismo mexicano:** Jorge Carpizo describió cómo, durante el siglo XX, el
+presidencialismo mexicano concentró un poder superior al que la Constitución preveía
+(metaconstitucional), por el control del partido hegemónico. Entender esta historia explica
+buena parte de la cultura institucional y del *riesgo regulatorio* actual.
+
+## 10. Relación con otras materias
+
+- **IED (Libro 2):** la pirámide normativa se sostiene en el poder constituyente y la
+  soberanía que estudias aquí.
+- **Derecho Constitucional (estudio posterior):** la teoría del Estado es su antesala
+  directa; la Constitución organiza el poder descrito aquí.
+- **Derecho Administrativo:** las autoridades regulatorias (COFECE, CNBV) son administración
+  pública; su actuación se rige por la legalidad estudiada en este libro.
+- **Economía (Libro 10):** la relación Estado-mercado (regulación, bienes públicos, fallas
+  de mercado) conecta directamente con el Estado social vs. mínimo.
+- **Derecho Mercantil y Corporate (Niveles III–IV):** todo el marco regulatorio
+  (competencia, valores, inversión extranjera) es ejercicio del poder estatal sobre la
+  empresa.
+- **Compliance (Nivel IV):** cumplir la regulación estatal es la esencia del compliance.
+
+## 11. Aplicación profesional
+
+1. **Mapear autoridades competentes** en cualquier operación: ¿federal o local?, ¿qué
+   órgano regula?, ¿con qué facultades y límites?
+2. **Diseñar estrategia regulatoria:** anticipar autorizaciones (COFECE en concentraciones,
+   CNBV en valores, CNIE en inversión extranjera) y plazos.
+3. **Evaluar riesgo país y regulatorio** para valuación y para asesorar a inversionistas
+   extranjeros (Estado de Derecho, estabilidad, independencia judicial).
+4. **Defender al particular frente al poder:** invocar legalidad, irretroactividad y debido
+   proceso (amparo) contra actos de autoridad que afecten a la empresa.
+5. **Estructurar inversiones** considerando soberanía y límites: sectores reservados al
+   Estado o restringidos a extranjeros (energía, telecomunicaciones, etc.).
+
+## 12. Errores comunes
+
+- **Confundir Estado con gobierno.** El Estado es permanente; el gobierno es transitorio
+  (cambia con las elecciones).
+- **Confundir Estado con nación.** Hay Estados plurinacionales y naciones sin Estado.
+- **Confundir legalidad con legitimidad.** Un acto puede ser legal y carecer de
+  legitimidad, o ser legítimo y carecer de base legal (problema clásico).
+- **Creer que la soberanía es ilimitada hoy.** Está acotada por derechos humanos y derecho
+  internacional.
+- **Ignorar el federalismo** al asesorar: asumir que todo es competencia federal lleva a
+  errores graves (impuestos locales, registros públicos estatales, permisos municipales).
+- **Subestimar a los órganos autónomos:** tratarlos como simple "gobierno" ignora su
+  independencia técnica y su lógica propia.
+
+## 13. Cómo lo preguntaría un profesor
+
+- *"Enuncie los elementos del Estado y explique por qué la soberanía es el más
+  problemático hoy."*
+- *"Compare las teorías contractualistas de Hobbes, Locke y Rousseau y diga cuál inspira el
+  art. 39 constitucional."*
+- *"Explique la división de poderes según Montesquieu y su recepción en el art. 49. ¿Dónde
+  encajan los órganos constitucionales autónomos?"*
+- *"Distinga forma de Estado y forma de gobierno y clasifique a México conforme al art.
+  40."*
+- *"¿Qué significa que México sea un Estado de Derecho? Fundamente en los arts. 14 y 16."*
+- *"Exponga los tipos de dominación legítima de Weber con un ejemplo de cada uno."*
+
+> El sinodal premia que **conectes** la teoría con artículos concretos y con consecuencias
+> prácticas, no la mera enumeración.
+
+---
