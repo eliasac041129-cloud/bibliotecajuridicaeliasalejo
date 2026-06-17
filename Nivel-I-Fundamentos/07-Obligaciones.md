@@ -456,3 +456,186 @@ Régimen en el **Libro Cuarto del Código Civil Federal** ("De las obligaciones"
 > caso fortuito → daños/causalidad → remedio) y la conexión con la cuantificación.
 
 ---
+
+
+## 14. Cómo aparece en un juicio
+
+- **Acción de cumplimiento (ejecución específica):** el acreedor exige que el deudor realice
+  la prestación; en obligaciones de dar puede haber ejecución forzada sobre la cosa o el
+  patrimonio.
+- **Acción de resolución (art. 1949):** ante incumplimiento, el acreedor pide la resolución
+  del contrato bilateral, con restituciones y **daños y perjuicios**.
+- **Acción de daños y perjuicios:** se reclama daño emergente y lucro cesante; el actor debe
+  **probar** el incumplimiento, el daño, su **cuantía** y el **nexo causal** (consecuencia
+  inmediata y directa).
+- **Constitución en mora e intereses:** la interpelación (judicial o extrajudicial) y el
+  vencimiento del plazo fijan el inicio de la mora y de los intereses moratorios.
+- **Excepciones del deudor:** caso fortuito/fuerza mayor, *exceptio non adimpleti contractus*
+  (contrato no cumplido por la contraparte), pago, compensación, prescripción, novación.
+- **Vía ejecutiva mercantil:** cuando la obligación consta en un título ejecutivo (título de
+  crédito, contrato con ciertas formalidades), se cobra por vía ejecutiva, más ágil.
+
+## 15. Cómo aparece en un contrato
+
+Las obligaciones son **el contenido** del contrato. Cláusulas típicas que son obligaciones en
+estado puro:
+
+- **Obligaciones de las partes (covenants):** describen las prestaciones de dar/hacer/no hacer
+  (pagar el precio, entregar, no competir, mantener seguros).
+- **Cláusula de incumplimiento y vencimiento anticipado (*events of default* / *cross
+  default*):** definen qué cuenta como incumplimiento y permiten dar por vencida toda la deuda.
+- **Cláusula penal / *liquidated damages*:** fija anticipadamente la indemnización por
+  incumplimiento o retraso.
+- **Cláusula de fuerza mayor:** define los eventos que liberan o suspenden la obligación
+  (versión contractual del caso fortuito).
+- **Intereses (ordinarios y moratorios):** precio del dinero y sanción del retraso; cuidado con
+  los límites a la usura.
+- **Cláusula de indemnización (*indemnity*):** asigna quién responde de ciertos daños; en el
+  SPA es el remedio central por incumplimiento de *reps & warranties*.
+- **Solidaridad y garantías personales:** codeudores, avales, fianzas.
+- **Cesión y subrogación:** quién puede ceder el contrato o los créditos derivados.
+
+## 16. Cómo aparece en una empresa
+
+- **La empresa es un nudo de obligaciones:** con clientes (cobrar), proveedores (pagar),
+  empleados, bancos (servicio de la deuda), fisco. Su gestión es la administración del
+  **capital de trabajo** (cuentas por cobrar y por pagar).
+- **Cuentas por cobrar como activo financiable:** los créditos de la empresa se **ceden**
+  (factoraje) o se **prendan** para obtener liquidez (conexión con Bienes, Libro 6).
+- **Deuda y covenants financieros:** los contratos de crédito imponen obligaciones de hacer y
+  no hacer (mantener ratios financieros, no endeudarse más, no vender activos) cuyo
+  incumplimiento dispara el *default*.
+- **Provisiones por contingencias:** los pasivos contingentes (litigios, garantías otorgadas)
+  son obligaciones potenciales que la contabilidad y la due diligence deben capturar.
+
+## 17. Cómo aparece en una operación de M&A
+
+El régimen de obligaciones es la **base técnica del SPA**, especialmente de su régimen de
+indemnización.
+
+- **Reps & warranties + indemnity = obligaciones y responsabilidad por incumplimiento.** Las
+  *representations* son declaraciones; si son falsas, hay un **incumplimiento** que genera
+  **daños** indemnizables. El régimen de indemnización del SPA es, en clave civil, la
+  cuantificación y limitación de la **responsabilidad por incumplimiento de obligaciones**.
+- **Caps, baskets, de minimis = calibración de la responsabilidad.** El *cap* (tope máximo) y
+  el *basket*/*deductible* (umbral mínimo) son la negociación de **hasta dónde** responde el
+  vendedor: la versión contractual de graduar la responsabilidad y limitar daños.
+- **Covenants (obligaciones de hacer/no hacer):** entre *signing* y *closing*, el vendedor se
+  obliga a operar el negocio "en el curso ordinario" (*interim covenants*); tras el cierre,
+  pueden subsistir obligaciones (no competencia, transición).
+- **Conditions precedent = obligaciones bajo condición** (Libro 4 + modalidades de las
+  obligaciones): el cierre se sujeta al cumplimiento de condiciones.
+- **MAC y fuerza mayor = asignación del riesgo de cambio de circunstancias** (debate
+  imprevisión vs. pacta sunt servanda): permiten no cerrar si ocurre un cambio adverso
+  relevante.
+- **Earn-out = obligación a plazo/condición con prestación determinable:** parte del precio se
+  paga según resultados futuros; pura obligación condicional sujeta a métrica.
+- **Escrow / holdback = garantía del cumplimiento de la obligación indemnizatoria:** se retiene
+  precio para responder de eventuales daños.
+- **Mitigación y causalidad:** muchos SPA importan del common law el **deber de mitigar** y la
+  limitación a daños **directos** (excluyendo *consequential/indirect damages*), afinando el
+  art. 2110.
+
+> **Cómo razona el socio:** "El SPA es un sistema de **obligaciones y remedios**. Las *reps*
+> reparten quién garantiza qué; el *indemnity* convierte su falsedad en dinero; los *caps* y
+> *baskets* limitan ese dinero; el *escrow* lo asegura. Negociar M&A es negociar el régimen de
+> **incumplimiento y daños** del Libro de Obligaciones, con vocabulario inglés."
+
+## 18. Cómo aparece en la práctica internacional
+
+- **Régimen de daños pactado:** los contratos internacionales **no** dejan los daños al
+  derecho supletorio; los definen (qué se indemniza, exclusión de *consequential damages*,
+  *caps*, deber de mitigar), porque el common law y el civil law calculan distinto.
+- **Hadley v. Baxendale y previsibilidad:** la regla anglosajona limita los daños a los
+  **previsibles** al contratar; equivale funcionalmente al art. 2110 y debe coordinarse en
+  cláusulas cross-border.
+- **Liquidated damages vs. penalty:** en el common law, una pena **punitiva** es inejecutable
+  (*penalty rule*); la cláusula debe ser una estimación razonable del daño. Al redactar para un
+  contrato regido por *English/NY law*, se cuida que la cláusula penal no sea una *penalty*.
+- **Principios UNIDROIT / CISG:** la Convención de Viena sobre Compraventa Internacional de
+  Mercaderías (CISG) y los Principios UNIDROIT ofrecen un régimen de obligaciones y remedios
+  neutral, muy usado en comercio internacional (incumplimiento esencial, mitigación,
+  resolución).
+- **Moneda, intereses y usura:** las obligaciones dinerarias internacionales plantean moneda
+  de pago, conversión, intereses y límites de usura de cada foro.
+
+---
+
+## 19. Casos
+
+**Caso 1. Incumplimiento y lucro cesante acotado por causalidad.** Un proveedor no entrega a
+tiempo; el comprador reclama, además del mayor costo de reposición, la pérdida de un contrato
+con un tercero. *Análisis:* el daño emergente (mayor costo) procede; el lucro cesante (contrato
+perdido) procede **solo si** es consecuencia inmediata y directa y razonablemente previsible
+(art. 2110; *Hadley v. Baxendale* en clave comparada). Lección: la previsibilidad y la
+causalidad **acotan** la indemnización.
+
+**Caso 2. Solidaridad que salva al acreedor.** Un banco prestó a una empresa con dos
+codeudores **solidarios**. La empresa quiebra; el banco cobra el **todo** a uno de los
+codeudores solventes, que luego repite contra los demás. *Análisis:* la solidaridad permite
+exigir la totalidad a cualquiera, reforzando el crédito. Lección: pactar solidaridad expresa
+(no se presume) es clave en financiamiento.
+
+**Caso 3. Caso fortuito y mora previa.** Una mercancía se pierde por una inundación. Si el
+deudor **ya estaba en mora** al ocurrir el evento, responde igual (*mora perpetuat
+obligationem*); si no, el caso fortuito lo libera. Lección: la mora **traslada el riesgo**.
+
+## 20. Preguntas abiertas
+
+1. ¿Debe México adoptar de forma uniforme la teoría de la imprevisión, o la seguridad del
+   *pacta sunt servanda* debe prevalecer entre empresas sofisticadas?
+2. ¿Es justo excluir contractualmente el lucro cesante (*consequential damages*) en relaciones
+   entre partes desiguales?
+3. ¿Hasta dónde debe llegar el **deber de mitigar** del acreedor en el derecho mexicano, que no
+   lo regula expresamente como el common law?
+4. ¿La responsabilidad objetiva por riesgo creado debería ampliarse a nuevas actividades
+   (datos, IA), o sofoca la innovación?
+5. ¿Tiene sentido mantener la exigencia de interpelación para la mora en el comercio
+   electrónico instantáneo?
+
+## 21. Preguntas tipo examen (con respuesta modelo)
+
+**P1. ¿Cuáles son las fuentes de las obligaciones en México?** *R.* Contrato; declaración
+unilateral de la voluntad; enriquecimiento sin causa; gestión de negocios; y hechos ilícitos
+(responsabilidad civil, incluida la objetiva por riesgo creado).
+
+**P2. Distinga daño y perjuicio y enuncie el requisito de causalidad.** *R.* Daño = pérdida
+sufrida (daño emergente); perjuicio = ganancia lícita no obtenida (lucro cesante). Ambos deben
+ser **consecuencia inmediata y directa** del incumplimiento (art. 2110 CCF).
+
+**P3. ¿Qué es la mora y qué efectos produce?** *R.* Retraso jurídicamente relevante en cumplir
+una obligación exigible. Efectos: hace correr intereses/indemnización del retraso y **traslada
+el riesgo** (el moroso responde aun del caso fortuito).
+
+**P4. Explique la facultad resolutoria tácita.** *R.* Art. 1949 CCF: en obligaciones
+recíprocas, ante el incumplimiento de una parte, la otra puede exigir el **cumplimiento** o la
+**resolución**, en ambos casos con daños y perjuicios. Deriva de la *lex commissoria* romana.
+
+**P5. ¿Qué es la solidaridad y por qué no se presume?** *R.* Modalidad con pluralidad de
+sujetos donde cada deudor debe el todo (o cada acreedor puede exigir el todo). No se presume
+(art. 1988): debe pactarse o imponerla la ley, porque agrava la posición del deudor.
+
+## 22. Casos complejos (nivel "socio")
+
+**Caso A. Régimen de indemnización de un SPA traducido a obligaciones.** En la venta de una
+empresa, el vendedor declara que "no hay pasivos fiscales no revelados". Tras el cierre,
+aparece una contingencia fiscal de 50 millones; el comprador, además, alega que por esa
+contingencia perdió una línea de crédito (daño "indirecto"). El SPA pactó: *cap* del 20% del
+precio, *basket* del 1%, exclusión de *consequential damages* y deber de mitigar. Analice: (i)
+la falsedad de la *rep* como **incumplimiento** y la indemnización como **responsabilidad por
+daños**; (ii) qué parte del daño es **directa** (la contingencia) y cuál **indirecta** (la
+línea perdida) y cómo opera la exclusión pactada y el art. 2110; (iii) el efecto del *cap* y el
+*basket* como **limitación de responsabilidad**; (iv) el **deber de mitigar** y su recepción
+en México; (v) cómo el **escrow** asegura el cobro. Construya el cálculo de lo efectivamente
+indemnizable.
+
+**Caso B. Reestructura de deuda como ingeniería de obligaciones.** Una empresa sobreendeudada
+negocia con sus bancos: quita (perdón parcial), espera (ampliación de plazos), conversión de
+parte de la deuda en capital, sustitución de un deudor por otro y cesión de cartera a un fondo.
+Identifique cada operación en términos del Libro de Obligaciones: **remisión** (quita),
+**novación** (modificación o sustitución de la obligación), **dación en pago**/conversión,
+**asunción de deuda** (cambio de deudor, con consentimiento del acreedor), **cesión de
+créditos** y **subrogación**. Analice los requisitos y riesgos de cada una (consentimientos,
+garantías que se conservan o extinguen con la novación, oponibilidad de la cesión) y cómo se
+articulan en un **convenio concursal** o extrajudicial. ¿Qué pasa con las garantías reales si
+hay novación?
