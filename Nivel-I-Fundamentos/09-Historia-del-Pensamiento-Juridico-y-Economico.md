@@ -326,3 +326,305 @@ conductual); Elinor Ostrom (gobierno de los comunes).
 - *"Relacione los arts. 25-28 constitucionales con el debate Estado-mercado."*
 
 ---
+
+
+## 14. Cómo aparece en un juicio
+
+- **Argumentos de eficiencia e incentivos:** en litigios de competencia, regulatorios y
+  contractuales, las partes y los jueces invocan efectos económicos (¿qué incentivos crea esta
+  interpretación?, ¿daña la competencia?).
+- **Peritajes económicos:** en casos de competencia, daños, valuación o regulatorios, los
+  **dictámenes económicos** (mercado relevante, poder de mercado, cuantificación de daños) son
+  decisivos.
+- **Análisis de razonabilidad regulatoria:** los tribunales evalúan si una regulación corrige
+  una falla de mercado o impone una carga desproporcionada (proporcionalidad).
+
+## 15. Cómo aparece en un contrato
+
+- **Asignación eficiente de riesgos:** los contratos bien diseñados asignan cada riesgo a quien
+  mejor puede **controlarlo o asegurarlo** (lógica de Coase): por eso ciertas *reps* las da el
+  vendedor (controla la información) y ciertos riesgos quedan en el comprador.
+- **Cláusulas que alinean incentivos:** *earn-outs*, opciones, *vesting*, penas y bonos están
+  diseñados con lógica económica de incentivos.
+- **Mecanismos contra la asimetría:** *representations*, *disclosure*, *escrow*, condiciones:
+  soluciones contractuales a la información asimétrica.
+
+## 16. Cómo aparece en una empresa
+
+- **La empresa como respuesta a los costos de transacción (Coase):** existe porque internalizar
+  ciertas transacciones (jerarquía) es más barato que el mercado. Explica las decisiones de
+  **hacer vs. comprar** y de integración.
+- **Gobierno corporativo como solución al problema de agencia:** consejos, comités, deberes
+  fiduciarios e incentivos alinean a administradores con accionistas.
+- **Responsabilidad social y ESG:** materializan el debate accionistas vs. *stakeholders* en la
+  estrategia y el reporte corporativo.
+
+## 17. Cómo aparece en una operación de M&A
+
+El M&A es **economía aplicada**: este libro da su fundamento conceptual.
+
+- **¿Por qué se compran empresas? (costos de transacción, sinergias):** la teoría económica
+  explica las adquisiciones por **sinergias** (1+1>2), economías de escala, poder de mercado o
+  internalización (Coase, Williamson). El abogado entiende así el **racional** del *deal*.
+- **Información asimétrica → due diligence + reps + escrow:** el comprador sabe menos que el
+  vendedor; toda la arquitectura del SPA (investigación, declaraciones, garantías, retención de
+  precio) es una **solución económica** a esa asimetría (Akerlof).
+- **Problema de agencia → fairness y deberes fiduciarios:** en la venta de una empresa pública,
+  los administradores (agentes) podrían no maximizar el valor de los accionistas; de ahí las
+  *fairness opinions*, los procesos competitivos y los estándares de revisión judicial
+  (Delaware: *Revlon*, *business judgment rule*).
+- **Eficiencia vs. competencia:** una fusión puede ser eficiente (sinergias) pero dañina para la
+  competencia (poder de mercado): la autoridad (COFECE) pondera ambas (corrección de falla de
+  mercado).
+- **Economía conductual en la negociación:** anclaje en el precio inicial, aversión a la pérdida
+  en las concesiones, exceso de confianza en las proyecciones: el negociador informado las
+  aprovecha (Nivel V).
+
+> **Cómo razona el socio:** "Antes de la cláusula, está el **negocio**. ¿Por qué compra mi
+> cliente?, ¿qué sinergia busca?, ¿dónde está la asimetría de información que debo cubrir con
+> reps y escrow?, ¿qué incentivos crea cada cláusula? El derecho es el vehículo; la economía,
+> el motor."
+
+## 18. Cómo aparece en la práctica internacional
+
+- **Instituciones y desarrollo (North):** el *country risk* y la decisión de invertir en una
+  jurisdicción dependen de la calidad institucional (Estado de Derecho, cumplimiento de
+  contratos, protección de propiedad).
+- **Análisis económico en competencia global:** las autoridades antimonopolio (EE. UU., UE,
+  México) usan teoría económica para evaluar concentraciones cross-border.
+- **Debates globales: ESG y capitalismo de *stakeholders*:** marcan la agenda regulatoria y de
+  inversión internacional (fondos, índices, *disclosure* de sostenibilidad).
+- **Comercio internacional:** la ventaja comparativa (Ricardo) fundamenta los tratados de libre
+  comercio (T-MEC) y el diseño de cadenas de valor globales.
+
+---
+
+## 19. Casos
+
+**Caso 1. Teorema de Coase en una externalidad.** Una fábrica contamina y afecta a un
+agricultor vecino. *Análisis:* si los derechos están claros y los costos de transacción son
+bajos, ambos pueden **negociar** una solución eficiente (la fábrica paga por contaminar o
+invierte en filtros) sin importar a quién se asignó inicialmente el derecho. Si los costos de
+transacción son altos (muchos afectados), se justifica la **regulación**. Lección: definir
+derechos con claridad **habilita** soluciones de mercado.
+
+**Caso 2. "El mercado de los limones" (Akerlof) y la due diligence.** En un mercado donde el
+comprador no distingue empresas buenas de malas, los precios bajan y los buenos vendedores se
+retiran (selección adversa). *Análisis:* la **due diligence** y las **reps & warranties**
+restauran la confianza al reducir la asimetría, permitiendo que el mercado de M&A funcione.
+
+**Caso 3. Problema de agencia en una venta.** Los administradores de una empresa prefieren
+vender a un postor que les ofrece conservar su empleo, en vez del que paga más a los
+accionistas. *Análisis:* es un costo de agencia; el gobierno corporativo (consejo independiente,
+*fairness opinion*, deber de maximizar el valor) lo corrige.
+
+## 20. Preguntas abiertas
+
+1. ¿Debe el derecho corporativo perseguir solo eficiencia (Posner) o también equidad
+   distributiva (Rawls)?
+2. ¿El capitalismo de *stakeholders* y el ESG son una corrección necesaria o una amenaza a la
+   claridad del objetivo empresarial?
+3. ¿Hasta dónde debe el Estado corregir fallas de mercado sin crear "fallas de gobierno"
+   (captura regulatoria, ineficiencia)?
+4. ¿La economía conductual justifica un Estado "paternalista" (*nudges*) o erosiona la autonomía?
+5. ¿La calidad institucional explica realmente la prosperidad, o hay otros factores decisivos?
+
+## 21. Preguntas tipo examen (con respuesta modelo)
+
+**P1. ¿Qué es la "mano invisible" y cuáles son sus límites?** *R.* La idea de Adam Smith de que
+el interés propio en el mercado tiende al bien común; sus límites son las **fallas de mercado**
+(externalidades, bienes públicos, monopolios, información asimétrica) que justifican la
+regulación.
+
+**P2. Enuncie el teorema de Coase.** *R.* Con derechos bien definidos y costos de transacción
+bajos, las partes negocian la solución eficiente con independencia de la asignación inicial del
+derecho. Si los costos de transacción son altos, la asignación de derechos y la regulación sí
+importan.
+
+**P3. ¿Qué es el problema de agencia y cómo se resuelve?** *R.* El conflicto entre el principal
+(accionistas) y el agente (administradores) que puede perseguir su propio interés; se mitiga
+con gobierno corporativo: consejos independientes, deberes fiduciarios, auditoría e incentivos
+alineados.
+
+**P4. Relacione información asimétrica y due diligence.** *R.* En la compraventa de empresa el
+vendedor tiene más información (selección adversa); la due diligence, las reps & warranties y el
+escrow reducen la asimetría y asignan el riesgo de lo desconocido, permitiendo cerrar la
+operación.
+
+## 22. Casos complejos (nivel "socio")
+
+**Caso A. Diseño de un SPA desde la teoría económica.** Un fondo compra una empresa familiar
+cuyo dueño conoce a fondo el negocio (fuerte asimetría de información) y cuyas proyecciones son
+inciertas. Diseñe, **fundamentando en teoría económica**, los mecanismos del SPA: (i) due
+diligence intensiva (reducir asimetría); (ii) *representations & warranties* amplias del
+vendedor (quien controla la información asume su veracidad); (iii) *escrow*/*holdback* (asegurar
+indemnización ante lo oculto); (iv) *earn-out* (alinear incentivos y repartir el riesgo de las
+proyecciones inciertas, pagando según resultados); (v) cláusulas de no competencia (proteger el
+valor de la sinergia). Explique cómo cada cláusula corrige una **falla** (asimetría, riesgo
+moral) y crea **incentivos** correctos.
+
+**Caso B. Fusión: eficiencia vs. competencia.** Dos empresas líderes proponen fusionarse
+alegando grandes **sinergias** (eficiencia). La autoridad teme que la fusión cree **poder de
+mercado** (daño a la competencia). Analice el conflicto entre las dos lógicas (eficiencia
+económica de la fusión vs. corrección de la falla de mercado "monopolio"), cómo la autoridad
+**pondera** ambas, y qué **remedios** (desinversiones, compromisos de comportamiento) permiten
+capturar la eficiencia sin el daño competitivo. Conecte con el papel del abogado: traducir el
+argumento económico de sinergias en una defensa regulatoria.
+
+---
+
+## 23. Flashcards
+
+- **¿Mano invisible?** → El interés propio en el mercado tiende al bien común (Smith).
+- **¿Fallas de mercado?** → Externalidades, bienes públicos, monopolios, información
+  asimétrica.
+- **¿Teorema de Coase?** → Con derechos claros y costos de transacción bajos, las partes
+  negocian la solución eficiente.
+- **¿Costos de transacción?** → Costos de negociar, contratar y hacer cumplir acuerdos.
+- **¿Instituciones (North)?** → Reglas del juego que reducen incertidumbre y explican el
+  desarrollo.
+- **¿Problema de agencia?** → Conflicto principal (accionistas) - agente (administradores).
+- **¿Información asimétrica?** → Una parte sabe más que la otra (selección adversa, riesgo
+  moral).
+- **¿Akerlof / "limones"?** → La asimetría destruye mercados si no se corrige (due diligence).
+- **¿Eficiencia de Pareto?** → Nadie mejora sin empeorar a otro.
+- **¿Friedman vs. stakeholders?** → Maximizar valor del accionista vs. atender a todos los
+  grupos de interés.
+- **¿Keynes vs. Hayek?** → Intervención estatal vs. mercado libre.
+- **¿Law & Economics?** → Analizar reglas jurídicas por sus efectos económicos (incentivos,
+  eficiencia).
+
+## 24. Mapas mentales
+
+```
+PENSAMIENTO JURÍDICO Y ECONÓMICO
+├── PENSAMIENTO JURÍDICO
+│   └── Iusnaturalismo → Positivismo (Kelsen/Hart) → Realismo → Principialismo (Dworkin)
+│       + Justicia (Rawls)
+├── PENSAMIENTO ECONÓMICO
+│   ├── Mercantilismo → Fisiócratas → Clásicos (Smith, Ricardo)
+│   ├── Marx → Neoclásicos → Keynes → Friedman/Hayek
+│   └── Schumpeter (innovación) · Conductual (Kahneman, Thaler)
+├── NUEVA ECONOMÍA INSTITUCIONAL
+│   ├── Coase: costos de transacción + teorema + naturaleza de la empresa
+│   ├── North: instituciones y desarrollo
+│   └── Williamson: gobernanza (mercado/contrato/jerarquía)
+├── CONCEPTOS CLAVE
+│   ├── Fallas de mercado (externalidades, bienes públicos, monopolio, asimetría)
+│   ├── Información asimétrica (Akerlof) → due diligence/reps
+│   └── Problema de agencia (Jensen-Meckling) → gobierno corporativo
+└── LAW & ECONOMICS (Coase, Calabresi, Posner): incentivos + eficiencia
+```
+
+## 25. Cuadros comparativos
+
+**Justicia vs. eficiencia**
+
+| | Lógica del derecho | Lógica de la economía |
+|---|---|---|
+| Criterio | Justicia, derechos, equidad | Eficiencia, maximización |
+| Pregunta | ¿Es correcto/debido? | ¿Asigna mejor los recursos? |
+| Representante | Rawls | Posner / Coase |
+
+**Escuelas económicas y el papel del Estado**
+
+| Escuela | Papel del Estado | Idea central |
+|---|---|---|
+| Mercantilismo | Fuerte | Acumular metal/comercio |
+| Clásica (Smith) | Mínimo | Mano invisible |
+| Keynesiana | Activo | Sostener la demanda |
+| Chicago (Friedman) | Mínimo | Mercado + política monetaria |
+| Institucional (North) | Garante de reglas | Instituciones y contratos |
+
+**Conceptos económicos y su aplicación corporativa**
+
+| Concepto | Aplicación en derecho de negocios |
+|---|---|
+| Información asimétrica | Due diligence, reps & warranties, escrow |
+| Problema de agencia | Gobierno corporativo, deberes fiduciarios |
+| Costos de transacción | Por qué existen empresas; hacer vs. comprar |
+| Fallas de mercado | Regulación de competencia, ambiental, valores |
+
+## 26. Mnemotecnias
+
+- **Fallas de mercado:** **"EBMA"** → **E**xternalidades, **B**ienes públicos, **M**onopolios,
+  **A**simetría de información.
+- **Teorema de Coase:** *"derechos claros + transacción barata = solución eficiente sin
+  importar quién empieza con el derecho"*.
+- **Agencia:** *"el agente no siempre cuida al principal"* → gobierno corporativo.
+- **Asimetría → M&A:** *"el vendedor sabe más; por eso due diligence, reps y escrow"*.
+- **Debate eterno:** *"Smith mercado, Keynes Estado, North instituciones"*.
+
+## 27. Checklist del jurista (mirada económica de una operación)
+
+- [ ] **Racional de negocio:** ¿por qué se hace? (sinergias, escala, mercado, integración)
+- [ ] **Asimetrías de información:** ¿quién sabe más?, ¿cómo las cubro (due diligence, reps,
+  escrow)?
+- [ ] **Incentivos:** ¿qué comportamiento induce cada cláusula? ¿están alineados los
+  intereses?
+- [ ] **Problema de agencia:** ¿hay conflicto administradores/accionistas? ¿cómo se gobierna?
+- [ ] **Externalidades y regulación:** ¿hay fallas de mercado que activen la regulación
+  (competencia, ambiental)?
+- [ ] **Costos de transacción:** ¿conviene contrato, joint venture o adquisición (hacer vs.
+  comprar)?
+- [ ] **Riesgo institucional/país:** ¿qué tan sólido es el Estado de Derecho del foro?
+- [ ] **Sesgos en la negociación:** ¿anclaje, aversión a la pérdida, exceso de confianza?
+
+## 28. Resumen ejecutivo
+
+El derecho y la economía son **dos lenguajes** —el de la justicia y el de la eficiencia— para
+ordenar la convivencia y la riqueza. Este libro traza sus grandes corrientes: en lo jurídico,
+del iusnaturalismo al positivismo, el realismo y el principialismo; en lo económico, del
+mercantilismo a los clásicos (Smith, Ricardo), Marx, los neoclásicos, Keynes, Friedman y Hayek.
+Su núcleo más útil para el abogado es la **Nueva Economía Institucional** (Coase, North,
+Williamson): demuestra que el derecho **importa económicamente**, porque los **costos de
+transacción**, los **derechos de propiedad** y las **instituciones** determinan la creación de
+valor y el desarrollo. Tres ideas son la base directa de la práctica corporativa: las **fallas
+de mercado** (que justifican la regulación), la **información asimétrica** (Akerlof: la razón de
+ser de la due diligence, las reps & warranties y el escrow) y el **problema de agencia**
+(Jensen-Meckling: el fundamento del gobierno corporativo).
+
+El **análisis económico del derecho** (Coase, Posner) evalúa las reglas por sus **incentivos** y
+es hoy herramienta central del derecho de contratos, competencia y corporativo. El abogado de
+clase mundial es **bilingüe**: razona en clave de justicia y de eficiencia, entiende el racional
+de negocio de cada operación, diseña cláusulas que alinean incentivos y corrigen asimetrías, y
+lee el riesgo regulatorio y país desde el debate Estado-mercado. Esta cultura conceptual es lo
+que convierte a un técnico jurídico en un **asesor estratégico de negocios**.
+
+## 29. Bibliografía
+
+**Pensamiento jurídico:** Aristóteles, *Ética a Nicómaco* y *Política*; Tomás de Aquino,
+*Suma Teológica* (tratado de la ley); Rawls, John, *Teoría de la Justicia*; (y los autores del
+Libro 2: Kelsen, Hart, Dworkin).
+
+**Pensamiento económico:** Smith, Adam, *La riqueza de las naciones*; Ricardo, David,
+*Principios de economía política*; Marx, Karl, *El Capital*; Keynes, J. M., *Teoría general del
+empleo, el interés y el dinero*; Friedman, Milton, *Capitalismo y libertad*; Hayek, F. A.,
+*Camino de servidumbre*; Schumpeter, J., *Capitalismo, socialismo y democracia*.
+
+**Derecho y Economía / institucional:** Coase, Ronald, "The Nature of the Firm" y "The Problem
+of Social Cost"; North, Douglass, *Instituciones, cambio institucional y desempeño económico*;
+Williamson, Oliver, *Las instituciones económicas del capitalismo*; Posner, Richard, *El
+análisis económico del derecho*; Akerlof, George, "The Market for Lemons"; Jensen, M. y
+Meckling, W., "Theory of the Firm"; Kahneman, Daniel, *Pensar rápido, pensar despacio*.
+
+**México:** Constitución, arts. 25-28 (rectoría económica); literatura sobre historia económica
+de México y reformas estructurales.
+
+## 30. Ruta para continuar
+
+Tienes ya el **marco intelectual**: las ideas que dan forma al derecho y a la economía. Ahora
+profundizaremos en las **herramientas económicas concretas** que usa el abogado de negocios.
+
+- **Siguiente libro:** *Economía para juristas* (Nivel I, Libro 10): microeconomía
+  (oferta-demanda, costos, mercados), macroeconomía (PIB, inflación, tasas, tipo de cambio) y
+  conceptos financieros básicos, todo orientado a la práctica corporativa.
+- **Conexión inmediata:** los conceptos que aquí viste históricamente (eficiencia, fallas de
+  mercado, incentivos) se vuelven herramientas operativas en el siguiente libro.
+- **Conexión de largo alcance:** vuelve a las secciones 17 y 22 cuando estudies M&A,
+  competencia y valuación (Niveles IV-V): allí la teoría económica se convierte en estrategia y
+  en cifras.
+
+> *"El abogado que no entiende de economía será siempre el subordinado del que sí entiende."*
+> Conviértete en el jurista **bilingüe** que comprende la justicia y la eficiencia: en esa
+> doble fluidez está la diferencia entre el técnico y el socio que asesora al consejo.
