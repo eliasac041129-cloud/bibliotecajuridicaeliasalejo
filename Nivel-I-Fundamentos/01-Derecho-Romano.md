@@ -609,3 +609,122 @@ venditio* sofisticada.
 - **Diálogo civil law / common law:** en un *cross-border deal*, el abogado romanista
   traduce entre la mentalidad codificada y la del precedente, anticipando dónde chocan
   *causa* y *consideration*, o transmisión consensual y *delivery*.
+
+
+---
+
+## 19. Casos
+
+**Caso 1. El esclavo que compra sin autorización (peculio).**
+Un esclavo, con el *peculium* que su dueño le permitió administrar, compra mercancías para
+revender. ¿Queda obligado el dueño? *Análisis:* el esclavo no es persona plena, pero el
+pretor concedió acciones (*actiones adiecticiae qualitatis*, como la *actio de peculio*)
+para que los terceros que contrataban con él pudieran reclamar hasta el límite del peculio.
+*Lección moderna:* es el embrión de la **responsabilidad limitada** y de la idea de que
+quien pone a otro a operar un patrimonio responde dentro de ciertos límites. Piensa en el
+administrador de una sociedad y el patrimonio social.
+
+**Caso 2. La cosa vendida que resulta ajena.**
+Ticio vende a Cayo un fundo que creía suyo; aparece Sempronio, verdadero dueño, y reivindica.
+*Análisis:* hay **evicción**. Cayo no puede oponerse a Sempronio (*nemo dat quod non habet*),
+pero tiene contra Ticio la garantía de evicción: Ticio debe indemnizarle. *Lección moderna:*
+en un M&A, si las acciones vendidas no eran del vendedor (o estaban gravadas), se activa la
+*title warranty* y la indemnización: misma estructura, dos mil años después.
+
+**Caso 3. El depósito y el comodato confundidos.**
+Una persona entrega un caballo a otra "para que lo cuide". ¿Depósito (custodia gratuita) o
+comodato (préstamo de uso)? *Análisis:* depende de si el tenedor puede **usar** la cosa. El
+depositario que usa el caballo comete *furtum usus* (hurto de uso). *Lección:* la
+**calificación** del contrato determina obligaciones y responsabilidad; calificar bien es
+el primer acto del jurista, igual que distinguir un *share deal* de un *asset deal*.
+
+**Caso 4. La estipulación y la abstracción.**
+Por *stipulatio*, Cayo promete pagar 100 a Ticio. Luego resulta que la causa (un préstamo)
+nunca existió. ¿Debe pagar? *Análisis:* la *stipulatio* es formal y tiende a la abstracción;
+pero el pretor concede la *exceptio doli* o la *condictio* para evitar el enriquecimiento
+injusto. *Lección moderna:* tensión entre la **forma** (un pagaré, un título de crédito
+abstracto) y la **causa** subyacente: exactamente el debate de los títulos de crédito
+(Nivel III, LGTOC).
+
+---
+
+## 20. Preguntas abiertas
+
+1. Si el derecho romano fue casuístico y no sistemático, ¿por qué la modernidad lo
+   reorganizó en códigos? ¿Se ganó o se perdió algo en esa traducción?
+2. ¿Es la separación romana entre título y modo más "honesta" que el consensualismo
+   francés, al reconocer que prometer transmitir y transmitir son actos distintos?
+3. ¿La mentalidad remedial romana ("tantos derechos como acciones") describe mejor la
+   realidad que la teoría moderna del derecho subjetivo?
+4. ¿Hasta qué punto la *bona fides* debe limitar la autonomía de la voluntad en los
+   contratos entre empresas sofisticadas que negocian con asesores?
+5. ¿Qué diría un jurista clásico de un *earn-out* o de una cláusula MAC? ¿Los encuadraría
+   en *condicio*, en *bona fides*, o los rechazaría como pacto incierto?
+
+---
+
+## 21. Preguntas tipo examen (con respuesta modelo)
+
+**P1. Defina obligación según las Institutiones y explique sus elementos.**
+*R.* "*Iuris vinculum quo necessitate adstringimur alicuius solvendae rei*". Elementos:
+(i) **vínculo jurídico** —no moral—, exigible; (ii) **sujetos**: acreedor y deudor; (iii)
+**objeto**: la prestación (*dare*, *facere*, *praestare*); (iv) **coercibilidad**: el
+acreedor cuenta con una *actio*. La obligación natural carece de acción pero produce
+*soluti retentio* (no se repite lo pagado).
+
+**P2. ¿Por qué la compraventa romana clásica no transmitía la propiedad?**
+*R.* Porque la *emptio venditio* era un contrato consensual que generaba **obligaciones**
+(entregar y garantizar), no un acto traslativo. La propiedad se transmitía por el **modo**
+correspondiente (*mancipatio*, *in iure cessio* o *traditio* con justa causa). Rige el
+sistema de **título y modo**, recogido por el derecho alemán; el Código Civil mexicano, en
+cambio, adopta el consensualismo francés para bienes ciertos (art. 2014 CCF).
+
+**P3. Clasifique los contratos romanos.**
+*R.* Por su modo de perfeccionarse: **reales** (mutuo, comodato, depósito, prenda —se
+perfeccionan con la entrega—); **verbales** (*stipulatio*); **literales** (por escritura);
+y **consensuales** (compraventa, arrendamiento, sociedad, mandato —por mero
+consentimiento, regidos por la buena fe—). El *pactum nudum* no era exigible.
+
+**P4. Distinga dolo, culpa y caso fortuito.**
+*R.* **Dolo**: conducta intencional dañosa o engaño; siempre responsabiliza y no puede
+condonarse anticipadamente. **Culpa**: negligencia, graduada en *lata*, *levis* y
+*levissima*, medida con el estándar del *bonus pater familias*. **Caso fortuito** (*casus*):
+evento inevitable que, en principio, libera al deudor, salvo mora previa o asunción del
+riesgo.
+
+**P5. ¿Qué es la usucapión y qué requisitos exige?**
+*R.* Modo de adquirir la propiedad por la posesión continuada. Requisitos clásicos
+sintetizados en el verso medieval: *res habilis, titulus, fides, possessio, tempus* (cosa
+susceptible, justo título, buena fe, posesión y tiempo). Es el antecedente de la
+prescripción positiva del derecho mexicano.
+
+---
+
+## 22. Casos complejos (nivel "socio")
+
+**Caso A. Cadena de transmisiones y *nemo dat*.**
+A vende y entrega a B una cosa que A había comprado de C, pero C la había robado a D. D
+reivindica. Analice la posición de B (poseedor de buena fe), las garantías de evicción en
+cadena (B contra A, A contra C) y cómo se interrumpe la usucapión por el vicio de la cosa
+robada (*res furtiva* no usucapible). *Trasládelo* a un M&A: ¿qué pasa si las acciones
+objeto de la venta provienen de una transmisión previa nula? Diseñe la cadena de
+*representations* e indemnizaciones que protegería al comprador final y discuta el límite
+temporal (*survival* de las *reps*).
+
+**Caso B. Estipulación abstracta vs. causa ilícita.**
+Por *stipulatio*, X promete a Y pagar 1,000 como "precio" de una influencia indebida ante
+un magistrado. Y reclama el pago. Discuta: validez formal de la *stipulatio*, *exceptio
+doli*, *condictio ob turpem causam* y la imposibilidad de repetir lo pagado por causa
+torpe de ambas partes (*in pari causa turpitudinis*). Conecte con el control de **causa
+ilícita** del art. 1795-IV CCF y con las cláusulas **anticorrupción** de un contrato
+internacional moderno (FCPA/UK Bribery Act). ¿La forma abstracta puede "lavar" una causa
+ilícita? Argumente.
+
+**Caso C. Sociedad, aportación de industria y pérdidas.**
+Tres personas constituyen una *societas*: dos aportan capital y una solo su trabajo
+(*opera*). Hay pérdidas. ¿Participa el socio industrial en las pérdidas? Discuta la
+*societas leonina* (pacto que asigna a uno todas las pérdidas o a otro todas las ganancias)
+y su prohibición. Proyecte el problema al derecho societario moderno: cláusulas leoninas en
+estatutos, *liquidation preferences* en venture capital y el límite del pacto que priva a
+un socio de toda utilidad (art. 17 LGSM). ¿Dónde está hoy la frontera entre libertad
+contractual y prohibición de pacto leonino?
