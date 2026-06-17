@@ -439,3 +439,183 @@ Régimen en el **Código Civil Federal** (Libro Segundo, "De los Bienes") y leye
 > **técnica** (cómo se perfecciona y ejecuta).
 
 ---
+
+
+## 14. Cómo aparece en un juicio
+
+- **Acción reivindicatoria:** el propietario que no posee reclama la cosa de quien la posee
+  sin derecho. Es la acción real por excelencia (debe probarse la propiedad y la identidad de
+  la cosa).
+- **Acciones posesorias e interdictos:** protegen al poseedor frente a despojos o
+  perturbaciones, **sin** discutir la propiedad (basta el hecho de la posesión).
+- **Juicio hipotecario / ejecución de garantías:** vía especial para que el acreedor con
+  hipoteca o prenda ejecute la garantía (remate del bien) y cobre con **preferencia**. El
+  fideicomiso de garantía suele permitir una ejecución **extrajudicial** más ágil pactada en
+  el contrato.
+- **Tercería:** el tercero que alega ser dueño o tener mejor derecho sobre un bien embargado
+  comparece para excluirlo o para hacer valer su preferencia.
+- **Prescripción adquisitiva (usucapión):** juicio en el que el poseedor pide que se le
+  declare propietario por el transcurso del tiempo.
+
+## 15. Cómo aparece en un contrato
+
+- **Contratos traslativos de dominio:** la compraventa, la permuta y la donación transmiten
+  propiedad; el contrato describe el bien, su situación registral y los gravámenes.
+- **Contratos de garantía:** la **hipoteca** (escritura pública + inscripción), la **prenda**
+  (con o sin transmisión de posesión) y el **fideicomiso de garantía** son contratos que
+  crean derechos reales; sus cláusulas regulan constitución, conservación, sustitución de
+  bienes y **ejecución**.
+- **Declaraciones (*reps*) sobre los activos:** el vendedor declara que es **propietario**,
+  que los bienes están **libres de gravámenes** (o revela los existentes) y que no hay
+  litigios sobre ellos.
+- **Cláusulas de "libre de gravámenes" (*free and clear*):** en una compraventa de activos o
+  acciones, el comprador exige recibir los bienes/acciones **sin cargas**; se condiciona el
+  cierre a la **liberación** de garantías previas (*release of liens*).
+- **Cláusula de transmisión y riesgo:** define cuándo pasa la propiedad y el riesgo de
+  pérdida (relevante por el sistema consensual).
+
+## 16. Cómo aparece en una empresa
+
+- **El activo de la empresa son bienes y derechos reales:** inmuebles (plantas, oficinas),
+  muebles (maquinaria, inventario), intangibles (marcas, patentes) y derechos. Su correcta
+  titularidad e inscripción es patrimonio puro.
+- **Las acciones como bienes muebles:** la participación de los socios son **acciones** (bienes
+  muebles incorporales), susceptibles de **prenda** —pieza clave del financiamiento y de las
+  garantías en M&A—.
+- **Garantías sobre activos de la empresa:** para financiarse, la empresa **grava** sus
+  activos (hipoteca la planta, prenda el inventario y las cuentas, afecta flujos a un
+  fideicomiso). El director jurídico gestiona ese balance entre liquidez y gravámenes.
+- **Gestión registral:** mantener al día la inscripción de propiedad y la ausencia/registro de
+  gravámenes es gobierno del patrimonio.
+
+## 17. Cómo aparece en una operación de M&A
+
+Este libro es la base de dos pilares del M&A: la **due diligence de activos** y el **paquete
+de garantías** del financiamiento de la adquisición.
+
+- **Share deal vs. asset deal y los bienes:** en un **asset deal** se transmiten bienes
+  concretos (cada uno con su forma y registro: inmuebles por escritura e inscripción,
+  contratos por cesión, etc.); en un **share deal** se transmiten **acciones** (bienes
+  muebles) y la empresa conserva sus activos. Elegir uno u otro depende, en parte, de la
+  facilidad de transmitir y de aislar gravámenes y pasivos.
+- **Due diligence inmobiliaria y de activos:** verificar **propiedad inscrita**,
+  **gravámenes** (hipotecas, prendas, embargos), servidumbres, litigios posesorios,
+  regularidad de uso de suelo. Un activo clave gravado o con título defectuoso afecta precio y
+  *reps*.
+- **Liberación de garantías al cierre (*payoff & release*):** si la *target* o sus activos
+  están hipotecados/prendados a favor de bancos, el cierre se coordina para **pagar y liberar**
+  esas garantías simultáneamente, de modo que el comprador reciba *free and clear*.
+- **Financiamiento de adquisición (acquisition finance):** el comprador suele financiar el
+  precio con deuda garantizada: **prenda sobre las acciones** de la *target*, hipoteca sobre
+  sus inmuebles, prenda sobre cuentas y flujos, a veces vía **fideicomiso**. El abogado
+  estructura y perfecciona ese *security package* y coordina su inscripción el día del
+  *closing*.
+- **Prioridad y subordinación:** si hay varios acreedores (deuda *senior* y *mezzanine*), se
+  pactan **acuerdos de subordinación** y de prelación de garantías (*intercreditor
+  agreement*): derecho real de garantía + jerarquía contractual.
+
+> **Cómo razona el socio:** "En la adquisición pregunto dos cosas sobre los activos: ¿el
+> vendedor **realmente es dueño** y están **libres de gravámenes**? Y para financiar:
+> ¿sobre qué activos puedo tomar garantía, cómo la **perfecciono** y **registro** para tener
+> prioridad, y qué tan rápido la **ejecuto** si hay default? La respuesta vale puntos de tasa
+> y millones de recuperación."
+
+## 18. Cómo aparece en la práctica internacional
+
+- **Toma de garantías multijurisdiccional:** en financiamientos cross-border, cada garantía se
+  rige por la ley del lugar del bien (*lex rei sitae*): la hipoteca del inmueble mexicano por
+  ley mexicana; la prenda sobre acciones de una holding extranjera por su ley. Se coordinan
+  opiniones legales locales sobre validez, perfeccionamiento y ejecución.
+- **Article 9 UCC y floating charge:** el abogado internacional domina los regímenes
+  anglosajones de garantías mobiliarias (*security interests*, *fixed and floating charges*),
+  pariente funcional de la prenda sin transmisión.
+- **Reconocimiento de garantías y ejecución transfronteriza:** la ejecución de una garantía
+  puede chocar con normas imperativas del foro del bien o con un concurso en otra
+  jurisdicción (insolvencia transfronteriza).
+- **Garantías sobre intangibles y cuentas en el extranjero:** cuentas bancarias, créditos y
+  propiedad intelectual ubicados en distintos países exigen estructurar la garantía conforme a
+  cada ley aplicable.
+
+---
+
+## 19. Casos
+
+**Caso 1. Garantía no inscrita pierde prioridad.** Un acreedor toma prenda sobre maquinaria
+pero **no la inscribe** en el RUG. Otro acreedor posterior inscribe su garantía sobre el mismo
+bien. *Análisis:* por *prior in tempore* registral, el que **inscribió** primero suele tener
+prioridad; la garantía no inscrita puede ser inoponible frente a terceros. Lección: el
+perfeccionamiento y el registro **no son trámite**, son prioridad.
+
+**Caso 2. Compra de inmueble con vicio de titularidad.** El comprador adquiere un terreno de
+quien aparece como dueño, pero existe una cadena de transmisiones defectuosa y un tercero
+reivindica. *Análisis:* se discuten la fe pública registral, la buena fe del comprador y la
+posible protección del tercero registral de buena fe. Lección: la **due diligence registral**
+y los seguros de título mitigan este riesgo.
+
+**Caso 3. Ejecución de fideicomiso de garantía.** Una empresa transmite a un fiduciario sus
+cuentas por cobrar en garantía de un crédito; ante el incumplimiento, el fiduciario, conforme
+al contrato, dispone de los flujos para pagar al acreedor sin necesidad de un largo juicio.
+*Análisis:* el fideicomiso de garantía ofrece **ejecución más ágil** que la hipoteca; por eso
+domina en financiamientos estructurados.
+
+## 20. Preguntas abiertas
+
+1. ¿Sigue siendo útil la distinción tajante entre derecho real y personal, o las garantías
+   modernas (prenda sin posesión, fideicomiso) la difuminan?
+2. ¿Debería México adoptar un sistema unificado de garantías mobiliarias al estilo del
+   Article 9 del UCC, superando la dispersión de figuras?
+3. ¿Hasta dónde debe llegar la función social de la propiedad (art. 27) sin desincentivar la
+   inversión?
+4. ¿Es eficiente la zona restringida para extranjeros, o el fideicomiso la vuelve un mero
+   trámite costoso?
+5. ¿Cómo debe tratarse la propiedad de activos puramente digitales (criptoactivos, tokens):
+   bienes muebles incorporales o una categoría nueva?
+
+## 21. Preguntas tipo examen (con respuesta modelo)
+
+**P1. Distinga derecho real y derecho personal.** *R.* El real recae directamente sobre una
+cosa, es oponible *erga omnes* y confiere persecución y preferencia (propiedad, prenda,
+hipoteca). El personal recae sobre la conducta de un deudor (dar/hacer/no hacer), es *inter
+partes* (crédito). El real se publicita por registro; el personal no.
+
+**P2. ¿Qué facultades integran la propiedad y qué la limita?** *R.* Usar (*ius utendi*),
+disfrutar (*ius fruendi*) y disponer (*ius abutendi*). Límites: función social (art. 27),
+expropiación por utilidad pública con indemnización, relaciones de vecindad, prohibición del
+abuso del derecho y regulación administrativa.
+
+**P3. Compare prenda e hipoteca.** *R.* Prenda: sobre **muebles**; clásica con desplazamiento
+de posesión, moderna sin transmisión (LGTOC, registro en RUG). Hipoteca: sobre **inmuebles**
+(y ciertos derechos), sin desplazamiento, en escritura pública e inscrita en el Registro
+Público de la Propiedad. Ambas confieren persecución y preferencia.
+
+**P4. ¿Qué son la persecución y la preferencia?** *R.* Persecución: el acreedor con garantía
+real persigue la cosa aunque pase a un tercero. Preferencia: cobra antes que los acreedores
+comunes sobre el producto de esa cosa.
+
+**P5. ¿Por qué las acciones se dan en prenda y no en hipoteca?** *R.* Porque las acciones son
+**bienes muebles** (incorporales); la hipoteca recae sobre inmuebles. La garantía sobre
+acciones es la **prenda** (a menudo prenda bursátil o civil/mercantil, con endoso en
+garantía).
+
+## 22. Casos complejos (nivel "socio")
+
+**Caso A. Diseño del security package de una adquisición apalancada.** Un comprador financia
+la compra de una empresa manufacturera con un crédito de 200 millones. La *target* tiene: una
+planta (inmueble), maquinaria, inventario rotativo, cuentas por cobrar, marcas y cuentas
+bancarias; y el comprador adquirirá sus **acciones**. Diseñe el paquete de garantías: (i)
+qué garantía sobre cada activo (hipoteca/planta; prenda sin transmisión/maquinaria e
+inventario; prenda/cuentas y acciones; fideicomiso/flujos); (ii) cómo perfeccionar e
+**inscribir** cada una y en qué registro; (iii) cómo coordinar la **inscripción simultánea**
+al cierre para asegurar prioridad; (iv) cómo lograr que las acciones lleguen *free and clear*
+(liberar garantías previas con *payoff letters*); (v) si hay deuda *senior* y *mezzanine*,
+diseñe la prelación vía *intercreditor agreement*. Evalúe la **rapidez de ejecución** de cada
+garantía ante un eventual default.
+
+**Caso B. Conflicto entre acreedor garantizado y concurso mercantil.** La empresa garante
+entra en concurso mercantil. Un acreedor tiene hipoteca inscrita sobre la planta; otro,
+prenda no inscrita sobre inventario; los trabajadores reclaman salarios; el fisco, impuestos.
+Analice el **orden de prelación**: la preferencia del acreedor hipotecario sobre el bien
+hipotecado, la suerte de la prenda **no inscrita**, los créditos **singularmente
+privilegiados** (laborales) y fiscales, y cómo el concurso puede afectar la ejecución
+individual de garantías (suspensión, masa). Argumente quién cobra qué y por qué la
+**inscripción** fue decisiva.
