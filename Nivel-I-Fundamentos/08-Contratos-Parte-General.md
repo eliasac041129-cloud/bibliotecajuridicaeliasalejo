@@ -618,3 +618,186 @@ exclusiones (cambios de mercado generales) y la carga de la prueba—; (iii) có
 **definición** contractual y la regla de **interpretación sistemática y contra proferentem**
 inclinan el resultado; (iv) por qué la **redacción precisa** de estos estándares decide el
 desenlace. Construya el argumento de cada parte.
+
+
+---
+
+## 23. Flashcards
+
+- **¿Contrato vs. convenio?** → Convenio (género): crea/transmite/modifica/extingue; contrato
+  (especie): crea o transmite obligaciones.
+- **¿Pacta sunt servanda (art. 1796)?** → El contrato es ley entre las partes; obliga de buena
+  fe.
+- **¿Cómo se forma el consentimiento?** → Encuentro de oferta y aceptación (lisa y llana).
+- **¿Aceptación que modifica la oferta?** → Es contraoferta; no hay contrato.
+- **¿Teoría de la formación entre ausentes en México?** → Recepción (al recibir el oferente la
+  aceptación).
+- **¿Regla de interpretación principal?** → Intención común sobre la letra (art. 1851).
+- **¿Contra proferentem?** → La duda se interpreta contra quien redactó (a favor del
+  adherente).
+- **¿Relatividad del contrato?** → Solo obliga a las partes (*res inter alios acta*); no a
+  terceros.
+- **¿Contrato conmutativo vs. aleatorio?** → Prestaciones ciertas vs. dependientes de un evento
+  incierto.
+- **¿Contrato típico vs. atípico?** → Regulado por la ley vs. creado por las partes.
+- **¿Resolución vs. nulidad?** → Incumplimiento posterior vs. vicio de origen.
+- **¿Qué es un contrato de adhesión?** → Una parte fija las cláusulas; la otra se adhiere
+  (control de abusivas).
+- **¿Para qué sirve la cláusula *entire agreement*?** → Que el texto sea la única fuente
+  (excluye lo previo).
+
+## 24. Mapas mentales
+
+```
+CONTRATO (acto jurídico bilateral)
+├── BASE (Libro 4 + 7): existencia · validez · obligaciones
+├── AUTONOMÍA DE LA VOLUNTAD (1796)
+│   └── Límites: orden público / normas imperativas / derechos de terceros
+├── FORMACIÓN
+│   ├── Oferta + Aceptación (lisa y llana) → consentimiento
+│   ├── Entre ausentes: teoría de la recepción
+│   └── Tratos preliminares + buena fe precontractual (culpa in contrahendo)
+├── CLASIFICACIÓN
+│   ├── Bi/unilateral · oneroso/gratuito · conmutativo/aleatorio
+│   ├── Principal/accesorio · instantáneo/tracto sucesivo
+│   ├── Típico/atípico · de adhesión · preparatorio
+├── EFECTOS
+│   ├── Fuerza obligatoria (pacta sunt servanda)
+│   └── Relatividad (res inter alios acta) + integración (buena fe/uso/ley)
+├── INTERPRETACIÓN (1851-1859)
+│   └── Intención común · sistemática · efecto útil · uso · contra proferentem · buena fe
+└── VICISITUDES
+    └── Nulidad · rescisión (lesión) · RESOLUCIÓN (1949) · terminación · imprevisión
+```
+
+**Puente con M&A:**
+`term sheet → contrato preparatorio (qué obliga y qué no)` · `SPA → anatomía contractual`
+`estándares (esfuerzo/materialidad/conocimiento) → interpretación` · `change of control → relatividad`
+`entire agreement/non-reliance → control de error/dolo` · `ley aplicable + arbitraje → estrategia`.
+
+## 25. Cuadros comparativos
+
+**Clasificación de contratos**
+
+| Criterio | Tipos | Ejemplo |
+|---|---|---|
+| Obligaciones | Bilateral / Unilateral | Compraventa / Donación |
+| Provecho | Oneroso / Gratuito | Arrendamiento / Comodato |
+| Certeza | Conmutativo / Aleatorio | Compraventa / Seguro |
+| Regulación | Típico / Atípico | Mutuo / Joint venture |
+| Formación | Adhesión / Negociado | Bancario / SPA |
+
+**Vicisitudes del contrato**
+
+| | Causa | Efecto | Quién la invoca |
+|---|---|---|---|
+| Nulidad | Vicio de origen | Inválido (Libro 4) | Según absoluta/relativa |
+| Rescisión (lesión) | Desproporción + explotación | Anula o reduce | El lesionado |
+| Resolución (1949) | Incumplimiento posterior | Deshace + daños | La parte cumplidora |
+| Terminación | Plazo / mutuo disenso / ley | Cesa hacia adelante | Las partes |
+
+**Civil law vs. common law (contrato)**
+
+| | México (civil) | Common law |
+|---|---|---|
+| Fuerza | Consentimiento + causa/fin lícito | Acuerdo + *consideration* |
+| Interpretación | Intención común (1851) | Literal/objetiva + *parol evidence* |
+| Buena fe precontractual | Sí (culpa in contrahendo) | Limitada |
+| Integración | Buena fe, uso, ley supletoria | El texto manda (de ahí su extensión) |
+
+## 26. Mnemotecnias
+
+- **Reglas de interpretación:** **"I-S-E-U-C-B"** → **I**ntención común, **S**istemática,
+  **E**fecto útil, **U**so, **C**ontra proferentem, **B**uena fe.
+- **Vicisitudes:** **"NaReReTeI"** → **Na**lidad/Nulidad, **Re**scisión, **Re**solución,
+  **Te**rminación, **I**mprevisión.
+- **Efectos del contrato:** *"obliga (fuerza) pero solo a las partes (relatividad)"*.
+- **Aceptación:** *"lisa y llana, o es contraoferta"*.
+- **Anatomía del contrato:** **"De-De-Co-Co-Ga-Te-Bo"** → **De**claraciones, **De**finiciones,
+  **Co**venants, **Co**ndiciones, **Ga**rantías/indemnización, **Te**rminación, **Bo**ilerplate.
+
+## 27. Checklist del jurista (redacción/revisión de un contrato)
+
+- [ ] **Partes y representación:** ¿bien identificadas?, ¿facultades suficientes? (Libro 5)
+- [ ] **Validez:** ¿objeto y fin lícitos?, ¿forma exigida?, ¿sin vicios? (Libro 4)
+- [ ] **Definiciones:** ¿están definidos los términos clave y los **estándares** (esfuerzo,
+  materialidad, conocimiento)?
+- [ ] **Declaraciones:** ¿completas y veraces?, ¿quién responde de su falsedad?
+- [ ] **Obligaciones (covenants):** ¿claras, medibles, con plazos?
+- [ ] **Condiciones:** ¿suspensivas/resolutorias bien redactadas? (Libro 4)
+- [ ] **Incumplimiento e indemnización:** ¿qué daños?, ¿*cap*/*basket*?, ¿cláusula penal?
+  (Libro 7)
+- [ ] **Terminación:** ¿causas, efectos, costos (*break-up fee*)?
+- [ ] **Relatividad:** ¿cesión?, ¿*change of control*?, ¿consentimientos de terceros?
+- [ ] **Boilerplate:** ley aplicable, jurisdicción/**arbitraje**, notificaciones,
+  confidencialidad, *entire agreement*, divisibilidad, modificaciones por escrito.
+- [ ] **Coherencia:** ¿las cláusulas no se contradicen (interpretación sistemática)?, ¿orden de
+  prelación de anexos?
+
+## 28. Resumen ejecutivo
+
+El contrato es el **acto jurídico bilateral** que crea o transmite obligaciones, y la
+herramienta central del derecho de los negocios. Descansa en la **autonomía de la voluntad**
+—libertad de contratar y de configurar el contenido— limitada por el **orden público** y las
+**normas imperativas**, y en la **fuerza obligatoria** (*pacta sunt servanda*, art. 1796): el
+contrato es **ley entre las partes** y obliga de buena fe a lo pactado y a sus consecuencias
+conformes a la buena fe, el uso y la ley. Se **forma** por el encuentro de oferta y aceptación
+(con responsabilidad **precontractual** por mala fe), produce efectos **solo entre las partes**
+(relatividad) y se **interpreta** buscando la **intención común** (art. 1851), de modo
+sistemático, útil, conforme al uso, **contra proferentem** y según la buena fe. Sus
+**vicisitudes** —nulidad (vicio de origen), rescisión (lesión), **resolución** (incumplimiento,
+art. 1949), terminación e imprevisión— deben distinguirse con precisión.
+
+Para el abogado corporativo, este es el libro que convierte la teoría en **producto**: el SPA,
+el APA, el SHA, el term sheet y el contrato de crédito son contratos cuya **anatomía**
+(declaraciones, definiciones, covenants, condiciones, garantías, indemnización, terminación,
+boilerplate) aplica todos los libros previos. La diferencia entre el civil law (intención común,
+integración por buena fe) y el common law (interpretación literal, el texto manda) explica por
+qué los contratos internacionales son tan extensos. Dominar la teoría general del contrato
+—formación, interpretación y vicisitudes— es dominar el arte de **leer, criticar y construir**
+los instrumentos con los que se realiza toda operación corporativa.
+
+## 29. Bibliografía
+
+**Doctrina mexicana (prioritaria):**
+- Sánchez Medal, Ramón, *De los Contratos Civiles*, Porrúa.
+- Borja Soriano, Manuel, *Teoría General de las Obligaciones* (teoría del contrato), Porrúa.
+- Rojina Villegas, Rafael, *Derecho Civil Mexicano*, t. III y *Compendio*, Porrúa.
+- Gutiérrez y González, Ernesto, *Derecho de las Obligaciones*, Porrúa.
+- Pérez Fernández del Castillo, Bernardo, *Contratos Civiles*, Porrúa.
+
+**Doctrina comparada y clásica:**
+- Pothier, R. J., *Tratado de los Contratos*.
+- Betti, Emilio, *Teoría general del negocio jurídico* (interpretación).
+- Treitel / Peel, *The Law of Contract* (Inglaterra); Farnsworth, *Contracts* (EE. UU.).
+- Macneil, Ian (teoría del contrato relacional).
+- CISG y Principios UNIDROIT sobre los Contratos Comerciales Internacionales.
+
+**Legislación:**
+- Código Civil Federal: arts. 1792-1859 (convenio/contrato, formación, clasificación,
+  interpretación); 1949 (resolución); 2224 y ss. (nulidades). (Verificar el código de la
+  entidad.)
+- Código de Comercio, arts. 78-88 (contratos mercantiles) y normas de contratación
+  electrónica.
+- Ley Federal de Protección al Consumidor (contratos de adhesión y cláusulas abusivas).
+
+## 30. Ruta para continuar
+
+Has terminado el **núcleo civil patrimonial** del Nivel I (acto jurídico, personas, bienes,
+obligaciones y contratos). Tienes ya las herramientas técnicas para entender cualquier
+operación. Ahora completaremos los **fundamentos del razonamiento y del contexto económico**.
+
+- **Siguiente libro:** *Historia del Pensamiento Jurídico y Económico* (Nivel I, Libro 9), para
+  entender las grandes ideas que dan forma al derecho y a la economía que el abogado de negocios
+  habita.
+- **Conexión inmediata:** los contratos en particular (compraventa, mandato, fianza, mutuo) se
+  estudian a fondo en el **Nivel II** (Derecho Civil Profundo), construyendo sobre esta parte
+  general.
+- **Conexión de largo alcance:** vuelve a las secciones 15 y 17 cuando llegues a la
+  documentación de M&A (Nivel IV): el SPA es este libro convertido en operación. Esta parte
+  general es, literalmente, el plano del edificio que construirás como abogado corporativo.
+
+> *"El contrato es ley entre las partes."* Pero la ley la **escribes tú**. El abogado de élite
+> no es el que conoce el contrato típico de memoria, sino el que sabe **diseñar** el contrato
+> que su cliente necesita —previendo el incumplimiento, definiendo cada estándar y eligiendo el
+> derecho que lo protege—. En esa capacidad de **construir con palabras** reside el oficio.
