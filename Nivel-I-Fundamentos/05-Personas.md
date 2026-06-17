@@ -282,3 +282,156 @@ responsabilidad limitada y es un riesgo a evaluar en cualquier estructura corpor
 > infracapitalización dolosa, simulación), procede el **levantamiento del velo** y los socios
 > pueden responder. Esa tensión —regla de separación vs. excepción por abuso— es uno de los
 > temas más finos y estratégicos del derecho corporativo.
+
+
+---
+
+## 6. Comparación doctrinal
+
+**La naturaleza de la persona moral: ficción vs. realidad.** Es el gran debate.
+- **Teoría de la ficción (Savigny):** solo el ser humano es persona real; la persona moral
+  es una **ficción** que el legislador crea por razones de utilidad. *Consecuencia:* la
+  persona moral no tiene voluntad propia y solo puede lo que la ley expresamente le concede
+  (visión restrictiva, *ultra vires*).
+- **Teoría de la realidad / del órgano (Gierke):** la persona moral es una **realidad
+  social** con voluntad e interés propios, que actúa por sus órganos (no por
+  "representantes" externos). *Consecuencia:* fundamenta la responsabilidad propia
+  (incluso penal) de la persona moral y la teoría orgánica que domina hoy.
+- **Teoría del patrimonio de afectación (Brinz):** no hay "persona", sino un **patrimonio
+  destinado a un fin**; útil para explicar fundaciones y, modernamente, el fideicomiso.
+
+*Por qué importa al corporativo:* si crees en la ficción, eres restrictivo con la capacidad
+de la sociedad; si crees en la realidad orgánica, aceptas que tiene voluntad e interés
+social propios (clave en gobierno corporativo y en el deber de los administradores de actuar
+en "interés social").
+
+**Capacidad de goce de la persona moral: ¿plena o especializada?** Una corriente sostiene que
+la persona moral tiene capacidad **especializada** (limitada al objeto social: *principio de
+especialidad*); otra, que su capacidad es amplia y el objeto solo limita las **facultades de
+los administradores**, no la capacidad del ente frente a terceros de buena fe. La práctica
+moderna (y la protección del tráfico) tiende a la segunda: proteger al tercero que contrató
+de buena fe aunque el acto excediera el objeto.
+
+**Responsabilidad penal de la persona moral.** Tradición civilista: *societas delinquere non
+potest* (la sociedad no puede delinquir), pues carece de voluntad culpable. Tendencia
+moderna (y derecho mexicano vigente): **sí** puede ser penalmente responsable, con sanciones
+propias (multas, disolución, intervención), lo que fundamenta los **programas de
+compliance** (Nivel IV).
+
+## 7. Autores más importantes
+
+**Teoría general de la persona:**
+- **Friedrich Carl von Savigny:** teoría de la ficción.
+- **Otto von Gierke:** teoría de la realidad y del órgano.
+- **Alois von Brinz:** patrimonio de afectación.
+- **León Duguit:** crítica realista/sociológica del concepto de persona moral.
+
+**Doctrina mexicana:**
+- **Rafael Rojina Villegas**, *Derecho Civil Mexicano*, t. I (Introducción y personas).
+- **Ignacio Galindo Garfias**, *Derecho Civil. Primer Curso*.
+- **Manuel Borja Soriano** (en cuanto a capacidad y representación).
+- En materia de persona moral mercantil y levantamiento del velo: **Jorge Barrera Graf**
+  (*Instituciones de Derecho Mercantil*), **Roberto Mantilla Molina** (*Derecho Mercantil*),
+  y doctrina contemporánea sobre *disregard*.
+
+## 8. Derecho comparado
+
+- **Alemania:** distingue con precisión la *Rechtsfähigkeit* (capacidad jurídica) y
+  desarrolla la teoría del órgano; *Durchgriff* (levantamiento del velo) muy elaborado.
+- **Estados Unidos:** la *corporation* es una persona jurídica con amplios derechos
+  (incluso ciertos derechos constitucionales, debatidos en casos como *Citizens United* y
+  *Hobby Lobby*); el *piercing the corporate veil* es doctrina jurisprudencial central, con
+  factores como *alter ego*, infracapitalización y confusión de patrimonios.
+- **Reino Unido:** el caso fundacional *Salomon v. Salomon & Co.* (1897) consagró la
+  **separación absoluta** entre la sociedad y su único socio: piedra angular de la
+  responsabilidad limitada en el mundo del common law.
+- **Francia:** reconoce la *personnalité morale*; la jurisprudencia admitió la personalidad
+  de entes no expresamente previstos cuando hay interés colectivo y organización.
+- **Lección para el corporativo internacional:** la **nacionalidad** y la **ley de
+  constitución** de una sociedad determinan su régimen; en estructuras transfronterizas se
+  usan *holdings* en jurisdicciones específicas (por motivos fiscales, regulatorios o de
+  protección de inversión). Entender la *lex societatis* es esencial.
+
+## 9. Relación con México
+
+Régimen en el **Código Civil Federal** (y códigos estatales), complementado por leyes
+mercantiles:
+- **Art. 22:** capacidad jurídica desde el nacimiento; protección del concebido.
+- **Art. 23:** la minoría de edad y los estados de incapacidad son restricciones a la
+  personalidad (de ejercicio), pero el incapaz puede ejercer derechos por representante.
+- **Art. 24:** libertad para disponer de la persona y bienes dentro de la ley.
+- **Art. 25:** **enumeración de las personas morales**.
+- **Arts. 26-28:** capacidad, alcance y nacionalidad de las personas morales (obran por sus
+  representantes; se rigen por sus estatutos y la ley; nacionalidad).
+- **Arts. 29-32:** domicilio (de personas físicas y morales).
+- **Nombre y registro civil** (arts. 35 y ss.): atributos de la persona física.
+- **Leyes mercantiles:** la **LGSM** regula la constitución, personalidad, órganos y
+  responsabilidad de las sociedades mercantiles (se estudia a fondo en el Nivel III); el
+  **Código de Comercio** y la **Ley de Inversión Extranjera** (nacionalidad y límites a
+  extranjeros).
+- **Levantamiento del velo:** sin una cláusula general única, se reconoce vía
+  jurisprudencia y en regímenes especiales (Ley de Concursos Mercantiles, Código Fiscal,
+  Ley Federal de Competencia Económica –"agente económico"/"unidad económica"–, materia
+  laboral).
+- **Responsabilidad penal de personas morales:** Código Nacional de Procedimientos Penales
+  (arts. 421 y ss.) y códigos penales.
+
+## 10. Relación con otras materias
+
+- **Acto Jurídico (Libro 4):** la **capacidad** (requisito de validez) y la
+  **representación** se definen aquí; la persona es el autor del acto.
+- **Bienes (Libro 6):** el **patrimonio** (atributo) es el conjunto de bienes y derechos de
+  la persona.
+- **Obligaciones y Contratos (Libros 7-8):** la persona es el sujeto activo/pasivo de la
+  obligación y parte del contrato.
+- **Sociedades / LGSM (Nivel III):** desarrollo pleno de la persona moral mercantil, sus
+  tipos, órganos y responsabilidad.
+- **Gobierno corporativo (Niveles III-IV):** la teoría del órgano y el "interés social"
+  fundamentan los deberes de los administradores.
+- **Compliance (Nivel IV):** la responsabilidad penal/administrativa de la persona moral es
+  la razón de ser de los programas de cumplimiento.
+- **M&A (Nivel IV):** la verificación de personalidad, capacidad, facultades y nacionalidad
+  de las partes y de la *target* es due diligence pura.
+
+## 11. Aplicación profesional
+
+1. **Verificar la existencia y buena constitución de una sociedad:** acta constitutiva,
+   inscripción en el Registro Público de Comercio, vigencia.
+2. **Auditar facultades:** revisar poderes (escrituras notariales), su tipo (administración,
+   dominio, pleitos y cobranzas, títulos de crédito), vigencia y suficiencia para el acto
+   concreto. **El chequeo más recurrente de la práctica.**
+3. **Confirmar nacionalidad y cumplimiento de inversión extranjera:** si hay socios
+   extranjeros, verificar límites sectoriales y registro ante el RNIE.
+4. **Evaluar riesgo de levantamiento del velo:** detectar confusión de patrimonios,
+   infracapitalización o uso fraudulento de la estructura.
+5. **Estructurar vehículos:** elegir el tipo de persona moral y la estructura de *holding*
+   adecuada a los fines (responsabilidad, fiscal, regulatorio).
+
+## 12. Errores comunes
+
+- **Confundir capacidad de goce con capacidad de ejercicio.** Todo incapaz **tiene** goce
+  (es titular); lo que no tiene es ejercicio pleno (actúa por representante).
+- **Confundir patrimonio social con patrimonio de los socios.** Son distintos. El socio no
+  es dueño de los bienes de la sociedad; es titular de acciones.
+- **Confundir capital social con patrimonio.** El capital es una cifra estatutaria; el
+  patrimonio es el conjunto real de activos y pasivos (que varía).
+- **Asumir facultades sin verificarlas.** Firmar con quien "parece" representante sin revisar
+  el poder es la fuente número uno de actos ineficaces.
+- **Creer que la responsabilidad limitada es absoluta.** El velo puede levantarse en fraude
+  o abuso.
+- **Olvidar la nacionalidad y la inversión extranjera** al estructurar sociedades con
+  capital foráneo en sectores restringidos.
+
+## 13. Cómo lo preguntaría un profesor
+
+- *"Distinga capacidad de goce y de ejercicio, y diga qué ineficacia afecta los actos del
+  incapaz."*
+- *"Enumere los atributos de la persona física y de la moral, y explique cuál no comparten."*
+  (La moral no tiene **estado civil**.)
+- *"Exponga las teorías sobre la naturaleza de la persona moral y diga cuál sustenta la
+  responsabilidad penal de las empresas."*
+- *"¿Qué es el objeto social y cómo limita la capacidad de la persona moral?"*
+- *"Explique el levantamiento del velo corporativo y dé un supuesto en que proceda."*
+- *"¿Cuándo una sociedad es mexicana y por qué importa para la inversión extranjera?"*
+
+---
