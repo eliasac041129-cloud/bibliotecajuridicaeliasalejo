@@ -16,7 +16,7 @@ integridad. Este archivo es el tablero de control.
 | 4 | Teoría General del Acto Jurídico | ✅ |
 | 5 | Personas | ✅ |
 | 6 | Bienes y Derechos Reales | ✅ |
-| 7 | Obligaciones | ⬜ |
+| 7 | Obligaciones | ✅ |
 | 8 | Contratos (parte general) | ⬜ |
 | 9 | Historia del Pensamiento Jurídico y Económico | ⬜ |
 | 10 | Economía para juristas | ⬜ |

@@ -639,3 +639,190 @@ créditos** y **subrogación**. Analice los requisitos y riesgos de cada una (co
 garantías que se conservan o extinguen con la novación, oponibilidad de la cesión) y cómo se
 articulan en un **convenio concursal** o extrajudicial. ¿Qué pasa con las garantías reales si
 hay novación?
+
+
+---
+
+## 23. Flashcards
+
+- **¿Definición de obligación?** → Vínculo jurídico por el que el deudor debe una prestación
+  (dar/hacer/no hacer) al acreedor, que puede exigirla.
+- **¿Schuld vs. Haftung?** → Deber de prestación (deuda) vs. responsabilidad patrimonial
+  (sujeción a ejecución).
+- **¿Cinco fuentes en México?** → Contrato, declaración unilateral, enriquecimiento sin causa,
+  gestión de negocios, hechos ilícitos.
+- **¿Daño vs. perjuicio?** → Daño emergente (pérdida sufrida) vs. lucro cesante (ganancia no
+  obtenida).
+- **¿Requisito del art. 2110?** → Los daños y perjuicios deben ser consecuencia **inmediata y
+  directa** del incumplimiento.
+- **¿Qué es la mora?** → Retraso jurídicamente relevante; hace correr intereses y traslada el
+  riesgo.
+- **¿*Mora perpetuat obligationem*?** → El moroso responde aun del caso fortuito.
+- **¿Facultad resolutoria tácita?** → Art. 1949: cumplir o resolver, con daños, ante
+  incumplimiento recíproco.
+- **¿La solidaridad se presume?** → No (art. 1988): se pacta o la impone la ley.
+- **¿Obligación de medios vs. resultado?** → Medios = diligencia; resultado = lograr el
+  resultado concreto.
+- **¿Cesión de créditos vs. asunción de deuda?** → Transmisión del lado activo vs. del pasivo
+  (esta requiere consentimiento del acreedor).
+- **¿Modos de extinción (además del pago)?** → Compensación, novación, confusión, remisión,
+  imposibilidad, prescripción.
+- **¿Caso fortuito?** → Hecho ajeno, imprevisible o inevitable que libera (salvo pacto, mora o
+  culpa).
+
+## 24. Mapas mentales
+
+```
+OBLIGACIONES
+├── ESTRUCTURA: sujetos (acreedor/deudor) · objeto (dar/hacer/no hacer) · vínculo
+│   └── Schuld (deuda) / Haftung (responsabilidad) — patrimonio = prenda común
+├── FUENTES
+│   ├── Contrato
+│   ├── Declaración unilateral (títulos de crédito, oferta al público)
+│   ├── Enriquecimiento sin causa
+│   ├── Gestión de negocios
+│   └── Hechos ilícitos (responsabilidad civil; objetiva por riesgo)
+├── CLASIFICACIÓN
+│   ├── Dar / hacer / no hacer
+│   ├── Medios / resultado
+│   ├── Mancomunadas / SOLIDARIAS (no se presumen)
+│   ├── Divisibles / indivisibles
+│   └── Puras / modales (condición, término, modo)
+├── CUMPLIMIENTO (pago): identidad, integridad, indivisibilidad
+├── INCUMPLIMIENTO
+│   ├── Remedios: cumplimiento forzoso · RESOLUCIÓN (1949) · DAÑOS Y PERJUICIOS
+│   ├── Daño (emergente) + Perjuicio (lucro cesante) — causalidad (2110)
+│   ├── MORA → intereses + traslado del riesgo
+│   └── CASO FORTUITO / fuerza mayor → libera (salvo pacto/mora/culpa)
+├── TRANSMISIÓN: cesión de créditos · subrogación · asunción de deuda
+└── EXTINCIÓN: pago · compensación · novación · confusión · remisión · prescripción
+```
+
+**Puente con M&A / financiamiento:**
+`reps falsas → incumplimiento → indemnización (daños)` · `cap/basket → límite de responsabilidad`
+`covenants → obligaciones de hacer/no hacer` · `MAC/force majeure → riesgo de circunstancias`
+`escrow → garantía de la obligación indemnizatoria` · `reestructura → novación/cesión/remisión`.
+
+## 25. Cuadros comparativos
+
+**Daño emergente vs. lucro cesante**
+
+| | Daño (emergente) | Perjuicio (lucro cesante) |
+|---|---|---|
+| Qué es | Pérdida efectivamente sufrida | Ganancia lícita no obtenida |
+| Ejemplo | Costo de reposición, gastos | Negocio o contrato perdido |
+| Límite | Consecuencia inmediata y directa (2110) | Idem + previsibilidad/prueba |
+
+**Mancomunada vs. solidaria**
+
+| | Mancomunada (conjunta) | Solidaria |
+|---|---|---|
+| Quién debe qué | Cada quien su parte | Cada deudor el TODO |
+| Se presume | Es la regla | No (1988): debe pactarse |
+| Función | Reparto | Reforzar el crédito |
+
+**Resolución vs. nulidad vs. rescisión**
+
+| | Resolución (1949) | Nulidad (Libro 4) | Rescisión por lesión |
+|---|---|---|---|
+| Causa | Incumplimiento posterior | Vicio de origen | Desproporción (art. 17) |
+| Efecto | Deshace por incumplir | Acto inválido | Anula o reduce |
+
+**Civil law vs. common law (daños)**
+
+| | México (civil) | Common law |
+|---|---|---|
+| Medida | Daño + perjuicio, causalidad directa | *Expectation damages* |
+| Límite causal | Consecuencia inmediata y directa (2110) | Previsibilidad (*Hadley*) |
+| Deber de mitigar | No expreso (discutido) | Sí (*duty to mitigate*) |
+| Pena | Cláusula penal válida | *Liquidated damages* sí; *penalty* no |
+
+## 26. Mnemotecnias
+
+- **Objeto de la obligación:** **"DHN"** → **D**ar, **H**acer, **N**o hacer.
+- **Fuentes (México):** **"Co-De-En-Ge-He"** → **Co**ntrato, **De**claración unilateral,
+  **En**riquecimiento sin causa, **Ge**stión de negocios, **He**chos ilícitos.
+- **Efectos de la mora:** *"Interés + Riesgo"* (corren intereses y se traslada el riesgo).
+- **Daños:** *"Lo que perdí (daño) + lo que dejé de ganar (perjuicio), si es directo"*.
+- **Solidaridad:** *"no se presume; o la pactas o la manda la ley"*.
+- **Extinción (además del pago):** **"CoNoCoRePI"** → **Co**mpensación, **No**vación,
+  **Co**nfusión, **Re**misión, **P**rescripción, **I**mposibilidad.
+
+## 27. Checklist del jurista (diagnóstico de incumplimiento)
+
+- [ ] **¿Existe la obligación y es exigible?** (fuente, plazo, condición cumplida)
+- [ ] **¿Hubo incumplimiento?** Tipo: total / parcial / defectuoso / tardío.
+- [ ] **¿El deudor está en mora?** ¿Se requería interpelación? ¿Desde cuándo corren
+  intereses?
+- [ ] **¿Hay caso fortuito/fuerza mayor** que libere? ¿Había mora previa o culpa?
+- [ ] **Daños:** ¿daño emergente?, ¿lucro cesante?, ¿son consecuencia **inmediata y
+  directa**?, ¿previsibles?, ¿probados?
+- [ ] **¿Hay cláusula penal** o tope (*cap*) que fije/limite la indemnización?
+- [ ] **¿Deber de mitigar** aplicable (contrato/ley)?
+- [ ] **Remedio:** ¿conviene exigir cumplimiento o **resolver** (1949)? ¿Vía ejecutiva?
+- [ ] **Defensas y plazos:** ¿prescripción?, ¿compensación?, ¿*exceptio non adimpleti
+  contractus*?
+
+## 28. Resumen ejecutivo
+
+La obligación es el **vínculo jurídico** por el que un deudor debe una prestación (dar, hacer o
+no hacer) a un acreedor que puede exigirla; es la **molécula del intercambio** y la base
+técnica de todo contrato y todo crédito. Tras patrimonializarse en Roma (responde el patrimonio,
+no el cuerpo), se sistematizó en la codificación bajo el principio de **fuerza obligatoria**
+(*pacta sunt servanda*). Sus **fuentes** en México son cinco: contrato, declaración unilateral,
+enriquecimiento sin causa, gestión de negocios y hechos ilícitos. Se clasifica según objeto
+(dar/hacer/no hacer), exigencia (medios/resultado), sujetos (mancomunadas/**solidarias** —que no
+se presumen—) y modalidad (puras/condicionales/a plazo).
+
+El corazón profesional del libro es el **incumplimiento**: el acreedor puede exigir
+**cumplimiento forzoso**, **resolver** el contrato (art. 1949) y, en todo caso, reclamar **daños
+y perjuicios** —daño emergente y lucro cesante— que deben ser **consecuencia inmediata y
+directa** (art. 2110). La **mora** hace correr intereses y traslada el riesgo; el **caso
+fortuito** libera salvo pacto, mora o culpa; la **cláusula penal** fija o limita la
+indemnización. Las obligaciones **circulan** (cesión de créditos, subrogación, asunción de
+deuda) y **se extinguen** (pago, compensación, novación, confusión, remisión, prescripción).
+Para el abogado corporativo, este es el libro detrás del **régimen de indemnización del SPA**
+(reps + indemnity + caps + escrow), de los **covenants** del crédito y de toda
+**reestructuración** de deuda. Dominar obligaciones es saber convertir una promesa rota en una
+cifra **acotada por causalidad, mora y pacto**: la destreza central del derecho de los negocios.
+
+## 29. Bibliografía
+
+**Doctrina mexicana (prioritaria):**
+- Borja Soriano, Manuel, *Teoría General de las Obligaciones*, Porrúa.
+- Rojina Villegas, Rafael, *Derecho Civil Mexicano*, t. III (Obligaciones), y *Compendio de
+  Derecho Civil*, Porrúa.
+- Gutiérrez y González, Ernesto, *Derecho de las Obligaciones*, Porrúa.
+- Galindo Garfias, Ignacio, *Teoría de las obligaciones*.
+
+**Doctrina comparada y clásica:**
+- Pothier, Robert Joseph, *Tratado de las Obligaciones*.
+- Demogue, René (obligaciones de medios y de resultado).
+- Larenz, Karl, *Derecho de Obligaciones*.
+- Planiol y Ripert; Mazeaud, *Lecciones de Derecho Civil*.
+- *Hadley v. Baxendale* (1854) y CISG / Principios UNIDROIT (régimen comparado de daños).
+
+**Legislación:**
+- Código Civil Federal, Libro Cuarto "De las obligaciones" (arts. 1792 y ss.; daños 2104-2118;
+  resolución 1949; mora; cláusula penal 1840 y ss.; solidaridad 1984-1996; cesión 2029 y ss.;
+  extinción 2185 y ss.). (Verificar el código de la entidad.)
+- Código de Comercio (obligaciones y mora mercantiles; supletoriedad del derecho civil).
+
+## 30. Ruta para continuar
+
+Ya tienes el motor (la obligación). Falta su **fuente principal y su aplicación práctica**: el
+contrato, donde la teoría se vuelve cláusula.
+
+- **Siguiente libro:** *Contratos (parte general)* (Nivel I, Libro 8): concepto, clasificación,
+  formación (oferta y aceptación), efectos, interpretación, vicisitudes y la transición a los
+  contratos en particular. Es el puente directo hacia los **contratos mercantiles** (Nivel III)
+  y el **SPA** (Nivel IV).
+- **Conexión inmediata:** todo lo aprendido aquí (incumplimiento, daños, mora, extinción) es el
+  **régimen** que el contrato concreta y modula.
+- **Conexión de largo alcance:** vuelve a las secciones 5.5 y 17 cuando estudies la
+  documentación de M&A (Nivel IV): el régimen de indemnización es este libro hecho contrato.
+
+> *"Pacta sunt servanda"*: los pactos se cumplen. Pero el arte del abogado no está en repetir
+> el dogma, sino en saber **qué pasa cuando no se cumplen**: ahí, en el incumplimiento y los
+> daños, se gana o se pierde el caso, y se redacta —con previsión— el contrato que protege a tu
+> cliente.
