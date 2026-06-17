@@ -619,3 +619,192 @@ hipotecado, la suerte de la prenda **no inscrita**, los créditos **singularment
 privilegiados** (laborales) y fiscales, y cómo el concurso puede afectar la ejecución
 individual de garantías (suspensión, masa). Argumente quién cobra qué y por qué la
 **inscripción** fue decisiva.
+
+
+---
+
+## 23. Flashcards
+
+- **¿Derecho real?** → Poder directo sobre una cosa, oponible *erga omnes* (persecución +
+  preferencia).
+- **¿Derecho personal?** → Facultad de exigir una prestación a otra persona; *inter partes*.
+- **¿Tres facultades de la propiedad?** → Usar, disfrutar, disponer.
+- **¿Límite constitucional de la propiedad en México?** → Función social (art. 27).
+- **¿Propiedad vs. posesión?** → Propiedad = señorío jurídico; posesión = poder de hecho
+  protegido.
+- **¿Qué es la usucapión?** → Adquirir la propiedad por posesión prolongada (buena fe, justo
+  título, tiempo).
+- **¿Hipoteca sobre qué bienes?** → Inmuebles (y ciertos derechos), sin desplazar posesión.
+- **¿Prenda sobre qué bienes?** → Muebles (incluidas acciones), con o sin transmisión de
+  posesión.
+- **¿Fideicomiso de garantía?** → Transmisión de bienes a fiduciaria en garantía; ejecución
+  ágil.
+- **¿Persecución?** → Perseguir la cosa gravada aunque pase a un tercero.
+- **¿Preferencia?** → Cobrar antes que los acreedores comunes sobre la cosa.
+- **¿Dónde se inscriben las garantías mobiliarias?** → En el RUG (Registro Único de Garantías
+  Mobiliarias).
+- **¿*Numerus clausus*?** → Solo la ley crea derechos reales; los particulares no inventan
+  nuevos.
+- **¿Las acciones son muebles o inmuebles?** → Muebles (incorporales) → se prendan.
+
+## 24. Mapas mentales
+
+```
+BIENES Y DERECHOS REALES
+├── BIENES (clasificación)
+│   ├── Muebles / Inmuebles
+│   ├── Corporales / Incorporales (acciones, créditos, PI)
+│   ├── Fungibles / No fungibles
+│   └── Consumibles / No consumibles
+├── DERECHO REAL vs. DERECHO PERSONAL
+│   ├── Real: sobre la cosa · erga omnes · persecución + preferencia
+│   └── Personal: sobre conducta · inter partes
+├── DERECHOS REALES
+│   ├── PROPIEDAD (usar/disfrutar/disponer) — límite: función social (art. 27)
+│   ├── POSESIÓN (poder de hecho) → usucapión
+│   ├── Copropiedad / condominio
+│   ├── Sobre cosa ajena: usufructo · uso · servidumbres
+│   └── DE GARANTÍA
+│       ├── Prenda (muebles; con/sin transmisión; RUG)
+│       ├── Hipoteca (inmuebles; escritura + Registro Público)
+│       └── Fideicomiso de garantía (transmisión fiduciaria; ejecución ágil)
+├── TRANSMISIÓN
+│   ├── Originaria (ocupación, accesión, usucapión)
+│   └── Derivativa (contrato + modo / herencia) — consensual (art. 2014)
+└── PUBLICIDAD / REGISTRO
+    └── Oponibilidad + prioridad (prior in tempore potior in iure)
+```
+
+**Puente con M&A / financiamiento:**
+`acciones (mueble) → prenda` · `planta (inmueble) → hipoteca` · `flujos/cuentas → prenda o fideicomiso`
+`due diligence de activos → propiedad + gravámenes` · `free and clear → release of liens`
+`prioridad → inscripción al cierre` · `varios acreedores → intercreditor agreement`.
+
+## 25. Cuadros comparativos
+
+**Derecho real vs. derecho personal**
+
+| Criterio | Derecho real | Derecho personal |
+|---|---|---|
+| Objeto | Una cosa | Conducta de un deudor |
+| Oponibilidad | *Erga omnes* | *Inter partes* |
+| Poderes | Persecución + preferencia | Solo exigir al deudor |
+| Publicidad | Registro | No requiere |
+| Ejemplos | Propiedad, prenda, hipoteca | Crédito, derecho a cobrar |
+
+**Garantías reales**
+
+| | Prenda | Hipoteca | Fideicomiso de garantía |
+|---|---|---|---|
+| Objeto | Muebles (incl. acciones) | Inmuebles y ciertos derechos | Bienes muebles o inmuebles |
+| Posesión | Con o sin transmisión | Sin desplazamiento | Transmitida a fiduciaria |
+| Forma/registro | RUG (sin transmisión) | Escritura + Registro Público | Contrato de fideicomiso |
+| Ejecución | Judicial / pactada | Juicio hipotecario | A menudo extrajudicial (ágil) |
+
+**Propiedad vs. posesión**
+
+| | Propiedad | Posesión |
+|---|---|---|
+| Naturaleza | Derecho | Hecho con protección |
+| Defensa | Acción reivindicatoria | Interdictos |
+| Prueba | Título / registro | Control material + ánimo |
+| Conduce a | — | Usucapión (con requisitos) |
+
+## 26. Mnemotecnias
+
+- **Facultades de la propiedad:** **"UDD"** → **U**sar, **D**isfrutar, **D**isponer (o el
+  latín: *utendi, fruendi, abutendi*).
+- **Poderes de la garantía real:** **"PP"** → **P**ersecución y **P**referencia.
+- **Garantía por tipo de bien:** *"mueble → prenda; inmueble → hipoteca; lo complejo →
+  fideicomiso"*.
+- **Acciones:** *"la acción es mueble, por eso se PRENDA, no se hipoteca"*.
+- **Prioridad registral:** *prior in tempore, potior in iure* → "quien inscribe primero,
+  manda".
+
+## 27. Checklist del jurista (activos y garantías)
+
+**Para due diligence de activos:**
+- [ ] **Titularidad:** ¿el vendedor es **dueño** y está inscrito?
+- [ ] **Gravámenes:** ¿hay hipotecas, prendas, embargos, fideicomisos? (certificados de
+  libertad de gravamen / RUG).
+- [ ] **Posesión y litigios:** ¿hay invasiones, posesión irregular, usucapión en curso,
+  pleitos?
+- [ ] **Uso de suelo / permisos** para inmuebles operativos.
+- [ ] **Régimen conyugal** del accionista persona física (sociedad conyugal).
+
+**Para estructurar garantías:**
+- [ ] **Activo idóneo** para cada garantía (mueble→prenda; inmueble→hipoteca; flujos→
+  fideicomiso).
+- [ ] **Forma** correcta (escritura pública si aplica).
+- [ ] **Perfeccionamiento** y **registro** (Registro Público de la Propiedad / RUG).
+- [ ] **Prioridad:** ¿hay garantías previas? ¿cómo aseguro mi prelación?
+- [ ] **Mecanismo y rapidez de ejecución** ante default.
+- [ ] **Coordinación de inscripción simultánea** el día del cierre.
+
+## 28. Resumen ejecutivo
+
+Bienes y Derechos Reales estudia la relación jurídica entre las personas y las cosas: el lado
+**activo** del patrimonio. Su distinción fundamental es entre **derecho real** —poder directo
+sobre una cosa, oponible *erga omnes*, con **persecución** y **preferencia**— y **derecho
+personal** —facultad de exigir una prestación a otro, *inter partes*—. El derecho real por
+excelencia es la **propiedad** (usar, disfrutar, disponer), limitada por la **función social**
+(art. 27 constitucional) y la expropiación; junto a ella, la **posesión** (poder de hecho
+protegido, que conduce a la usucapión), la copropiedad y los derechos sobre cosa ajena
+(usufructo, servidumbres).
+
+El corazón corporativo del libro son las **garantías reales**: la **prenda** (sobre muebles,
+incluidas las **acciones**; moderna sin transmisión de posesión, RUG), la **hipoteca** (sobre
+inmuebles, escritura e inscripción en el Registro Público) y el **fideicomiso de garantía**
+(transmisión fiduciaria con ejecución ágil). Estas figuras convierten los bienes en respaldo
+del crédito y confieren al acreedor persecución y preferencia. La **publicidad registral**
+hace oponibles los derechos y fija la **prioridad** (*prior in tempore, potior in iure*). Para
+el abogado corporativo, este libro es la base de la **due diligence de activos** (titularidad y
+gravámenes) y del **security package** del financiamiento de adquisiciones, donde la correcta
+constitución, perfeccionamiento, registro y prelación de las garantías valen puntos de tasa y
+millones de recuperación. Dominar los derechos reales es dominar el lenguaje de la riqueza y de
+su aseguramiento.
+
+## 29. Bibliografía
+
+**Doctrina mexicana:**
+- Rojina Villegas, Rafael, *Derecho Civil Mexicano*, t. III (Bienes, derechos reales y
+  posesión), Porrúa.
+- Gutiérrez y González, Ernesto, *El Patrimonio*, Porrúa.
+- Domínguez Martínez, Jorge Alfredo, *Derecho Civil. Bienes y derechos reales*.
+- Sánchez Medal, Ramón (en cuanto a contratos de garantía).
+- Doctrina mercantil sobre la **LGTOC** reformada (prenda sin transmisión y fideicomiso de
+  garantía).
+
+**Doctrina comparada y clásica:**
+- Planiol, Marcel (teoría obligacionista del derecho real).
+- Duguit, León (función social de la propiedad).
+- Savigny y Jhering (teorías de la posesión).
+- *Uniform Commercial Code*, Article 9 (garantías mobiliarias, EE. UU.).
+
+**Legislación:**
+- Código Civil Federal, Libro Segundo "De los Bienes" (arts. 747 y ss.; propiedad 830 y ss.;
+  posesión 790 y ss.; usucapión 1135 y ss.; usufructo/servidumbres 980 y ss., 1057 y ss.;
+  prenda 2856 y ss.; hipoteca 2893 y ss.; Registro Público 3007 y ss.).
+- Ley General de Títulos y Operaciones de Crédito (prenda sin transmisión de posesión y
+  fideicomiso de garantía).
+- Código de Comercio (Registro Único de Garantías Mobiliarias).
+- Constitución, art. 27 (propiedad, función social, zona restringida).
+
+## 30. Ruta para continuar
+
+Tienes al sujeto (Personas), su herramienta (Acto Jurídico) y el objeto activo de su
+patrimonio (Bienes). Falta el lado **pasivo y dinámico**: las **obligaciones**, el vínculo por
+el que una persona debe a otra.
+
+- **Siguiente libro:** *Obligaciones* (Nivel I, Libro 7): concepto, fuentes, clasificación,
+  transmisión, cumplimiento e incumplimiento, mora, daños y extinción. Es el motor del
+  derecho patrimonial y la base de **todo contrato**.
+- **Conexión inmediata:** las garantías reales que viste aquí **aseguran obligaciones**; sin
+  entender la obligación garantizada no se entiende la garantía.
+- **Conexión de largo alcance:** vuelve a las secciones 5.4 y 17 cuando estudies
+  Financiamiento Corporativo y M&A (Nivel IV): el *security package* es este libro convertido
+  en estrategia.
+
+> *"Prior in tempore, potior in iure."* Quien inscribe primero, gana. Internaliza esa
+> máxima: en el mundo de las garantías, la diligencia registral —no la buena intención— es lo
+> que separa al acreedor que cobra del que mira cómo otros cobran antes que él.
