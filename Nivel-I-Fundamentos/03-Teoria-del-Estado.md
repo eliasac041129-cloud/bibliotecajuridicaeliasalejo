@@ -434,3 +434,165 @@ buena parte de la cultura institucional y del *riesgo regulatorio* actual.
 > prácticas, no la mera enumeración.
 
 ---
+
+
+## 14. Cómo aparece en un juicio
+
+- **El amparo como límite al poder:** el juicio de amparo (arts. 103 y 107 const.) es la
+  herramienta por la que el particular hace valer el Estado de Derecho contra actos de
+  autoridad. Toda la teoría de los límites del poder se vuelve operativa aquí.
+- **Control de constitucionalidad:** acciones de inconstitucionalidad y controversias
+  constitucionales (art. 105) resuelven conflictos *entre poderes* y *entre niveles de
+  gobierno* (federalismo en acción).
+- **Fundamentación y motivación:** litigar la ilegalidad de un acto administrativo
+  (multa de COFECE, negativa de un permiso) es invocar el art. 16 y el principio de
+  legalidad.
+- **Conflictos competenciales:** determinar si una materia es federal o local decide qué
+  tribunal conoce y qué ley aplica.
+
+## 15. Cómo aparece en un contrato
+
+- **Cláusulas regulatorias y de autorizaciones gubernamentales:** los contratos
+  corporativos condicionan su eficacia a obtener las autorizaciones del Estado (COFECE,
+  CNBV, sectoriales): la *condicio* romana al servicio del derecho público.
+- **Cláusulas de cambio en la ley (*change in law*):** asignan entre las partes el riesgo de
+  que el Estado modifique la regulación (frecuentes en contratos de infraestructura,
+  energía, concesiones).
+- **Contratos con el Estado:** las concesiones y contratos públicos se rigen por un régimen
+  especial (derecho administrativo) donde el Estado conserva prerrogativas (rescate,
+  modificación unilateral) impensables entre privados.
+- **Cláusulas de estabilización:** en contratos de inversión a largo plazo se pacta congelar
+  el marco regulatorio o fiscal aplicable; tocan directamente la soberanía regulatoria del
+  Estado.
+
+## 16. Cómo aparece en una empresa
+
+- **La empresa opera bajo licencia del Estado:** existe como persona moral porque el orden
+  jurídico estatal la reconoce; opera mediante permisos, concesiones y registros estatales.
+- **Sectores regulados y reservados:** la Constitución reserva al Estado ciertas áreas
+  estratégicas y restringe la inversión extranjera en otras (arts. 25, 27, 28). Definir si
+  una empresa puede operar y con qué estructura societaria depende de esto.
+- **Tributación:** la empresa financia al Estado; la planeación fiscal opera dentro de los
+  límites del poder tributario estatal.
+- **Relación con reguladores:** la función de *government affairs* y *regulatory* de una
+  gran empresa es, en esencia, gestión de su relación con el poder estatal.
+
+## 17. Cómo aparece en una operación de M&A
+
+Retomemos el ejercicio de arranque: *¿por qué dos privados no pueden fusionarse libremente?*
+
+Porque por encima de su autonomía está un **interés público** que el Estado tutela: la
+**competencia económica** (art. 28 constitucional, que prohíbe monopolios y prácticas
+monopólicas). La COFECE (o el IFT en telecomunicaciones y radiodifusión) debe **autorizar
+las concentraciones** que superen ciertos umbrales, para evitar que la fusión cree poder de
+mercado dañino para los consumidores. Esto es teoría del Estado pura: el límite del poder
+**privado** por el poder **público** en defensa del bien común.
+
+Otras manifestaciones en M&A:
+- **Condiciones suspensivas regulatorias:** el *closing* se condiciona a obtener la
+  autorización de COFECE/IFT, de la CNBV (si hay emisoras), de la CNIE (inversión
+  extranjera) o de reguladores sectoriales (CRE, CNSF, etc.).
+- **Foreign investment screening:** muchos Estados revisan inversiones extranjeras en
+  sectores sensibles por seguridad nacional (CFIUS en EE. UU.; en México, sectores
+  reservados y regulados).
+- **Riesgo regulatorio y político en la valuación:** la estabilidad del Estado y su
+  intervencionismo afectan precio, *reps* sobre cumplimiento regulatorio, y cláusulas de
+  *change in law* y MAC.
+- **Operaciones con o frente al Estado:** privatizaciones, asociaciones público-privadas y
+  compras de empresas con concesiones requieren dominar el régimen de derecho público.
+
+> **Cómo razona el socio:** "Antes de hablar de precio, ¿esta operación es siquiera
+> *permisible*? ¿Qué autorizaciones estatales necesita, en qué plazos, con qué riesgo de
+> negativa o de condiciones (*remedies*)? Eso define el calendario, las condiciones del SPA
+> y hasta la viabilidad del *deal*." La teoría del Estado es la primera capa del análisis.
+
+## 18. Cómo aparece en la práctica internacional
+
+- **Soberanía y arbitraje de inversión:** los tratados de protección de inversiones (BITs,
+  capítulos de inversión del T-MEC) permiten a un inversionista demandar a un **Estado** ante
+  tribunales arbitrales internacionales (ICSID) por expropiación o trato injusto. La
+  soberanía cede ante compromisos internacionales: tema central del *international
+  arbitration*.
+- **Inmunidad de jurisdicción y de ejecución del Estado:** los Estados gozan de inmunidades
+  que complican litigar y ejecutar contra ellos; conocerlas es vital al contratar con
+  entidades estatales.
+- **Reconocimiento de Estados y de gobiernos:** afecta la validez de actos y la
+  contratación internacional.
+- **Orden público internacional:** límite a la aplicación de ley extranjera y al
+  reconocimiento de laudos (visto en el Libro 2): es la soberanía del foro protegiendo sus
+  valores esenciales.
+
+---
+
+## 19. Casos
+
+**Caso 1. Concentración bloqueada por la autoridad de competencia.** Dos cadenas líderes
+intentan fusionarse; la autoridad determina que crearía poder de mercado y la **condiciona**
+a desinversiones (*remedies*) o la **bloquea**. *Lección:* el poder público limita la
+autonomía privada en defensa del bien común; el abogado debe anticipar y negociar
+*remedies*.
+
+**Caso 2. Expropiación e indemnización.** El Estado expropia un bien por causa de utilidad
+pública (art. 27 const.). El particular no puede impedirlo, pero tiene derecho a
+**indemnización**; si es arbitraria o sin pago justo, procede el amparo y, si es
+inversionista extranjero protegido, el arbitraje de inversión. *Lección:* el poder soberano
+tiene límites jurídicos accionables.
+
+**Caso 3. Conflicto competencial federación-estado.** Un estado pretende regular una
+materia reservada a la Federación. Vía controversia constitucional (art. 105), la SCJN
+define la competencia. *Lección:* el federalismo distribuye el poder y los conflictos se
+resuelven jurisdiccionalmente.
+
+## 20. Preguntas abiertas
+
+1. ¿La proliferación de órganos constitucionales autónomos fortalece o fragmenta al Estado
+   y a la división de poderes?
+2. ¿Hasta qué punto el arbitraje de inversión erosiona legítimamente la soberanía
+   regulatoria de los Estados?
+3. ¿Es compatible un Estado social fuerte con un clima óptimo para la inversión privada, o
+   hay un *trade-off* inevitable?
+4. ¿Quién debe decidir los límites del poder en una emergencia (pandemia, crisis): el
+   ejecutivo (Schmitt) o los jueces y el parlamento?
+5. ¿La soberanía popular del art. 39 es compatible con decisiones técnicas tomadas por
+   órganos no electos (banco central, reguladores)?
+
+## 21. Preguntas tipo examen (con respuesta modelo)
+
+**P1. Defina soberanía y explique sus límites contemporáneos.** *R.* Poder supremo del
+Estado, sin superior interno ni subordinación externa (Bodin). Hoy es limitada: por los
+derechos humanos, la Constitución y el derecho internacional (tratados, arbitraje de
+inversión, derecho de gentes). Reside en el pueblo (art. 39).
+
+**P2. Explique la división de poderes y su recepción mexicana.** *R.* Separación de
+funciones (Montesquieu) en Legislativo, Ejecutivo y Judicial, con frenos y contrapesos para
+evitar el abuso. Art. 49 constitucional; se complementa con órganos autónomos. Su finalidad
+es garantizar la libertad limitando el poder.
+
+**P3. Distinga legalidad y legitimidad.** *R.* Legalidad = conformidad con la ley
+(validez formal); legitimidad = justificación del poder (por qué se le debe obedecer:
+consenso, democracia, eficacia). Pueden no coincidir.
+
+**P4. ¿Qué es el Estado de Derecho y por qué importa a la economía?** *R.* Sometimiento del
+poder al derecho (legalidad, seguridad jurídica, igualdad, control judicial). Importa porque
+genera **previsibilidad**: sin respeto a contratos y propiedad, ni protección frente a la
+arbitrariedad, no hay inversión ni desarrollo económico.
+
+## 22. Casos complejos (nivel "socio")
+
+**Caso A. Adquisición en sector regulado con riesgo soberano.** Un fondo extranjero quiere
+adquirir una empresa de infraestructura energética con concesiones del Estado. Analice, en
+capas: (i) **forma de Estado** —¿competencia federal?, ¿qué regulador (CRE)?—; (ii)
+**límites a la inversión extranjera** y eventual reserva estatal del sector (arts. 25, 27,
+28); (iii) **autorizaciones** (COFECE + sectoriales) como condiciones del SPA; (iv) riesgo
+de **cambio regulatorio** y diseño de cláusulas de *change in law* y estabilización; (v)
+protección vía **tratado de inversión** y arbitraje ICSID si el Estado expropia o altera el
+marco. Construya el mapa de riesgo soberano y su asignación contractual.
+
+**Caso B. Contrato de APP y modificación unilateral del Estado.** Una empresa firma una
+asociación público-privada para construir y operar un hospital. A mitad del contrato, el
+Estado, invocando interés público, modifica unilateralmente condiciones. Discuta: las
+**prerrogativas exorbitantes** del Estado en el contrato administrativo (modificación,
+rescate), su **límite** (el equilibrio económico del contrato y el derecho a
+indemnización), las vías de defensa (contencioso administrativo, amparo) y cómo se anticipa
+este riesgo en la negociación y la valuación. ¿Dónde termina la soberanía y empieza el
+derecho del contratista?
