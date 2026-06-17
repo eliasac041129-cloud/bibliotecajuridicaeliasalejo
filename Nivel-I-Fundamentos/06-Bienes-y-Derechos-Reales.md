@@ -1,0 +1,280 @@
+# [Nivel I · Libro 6] Tratado de Bienes y Derechos Reales
+
+> Ya tenemos al sujeto (la persona) y a su herramienta creadora (el acto jurídico). Falta el
+> **objeto**: las cosas sobre las que recaen los derechos. Este libro estudia el patrimonio
+> por su lado activo —los bienes— y los **derechos reales** que permiten apropiarlos, usarlos
+> y, sobre todo, **garantizarlos**. Aquí nacen la propiedad, la posesión y las garantías
+> (prenda, hipoteca, fideicomiso) que sostienen todo el financiamiento corporativo.
+
+**Etiquetas:** fundamentos · derecho civil patrimonial · propiedad · posesión · garantías reales
+**Prerrequisitos:** [Derecho Romano](./01-Derecho-Romano.md), [Personas](./05-Personas.md).
+**Nivel de tratamiento:** TRATADO (materia central: base del patrimonio y de las garantías de crédito).
+
+> **Cómo está escrito este libro.** Cada figura se define, se explica su lógica económica, se
+> ilustra con un ejemplo y se conecta con una garantía o activo de una operación real. El
+> objetivo es que sepas **estructurar y revisar garantías**, no solo nombrarlas.
+
+---
+
+## Índice de las 30 secciones
+
+1. ¿Por qué existe? · 2. Historia · 3. Problema que resolvió · 4. Conceptos ·
+5. Explicación completa · 6. Comparación doctrinal · 7. Autores · 8. Derecho comparado ·
+9. Relación con México · 10. Relación con otras materias · 11. Aplicación profesional ·
+12. Errores comunes · 13. Cómo lo preguntaría un profesor · 14. En un juicio ·
+15. En un contrato · 16. En una empresa · 17. En M&A · 18. Práctica internacional ·
+19. Casos · 20. Preguntas abiertas · 21. Preguntas tipo examen · 22. Casos complejos ·
+23. Flashcards · 24. Mapas mentales · 25. Cuadros comparativos · 26. Mnemotecnias ·
+27. Checklist · 28. Resumen ejecutivo · 29. Bibliografía · 30. Ruta.
+
+---
+
+## 1. ¿Por qué esta materia existe?
+
+Razonemos. En el libro de Personas vimos que el **patrimonio** es un atributo: el conjunto de
+bienes, derechos y obligaciones de una persona. Pero, ¿qué *son* esos bienes?, ¿cómo se
+**apropian** y se **defienden**?, ¿cómo puede una cosa servir para **garantizar** una deuda?
+La materia de Bienes y Derechos Reales responde a estas preguntas. Estudia la relación
+jurídica entre las **personas** y las **cosas**.
+
+Su importancia para el abogado corporativo es enorme y por eso es un tratado:
+
+**Primero: el crédito se mueve sobre garantías reales.** Ninguna operación de financiamiento
+grande (un crédito sindicado, una adquisición apalancada, un *project finance*) se cierra sin
+un **paquete de garantías**: hipotecas sobre inmuebles, prendas sobre acciones y cuentas,
+fideicomisos de garantía. Entender los derechos reales de garantía —cómo se constituyen,
+perfeccionan, registran y ejecutan— es entender cómo se asegura el dinero. Es de las
+habilidades mejor pagadas del mercado.
+
+**Segundo: la propiedad y su transmisión son el objeto de casi todo contrato.** Vender una
+empresa es transmitir la propiedad de acciones; vender activos es transmitir la propiedad de
+bienes. Saber **cómo se transmite la propiedad** (recuerda el "título y modo" romano) y cómo
+se opone frente a terceros (registro) es esencial.
+
+**Tercero: distinguir derechos reales de personales organiza tu mente jurídica.** El derecho
+**real** recae sobre una cosa y vale *erga omnes* (frente a todos); el derecho **personal** o
+de crédito recae sobre una conducta de otra persona y vale *inter partes*. Esta distinción
+—que viene de Roma— decide qué acción ejercer, qué prioridad tiene un acreedor y cómo se
+estructura una garantía.
+
+> **Tesis del libro:** los derechos reales son el lenguaje jurídico de la **riqueza** y de su
+> **aseguramiento**. La propiedad organiza la titularidad; las garantías reales (prenda,
+> hipoteca, fideicomiso) convierten los bienes en respaldo del crédito. Dominarlos es dominar
+> el lado activo del patrimonio y la columna del financiamiento.
+
+**Ejercicio de arranque:** un banco presta 100 millones a una empresa. Quiere asegurarse de
+cobrar aunque la empresa quiebre y aunque otros acreedores reclamen. ¿Qué le da una garantía
+**real** que un simple pagaré (derecho personal) no le da? *Piensa en dos palabras:
+persecución y preferencia.* (Respuesta en la sección 5.4.)
+
+---
+
+## 2. Historia
+
+### 2.1 La matriz romana
+Como vimos en el Libro 1, Roma construyó la arquitectura de los derechos reales: el
+**dominium** (propiedad), la **possessio** (posesión protegida por interdictos) y los *iura
+in re aliena* (servidumbres, usufructo y las garantías: *fiducia*, *pignus* e *hypotheca*).
+Roma fijó dos ideas perdurables: que la propiedad es el señorío más pleno (usar, disfrutar,
+disponer) y que existen derechos **sobre cosa ajena**, incluidos los de **garantía**. El
+*pignus* (prenda con desplazamiento) y la *hypotheca* (garantía sin desplazar la posesión)
+son los ancestros directos de la prenda e hipoteca modernas.
+
+### 2.2 La propiedad feudal y su superación
+En el feudalismo, la propiedad se **fragmentó** y vinculó a relaciones de poder (dominio
+directo del señor y dominio útil del vasallo): una propiedad "dividida" y cargada de
+vínculos. La modernidad —con la Revolución Francesa y el Código Napoleón— **liberó** la
+propiedad: la concibió como un derecho **individual, absoluto y exclusivo** (art. 544 del
+Code: el derecho de gozar y disponer de las cosas del modo más absoluto). Es la propiedad
+liberal, base del capitalismo.
+
+### 2.3 La función social de la propiedad
+El siglo XX matizó ese absolutismo. La idea de **función social de la propiedad** (León
+Duguit; Constitución de Weimar; y de modo pionero la **Constitución mexicana de 1917, art.
+27**) sostiene que la propiedad no es solo un derecho individual sino que debe servir
+también al interés colectivo, lo que justifica la regulación, las modalidades y la
+expropiación por causa de utilidad pública. El art. 27 mexicano es un hito mundial:
+subordina la propiedad privada al interés público y reserva al Estado el dominio de ciertos
+recursos.
+
+### 2.4 La evolución de las garantías
+Las garantías evolucionaron para hacer el crédito más eficiente: de la prenda con
+desplazamiento (entregar la cosa) a la **prenda sin transmisión de posesión** (el deudor
+conserva y usa el bien, p. ej. inventario y maquinaria), y al **fideicomiso de garantía**
+(transmitir la propiedad a un fiduciario en garantía), figuras que México incorporó a la
+**LGTOC** (reformas de 2000 y 2003) para modernizar el financiamiento empresarial.
+
+---
+
+## 3. Problema jurídico que resolvió
+
+1. **¿De quién es cada cosa y con qué alcance?** Define la **propiedad** y sus límites.
+2. **¿Cómo se protege a quien tiene el control de hecho de una cosa?** Crea la **posesión** y
+   sus defensas (interdictos), incluso frente al propietario, para preservar la paz.
+3. **¿Cómo se adquiere y transmite la propiedad?** Establece los **modos de adquirir**
+   (originarios y derivativos) y el papel del registro.
+4. **¿Cómo se puede usar o aprovechar una cosa ajena?** Construye los derechos reales sobre
+   cosa ajena (usufructo, uso, servidumbres).
+5. **¿Cómo se asegura el pago de una deuda con una cosa?** Funda las **garantías reales**
+   (prenda, hipoteca, fideicomiso de garantía) con sus poderes de **persecución** y
+   **preferencia**.
+6. **¿Cómo coexisten varios derechos sobre la misma cosa?** Reglas de prioridad, copropiedad
+   y oponibilidad frente a terceros (publicidad registral).
+
+> Para el corporativo, los problemas 3, 5 y 6 son el oro: transmisión de activos, garantías y
+> prioridad entre acreedores.
+
+---
+
+## 4. Conceptos
+
+- **Bien:** cosa o derecho susceptible de apropiación y de valor económico. (No toda cosa es
+  bien: el aire libre no es apropiable.)
+- **Cosa:** todo objeto material o inmaterial. Los bienes son las cosas en cuanto objeto de
+  derechos.
+- **Bienes muebles e inmuebles:** **inmuebles**, los que no pueden trasladarse sin alterar su
+  esencia (suelo, edificios) y los que la ley reputa tales; **muebles**, los que pueden
+  moverse (incluidos, por disposición de ley, los derechos y las acciones).
+- **Bienes corporales e incorporales:** materiales (un edificio) vs. inmateriales (un crédito,
+  una acción, una marca).
+- **Bienes fungibles y no fungibles:** los que se sustituyen unos por otros del mismo género
+  (dinero, granos) vs. los individualizados (un cuadro).
+- **Bienes consumibles y no consumibles:** se agotan con el primer uso (alimentos) o no
+  (maquinaria).
+- **Derecho real:** poder jurídico que recae **directamente sobre una cosa** y es oponible
+  *erga omnes* (frente a todos). *Ejemplos:* propiedad, usufructo, prenda, hipoteca.
+- **Derecho personal (o de crédito):** facultad de exigir de **otra persona** una prestación
+  (dar, hacer, no hacer); vale *inter partes*. *Ejemplo:* el derecho del prestamista a que le
+  paguen.
+- **Propiedad (dominio):** derecho real más pleno: usar (*ius utendi*), disfrutar (*ius
+  fruendi*) y disponer (*ius abutendi*) de una cosa, con los límites de la ley.
+- **Posesión:** poder de hecho sobre una cosa, con apariencia de derecho; se protege por sí
+  misma (interdictos) y puede llevar a la propiedad por usucapión.
+- **Copropiedad:** propiedad de una cosa que pertenece pro indiviso a varias personas
+  (cuotas o partes alícuotas).
+- **Usufructo:** derecho real de usar y disfrutar una cosa ajena conservando su sustancia
+  (la nuda propiedad queda en otro).
+- **Servidumbre:** gravamen real sobre un inmueble (predio sirviente) en beneficio de otro
+  (predio dominante): paso, acueducto, etc.
+- **Derechos reales de garantía:** **prenda** (sobre muebles), **hipoteca** (sobre inmuebles
+  y ciertos derechos) y el **fideicomiso de garantía** (mecanismo basado en transmisión
+  fiduciaria). Confieren **persecución** y **preferencia**.
+- **Prenda:** garantía real sobre bien **mueble**; clásica con desplazamiento de posesión,
+  moderna **sin transmisión de posesión** (el deudor conserva el bien).
+- **Hipoteca:** garantía real sobre bien **inmueble** (o ciertos derechos), **sin
+  desplazamiento** de posesión; el deudor sigue usando el bien.
+- **Fideicomiso de garantía:** el deudor (fideicomitente) transmite bienes a una institución
+  (fiduciaria) para garantizar una deuda; si incumple, se ejecutan conforme al contrato.
+- **Persecución (*ius persequendi*):** el acreedor con garantía real persigue la cosa aunque
+  pase a manos de un tercero.
+- **Preferencia (*ius praelationis*):** el acreedor con garantía real cobra **antes** que los
+  acreedores comunes sobre el producto de la cosa.
+- **Principio de publicidad / Registro Público:** la inscripción registral hace **oponible**
+  el derecho real frente a terceros y fija la **prioridad** (*prior in tempore, potior in
+  iure*).
+- **Accesión:** modo de adquirir por el cual lo que se une o produce una cosa pertenece a su
+  dueño (frutos, edificación).
+
+## 5. Explicación completa
+
+### 5.1 La clasificación de los bienes: por qué importa
+Clasificar no es un ejercicio escolar; cada categoría dispara **reglas distintas**:
+- **Mueble vs. inmueble** decide la **forma** de transmisión (los inmuebles suelen exigir
+  **escritura pública** e inscripción en el Registro Público de la Propiedad), el tipo de
+  garantía (hipoteca para inmuebles, prenda para muebles) y la competencia judicial.
+- **Corporal vs. incorporal** importa porque gran parte de la riqueza moderna es
+  **incorporal**: acciones, créditos, propiedad intelectual. Las **acciones de una sociedad
+  son bienes muebles** (aunque la sociedad tenga inmuebles), y por eso se dan en **prenda**,
+  no en hipoteca. *Este punto es decisivo en M&A.*
+- **Fungible vs. no fungible** define si una obligación se cumple con un equivalente (dinero)
+  o solo con la cosa específica.
+
+### 5.2 La propiedad: contenido y límites
+La propiedad reúne las tres facultades romanas: **usar, disfrutar y disponer**. Pero no es
+absoluta. Tiene límites:
+- **Legales y de interés público:** la **función social** (art. 27 constitucional), las
+  modalidades que dicte el interés público, las restricciones urbanísticas y ambientales.
+- **La expropiación:** el Estado puede privar de la propiedad por **causa de utilidad
+  pública** mediante **indemnización** (recuerda el Libro 3).
+- **El abuso del derecho:** no se puede ejercer la propiedad solo para dañar a otro.
+- **Las relaciones de vecindad** y las servidumbres.
+
+Modos de adquirir la propiedad: **originarios** (sin un titular anterior que la transmita:
+ocupación, accesión, usucapión) y **derivativos** (de un titular a otro: contrato + modo,
+herencia). Recuerda del Libro 1 que en México, para bienes ciertos, el **contrato transmite
+la propiedad por el solo consentimiento** (consensualismo, art. 2014 CCF), pero su
+**oponibilidad** frente a terceros depende de la **inscripción registral** (inmuebles) o de
+la entrega/posesión (muebles).
+
+### 5.3 La posesión: el poder de hecho protegido
+La posesión es el control de hecho sobre una cosa con apariencia de derecho. El derecho la
+protege **por sí misma** (interdictos) por dos razones: preservar la **paz social** (que
+nadie se haga justicia por mano propia) y porque la posesión suele ser **signo de
+propiedad**. La posesión de buena fe, con justo título y por el tiempo legal, conduce a la
+**usucapión** (prescripción adquisitiva): el poseedor se vuelve propietario. *Por qué
+importa:* en due diligence de activos inmobiliarios, la diferencia entre quien **posee** y
+quien tiene la **propiedad inscrita** es una fuente clásica de riesgo (invasiones, posesión
+irregular, prescripción en curso).
+
+### 5.4 Las garantías reales: el corazón corporativo del libro
+Aquí está la sección más rentable. Cuando alguien presta dinero, su derecho a que le paguen
+es un **derecho personal** (de crédito): si el deudor no paga, el acreedor demanda y compite
+con todos los demás acreedores sobre el patrimonio del deudor (regla *par condicio
+creditorum*: todos iguales). Eso es frágil. Para fortalecerse, el acreedor pide una
+**garantía real**: un derecho **sobre una cosa concreta** que le da dos superpoderes:
+
+1. **Persecución (*ius persequendi*):** puede ir tras la cosa gravada **aunque el deudor la
+   venda** a un tercero. La garantía "viaja" con el bien.
+2. **Preferencia (*ius praelationis*):** sobre el producto de la venta de esa cosa, cobra
+   **antes** que los acreedores comunes. No compite en igualdad: tiene prioridad.
+
+Las garantías reales típicas:
+- **Hipoteca:** sobre **inmuebles** (y ciertos derechos, como una concesión). El deudor
+  conserva la posesión y el uso (sigue operando la fábrica hipotecada). Se constituye en
+  **escritura pública** y se **inscribe** en el Registro Público de la Propiedad (la
+  inscripción fija la prioridad y la oponibilidad).
+- **Prenda:** sobre **muebles** (mercancías, maquinaria, **acciones**, cuentas por cobrar).
+  La forma clásica exige **desplazar la posesión** (entregar la cosa); la moderna **prenda
+  sin transmisión de posesión** (LGTOC) deja el bien en poder del deudor para que siga
+  operando —fundamental para prendar inventarios y equipo—. Se inscribe en el **Registro
+  Único de Garantías Mobiliarias (RUG)**.
+- **Fideicomiso de garantía:** el deudor transmite bienes a una **fiduciaria** (banco) que los
+  conserva en garantía; ante incumplimiento, se ejecutan según el contrato, a menudo de forma
+  **más rápida** que un juicio hipotecario. Muy usado en financiamientos estructurados y
+  *project finance*.
+
+**Cómo razona un experto (walkthrough de un paquete de garantías):** ante un crédito
+corporativo, el abogado piensa: *¿qué activos valiosos tiene el deudor? → para cada uno,
+¿qué garantía cabe (inmuebles→hipoteca; maquinaria/inventario→prenda sin transmisión;
+acciones→prenda; flujos/cuentas→prenda o fideicomiso)? → ¿cómo se perfecciona y registra
+cada una para ganar prioridad? → ¿cómo y qué tan rápido se ejecuta si hay default?*. El
+resultado es el **security package**, y su calidad determina la tasa del crédito y la
+recuperación en caso de incumplimiento.
+
+> **Respuesta al ejercicio de arranque:** la garantía real le da al banco **persecución**
+> (persigue el bien gravado aunque la empresa lo venda) y **preferencia** (cobra antes que
+> los acreedores comunes sobre ese bien, incluso en concurso). El pagaré, como derecho
+> personal, solo le permite competir en igualdad con los demás: si hay poco, se reparte a
+> prorrata. Por eso ningún financiamiento serio se cierra sin garantías reales bien
+> constituidas, perfeccionadas y **registradas**.
+
+### 5.5 Copropiedad, propiedad en condominio y régimen de bienes
+- **Copropiedad:** varios titulares sobre cuotas ideales de una misma cosa; cada copropietario
+  puede disponer de su cuota, hay derecho del tanto (preferencia para adquirir la cuota del
+  otro) y nadie está obligado a permanecer en la indivisión. *Relevancia corporativa:* la
+  **co-titularidad de acciones** y los **bienes comunes** en joint ventures usan reglas
+  análogas.
+- **Propiedad en condominio:** combina propiedad exclusiva (el departamento) y copropiedad
+  forzosa (áreas comunes).
+- **Régimen patrimonial del matrimonio** (sociedad conyugal o separación de bienes): importa
+  en M&A cuando un accionista persona física está casado por sociedad conyugal, pues su
+  cónyuge puede tener derechos sobre las acciones.
+
+### 5.6 Publicidad y oponibilidad: el papel del Registro
+Los derechos reales valen frente a todos, pero para **oponerlos a terceros de buena fe** se
+necesita **publicidad**: la inscripción en el registro correspondiente (Registro Público de
+la Propiedad para inmuebles e hipotecas; RUG para garantías mobiliarias; Registro Público de
+Comercio para ciertos actos societarios). Rige el principio *prior in tempore, potior in
+iure*: quien inscribe primero, gana prioridad. Por eso, en un cierre de financiamiento, la
+**carrera por inscribir** las garantías el mismo día del *closing* es un momento crítico que
+el abogado debe coordinar con precisión.
