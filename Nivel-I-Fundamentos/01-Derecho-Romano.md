@@ -296,3 +296,158 @@ por qué el litigio romano y el anglosajón comparten un aire de familia.
 > **Síntesis del cuerpo doctrinal:** persona (quién), cosa (qué), obligación (qué debo),
 > contrato (por qué lo debo), acción (cómo lo exijo). Memoriza esa cadena: es el esqueleto
 > del derecho privado de Occidente.
+
+
+---
+
+## 6. Comparación doctrinal
+
+El derecho romano es un campo de batalla de interpretaciones. Conocer los debates da
+profundidad de jurista.
+
+**Interpolacionismo vs. crítica moderada.** A inicios del siglo XX, una escuela (liderada
+por autores como Gradenwitz y, con matices, Beseler) sostuvo que el Digesto está plagado
+de **interpolaciones**: alteraciones que los compiladores de Justiniano hicieron a los
+textos clásicos. La caza de interpolaciones llegó a ser excesiva. La romanística posterior
+(Schulz, Wieacker) moderó la tesis: hay interpolaciones, sí, pero el grueso del Digesto
+conserva el pensamiento clásico. Lección para el abogado: **todo texto tiene capas
+históricas**; leerlo críticamente es parte del oficio.
+
+**¿Sistema o casuismo?** Una corriente (la Pandectística alemana del XIX) leyó a Roma como
+un sistema lógico de conceptos (*Begriffsjurisprudenz*, jurisprudencia de conceptos),
+construyendo pirámides dogmáticas. Otra (Jhering en su segunda etapa, y luego el realismo)
+reaccionó: el derecho romano fue **casuístico y finalista**, orientado a resultados
+prácticos, no a la geometría conceptual. Este debate —concepto vs. finalidad— reaparece
+hoy cada vez que discutimos si interpretar un contrato por su letra o por su propósito.
+
+**El consensualismo y el problema del pacto desnudo.** Para los romanos, el simple acuerdo
+no obligaba salvo en los contratos típicos. La doctrina posterior (canonistas medievales,
+con su *pacta sunt servanda*, y luego los iusnaturalistas como Grocio) universalizó la
+fuerza del consentimiento. El paso del **sistema típico cerrado** al **principio general
+de autonomía de la voluntad** es una de las grandes transformaciones del derecho privado,
+y explica por qué hoy podemos crear contratos atípicos (joint ventures, *earn-outs*) que
+Roma no conocía.
+
+**Causa vs. consideration.** La doctrina romano-germánica desarrolló (sobre bases romanas)
+la teoría de la **causa** del contrato; el common law desarrolló la **consideration**. Son
+respuestas distintas a la misma pregunta: ¿por qué este acuerdo merece protección? Saber
+que ambas descienden, en parte, de la reflexión romana sobre la *causa* de la *traditio* y
+de las obligaciones, permite dialogar entre sistemas en una operación cross-border.
+
+---
+
+## 7. Autores más importantes
+
+**Juristas romanos clásicos:**
+- **Gayo** (s. II): autor de las *Institutiones*, único manual clásico conservado casi
+  íntegro. Padre de la sistemática *personae–res–actiones*. Lectura obligada.
+- **Papiniano** (Aemilius Papinianus): considerado el príncipe de los juristas por su
+  agudeza; murió ejecutado por negarse a justificar un crimen del emperador Caracalla.
+- **Ulpiano** (Domitius Ulpianus): el más citado en el Digesto (cerca de un tercio del
+  texto). Definiciones célebres sobre justicia y derecho.
+- **Paulo** (Iulius Paulus): prolífico y penetrante.
+- **Modestino**: último de los grandes clásicos.
+
+(La **Ley de Citas** del 426 d.C. dio valor preferente a las opiniones de estos cinco.)
+
+**Romanistas y juristas de la tradición:**
+- **Irnerio y Acursio** (glosadores de Bolonia, s. XII–XIII): reabren el Corpus Iuris.
+- **Bártolo de Sassoferrato y Baldo de Ubaldis** (comentaristas, s. XIV): adaptan Roma a
+  la práctica; "*nemo bonus iurista nisi bartolista*".
+- **Friedrich Carl von Savigny** (s. XIX): fundador de la Escuela Histórica; *Sistema del
+  Derecho Romano Actual*. Defendió que el derecho brota del "espíritu del pueblo".
+- **Bernhard Windscheid**: cumbre de la Pandectística; su manual influyó en el BGB alemán.
+- **Rudolf von Jhering**: *El espíritu del derecho romano*, *La lucha por el derecho*;
+  giró del conceptualismo al finalismo.
+- **Fritz Schulz y Franz Wieacker**: romanística del siglo XX, historia de la ciencia
+  jurídica.
+
+**Romanistas en lengua española (clave para el estudiante mexicano):**
+- **Álvaro d'Ors** (España): *Derecho Privado Romano*, monumental.
+- **Juan Iglesias**: *Derecho Romano*, manual clásico en español.
+- **Guillermo Floris Margadant** (México): *El Derecho Privado Romano*, el texto de
+  cabecera en la UNAM, ameno y profundo. Imprescindible.
+- **Sabino Ventura Silva** y **Marta Morineau Iduarte** (México): manuales universitarios
+  muy usados en la Facultad de Derecho.
+
+---
+
+## 8. Derecho comparado
+
+El derecho romano es el tronco del que se ramifican las dos grandes familias jurídicas de
+Occidente, y la clave para entender sus diferencias.
+
+**Familia romano-germánica (civil law).** Alemania, Francia, Italia, España, Portugal y
+toda Latinoamérica (México incluido). El derecho se organiza en **códigos** sistemáticos,
+herederos directos de las categorías romanas. Dos modelos internos:
+- *Modelo francés* (Code Civil, 1804): el contrato transmite la propiedad por el solo
+  consentimiento (consensualismo puro). Influye en México.
+- *Modelo alemán* (BGB, 1900): mantiene la separación romana entre el negocio obligacional
+  (título) y el negocio dispositivo (modo), con el célebre principio de **abstracción**.
+
+**Familia del common law.** Inglaterra y sus derivados (EE. UU., etc.). No recibió el
+derecho romano sustantivo, pero comparte con Roma la mentalidad **remedial** (del *writ* y
+la *actio*) y casuística (precedente). Por eso un abogado de M&A formado en Roma entiende
+intuitivamente la lógica anglosajona de "remedios primero".
+
+**Sistemas mixtos.** Escocia, Sudáfrica, Luisiana, Quebec: combinan base romana y técnica
+del common law. Son el mejor laboratorio para el abogado transaccional internacional.
+
+> **Para el practicante de M&A:** la mayoría de las operaciones cross-border se documentan
+> con técnica anglosajona (contratos extensos, *self-contained*, con definiciones y
+> *representations*), pero se ejecutan sobre derechos sustantivos de tradición romanista
+> (la sociedad mexicana, sus activos, sus garantías). Dominar ambas raíces es la ventaja
+> competitiva.
+
+---
+
+## 9. Relación con México
+
+El derecho romano **vive** en el derecho positivo mexicano. Trazar el linaje es revelador.
+
+**Vía de recepción:** Roma → *ius commune* europeo → Derecho castellano (Partidas de
+Alfonso X, fuertemente romanizadas) → Derecho indiano colonial → Código Civil francés de
+1804 (modelo) → Códigos Civiles mexicanos de 1870, 1884, y el **Código Civil de 1928**
+(vigente como Código Civil Federal y modelo de los estatales).
+
+**Instituciones romanas en el Código Civil Federal (CCF), ejemplos:**
+- *Obligaciones* (Libro Cuarto del CCF): la definición, las fuentes (contrato, declaración
+  unilateral, enriquecimiento sin causa —*condictio*—, gestión de negocios —*negotiorum
+  gestio*—, hechos ilícitos), el dolo, la culpa, la mora, el caso fortuito: todo es romano.
+- *Compraventa* (arts. 2248 y ss.): saneamiento por **evicción** (arts. 2119 y ss.) y por
+  **vicios ocultos** (arts. 2142 y ss.) son la *actio* de evicción y las acciones edilicias
+  romanas.
+- *Derechos reales*: propiedad, usufructo, uso, habitación, **servidumbres**, **prenda** e
+  **hipoteca**: catálogo romano.
+- *Prescripción* adquisitiva (*usucapio*) y liberatoria: arts. 1135 y ss.
+- *Personas y familia*: capacidad, representación, tutela: matriz romana.
+- *Sucesiones*: testamento, herencia, legado: estructura romana.
+
+**Buena fe:** principio transversal del derecho mexicano (arts. 1796 y 2284 CCF, y en
+materia mercantil), heredero directo de la *bona fides* romana.
+
+> **Conclusión para el estudiante:** estudiar Roma no es un lujo histórico; es estudiar el
+> Código Civil mexicano en su versión original y sin ruido. Cuando llegues a Obligaciones
+> (Nivel I, Libro 7) y a Contratos, reconocerás cada figura.
+
+---
+
+## 10. Relación con otras materias
+
+El Derecho Romano es la raíz; estas son sus ramas dentro de la biblioteca:
+
+- **Teoría General del Acto Jurídico (Libro 4):** la *stipulatio*, el consentimiento y la
+  *causa* romanas preparan la teoría del negocio jurídico.
+- **Personas (Libro 5):** *status*, capacidad y representación nacen aquí.
+- **Bienes y Derechos Reales (Libro 6):** *dominium*, *possessio*, *iura in re aliena*.
+- **Obligaciones (Libro 7):** descendiente directo de la *obligatio* y sus fuentes.
+- **Contratos (Libro 8):** del sistema típico romano a la autonomía de la voluntad.
+- **Derecho Mercantil (Nivel III):** la *societas* y el *ius gentium* comercial anticipan
+  el derecho de sociedades y el comercio internacional.
+- **Sociedades (LGSM):** la persona moral perfecciona lo que la *societas* y las
+  *universitates* solo insinuaron.
+- **Garantías y financiamiento (Niveles II–IV):** *pignus* e *hypotheca* son el origen de
+  los paquetes de garantías.
+- **M&A (Nivel IV):** la *emptio venditio* con saneamiento es el esqueleto del SPA.
+- **Argumentación y Metodología (Libros 11–13):** el método casuístico romano es el modelo
+  del razonamiento jurídico.
