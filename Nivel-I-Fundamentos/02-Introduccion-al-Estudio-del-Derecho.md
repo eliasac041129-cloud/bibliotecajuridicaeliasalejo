@@ -217,3 +217,171 @@ regularidad constitucional), las leyes generales y federales, y así sucesivamen
 - **Post-positivismo / principialismo:** Dworkin sostiene que el derecho incluye no solo
   reglas sino **principios** y valores; Alexy desarrolla la ponderación. Esta visión domina
   hoy el constitucionalismo y la práctica de derechos humanos en México.
+
+
+---
+
+## 6. Comparación doctrinal
+
+**Kelsen vs. Hart.** Ambos positivistas, pero distintos. Kelsen construye una *Teoría Pura*:
+depura el derecho de moral, política y sociología, lo concibe como sistema escalonado de
+normas validadas por una *Grundnorm* hipotética. Hart, más sociológico, sustituye la
+*Grundnorm* por una **regla de reconocimiento** que existe como práctica social aceptada por
+los funcionarios; distingue reglas primarias (de conducta) y secundarias (de
+reconocimiento, cambio y adjudicación). Hart es más realista sobre la **textura abierta**
+del lenguaje jurídico: las normas tienen un núcleo de certeza y una penumbra de duda.
+
+**Hart vs. Dworkin.** El debate central de la teoría del derecho del siglo XX. Hart:
+positivista, el derecho son reglas identificadas por la regla de reconocimiento; en los
+casos difíciles el juez tiene **discrecionalidad**. Dworkin replica: el derecho incluye
+**principios** (no solo reglas) que tienen "peso" y se ponderan; en los casos difíciles
+existe una **respuesta correcta** y el juez no crea derecho, lo descubre interpretando la
+práctica en su "mejor luz" (la metáfora del juez Hércules). Este debate es vital para el
+abogado: define si interpretar es aplicar reglas o ponderar principios.
+
+**Iusnaturalismo vs. positivismo.** El iusnaturalismo (de Tomás de Aquino a Finnis) afirma
+una conexión necesaria entre derecho y moral; el positivismo (Kelsen, Hart, Bobbio) la
+niega como condición de validez. La experiencia del siglo XX (los crímenes "legales" del
+nazismo) reavivó el debate: la **fórmula de Radbruch** sostiene que la injusticia extrema
+deja de ser derecho. El constitucionalismo contemporáneo, al incorporar valores y derechos
+humanos al texto supremo, "positiviza" buena parte del antiguo derecho natural.
+
+**Escuela de la Exégesis vs. jurisprudencia de intereses / libre investigación.** La
+Exégesis (Francia, s. XIX) reducía el derecho a la ley y al juez a su "boca". Jhering,
+Gény (libre investigación científica) y la jurisprudencia de intereses (Heck) reaccionaron:
+interpretar es atender a los fines y a los intereses en conflicto, no solo a la letra.
+
+---
+
+## 7. Autores más importantes
+
+- **Hans Kelsen** (*Teoría Pura del Derecho*, *Teoría General del Derecho y del Estado*): la
+  pirámide normativa, la *Grundnorm*, la distinción ser/deber ser.
+- **H. L. A. Hart** (*El Concepto de Derecho*): regla de reconocimiento, reglas primarias y
+  secundarias, textura abierta.
+- **Ronald Dworkin** (*Los Derechos en Serio*, *El Imperio de la Justicia*): principios,
+  respuesta correcta, derecho como integridad.
+- **Norberto Bobbio** (*Teoría General del Derecho*): validez/eficacia/justicia, teoría del
+  ordenamiento, antinomias.
+- **Robert Alexy** (*Teoría de los Derechos Fundamentales*): principios como mandatos de
+  optimización, ponderación, proporcionalidad.
+- **Eduardo García Máynez** (*Introducción al Estudio del Derecho*): **el texto clásico
+  mexicano**; bilateralidad como nota esencial, teoría de los tres círculos
+  (validez formal, intrínseca y positividad).
+- **Miguel Villoro Toranzo, Leonel Pereznieto, Luis Recaséns Siches** (*Tratado General de
+  Filosofía del Derecho*), **Rolando Tamayo y Salmorán**, **Ulises Schmill**: doctrina
+  mexicana de referencia.
+- **Carlos Santiago Nino** (*Introducción al Análisis del Derecho*): claridad analítica
+  insuperable, muy usado en Latinoamérica.
+- Clásicos: **Aristóteles**, **Tomás de Aquino**, **Savigny**, **Jhering**, **Austin**.
+
+---
+
+## 8. Derecho comparado
+
+- **Tradición romano-germánica (civil law):** prima la **ley** escrita y la sistematización
+  dogmática; la jurisprudencia interpreta. México, España, Francia, Alemania, Italia,
+  Latinoamérica.
+- **Common law:** prima el **precedente judicial** (*stare decisis*); el derecho se
+  construye caso a caso y la ley (*statute*) se interpreta restrictivamente frente al
+  *common law*. Inglaterra, EE. UU.
+- **Sistemas religiosos y mixtos:** derecho islámico, sistemas que combinan fuentes
+  (Escocia, Sudáfrica).
+- **Convergencia contemporánea:** el constitucionalismo de derechos, el control de
+  convencionalidad y el soft law internacional acercan ambas familias. Hoy un juez mexicano
+  pondera principios (técnica más cercana al common law constitucional) y un juez
+  estadounidense aplica códigos cada vez más densos.
+
+Para el abogado de M&A esto es crucial: negociar la **ley aplicable** y la **jurisdicción**
+de un contrato implica entender cómo cada sistema interpreta e integra. Un contrato regido
+por *New York law* se lee distinto de uno regido por derecho mexicano.
+
+---
+
+## 9. Relación con México
+
+- **Pirámide normativa mexicana:** Constitución (art. 133) → tratados, con rango especial
+  los de **derechos humanos** (art. 1º, reforma de 2011; *parámetro de regularidad
+  constitucional*) → leyes generales → leyes federales y locales → reglamentos → normas
+  individualizadas (sentencias, contratos, actos administrativos).
+- **Interpretación constitucional:** los arts. 1º y 14 imponen la interpretación **conforme**
+  y el principio **pro persona**; el art. 14 prohíbe la analogía en materia penal pero la
+  admite (vía principios generales) en la civil.
+- **Fuentes en el Código Civil Federal:** art. 18 (el juez no puede dejar de resolver por
+  silencio u oscuridad de la ley), art. 19 (las controversias se deciden conforme a la letra
+  o a la interpretación jurídica de la ley, y a falta de ley, por los **principios generales
+  del derecho**), art. 20 (conflicto de derechos), art. 21 (ignorancia de la ley no excusa).
+- **Jurisprudencia:** la Ley de Amparo regula su formación (por reiteración, por
+  contradicción de criterios y por precedentes de la SCJN tras la reforma de 2021, que dio
+  fuerza de **precedente obligatorio** a las razones de las sentencias del Pleno y Salas
+  aprobadas por mayoría calificada). Esto acerca a México a una lógica de precedente.
+- **Costumbre y usos mercantiles:** reconocidos como fuente supletoria en materia mercantil
+  (Código de Comercio y leyes especiales), a diferencia del derecho civil donde la costumbre
+  solo rige cuando la ley remite a ella.
+
+---
+
+## 10. Relación con otras materias
+
+- **Derecho Romano (Libro 1):** aporta las categorías; la IED las teoriza y sistematiza.
+- **Teoría del Estado (Libro 3):** el Estado es el productor y garante del derecho; las
+  fuentes formales emanan de sus órganos.
+- **Lógica y Argumentación Jurídica (Libros 11–12):** la interpretación, las antinomias y la
+  integración se ejecutan con herramientas lógicas y argumentativas.
+- **Metodología Jurídica (Libro 13):** aplica en concreto las técnicas de investigación e
+  interpretación que la IED expone.
+- **Acto Jurídico, Obligaciones, Contratos (Libros 4, 7, 8):** usan los conceptos de norma,
+  validez, eficacia y deber jurídico.
+- **Todo el derecho mercantil y corporativo:** la jerarquía de fuentes (ley imperativa,
+  estatutos sociales, contrato, usos) y la interpretación de cláusulas son IED aplicada.
+
+---
+
+## 11. Aplicación profesional
+
+1. **Jerarquizar fuentes ante un problema:** ¿qué manda primero, la ley imperativa, el
+   estatuto social, el contrato entre partes o el uso mercantil? Resolver esto bien evita
+   nulidades y litigios.
+2. **Interpretar contratos y estatutos:** aplicar los métodos (literal, sistemático,
+   teleológico) y las reglas de interpretación contractual (arts. 1851 y ss. CCF: la
+   intención de las partes sobre las palabras).
+3. **Integrar lagunas contractuales:** cuando el contrato calla, acudir a la ley supletoria,
+   los usos y la buena fe integradora (art. 1796 CCF).
+4. **Resolver antinomias:** entre cláusulas contradictorias de un mismo contrato o entre
+   contratos vinculados (jerárquico, cronológico, especialidad).
+5. **Argumentar la validez/invalidez** de un acto: distinguir si un vicio afecta la validez
+   (nulidad) o solo la eficacia.
+
+---
+
+## 12. Errores comunes
+
+- **Confundir ley con derecho.** La ley es una fuente; el derecho es el sistema completo
+  (incluye principios, jurisprudencia, usos).
+- **Confundir validez con justicia.** Una norma puede ser válida y aun así injusta; y al
+  revés, una pretensión justa puede carecer de fundamento normativo.
+- **Confundir vigencia con eficacia.** Que una norma esté en vigor no significa que se
+  cumpla.
+- **Creer que interpretar es solo leer la letra.** El método literal es el punto de partida,
+  no el de llegada; ignorar el fin y el sistema produce interpretaciones absurdas.
+- **Aplicar analogía en materias prohibidas** (penal, normas restrictivas de derechos).
+- **Ignorar la jerarquía de fuentes** al redactar un contrato: pactar contra una norma
+  **imperativa** (de orden público) produce nulidad, por más que las partes lo hayan
+  querido.
+
+---
+
+## 13. Cómo lo preguntaría un profesor
+
+- *"¿Qué distingue a la norma jurídica de la moral? Desarrolle la bilateralidad."*
+- *"Explique la diferencia entre validez, vigencia, eficacia y justicia con un ejemplo de
+  cada una."*
+- *"¿Qué son las fuentes formales del derecho y cuál predomina en el sistema mexicano?"*
+- *"Resuelva esta antinomia: una ley general posterior contradice una ley especial anterior.
+  ¿Qué criterio prevalece y por qué?"* (Trampa: choque entre cronológico y especialidad; la
+  doctrina suele preferir la especialidad, salvo voluntad derogatoria expresa.)
+- *"Exponga el debate Hart–Dworkin sobre reglas y principios."*
+- *"¿Cómo integra el juez mexicano una laguna? Fundamente en el Código Civil y la
+  Constitución."*
+
+---
