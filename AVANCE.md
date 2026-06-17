@@ -21,7 +21,7 @@ integridad. Este archivo es el tablero de control.
 | 9 | Historia del Pensamiento Jurídico y Económico | ✅ |
 | 10 | Economía para juristas | ✅ |
 | 11 | Argumentación Jurídica | ✅ |
-| 12 | Lógica Jurídica | ⬜ |
+| 12 | Lógica Jurídica | ✅ |
 | 13 | Metodología Jurídica | ⬜ |
 
 ## Nivel II · Derecho Civil Profundo

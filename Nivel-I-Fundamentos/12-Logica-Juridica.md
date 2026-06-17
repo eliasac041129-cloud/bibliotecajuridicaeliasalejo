@@ -321,3 +321,296 @@ a cálculo: la decisión jurídica combina lógica, argumentación y valoración
 - *"¿Por qué el razonamiento jurídico es 'derrotable' y qué implica?"*
 
 ---
+
+
+## 14. Cómo aparece en un juicio
+
+- **Coherencia de la sentencia:** la sentencia debe ser lógicamente coherente (la conclusión se
+  sigue de los considerandos); su incongruencia o contradicción interna es causa de recurso.
+- **Congruencia procesal:** la sentencia debe resolver **lo pedido** (ni más —*ultra petita*—,
+  ni menos —*citra petita*—, ni cosa distinta —*extra petita*—): exigencia lógica del proceso.
+- **Valoración de la prueba:** combina inducción (de indicios a hechos) y abducción (hipótesis
+  explicativa); la prueba indiciaria exige inferencias lógicamente sólidas.
+- **Detección de falacias del contrario:** señalar la afirmación del consecuente o la
+  contradicción en los agravios de la contraparte.
+
+## 15. Cómo aparece en un contrato
+
+- **Consistencia interna:** las cláusulas no deben contradecirse; cuando hay tensión, la
+  **cláusula de prelación** y la interpretación sistemática resuelven (lógica de antinomias).
+- **Definiciones usadas de forma consistente:** un término definido debe significar **lo mismo**
+  en todo el contrato; el uso inconsistente es un defecto lógico explotable.
+- **Estructura condicional clara:** las obligaciones y condiciones se redactan como "si... (
+  supuesto), entonces... (consecuencia)"; la ambigüedad lógica genera disputa.
+- **Remisiones internas correctas:** "conforme a la Cláusula X" debe apuntar a la cláusula
+  correcta; los errores de remisión son frecuentes y dañinos.
+- **Completitud:** prever los escenarios relevantes; los vacíos se integran, pero es mejor
+  preverlos.
+
+## 16. Cómo aparece en una empresa
+
+- **Coherencia del marco normativo interno:** estatutos, reglamentos y políticas no deben
+  contradecirse; su jerarquía y consistencia son lógica aplicada.
+- **Sistemas de compliance:** las reglas internas deben ser consistentes y completas para ser
+  aplicables y auditables.
+- **Automatización y *legal tech*:** la digitalización de procesos jurídicos (contratos
+  inteligentes, sistemas de decisión) descansa en estructuras lógicas formalizadas.
+
+## 17. Cómo aparece en una operación de M&A
+
+- **Auditoría lógica del SPA:** revisar que las definiciones sean consistentes, que las
+  condiciones (CP) y obligaciones encajen sin contradicción, que las remisiones internas (a
+  anexos, a *disclosure schedules*) sean correctas y que el **orden de prelación** entre
+  documentos esté claro. Un error lógico aquí cuesta millones.
+- **Estructura condicional del cierre:** el closing es un gran condicional: "si se cumplen las
+  condiciones C1...Cn, entonces se cierra". La lógica asegura que las condiciones estén bien
+  definidas y no se solapen ni contradigan.
+- **Razonamiento derrotable en las reps:** una *representation* general ("no hay litigios") cede
+  ante lo **revelado** en la *disclosure schedule* (excepción): es lógica derrotable. Manejar
+  bien la relación regla-excepción evita disputas.
+- **Coherencia entre documentos del *deal*:** SPA, contrato de crédito, garantías y *escrow*
+  deben ser mutuamente consistentes; las contradicciones entre documentos generan litigio.
+- **Legal opinions:** su validez **interna** (la conclusión se sigue de las *assumptions* y los
+  fundamentos) es pura lógica; sus *qualifications* son las excepciones (derrotabilidad).
+
+> **Cómo razona el socio:** "Antes de firmar, hago una **auditoría lógica**: ¿las definiciones
+> son consistentes en todos los documentos?, ¿alguna cláusula contradice a otra?, ¿las
+> condiciones de cierre se solapan o chocan?, ¿las remisiones apuntan bien? Un *deal* es un
+> sistema; si el sistema es inconsistente, explota en litigio."
+
+## 18. Cómo aparece en la práctica internacional
+
+- **Coherencia entre contratos regidos por distintas leyes:** en operaciones cross-border, el
+  SPA (una ley), las garantías (otra) y los acuerdos accesorios deben ser **mutuamente
+  consistentes** pese a las distintas leyes aplicables.
+- **Legal opinions internacionales:** su estructura lógica (*assumptions* → *opinions* →
+  *qualifications*) es estándar global; cada *qualification* es una excepción que delimita la
+  conclusión.
+- **Legal tech y IA jurídica:** la formalización lógica del derecho es la base de herramientas
+  globales de revisión de contratos y *due diligence* asistida.
+
+---
+
+## 19. Casos
+
+**Caso 1. Falacia formal en un agravio.** La contraparte sostiene: "Si el contrato fuera
+simulado, las partes no lo habrían inscrito; lo inscribieron; luego no es simulado." *Análisis:*
+es una **negación del antecedente / afirmación del consecuente** mal construida; la inscripción
+**no** descarta la simulación (puede simularse e inscribirse). Se desmonta señalando la falacia
+formal. Lección: identificar la forma desactiva el argumento.
+
+**Caso 2. Contradicción interna en un contrato.** La Cláusula 5 obliga a "mantener
+confidencialidad absoluta"; la Cláusula 12 obliga a "divulgar la operación al regulador".
+*Análisis:* hay tensión; se resuelve con interpretación sistemática y, si existe, la cláusula de
+prelación, o restringiendo la confidencialidad ("salvo divulgaciones exigidas por ley"). Lección:
+la auditoría lógica previa lo habría evitado.
+
+**Caso 3. Razonamiento derrotable en las reps.** Una *rep* dice "no hay pasivos no revelados";
+en la *disclosure schedule* se reveló un pasivo. *Análisis:* la regla general (no hay pasivos)
+es **derrotada** por la excepción (lo revelado); no hay incumplimiento respecto de lo
+divulgado. Lección: la relación regla-excepción debe redactarse con claridad lógica.
+
+## 20. Preguntas abiertas
+
+1. ¿Puede realmente existir una "lógica de las normas" o las normas escapan a la lógica clásica
+   (dilema de Jørgensen)?
+2. ¿La lógica derrotable describe mejor el razonamiento jurídico que la lógica deductiva clásica?
+3. ¿Hasta dónde puede automatizarse el razonamiento jurídico sin perder la valoración que la
+   lógica no captura?
+4. ¿La exigencia de consistencia y completitud es realista para sistemas jurídicos y contratos
+   complejos?
+5. ¿La IA generativa, que no razona lógicamente sino estadísticamente, puede producir
+   razonamiento jurídico válido?
+
+## 21. Preguntas tipo examen (con respuesta modelo)
+
+**P1. Distinga verdad, validez y solidez.** *R.* La **verdad** es propiedad del contenido de las
+premisas/conclusión; la **validez**, de la forma de la inferencia (la conclusión se sigue de las
+premisas); la **solidez**, de un argumento válido con premisas verdaderas.
+
+**P2. Explique modus ponens y modus tollens.** *R.* Modus ponens: "Si A→B; A; luego B" (válido).
+Modus tollens: "Si A→B; no B; luego no A" (válido). Ambos son formas deductivas correctas.
+
+**P3. ¿Qué es la falacia de afirmación del consecuente?** *R.* Inferir "Si A→B; B; luego A". Es
+**inválida**: de que B ocurra no se sigue que A sea su causa, pues B puede tener otras causas.
+
+**P4. ¿Qué son los operadores de la lógica deóntica?** *R.* Obligatorio (O), prohibido (Ph),
+permitido (P) y facultativo. Relaciones: lo obligatorio está permitido; lo prohibido no está
+permitido; en lo privado, lo no prohibido está permitido.
+
+**P5. ¿Qué significan consistencia y completitud de un sistema normativo?** *R.* Consistencia =
+ausencia de contradicciones (antinomias); completitud = existencia de solución para todo caso
+(ausencia de lagunas). Las antinomias se resuelven con criterios; las lagunas se integran.
+
+## 22. Casos complejos (nivel "socio")
+
+**Caso A. Auditoría lógica de un paquete de documentos de un *deal*.** Te entregan un SPA, un
+contrato de crédito, contratos de garantía y un *escrow agreement*, todos interrelacionados.
+Realiza una **auditoría lógica**: (i) verifica que los **términos definidos** (p. ej., "deuda",
+"materialidad", "cambio de control") signifiquen lo mismo en todos los documentos; (ii) detecta
+posibles **contradicciones** (p. ej., el SPA permite distribuir dividendos pero el crédito lo
+prohíbe); (iii) revisa que las **condiciones de cierre** del SPA y del crédito sean
+consistentes y no circulares (el SPA condiciona al crédito y viceversa: ¿hay dependencia
+circular?); (iv) verifica las **remisiones internas** y el **orden de prelación**. Propón cómo
+resolver cada inconsistencia. Explica por qué un defecto lógico es un riesgo litigioso latente.
+
+**Caso B. Regla, excepción y derrotabilidad en un sistema de reps & disclosure.** Diseña la
+relación lógica entre las *representations* (reglas generales: "no hay X"), las *disclosure
+schedules* (excepciones que derrotan la regla) y las *indemnities* (consecuencia del
+incumplimiento de la regla no derrotada). Analiza: (i) cómo la divulgación **derrota** la
+afirmación general sin generar responsabilidad; (ii) qué pasa si una divulgación es **ambigua o
+incompleta** (¿derrota la regla o no?); (iii) cómo redactar para que la relación regla-excepción
+sea lógicamente clara (estándares de divulgación "fair disclosure"); (iv) el riesgo de
+**inconsistencia** entre una *rep* y otra. Modela el sistema como razonamiento derrotable y
+explica sus implicaciones prácticas en un *claim* post-closing.
+
+---
+
+## 23. Flashcards
+
+- **¿Validez vs. verdad?** → Validez = forma de la inferencia; verdad = contenido de las
+  premisas.
+- **¿Solidez?** → Argumento válido + premisas verdaderas.
+- **¿Modus ponens?** → Si A→B; A; luego B (válido).
+- **¿Modus tollens?** → Si A→B; no B; luego no A (válido).
+- **¿Afirmación del consecuente?** → Si A→B; B; luego A (INVÁLIDO).
+- **¿Negación del antecedente?** → Si A→B; no A; luego no B (INVÁLIDO).
+- **¿Operadores deónticos?** → Obligatorio, prohibido, permitido, facultativo.
+- **¿Principio de no contradicción?** → A no puede ser y no ser a la vez.
+- **¿Consistencia?** → Sistema sin contradicciones (antinomias).
+- **¿Completitud?** → Sistema con solución para todo caso (sin lagunas).
+- **¿Razonamiento derrotable?** → La conclusión puede caer ante una excepción nueva.
+- **¿Las normas son verdaderas o falsas?** → No: son válidas/inválidas (de ahí la lógica
+  deóntica).
+
+## 24. Mapas mentales
+
+```
+LÓGICA JURÍDICA
+├── CONCEPTOS BASE
+│   ├── Validez (forma) ≠ Verdad (contenido) → Solidez (ambas)
+│   ├── Proposición (V/F) vs. Norma (válida/inválida)
+│   └── Principios: identidad · no contradicción · tercero excluido
+├── INFERENCIAS
+│   ├── Válidas: modus ponens · modus tollens
+│   ├── Inválidas: afirmación del consecuente · negación del antecedente
+│   ├── Deductiva (necesaria) · inductiva (probable) · analógica · abductiva
+├── LÓGICA DEÓNTICA (del deber ser)
+│   └── Obligatorio · Prohibido · Permitido · Facultativo
+│       (privado: no prohibido = permitido / público: solo lo permitido)
+├── SISTEMA
+│   ├── Consistencia (sin antinomias) → criterios jerárquico/cronológico/especialidad
+│   └── Completitud (sin lagunas) → analogía + principios
+└── LÍMITES
+    ├── Dilema de Jørgensen (¿lógica de normas?)
+    └── Razonamiento DERROTABLE (regla cede ante excepción)
+```
+
+## 25. Cuadros comparativos
+
+**Verdad / validez / solidez**
+
+| | Verdad | Validez | Solidez |
+|---|---|---|---|
+| Se predica de | Premisas/conclusión | Inferencia (forma) | Argumento completo |
+| Pregunta | ¿Es cierto? | ¿Se sigue? | ¿Válido y verdadero? |
+
+**Inferencias condicionales (Si A → B)**
+
+| Forma | Estructura | ¿Válida? |
+|---|---|---|
+| Modus ponens | A; luego B | Sí |
+| Modus tollens | no B; luego no A | Sí |
+| Afirmación del consecuente | B; luego A | No (falacia) |
+| Negación del antecedente | no A; luego no B | No (falacia) |
+
+**Tipos de razonamiento**
+
+| Tipo | De → a | Conclusión | Uso jurídico |
+|---|---|---|---|
+| Deductivo | General → particular | Necesaria | Silogismo de aplicación |
+| Inductivo | Particular → general | Probable | Valoración de prueba |
+| Analógico | Particular → particular | Probable | Integración, precedente |
+| Abductivo | Indicios → hipótesis | Explicativa | Hechos por indicios |
+
+## 26. Mnemotecnias
+
+- **Verdad vs. validez:** *"verdad es el qué; validez es el cómo se conecta"*.
+- **Falacias condicionales:** *"afirmar B o negar A: trampa"* (afirmación del consecuente /
+  negación del antecedente).
+- **Inferencias válidas:** *"Ponens afirma, Tollens niega"* (modus ponens afirma A; modus
+  tollens niega B).
+- **Deóntica:** **"OPPF"** → **O**bligatorio, **P**rohibido, **P**ermitido, **F**acultativo.
+- **Sistema sano:** *"sin contradicciones (consistente) y sin huecos (completo)"*.
+
+## 27. Checklist del jurista (rigor lógico)
+
+- [ ] **¿La conclusión se sigue de las premisas?** (validez de la inferencia)
+- [ ] **¿Las premisas son verdaderas?** (para tener solidez, no solo validez)
+- [ ] **¿Hay falacias formales** (afirmación del consecuente, negación del antecedente)?
+- [ ] **Contrato/sistema: ¿consistente?** ¿hay cláusulas o normas contradictorias?
+- [ ] **¿Completo?** ¿hay lagunas/escenarios no previstos?
+- [ ] **¿Definiciones usadas de forma consistente** en todo el documento?
+- [ ] **¿Remisiones internas correctas?**
+- [ ] **¿Relación regla-excepción** (derrotabilidad) clara (reps vs. disclosure)?
+- [ ] **¿Operadores deónticos** bien empleados (obligatorio/prohibido/permitido)?
+
+## 28. Resumen ejecutivo
+
+La lógica jurídica aporta el **rigor formal** del razonamiento: garantiza que las conclusiones se
+**sigan válidamente** de las premisas y que las normas y cláusulas no se **contradigan**. Su
+distinción fundamental es entre **verdad** (contenido de las premisas), **validez** (forma de la
+inferencia) y **solidez** (validez + premisas verdaderas): para prevalecer, el jurista necesita
+solidez, no solo persuasión. El silogismo jurídico es una aplicación del **modus ponens**; las
+falacias formales más frecuentes —**afirmación del consecuente** y **negación del
+antecedente**— deben detectarse y desmontarse. Como las normas no son verdaderas ni falsas sino
+**válidas o inválidas**, su tratamiento exige la **lógica deóntica** (obligatorio, prohibido,
+permitido), que fundamenta el contraste entre la autonomía privada ("lo no prohibido está
+permitido") y la legalidad pública ("solo lo permitido"). Un buen sistema —y un buen contrato—
+debe ser **consistente** (sin antinomias) y **completo** (sin lagunas), y el razonamiento
+jurídico real es **derrotable** (la regla general cede ante la excepción).
+
+Para el abogado corporativo, la lógica es la base de la **auditoría de consistencia** de
+contratos y paquetes de documentos (definiciones, condiciones, remisiones, prelación), de la
+**validez interna** de las legal opinions y de la **detección de falacias** del contrario. No
+decide el contenido del derecho —eso es argumentación y valoración—, pero es su **condición
+necesaria**: un argumento ilógico o un contrato inconsistente son bombas de tiempo litigiosas.
+La lógica da la forma; la argumentación, el contenido; juntas, producen el razonamiento jurídico
+de excelencia.
+
+## 29. Bibliografía
+
+**Doctrina (prioritaria en español):**
+- García Máynez, Eduardo, *Introducción a la lógica jurídica* y *Lógica del juicio jurídico*.
+- Alchourrón, Carlos y Bulygin, Eugenio, *Introducción a la metodología de las ciencias
+  jurídicas y sociales* (*Normative Systems*).
+- Klug, Ulrich, *Lógica jurídica*.
+- Kalinowski, Georges, *Introducción a la lógica jurídica*.
+
+**Lógica general y deóntica:**
+- Von Wright, Georg Henrik, *Deontic Logic* y *Norma y acción*.
+- Copi, Irving, *Introducción a la lógica*.
+
+**Relación con la argumentación:**
+- Atienza, Manuel, *El derecho como argumentación* (capítulos sobre lógica).
+
+**Legislación:**
+- Constitución, art. 16 (coherencia lógica de la fundamentación y motivación).
+
+## 30. Ruta para continuar
+
+Tienes el rigor (lógica) y la persuasión (argumentación). Falta el **método** para investigar,
+sistematizar y exponer el derecho con orden profesional.
+
+- **Siguiente libro:** *Metodología Jurídica* (Nivel I, Libro 13): técnicas de investigación,
+  uso de fuentes, sistematización, redacción de trabajos y dictámenes, y método del caso. Cierra
+  el Nivel I (Fundamentos).
+- **Conexión inmediata:** la lógica y la argumentación se **aplican** mediante un método
+  ordenado de trabajo jurídico.
+- **Conexión de largo alcance:** vuelve a las secciones 15 y 17 cuando audites contratos
+  complejos y paquetes de documentos en M&A (Nivel IV): la consistencia lógica es tu primera
+  línea de defensa.
+
+> *"La lógica es la higiene del pensamiento."* Mantén tu razonamiento limpio de contradicciones
+> y falacias: un solo defecto lógico en un contrato o en una opinión puede costarle a tu cliente
+> más que cualquier error de fondo.
