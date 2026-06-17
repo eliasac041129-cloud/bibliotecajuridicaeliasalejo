@@ -529,3 +529,165 @@ interpretativos (literal, sistemático con las definiciones del contrato, teleol
 propósito de las *reps*, y la regla *contra proferentem*). Discuta si la *knowledge qualifier*
 ("a leal saber y entender del vendedor") cambia el resultado y cómo la jerarquía
 contrato/Disclosure Schedule resuelve la duda.
+
+
+---
+
+## 23. Flashcards
+
+- **¿Nota esencial de la norma jurídica según García Máynez?** → La **bilateralidad**
+  (imperativo-atributiva).
+- **¿Diferencia validez/eficacia?** → Validez = creación regular y pertenencia al sistema;
+  eficacia = cumplimiento real.
+- **¿Tres criterios de antinomias?** → Jerárquico, cronológico, especialidad.
+- **¿Cómo se integran las lagunas en México?** → Analogía y principios generales del derecho
+  (arts. 14 const. y 19 CCF).
+- **¿Cuatro métodos clásicos de interpretación (Savigny)?** → Gramatical, sistemático,
+  histórico, teleológico.
+- **¿Qué es la Grundnorm?** → Norma fundamental hipotética que da validez al sistema
+  (Kelsen).
+- **¿Regla de reconocimiento?** → Práctica social que identifica qué normas son derecho
+  (Hart).
+- **¿Reglas vs. principios (Dworkin/Alexy)?** → Reglas: todo o nada; principios: mandatos de
+  optimización que se ponderan.
+- **¿Fuente formal dominante en México?** → La legislación.
+- **¿Dónde es relevante la costumbre en México?** → En materia mercantil (usos del comercio).
+- **¿Qué dice el art. 18 CCF?** → El juez no puede dejar de resolver por silencio u oscuridad
+  de la ley.
+- **¿Iusnaturalismo en una frase?** → *Lex iniusta non est lex*: la ley injusta no es
+  verdadero derecho.
+
+## 24. Mapas mentales
+
+```
+TEORÍA DEL DERECHO (IED)
+├── CONCEPTO DE DERECHO
+│   ├── Órdenes normativos: moral · religión · usos · DERECHO
+│   └── Notas: bilateralidad · exterioridad · coercibilidad · heteronomía
+├── NORMA JURÍDICA
+│   ├── Estructura: supuesto de hecho → consecuencia (imputación)
+│   └── Sanción y coercibilidad
+├── FUENTES
+│   ├── Formales: legislación · costumbre · jurisprudencia · (doctrina) · principios
+│   ├── Reales (factores sociales)
+│   └── Históricas
+├── PLANOS DE LA NORMA
+│   └── Validez · Vigencia · Eficacia · Justicia
+├── ORDENAMIENTO (sistema)
+│   ├── Jerarquía: pirámide de Kelsen / art. 133
+│   ├── Antinomias: jerárquico · cronológico · especialidad
+│   └── Lagunas: analogía · principios generales
+├── INTERPRETACIÓN
+│   └── Gramatical · sistemático · histórico · teleológico · conforme · pro persona
+└── CONCEPCIONES
+    └── Iusnaturalismo · Positivismo (Kelsen, Hart) · Realismo · Principialismo (Dworkin, Alexy)
+```
+
+## 25. Cuadros comparativos
+
+**Validez / Vigencia / Eficacia / Justicia**
+
+| Plano | Pregunta | Tipo de juicio |
+|---|---|---|
+| Validez | ¿Se creó conforme al sistema? | Interno, formal |
+| Vigencia | ¿Está en vigor? | Temporal |
+| Eficacia | ¿Se cumple de hecho? | Sociológico |
+| Justicia | ¿Es conforme a valores? | Axiológico/externo |
+
+**Civil law vs. Common law**
+
+| Criterio | Civil law (México) | Common law (EE. UU./Inglaterra) |
+|---|---|---|
+| Fuente principal | Ley codificada | Precedente (*stare decisis*) |
+| Rol del juez | Aplica e interpreta la ley | Crea derecho vía precedente |
+| Interpretación contractual | Intención de las partes | Más literal (*parol evidence rule*) |
+| Razonamiento | Deductivo (de la norma al caso) | Inductivo/analógico (de caso a caso) |
+
+**Reglas vs. Principios**
+
+| | Reglas | Principios |
+|---|---|---|
+| Aplicación | Todo o nada | Gradual, se ponderan |
+| Conflicto | Una excluye a la otra | Se sopesan según el caso |
+| Ejemplo | "El plazo es de 30 días" | "Buena fe", "interés superior del menor" |
+
+## 26. Mnemotecnias
+
+- **Notas de la norma jurídica:** **"BECH"** → **B**ilateralidad, **E**xterioridad,
+  **C**oercibilidad, **H**eteronomía.
+- **Criterios de antinomias:** **"JCE"** → **J**erárquico, **C**ronológico, **E**specialidad.
+- **Métodos de interpretación (Savigny):** **"GSHT"** → **G**ramatical, **S**istemático,
+  **H**istórico, **T**eleológico.
+- **Planos de la norma:** **"VVEJ"** → **V**alidez, **V**igencia, **E**ficacia, **J**usticia.
+- **Integración de lagunas:** *"Analogía primero, Principios después"*.
+
+## 27. Checklist del jurista (análisis normativo)
+
+- [ ] ¿Qué **fuente** rige el problema (ley, contrato, estatuto, uso, jurisprudencia)?
+- [ ] ¿La norma es **válida y vigente**? ¿Hay problema de retroactividad?
+- [ ] ¿Es **imperativa** (orden público) o **dispositiva** (puede pactarse en contra)?
+- [ ] ¿Dónde se ubica en la **jerarquía**? ¿Choca con una superior (inconstitucionalidad)?
+- [ ] ¿Hay **antinomia**? Resuélvela: jerárquico → especialidad → cronológico.
+- [ ] ¿Hay **laguna**? Intégrala: analogía → principios generales.
+- [ ] ¿Qué **método interpretativo** favorece mi posición y cuál la contraria?
+- [ ] ¿Cabe **interpretación conforme** a la Constitución / *pro persona*?
+- [ ] ¿La solución es coherente con la **buena fe** y los principios del sistema?
+
+## 28. Resumen ejecutivo
+
+La Introducción al Estudio del Derecho entrega el **marco mental** que organiza todo el
+oficio jurídico. Enseña que el Derecho no es la suma de los artículos, sino un **sistema
+normativo**: un conjunto de normas (bilaterales, coercibles, heterónomas) producidas por
+**fuentes** jerarquizadas, que debe distinguirse en cuatro planos —**validez, vigencia,
+eficacia y justicia**— y que se opera mediante **interpretación** (gramatical, sistemática,
+histórica, teleológica), resolución de **antinomias** (jerárquico, cronológico, especialidad)
+e **integración** de lagunas (analogía y principios generales).
+
+Las grandes concepciones —iusnaturalismo, positivismo (Kelsen, Hart), realismo y
+principialismo (Dworkin, Alexy)— ofrecen distintas respuestas a la relación entre derecho,
+poder y justicia; el constitucionalismo mexicano contemporáneo, tras la reforma de derechos
+humanos de 2011, integra principios y valores al vértice del sistema. Para el abogado de
+negocios, esta materia es herramienta diaria: jerarquizar fuentes, interpretar contratos y
+estatutos, integrar lagunas, elegir ley aplicable y respetar las normas imperativas que
+limitan la autonomía de la voluntad. Aquí se aprende a **pensar el sistema**, no solo a leer
+sus piezas.
+
+## 29. Bibliografía
+
+**Doctrina mexicana (prioritaria):**
+- García Máynez, Eduardo, *Introducción al Estudio del Derecho*, Porrúa. (El clásico.)
+- Villoro Toranzo, Miguel, *Introducción al Estudio del Derecho*, Porrúa.
+- Pereznieto Castro, Leonel, *Introducción al Estudio del Derecho*, Oxford.
+- Recaséns Siches, Luis, *Tratado General de Filosofía del Derecho*, Porrúa.
+- Tamayo y Salmorán, Rolando, *Elementos para una Teoría General del Derecho*.
+
+**Teoría general y filosofía del derecho:**
+- Kelsen, Hans, *Teoría Pura del Derecho*.
+- Hart, H. L. A., *El Concepto de Derecho*.
+- Dworkin, Ronald, *Los Derechos en Serio*; *El Imperio de la Justicia*.
+- Bobbio, Norberto, *Teoría General del Derecho*.
+- Alexy, Robert, *Teoría de los Derechos Fundamentales*.
+- Nino, Carlos Santiago, *Introducción al Análisis del Derecho*.
+
+**Legislación clave:**
+- Constitución Política de los Estados Unidos Mexicanos (arts. 1º, 14, 16, 133).
+- Código Civil Federal (arts. 18–21; 1851–1859).
+- Ley de Amparo (formación de jurisprudencia y precedente).
+
+## 30. Ruta para continuar
+
+Ya sabes *qué es* el derecho y *cómo* opera como sistema. Falta entender *quién lo produce y
+lo garantiza*: el Estado.
+
+- **Siguiente libro:** *Teoría del Estado* (Nivel I, Libro 3): soberanía, poder, formas de
+  Estado y de gobierno, división de poderes, el Estado como fuente y garante del orden
+  jurídico.
+- **Conexión inmediata:** la jerarquía de fuentes y la pirámide normativa que viste aquí se
+  apoyan en la organización del poder estatal que estudiarás allá.
+- **Conexión de largo alcance:** la teoría de las fuentes y de la interpretación será tu
+  herramienta constante al leer la LGSM, la LMV y, sobre todo, al interpretar contratos de
+  M&A. Vuelve a las secciones 15 y 17 cuando llegues al Nivel IV.
+
+> *"El derecho no se agota en la ley."* Llévate esa frase: es la diferencia entre el técnico
+> que busca el artículo y el jurista que comprende el sistema y, por eso, puede moverse con
+> criterio donde el artículo calla.
