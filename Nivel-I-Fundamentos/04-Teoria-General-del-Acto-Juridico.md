@@ -292,3 +292,176 @@ decisión resuelve el 90% de los problemas de ineficacia.
 > reclame daños). No es inexistente ni nulo de pleno derecho. Entender esta diferencia es
 > entender por qué en M&A las *reps* falsas no "destruyen" el contrato automáticamente, sino
 > que **activan remedios** (indemnización y, en casos graves, rescisión).
+
+
+---
+
+## 6. Comparación doctrinal
+
+**Teoría de la voluntad vs. teoría de la declaración.** ¿Qué prevalece cuando lo que el
+sujeto *quiso* difiere de lo que *declaró*? La doctrina alemana clásica (teoría de la
+voluntad, *Willenstheorie*: Savigny) prioriza la voluntad interna real. La teoría de la
+declaración (*Erklärungstheorie*) prioriza lo manifestado, para proteger la confianza del
+destinatario y la seguridad del tráfico. Los sistemas modernos (y el mexicano) adoptan
+posiciones **intermedias**: parten de la voluntad real (art. 1851 CCF), pero protegen la
+buena fe y la apariencia frente a terceros. *Por qué importa:* en un contrato corporativo,
+la tensión entre "lo que quisimos negociar" y "lo que dice el texto" es el origen de casi
+todo litigio interpretativo; por eso se usan cláusulas de *entire agreement*.
+
+**Causalismo vs. anticausalismo.** La doctrina francesa clásica (causalista) exige una
+**causa** como elemento del acto; los anticausalistas (Planiol) sostienen que la causa se
+confunde con el objeto o el consentimiento y es superflua. La doctrina mexicana, siguiendo
+a Bonnecase, suele incorporar el "motivo o fin determinante" como elemento relevante para la
+licitud (arts. 1795-III, 1830-1831 CCF). El debate sigue vivo: el reformado Code Civil
+francés (2016) **suprimió** la causa como tal, sustituyéndola por requisitos de contenido y
+fin lícitos. *Lección:* la "causa" es una de las nociones más debatidas del derecho privado.
+
+**Inexistencia vs. nulidad: ¿categorías separadas o una sola?** La doctrina francesa creó la
+inexistencia para casos donde "no había nada que anular" (matrimonio entre personas del
+mismo sexo bajo el código decimonónico, falta de objeto). Parte de la doctrina alemana y
+algunos autores mexicanos critican la inexistencia como categoría superflua (bastaría la
+nulidad absoluta). El CCF mexicano la **mantiene** expresamente (art. 2224), por lo que en
+México es derecho positivo, no mera teoría. *Debate práctico:* distinguir inexistencia de
+nulidad absoluta tiene consecuencias (la inexistencia no produce *ningún* efecto, ni
+provisional).
+
+**Concepción de los vicios: subjetiva vs. objetiva de la lesión.** La lesión se concibe en
+unos sistemas de modo **objetivo** (basta la desproporción matemática de prestaciones) y en
+otros —como México (art. 17 CCF)— de modo **subjetivo-objetivo** (desproporción **más**
+explotación de la ignorancia, inexperiencia o miseria). Esto eleva el estándar para anular
+por lesión y protege la seguridad de los negocios entre partes sofisticadas.
+
+## 7. Autores más importantes
+
+**Tradición alemana (negocio jurídico):**
+- **Savigny** y **Windscheid:** construcción del *Rechtsgeschäft* y de la teoría de la
+  voluntad.
+- **Andreas von Tuhr:** sistematización del negocio jurídico.
+
+**Tradición francesa/latina (acto jurídico):**
+- **Julien Bonnecase:** gran influencia en la teoría mexicana del acto jurídico y de las
+  ineficacias.
+- **Marcel Planiol y Georges Ripert; los hermanos Mazeaud:** tratadistas franceses de
+  referencia.
+
+**Doctrina mexicana (imprescindible para el estudiante):**
+- **Manuel Borja Soriano**, *Teoría General de las Obligaciones*: clásico mexicano que trata
+  a fondo el acto jurídico y sus ineficacias.
+- **Rafael Rojina Villegas**, *Derecho Civil Mexicano* (especialmente los tomos de
+  obligaciones) y *Compendio de Derecho Civil*: la exposición más usada en las facultades.
+- **Ernesto Gutiérrez y González**, *Derecho de las Obligaciones*: enérgico, crítico y
+  profundo en materia de nulidades.
+- **Jorge Alfredo Domínguez Martínez**, *Derecho Civil. Teoría general del acto jurídico*.
+- **Ramón Sánchez Medal** (en materia contractual).
+
+## 8. Derecho comparado
+
+- **Alemania (BGB):** el *negocio jurídico* es categoría central de la Parte General;
+  régimen detallado de declaraciones de voluntad, vicios (*Willensmängel*) e impugnación
+  (*Anfechtung*). Principio de **abstracción** (el negocio dispositivo se separa del
+  obligacional).
+- **Francia (Code Civil reformado 2016):** se reorganizó el derecho de contratos; se
+  **eliminó la causa** como elemento, exigiendo contenido lícito y cierto y consentimiento
+  no viciado; se codificaron la buena fe precontractual y la *violence économique* (abuso de
+  dependencia).
+- **Common law:** no usa la categoría "acto jurídico". Trabaja con *offer and acceptance*,
+  *consideration*, *capacity*, *legality*, y con *vitiating factors* (*misrepresentation*,
+  *mistake*, *duress*, *undue influence*, *unconscionability*). El paralelo funcional es
+  claro: la *misrepresentation* ≈ dolo/error; *duress* ≈ violencia; *unconscionability* ≈
+  lesión.
+- **Lección para el corporativo internacional:** al negociar un contrato cross-border debes
+  "traducir" categorías: una *fraudulent misrepresentation* del derecho inglés tiene como
+  pariente civil el dolo del art. 1815 CCF, pero los **remedios** y la **carga de la prueba**
+  difieren.
+
+## 9. Relación con México
+
+El régimen está en el **Código Civil Federal** (y, casi idéntico, en los códigos
+estatales). Mapa de artículos esenciales:
+
+- **Autonomía y límites:** arts. 6 (renuncia de derechos privados y orden público), 8
+  (actos contra leyes prohibitivas o de interés público son nulos), 1796 (obligatoriedad y
+  buena fe).
+- **Elementos y requisitos:** art. **1794** (elementos de existencia: consentimiento y
+  objeto), art. **1795** (requisitos de validez: capacidad, ausencia de vicios, objeto/
+  motivo/fin lícitos, forma).
+- **Vicios del consentimiento:** arts. **1812–1823** (error, dolo, mala fe, violencia);
+  **lesión**: art. **17**.
+- **Licitud:** arts. **1827, 1830, 1831** (objeto, hecho ilícito, fin contrario a leyes de
+  orden público o buenas costumbres).
+- **Ineficacias:** art. **2224** (inexistencia), **2225–2226** (nulidad absoluta),
+  **2227–2230** (nulidad relativa y sus efectos), **2231** (falta de forma), **2239–2242**
+  (efectos de la nulidad: restituciones).
+- **Interpretación:** arts. **1851–1859**.
+- **Modalidades:** condición y término en sede de obligaciones (arts. 1938 y ss.).
+
+> **Advertencia federalista (recuerda el Libro 3):** la materia civil es **local**. Cada
+> estado tiene su Código Civil. El CCF rige en materia federal y como modelo, pero al
+> asesorar debes verificar el código de la entidad aplicable. Los artículos suelen coincidir
+> en numeración y contenido con el CCF, pero **siempre confírmalo**.
+
+## 10. Relación con otras materias
+
+- **Derecho Romano (Libro 1):** aporta *voluntas*, *dolus*, *error*, *causa*, la
+  *stipulatio* y los actos típicos.
+- **IED (Libro 2):** el acto jurídico es una norma individualizada; su validez se analiza con
+  la teoría de validez/eficacia.
+- **Personas (Libro 5):** la **capacidad** (requisito de validez) y la representación se
+  desarrollan allí.
+- **Obligaciones (Libro 7):** el acto jurídico es la principal **fuente** de obligaciones;
+  este libro es su antesala directa.
+- **Contratos (Libro 8):** el contrato es el acto jurídico bilateral por excelencia; aquí
+  está su teoría base.
+- **Sociedades / LGSM (Nivel III):** la constitución de una sociedad y los acuerdos de
+  asamblea son actos jurídicos; sus nulidades se rigen, supletoriamente, por esta teoría.
+- **Títulos de crédito / LGTOC (Nivel III):** la suscripción de un título es un acto
+  jurídico (unilateral) con reglas especiales (abstracción, literalidad).
+- **M&A (Nivel IV):** el SPA, sus *reps & warranties*, condiciones y la representación de las
+  partes son pura teoría del acto jurídico aplicada.
+
+## 11. Aplicación profesional
+
+1. **Diagnóstico de validez de un contrato o acuerdo corporativo:** aplicar el árbol
+   existencia → licitud → validez para detectar riesgos de nulidad antes de firmar.
+2. **Verificación de capacidad y facultades:** confirmar que quien firma tiene capacidad y
+   **poder suficiente** (representación); revisar poderes notariales, actas y estatutos. El
+   error más caro y frecuente en la práctica.
+3. **Detección y documentación de vicios:** ante señales de dolo/error, decidir entre
+   confirmar (y reclamar daños) o anular; preservar pruebas.
+4. **Redacción de condiciones y plazos:** estructurar *conditions precedent*, plazos de
+   exigibilidad y cargas con técnica de modalidades del acto.
+5. **Saneamiento:** subsanar defectos de forma (otorgar escritura, ratificar ante notario),
+   confirmar actos anulables, convertir actos nulos.
+
+## 12. Errores comunes
+
+- **Confundir inexistencia con nulidad.** No es lo mismo "no hay contrato" que "hay contrato
+  anulable". Las consecuencias y la legitimación cambian radicalmente.
+- **Confundir nulidad absoluta con relativa.** La relativa se **convalida** (confirmación,
+  prescripción) y solo la invoca el afectado; la absoluta, no. Equivocarse aquí arruina una
+  estrategia procesal.
+- **Ignorar el problema de la representación.** Firmar con quien carece de poder suficiente
+  produce un acto ineficaz frente al "representado". Verificar facultades es ineludible.
+- **Creer que todo engaño anula.** Solo el **dolo determinante** (motivo decisivo) vicia; el
+  *dolus bonus* (exageración propia del comercio) no.
+- **Pactar contra normas imperativas** creyendo que "lo que las partes quieren, vale". El
+  orden público es muralla infranqueable.
+- **Olvidar la forma:** ciertos actos exigen escritura pública (inmuebles, ciertos poderes,
+  modificaciones societarias); omitirla acarrea nulidad relativa o inoponibilidad.
+
+## 13. Cómo lo preguntaría un profesor
+
+- *"Distinga hecho jurídico de acto jurídico y dé un ejemplo de cada uno."*
+- *"Enumere los elementos de existencia y los requisitos de validez del acto jurídico,
+  fundamentando en los arts. 1794 y 1795 CCF."*
+- *"Explique las diferencias de régimen entre inexistencia, nulidad absoluta y nulidad
+  relativa. ¿Cuál se convalida y por qué?"*
+- *"¿Cuándo el error vicia el consentimiento? ¿Y el dolo?"*
+- *"¿Qué es la lesión en el art. 17 CCF y por qué su concepción es subjetiva-objetiva?"*
+- *"Una sociedad celebra un contrato a través de quien no tenía poder. ¿Qué tipo de
+  ineficacia hay y cómo se sanea?"*
+
+> El sinodal valora el **árbol de diagnóstico** (existencia → licitud → validez) y que
+> identifiques el **interés protegido** por cada tipo de ineficacia.
+
+---
