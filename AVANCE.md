@@ -12,7 +12,7 @@ integridad. Este archivo es el tablero de control.
 |---|---------|--------|
 | 1 | Derecho Romano | ✅ |
 | 2 | Introducción al Estudio del Derecho | ✅ |
-| 3 | Teoría del Estado | ⬜ |
+| 3 | Teoría del Estado | ✅ |
 | 4 | Teoría General del Acto Jurídico | ⬜ |
 | 5 | Personas | ⬜ |
 | 6 | Bienes y Derechos Reales | ⬜ |

@@ -596,3 +596,183 @@ rescate), su **límite** (el equilibrio económico del contrato y el derecho a
 indemnización), las vías de defensa (contencioso administrativo, amparo) y cómo se anticipa
 este riesgo en la negociación y la valuación. ¿Dónde termina la soberanía y empieza el
 derecho del contratista?
+
+
+---
+
+## 23. Flashcards
+
+- **¿Cuatro elementos del Estado?** → Población, territorio, poder (gobierno) y orden
+  jurídico.
+- **¿Definición de soberanía (Bodin)?** → Poder supremo, perpetuo e indivisible, sin
+  superior interno ni externo.
+- **¿Dónde reside la soberanía en México?** → En el pueblo (art. 39 constitucional).
+- **¿Poder constituyente vs. constituido?** → Constituyente crea/reforma la Constitución;
+  constituido actúa dentro de ella.
+- **¿Tres tipos de dominación legítima (Weber)?** → Tradicional, carismática,
+  racional-legal.
+- **¿Definición de Estado según Weber?** → Monopolio del uso legítimo de la fuerza física en
+  un territorio.
+- **¿Estado según Kelsen?** → El orden jurídico mismo, personificado.
+- **¿División de poderes y su autor?** → Legislativo, Ejecutivo, Judicial; Montesquieu (art.
+  49).
+- **¿Forma de Estado de México?** → República representativa, democrática, laica y federal
+  (art. 40).
+- **¿Forma de gobierno de México?** → Presidencial.
+- **¿Legalidad vs. legitimidad?** → Conformidad con la ley vs. justificación del poder.
+- **¿Contractualismo de Locke en una línea?** → Poder limitado y revocable para proteger
+  vida, libertad y propiedad.
+- **¿Qué órgano autoriza concentraciones en México?** → La COFECE (o el IFT en
+  telecom/radiodifusión).
+- **¿Artículo del Estado de Derecho económico básico?** → Arts. 14 y 16 (seguridad jurídica,
+  legalidad).
+
+## 24. Mapas mentales
+
+```
+TEORÍA DEL ESTADO
+├── NATURALEZA
+│   ├── Sociológica (Weber, Heller): monopolio de la fuerza
+│   ├── Jurídica (Kelsen): Estado = orden jurídico
+│   └── Teleológica (Aristóteles/Tomás): comunidad orientada al bien común
+├── ELEMENTOS
+│   ├── Población (nacionalidad, ciudadanía)
+│   ├── Territorio (art. 42)
+│   ├── Poder soberano (art. 39)
+│   └── Orden jurídico
+├── SOBERANÍA
+│   ├── Interna / Externa
+│   ├── Popular (art. 39) y limitada (DDHH + derecho internacional)
+│   └── Poder constituyente vs. constituido
+├── ORGANIZACIÓN
+│   ├── Formas de Estado: unitario / FEDERAL (art. 40)
+│   ├── Formas de gobierno: PRESIDENCIAL / parlamentario / semipresidencial
+│   ├── División de poderes (art. 49) + frenos y contrapesos
+│   └── Órganos constitucionales autónomos (Banxico, COFECE, INE, IFT...)
+├── LEGITIMIDAD
+│   └── Tradicional · Carismática · Racional-legal (Weber)
+└── ESTADO DE DERECHO
+    └── Legalidad · Seguridad jurídica · Igualdad · Control judicial (arts. 14, 16, 17)
+```
+
+**Mapa de conexión con la práctica corporativa:**
+`Soberanía regulatoria → autorizaciones (COFECE/CNBV/IFT) → condiciones del SPA`
+`Estado de Derecho → seguridad jurídica → riesgo país → valuación`
+`Límites del poder → amparo → defensa de la empresa frente a la autoridad`
+
+## 25. Cuadros comparativos
+
+**Contractualistas**
+
+| Autor | Estado de naturaleza | Resultado del pacto | Legado |
+|---|---|---|---|
+| Hobbes | Guerra de todos | Soberano absoluto | Estado fuerte/seguridad |
+| Locke | Derechos pero inseguro | Poder limitado y revocable | Constitucionalismo, propiedad |
+| Rousseau | Bondad corrompida | Voluntad general | Democracia, soberanía popular |
+
+**Forma de Estado vs. forma de gobierno**
+
+| | Pregunta que responde | Opciones | México |
+|---|---|---|---|
+| Forma de Estado | ¿Cómo se reparte el poder en el territorio? | Unitario / Federal | Federal |
+| Forma de gobierno | ¿Cómo se relacionan los poderes? | Presidencial / Parlamentario | Presidencial |
+
+**Estado mínimo vs. Estado social**
+
+| Criterio | Estado mínimo (liberal) | Estado social |
+|---|---|---|
+| Función | Seguridad, justicia, defensa | + Regulación y derechos prestacionales |
+| Mercado | No interfiere | Regula y corrige |
+| Riesgo para la empresa | Menor regulación | Mayor regulación, más certeza social |
+
+## 26. Mnemotecnias
+
+- **Elementos del Estado:** **"PoTePOd"** → **Po**blación, **Te**rritorio, **P**oder,
+  **O**rden jurídico.
+- **División de poderes:** **"LEJ"** → **L**egislativo, **E**jecutivo, **J**udicial.
+- **Dominación legítima (Weber):** **"TCR"** → **T**radicional, **C**arismática,
+  **R**acional-legal.
+- **México (art. 40):** *"República Representativa, Democrática, Laica y Federal"* →
+  **"RRDLF"**.
+- **Contractualistas:** *"Hobbes manda, Locke limita, Rousseau el pueblo"*.
+
+## 27. Checklist del jurista (análisis de poder estatal)
+
+- [ ] ¿Qué **autoridad** es competente (federal, estatal, municipal; qué órgano)?
+- [ ] ¿Cuál es la **ley** que la faculta y cuáles son sus **límites** (principio de
+  legalidad)?
+- [ ] ¿La materia está **reservada al Estado** o **restringida** a extranjeros?
+- [ ] ¿Qué **autorizaciones** estatales requiere la operación y en qué plazos?
+- [ ] ¿Qué **control** cabe si la decisión es adversa (amparo, contencioso, arbitraje de
+  inversión)?
+- [ ] ¿Hay **riesgo de cambio regulatorio**? ¿Cómo se asigna en el contrato?
+- [ ] ¿El **Estado de Derecho** del país afecta el riesgo y la valuación?
+- [ ] Si se contrata **con el Estado**, ¿qué prerrogativas exorbitantes e inmunidades
+  aplican?
+
+## 28. Resumen ejecutivo
+
+La Teoría del Estado explica la entidad que da sustento a todo el derecho: la organización
+política que, sobre una **población** y un **territorio**, ejerce un **poder soberano**
+mediante un **orden jurídico** en busca del bien común. El Estado puede mirarse como
+realidad social (Weber: monopolio de la fuerza legítima), como orden jurídico (Kelsen) o
+como comunidad orientada a un fin (tradición aristotélica). Su poder se justifica
+(legitimidad: tradicional, carismática, racional-legal) y, sobre todo, se **limita**:
+mediante la **división de poderes** (Montesquieu, art. 49), el **Estado de Derecho**
+(legalidad y seguridad jurídica, arts. 14 y 16) y los derechos fundamentales. La soberanía,
+antes absoluta (Bodin, Hobbes), hoy reside en el pueblo (art. 39) y está acotada por los
+derechos humanos y el derecho internacional.
+
+México es una república representativa, democrática, laica y **federal** (art. 40), de
+gobierno **presidencial**, con órganos constitucionales autónomos clave para los negocios
+(COFECE, CNBV/IFT, Banxico). Para el abogado corporativo, el Estado es a la vez el **garante**
+(hace cumplir contratos, protege la propiedad: condición de toda inversión) y el principal
+**riesgo regulatorio** (autoriza o bloquea concentraciones, regula sectores, puede expropiar).
+Dominar esta materia es aprender a leer el poder: con quién se negocia, qué puede y qué no
+puede la autoridad, y cómo se defiende la empresa frente a ella.
+
+## 29. Bibliografía
+
+**Clásicos del pensamiento político:**
+- Aristóteles, *Política*.
+- Maquiavelo, Nicolás, *El Príncipe*.
+- Hobbes, Thomas, *Leviatán*.
+- Locke, John, *Segundo Tratado sobre el Gobierno Civil*.
+- Montesquieu, *El Espíritu de las Leyes*.
+- Rousseau, Jean-Jacques, *El Contrato Social*.
+
+**Teoría del Estado (siglo XX):**
+- Weber, Max, *Economía y Sociedad*; *La política como vocación*.
+- Kelsen, Hans, *Teoría General del Estado*.
+- Heller, Hermann, *Teoría del Estado*.
+- Schmitt, Carl, *El concepto de lo político*; *Teología Política*.
+- Jellinek, Georg, *Teoría General del Estado*.
+
+**Doctrina mexicana:**
+- Tena Ramírez, Felipe, *Derecho Constitucional Mexicano*, Porrúa.
+- Burgoa Orihuela, Ignacio, *Derecho Constitucional Mexicano*, Porrúa.
+- Carpizo, Jorge, *La Constitución Mexicana de 1917*; *El presidencialismo mexicano*.
+- Valadés, Diego, *El control del poder*.
+
+**Legislación:**
+- Constitución Política de los Estados Unidos Mexicanos (arts. 39, 40, 41, 49, 42–48, 14,
+  16, 17, 25, 27, 28, 105, 133).
+
+## 30. Ruta para continuar
+
+Ya tienes la base: las piezas (Roma), el sistema (IED) y el poder que lo sostiene (Estado).
+Ahora descenderemos de lo general a lo concreto del derecho privado, empezando por su célula
+básica.
+
+- **Siguiente libro:** *Teoría General del Acto Jurídico* (Nivel I, Libro 4): qué es el
+  hecho y el acto jurídico, sus elementos (consentimiento, objeto, solemnidad), su validez,
+  vicios y nulidades. Es el átomo del que se componen contratos, sociedades y operaciones.
+- **Conexión inmediata:** la legalidad y los límites del poder que viste aquí marcan la
+  frontera de la autonomía de la voluntad que estudiarás en el acto jurídico (normas
+  imperativas vs. dispositivas).
+- **Conexión de largo alcance:** vuelve a las secciones 17 y 22 cuando llegues a M&A (Nivel
+  IV): el análisis regulatorio de una operación es teoría del Estado aplicada.
+
+> *"El poder detiene al poder"* (Montesquieu). Internaliza esta idea: todo el derecho
+> público que protege a tu cliente frente al Estado nace de ella, y todo el riesgo
+> regulatorio que debes anticipar nace del Estado que no se detiene a tiempo.
