@@ -434,3 +434,187 @@ Régimen en el **Código Civil Federal**:
 > **vicisitudes** del contrato.
 
 ---
+
+
+## 14. Cómo aparece en un juicio
+
+- **Acción de cumplimiento o de resolución (art. 1949):** el actor elige exigir el
+  cumplimiento o resolver, con daños. La calificación de la acción es decisiva.
+- **Acción de nulidad** (vicio de origen) vs. **resolución** (incumplimiento): no confundir;
+  determinan legitimación, prescripción y restituciones.
+- **La interpretación como objeto del litigio:** gran parte de los pleitos contractuales
+  discuten **qué significa** una cláusula; el juez aplica los arts. 1851-1859. El abogado
+  construye su caso sobre estas reglas.
+- **Excepciones contractuales:** *exceptio non adimpleti contractus* (no cumplo porque tú no
+  cumpliste), pago, prescripción, nulidad, falta de personalidad.
+- **Contratos como prueba y como título:** ciertos contratos (con firma ratificada, mercantiles
+  con requisitos) son **títulos ejecutivos** que permiten la vía ejecutiva, más rápida.
+- **Cláusula de arbitraje:** si se pactó, la disputa va a **arbitraje**, no a tribunales
+  estatales (el juez se declara incompetente ante la excepción de arbitraje).
+
+## 15. Cómo aparece en un contrato
+
+Esta sección es **meta**: el contrato es el objeto mismo. La **anatomía estándar** de un
+contrato corporativo bien redactado (que verás amplificada en el SPA del Nivel IV):
+
+1. **Proemio y comparecencia:** identificación de las partes y de sus representantes
+   (Personas, Libro 5).
+2. **Declaraciones (*representations & warranties*):** afirmaciones de hechos (capacidad,
+   facultades, situación del objeto). Su falsedad → incumplimiento/indemnización (Obligaciones,
+   Libro 7).
+3. **Definiciones:** glosario que fija el significado de los términos clave (control de la
+   interpretación).
+4. **Objeto y obligaciones (*covenants*):** las prestaciones de dar/hacer/no hacer.
+5. **Condiciones (*conditions*):** suspensivas (para que nazca/ejecute) y resolutorias
+   (modalidades, Libro 4).
+6. **Precio y forma de pago** (incluidos ajustes, *earn-outs*, *escrow*).
+7. **Garantías** (reales y personales; Libro 6) e **indemnización** (Libro 7).
+8. **Vigencia y terminación:** plazo, causas de terminación, efectos.
+9. **Boilerplate:** ley aplicable, jurisdicción/arbitraje, notificaciones, cesión,
+   confidencialidad, *entire agreement*, divisibilidad, modificaciones por escrito.
+
+> Cada bloque es la aplicación de un libro de la biblioteca. Redactar bien un contrato es
+> **orquestar** persona, objeto, obligación, garantía e interpretación.
+
+## 16. Cómo aparece en una empresa
+
+- **La empresa es una "red de contratos" (*nexus of contracts*):** con socios (estatutos,
+  convenios), administradores, empleados, proveedores, clientes, financiadores. La teoría
+  económica de la empresa (Coase, Jensen-Meckling) la concibe así.
+- **Gestión contractual (*contract management*):** las grandes empresas administran miles de
+  contratos; vigilar vencimientos, renovaciones, cláusulas de *change of control* y
+  obligaciones es función jurídica crítica.
+- **Contratos de adhesión y condiciones generales:** las empresas que contratan en masa
+  (banca, telecom, retail) operan con contratos de adhesión sujetos a control de cláusulas
+  abusivas (LFPC) y a la PROFECO.
+- **Estatutos y convenios entre accionistas** son contratos que rigen la vida societaria
+  (gobierno corporativo, Niveles III-IV).
+
+## 17. Cómo aparece en una operación de M&A
+
+El SPA y toda la documentación de M&A son **contratos**: este libro es su gramática. Conexiones
+precisas:
+
+- **Carta de intención / Term Sheet (Libro: contrato preparatorio):** documenta el acuerdo
+  preliminar. Lo crucial: **qué es vinculante y qué no** (usualmente, solo confidencialidad,
+  exclusividad y ley aplicable obligan; el resto es no vinculante). Es teoría de la formación y
+  de la buena fe precontractual aplicada.
+- **Estructura del SPA = anatomía contractual amplificada** (sección 15): declaraciones,
+  definiciones, covenants, conditions precedent, indemnización, terminación, boilerplate.
+- **Estándares de esfuerzo y materialidad (interpretación):** *best efforts* vs. *reasonable
+  efforts*; *material* y *material adverse effect*; *to the knowledge of*. Estos estándares
+  —que el contrato debe **definir**— deciden litigios; son interpretación contractual pura.
+- **Cláusulas de cesión y *change of control* (relatividad):** como el contrato solo obliga a
+  las partes, transmitir los contratos de la *target* exige consentimientos; las cláusulas de
+  *change of control* permiten a las contrapartes terminar si cambia el dueño: **riesgo de due
+  diligence**.
+- **Entire agreement y non-reliance:** importadas del common law, buscan que el **texto** sea la
+  única fuente y excluir responsabilidad por declaraciones extracontractuales (controla el
+  error/dolo, Libro 4).
+- **Ley aplicable y arbitraje:** elegir derecho mexicano/NY/inglés y foro arbitral define cómo
+  se interpretará y resolverá. Decisión estratégica de primer orden.
+- **Mutuo disenso y terminación:** las cláusulas de terminación (*drop dead date*, *break-up
+  fee*) regulan cómo y con qué costo se sale del *deal* antes del cierre.
+
+> **Cómo razona el socio:** "Un SPA es un **contrato** que reparte derechos, obligaciones,
+> condiciones y riesgos. Mi trabajo es que el **texto** diga **exactamente** lo que mi cliente
+> quiere, defina cada estándar (esfuerzo, materialidad, conocimiento), anticipe cada vicisitud
+> (qué pasa si no se cumple una condición, si cambia el control, si hay un MAC) y elija el
+> derecho y foro que mejor lo protejan. La teoría general del contrato es el mapa; el SPA, el
+> territorio."
+
+## 18. Cómo aparece en la práctica internacional
+
+- **Contrato anglosajón como estándar global:** extenso, autosuficiente, con definiciones,
+  *representations*, *covenants*, *conditions*, *indemnities* y *boilerplate*. El abogado
+  internacional debe **redactar y leer** en este formato y en inglés jurídico.
+- **Elección de ley y foro:** *governing law* (NY, inglés, mexicano) y *dispute resolution*
+  (litigio o **arbitraje** CCI/LCIA/ICDR). Determinan interpretación, remedios y ejecución.
+- **CISG y Principios UNIDROIT:** régimen neutral para contratos internacionales (formación,
+  cumplimiento, remedios); las partes pueden adoptarlos o excluirlos.
+- **Boilerplate con efectos reales:** cláusulas de *entire agreement*, *no oral
+  modification*, *severability*, *waiver*, *assignment*, *notices* tienen efectos jurídicos
+  distintos según la ley; no son relleno.
+- **Diferencias civil/common law en interpretación:** la *parol evidence rule* y la
+  interpretación literal anglosajona explican por qué el texto debe ser exhaustivo; bajo
+  derecho mexicano, la buena fe y la intención común dan más juego.
+
+---
+
+## 19. Casos
+
+**Caso 1. Contraoferta que impide el contrato.** A ofrece vender en 100; B "acepta" pero pide
+pagar a plazos. *Análisis:* la "aceptación" que modifica la oferta es **contraoferta**; no hay
+contrato hasta que A la acepte. Lección: en negociaciones, cuidar qué constituye aceptación
+lisa y llana vs. contraoferta (relevante en intercambios de *mark-ups*).
+
+**Caso 2. Cláusula ambigua interpretada contra el redactor.** Un contrato de adhesión bancario
+contiene una cláusula oscura sobre comisiones. *Análisis:* la duda se interpreta **contra
+proferentem** (contra el banco que redactó) y a favor del adherente; además, puede ser
+**abusiva** bajo la LFPC. Lección: la ambigüedad perjudica a quien redacta.
+
+**Caso 3. Ruptura de negociaciones de mala fe.** Una parte hace negociar meses a la otra,
+genera gastos y expectativa, y rompe abruptamente para contratar con un tercero con quien ya
+negociaba en secreto. *Análisis:* posible **responsabilidad precontractual** (*culpa in
+contrahendo*) por violar la buena fe, aunque no haya contrato. Lección: la carta de intención
+debe delimitar deberes y exclusividad.
+
+## 20. Preguntas abiertas
+
+1. ¿Debe el derecho mexicano codificar un deber general de negociar de buena fe, como el Code
+   francés de 2016?
+2. ¿Hasta dónde puede la autonomía de la voluntad excluir remedios legales (p. ej., renunciar a
+   resolver, limitar daños) entre empresas sofisticadas?
+3. ¿La interpretación literal anglosajona protege mejor la seguridad que la búsqueda de la
+   intención común del civil law, o sacrifica la justicia del caso?
+4. ¿Tiene sentido la teoría del contrato relacional para gobernar joint ventures y alianzas de
+   largo plazo, frente al modelo transaccional?
+5. ¿Cómo deben tratarse los **smart contracts** (contratos autoejecutables en blockchain) ante
+   la teoría general del contrato: son contratos, ejecución, o ambas cosas?
+
+## 21. Preguntas tipo examen (con respuesta modelo)
+
+**P1. Defina contrato y distíngalo del convenio.** *R.* El convenio (género) crea, transmite,
+modifica o extingue obligaciones (art. 1792); el contrato (especie) las **crea o transmite**
+(art. 1793). Todo contrato es convenio, no todo convenio es contrato.
+
+**P2. ¿Qué significa que el contrato sea "ley entre las partes"?** *R.* La **fuerza
+obligatoria** (*pacta sunt servanda*, art. 1796): lo legalmente pactado vincula a las partes y
+debe cumplirse de buena fe; el contrato obliga a lo pactado y a las consecuencias conformes a
+la buena fe, el uso y la ley.
+
+**P3. Enuncie las principales reglas de interpretación contractual.** *R.* Primacía de la
+**intención común** sobre la letra (1851); interpretación **sistemática** (1854); **efecto
+útil** (1853); **uso y costumbre** (1856); **contra proferentem** (a favor del adherente); y
+**buena fe**.
+
+**P4. Distinga resolución y nulidad.** *R.* La resolución (1949) deshace el contrato por
+**incumplimiento posterior** de una parte (con daños); la nulidad deriva de un **vicio de
+origen** (falta de validez). Distinta causa, efectos y legitimación.
+
+**P5. ¿Qué es un contrato de adhesión y cómo se controla?** *R.* Aquel cuyas cláusulas fija una
+parte y la otra solo se adhiere. Se controla con la interpretación **contra proferentem** y con
+la nulidad de **cláusulas abusivas** (LFPC, normas de protección al consumidor).
+
+## 22. Casos complejos (nivel "socio")
+
+**Caso A. Term Sheet "no vinculante" que genera obligaciones.** Comprador y vendedor firman un
+*term sheet* que dice ser "no vinculante", salvo las cláusulas de confidencialidad,
+exclusividad (*no-shop* por 90 días) y ley aplicable. Durante la exclusividad, el vendedor
+negocia y vende a un tercero. Analice: (i) qué partes del term sheet **sí** obligan y por qué;
+(ii) la violación del *no-shop* como **incumplimiento contractual** (no mera ruptura de tratos)
+y sus daños (incluido el *break-up fee* si se pactó); (iii) el papel de la **buena fe
+precontractual** respecto de las partes no vinculantes; (iv) cómo redactaría usted el term
+sheet para proteger al comprador. Distinga con precisión lo vinculante de lo no vinculante.
+
+**Caso B. Batalla de interpretación sobre "esfuerzos" y "materialidad" en un SPA.** El SPA
+obliga al vendedor a usar "esfuerzos comercialmente razonables" para obtener una autorización
+regulatoria, y permite al comprador no cerrar si ocurre un "efecto adverso significativo"
+(*MAE*). La autorización se retrasa y el negocio de la *target* sufre una caída que el vendedor
+califica de "temporal y de mercado". Analice, con las reglas de interpretación: (i) qué exige
+"esfuerzos comercialmente razonables" y cómo se prueba la diligencia (obligación de medios,
+Libro 7); (ii) si la caída constituye un **MAE** —interpretación de la definición pactada, sus
+exclusiones (cambios de mercado generales) y la carga de la prueba—; (iii) cómo la
+**definición** contractual y la regla de **interpretación sistemática y contra proferentem**
+inclinan el resultado; (iv) por qué la **redacción precisa** de estos estándares decide el
+desenlace. Construya el argumento de cada parte.
