@@ -10,7 +10,7 @@ integridad. Este archivo es el tablero de control.
 ## Nivel I · Fundamentos
 | # | Tratado | Estado |
 |---|---------|--------|
-| 1 | Derecho Romano | 🟡 |
+| 1 | Derecho Romano | ✅ |
 | 2 | Introducción al Estudio del Derecho | ⬜ |
 | 3 | Teoría del Estado | ⬜ |
 | 4 | Teoría General del Acto Jurídico | ⬜ |

@@ -728,3 +728,208 @@ y su prohibición. Proyecte el problema al derecho societario moderno: cláusula
 estatutos, *liquidation preferences* en venture capital y el límite del pacto que priva a
 un socio de toda utilidad (art. 17 LGSM). ¿Dónde está hoy la frontera entre libertad
 contractual y prohibición de pacto leonino?
+
+
+---
+
+## 23. Flashcards
+
+> Tápate la respuesta y recupera de memoria. Repasa a 1, 3, 7 y 21 días.
+
+- **¿Qué es el *ius honorarium*?** → El derecho creado por los magistrados (pretor) vía
+  edicto, para ayudar, suplir o corregir el *ius civile*.
+- **¿Definición de obligación?** → Vínculo jurídico que nos constriñe a pagar algo
+  (*dare/facere/praestare*).
+- **¿Diferencia propiedad/posesión?** → Propiedad = señorío jurídico; posesión = poder de
+  hecho protegido por interdictos.
+- **¿Cosas *mancipi*?** → Fundos itálicos, esclavos, animales de tiro y carga;
+  transmisibles por *mancipatio*.
+- **¿Qué transmite la propiedad de cosas *nec mancipi*?** → La *traditio* con justa causa.
+- **¿Qué es la *stipulatio*?** → Contrato verbal por pregunta y respuesta congruentes;
+  instrumento abstracto y versátil.
+- **¿Cuatro contratos consensuales?** → Compraventa, arrendamiento, sociedad, mandato.
+- **¿Qué es la *bona fides*?** → Lealtad debida en los negocios; eje de los *iudicia bonae
+  fidei*.
+- **¿Fuentes de las obligaciones (Justiniano)?** → Contrato, cuasicontrato, delito,
+  cuasidelito.
+- **¿Qué es la usucapión?** → Adquisición de la propiedad por posesión prolongada (*res,
+  titulus, fides, possessio, tempus*).
+- **¿*Nemo dat quod non habet*?** → Nadie transmite más derecho del que tiene.
+- **¿*Ex nudo pacto*...?** → ...*non oritur actio*: el pacto desnudo no genera acción en
+  Roma clásica.
+- **¿Qué obra contiene la jurisprudencia clásica?** → El Digesto (Pandectae) del *Corpus
+  Iuris Civilis*.
+- **¿Estándar de diligencia?** → El del *bonus pater familias*.
+- **¿*Pignus* vs. *hypotheca*?** → Prenda con desplazamiento de posesión vs. garantía sin
+  desplazarla.
+
+---
+
+## 24. Mapas mentales
+
+```
+DERECHO ROMANO PRIVADO
+├── PERSONAE (personas)
+│   ├── Status: libertatis · civitatis · familiae
+│   ├── Sui iuris / Alieni iuris
+│   └── Capacidad: jurídica vs. de obrar
+├── RES (cosas)
+│   ├── Clasificación: mancipi/nec mancipi · corporales/incorporales
+│   ├── Derechos reales
+│   │   ├── Dominium (propiedad)
+│   │   ├── Possessio (posesión)
+│   │   └── Iura in re aliena: servidumbres · usufructo · PRENDA · HIPOTECA
+│   └── Modos de adquirir: mancipatio · in iure cessio · traditio · usucapio
+├── OBLIGATIONES (obligaciones)
+│   ├── Definición: vinculum iuris
+│   ├── Objeto: dare / facere / praestare
+│   ├── Fuentes: contrato · cuasicontrato · delito · cuasidelito
+│   ├── Responsabilidad: dolo · culpa · casus · mora
+│   └── CONTRACTUS
+│       ├── Reales: mutuo · comodato · depósito · prenda
+│       ├── Verbales: stipulatio
+│       ├── Literales
+│       └── Consensuales: COMPRAVENTA · arrendamiento · SOCIEDAD · mandato
+└── ACTIONES (acciones)
+    ├── Reales vs. personales
+    ├── Civiles vs. honorarias
+    └── Mentalidad remedial: ubi ius ibi remedium
+```
+
+**Mapa de descendencia hacia M&A:**
+`emptio venditio → compraventa CCF → Share Purchase Agreement`
+`saneamiento (evicción/vicios) → Representations & Warranties + Indemnity`
+`condicio → conditions precedent` · `pignus/hypotheca → security package` ·
+`título y modo → signing y closing`.
+
+---
+
+## 25. Cuadros comparativos
+
+**Propiedad vs. Posesión**
+
+| Criterio | Propiedad (*dominium*) | Posesión (*possessio*) |
+|---|---|---|
+| Naturaleza | Derecho | Hecho con protección jurídica |
+| Protección | Acción reivindicatoria | Interdictos |
+| Frente a quién | *Erga omnes* | Contra perturbadores, aun el dueño |
+| Adquisición | Modos derivativos/originarios | Aprehensión + ánimo |
+
+**Contratos romanos por su perfeccionamiento**
+
+| Tipo | Cómo se perfecciona | Ejemplos | Acción/buena fe |
+|---|---|---|---|
+| Reales | Entrega de la cosa | Mutuo, comodato, depósito, prenda | Algunos *stricti iuris*, otros *bonae fidei* |
+| Verbales | Palabras solemnes | *Stipulatio* | *Stricti iuris* (abstracto) |
+| Literales | Escritura contable | *Nomina transcripticia* | *Stricti iuris* |
+| Consensuales | Solo consentimiento | Compraventa, arrendamiento, sociedad, mandato | *Bonae fidei* |
+
+**Título y modo vs. consensualismo**
+
+| Sistema | ¿El contrato transmite la propiedad? | Ejemplo |
+|---|---|---|
+| Romano clásico / Alemán (BGB) | No: hace falta el modo (entrega) | Compraventa + *traditio* |
+| Francés / Mexicano (bienes ciertos) | Sí: por el solo consentimiento | Art. 2014 CCF |
+
+---
+
+## 26. Mnemotecnias
+
+- **Tríptico de Gayo:** **"PRA"** → **P**ersonae, **R**es, **A**ctiones (personas, cosas,
+  acciones). El esqueleto de todo el sistema.
+- **Objeto de la obligación:** **"DFP"** → **D**are, **F**acere, **P**raestare.
+- **Fuentes de las obligaciones:** **"Co-Cua-De-Cuad"** → **Co**ntrato, **Cua**sicontrato,
+  **De**lito, **Cuad**ridelito (cuasidelito).
+- **Requisitos de la usucapión** (verso clásico): *"res habilis, titulus, fides, possessio,
+  tempus"* — recítalo como mantra.
+- **Contratos consensuales:** **"CASM"** → **C**ompraventa, **A**rrendamiento,
+  **S**ociedad, **M**andato.
+- **Jerarquía de la culpa:** *lata, levis, levissima* — "de lo grave a lo finísimo".
+- **Regla de oro de la transmisión:** *"nemo dat quod non habet"* — nadie da lo que no
+  tiene.
+
+---
+
+## 27. Checklist del jurista (uso operativo)
+
+Al analizar cualquier problema de derecho privado, recorre esta lista de raíz romana:
+
+- [ ] **¿Quién?** Identifica a los sujetos y su capacidad (*personae*).
+- [ ] **¿Qué?** Define la cosa o prestación objeto del derecho (*res* / objeto).
+- [ ] **¿Qué derecho?** ¿Real (frente a todos) o personal (frente a un obligado)?
+- [ ] **¿De dónde nace la obligación?** Contrato, cuasicontrato, delito, cuasidelito.
+- [ ] **¿Cómo se transmite la propiedad?** ¿Basta el consentimiento o hace falta entrega
+  (título y modo)?
+- [ ] **¿Hay buena fe?** Evalúa lealtad, dolo, culpa, mora.
+- [ ] **¿Hay garantía?** Evicción, vicios ocultos, prenda, hipoteca.
+- [ ] **¿Con qué acción/remedio se exige?** Define la *actio* o excepción aplicable.
+- [ ] **¿Qué defensa cabe?** Prescripción, *exceptio non adimpleti contractus*, etc.
+- [ ] **¿Cómo conecta con la operación corporativa concreta?** SPA, garantías, closing.
+
+---
+
+## 28. Resumen ejecutivo
+
+El Derecho Romano es la **infraestructura conceptual** del derecho privado de Occidente y,
+por tanto, del derecho corporativo mexicano. No se estudia por nostalgia, sino porque sus
+categorías —persona, cosa, obligación, contrato, acción— son las que usamos hoy, traducidas
+a los códigos. Roma inventó la **ciencia jurídica**: el método de resolver casos con
+conceptos precisos, razonando por analogía y distinción.
+
+Sus aportaciones nucleares para el futuro abogado de M&A: (1) la distinción **propiedad /
+posesión**; (2) la teoría de la **obligación** y sus fuentes; (3) el sistema de
+**contratos**, con la compraventa consensual y su régimen de **saneamiento** (origen de las
+*representations & warranties*); (4) la lógica de **título y modo** (que explica la
+separación signing/closing); (5) las **garantías reales** (prenda e hipoteca, origen del
+*security package*); y (6) la **buena fe** como principio rector. Todo esto desemboca, vía
+el *ius commune*, las Partidas y el Código Napoleón, en el Código Civil mexicano de 1928.
+
+Quien domina Roma no memoriza el derecho privado: lo **comprende desde su raíz**, y por eso
+puede criticarlo, negociarlo y diseñarlo. Ese es el primer paso hacia el criterio del socio.
+
+---
+
+## 29. Bibliografía
+
+**Fuentes romanas (en traducción):**
+- *Instituciones de Gayo* (ed. bilingüe).
+- *Cuerpo del Derecho Civil Romano* (Digesto, Instituciones, Código), trad. de referencia.
+
+**Manuales en español (prioritarios para el estudiante mexicano):**
+- Margadant S., Guillermo F., *El Derecho Privado Romano*, Esfinge. (Texto de cabecera en la
+  UNAM.)
+- Morineau Iduarte, Marta e Iglesias González, Román, *Derecho Romano*, Oxford University
+  Press México.
+- Ventura Silva, Sabino, *Derecho Romano*, Porrúa.
+- Iglesias, Juan, *Derecho Romano*, Ariel.
+- d'Ors, Álvaro, *Derecho Privado Romano*, EUNSA.
+- Petit, Eugène, *Tratado elemental de Derecho Romano* (clásico de uso difundido en México).
+
+**Doctrina histórica y científica:**
+- Savigny, F. C. von, *Sistema del Derecho Romano Actual*.
+- Jhering, R. von, *El espíritu del Derecho Romano* y *La lucha por el Derecho*.
+- Schulz, Fritz, *Principios del Derecho Romano* y *Historia de la ciencia jurídica
+  romana*.
+- Wieacker, Franz, *Historia del Derecho Privado de la Edad Moderna*.
+
+**Legislación mexicana para el contraste:**
+- Código Civil Federal (Libros Segundo —bienes— y Cuarto —obligaciones y contratos—).
+
+---
+
+## 30. Ruta para continuar
+
+Has colocado el **primer ladrillo**. El siguiente paso natural es entender qué es el
+derecho *como sistema* y cómo se interpreta y aplica hoy:
+
+- **Siguiente libro:** *[Introducción al Estudio del Derecho](./02-Introduccion-al-Estudio-del-Derecho.md)*
+  (Nivel I, Libro 2). Allí se formaliza qué es la norma, las fuentes, la interpretación y el
+  ordenamiento, usando ya el vocabulario romano que acabas de adquirir.
+- **Conexión inmediata:** cuando llegues a *Obligaciones* (Libro 7) y *Contratos* (Libro 8),
+  releerás las secciones 5.4 y 5.5 de este tratado: reconocerás cada figura.
+- **Conexión de largo alcance:** guarda en la memoria el paralelo *emptio venditio* → SPA.
+  En el Nivel IV (M&A) lo retomaremos línea por línea.
+
+> *"Non ex regula ius sumatur, sed ex iure quod est regula fiat"* (Paulo, D. 50.17.1): la
+> regla no crea el derecho; la regla se extrae del derecho que ya existe en los casos.
+> Empieza, pues, por entender los casos. Ese es el camino del jurista.
