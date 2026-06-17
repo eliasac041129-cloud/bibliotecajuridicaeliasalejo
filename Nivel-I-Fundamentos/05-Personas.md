@@ -435,3 +435,174 @@ mercantiles:
 - *"¿Cuándo una sociedad es mexicana y por qué importa para la inversión extranjera?"*
 
 ---
+
+
+## 14. Cómo aparece en un juicio
+
+- **Legitimación y capacidad procesal:** para demandar o ser demandado hay que ser persona y
+  tener capacidad; las personas morales comparecen por sus **representantes legítimos** (se
+  acredita con la escritura de poder y el acta constitutiva).
+- **Personalidad del compareciente:** la primera batalla de muchos juicios es la **excepción
+  de falta de personalidad**: cuestionar que quien comparece tiene facultades suficientes.
+  Un poder defectuoso puede tumbar una demanda.
+- **Levantamiento del velo en sede judicial:** el acreedor que no puede cobrar a la sociedad
+  intenta extender la responsabilidad a socios o sociedades hermanas probando fraude,
+  confusión patrimonial o simulación.
+- **Sucesión y muerte:** la muerte de la persona física extingue su personalidad y abre la
+  sucesión; la sociedad en liquidación conserva personalidad para los efectos de su
+  liquidación.
+
+## 15. Cómo aparece en un contrato
+
+- **Sección de "comparecencia" y "personalidad":** todo contrato formal abre identificando a
+  las partes (denominación, domicilio, nacionalidad) y a **quién comparece en su
+  representación**, citando la **escritura del poder** (número, notario, fecha) y declarando
+  que las facultades **no le han sido revocadas ni limitadas**.
+- **Declaraciones (*reps*) de existencia y facultades:** cada parte declara estar
+  **legalmente constituida**, vigente, y que su representante tiene **facultades
+  suficientes**. Es la traducción contractual de los atributos capacidad/representación.
+- **Cláusula de objeto social:** a veces se declara que la celebración del contrato está
+  **dentro del objeto social** y debidamente autorizada por los órganos competentes.
+- **Anexos:** copias de actas constitutivas, poderes y resoluciones del consejo/asamblea que
+  autorizan el acto.
+
+## 16. Cómo aparece en una empresa
+
+- **La empresa vive como persona moral:** nace al constituirse e inscribirse, opera por sus
+  órganos, tiene patrimonio y nacionalidad, y se extingue por disolución y liquidación.
+- **Estructura de gobierno (teoría del órgano):** asamblea (voluntad social), consejo o
+  administrador (gestión y representación), comisario/auditoría (vigilancia). Cada acto
+  relevante debe emanar del órgano competente.
+- **Libros y registros corporativos:** libro de actas, de registro de accionistas, de
+  variaciones de capital: la "biografía" de la persona moral, esencial en due diligence.
+- **Grupos de sociedades:** *holdings* y subsidiarias son personas morales distintas pero
+  vinculadas; la separación protege patrimonios, pero la "unidad económica" puede acarrear
+  responsabilidades cruzadas (laboral, competencia, fiscal).
+
+## 17. Cómo aparece en una operación de M&A
+
+La materia de Personas es el **primer capítulo de toda due diligence corporativa**:
+
+- **Verificación de la *target* como persona moral:** ¿está debidamente constituida e
+  inscrita?, ¿vigente?, ¿cuál es su capital y quiénes son sus accionistas (libro de
+  registro)?, ¿su objeto social cubre lo que hace?
+- **Cadena de facultades (*authority*):** ¿quién firma el SPA por cada parte y con qué
+  poder? Se exigen **resoluciones del consejo/asamblea** que autoricen la operación y poderes
+  suficientes. Sin esto, el SPA podría ser ineficaz (Libro 4).
+- **Reps de "organización y facultades":** las primeras *representations* del SPA son
+  precisamente *due organization, good standing, corporate power and authority, due
+  authorization*: certifican los atributos de la persona moral.
+- **Nacionalidad e inversión extranjera:** si el comprador es extranjero y el sector está
+  restringido (energía, transporte, etc.), la estructura debe respetar los límites y obtener
+  autorizaciones (CNIE) —condición de cierre.
+- **Riesgo de velo corporativo:** se evalúa si los pasivos de sociedades hermanas o de los
+  vendedores pueden "saltar" a la *target*; se cubre con *reps*, indemnidades y, a veces,
+  reestructuras previas al cierre.
+- **Reestructuras pre-cierre:** a menudo el vendedor reorganiza sus personas morales
+  (escisiones, fusiones, *carve-outs*) para separar el activo que se vende: pura ingeniería
+  de personas morales.
+
+> **Cómo razona el socio:** "Lo primero que confirmo en cualquier *deal* es que el vendedor
+> **es dueño** de lo que vende (que las acciones existen, están bien emitidas y le
+> pertenecen) y que **quien firma puede obligarlo**. Si esos dos cimientos fallan, el resto
+> del contrato es una casa sin terreno." Eso es la materia de Personas en su forma más
+> rentable.
+
+## 18. Cómo aparece en la práctica internacional
+
+- **Lex societatis:** la ley del lugar de constitución rige la existencia, capacidad y
+  organización de la sociedad. En operaciones cross-border se determina por reglas de derecho
+  internacional privado.
+- **Legal opinions:** abogados de cada jurisdicción emiten opiniones sobre *due
+  incorporation, valid existence, corporate power, due authorization* y *enforceability*: la
+  certificación profesional de los atributos de la persona moral.
+- **Estructuras de holding internacional:** se eligen jurisdicciones por su régimen
+  societario, fiscal, de protección de inversión (tratados) y de neutralidad; el abogado
+  diseña la "cadena de personas morales" óptima.
+- **Foreign investment screening:** muchos Estados revisan la nacionalidad última
+  (*ultimate beneficial owner*) de la persona moral adquirente por seguridad nacional.
+- **Beneficial ownership y transparencia:** estándares internacionales (GAFI/FATF) exigen
+  identificar a los **beneficiarios finales** detrás de la persona moral: clave en compliance
+  y anti-lavado.
+
+---
+
+## 19. Casos
+
+**Caso 1. Contrato firmado por apoderado con poder revocado.** Una sociedad alega no estar
+obligada porque el poder de quien firmó había sido revocado. *Análisis:* el acto es
+**ineficaz** frente a la sociedad, salvo que el tercero haya contratado de buena fe sin
+conocer la revocación (protección de la apariencia) o que la sociedad **ratifique**.
+Lección: registrar y notificar revocaciones; verificar vigencia de poderes.
+
+**Caso 2. Levantamiento del velo por confusión de patrimonios.** Un empresario opera tres
+sociedades que comparten cuentas, empleados y domicilio, trasvasando fondos a conveniencia;
+una de ellas queda insolvente frente a un acreedor. *Análisis:* el acreedor puede pedir el
+**levantamiento del velo** probando la confusión patrimonial y el abuso, para alcanzar a las
+otras sociedades o al socio. Lección: respetar la separación real (formalidades,
+contabilidad, capitalización) protege la responsabilidad limitada.
+
+**Caso 3. Sociedad extranjera en sector restringido.** Un inversionista extranjero adquiere
+indirectamente el control de una empresa en un sector con límites a la inversión extranjera.
+*Análisis:* la operación puede requerir autorización o estar limitada; estructurarla mal
+acarrea nulidad o sanciones. Lección: la nacionalidad de la persona moral y la cadena de
+control deciden la viabilidad.
+
+## 20. Preguntas abiertas
+
+1. ¿Es la persona moral una ficción útil o una realidad social con voluntad propia? ¿Cambia
+   la respuesta según el problema (capacidad, responsabilidad penal, interés social)?
+2. ¿Hasta dónde debe llegar el levantamiento del velo sin destruir la seguridad que ofrece la
+   responsabilidad limitada?
+3. ¿Tiene sentido reconocer ciertos derechos fundamentales a las personas morales? ¿Cuáles
+   sí y cuáles no?
+4. ¿El modelo de "apoyos" para personas con discapacidad debe sustituir por completo a la
+   figura de la incapacidad/tutela?
+5. ¿Debe la nacionalidad de una sociedad determinarse por su lugar de constitución o por la
+   nacionalidad de quienes la controlan (*control test*)?
+
+## 21. Preguntas tipo examen (con respuesta modelo)
+
+**P1. ¿Qué es una persona moral y cuáles son sus consecuencias jurídicas?** *R.* Ente creado
+por el derecho, distinto de sus miembros, con personalidad propia. Consecuencias: patrimonio,
+nombre, domicilio, nacionalidad y capacidad propios, y responsabilidad propia con eventual
+limitación de la de los socios a su aportación.
+
+**P2. Distinga capacidad de goce y de ejercicio.** *R.* Goce: aptitud para ser titular de
+derechos y obligaciones (la tiene toda persona). Ejercicio: aptitud para ejercerlos por sí
+(falta en menores e incapaces, que actúan por representante). Su falta vicia el acto con
+nulidad relativa.
+
+**P3. ¿Cómo actúa una persona moral?** *R.* Por sus **órganos** (teoría del órgano):
+asamblea (voluntad), consejo/administrador (gestión y representación) y vigilancia; y por
+**apoderados** con poderes específicos.
+
+**P4. ¿Qué es el objeto social y qué función cumple?** *R.* El conjunto de actividades para
+las que se creó la sociedad; delimita su capacidad/facultades. Los actos fuera del objeto
+pueden ser ineficaces (*ultra vires*), por lo que se redactan objetos amplios.
+
+**P5. ¿Cuándo procede el levantamiento del velo?** *R.* Cuando la persona moral se usa como
+instrumento de fraude, abuso o simulación (confusión de patrimonios, infracapitalización
+dolosa); permite alcanzar a los socios o a sociedades vinculadas, como excepción a la
+separación patrimonial.
+
+## 22. Casos complejos (nivel "socio")
+
+**Caso A. Diseño de estructura y riesgo de velo en una adquisición apalancada.** Un fondo de
+private equity adquiere una empresa creando una sociedad vehículo (NewCo) que se endeuda para
+pagar el precio y luego se fusiona con la *target* (estructura de *leveraged buyout*).
+Analice: (i) la **personalidad y capacidad** de NewCo y la validez de su objeto y facultades;
+(ii) cómo la **separación patrimonial** protege al fondo, y qué prácticas (capitalización
+adecuada, formalidades, no confusión) blindan contra el levantamiento del velo; (iii) el
+riesgo de que los acreedores de la *target* ataquen la fusión apalancada como fraude a
+acreedores; (iv) la **nacionalidad** del fondo y su impacto regulatorio. Diseñe la estructura
+defendible.
+
+**Caso B. Grupo económico, unidad económica y contingencias cruzadas.** Una *target* pertenece
+a un grupo que comparte marca, dirección y empleados con otras sociedades del mismo dueño. El
+comprador teme heredar contingencias laborales y fiscales del grupo por la doctrina de
+"unidad económica". Analice: cómo la separación de personas morales se debilita ante el
+concepto de grupo/unidad económica en materia laboral, fiscal y de competencia; qué *reps*,
+indemnidades específicas y reestructuras pre-cierre mitigan el riesgo; y cómo se valúa y
+asigna contractualmente esa contingencia. ¿Conviene un *share deal* o un *asset deal* para
+aislar el riesgo?
