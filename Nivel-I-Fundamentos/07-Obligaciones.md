@@ -297,3 +297,162 @@ Este árbol convierte el conflicto en una **estrategia y una cifra**.
   liberatoria** (el tiempo extingue la acción). Cada uno tiene enormes aplicaciones en
   reestructuración de deuda (Nivel IV): una reestructura es, técnicamente, **novación,
   compensación, cesión y subrogación** orquestadas.
+
+
+---
+
+## 6. Comparación doctrinal
+
+**Schuld und Haftung (deuda y responsabilidad).** La doctrina alemana separó el **deber de
+prestación** (Schuld) de la **responsabilidad patrimonial** (Haftung). Casi siempre van
+juntos, pero su distinción explica fenómenos como la **obligación natural** (Schuld sin
+Haftung exigible) o la fianza (Haftung de un tercero por deuda ajena). Esta lente es muy útil
+para entender garantías y avales: el avalista tiene *Haftung* sobre una *Schuld* ajena.
+
+**Teoría de la imprevisión (rebus sic stantibus) vs. pacta sunt servanda.** El dogma clásico
+(Code 1804) era la **fuerza obligatoria absoluta**: el contrato es ley, cueste lo que cueste.
+La doctrina de la imprevisión sostiene que un cambio **extraordinario e imprevisible** de
+circunstancias que vuelve la prestación excesivamente onerosa permite **revisar o resolver** el
+contrato. Hay tensión real: la seguridad del tráfico (pacta sunt servanda) vs. la equidad
+(rebus sic stantibus). México la admite de forma **dispar** según el estado (algunos códigos la
+incorporan, otros no); el Code francés la adoptó en 2016. *Crucial en M&A:* las cláusulas
+**MAC** (*Material Adverse Change*) y de **fuerza mayor** son la versión contractual de este
+debate —asignan por anticipado quién soporta el riesgo del cambio de circunstancias—.
+
+**Concepción subjetiva vs. objetiva de la responsabilidad.** La tradición liberal exige
+**culpa** (responsabilidad subjetiva: solo respondes si obraste con dolo o negligencia). El
+siglo XX desarrolló la **responsabilidad objetiva** (por riesgo creado: respondes por el daño
+de tu actividad peligrosa aunque no haya culpa; art. 1913 CCF). El debate define cuánta
+seguridad y cuánta actividad económica riesgosa tolera el sistema.
+
+**Daños: teoría de la causalidad adecuada vs. equivalencia de condiciones.** ¿Hasta qué eslabón
+de la cadena causal responde el deudor? La **equivalencia de condiciones** (todo antecedente es
+causa) llevaría a responsabilidad infinita; la **causalidad adecuada** (solo responde de las
+consecuencias que normalmente derivan del hecho) la acota. El art. 2110 CCF ("consecuencia
+inmediata y directa") adopta una limitación causal, pariente de la regla anglosajona de
+*foreseeability* (*Hadley v. Baxendale*).
+
+## 7. Autores más importantes
+
+**Doctrina mexicana (imprescindible):**
+- **Manuel Borja Soriano**, *Teoría General de las Obligaciones*: el clásico mexicano por
+  excelencia.
+- **Rafael Rojina Villegas**, *Derecho Civil Mexicano*, t. III (Obligaciones) y *Compendio*.
+- **Ernesto Gutiérrez y González**, *Derecho de las Obligaciones*: profundo, crítico y
+  sistemático (célebre por su tratamiento del patrimonio y la responsabilidad).
+- **Ignacio Galindo Garfias** y **Luis María Aguilar** (doctrina y criterios).
+
+**Doctrina comparada y clásica:**
+- **Robert Joseph Pothier**, *Tratado de las Obligaciones*: inspiró directamente al Code y, por
+  él, al derecho mexicano. Fundamental para entender la causalidad del daño.
+- **René Demogue** (obligaciones de medios y de resultado).
+- **Planiol y Ripert; los hermanos Mazeaud** (tratadistas franceses).
+- **Karl Larenz** (*Derecho de Obligaciones*, doctrina alemana).
+
+## 8. Derecho comparado
+
+- **Francia (Code reformado 2016):** modernizó el derecho de obligaciones; codificó la buena
+  fe, la **imprevisión** (*imprévision*), la resolución unilateral por incumplimiento y los
+  remedios del acreedor.
+- **Alemania (BGB):** sistema técnico y preciso; *Leistungsstörungen* (perturbaciones de la
+  prestación), la *Unmöglichkeit* (imposibilidad) y la *Geschäftsgrundlage* (base del negocio,
+  base doctrinal de la imprevisión).
+- **Common law:** no habla de "obligaciones" sino de *contract law* y *tort law*. Conceptos
+  funcionalmente equivalentes: *breach of contract*, *damages* (con la regla de
+  **previsibilidad** de *Hadley v. Baxendale* y el **deber de mitigar** —*duty to mitigate*—),
+  *specific performance* (excepcional, no la regla), *liquidated damages* (≈ cláusula penal,
+  pero **no** pueden ser una *penalty* punitiva), *frustration* (≈ imprevisión/imposibilidad).
+- **Lección para el corporativo internacional:** el régimen de **daños** difiere
+  sustancialmente. El common law calcula *expectation damages* (poner al acreedor en la
+  posición en que estaría si se hubiera cumplido), impone el **deber de mitigar** y limita por
+  **previsibilidad**; el SPA cross-border suele **pactar** detalladamente el régimen de
+  indemnización (qué daños, topes, mitigación) para no depender del derecho supletorio.
+
+## 9. Relación con México
+
+Régimen en el **Libro Cuarto del Código Civil Federal** ("De las obligaciones"):
+- **Fuentes:** contrato (arts. 1792 y ss.); declaración unilateral (1860 y ss.);
+  enriquecimiento sin causa (1882 y ss.); gestión de negocios (1896 y ss.); hechos ilícitos /
+  responsabilidad civil (1910 y ss.; objetiva 1913).
+- **Modalidades:** condicionales y a plazo (1938 y ss.); conjuntivas y alternativas;
+  **mancomunadas y solidarias** (1984 y ss., la solidaridad no se presume: 1988).
+- **Cumplimiento (pago):** arts. 2062 y ss. (requisitos, quién/ a quién / dónde / cuándo,
+  imputación, ofrecimiento y consignación).
+- **Incumplimiento:** **daños y perjuicios** (2104 y ss.), definición de daño y perjuicio
+  (2108-2109), **consecuencia inmediata y directa** (2110), **mora**, **cláusula penal**
+  (1840 y ss.), **caso fortuito** (2111).
+- **Facultad resolutoria tácita:** art. **1949** (contratos bilaterales).
+- **Transmisión:** cesión de créditos (2029 y ss.), subrogación (2058 y ss.), cesión/asunción
+  de deudas (2051 y ss.).
+- **Extinción:** compensación (2185 y ss.), confusión (2206), remisión (2209), novación (2213
+  y ss.), prescripción (1135 y ss.).
+- **Materia mercantil:** el **Código de Comercio** tiene reglas propias (p. ej., mora
+  mercantil sin necesidad de interpelación en obligaciones a día cierto; intereses), y supletoriamente
+  aplica el derecho civil.
+
+> **Advertencia federalista:** materia civil = local; verifica el código de la entidad. En
+> obligaciones **mercantiles** rige el Código de Comercio y leyes especiales, con supletoriedad
+> del derecho común.
+
+## 10. Relación con otras materias
+
+- **Derecho Romano (Libro 1):** la *obligatio* y su régimen (dolo, culpa, mora) nacen allí.
+- **Acto Jurídico (Libro 4):** el acto/contrato es la fuente principal de obligaciones.
+- **Bienes (Libro 6):** las garantías reales **aseguran** obligaciones; el patrimonio es la
+  prenda común de los acreedores.
+- **Contratos (Libro 8):** cada contrato típico genera obligaciones específicas; este libro es
+  su teoría general.
+- **Títulos de crédito / LGTOC (Nivel III):** la suscripción de un título es una declaración
+  unilateral que crea una obligación literal y autónoma.
+- **Contratos mercantiles y Financiamiento (Niveles III-IV):** mutuo, crédito, factoraje:
+  obligaciones dinerarias, intereses, cesión de cartera.
+- **Reestructuración (Nivel IV):** novación, quita, espera, cesión y subrogación son
+  obligaciones en movimiento.
+- **M&A (Nivel IV):** la **indemnización** del SPA es responsabilidad por incumplimiento de
+  obligaciones (las *reps* y *covenants*).
+
+## 11. Aplicación profesional
+
+1. **Redactar y calibrar cláusulas de incumplimiento:** definir qué es incumplimiento, plazos
+   de cura, mora, intereses, **cláusula penal** y tope de responsabilidad.
+2. **Estructurar regímenes de indemnización:** delimitar daños indemnizables (¿solo directos?,
+   ¿lucro cesante incluido o excluido?), *caps*, *baskets*, mitigación.
+3. **Diseñar la solidaridad y las garantías personales:** codeudores, avales, fianzas para
+   reforzar el crédito.
+4. **Operaciones sobre créditos:** ceder cartera (factoraje), subrogar, novar deudas en una
+   reestructura.
+5. **Gestionar el incumplimiento:** decidir entre exigir cumplimiento o resolver, interpelar
+   para constituir en mora, cuantificar y probar daños.
+
+## 12. Errores comunes
+
+- **Confundir daño y perjuicio.** Daño = pérdida sufrida (daño emergente); perjuicio =
+  ganancia dejada de obtener (lucro cesante). Reclamar mal el concepto debilita la pretensión.
+- **Olvidar el requisito de "consecuencia inmediata y directa".** Pretender daños remotos o
+  indirectos sin nexo causal adecuado lleva al fracaso (art. 2110).
+- **No constituir en mora.** Sin mora, no corren intereses ni se traslada el riesgo; muchos
+  juicios se pierden por no interpelar cuando se requería.
+- **Presumir la solidaridad.** La solidaridad **no se presume**: si no se pactó o no la
+  impone la ley, cada deudor responde solo de su parte.
+- **Confundir obligación de medios con de resultado.** Demandar "resultado" a quien solo se
+  obligó "de medios" (y viceversa) altera la carga de la prueba y el éxito de la acción.
+- **Ignorar la prescripción.** El crédito no exigido prescribe; vigilar plazos es deber
+  profesional.
+- **No distinguir resolución de rescisión/nulidad.** La resolución (art. 1949) opera por
+  incumplimiento; la nulidad, por vicios de origen (Libro 4). Confundirlas arruina la
+  estrategia.
+
+## 13. Cómo lo preguntaría un profesor
+
+- *"Defina obligación y explique sus elementos y la distinción Schuld/Haftung."*
+- *"Enumere las cinco fuentes de las obligaciones en el CCF y dé un ejemplo de cada una."*
+- *"Distinga daño y perjuicio, y explique el requisito del art. 2110."*
+- *"¿Qué es la mora, cómo se constituye y qué efectos produce?"*
+- *"Explique la facultad resolutoria tácita del art. 1949 y compárela con la nulidad."*
+- *"¿Qué es la solidaridad y por qué no se presume? ¿Para qué sirve en el financiamiento?"*
+- *"Compare cláusula penal mexicana y *liquidated damages* del common law."*
+
+> El sinodal premia el **árbol de diagnóstico del incumplimiento** (incumplimiento → mora →
+> caso fortuito → daños/causalidad → remedio) y la conexión con la cuantificación.
+
+---
