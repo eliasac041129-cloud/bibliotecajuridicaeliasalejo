@@ -1,0 +1,294 @@
+# [Nivel I · Libro 4] Tratado de Teoría General del Acto Jurídico
+
+> Si los contratos, las sociedades, los testamentos y las operaciones de M&A fueran
+> moléculas, el **acto jurídico** sería el átomo. Toda la vida del derecho privado —y, por
+> tanto, todo el derecho corporativo— se construye con manifestaciones de voluntad que
+> producen efectos queridos por el derecho. Dominar esta teoría es dominar la mecánica
+> profunda de cualquier contrato.
+
+**Etiquetas:** fundamentos · teoría central del derecho privado · voluntad · validez · nulidad
+**Prerrequisitos:** [Derecho Romano](./01-Derecho-Romano.md), [IED](./02-Introduccion-al-Estudio-del-Derecho.md).
+**Nivel de tratamiento:** TRATADO (materia nuclear: es la base técnica de todo contrato y operación).
+
+> **Cómo está escrito este libro.** Cada figura se define, se explica *por qué* existe, se
+> ilustra con un ejemplo concreto y se conecta con una cláusula real de un contrato. El
+> objetivo no es que reconozcas "nulidad relativa", sino que sepas **detectarla, alegarla y
+> redactarla**.
+
+---
+
+## Índice de las 30 secciones
+
+1. ¿Por qué existe? · 2. Historia · 3. Problema que resolvió · 4. Conceptos ·
+5. Explicación completa · 6. Comparación doctrinal · 7. Autores · 8. Derecho comparado ·
+9. Relación con México · 10. Relación con otras materias · 11. Aplicación profesional ·
+12. Errores comunes · 13. Cómo lo preguntaría un profesor · 14. En un juicio ·
+15. En un contrato · 16. En una empresa · 17. En M&A · 18. Práctica internacional ·
+19. Casos · 20. Preguntas abiertas · 21. Preguntas tipo examen · 22. Casos complejos ·
+23. Flashcards · 24. Mapas mentales · 25. Cuadros comparativos · 26. Mnemotecnias ·
+27. Checklist · 28. Resumen ejecutivo · 29. Bibliografía · 30. Ruta.
+
+---
+
+## 1. ¿Por qué esta materia existe?
+
+Razonemos. En el libro de Roma viste que las obligaciones nacen de fuentes (contrato,
+delito, etc.). En la IED viste que el derecho atribuye consecuencias a ciertos supuestos de
+hecho. Ahora unimos ambas ideas y preguntamos: *¿cómo es que la voluntad de un particular
+puede crear, modificar o extinguir derechos y obligaciones?* ¿Por qué, cuando dos personas
+dicen "acuerdo", el Estado pone su fuerza coactiva detrás de ese acuerdo?
+
+La Teoría General del Acto Jurídico existe para responder esto. Estudia el mecanismo por el
+cual la **voluntad humana**, reconocida por el orden jurídico, se convierte en **fuente de
+efectos de derecho**. Es la teoría del **poder creador de la autonomía privada**.
+
+Su importancia para el abogado corporativo es absoluta y por eso este es un tratado, no un
+manual:
+
+**Primero: es la columna vertebral de todo contrato.** Un SPA, un contrato de crédito, unos
+estatutos sociales, un pagaré, una fusión: todos son actos jurídicos. Sus reglas de
+existencia, validez, vicios y nulidad son las mismas que estudiarás aquí, aplicadas. Si no
+dominas esta teoría, redactas contratos sin entender qué los sostiene o los derrumba.
+
+**Segundo: explica cuándo un acto vale y cuándo se cae.** La diferencia entre
+**inexistencia**, **nulidad absoluta** y **nulidad relativa** decide si una operación
+multimillonaria es válida, anulable o nunca existió. Un error aquí puede costar una fusión.
+
+**Tercero: es la teoría de los vicios del consentimiento.** El **dolo** (engaño), el
+**error**, la **violencia** y la **lesión** son las patologías que invalidan acuerdos. En
+M&A, las *misrepresentations* y el *fraud* son, en clave civil mexicana, vicios del
+consentimiento. Saber detectarlos es proteger a tu cliente.
+
+> **Tesis del libro:** el acto jurídico es la herramienta con la que los particulares
+> "legislan" para sí mismos dentro de los límites del orden público. Comprender sus
+> elementos de existencia y validez es comprender la **anatomía de todo negocio jurídico**.
+
+**Ejercicio de arranque:** una persona firma un contrato porque la otra le mintió sobre un
+hecho determinante. El contrato, ¿no existe, es nulo de pleno derecho, o es válido hasta que
+la víctima pida anularlo? *Piensa tu respuesta* y contrástala al final de la sección 5.
+
+---
+
+## 2. Historia
+
+### 2.1 La raíz romana: actos típicos, no teoría general
+Roma, como vimos, no tuvo una teoría general del acto o del negocio jurídico. Tuvo **actos
+típicos** (*mancipatio*, *stipulatio*, *traditio*, testamento) cada uno con su forma y sus
+efectos. El consentimiento importaba (en los contratos consensuales), pero no existía una
+categoría abstracta y unificadora de "acto jurídico". Lo que Roma sí aportó fueron los
+**materiales**: la *voluntas*, el *dolus*, el *error*, la *causa*, la distinción entre
+forma y fondo.
+
+### 2.2 La construcción de la categoría: la pandectística alemana
+La gran abstracción —el concepto de **negocio jurídico** (*Rechtsgeschäft*)— es obra de la
+ciencia jurídica alemana del siglo XIX (Savigny, Windscheid y la Pandectística). Ellos
+tomaron los materiales romanos y construyeron una teoría unitaria: *todo* acto de voluntad
+dirigido a producir efectos jurídicos comparte una estructura común (sujetos, voluntad,
+objeto, causa, forma) y un régimen común de vicios y nulidades. El **BGB** alemán (1900)
+consagró el *negocio jurídico* como categoría central de su Parte General.
+
+### 2.3 La tradición francesa y latina: el "acto jurídico"
+Francia y los sistemas latinos prefirieron hablar de **acto jurídico** (*acte juridique*) y
+centraron la teoría en el **contrato** (el Code Civil de 1804 regula sobre todo el
+contrato). La doctrina latina (Bonnecase, los hermanos Mazeaud, y en México Gutiérrez y
+González, Borja Soriano, Rojina Villegas) desarrolló la distinción —decisiva en México—
+entre **hecho jurídico** y **acto jurídico**, y entre **elementos de existencia** y
+**requisitos de validez**.
+
+### 2.4 La recepción mexicana
+El Código Civil de 1928 (CCF) adopta una teoría del acto jurídico de raíz francesa pero con
+sistematización propia, distinguiendo con nitidez:
+- elementos de **existencia** (consentimiento, objeto, y en su caso solemnidad);
+- requisitos de **validez** (capacidad, ausencia de vicios, licitud, forma);
+- y un régimen escalonado de ineficacias: **inexistencia**, **nulidad absoluta** y
+  **nulidad relativa**.
+Esta arquitectura —que muchos atribuyen a la influencia de Bonnecase— es la que estudiarás
+y la que usarás toda tu carrera.
+
+---
+
+## 3. Problema jurídico que resolvió
+
+La teoría ordena un conjunto de problemas prácticos:
+
+1. **¿Cómo crea efectos la voluntad privada?** Establece el mecanismo de la autonomía de la
+   voluntad y sus límites (orden público, leyes imperativas).
+2. **¿Qué necesita un acto para *existir*?** Define los elementos esenciales sin los cuales
+   no hay acto (no hay "nada que anular": simplemente no existe).
+3. **¿Qué necesita para ser *válido*?** Distingue existir de valer: un acto puede existir
+   pero estar viciado (incapacidad, dolo, ilicitud).
+4. **¿Qué pasa cuando falta un elemento o un requisito?** Construye el régimen de
+   ineficacias (inexistencia, nulidad absoluta, nulidad relativa) y sus consecuencias.
+5. **¿Cómo se protege la voluntad libre y consciente?** Teoría de los **vicios del
+   consentimiento** (error, dolo, violencia, lesión).
+6. **¿Cómo se interpreta y se integra el acto?** Reglas de interpretación de la voluntad y
+   de integración de lo no previsto.
+
+> Para el corporativo, los problemas 3, 4 y 5 son oro puro: deciden si un contrato es
+> exigible, si una garantía es válida y si una declaración falsa permite deshacer la
+> operación.
+
+---
+
+## 4. Conceptos
+
+- **Hecho jurídico (en sentido amplio):** todo acontecimiento, natural o humano, que
+  produce consecuencias de derecho. *Ejemplo:* la muerte (abre la sucesión), el nacimiento,
+  un accidente.
+- **Hecho jurídico en sentido estricto:** acontecimiento en el que la consecuencia se
+  produce **sin** que el sujeto la haya querido como tal. *Ejemplo:* quien por negligencia
+  causa un daño genera la obligación de repararlo aunque no la quisiera.
+- **Acto jurídico:** manifestación de voluntad encaminada a producir **efectos jurídicos
+  queridos** por el autor y reconocidos por el derecho. *Ejemplo:* celebrar un contrato,
+  otorgar un testamento, constituir una sociedad.
+- **Negocio jurídico:** sinónimo en la tradición alemana del acto jurídico (voluntad
+  dirigida a efectos queridos).
+- **Autonomía de la voluntad:** poder de los particulares de autorregular sus relaciones
+  jurídicas dentro de los límites de la ley, el orden público y las buenas costumbres.
+- **Elementos de existencia (esenciales):** **consentimiento**, **objeto** (posible y
+  física/jurídicamente determinable) y, cuando la ley lo exige, **solemnidad**. Su falta =
+  **inexistencia**.
+- **Requisitos de validez:** **capacidad** de las partes, **ausencia de vicios** del
+  consentimiento, **licitud** en el objeto/motivo/fin, y **forma** prescrita por la ley. Su
+  falta = **nulidad** (absoluta o relativa).
+- **Consentimiento:** acuerdo de dos o más voluntades (en actos bilaterales) o manifestación
+  de una (en unilaterales) sobre el objeto y la causa del acto.
+- **Objeto:** lo que se debe (la cosa o la conducta); debe existir o poder existir, estar en
+  el comercio y ser determinado o determinable.
+- **Causa / motivo determinante:** la razón o fin del acto; en México el fin o motivo
+  determinante debe ser lícito (art. 1795, fr. III, e interpretación de los arts. 1830 y
+  1831 CCF).
+- **Vicios del consentimiento:** **error**, **dolo**, **mala fe**, **violencia** (física o
+  moral) y **lesión**.
+- **Inexistencia:** el acto no llegó a nacer por falta de un elemento esencial; no produce
+  efecto alguno, no se convalida ni prescribe (art. 2224 CCF).
+- **Nulidad absoluta:** el acto existe pero contraría una norma de orden público; cualquiera
+  la invoca, no se convalida por confirmación ni prescripción, y por regla produce efectos
+  provisionales hasta su declaración (arts. 2225–2226 CCF).
+- **Nulidad relativa:** vicio que protege un interés particular; solo la invoca el afectado,
+  **se convalida** por confirmación o por prescripción (arts. 2227–2228 CCF).
+- **Confirmación / ratificación:** acto por el que se sanea un acto anulable.
+- **Conversión del acto nulo:** un acto nulo que reúne los requisitos de otro distinto puede
+  valer como ese otro.
+- **Representación:** actuar en nombre y por cuenta de otro, produciendo efectos en su esfera
+  jurídica (legal, orgánica o voluntaria –poder/mandato).
+- **Modalidades del acto:** **condición** (acontecimiento futuro e incierto), **término o
+  plazo** (futuro y cierto) y **modo o carga**.
+
+## 5. Explicación completa
+
+### 5.1 Del hecho al acto: el lugar de la voluntad
+Imagina una escala de "intervención de la voluntad":
+- En el extremo sin voluntad están los **hechos jurídicos naturales** (un rayo destruye un
+  bien asegurado: nace el derecho a la indemnización, nadie lo "quiso").
+- En el medio, los **hechos jurídicos humanos** donde hay conducta pero el efecto no fue
+  querido como tal (el responsable de un daño debe repararlo aunque no quisiera "obligarse").
+- En el extremo de plena voluntad creadora está el **acto jurídico**: el sujeto **quiere** el
+  efecto jurídico (quiere obligarse, transmitir, constituir una sociedad).
+
+Esta distinción no es académica: determina **qué reglas aplican**. Los vicios del
+consentimiento, por ejemplo, solo tienen sentido en los actos jurídicos (donde la voluntad
+es el motor), no en los hechos.
+
+### 5.2 La autonomía de la voluntad y sus límites
+El acto jurídico es la expresión técnica de la **autonomía de la voluntad**: los
+particulares pueden crear las reglas de su relación (art. 1796 CCF: los contratos se
+perfeccionan por el consentimiento y obligan no solo a lo pactado sino a las consecuencias
+conformes a la buena fe, al uso o a la ley). Pero esta libertad tiene **tres murallas**:
+1. **Las leyes de orden público / imperativas** (art. 6 CCF: la voluntad no puede eximir de
+   su observancia ni alterarlas).
+2. **El orden público** y las **buenas costumbres** (límite a la licitud del objeto, motivo
+   o fin: arts. 1830–1831 CCF).
+3. **Los derechos de terceros.**
+
+Detectar la frontera entre lo disponible (normas dispositivas) y lo indisponible (normas
+imperativas) es una de las destrezas más finas del abogado: pactar contra una norma
+imperativa es nulidad asegurada.
+
+### 5.3 Elementos de existencia: ¿el acto nació?
+Antes de preguntar si un acto es válido, hay que preguntar si **existe**. Faltan tres
+elementos esenciales y no hay acto que analizar:
+
+1. **Consentimiento.** En los actos bilaterales, el encuentro de oferta y aceptación. Sin
+   acuerdo de voluntades sobre lo esencial, no hay contrato. *Ejemplo de inexistencia:* las
+   partes creen contratar sobre cosas distintas (no hay verdadero acuerdo).
+2. **Objeto.** Debe ser posible (física y jurídicamente). *Ejemplo de inexistencia:* vender
+   una cosa que ya pereció totalmente al momento del contrato; o un objeto imposible.
+3. **Solemnidad** (solo cuando la ley la exige como esencial). Ciertos actos requieren una
+   forma sacramental para *existir* (clásicamente, el matrimonio o el testamento en cuanto a
+   ciertas formas). Si la ley eleva la forma a elemento de existencia, su ausencia es
+   inexistencia, no mera nulidad.
+
+**Consecuencia de la inexistencia (art. 2224 CCF):** el acto "no produce efecto legal
+alguno; no es susceptible de valer por confirmación ni por prescripción". Es la nada
+jurídica. Cualquier interesado puede alegarla en cualquier tiempo.
+
+### 5.4 Requisitos de validez: el acto existe, ¿pero vale?
+Un acto puede existir y, sin embargo, estar enfermo. Los requisitos de validez (art. 1795
+CCF, a contrario) son cuatro:
+
+1. **Capacidad** de las partes. La incapacidad (p. ej., de un menor o de un interdicto)
+   genera **nulidad relativa** (protege al incapaz).
+2. **Ausencia de vicios del consentimiento** (error, dolo, violencia, lesión). Su presencia
+   genera **nulidad relativa** (protege a la víctima del vicio).
+3. **Licitud** en el objeto, motivo o fin. La ilicitud (contra leyes de orden público o
+   buenas costumbres) genera **nulidad absoluta** (protege a la sociedad).
+4. **Forma** exigida por la ley (cuando no es solemnidad esencial). Su falta genera, por
+   regla, **nulidad relativa** y el acto puede sanearse otorgando la forma (art. 2231 CCF:
+   la falta de forma estipulada produce nulidad relativa subsanable).
+
+### 5.5 Los vicios del consentimiento, en concreto
+- **Error:** falsa apreciación de la realidad. Solo invalida el **error determinante**
+  (motivo decisivo del acto) o el error de derecho/hecho que recae sobre el motivo
+  determinante (art. 1813 CCF). El error de cálculo solo da lugar a rectificación. *Ejemplo:*
+  compro un cuadro creyendo que es de un autor famoso, siendo ese el motivo determinante.
+- **Dolo y mala fe:** el **dolo** es cualquier sugestión o artificio para inducir al error o
+  mantenerlo (art. 1815 CCF); la **mala fe**, la disimulación del error conocido. El dolo que
+  **determina** la voluntad anula el acto (nulidad relativa). *Ejemplo corporativo:* el
+  vendedor oculta deliberadamente un pasivo: dolo. **Aquí está el puente con las
+  *misrepresentations* del M&A.**
+- **Violencia (intimidación):** empleo de fuerza física o amenazas que infunden temor de un
+  mal grave a la persona o bienes (art. 1819 CCF). Vicia por nulidad relativa.
+- **Lesión:** desproporción enorme entre las prestaciones por explotación de la suma
+  ignorancia, notoria inexperiencia o extrema miseria de una parte (art. 17 CCF). Da derecho
+  a la nulidad o a la reducción equitativa.
+
+### 5.6 El régimen de ineficacias: el mapa que debes memorizar
+Esta es la sección más importante del libro para la práctica. Tres grados:
+
+| | Inexistencia | Nulidad absoluta | Nulidad relativa |
+|---|---|---|---|
+| **Causa** | Falta elemento esencial (consentimiento, objeto, solemnidad) | Ilicitud / violación de norma de orden público | Vicio del consentimiento, incapacidad, falta de forma |
+| **Interés protegido** | — (no hay acto) | El de la sociedad | El de un particular |
+| **¿Quién la invoca?** | Cualquiera | Cualquier interesado | Solo el afectado |
+| **¿Se convalida?** | No | No (no por confirmación ni prescripción) | **Sí** (confirmación o prescripción) |
+| **¿Produce efectos provisionales?** | No | Sí, hasta la declaración judicial | Sí, hasta la declaración |
+| **Fundamento CCF** | 2224 | 2225–2226 | 2227–2228, 2230–2231 |
+
+**Cómo razona un experto (walkthrough de diagnóstico):** ante cualquier acto cuestionado,
+recorre tres preguntas en orden: (1) *¿Existe?* — ¿hay consentimiento, objeto y, si aplica,
+solemnidad? Si no, inexistencia. (2) *Si existe, ¿es lícito?* — ¿viola una norma de orden
+público? Si sí, nulidad absoluta. (3) *Si es lícito, ¿hubo capacidad, voluntad libre y
+forma?* — si falta capacidad, hubo vicio o falta forma, nulidad relativa. Este árbol de
+decisión resuelve el 90% de los problemas de ineficacia.
+
+### 5.7 Modalidades, representación e interpretación
+- **Modalidades:** la **condición** (suspende o resuelve el acto según un hecho futuro e
+  incierto; base de las *conditions precedent* de un SPA), el **término** (hecho futuro y
+  cierto que fija exigibilidad) y el **modo/carga** (obligación accesoria impuesta al
+  beneficiario).
+- **Representación:** permite que los efectos del acto recaigan en una persona distinta de
+  quien lo celebra (el representante). Fundamental para las personas morales (actúan por sus
+  órganos) y para el tráfico (apoderados). Sus vicios (falta o exceso de poder) son fuente
+  frecuente de litigio corporativo.
+- **Interpretación del acto:** se busca la **intención común** real por encima de las
+  palabras (arts. 1851 y ss. CCF), interpretando las cláusulas unas por otras y a favor de
+  la validez y la buena fe.
+
+> **Respuesta al ejercicio de arranque:** el contrato celebrado por engaño determinante
+> **existe** (hay consentimiento, objeto) y es **lícito**, pero el consentimiento está
+> **viciado por dolo**. Por tanto es **válido pero anulable**: produce efectos hasta que la
+> víctima ejerza la acción de **nulidad relativa** (o, alternativamente, confirme el acto y
+> reclame daños). No es inexistente ni nulo de pleno derecho. Entender esta diferencia es
+> entender por qué en M&A las *reps* falsas no "destruyen" el contrato automáticamente, sino
+> que **activan remedios** (indemnización y, en casos graves, rescisión).
