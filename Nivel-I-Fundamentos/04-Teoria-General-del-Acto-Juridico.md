@@ -641,3 +641,177 @@ la cláusula de *non-reliance*? ¿Puede la autonomía de la voluntad excluir la 
 nulidad por error? Construye el argumento de cada parte y la solución que un tribunal o
 árbitro probablemente adoptaría, distinguiendo error sobre **hechos presentes** (protegible)
 de error sobre **expectativas** (riesgo del negocio).
+
+
+---
+
+## 23. Flashcards
+
+- **¿Hecho jurídico vs. acto jurídico?** → En el hecho, el efecto no se quiere como tal; en
+  el acto, la voluntad busca el efecto jurídico.
+- **¿Elementos de existencia?** → Consentimiento, objeto y (si la ley lo exige) solemnidad
+  (art. 1794 CCF).
+- **¿Requisitos de validez?** → Capacidad, ausencia de vicios, licitud (objeto/motivo/fin) y
+  forma (art. 1795 CCF).
+- **¿Consecuencia de la inexistencia?** → No produce efecto alguno; no se convalida ni
+  prescribe (art. 2224).
+- **¿Quién invoca la nulidad absoluta?** → Cualquier interesado; no se convalida (2225-2226).
+- **¿Se convalida la nulidad relativa?** → Sí, por confirmación o prescripción (2227-2228).
+- **¿Cuándo vicia el error?** → Si recae sobre el motivo determinante (art. 1813).
+- **¿Qué es el dolo?** → Sugestión o artificio para inducir o mantener el error (art. 1815);
+  vicia si es determinante.
+- **¿Qué es la lesión (art. 17)?** → Desproporción enorme por explotación de ignorancia,
+  inexperiencia o miseria.
+- **¿Tres modalidades del acto?** → Condición, término (plazo) y modo (carga).
+- **¿Vicio típico de la representación?** → Falta o exceso de poder (acto ineficaz salvo
+  ratificación).
+- **¿Equivalente civil de la *misrepresentation*?** → Error/dolo según haya o no engaño.
+- **¿Árbol de diagnóstico?** → ¿Existe? → ¿Es lícito? → ¿Hubo capacidad, voluntad libre y
+  forma?
+
+## 24. Mapas mentales
+
+```
+ACTO JURÍDICO
+├── UBICACIÓN
+│   └── Hecho jurídico (amplio) → hecho en sentido estricto / ACTO jurídico (negocio)
+├── EXISTENCIA (art. 1794)
+│   ├── Consentimiento
+│   ├── Objeto (posible, en el comercio, determinable)
+│   └── Solemnidad (si la ley la exige)  ──falta──► INEXISTENCIA (2224)
+├── VALIDEZ (art. 1795)
+│   ├── Capacidad ──falta──► nulidad relativa
+│   ├── Voluntad sin vicios ──falta──► nulidad relativa
+│   │   └── Vicios: ERROR · DOLO/mala fe · VIOLENCIA · LESIÓN
+│   ├── Licitud (objeto/motivo/fin) ──falta──► NULIDAD ABSOLUTA
+│   └── Forma ──falta──► nulidad relativa (subsanable, 2231)
+├── INEFICACIAS
+│   ├── Inexistencia: nada jurídica
+│   ├── Nulidad absoluta: orden público, no se convalida
+│   └── Nulidad relativa: interés particular, SE CONVALIDA
+├── MODALIDADES
+│   └── Condición · Término · Modo
+└── REPRESENTACIÓN
+    └── Legal · Orgánica · Voluntaria (poder/mandato)
+```
+
+**Puente con M&A:**
+`consentimiento → firma del SPA` · `capacidad/authority → reps de constitución y poderes`
+`error/dolo → reps & warranties + disclosure` · `condición → conditions precedent`
+`nulidad latente en la target → indemnización específica / condición de cierre`.
+
+## 25. Cuadros comparativos
+
+**Las tres ineficacias**
+
+| | Inexistencia | Nulidad absoluta | Nulidad relativa |
+|---|---|---|---|
+| Causa | Falta elemento esencial | Ilicitud / orden público | Vicio, incapacidad, forma |
+| Invoca | Cualquiera | Cualquier interesado | Solo el afectado |
+| Convalidación | No | No | Sí (confirmación/prescripción) |
+| Efectos provisionales | No | Sí | Sí |
+| Base CCF | 2224 | 2225-2226 | 2227-2228 |
+
+**Vicios del consentimiento y su pariente anglosajón**
+
+| Vicio civil (México) | Concepto | Equivalente common law |
+|---|---|---|
+| Error | Falsa apreciación determinante | *Mistake* |
+| Dolo | Engaño que induce el error | *Fraudulent/negligent misrepresentation* |
+| Violencia | Fuerza o amenaza grave | *Duress* / *undue influence* |
+| Lesión | Desproporción + explotación | *Unconscionability* |
+
+**Hecho vs. acto jurídico**
+
+| | Hecho jurídico | Acto jurídico |
+|---|---|---|
+| Voluntad del efecto | No querido como tal | Querido y buscado |
+| Ejemplo | Daño por negligencia | Contrato, testamento |
+| Vicios del consentimiento | No aplican | Aplican |
+
+## 26. Mnemotecnias
+
+- **Elementos de existencia:** **"C-O-S"** → **C**onsentimiento, **O**bjeto,
+  **S**olemnidad.
+- **Requisitos de validez:** **"CA-VI-LI-FO"** → **CA**pacidad, ausencia de **VI**cios,
+  **LI**citud, **FO**rma.
+- **Vicios del consentimiento:** **"EDVL"** → **E**rror, **D**olo, **V**iolencia,
+  **L**esión.
+- **Modalidades:** **"CTM"** → **C**ondición, **T**érmino, **M**odo.
+- **Regla de convalidación:** *"la relativa se cura, la absoluta no"*.
+- **Diagnóstico:** *"Existe → Lícito → Válido"* (las tres preguntas en orden).
+
+## 27. Checklist del jurista (validez de un acto/contrato)
+
+- [ ] **¿Existe?** ¿Hay consentimiento real, objeto posible y, si aplica, solemnidad?
+- [ ] **¿Capacidad?** ¿Las partes son capaces? ¿El firmante tiene **poder suficiente y
+  vigente**?
+- [ ] **¿Voluntad libre?** ¿Hay indicios de error, dolo, violencia o lesión?
+- [ ] **¿Licitud?** ¿El objeto, motivo o fin contraría leyes de orden público o buenas
+  costumbres?
+- [ ] **¿Forma?** ¿La ley exige escritura pública, ratificación o registro?
+- [ ] **¿Autorizaciones?** ¿Se requieren permisos o aprobaciones para su eficacia?
+- [ ] **¿Modalidades?** ¿Condiciones, plazos o cargas bien redactados?
+- [ ] **Si hay vicio:** ¿conviene anular o confirmar y reclamar daños? ¿Prescribió la
+  acción?
+- [ ] **Saneamiento:** ¿puede subsanarse (ratificación, otorgamiento de forma, confirmación)?
+
+## 28. Resumen ejecutivo
+
+La Teoría General del Acto Jurídico explica cómo la **voluntad privada**, reconocida por el
+orden jurídico, crea, modifica o extingue derechos y obligaciones: es la teoría del poder de
+la **autonomía de la voluntad** y sus límites (orden público, normas imperativas, derechos de
+terceros). Distingue el **hecho jurídico** (efecto no querido como tal) del **acto jurídico**
+(efecto querido), y construye la arquitectura que usarás toda tu vida profesional: los
+**elementos de existencia** (consentimiento, objeto, solemnidad; art. 1794 CCF), los
+**requisitos de validez** (capacidad, ausencia de vicios, licitud, forma; art. 1795) y el
+régimen escalonado de **ineficacias** —inexistencia (2224), nulidad absoluta (2225-2226) y
+nulidad relativa (2227-2228)—, junto con la teoría de los **vicios del consentimiento**
+(error, dolo, violencia, lesión), las **modalidades** (condición, término, modo) y la
+**representación**.
+
+Para el abogado corporativo esto no es teoría: es la mecánica de cada contrato. El SPA y sus
+*representations & warranties* son control de error y dolo; las *conditions precedent* son
+condiciones suspensivas; las nulidades latentes de una *target* son pasivos contingentes que
+se subsanan o se trasladan al vendedor. Quien domina el **árbol de diagnóstico**
+(¿existe? → ¿es lícito? → ¿es válido?) puede auditar la validez de cualquier operación,
+detectar riesgos antes de firmar y redactar contratos que resisten. Este es, literalmente,
+el cimiento técnico del derecho de los negocios.
+
+## 29. Bibliografía
+
+**Doctrina mexicana (prioritaria):**
+- Borja Soriano, Manuel, *Teoría General de las Obligaciones*, Porrúa.
+- Rojina Villegas, Rafael, *Derecho Civil Mexicano*, t. III (Obligaciones) y *Compendio de
+  Derecho Civil*, Porrúa.
+- Gutiérrez y González, Ernesto, *Derecho de las Obligaciones*, Porrúa.
+- Domínguez Martínez, Jorge Alfredo, *Derecho Civil. Teoría general del acto jurídico*,
+  Porrúa.
+- Sánchez Medal, Ramón, *De los Contratos Civiles*, Porrúa.
+
+**Doctrina comparada:**
+- Bonnecase, Julien, *Tratado Elemental de Derecho Civil* (influencia directa en México).
+- Planiol, Marcel y Ripert, Georges, *Tratado de Derecho Civil*.
+- Von Tuhr, Andreas, *Derecho Civil. Teoría general del derecho civil alemán*.
+
+**Legislación:**
+- Código Civil Federal: arts. 6, 8, 17, 1794-1795, 1812-1823, 1827, 1830-1831, 1851-1859,
+  1938 y ss., 2224-2242. (Verificar el Código Civil de la entidad aplicable.)
+
+## 30. Ruta para continuar
+
+Ya tienes el átomo. Ahora estudiaremos a su protagonista: el **sujeto** que emite la
+voluntad y soporta los efectos del acto.
+
+- **Siguiente libro:** *Personas* (Nivel I, Libro 5): persona física y moral, atributos
+  (nombre, domicilio, patrimonio, capacidad, nacionalidad), y —crucial para el corporativo—
+  la **persona moral** y su capacidad de obrar a través de órganos y representantes.
+- **Conexión inmediata:** la **capacidad** que aquí fue "requisito de validez" se desarrolla
+  a fondo en Personas; la **representación** que vimos como mecanismo se profundiza allí.
+- **Conexión de largo alcance:** vuelve a las secciones 5.6 (ineficacias) y 17 (M&A) cuando
+  estudies la due diligence (Nivel IV): auditar la validez de los actos de la *target* es
+  aplicar este libro.
+
+> *"Pacta sunt servanda"*, pero solo los pactos **válidos** obligan. Aprendiste a distinguir
+> el pacto que vale del que se cae: esa es la frontera donde el abogado protege —o pierde— el
+> patrimonio de su cliente.
