@@ -278,3 +278,164 @@ Comercio para ciertos actos societarios). Rige el principio *prior in tempore, p
 iure*: quien inscribe primero, gana prioridad. Por eso, en un cierre de financiamiento, la
 **carrera por inscribir** las garantías el mismo día del *closing* es un momento crítico que
 el abogado debe coordinar con precisión.
+
+
+---
+
+## 6. Comparación doctrinal
+
+**Teoría clásica vs. teoría obligacionista del derecho real.** La concepción **clásica**
+(dualista) distingue tajantemente derecho real (relación persona-cosa, *erga omnes*) y
+derecho personal (relación persona-persona, *inter partes*). La concepción
+**obligacionista** o **personalista** (Planiol) objeta que no puede haber relación jurídica
+entre una persona y una cosa: lo que hay es una obligación pasiva universal (todos los demás
+deben **abstenerse** de perturbar). El debate parece teórico, pero ilumina por qué el derecho
+real necesita **publicidad** (para obligar a "todos" a respetarlo, todos deben poder
+conocerlo).
+
+**¿Numerus clausus o numerus apertus?** ¿Pueden los particulares **crear** derechos reales
+nuevos por su voluntad, o solo existen los que la ley tipifica? La tradición dominante
+(incluida la mexicana) adopta el **numerus clausus** (lista cerrada): los derechos reales
+solo los crea la ley, porque afectan a terceros (a diferencia de los contratos, donde rige la
+autonomía de la voluntad). *Por qué importa:* explica por qué no puedes "inventar" una
+garantía atípica con efectos reales; debes encajarla en las figuras legales (prenda,
+hipoteca, fideicomiso).
+
+**Propiedad absoluta vs. función social.** El debate del siglo XX (sección 2.3): la propiedad
+liberal (absoluta y exclusiva, Code 1804) frente a la propiedad como función social (Duguit,
+art. 27 mexicano). Hoy nadie sostiene la propiedad ilimitada; la discusión es **cuánta**
+regulación e intervención admite sin vaciar el derecho (relevante en expropiaciones,
+regulación ambiental, urbanismo).
+
+**Sistemas de transmisión: consensual, título-modo y abstracción.** Tres modelos (recuerda el
+Libro 1): el **consensual** francés/mexicano (el contrato transmite la propiedad de bienes
+ciertos por el solo acuerdo); el de **título y modo** (España, antes Roma clásica: contrato +
+entrega); y el **abstracto** alemán (negocio dispositivo separado y abstracto del
+obligacional). La elección del sistema afecta cuándo pasa el riesgo y la propiedad —cuestión
+clave al estructurar la transmisión de activos en un *asset deal*.
+
+## 7. Autores más importantes
+
+**Doctrina mexicana:**
+- **Rafael Rojina Villegas**, *Derecho Civil Mexicano*, t. III (Bienes, derechos reales y
+  posesión): la exposición de referencia.
+- **Ramón Sánchez Medal** y **Ernesto Gutiérrez y González** (este último, *El Patrimonio*):
+  tratamiento profundo del patrimonio y los derechos reales.
+- **Manuel Borja Soriano** (en cuanto a la transmisión y las garantías).
+- Doctrina mercantil sobre garantías modernas: autores que comentan las reformas a la
+  **LGTOC** (prenda sin transmisión de posesión y fideicomiso de garantía).
+
+**Doctrina comparada y clásica:**
+- **Marcel Planiol** (teoría obligacionista del derecho real).
+- **León Duguit** (función social de la propiedad).
+- **Friedrich Carl von Savigny** (teoría de la posesión).
+- **Rudolf von Jhering** (teoría de la posesión, en debate con Savigny).
+
+## 8. Derecho comparado
+
+- **Francia:** propiedad "absoluta" del Code (art. 544), matizada por la función social;
+  hipoteca registral; reforma de garantías (2006, 2021) que modernizó prendas y garantías
+  mobiliarias.
+- **Alemania (BGB):** sistema **abstracto** de transmisión; *Hypothek* y *Grundschuld* (deuda
+  inmobiliaria abstracta, muy flexible para el crédito); registro inmobiliario robusto
+  (*Grundbuch*).
+- **Estados Unidos:** el **Article 9 del Uniform Commercial Code (UCC)** es el modelo mundial
+  de **garantías mobiliarias** (*security interests*): un sistema unificado de constitución
+  (*attachment*), perfeccionamiento (*perfection*, típicamente por *filing*) y prioridad. La
+  reforma mexicana de garantías mobiliarias y el RUG se inspiran en esta lógica.
+- **Common law en general:** *mortgage*, *charge* (fija y flotante), *pledge*, *lien*. La
+  **floating charge** (garantía flotante sobre activos cambiantes, como inventario) es una
+  herramienta poderosísima del financiamiento anglosajón, análoga funcional a la prenda sin
+  transmisión sobre bienes presentes y futuros.
+- **Lección para el corporativo internacional:** en financiamientos cross-border conviven
+  garantías regidas por distintas leyes (la hipoteca mexicana sobre el inmueble, la prenda
+  sobre acciones de la holding extranjera bajo su ley); el abogado coordina la **toma de
+  garantías multijurisdiccional** y su prioridad.
+
+## 9. Relación con México
+
+Régimen en el **Código Civil Federal** (Libro Segundo, "De los Bienes") y leyes especiales:
+- **Clasificación de bienes:** arts. 747 y ss. (muebles e inmuebles, corporales e
+  incorporales, etc.).
+- **Propiedad:** arts. 830 y ss.; límites y función social en el **art. 27 constitucional**.
+- **Posesión:** arts. 790 y ss.; usucapión: arts. 1135 y ss.
+- **Copropiedad:** arts. 938 y ss.; **usufructo, uso y habitación:** arts. 980 y ss.;
+  **servidumbres:** arts. 1057 y ss.
+- **Transmisión:** art. 2014 (la propiedad de cosa cierta se transmite por mero efecto del
+  contrato); oponibilidad por inscripción (arts. 3007 y ss., Registro Público).
+- **Garantías reales:** **prenda** e **hipoteca** en el CCF (arts. 2856 y ss. prenda; 2893 y
+  ss. hipoteca); **prenda sin transmisión de posesión** y **fideicomiso de garantía** en la
+  **LGTOC** (arts. 346 y ss. y 395 y ss., reformas de 2000/2003).
+- **Registro Único de Garantías Mobiliarias (RUG):** previsto en el **Código de Comercio**,
+  publicidad electrónica de garantías sobre muebles.
+- **Recursos del Estado:** el **art. 27 constitucional** reserva a la Nación el dominio de
+  recursos del subsuelo, aguas y otros, y regula la propiedad de extranjeros (zona
+  restringida: franja de 100 km en fronteras y 50 km en playas, salvo vía fideicomiso).
+
+> **Advertencia federalista:** la materia civil es local; cada estado tiene su Código Civil y
+> su Registro Público de la Propiedad. La numeración del CCF suele coincidir, pero
+> **verifica** la entidad. Las garantías mobiliarias modernas (LGTOC, Código de Comercio) son
+> **federales**.
+
+## 10. Relación con otras materias
+
+- **Derecho Romano (Libro 1):** origen de propiedad, posesión y garantías (*pignus*,
+  *hypotheca*).
+- **Personas (Libro 5):** el **patrimonio** (atributo) está integrado por los bienes y
+  derechos que aquí se estudian.
+- **Acto Jurídico (Libro 4):** la transmisión y la constitución de garantías son actos
+  jurídicos (con su forma y validez).
+- **Obligaciones (Libro 7):** distinción derecho real / derecho de crédito; las garantías
+  **aseguran** obligaciones.
+- **Contratos (Libro 8):** compraventa (transmite propiedad), mutuo (genera la deuda
+  garantizada), prenda e hipoteca (contratos de garantía).
+- **Títulos y operaciones de crédito / LGTOC (Nivel III):** prenda sin transmisión,
+  fideicomiso de garantía, crédito refaccionario y de habilitación.
+- **Concurso Mercantil (Nivel III):** la **preferencia** de los acreedores con garantía real
+  define quién cobra primero en la insolvencia.
+- **Financiamiento Corporativo y M&A (Nivel IV):** el **security package** es derecho real
+  aplicado al crédito de adquisición.
+
+## 11. Aplicación profesional
+
+1. **Diseñar el paquete de garantías** de un financiamiento: elegir la garantía idónea para
+   cada activo, su forma, perfeccionamiento, registro y mecanismo de ejecución.
+2. **Due diligence de activos:** verificar titularidad (propiedad inscrita), gravámenes
+   existentes (hipotecas, prendas, embargos), posesión y litigios sobre los bienes.
+3. **Estructurar la transmisión de activos** (*asset deal*): determinar cómo y cuándo pasa la
+   propiedad y el riesgo, y qué formalidades/registros se requieren.
+4. **Coordinar el cierre registral:** orquestar la inscripción simultánea de garantías para
+   asegurar prioridad el día del *closing*.
+5. **Evaluar prioridad entre acreedores:** analizar la prelación y los riesgos de
+   subordinación o de garantías previas no reveladas.
+
+## 12. Errores comunes
+
+- **Confundir derecho real y derecho personal.** El real recae sobre la cosa (*erga omnes*,
+  con persecución y preferencia); el personal, sobre la conducta de alguien (*inter partes*).
+  Tratar un crédito simple como si tuviera garantía real es un error grave.
+- **Confundir propiedad y posesión.** Quien posee no siempre es dueño; el registro, no la
+  posesión, suele decidir la titularidad oponible.
+- **Olvidar el perfeccionamiento y el registro de la garantía.** Una garantía no inscrita
+  puede ser **inoponible** a terceros y perder prioridad: el error más caro en
+  financiamiento.
+- **Querer dar en hipoteca bienes muebles o en prenda inmuebles.** Hipoteca = inmuebles;
+  prenda = muebles (las **acciones** son muebles: se **prendan**).
+- **Ignorar la zona restringida** para propiedad de inmuebles por extranjeros (fideicomiso).
+- **Subestimar la copropiedad y el régimen conyugal** del accionista persona física en una
+  venta de acciones.
+
+## 13. Cómo lo preguntaría un profesor
+
+- *"Distinga derecho real y derecho personal, con sus caracteres y un ejemplo de cada uno."*
+- *"¿Qué facultades integran la propiedad y cuáles son sus límites en el derecho mexicano?"*
+  (Función social, art. 27; expropiación; abuso del derecho.)
+- *"Explique los poderes de persecución y preferencia de las garantías reales."*
+- *"Compare prenda, hipoteca y fideicomiso de garantía: objeto, posesión, forma y registro."*
+- *"¿Por qué las acciones de una S.A. se dan en prenda y no en hipoteca?"*
+- *"¿Qué es el *numerus clausus* de los derechos reales y por qué se justifica?"*
+
+> El sinodal valora que conectes la **lógica económica** (por qué existe la garantía) con la
+> **técnica** (cómo se perfecciona y ejecuta).
+
+---
