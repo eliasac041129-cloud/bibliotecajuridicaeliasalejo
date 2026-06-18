@@ -606,3 +606,73 @@ concreto y conocido**, con **indemnización especial** (sin tope, fuera de cesta
 antes de cerrar**, con **condición al cierre**; el **riesgo de que el mundo cambie** entre firma y cierre,
 con la **MAC**; y lo que el vendedor **revela**, sale de la garantía vía **disclosure schedules**. El SPA
 es, literalmente, la **due diligence convertida en cláusulas**.
+
+### 14.D · Mecanismos de precio y el APA (cómo se fija el precio y el contrato del asset deal)
+
+**Los mecanismos de precio (cómo se determina y ajusta lo que se paga).** El "precio" de una empresa rara
+vez es un número fijo y simple, porque la empresa **cambia** entre el momento en que se acuerda el precio y
+el cierre (gana o pierde caja, sube o baja su deuda, varía su capital de trabajo). El SPA debe definir
+**cómo se fija y ajusta** el precio. Las dos grandes filosofías:
+
+- **Completion accounts (cuentas al cierre):** se acuerda un **precio base** (sobre un *enterprise value*)
+  y se **ajusta** tras el cierre según el balance **real al día del cierre**, típicamente por tres
+  variables: **deuda neta** (más deuda → menos precio), **caja** (más caja → más precio) y **capital de
+  trabajo** (respecto de un nivel "normal" objetivo). Ventaja: el precio refleja la empresa **exactamente
+  al cierre**. Desventaja: exige un **balance de cierre auditado** y suele generar **disputas** sobre las
+  cifras (que se resuelven con un experto independiente).
+- **Locked box (caja cerrada):** se fija un **precio fijo** sobre un balance de referencia **pasado** (el
+  "*box*") y **no hay ajuste posterior**; desde la fecha del *box*, los riesgos y beneficios económicos
+  pasan al **comprador** (con protección contra "fugas de valor" —*leakage*—, como dividendos o pagos a
+  los vendedores entre el *box* y el cierre). Ventaja: **certeza** y simplicidad, sin disputas
+  post-cierre. Desventaja: exige confianza en un balance pasado y una due diligence financiera sólida.
+  Muy popular en Europa y en deals de *private equity*.
+
+A esto se suman dos mecanismos que **difieren o condicionan** parte del precio:
+- **Earn-out:** una porción del precio se paga **en el futuro** solo si la *target* **alcanza ciertos
+  resultados** (ventas, EBITDA, hitos). Sirve para **cerrar la brecha de valuación** (el vendedor cree que
+  vale más; el comprador, menos: "demuéstramelo y te pago más"). Es **fuente frecuente de litigios**
+  (cómo se mide el resultado, qué pasa si el comprador gestiona la empresa de forma que reduzca el
+  *earn-out*), por lo que su redacción debe ser **quirúrgica**.
+- **Escrow / holdback:** retención de parte del precio en garantía de indemnizaciones (visto en 14.C);
+  también puede retenerse para garantizar el **ajuste** de *completion accounts*.
+
+**El APA (*Asset Purchase Agreement*): el contrato del asset deal.** Cuando la estructura elegida (Libro 3)
+es la compra de **activos** y no de acciones, el documento es el **APA**. Comparte mucho con el SPA (tiene
+reps, covenants, condiciones, indemnización, MAC), pero su **diferencia esencial** está en cómo describe lo
+que se transmite:
+
+- **El perímetro: activos incluidos y excluidos.** El corazón del APA es la **descripción precisa** de los
+  ***purchased assets*** (qué se compra: inmuebles, maquinaria, inventario, contratos, PI, cuentas por
+  cobrar, permisos) y de los ***excluded assets*** (qué se queda el vendedor). Cualquier ambigüedad genera
+  conflicto: en un APA, **lo que no está claramente incluido, se queda fuera**.
+- **Pasivos asumidos y excluidos (*assumed / excluded liabilities*).** El APA define **qué pasivos** asume
+  el comprador (a veces ninguno; a veces los del negocio en marcha) y cuáles **no** (los "del pasado", que
+  quedan con el vendedor). Aquí está la **gran ventaja** del asset deal (aislar pasivos —Libro 3—) **y** su
+  límite: recuerda que ciertos pasivos (**laborales, fiscales, ambientales**) pueden **seguir al negocio**
+  por mandato legal, pese a lo pactado.
+- **Las cesiones y consentimientos (la complejidad del asset deal).** Como no se transmite una sociedad
+  sino activos uno por uno (**sucesión particular** —Libro 3—), el APA debe articular la **cesión** de cada
+  contrato (con el **consentimiento** de la contraparte cuando se requiera), la transmisión de inmuebles
+  (ante notario, con inscripción), la cesión de créditos (con notificación al deudor) y la transferencia de
+  PI (ante el IMPI). Esto vuelve el cierre del asset deal **más complejo y condicionado** que el de un
+  share deal: muchos consentimientos se convierten en **condiciones al cierre**.
+- **Cuestiones laborales (sustitución patronal).** El APA debe resolver la suerte de los **trabajadores**
+  (¿se transfieren por sustitución patronal?, ¿se recontratan?, ¿quién asume los pasivos laborales
+  acumulados?), un punto sensible y muchas veces decisivo.
+
+**SPA vs. APA (cuadro mental):**
+
+| | SPA (acciones) | APA (activos) |
+|---|---|---|
+| Qué se transmite | Acciones (la sociedad entera) | Activos y pasivos **descritos** |
+| Pasivos | Todos (de la sociedad) | Solo los **asumidos** (+ excepciones legales) |
+| Transmisión | Una operación | Cesión **individual** + consentimientos |
+| Reps clave | Título de acciones, todo el negocio | Título de **cada activo**, perímetro |
+| Cierre | Más simple | Más complejo (consentimientos como CP) |
+| Estructura del Libro 3 | Share deal | Asset deal |
+
+**La conexión que cierra el sistema:** el documento **sigue a la estructura**, y la estructura **sigue a la
+due diligence**. Si la DD reveló pasivos ocultos graves → estructura *asset deal* (Libro 3) → documento
+**APA** con perímetro y pasivos cuidadosamente delimitados. Si la prioridad era continuidad → *share deal*
+→ **SPA** con reps fuertes y consentimientos por *change of control* como condiciones. **Investigar →
+estructurar → documentar**: la cadena completa del M&A, ahora visible de principio a fin.
