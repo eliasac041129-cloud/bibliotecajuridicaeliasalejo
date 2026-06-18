@@ -1240,3 +1240,149 @@ JOINT VENTURE = ESTRUCTURA (L3, el vehículo)
 - **Competidores en JV:** *"colaborar sí, coludir no: scope acotado y murallas de información"*.
 - **MOU:** *"lo sustantivo no obliga; confidencialidad y exclusividad sí"*.
 - **Regla de oro:** *"colaborar es más difícil que comprar; el valor está en prever la salida"*.
+
+## 40. Resumen ejecutivo
+
+Más allá de comprar (M&A) y financiar (deuda), la **tercera gran vía** de la estrategia corporativa es
+**colaborar**: unir fuerzas con otra empresa para crear valor sin que una compre a la otra. Este libro
+estudia ese espectro, del contrato de suministro a la joint venture societaria. La **joint venture (JV)**
+es la figura central: dos o más empresas unen recursos para un propósito común, compartiendo **control,
+utilidades y riesgos**. Puede ser **equity JV** (crean una sociedad —la *JV co*— de la que son socios;
+duradera, institucional, con personalidad propia, vía S. de R.L./S.A./S.A.P.I.) o **contractual JV**
+(colaboran solo por contrato, sin sociedad; flexible y acotada, vía asociación en participación o
+consorcio). El **contrato de JV** es, en esencia, un **SHA especializado** (Libro 4): regula las
+**aportaciones** (capital, activos, tecnología, mercado), el **gobierno compartido** (consejo, **vetos**),
+y —lo más difícil y característico— el **deadlock** (escalamiento → experto → ruleta rusa/shoot-out →
+disolución) y la **salida** (lock-up, ROFR, tag/drag, put/call). Junto a la JV, los **contratos
+estratégicos**: **distribución** (comprar para revender, distinta de la agencia y la franquicia),
+**suministro** (entrega continuada, con *take-or-pay*, precio indexado, exclusividad), **licencia** y
+transferencia de tecnología, **alianzas** de I+D, y los instrumentos preliminares (**MOU**, acuerdo marco,
+NDA).
+
+La lección rectora: **colaborar es más difícil de estructurar que comprar**, porque nadie manda del todo y
+la relación es de largo plazo; por eso el mayor valor del abogado está en **anticipar el conflicto** —
+diseñar el gobierno, el deadlock y la salida **antes** de que surja el problema— y en elegir el **grado de
+integración** correcto. El límite regulatorio omnipresente es el **derecho de la competencia** (las JV
+entre competidores y las exclusividades pueden restringir la competencia o degenerar en colusión). Y la
+síntesis para tu perfil: la **JV integra todo el Nivel IV** —estructura (L3), SHA/gobierno (L4), contratos
+relacionados y financiamiento (L5)— al servicio de una alianza. Quien la domina ha unido comprar, financiar
+y colaborar en un solo oficio: el de **estructurar operaciones corporativas complejas**.
+
+## 41. Checklist
+
+**La decisión y el vehículo:**
+- [ ] ¿**Comprar, construir o colaborar**? Si colaborar, ¿qué **grado de integración** (suministro,
+  alianza, JV contractual, equity JV)?
+- [ ] ¿**Equity JV** (sociedad: S. de R.L./S.A./S.A.P.I.) o **contractual JV** (A en P/consorcio)? ¿Por qué?
+
+**El contrato de JV (gobierno y salida):**
+- [ ] ¿**Aportaciones** valuadas y porcentajes claros? ¿**Capital calls** futuros y consecuencias del que
+  no aporta?
+- [ ] ¿**Gobierno**: consejo, **materias reservadas/vetos**, dirección, información?
+- [ ] ¿**Deadlock**: escalamiento → experto/mediación → compra-venta forzosa → disolución? ¿Calibrado para
+  no favorecer al más rico?
+- [ ] ¿**Salida**: lock-up, ROFR/ROFO, tag, drag, put/call, cambio de control del socio, default?
+- [ ] ¿**PI** (aportada, creada, mejoras, al salir) pactada con precisión?
+- [ ] ¿**Contratos relacionados** (licencia/suministro/distribución JV-socios) a **precio de mercado**?
+
+**Contratos estratégicos y límites:**
+- [ ] **Distribución/suministro:** ¿territorio, exclusividad, mínimos/take-or-pay, precio, terminación e
+  indemnización?
+- [ ] ¿Revisaste el **derecho de la competencia** (concentración notificable, colusión entre competidores,
+  restricciones verticales)?
+- [ ] ¿**Inversión extranjera** y normas **sectoriales**?
+- [ ] **MOU/preliminares:** ¿claro qué es vinculante (confidencialidad/exclusividad) y qué no?
+
+## 42. Bibliografía comentada
+
+- **Doctrina y modelos de *Joint Venture Agreements* (y LLC operating agreements / shareholders'
+  agreements).** El "cómo" práctico del gobierno, el deadlock y la salida; material de los grandes
+  despachos.
+- **Ley General de Sociedades Mercantiles (S. de R.L., S.A. y asociación en participación).** Los vehículos
+  de la JV en México.
+- **Ley del Mercado de Valores (S.A.P.I.).** El vehículo que valida las cláusulas de socios (vetos,
+  drag/tag) de la equity JV.
+- **Ley Federal de Competencia Económica y guías de la COFECE.** El límite clave: concentraciones,
+  colusión y restricciones verticales en alianzas y distribución.
+- **Directrices de cooperación horizontal (UE) y *Antitrust Guidelines for Collaborations* (EE.UU.).** El
+  marco para estructurar alianzas entre competidores sin violar la competencia.
+- **Ley Federal de Protección a la Propiedad Industrial y doctrina de licencias.** PI aportada, creada,
+  mejoras; franquicia.
+- **Contratos modelo de la ICC (distribución, agencia, JV) y UNIDROIT.** Referencias para la colaboración
+  internacional.
+
+## 43. Ruta hacia el siguiente libro
+
+Has completado la **familia contractual de tu perfil**: ya dominas comprar (Libros 1-4), financiar (Libro
+5) y **colaborar** (este libro). El siguiente paso es entrar al mundo de los **inversionistas
+profesionales** que usan todas estas herramientas para crear valor: los fondos.
+
+- **Siguiente libro:** *[Libro 7 · Private Equity y Venture Capital](./07-Private-Equity-y-Venture-Capital.md)* —
+  cómo invierten los fondos de **capital privado** (PE) y de **capital de riesgo** (VC): la estructura del
+  fondo (GP/LP), la tesis de inversión, las **rondas** de VC (semilla, Serie A, B...), los *term sheets* de
+  inversión, las **preferencias de liquidación** y la **antidilución**, el **vesting** de fundadores, el
+  **LBO** del PE (que ya viste en estructura y financiamiento), y las **salidas** (venta, IPO). Es donde
+  convergen el M&A, el SHA, el financiamiento y la JV en la lógica del **inversionista**.
+- **Conexión inmediata:** la inversión de un fondo en una empresa **es** una operación que combina todo lo
+  que ya sabes —una compra/suscripción (Libro 4), un **SHA** con preferencias y salidas (Libro 4), a veces
+  **deuda/LBO** (Libros 3 y 5), y a menudo se estructura como una forma de **coinversión** (este libro)—. El
+  Libro 7 te enseña a verlo desde el lado del **inversionista profesional**.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque la colaboración —la JV, la alianza, el contrato estratégico— es la **tercera herramienta** del
+estratega corporativo, junto a comprar y financiar, y para tu perfil (contratos estratégicos + operaciones
+complejas) es **esencial**. Las JV son de las operaciones **más exigentes** que existen: combinan derecho
+societario, contractual, de competencia, fiscal, de PI e internacional, y son **a la medida** (no hay
+plantilla), lo que exige criterio y creatividad. Son, además, el **vehículo natural** de la
+internacionalización, de los grandes proyectos de infraestructura y energía, y de las alianzas
+tecnológicas —operaciones estratégicas de primer nivel—. Y forman al abogado en la habilidad más fina del
+gobierno corporativo: **estructurar relaciones de poder compartido y anticipar el conflicto**. El que
+domina la colaboración, sumada a la compra (Libros 1-4) y al financiamiento (Libro 5), maneja **todo el
+repertorio** de las operaciones corporativas complejas —exactamente el especialista que quieres ser—.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+> *"Cuando un cliente me dice 'quiero hacer negocios con esta otra empresa', mi primera pregunta no es
+> jurídica, es estratégica: **¿quieres comprarla, construir solo, o aliarte?** Si la respuesta es aliarse,
+> la segunda pregunta es **¿cuánto?** —porque montar una equity JV para algo que un contrato de suministro
+> resolvería es matar moscas a cañonazos—. Y si vamos a una JV de verdad, mi obsesión no es el día de la
+> boda, sino el día del **divorcio**: paso más tiempo negociando el **deadlock** y las **salidas** que las
+> cláusulas felices, porque sé que el 50/50 que hoy se quieren, mañana puede no ponerse de acuerdo en
+> nada, y si no diseñé la salida, el activo común se pudre en la pelea. Vigilo tres cosas más como un
+> halcón: el **derecho de la competencia** (si mi cliente y el socio compiten en algo, acoto el scope y
+> levanto murallas de información —una JV no puede ser la coartada de una colusión—); la **propiedad
+> intelectual** (de quién es lo que la JV cree, y quién se lo lleva al salir); y los **contratos entre la JV
+> y los socios**, que deben ser a precio de mercado para que nadie ordeñe a la JV. Estructurar una JV es lo
+> más cerca que estoy de ser **arquitecto y consejero matrimonial** a la vez."*
+
+## ✦ Errores que cuestan millones
+
+1. **JV sin mecanismos de salida ni deadlock.** Socios atrapados en una parálisis 50/50 que destruye el
+   negocio mientras pelean. *Prevención:* deadlock escalonado y salidas (put/call, drag/tag, disolución)
+   desde el inicio.
+2. **Cruzar la línea de la competencia.** Estructurar una alianza entre competidores que se convierte en
+   canal de **colusión** (sanciones gravísimas, incluso penales). *Prevención:* scope acotado, murallas de
+   información, notificación a la COFECE, eficiencias reales demostrables.
+3. **PI mal pactada.** No definir de quién es lo que la JV crea ni qué pasa con las mejoras al salir →
+   litigio feroz que destruye el valor. *Prevención:* cláusula de PI precisa al inicio.
+4. **Contratos relacionados que ordeñan a la JV.** Permitir que un socio le venda/compre a la JV fuera de
+   mercado, extrayendo valor del otro. *Prevención:* *arm's length* y aprobación del socio no interesado.
+5. **Confundir el grado de integración.** Una equity JV rígida cuando bastaba un contrato (o una alianza
+   informal cuando se necesitaba estructura). *Prevención:* el **mínimo de integración** que cumple el
+   objetivo.
+
+---
+
+> *Cierre del Libro 6.* Has completado la **tercera vía** de la estrategia corporativa —la colaboración— y,
+> con ella, la **familia contractual de tu perfil**: de la JV societaria a la contractual, de la
+> distribución al suministro estratégico, de las alianzas de I+D a los acuerdos marco. Más importante que
+> las figuras, te llevas la lección de que **estructurar una relación de poder compartido y anticipar su
+> ruptura** es uno de los retos más finos del derecho corporativo —y que la JV **sintetiza** todo lo
+> aprendido: estructura, SHA, contratos y financiamiento al servicio de una alianza—. Ya manejas el
+> repertorio completo: **comprar, financiar y colaborar**. Ahora subimos al lugar donde estas herramientas
+> se usan con mayor intensidad y sofisticación: en el **Libro 7 · Private Equity y Venture Capital**
+> aprenderás a verlas desde el lado del **inversionista profesional** que las combina para crear —y
+> capturar— valor.
