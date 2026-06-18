@@ -837,3 +837,125 @@ SHARE PURCHASE AGREEMENT
   igualito"*.
 - **Fianza:** *"orden y excusión... salvo que renuncies (y entonces pagas tú, ya)"*.
 - **Consensualismo:** *"en cosa cierta, el 'sí' ya transmite (art. 2014)"*.
+
+
+## 40. Resumen ejecutivo
+
+Los contratos civiles típicos son las **plantillas de obligaciones** con las que se arma toda
+operación. La **compraventa** —cosa, precio cierto y en dinero, consentimiento— es la más
+importante: en México transmite la propiedad por **consensualismo** (art. 2014) y trae de fábrica
+el **saneamiento** (por **evicción** y por **vicios ocultos**), que es el ancestro directo de las
+**representations & warranties** y de la **indemnización** de un SPA. El **mutuo** es la base del
+**crédito**: entrega de capital a devolver con interés, limitado por la **usura**; evoluciona al
+crédito bancario y al *acquisition finance*. El **mandato** y los **poderes** (art. 2554: pleitos y
+cobranzas, administración y **dominio**) son la raíz de la **representación** corporativa: auditar
+facultades —que quien firma tenga poder de **dominio** y, en su caso, para suscribir títulos— es de
+las verificaciones más críticas de la práctica. Las **garantías** —**fianza** (personal, accesoria,
+con beneficios de orden y excusión usualmente renunciados), **prenda** (mobiliaria, incluida la
+**prenda sobre acciones**) e **hipoteca**— hacen cobrable el crédito y forman el *security
+package*.
+
+La idea rectora del libro: **el SPA y el contrato de crédito no son figuras nuevas; son contratos
+civiles típicos elevados a su máxima sofisticación**. Quien domina la compraventa y su saneamiento,
+el mutuo y la usura, el mandato y los poderes, y las garantías y su accesoriedad, posee el
+**vocabulario vivo** del derecho de los negocios y puede leer cualquier contrato corporativo
+reconociendo, bajo su ropaje, la institución civil madre y todo su régimen. Este es el puente
+directo al Derecho Mercantil (Nivel III) y al Corporate Law (Nivel IV).
+
+## 41. Checklist
+
+**Compraventa / SPA:**
+- [ ] ¿Cosa, **precio cierto y en dinero**, consentimiento bien definidos?
+- [ ] ¿Momento de transmisión de propiedad y **riesgo** (consensualismo / signing-closing)?
+- [ ] ¿**Saneamiento**/reps: title warranty (evicción) y estado del negocio (vicios)? ¿Cap/basket?
+- [ ] ¿Forma y **registro** (inmuebles; libro de acciones)?
+
+**Mutuo / crédito:**
+- [ ] ¿Interés ordinario y moratorio documentados, de mercado (riesgo de **usura**)?
+- [ ] ¿Garantías constituidas, perfeccionadas e inscritas?
+
+**Mandato / poderes:**
+- [ ] ¿Quien firma tiene poder de **dominio** (si dispone/grava) y para **suscribir títulos**?
+- [ ] ¿El poder está **vigente** (no revocado) y lo otorgó el órgano facultado?
+
+**Garantías:**
+- [ ] ¿Fianza/garantía: beneficios de orden y excusión (¿renunciados?)? ¿Garantes **ratifican**
+  novaciones?
+- [ ] ¿Prenda sobre acciones / hipoteca / fideicomiso bien tomados y registrados?
+
+## 42. Bibliografía comentada
+
+- **Sánchez Medal, R., *De los Contratos Civiles* (Porrúa).** El tratado mexicano de cabecera en
+  contratos en particular; claridad y rigor. **Empieza aquí.**
+- **Pérez Fernández del Castillo, B., *Contratos Civiles* (Porrúa).** Imprescindible para la
+  **redacción** y la técnica de poderes; mirada notarial muy práctica.
+- **Rojina Villegas, R., *Derecho Civil Mexicano* (contratos).** Exposición sistemática y completa.
+- **Zamora y Valencia, M. Á., *Contratos Civiles*.** Claro y bien estructurado para repasar.
+- **Schlechtriem & Schwenzer, *Commentary on the CISG*.** Para la compraventa internacional; clave
+  para M&A cross-border y comercio exterior.
+- **Treitel/Peel, *The Law of Contract*; Farnsworth, *Contracts* (UCC).** Para entender *warranties*,
+  *guarantee* vs. *indemnity* y conectar con el SPA anglosajón.
+
+## 43. Ruta hacia el siguiente libro
+
+Lo que acabas de aprender —los contratos típicos y su régimen— será **indispensable para
+comprender** la **responsabilidad civil**: qué pasa cuando se incumple un contrato o se causa un
+daño, cómo se cuantifica y cómo se asigna, materia que está detrás de toda **indemnización** y de
+toda cláusula de *liability* en un contrato corporativo.
+
+- **Siguiente libro:** *[Nivel II · Libro 3] Responsabilidad civil* (contractual y
+  extracontractual; objetiva; daño moral; cuantificación) — la base de las cláusulas de
+  indemnización y limitación de responsabilidad del SPA.
+- **Conexión de largo alcance:** la **compraventa y su saneamiento** se reencuentran, ya con plena
+  potencia, en el **Nivel IV** (Documentación de M&A: SPA, reps & warranties, indemnity). Vuelve a
+  las secciones 14.A y 20 cuando llegues allí: reconocerás que el SPA es esta compraventa, perfecta.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque **estos contratos son las piezas con las que se construye cada operación**. Una adquisición
+es una **compraventa** (de acciones o activos) con su **saneamiento** (reps & warranties);
+financiada con un **mutuo/crédito** sujeto a límites de interés; firmada mediante **poderes** de
+dominio que hay que verificar; y **garantizada** con fianza corporativa, prenda sobre acciones e
+hipoteca. El abogado que reconoce, bajo el SPA de 200 páginas, la compraventa civil y su régimen de
+saneamiento, **entiende lo que firma**; el que no, solo copia formatos. Y el que sabe que un poder
+de administración no alcanza para vender, o que una novación libera al fiador, **evita los errores
+que cuestan millones**.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+> *"Para mí, un SPA es una **compraventa con esteroides**. Lo descompongo siempre igual: cosa
+> (¿acciones o activos?), precio (¿fijo, ajustable, earn-out?), transmisión (¿cuándo pasa la
+> propiedad y el riesgo: signing o closing?) y, sobre todo, **garantía** (las reps son saneamiento;
+> el indemnity, el remedio; el cap/basket, su límite). Antes de discutir cláusulas, verifico tres
+> cosas civiles: que el vendedor **sea dueño** (title), que **quien firma pueda** (poder de
+> dominio) y que las **garantías** del financiamiento estén bien tomadas y no se caigan con una
+> novación. El derecho civil de contratos es el **acero** bajo el concreto del deal: si está bien
+> puesto, el edificio aguanta."*
+
+## ✦ Errores que cuestan millones
+
+1. **Firmar con poder insuficiente.** Un SPA o una hipoteca firmados por un apoderado sin poder de
+   **dominio** son ineficaces frente a la sociedad: el *deal* puede caerse o quedar impugnable.
+   *Prevención:* revisar la escritura del poder (tipo, vigencia, órgano otorgante) **antes** de
+   firmar.
+2. **Novar un crédito y perder a los garantes.** Modificar un crédito como "novación" sin que los
+   **fiadores/garantes consientan** los libera (accesoriedad): el banco se queda sin las garantías
+   personales. *Prevención:* ratificación de garantes en toda modificación.
+3. **Descuidar el saneamiento / *as is* mal entendido.** Comprar "as is" sin reps adecuadas, o no
+   denunciar el pleito al vendedor en una evicción, deja al comprador sin remedio ante pasivos
+   ocultos o defectos de titularidad. *Prevención:* reps & warranties robustas + indemnización +
+   due diligence.
+4. **Tasas usurarias en el financiamiento.** Intereses excesivos pueden ser **moderados
+   judicialmente**, reduciendo la recuperación. *Prevención:* tasas de mercado, documentadas.
+5. **Ignorar el régimen conyugal del vendedor persona física.** Vender acciones de un casado por
+   **sociedad conyugal** sin el consentimiento del cónyuge puede viciar la operación. *Prevención:*
+   verificar el régimen y obtener consentimientos.
+
+---
+
+> *Cierre del Libro.* Tienes ya el **vocabulario vivo** de los contratos. En el siguiente libro
+> veremos qué ocurre cuando algo sale mal —la **responsabilidad civil**—, la materia que da
+> contenido y límite a toda **indemnización**. Seguimos construyendo al abogado de M&A, contrato a
+> contrato.
