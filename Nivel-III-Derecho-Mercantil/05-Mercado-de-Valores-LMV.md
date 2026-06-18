@@ -181,3 +181,104 @@ Para la empresa, el mercado de valores es la **gran liga del financiamiento**:
 El abogado corporativo de élite asesora **IPOs, emisiones de deuda, OPAs y el gobierno corporativo**
 de las emisoras: el trabajo más sofisticado y mejor remunerado del derecho de los negocios, y la
 antesala directa del M&A del Nivel IV.
+
+
+## 10. Definiciones doctrinales
+
+- **Mercado de valores (doctrina):** el conjunto de mecanismos, instituciones y normas a través de
+  los cuales se emiten, colocan y negocian **valores** entre el público inversionista, bajo
+  supervisión estatal, con el fin de canalizar el ahorro hacia la inversión productiva.
+- **Valor (doctrina):** instrumento —típicamente desmaterializado— que representa un **derecho de
+  crédito** (deuda), de **participación** (acciones) o de otra índole, **susceptible de oferta y
+  negociación** en el mercado, y emitido en **serie o en masa**. Comparte naturaleza con el título de
+  crédito (Libro 3) pero con vocación de **circulación masiva** y **estandarizada**.
+- **Mercado primario vs. secundario:** en el **primario**, la emisora **coloca** los valores por
+  primera vez y recibe el capital (IPO, emisión de deuda); en el **secundario**, los inversionistas
+  los **negocian entre sí** en la bolsa (la emisora ya no recibe dinero, pero el secundario da
+  **liquidez** y forma el **precio**).
+- **Full disclosure (principio rector):** la idea —de raíz estadounidense (Securities Act 1933)— de
+  que la protección del inversionista se logra **obligando a revelar** información veraz, suficiente y
+  oportuna, para que **el inversionista decida**, no prohibiéndole invertir.
+
+> **Lectura del Consejo:** el mercado de valores no protege al inversionista diciéndole "esto es
+> buena inversión"; lo protege **obligando a la emisora a decir la verdad** (*disclosure*) y
+> **castigando** al que usa información privilegiada o manipula. La premisa es la **información**:
+> quien lee bien un **prospecto** y entiende el régimen de *disclosure* domina la mitad de la materia.
+
+## 11. Definiciones legales (LMV — verificar versión vigente)
+
+- **Objeto de la LMV (art. 1):** regular la oferta pública de valores, su intermediación, las
+  actividades de las personas y entidades del mercado, la organización de las bolsas y del depósito
+  (Indeval), y la protección del público inversionista y la transparencia del mercado.
+- **Valor (art. 2):** las acciones, obligaciones, bonos, certificados, **certificados bursátiles** y
+  demás títulos y documentos que se emitan **en serie o en masa** y sean objeto de oferta pública o
+  intermediación.
+- **Oferta pública (art. 2):** el ofrecimiento, con o sí intermediación, que se haga **al público en
+  general** o a ciertas clases de inversionistas, a través de medios masivos, para suscribir,
+  enajenar o adquirir valores.
+- **Emisora / S.A.B.:** sociedad anónima **bursátil**, cuyas acciones (o valores) están inscritas en
+  el **Registro Nacional de Valores (RNV)** y cotizan; sujeta a gobierno corporativo reforzado (arts.
+  22 y ss.: consejo, comités, deberes de los consejeros y del director general).
+- **S.A.P.I. y S.A.P.I.B.:** etapas previas/de transición hacia la S.A.B. (Libro 2 Nivel III).
+- **Intermediarios (casas de bolsa) y bolsas:** régimen de las casas de bolsa, de las bolsas (BMV,
+  BIVA) y del **Indeval** (depósito, administración y liquidación de valores).
+- **Información privilegiada y manipulación (arts. 362 y ss., y delitos arts. 376 y ss.):** prohibición
+  del **uso de información privilegiada** (*insider trading*) y de la **manipulación del mercado**,
+  con sanciones administrativas y **penales**.
+- **Oferta pública de adquisición (OPA) — arts. 92 y ss.:** régimen de las ofertas para adquirir el
+  control de emisoras y la protección de los accionistas minoritarios.
+
+## 12. Definición sencilla
+
+El **mercado de valores** es "la gran feria del dinero": donde las empresas que necesitan **mucho**
+capital lo piden al **público** (millones de inversionistas), entregándoles **valores** —pedacitos de
+la empresa (**acciones**) o promesas de pago (**deuda**)— que luego se **compran y venden en la
+bolsa**. Para que la gente confíe y entregue su dinero, la ley exige a las empresas **decir la verdad**
+(información), **prohíbe** hacer trampa con información secreta (*insider trading*) o manipular precios,
+y vigila todo a través de la **CNBV**. Salir a bolsa (**IPO**) convierte a la empresa en **S.A.B.**:
+consigue mucho capital, pero a cambio debe ser **transparente** y tener **buen gobierno**.
+
+## 13. Conceptos fundamentales
+
+- **Valor:** instrumento emitido en serie/masa, objeto de oferta pública (acciones, deuda,
+  estructurados).
+- **Mercado de capitales vs. de deuda:** **capitales** = acciones (participación); **deuda** =
+  certificados bursátiles, obligaciones (crédito). **Mercado de dinero** = deuda de corto plazo.
+- **Mercado primario vs. secundario:** colocación inicial (la emisora recibe el capital) vs.
+  negociación posterior entre inversionistas (liquidez y precio).
+- **Oferta pública vs. privada:** dirigida al **público en general** (regulada, con prospecto) vs. a
+  **inversionistas calificados/institucionales** (menos carga, *private placement*).
+- **IPO (Initial Public Offering / Oferta Pública Inicial):** la primera colocación de acciones de una
+  empresa al público; "salir a bolsa".
+- **Inscripción en el RNV (Registro Nacional de Valores) y listado en bolsa:** requisitos para que un
+  valor pueda ofrecerse y negociarse.
+- **Prospecto de colocación:** el documento **estrella** del *disclosure*: describe la emisora, su
+  negocio, sus **factores de riesgo**, su situación financiera y los términos de la oferta. Su veracidad
+  es responsabilidad de la emisora (y de quienes lo firman).
+- **Underwriting (colocación):** el proceso por el que un **intermediario** (casa de bolsa/banco de
+  inversión) coloca los valores entre los inversionistas; puede ser **en firme** (el intermediario
+  compra y asume el riesgo) o **a mejores esfuerzos** (best efforts).
+- **Intermediarios:** **casas de bolsa** (intermediación), **bancos de inversión** (estructuración),
+  **bolsas** (BMV, BIVA) e **Indeval** (depósito, custodia y liquidación —desmaterialización—).
+- **CNBV:** la **Comisión Nacional Bancaria y de Valores**, regulador y supervisor del mercado
+  (órgano de la administración, Libro 3 Nivel I).
+- **Instrumentos clave:**
+  - **Acciones** (capital): participación en la S.A.B.
+  - **Certificados bursátiles (CEBURES):** deuda de la emisora (corto o largo plazo).
+  - **Obligaciones:** deuda, a veces convertibles en acciones.
+  - **FIBRAS:** fideicomisos de inversión en bienes raíces (rentas inmobiliarias bursatilizadas).
+  - **CKDs / CERPIs:** certificados de capital de desarrollo / proyectos de inversión (vehículos para
+    canalizar inversión —incluidas las Afores— a **private equity**, infraestructura y proyectos).
+- **S.A.B. (Sociedad Anónima Bursátil):** la emisora; con **gobierno corporativo reforzado**:
+  **consejo de administración** con **consejeros independientes**, **comité de auditoría** y **comité
+  de prácticas societarias**, y **director general** con deberes fiduciarios (**diligencia** y
+  **lealtad**) agravados.
+- **Disclosure / revelación de eventos relevantes:** obligación de informar al mercado, de forma
+  veraz y oportuna, todo **hecho o evento relevante** que pueda influir en el precio del valor.
+- **Información privilegiada (*insider information*):** información relevante, **no pública**, cuyo uso
+  para operar valores está **prohibido** (*insider trading*); delito y falta administrativa.
+- **Manipulación de mercado:** operaciones o información falsa para alterar artificialmente el precio o
+  el volumen; prohibida.
+- **OPA (Oferta Pública de Adquisición):** oferta dirigida a los accionistas de una emisora para
+  **adquirir** sus acciones (típicamente para tomar el **control**); puede ser **voluntaria** u
+  **obligatoria** (al rebasar ciertos umbrales de control), y **amistosa** u **hostil**.
