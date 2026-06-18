@@ -401,3 +401,125 @@ Fija este vocabulario; es el idioma del M&A y lo usarás en cada operación de t
   (call, obliga a que le vendan) bajo ciertas condiciones.
 
 Con este vocabulario, entramos al **desarrollo absoluto**, donde diseccionamos cada documento por dentro.
+
+## 14. Desarrollo absoluto
+
+Esta es la sección central del libro. La desarrollamos en cinco bloques: **(A)** el **Term Sheet / LOI**
+—las bases de la negociación y la trampa de lo "no vinculante"—; **(B)** la **anatomía del SPA, parte I**
+—estructura, *representations & warranties*, *covenants* y *conditions*—; **(C)** la **anatomía del SPA,
+parte II** —*indemnification*, MAC, *disclosure schedules* y *sandbagging*—; **(D)** los **mecanismos de
+precio y el APA** —cómo se fija y ajusta el precio, y las particularidades del *asset deal*—; y **(E)** el
+**SHA** —gobierno, capital y salidas—. Estúdialos en ese orden: primero las bases, luego el contrato rey
+por dentro, después el precio y el asset deal, y al final el contrato del poder y la salida.
+
+### 14.A · El Term Sheet / LOI (las bases y la trampa de lo "no vinculante")
+
+El **Term Sheet** (u hoja de términos) y la **LOI** (carta de intención) son el **primer documento** de
+una operación: resumen las condiciones esenciales sobre las que las partes acuerdan **negociar** el
+contrato definitivo. Funcionalmente son casi lo mismo (el Term Sheet suele ser esquemático, por puntos; la
+LOI tiene forma de carta); a menudo se usan combinados.
+
+**Qué contiene un Term Sheet típico:**
+- **Las partes y la estructura:** quién compra, quién vende, y **qué estructura** (share deal, asset deal,
+  fusión —Libro 3—).
+- **El precio y su forma:** monto o rango, forma de pago (caja, acciones, diferido), mecanismo de precio
+  (locked box vs. completion accounts —sección 14.D—), *earn-out*, *escrow*.
+- **Las condiciones esenciales:** due diligence satisfactoria, autorizaciones (COFECE), consentimientos,
+  financiamiento.
+- **El calendario:** plazos para la due diligence, la negociación y el cierre.
+- **Las cláusulas de proceso (las que SÍ suelen ser vinculantes):** **exclusividad** (*no-shop*: el
+  vendedor no negocia con otros por un periodo), **confidencialidad** (NDA), **gastos** (quién paga qué),
+  **ley aplicable y jurisdicción/arbitraje**.
+
+**La distinción crítica: vinculante vs. no vinculante.** Esta es la lección capital del Term Sheet, y un
+error aquí cuesta carísimo. Por regla general:
+- Es **NO vinculante** lo **sustantivo**: el precio, la estructura, los términos comerciales. ¿Por qué? Para
+  que las partes puedan **retirarse** si la due diligence revela problemas o si la negociación del SPA
+  fracasa, sin quedar obligadas a comprar/vender.
+- Es **VINCULANTE** lo **procesal**: la exclusividad, la confidencialidad, los gastos, la ley aplicable. El
+  comprador **exige** exclusividad vinculante porque va a **invertir** mucho dinero en la due diligence y
+  no quiere que el vendedor lo use para subir el precio con otros postores.
+
+**La trampa.** Un Term Sheet **mal redactado** puede volverse **vinculante sin querer**. Si el lenguaje
+sugiere un acuerdo cerrado sobre lo sustantivo (o si no se dice claramente que no obliga), un tribunal
+podría considerar que existe un **contrato** o, al menos, una **responsabilidad precontractual** (*culpa in
+contrahendo*: responsabilidad por romper de mala fe una negociación avanzada). Por eso **toda** hoja de
+términos seria incluye una cláusula expresa y destacada que dice, en esencia: *"salvo las cláusulas X, Y y
+Z (exclusividad, confidencialidad, gastos, ley aplicable), este documento NO es vinculante y no obliga a
+las partes a celebrar la operación"*. Redactar bien esa cláusula es de las primeras cosas que aprende —a
+golpes— un abogado junior.
+
+**Para qué sirve, entonces, si casi nada obliga.** Sirve muchísimo: **ordena** la negociación, **alinea**
+expectativas, **filtra** a las partes no serias, **amarra** al vendedor con la exclusividad mientras el
+comprador invierte en la due diligence, y crea un **compromiso moral y reputacional** (retractarse de lo
+acordado en un Term Sheet, aunque no obligue legalmente, tiene costo de reputación). Es el **mapa** que
+guía la redacción del SPA.
+
+### 14.B · Anatomía del SPA, parte I (estructura, reps, covenants, condiciones)
+
+El **SPA** es el documento rey. Un SPA típico de M&A tiene una **estructura estándar** que debes conocer
+como la palma de tu mano, porque se repite (con variaciones) en todo el mundo:
+
+1. **Definiciones.** El glosario del contrato (términos en mayúscula). Aburrido pero **crítico**: la
+   definición de "Pérdidas", "Conocimiento", "Cambio Adverso Relevante" o "Deuda" puede decidir un litigio.
+2. **Objeto y precio.** Qué se vende (las acciones), por cuánto, forma de pago y mecanismo de precio.
+3. **Representations & warranties** del vendedor (y algunas del comprador).
+4. **Covenants** (obligaciones pre-cierre y post-cierre).
+5. **Conditions precedent** (condiciones para cerrar).
+6. **Indemnification** (con caps, baskets, supervivencia).
+7. **Terminación** (cuándo y cómo se puede abandonar la operación; cláusula MAC).
+8. **Misceláneos / boilerplate** (ley aplicable, arbitraje, notificaciones, cesión, integridad del
+   acuerdo).
+9. **Anexos**, incluidos los **disclosure schedules**.
+
+Veamos las tres primeras piezas sustantivas (las demás, en 14.C):
+
+**Representations & warranties (el corazón de la asignación de riesgo).** Son las **afirmaciones de hecho**
+que el vendedor garantiza sobre la *target*, referidas a una fecha. Si resultan **falsas**, el comprador
+tiene derecho a **indemnización** (o, si se descubre antes del cierre, a no cerrar). Su función económica
+—ya lo vimos— es **corregir la asimetría de información**: el vendedor "pone por escrito" que la empresa es
+como dice, y responde si no. Las reps típicas cubren:
+- **Fundamentales:** título y propiedad de las acciones, capacidad y autoridad para vender, validez del
+  contrato. (Reciben protección reforzada: sin tope, plazo largo.)
+- **Del negocio:** estados financieros veraces, ausencia de pasivos no revelados, contratos materiales
+  vigentes, **cumplimiento legal**, situación **fiscal**, **laboral**, **litigios**, propiedad
+  **intelectual**, **permisos**, inmuebles, seguros, ausencia de cambios desde cierta fecha.
+
+La **negociación de las reps** es un arte fino. Tres "perillas" clave:
+- ***Knowledge qualifier* ("a leal saber y entender"):** el vendedor solo garantiza lo que **sabe** (no lo
+  desconocido). El comprador prefiere reps **sin** este calificador (responsabilidad objetiva); el
+  vendedor, **con** él. ¿Y "conocimiento" de quién, y con qué deber de investigar? Se define con cuidado.
+- ***Materiality qualifier* ("en todos los aspectos **materiales**"):** acota la rep a lo relevante,
+  evitando reclamaciones por nimiedades. El comprador teme que vacíe la rep; se negocia el umbral.
+- **Alcance temporal y de excepciones:** "salvo lo revelado en el *disclosure schedule*" (sección 14.C).
+
+**Covenants (las obligaciones de conducta).** Regulan **qué deben (y no deben) hacer** las partes,
+sobre todo **entre el *signing* y el *closing*** (el periodo *interim*), cuando el vendedor todavía
+controla la empresa pero ya la "vendió". Los más importantes:
+- ***Conduct of business* (operación en el curso ordinario):** el vendedor se obliga a **seguir operando
+  normalmente** y a **no** hacer cosas que cambien la empresa (no repartir dividendos extraordinarios, no
+  endeudarse, no vender activos clave, no subir sueldos, no contratar/despedir masivamente). Protege al
+  comprador de recibir una empresa "vaciada" o alterada entre la firma y el cierre.
+- ***Access* (acceso):** el comprador puede seguir revisando información (due diligence confirmatoria).
+- ***Reasonable/best efforts* (esfuerzos para cerrar):** ambas partes se obligan a gestionar las
+  autorizaciones (COFECE) y consentimientos necesarios.
+- **Post-cierre:** **no competencia** y **no captación** (*non-compete*, *non-solicit*) del vendedor
+  —razonables en tiempo, territorio y objeto para ser válidas (orden público de competencia)—,
+  cooperación fiscal, confidencialidad.
+
+**Conditions precedent (las condiciones para cerrar).** Son los **requisitos que deben cumplirse** para que
+nazca la obligación de cerrar. Si no se cumplen, la parte beneficiada **no está obligada** a cerrar (y
+puede terminar). Las típicas:
+- **Autorizaciones regulatorias** (COFECE, sectoriales) y **consentimientos** de terceros (los *change of
+  control* detectados en la due diligence —Libro 2—).
+- ***Bring-down* de las reps:** que las reps **sigan siendo ciertas** a la fecha de cierre (no solo a la
+  firma).
+- **Cumplimiento de covenants** hasta el cierre.
+- **Ausencia de MAC** (que no haya ocurrido un cambio adverso relevante —sección 14.C—).
+- **Entregables del cierre:** los documentos, renuncias de consejeros, libros, etc.
+
+**Idea integradora:** observa cómo el SPA es un **sistema temporal**. Las **reps** miran al **pasado y
+presente** (cómo es la empresa). Los **covenants** miran al **periodo intermedio** (qué se hace entre firma
+y cierre). Las **condiciones** son la **puerta del cierre**. Y la **indemnización** (14.C) mira al
+**futuro** (qué pasa si algo de lo garantizado resulta falso). Cuatro piezas, cuatro momentos: pasado,
+intermedio, cierre, futuro. Entender esa **línea de tiempo** es entender el SPA.
