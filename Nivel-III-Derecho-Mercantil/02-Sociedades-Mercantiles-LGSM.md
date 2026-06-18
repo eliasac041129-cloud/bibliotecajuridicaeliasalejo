@@ -506,3 +506,101 @@ construyen juntas:
 Y el **M&A** es, en el fondo, **comprar el edificio**: o comprando **todas las escrituras**
 (acciones = *share deal*) o comprando el **inmueble y su operación** (activos = *asset deal*). Todo
 lo que estudiamos aquí es lo que se negocia y se transfiere ese día.
+
+
+## 16. Ejemplos simples
+
+1. **Responsabilidad limitada.** Tres socios constituyen una S.A. con $300,000 de capital
+   ($100,000 cada uno). La sociedad quiebra debiendo $2M. Los acreedores cobran del patrimonio
+   social; los socios **solo pierden su aportación** ($100,000 c/u), no su patrimonio personal
+   (salvo levantamiento del velo).
+2. **Mayoría y control.** Un accionista con 51% controla la **asamblea ordinaria** (nombra al
+   consejo, decide dividendos), pero con solo 51% **no** puede, por sí solo, reformar estatutos o
+   fusionar (requiere el quórum/mayoría de la **extraordinaria**: 75%/50%).
+3. **Derecho de preferencia (anti-dilución).** Una S.A. aumenta capital emitiendo nuevas acciones.
+   Un accionista con 20% tiene **preferencia** para suscribir el 20% de las nuevas y **no diluirse**.
+   Si no las suscribe, su participación baja.
+4. **Acciones preferentes.** Un inversionista recibe acciones de **voto limitado** pero con
+   **dividendo preferente**: gana primero en utilidades a cambio de menos voto.
+5. **Libro de registro.** Quien aparece inscrito en el **libro de registro de acciones** es el
+   accionista frente a la sociedad; sin esa inscripción, el endoso del título no basta para ejercer
+   derechos sociales.
+
+## 17. Ejemplos complejos
+
+1. **Diseño de control sin mayoría (S.A.P.I. y reserved matters).** Un fondo de PE adquiere el 40%
+   de una S.A.P.I. No tiene mayoría, pero pacta en estatutos un **veto** sobre *reserved matters*
+   (endeudarse por encima de X, vender activos clave, cambiar al CEO, nuevas emisiones) y dos
+   asientos en el consejo. *Resultado:* sin controlar la asamblea, **controla las decisiones
+   estratégicas**. Lección: el poder se diseña, no solo se compra con porcentaje.
+2. **Dilución y ronda "down".** Una startup levanta una ronda a una valuación **menor** que la
+   anterior (*down round*). Los inversionistas previos, con cláusula **anti-dilución** (*full
+   ratchet* o *weighted average*), ajustan su conversión para no perder valor; los fundadores se
+   **diluyen** fuertemente. Lección: la anti-dilución es una cláusula que reparte el dolor de una
+   mala ronda.
+3. **Conflicto entre socios (deadlock 50/50).** Dos socios al 50% bloquean toda decisión. Sin
+   mecanismo de desempate, la sociedad se paraliza. Soluciones pactadas: voto de calidad, mediación,
+   cláusulas de **buy-sell** (*shotgun*: uno ofrece comprar/vender a un precio, el otro elige), o
+   disolución. Lección: prever el *deadlock* es esencial en sociedades paritarias.
+4. **Impugnación de acuerdos.** Una asamblea extraordinaria aprueba una fusión sin alcanzar el quórum
+   del 75% o sin convocatoria debida. Un accionista impugna la **nulidad** del acuerdo (art. 188).
+   Lección: los **vicios formales** (convocatoria, quórum, orden del día) pueden tumbar decisiones
+   estructurales —y, en M&A, una fusión—.
+
+## 18. Casos reales (jurisprudencia y operaciones estilizadas)
+
+- **Impugnación de acuerdos de asamblea:** criterios sobre la nulidad por vicios de convocatoria,
+  quórum o materia, y sobre la legitimación y plazos para impugnar (arts. 188-191).
+- **Responsabilidad de administradores:** criterios sobre la acción social de responsabilidad
+  (art. 161-163) por actos contrarios al interés social o a la ley.
+- **Derechos de minoría:** aplicación de los porcentajes para convocar asamblea, designar consejero
+  y ejercer la acción de responsabilidad; en sociedades **bursátiles**, los porcentajes se **reducen**
+  (LMV) para proteger más al inversionista.
+- **Operación estilizada (conversión a S.A.P.I. para una ronda de VC):** una startup S.A. se
+  **transforma** en S.A.P.I., crea series de acciones y reforma estatutos para alojar las
+  protecciones del fondo (preferente, anti-dilución, veto, tag/drag): la práctica habitual del
+  venture capital mexicano.
+
+> *Nota de método (Manifiesto XI.5):* verificar la vigencia de los criterios antes de invocarlos.
+
+## 19. Casos empresariales
+
+- **Empresa familiar:** organizar la propiedad (acciones por rama familiar), el **gobierno**
+  (consejo con independientes, protocolo familiar) y la **sucesión** (transmisión de acciones,
+  fideicomiso de control), evitando el conflicto que destruye a muchas empresas familiares en la
+  segunda/tercera generación.
+- **Estructura de grupo:** una sociedad **holding** controla varias **subsidiarias** (cada una S.A.
+  o S. de R.L.), separando riesgos por unidad de negocio y facilitando ventas parciales.
+- **Capital variable para crecer:** una empresa adopta la modalidad de **C.V.** para aumentar
+  capital ágilmente al recibir nuevos socios, sin reformar estatutos cada vez.
+
+## 20. Casos corporativos (en transacciones)
+
+- **Share deal:** se adquieren las **acciones** de la sociedad (con endoso y registro en el libro);
+  el comprador "hereda" la sociedad con sus activos **y pasivos**. Por eso la due diligence
+  societaria y las *reps* son críticas.
+- **Asset deal:** se adquieren los **activos**/el negocio (la sociedad sigue existiendo en manos del
+  vendedor); aísla mejor los pasivos pero exige transmitir y ceder cada activo y contrato.
+- **Vehículo de adquisición (NewCo) y fusión:** el comprador crea una **NewCo** que se endeuda,
+  adquiere y luego **se fusiona** con la *target* (estructura de LBO — Nivel IV).
+- **Convenio entre accionistas:** en *joint ventures* y co-inversiones, regula gobierno,
+  transmisión, *tag/drag*, *deadlock* y salida; en S.A.P.I., gran parte se lleva a estatutos
+  (oponibles).
+- **Due diligence societaria:** verificar acta constitutiva, reformas, libro de registro de
+  acciones, libro de actas (asambleas y consejo), poderes vigentes, capital y su exhibición,
+  gravámenes sobre acciones, derechos de terceros.
+
+## 21. Casos internacionales
+
+- **Delaware como referente:** la mayoría de las grandes corporaciones de EE. UU. se constituyen en
+  **Delaware** por su derecho societario flexible, su tribunal especializado (Court of Chancery) y
+  su jurisprudencia predecible. La **S.A.P.I.** mexicana se inspira en esa flexibilidad.
+- **Holdings internacionales:** estructuras con sociedades en jurisdicciones específicas
+  (Luxemburgo, Países Bajos, Delaware) por motivos fiscales, de tratados de inversión y de
+  neutralidad; el abogado diseña la "cadena de sociedades" óptima.
+- **Tipos equivalentes:** S.A. ≈ *corporation* / *Aktiengesellschaft (AG)* / *société anonyme (SA)*;
+  S. de R.L. ≈ *LLC* / *GmbH* / *Sàrl*. La **LLC** estadounidense y la **S. de R.L.** mexicana
+  comparten flexibilidad y tratamiento fiscal transparente (relevante en estructuras cross-border).
+- **Gobierno corporativo global:** códigos de mejores prácticas (OCDE, Código de Principios de
+  Gobierno Corporativo en México) que elevan estándares de consejos, comités e independientes,
+  especialmente en sociedades bursátiles.
