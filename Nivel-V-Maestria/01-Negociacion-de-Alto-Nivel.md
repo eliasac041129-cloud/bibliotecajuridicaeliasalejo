@@ -1061,3 +1061,222 @@ y analizar —como un atleta entrena—.
 - **¿La negociación es talento innato o habilidad aprendible?** *Postura del Consejo:* el talento ayuda,
   pero la negociación es, sobre todo, una **habilidad aprendible** con marco y **práctica deliberada**. El
   preparado y entrenado vence al "talentoso" improvisado.
+
+## 30. Errores comunes
+
+- **No prepararse.** Llegar a negociar sin analizar intereses, BATNAs, ZOPA y opciones → reaccionar en vez
+  de conducir. *Corrección:* prepara (y escribe) tu análisis antes de cada negociación importante.
+- **Negociar posiciones, no intereses.** Pelear cifras sin preguntar "¿por qué?" → perderse las soluciones
+  creativas. *Corrección:* explora intereses; pregunta "¿para qué lo quieres?".
+- **No conocer tu BATNA (ni el del otro).** Negociar sin saber tu alternativa → ceder de más o no saber
+  cuándo irte. *Corrección:* identifica y mejora tu BATNA; estima el del otro.
+- **Ver todo como suma cero.** Solo reclamar, nunca crear valor → dejar dinero sobre la mesa y dañar la
+  relación. *Corrección:* busca intercambios que agranden el pastel antes de repartir.
+- **Abrirse demasiado (o cerrarse demasiado).** Revelar tu punto de reserva, o cerrarse y matar la creación
+  de valor. *Corrección:* maneja el dilema —comparte recíproca y gradualmente, protege lo sensible—.
+- **Mezclar persona y problema.** Atacar a la contraparte personalmente → daña la relación y endurece al
+  otro. *Corrección:* duro con el problema, suave con la persona.
+- **Dejarse anclar o presionar.** Aceptar el marco/ancla del otro o ceder ante ultimátums y prisas.
+  *Corrección:* re-ancla, vuelve a criterios objetivos, evalúa contra tu BATNA.
+- **Escalada del compromiso.** Cerrar un mal deal "porque ya invertí mucho" (costo hundido). *Corrección:*
+  respeta tu *walk-away*; no te cases con cerrar.
+- **Ganar la negociación y perder la relación (o la reputación).** "Aplastar" al otro o engañar →
+  incumplimiento, represalias, mala fama. *Corrección:* negocia con integridad; deja al otro una salida
+  digna.
+- **(Como agente) anteponer tus incentivos a los del cliente.** *Corrección:* lealtad —recomienda conforme
+  al interés y BATNA del cliente, no a tu comisión—.
+
+## 31. Mitos frecuentes
+
+- **"El mejor negociador es el más duro/agresivo."** **Falso.** El mejor es el más **preparado** y el que
+  mejor **entiende el problema y los intereses**; la dureza ciega destruye valor y relaciones.
+- **"Negociar es ganar; lo que el otro gana, yo lo pierdo."** **Falso.** Muchas negociaciones permiten
+  **crear valor** (suma positiva); verlo todo como suma cero deja dinero sobre la mesa.
+- **"El poder viene del tamaño o la posición."** **Falso.** Viene sobre todo del **BATNA** (tu
+  alternativa), la **información** y el **tiempo**. Un "pequeño" con buen BATNA vence a un "grande"
+  desesperado.
+- **"Hay que ocultar todo."** **Falso/matizado.** Ocultar tu **punto de reserva**, sí; pero **compartir**
+  intereses y prioridades (recíprocamente) es lo que permite **crear valor**.
+- **"Dividir la diferencia siempre es justo."** **Falso.** Es cómodo, pero puede ser arbitrario; mejor usar
+  **criterios objetivos** (y a veces, dividir la diferencia favorece a quien ancló de forma extrema).
+- **"Negociar es un talento innato."** **Falso.** Es una **habilidad aprendible** con marco y práctica
+  deliberada.
+- **"Un buen negociador improvisa."** **Falso.** Un buen negociador **prepara**; la improvisación es el sello
+  del amateur.
+
+## 32. Preguntas difíciles
+
+1. **¿De dónde viene realmente el poder de negociación?** Del **BATNA** (tu mejor alternativa sin acuerdo):
+   quien puede irse y estar bien manda; quien necesita el acuerdo está en desventaja. También de la
+   **información** y del **tiempo** (la urgencia se explota). Por eso lo más poderoso es **mejorar tu
+   BATNA** antes de sentarte.
+2. **¿Cómo se crea valor en una negociación que parece de suma cero?** Explorando **intereses** (no
+   posiciones) y aprovechando **diferencias**: prioridades distintas (*logrolling*), valoraciones distintas,
+   actitudes ante el riesgo (garantías), tiempo (pagos diferidos), expectativas (*earn-out*). Casi siempre
+   hay intercambios que dejan a ambos mejor —si se buscan—.
+3. **¿Cómo manejar el dilema crear/reclamar valor?** Crea valor **primero** (explora intereses, genera
+   opciones), comparte información **recíproca y gradualmente**, protege tu **punto de reserva**, sé "duro
+   con el problema, suave con la persona", y reclama con **criterios objetivos**. No se resuelve de una vez:
+   se **gestiona** durante toda la negociación.
+4. **¿Cuándo NO se debe cerrar un acuerdo?** Cuando el mejor acuerdo posible es **peor que tu BATNA** (no
+   hay ZOPA, o el otro no llega a tu punto de reserva). Forzar un acuerdo peor que tu alternativa es
+   destruir valor. Saber **levantarse** es tan importante como saber cerrar.
+5. **¿Dónde está la línea entre la astucia legítima y el engaño ilícito?** Entre **no revelar** (reserva
+   —lícita: puedes no decir tu punto de reserva) y **mentir** (dolo —ilícito: afirmar falsedades para
+   inducir al error). Persuadir, enmarcar y omitir son legítimos; engañar vicia el contrato, genera
+   responsabilidad y destruye tu reputación.
+
+## 33. Casos de examen (con respuesta modelo)
+
+**Caso A.** *Tu cliente debe negociar la compra de una empresa y te dice "consíguela al menor precio
+posible". ¿Cómo preparas la negociación?*
+**Respuesta modelo:** **(1)** Aclarar con el cliente sus **intereses** reales (¿solo precio, o también
+velocidad, certeza, relación con los vendedores?) y su **punto de reserva** (precio máximo) y **BATNA**
+(¿hay otra empresa que comprar?). **(2)** Estimar los **intereses y el BATNA del vendedor** (¿por qué
+vende?, ¿tiene prisa?, ¿otros postores?). **(3)** Definir la **ZOPA** estimada y los **criterios objetivos**
+de precio (comparables, múltiplos, valuación —Libro 3 del Nivel V—). **(4)** Buscar **creación de valor**
+(¿un *earn-out* si discrepan sobre el futuro?, ¿estructura que beneficie a ambos fiscalmente?). **(5)**
+Diseñar el ***setup*** (¿negociación bilateral o competida?), la **primera oferta/ancla** y la estrategia de
+concesiones. Razonar: la negociación se gana en la preparación.
+
+**Caso B.** *En plena negociación, la contraparte te da un ultimátum: "es mi última oferta, la tomas en 24
+horas o no hay trato". ¿Qué haces?*
+**Respuesta modelo:** **No reaccionar** emocionalmente. **(1)** Evaluar la oferta contra tu **BATNA** y tu
+**punto de reserva** (¿es realmente peor irse?). **(2)** Evaluar la **credibilidad** del ultimátum (¿el otro
+tiene un buen BATNA que lo respalde, o es un farol/táctica de presión?). **(3)** Si es táctica: a menudo
+conviene **ignorarlo** (seguir negociando como si no se hubiera dicho) o **nombrarlo** y volver a criterios
+objetivos. **(4)** Verificar si el **plazo** es real. No dejarse **apresurar** a un mal trato por presión de
+tiempo artificial.
+
+**Caso C.** *Eres el abogado del vendedor; tu honorario de éxito depende de que se cierre la venta. Llega
+una oferta apenas superior al punto de reserva de tu cliente, que podría mejorar si esperan. ¿Qué haces?*
+**Respuesta modelo:** **Lealtad al cliente** por encima de tu incentivo: presentar la situación con
+**honestidad** (la oferta actual, la opción de esperar/no vender, los riesgos de cada camino) y recomendar
+conforme al **interés y BATNA del cliente**, **no** a tu comisión. Es el problema de **agencia**: la
+integridad (alinear tu consejo con el interés del cliente) es la base de la confianza y de tu carrera.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Instrucciones:** representas al **fundador** de una *startup* que negocia su Serie A con un fondo de VC.
+> El fondo ofrece invertir 4 a un pre-money de 12 (25%), con preferencia 1x participating, antidilución full
+> ratchet, vetos amplios y vesting de 4 años sin aceleración. Prepara y conduce la negociación.
+
+1. ¿Cuáles son los **intereses** de tu cliente (no solo la valuación)? ¿Y los del VC?
+2. ¿Cuál es el **BATNA** de tu cliente? ¿Cómo lo mejorarías?
+3. ¿Qué cláusulas **aceptas** (de mercado) y cuáles **peleas** (agresivas)?
+4. ¿Qué **criterios objetivos** usas para la valuación y los términos?
+5. ¿Cómo manejas la **relación** (es un socio de largo plazo)?
+
+> **Guía de solución (resumen).** **(1)** Intereses del fundador: capital + **conservar control y
+> motivación** + un inversionista que aporte valor + relación sana. Del VC: retorno, protección, salida.
+> **(2)** BATNA: conseguir **otro term sheet** competidor (mejora drásticamente el poder); mejóralo
+> buscando otros fondos antes de cerrar. **(3)** **Acepta** lo de mercado (preferencia **1x
+> non-participating**, antidilución **weighted average**, vetos **acotados a lo estratégico**); **pelea**
+> lo agresivo (participating → non-participating; full ratchet → weighted average; vetos operativos →
+> fuera; vesting → con **aceleración** si lo despiden sin causa). **(4)** Criterios: **comparables de
+> mercado** (valuaciones de rondas similares), **estándares NVCA** (lo que es "de mercado"). **(5)** Trata
+> al VC con respeto (relación de años), separa persona/problema, busca **crear valor** (acepta protecciones
+> razonables a cambio de mejor valuación y vesting justo) y deja al VC una salida digna. *Conexión:* esto es
+> el term sheet del Libro 7, **negociado**.
+
+## 35. Flashcards
+
+- **¿Posición vs. interés?** Lo que pides vs. lo que realmente necesitas. Negocia sobre intereses.
+- **¿BATNA?** Tu mejor alternativa sin acuerdo = tu poder y tu estándar de decisión.
+- **¿Punto de reserva?** El peor acuerdo que aceptarías (deriva del BATNA).
+- **¿ZOPA?** El rango donde hay acuerdo posible (los puntos de reserva se solapan).
+- **¿Crear vs. reclamar valor?** Agrandar el pastel (intercambios) vs. repartirlo (anclaje, concesiones).
+- **¿El dilema del negociador?** Crear pide apertura; reclamar pide reserva. Manejar ambas.
+- **¿Los 4 principios de Harvard?** Separar personas/problema · intereses no posiciones · opciones de
+  beneficio mutuo · criterios objetivos.
+- **¿Anclaje?** La primera oferta sesga el resultado; ancla alto/bajo pero justificable.
+- **¿Logrolling?** Intercambiar concesiones según prioridades distintas (ambos ceden en lo que menos les
+  importa).
+- **¿Aversión a la pérdida?** Tememos perder ~2x más de lo que valoramos ganar; enmarca como evitar pérdida.
+- **¿Setup / deal design / táctica?** Las 3 dimensiones del deal-making (Subramanian/Sebenius).
+- **¿Negociar como agente?** Por cuenta de otro (el abogado por su cliente); alinear incentivos, lealtad.
+- **¿Reserva vs. engaño?** No revelar (lícito) vs. mentir/dolo (ilícito).
+- **¿Dónde se gana la negociación?** En la **preparación**.
+
+## 36. Mapas mentales
+
+```
+                       LA NEGOCIACIÓN
+                              |
+   ┌──────────────┬──────────┼───────────────┬──────────────────┐
+ GEOMETRÍA      DOS TAREAS   MÉTODO HARVARD   PODER/PSICOLOGÍA    CIERRE +
+ intereses,     crear valor  separar p./prob. BATNA, anclaje,     DEAL-MAKING
+ BATNA,         (pastel +)   intereses,       sesgos, emociones,  setup, deal
+ reserva,       reclamar     opciones,        tácticas y          design, agente,
+ ZOPA           (pastel ÷)   criterios obj.   defensas            que perdure
+        └──── el dilema crear/reclamar atraviesa todo ────┘
+```
+
+```
+              LA GEOMETRÍA DE UNA NEGOCIACIÓN
+   INTERESES (¿qué necesitan de verdad?) → abren soluciones
+   BATNA (de cada lado) → define el PODER y el PUNTO DE RESERVA
+   ZOPA (¿se solapan los puntos de reserva?) → ¿hay acuerdo posible?
+        sí → negociar (crear + reclamar)   |   no → ir al BATNA
+```
+
+## 37. Cuadros comparativos
+
+**Crear vs. reclamar valor**
+
+| | Crear valor (integrativo) | Reclamar valor (distributivo) |
+|---|---|---|
+| Lógica | Suma positiva (agrandar) | Suma cero (repartir) |
+| Herramienta | Intereses, opciones, intercambios | Anclaje, concesiones, criterios |
+| Requiere | Apertura, compartir info | Reserva, firmeza |
+| Riesgo | Que el otro reclame lo creado | Dejar valor sobre la mesa |
+
+**Negociar "duro" vs. "suave" vs. "por principios"**
+
+| | Duro (posicional) | Suave | Por principios (Harvard) |
+|---|---|---|---|
+| Meta | Ganar | Acuerdo/relación | Acuerdo sabio y eficiente |
+| Con la persona | Adversario | Amigo | Separar persona/problema |
+| Resultado | Daña relación, deja valor | Cede valor | Crea + reclama, preserva relación |
+
+**Reserva (lícita) vs. engaño (ilícito)**
+
+| | Reserva | Engaño |
+|---|---|---|
+| Qué es | No revelar (punto de reserva) | Afirmar falsedades (dolo) |
+| Legalidad | Lícito | Ilícito (vicia el contrato) |
+| Reputación | Neutra | Pasivo grave |
+
+## 38. Diagramas
+
+**El proceso de una negociación profesional:**
+```
+PREPARAR (intereses, BATNAs, ZOPA, opciones, criterios, setup)
+   → ABRIR (construir relación; explorar intereses; anclar o esperar)
+   → CREAR VALOR (opciones, intercambios, agrandar el pastel)
+   → RECLAMAR VALOR (anclaje, concesiones, criterios objetivos)
+   → CERRAR (superar obstáculos, paquete, salida digna)
+   → DOCUMENTAR (que se cumpla, no solo se firme)
+   [reflexionar después: ¿qué aprendí?]
+```
+
+**El BATNA como brújula:**
+```
+¿La oferta es MEJOR que mi BATNA? ── sí ─► considerar cerrar (negociar el reparto)
+        │ no
+        ▼
+   IR AL BATNA (levantarse) — forzar un peor acuerdo destruye valor
+```
+
+## 39. Mnemotecnias
+
+- **Lo primero, siempre:** *"prepara: intereses, BATNA, ZOPA, opciones, criterios"*.
+- **La pregunta mágica:** *"¿para qué lo quieres?"* (posición → interés).
+- **El rey del poder:** *"tu poder es tu BATNA; mejóralo antes de sentarte"*.
+- **Las dos tareas:** *"agranda el pastel (crea) antes de repartirlo (reclama)"*.
+- **Harvard (PIOC):** **P**ersonas/problema · **I**ntereses · **O**pciones · **C**riterios.
+- **Con la persona, con el problema:** *"suave con la persona, duro con el problema"*.
+- **Reserva vs. engaño:** *"puedes no decir; no puedes mentir"*.
+- **El cierre:** *"no busques firmar, busca que se cumpla"*.
+- **Regla de oro:** *"el mejor negociador no es el más duro: es el más preparado y el que mejor entiende los
+  intereses —y tiene el mejor BATNA"*.
