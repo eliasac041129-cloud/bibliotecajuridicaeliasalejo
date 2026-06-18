@@ -164,3 +164,95 @@ financiamiento**:
 El director jurídico y el abogado externo viven, en buena medida, **administrando obligaciones**:
 creándolas con precisión, garantizándolas, haciéndolas circular y extinguiéndolas con la menor
 fricción posible.
+
+
+## 10. Definiciones doctrinales
+
+- **Borja Soriano** (recogiendo a la doctrina francesa): la obligación es "la necesidad
+  jurídica en que se encuentra una persona de dar, hacer o no hacer alguna cosa" en favor de
+  otra. Subraya la **necesidad jurídica** (coercibilidad) como nota esencial.
+- **Rojina Villegas:** relación jurídica entre dos personas, en virtud de la cual una (acreedor)
+  puede exigir de la otra (deudor) una prestación o abstención de carácter patrimonial.
+  Destaca el carácter **patrimonial** del objeto.
+- **Gutiérrez y González:** célebre por su concepción del **patrimonio** y por separar con rigor
+  la deuda (débito) de la responsabilidad; define la obligación destacando el binomio
+  débito/responsabilidad (Schuld/Haftung).
+- **Doctrina alemana (von Tuhr, Larenz):** relación de **deber** (Schuld) acompañada de
+  **responsabilidad** patrimonial (Haftung); el acreedor tiene una pretensión (*Anspruch*).
+- **Pothier** (puente hacia el Code y México): centra la obligación en el **vínculo de derecho**
+  que sujeta a dar, hacer o no hacer, y desarrolla con finura la teoría de los **daños**
+  (consecuencia directa y previsible), que México hereda en el art. 2110.
+
+> **Lectura del Consejo:** las definiciones coinciden en tres notas —vínculo, prestación
+> patrimonial y coercibilidad— pero difieren en el **acento**: la latina subraya la *necesidad
+> jurídica*; la alemana, la dualidad *deuda/responsabilidad*. Para el abogado de financiamiento,
+> la lente alemana (Schuld/Haftung) es la más útil: explica avales, fianzas y garantías como
+> *responsabilidad* por deuda propia o ajena.
+
+## 11. Definiciones legales
+
+El **Código Civil Federal** no define la "obligación" en una sola fórmula; la construye a través
+de su régimen (Libro Cuarto). Disposiciones nucleares:
+
+- **Art. 1792-1793:** convenio y contrato (fuente principal de obligaciones).
+- **Art. 1796:** los contratos se perfeccionan por el consentimiento y **obligan** a lo pactado
+  y a las consecuencias conformes a la **buena fe**, al uso y a la ley.
+- **Art. 2011:** las obligaciones de **dar** consisten en la traslación de dominio, la
+  enajenación temporal del uso o goce, la restitución de cosa ajena o el pago de cosa debida.
+- **Art. 2027:** la obligación de **hacer**; **art. 2028:** la de **no hacer**.
+- **Art. 1984 y ss.:** obligaciones **mancomunadas** y **solidarias**; **art. 1988:** la
+  solidaridad **no se presume**, resulta de la ley o de la voluntad de las partes.
+- **Art. 2104 y ss.:** responsabilidad por incumplimiento (daños y perjuicios); **art. 2110:**
+  daños y perjuicios deben ser **consecuencia inmediata y directa**.
+
+> Recuerda la **advertencia federalista**: la materia civil es local; el CCF rige en lo federal
+> y como modelo. Verifica el código de la entidad y, en obligaciones **mercantiles**, el Código
+> de Comercio. Y verifica siempre la **versión vigente** de cada artículo.
+
+## 12. Definición sencilla
+
+Una obligación es una **promesa que la ley puede hacer cumplir**: alguien (el deudor) queda
+"atado" a dar algo, hacer algo o no hacer algo a favor de otro (el acreedor), y si no cumple,
+responde **con su patrimonio**. Piénsalo como un **hilo jurídico** que conecta dos bolsillos: lo
+que sale de uno entra en el otro, y el Estado vigila que el hilo se respete.
+
+## 13. Conceptos fundamentales (profundización)
+
+> Estos amplían el glosario del Nivel I con las distinciones que la práctica exige.
+
+- **Débito y responsabilidad (Schuld/Haftung):** el *deber* de cumplir y la *sujeción* del
+  patrimonio a la ejecución. Permiten explicar la **fianza** (responsabilidad por deuda ajena) y
+  la **obligación natural** (débito sin responsabilidad exigible).
+- **Obligación de medios vs. de resultado:** en las de **medios**, se debe **diligencia** (el
+  abogado, el médico, el asesor financiero con *best efforts*); en las de **resultado**, se debe
+  el **resultado** (entregar la obra, transmitir la propiedad). **Decisivo para la carga de la
+  prueba**: en las de resultado basta probar que no se obtuvo; en las de medios hay que probar la
+  **negligencia**.
+- **Obligación mancomunada (simple) vs. solidaria:** con pluralidad de sujetos. **Mancomunada**:
+  cada deudor debe **su parte** (la deuda se divide). **Solidaria**: cada deudor debe el
+  **todo** (y luego repite contra los codeudores). **No se presume** (art. 1988).
+- **Solidaridad activa y pasiva:** activa, varios **acreedores** pueden exigir el todo; pasiva,
+  varios **deudores** deben el todo (la relevante en financiamiento).
+- **Obligación divisible vs. indivisible:** según la prestación admita o no cumplimiento parcial
+  (entregar dinero es divisible; entregar un caballo, indivisible).
+- **Obligación principal vs. accesoria:** la accesoria sigue la suerte de la principal (*la
+  fianza, la prenda, la hipoteca dependen del crédito garantizado*). **Clave para garantías**:
+  si se extingue lo principal, cae lo accesorio; si hay **novación**, las garantías pueden
+  extinguirse salvo reserva.
+- **Obligación líquida e ilíquida:** **líquida** = su monto está determinado o es fácilmente
+  determinable. Importa porque **los intereses moratorios** suelen correr sobre cantidad
+  líquida y la **compensación** legal exige liquidez.
+- **Obligación civil vs. natural:** la **civil** es exigible (tiene acción); la **natural**
+  carece de acción pero, si se paga, **no se repite** lo pagado (*soluti retentio*).
+- **Obligaciones específicas y genéricas:** recae sobre cosa determinada (este inmueble) o sobre
+  género (1,000 toneladas de acero). En las **genéricas**, "el género nunca perece" (*genus
+  nunquam perit*): el deudor no se libera por pérdida si puede conseguir otra del género.
+- **Obligaciones alternativas y facultativas:** **alternativa**, se deben varias prestaciones
+  pero se cumple con una (con derecho de elección); **facultativa**, se debe una pero el deudor
+  puede liberarse con otra prevista.
+- **Obligaciones puras y modales:** sin modalidad, o sujetas a **condición** (hecho futuro e
+  incierto), **término/plazo** (futuro y cierto) o **modo/carga**.
+- **Pretensión (Anspruch):** la facultad de exigir; lo que el acreedor "acciona".
+- **Cesión de créditos / subrogación / asunción de deuda / novación / compensación / dación en
+  pago / confusión / remisión / prescripción:** los modos de transmisión y extinción que
+  desarrollaremos en la sección 14.
