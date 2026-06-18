@@ -865,3 +865,154 @@ enfrenta **mayor escrutinio**: exigencias **ESG** de los LPs (que sus inversione
 regulación de los fondos, y debate público sobre el impacto del PE. *Lección:* el abogado de PE/VC moderno
 debe conocer las **exigencias ESG** (que conectan con el Libro 8) y la regulación creciente de la industria
 —la frontera actual de la práctica—.
+
+## 22. Derecho comparado
+
+El PE/VC es una industria global; cambian los vehículos y el marco fiscal/regulatorio. Tabla comparada:
+
+| Jurisdicción / sistema | Tratamiento del PE/VC |
+|---|---|
+| **México (Civil Law)** | Empresa invertida vía **S.A.P.I.** (valida preferencias, vetos, drag/tag, opciones, vesting). Fondos vía **CKD/CERPI** (afores, LMV/CNBV) o vehículos *offshore*. SAFE/notas adaptados al CCF. Salidas vía M&A o IPO (LMV). |
+| **EE.UU. (Common Law)** | La cuna. Fondos vía **Delaware LP**; empresas vía **Delaware C-Corp** (VC) o LLC. Documentación estándar **NVCA**; *case law* de Delaware sobre deberes y cláusulas. SAFE (Y Combinator). El mercado más profundo del mundo. |
+| **Reino Unido (Common Law)** | Hub europeo del PE/VC; fondos vía **LP inglés**; documentación de la **BVCA**; régimen fiscal del *carry* muy debatido. |
+| **Islas Cayman / Delaware (offshore)** | Jurisdicciones preferidas para domiciliar **fondos** globales (familiaridad de los LP, eficiencia fiscal, flexibilidad). El "back-end" de gran parte del capital privado mundial. |
+| **Unión Europea** | Regulación de gestores de fondos (**AIFMD**), iniciativas de capital de riesgo (EuVECA), y creciente énfasis **ESG** (SFDR) sobre los fondos. |
+| **India / Brasil / mercados emergentes** | Adaptaron los estándares globales (NVCA) a su marco local; ecosistemas de VC en fuerte crecimiento (como el latinoamericano). |
+| **Civil Law vs. Common Law (síntesis)** | El **common law** (EE.UU./Delaware) ofrece los vehículos y la documentación estándar que el mundo copia (NVCA, Delaware LP/C-Corp); el **civil law** (México) adaptó figuras propias (**S.A.P.I.**, CKD/CERPI) para dar validez a las mismas cláusulas. La documentación de la inversión **converge globalmente** (en inglés). |
+
+**Lección comparada:** el PE/VC es quizá el campo **más globalizado y estandarizado** del derecho
+corporativo. La **S.A.P.I.** mexicana fue diseñada precisamente para "hablar el mismo idioma" que la
+*Delaware C-Corp* del VC global (validar preferencias, vetos, vesting). El abogado mexicano de PE/VC opera
+con estándares **plenamente internacionales** (NVCA, term sheets globales) anclados en vehículos locales.
+
+## 23. Derecho mexicano
+
+El PE/VC en México se asienta en:
+
+- **S.A.P.I. (LMV):** el vehículo de la empresa invertida; **valida** las cláusulas del inversionista
+  (restricciones a la transmisión, vetos, acciones con derechos especiales —preferencias—, opciones,
+  convenios entre accionistas). Pieza central.
+- **CKD y CERPI (LMV/CNBV):** vehículos bursátiles para que las **afores** y otros institucionales inviertan
+  en capital privado/proyectos. El "lado del fondo" en México.
+- **Acciones de distintas series y derechos (LGSM/LMV):** base para las acciones **preferentes** del
+  inversionista frente a las **ordinarias** de los fundadores.
+- **Instrumentos convertibles (autonomía de la voluntad):** notas convertibles y **SAFE** adaptados al
+  derecho mexicano (estructurados con cuidado, pues el SAFE nació en el common law).
+- **Convenios entre accionistas (SHA):** el corazón documental, validado por la S.A.P.I.
+- **Mercado de valores (LMV):** régimen de emisoras para la salida vía **IPO**.
+- **Competencia (LFCE):** las adquisiciones de control (LBO) pueden ser concentraciones notificables.
+- **Fiscal (LISR/CFF):** tratamiento de las **ganancias de capital**, del ***carry***, y de los vehículos
+  (CKD/CERPI vs. *offshore*); área crítica y especializada.
+- **Ley Fintech y regulación sectorial:** relevante para el VC que invierte en sectores regulados
+  emergentes.
+
+> **Nota de método:** la estructura de fondos e inversiones es **intensamente fiscal**; verifica el marco
+> vigente (LMV, reglas de CKD/CERPI, LISR, criterios de la CNBV) y estructura con especialistas antes de
+> aplicar (Manifiesto XI.5).
+
+## 24. Jurisprudencia relevante
+
+> *Nota de método: verifica vigencia y datos de identificación antes de citar.*
+
+Criterios mexicanos relevantes (en las figuras que sostienen el PE/VC):
+- **Validez de los convenios entre accionistas (S.A.P.I. / LMV):** eficacia de las preferencias, vetos,
+  restricciones a la transmisión, drag/tag y opciones —el fundamento de las protecciones del inversionista—.
+- **Acciones con derechos especiales (LGSM/LMV):** validez de las distintas series y de las preferencias de
+  liquidación.
+- **Interpretación de contratos atípicos (SAFE, notas convertibles):** cómo se interpretan y ejecutan estos
+  instrumentos importados, conforme a la buena fe y la intención.
+- **Deberes de los administradores designados por el inversionista (gobierno corporativo):** los deberes
+  fiduciarios de los consejeros nombrados por el fondo (conecta con Gobierno Corporativo).
+- **Materia fiscal:** criterios sobre ganancias de capital, vehículos de inversión y tratamiento del carry.
+
+En el ámbito internacional, el ***case law* de Delaware** sobre deberes fiduciarios en operaciones de PE
+(conflictos en LBO, transacciones con el control) y la **documentación NVCA** son referencia obligada.
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **SCJN / tribunales:** criterios sobre validez de **convenios entre accionistas**, interpretación de
+  contratos atípicos y deberes de los administradores —que delinean las protecciones del inversionista—.
+- **CNBV:** regulación de los **CKD/CERPI** (vehículos de capital privado), del régimen de **emisoras**
+  (para IPO) y de la S.A.P.I./S.A.B.
+- **COFECE:** concentraciones en las adquisiciones de control del PE (LBO notificables).
+- **SAT/SHCP:** tratamiento fiscal de las ganancias de capital, el *carried interest* y los vehículos de
+  inversión —determinante en el diseño de los fondos—.
+- **CONSAR:** regulación de la inversión de las **afores** en capital privado (vía CKD/CERPI), que ha sido
+  clave para el desarrollo del PE/VC mexicano.
+
+## 26. Doctrina nacional
+
+La doctrina mexicana sobre PE/VC es **relativamente reciente** y proviene, sobre todo, de la **práctica de
+los despachos especializados** y de las asociaciones de la industria (como AMEXCAP —la asociación mexicana
+de capital privado—), más que de tratados académicos clásicos. Se nutre del **derecho societario y
+bursátil** (la S.A.P.I., los CKD/CERPI), del **derecho de contratos** (los SHA, los instrumentos
+convertibles adaptados) y del **derecho fiscal**. La doctrina mexicana ha hecho el trabajo de **adaptar**
+los estándares globales (term sheets NVCA, SAFE, preferencias) al marco jurídico nacional —un esfuerzo de
+"traducción" jurídica que el abogado mexicano de PE/VC continúa—.
+
+## 27. Doctrina internacional
+
+- **Documentación estándar NVCA (EE.UU.) y BVCA (Reino Unido).** Los *term sheets* y documentos modelo de
+  VC; el lenguaje común global. **Material imprescindible**.
+- **Y Combinator — el SAFE y su documentación.** El instrumento estándar de las rondas semilla y su
+  racional.
+- **Doctrina de private equity y LBO (finanzas corporativas).** La mecánica del apalancamiento, la creación
+  de valor y el retorno (IRR, múltiplos).
+- **Brad Feld & Jason Mendelson, *Venture Deals*.** Obra de referencia (práctica) sobre cómo funcionan los
+  *term sheets* de VC, cláusula por cláusula —lectura muy recomendada para entender la negociación—.
+- **Doctrina de Delaware sobre deberes fiduciarios en PE/VC.** Conflictos de interés, transacciones con el
+  control, deberes de los consejeros designados.
+- **Literatura sobre estructura de fondos (LPA, GP/LP, carry).** Cómo se arman y gobiernan los fondos.
+
+## 28. Opiniones críticas (postura del Consejo Editorial)
+
+**Primero: "entró pensando en cómo salir" lo explica todo.** Sostenemos que la clave para entender (y
+negociar con) el PE/VC es internalizar que el fondo es un inversionista con **fecha de salida**. Quien no
+entiende esto malinterpreta cada cláusula; quien lo entiende, las predice todas.
+
+**Segundo: el PE crea o extrae valor —y la diferencia importa éticamente.** Reconocemos el debate: hay
+fondos que **construyen** (profesionalizan, hacen crecer, dejan empresas mejores) y fondos que **extraen**
+(apalancan en exceso, recortan, vacían y se van). El abogado serio entiende la diferencia y opera con
+criterio: estructurar operaciones que creen **valor real**, no solo que extraigan a costa de la empresa,
+los trabajadores o los acreedores.
+
+**Tercero: el abogado del fundador debe equilibrar, no rendirse.** Advertimos contra dos errores opuestos:
+el abogado que **rechaza** las protecciones del VC (que son de mercado y razonables —el fundador no
+conseguirá capital sin ellas—) y el que **cede todo** (vetos excesivos, preferencias participating, full
+ratchet, vesting brutal). El buen abogado del fundador **acepta lo estándar y pelea lo que importa**:
+control razonable, dilución moderada, vesting justo con aceleración, antidilución weighted (no full
+ratchet), preferencia non-participating.
+
+**Cuarto: el cap table es sagrado.** Insistimos: la higiene del cap table (documentar cada acción, opción
+y convertible) es trabajo constante y subestimado. Un cap table sucio hunde rondas y ventas. El abogado de
+PE/VC **vive en el cap table**.
+
+**Quinto: la fiscalidad estructura todo.** El diseño de fondos e inversiones es **intensamente fiscal**
+(carry, ganancias de capital, vehículos). Subestimar al fiscalista es el error que más caro cuesta en esta
+práctica.
+
+## 29. Debate doctrinal
+
+- **¿El PE crea valor o lo extrae?** *Postura del Consejo:* **ambos existen**; depende del fondo y de la
+  operación. El PE que profesionaliza, hace crecer y deja una empresa mejor **crea** valor; el que apalanca
+  en exceso y vacía **extrae** (a veces destruyendo la empresa). El abogado debe estar del lado de la
+  creación.
+- **Preferencia *participating* vs. *non-participating*.** ¿Debe el inversionista cobrar su preferencia
+  **y además** participar (participating), o elegir entre una u otra (non-participating)? *Postura del
+  Consejo:* la **non-participating 1x** es lo **equilibrado y de mercado**; la participating (double-dip) es
+  agresiva y castiga desproporcionadamente a los fundadores —el abogado del fundador debe resistirla—.
+- **Antidilución: weighted average vs. full ratchet.** *Postura del Consejo:* la **weighted average** es
+  justa (ajuste proporcional); la **full ratchet** es punitiva (trata al inversionista como si hubiera
+  entrado al precio más bajo, diluyendo brutalmente a los fundadores) y solo se justifica en
+  circunstancias excepcionales.
+- **¿Cuánto control debe ceder el fundador?** Tensión entre la necesidad de capital y la conservación del
+  control. *Postura del Consejo:* el fundador debe ceder los **vetos razonables** que protegen la inversión
+  del VC, pero resistir los que **paralizan** la operación o lo expulsan injustamente; el equilibrio
+  protege a ambos (un fundador sin incentivo ni control destruye el valor que el VC busca).
+- **El carried interest y su tratamiento fiscal.** Debate global: ¿debe el *carry* gravarse como **ganancia
+  de capital** (tasa baja) o como **ingreso ordinario** (tasa alta)? *Postura del Consejo:* es un debate de
+  política fiscal legítimo (¿es el carry un retorno de inversión o una remuneración por servicios?); el
+  abogado debe **conocer** el tratamiento vigente y estructurar conforme a derecho, sin esquemas abusivos.
+- **¿Es sano el nivel de apalancamiento del PE?** *Postura del Consejo:* el apalancamiento moderado crea
+  valor; el **excesivo** traslada un riesgo enorme a la empresa y sus acreedores (y puede quebrarla). La
+  prudencia —y el respeto a la protección de acreedores y a la asistencia financiera— es la línea correcta.
