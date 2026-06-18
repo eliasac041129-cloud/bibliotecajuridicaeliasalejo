@@ -192,3 +192,115 @@ El abogado corporativo **lidera o integra el equipo** que ejecuta la operación:
 dirige la due diligence, negocia y redacta el contrato, coordina a los demás asesores (financieros,
 fiscales) y a las autoridades, y conduce el *signing* y el *closing*. Es el rol más completo, exigente
 y prestigioso del derecho de los negocios —y el destino de esta biblioteca—.
+
+
+## 10. Definiciones doctrinales
+
+- **M&A (doctrina y práctica):** conjunto de operaciones por las que se transfiere la **propiedad o el
+  control** de una empresa (o de sus activos), incluyendo **adquisiciones** (compra de acciones o
+  activos), **fusiones** (combinación de dos sociedades en una) y reestructuraciones afines
+  (escisiones, *carve-outs*, *joint ventures*).
+- **Adquisición (acquisition):** operación por la que un comprador obtiene el **control** de una empresa
+  comprando sus **acciones** (*share deal*) o sus **activos** (*asset deal*).
+- **Fusión (merger):** operación societaria (Libro 2 Nivel III) por la que dos o más sociedades se
+  **combinan** en una sola: por **incorporación** (una absorbe a otra, que desaparece) o por
+  **integración** (ambas desaparecen y nace una nueva), con **transmisión universal** del patrimonio.
+- **Comprador estratégico vs. financiero:** el **estratégico** es una empresa que compra por
+  **sinergias** (integrar el negocio); el **financiero** es un **fondo** (PE/VC) que compra para
+  **desarrollar y vender** (busca rendimiento, no integración).
+- **Sinergia (doctrina financiera):** el valor adicional que genera la combinación (1+1>2); justifica
+  pagar una **prima** sobre el valor *stand-alone* de la *target*.
+
+> **Lectura del Consejo:** retén la **gran trifurcación estructural** —**share deal / asset deal /
+> fusión**— porque de ella se deduce casi todo (qué se transfiere, qué pasivos se heredan, qué
+> consentimientos y autorizaciones se necesitan, el tratamiento fiscal). Y distingue al comprador
+> **estratégico** del **financiero**: piensan, negocian y estructuran distinto. Esas dos
+> clasificaciones son la brújula del M&A.
+
+## 11. Definiciones legales (verificar versión vigente)
+
+El M&A **no** tiene una "ley de M&A" única: es una **práctica** que se construye sobre múltiples
+cuerpos legales (de ahí que integre todo):
+- **Fusión y escisión:** **LGSM**, arts. 222-228 bis (Libro 2 Nivel III): requisitos, asamblea
+  extraordinaria, **derecho de oposición de acreedores**, efectos.
+- **Compraventa de acciones:** **LGSM** (transmisión por endoso + libro de registro, art. 128) +
+  **Código Civil/Código de Comercio** (compraventa, saneamiento — Libros 2 Nivel II y 4 Nivel III).
+- **Compraventa de activos:** Código de Comercio/Civil; transmisión de cada activo y **cesión** de
+  contratos (con consentimientos — Libro 8 Nivel I).
+- **Concentraciones (competencia):** **Ley Federal de Competencia Económica** (notificación y
+  autorización de concentraciones que superen umbrales; COFECE/IFT).
+- **Emisoras y OPA:** **Ley del Mercado de Valores** (Libro 5 Nivel III): oferta pública de
+  adquisición, deberes del consejo, protección de minoritarios.
+- **Inversión extranjera:** **Ley de Inversión Extranjera** (sectores reservados/restringidos).
+- **Sectoriales:** leyes de energía, banca, seguros, telecom (autorizaciones).
+- **Fiscal y laboral:** Código Fiscal, Ley del ISR (efectos de la operación), Ley Federal del Trabajo
+  (sustitución patronal en *asset deals*).
+- **El contrato (SPA/APA/SHA):** se rige por la **autonomía de la voluntad** (Libro 8 Nivel I) y, si es
+  cross-border, a menudo por **ley extranjera** (NY, inglesa) elegida por las partes.
+
+## 12. Definición sencilla
+
+Una operación de **M&A** es **comprar, vender o fusionar empresas**. Hay tres formas básicas:
+- **Comprar las acciones** (*share deal*): te quedas con la **empresa entera** (con todo lo bueno y lo
+  malo: sus activos **y** sus deudas).
+- **Comprar solo los activos** (*asset deal*): te llevas las **partes que quieres** (la fábrica, la
+  marca, los contratos) y dejas atrás (idealmente) las deudas.
+- **Fusionar** dos empresas en **una sola**.
+
+Y no es "un contrato": es un **proceso por etapas** que va de la idea inicial a investigar la empresa
+(*due diligence*), negociar y firmar el contrato (*signing*), cumplir condiciones (como permisos de
+las autoridades) y, finalmente, **cerrar** (*closing*: se paga el precio y se transfiere la empresa).
+El gran tema de fondo es **quién paga si algo sale mal** después: para eso están las **declaraciones y
+garantías** del vendedor (*reps & warranties*), la **indemnización** y el dinero retenido en **escrow**.
+
+## 13. Conceptos fundamentales
+
+- **Target (empresa objetivo):** la empresa que se compra/adquiere.
+- **Buyer/Bidder (comprador) y Seller (vendedor).**
+- **Share deal (compra de acciones):** se adquieren las **acciones** de la *target*; el comprador
+  **hereda la sociedad con todos sus activos y pasivos** (incluidos los ocultos). Más simple de
+  ejecutar (una sola transferencia), pero más riesgoso en pasivos → más peso en *reps* e
+  indemnización.
+- **Asset deal (compra de activos):** se adquieren **activos y pasivos seleccionados**; permite **dejar
+  atrás** pasivos no deseados, pero exige transmitir **cada activo** y **ceder cada contrato** (con
+  consentimientos y *change of control* — Libro 4 Nivel III), y puede activar **sustitución patronal**
+  y costos fiscales.
+- **Merger (fusión):** combinación societaria (LGSM); transmisión universal del patrimonio.
+- **Carve-out / spin-off:** separar una **división** o unidad de negocio para venderla (carve-out) o
+  para distribuirla a los accionistas (spin-off, vía escisión — Libro 2 Nivel III).
+- **NDA (acuerdo de confidencialidad):** protege la información que el vendedor revela al comprador en
+  las pláticas iniciales.
+- **Teaser / Information Memorandum (IM):** documentos con que el vendedor presenta la *target* a
+  posibles compradores (en procesos competitivos/subastas).
+- **LOI / Term Sheet / Carta de Intención (MOU):** documento preliminar que fija los **términos
+  básicos** (precio indicativo, estructura, exclusividad, calendario). **Mayormente NO vinculante**,
+  salvo cláusulas específicas (confidencialidad, exclusividad/*no-shop*, ley aplicable) — Libro 8 Nivel
+  I.
+- **Due diligence:** la **investigación** a fondo de la *target* (legal, financiera, fiscal, laboral,
+  etc.) antes de comprar (Libro 2 del Nivel IV).
+- **SPA (Share Purchase Agreement):** el contrato de compraventa de **acciones** (el documento estrella
+  del *share deal*). **APA (Asset Purchase Agreement):** el de compraventa de **activos**. **SHA
+  (Shareholders Agreement):** convenio entre accionistas (gobierno post-cierre, en JV y PE/VC).
+- **Reps & Warranties (declaraciones y garantías):** afirmaciones del vendedor sobre la *target* (su
+  propiedad, finanzas, contratos, ausencia de pasivos ocultos); su falsedad activa la **indemnización**
+  (raíz: saneamiento — Libro 2 Nivel II).
+- **Covenants:** obligaciones de hacer/no hacer (p. ej., operar "en el curso ordinario" entre signing
+  y closing).
+- **Conditions precedent (condiciones suspensivas):** lo que debe cumplirse para cerrar
+  (autorizaciones COFECE/CNBV, *no MAC*, veracidad de *reps*) — Libro 4 Nivel I (modalidades).
+- **Signing vs. Closing:** la **firma** del contrato (signing) y el **cierre** (closing: se paga y se
+  transfiere). Se separan cuando hay condiciones (autorizaciones); si no, son **simultáneos**.
+- **Purchase price y ajustes:** precio, con ajustes por **deuda neta** y **capital de trabajo**
+  (Libro 10 Nivel I); mecanismos **locked box** vs. **completion accounts**.
+- **Earn-out:** parte del precio **diferida y condicionada** a resultados futuros de la *target*
+  (obligación condicional — Libro 1 Nivel II).
+- **Escrow / Holdback:** retención de parte del precio (en un fideicomiso/cuenta) para garantizar la
+  **indemnización** (Libros 3 y 4 Nivel III; Libro 3 Nivel II).
+- **MAC / MAE (Material Adverse Change/Effect):** cláusula que permite **no cerrar** si ocurre un cambio
+  adverso relevante en la *target* entre signing y closing.
+- **Indemnización (indemnity):** el régimen que define **qué daños** repara el vendedor, con **cap**
+  (tope), **basket/de minimis** (umbral) y **survival** (plazo) — Libro 3 Nivel II.
+- **R&W Insurance:** seguro que cubre el incumplimiento de las *reps*, permitiendo un *clean exit*.
+- **Comprador estratégico vs. financiero (PE/VC):** ver sección 10.
+- **Concentración (competencia):** la operación de M&A vista desde el derecho de competencia
+  (notificación a COFECE/IFT).
