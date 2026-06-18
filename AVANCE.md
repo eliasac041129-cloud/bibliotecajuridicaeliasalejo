@@ -62,7 +62,7 @@ integridad. Este archivo es el tablero de control.
 | 5 | Derecho Bancario y Financiamiento Corporativo | ✅ | 6–7 sem |
 | 6 | Contratos Estratégicos y Joint Ventures | ✅ | 4–5 sem |
 | 7 | Private Equity y Venture Capital | ✅ | 6–8 sem |
-| 8 | Gobierno corporativo avanzado, Compliance y ESG | ⬜ | 5–6 sem |
+| 8 | Gobierno corporativo avanzado, Compliance y ESG | ✅ | 5–6 sem |
 
 ## Nivel V · Maestría — (estándar V3)
 **⏱ Dominio del nivel: ~6–8 meses**
