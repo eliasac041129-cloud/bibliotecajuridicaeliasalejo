@@ -264,3 +264,146 @@ socio cuyo objetivo es **revender en años**. El abogado ayuda a entender qué s
 **estructurar la entrada del fondo** protegiendo los intereses de su cliente (sea el fondo o la empresa/
 fundador). Entender la **lógica del fondo** —que entra pensando en cómo salir— es esencial para negociar
 bien de cualquiera de los dos lados de la mesa.
+
+## 10. Definiciones doctrinales
+
+La doctrina financiera y jurídica define los conceptos centrales así:
+
+- **Private Equity (PE) / Capital privado:** inversión de capital en empresas **maduras que no cotizan**,
+  típicamente **adquiriendo el control** (a menudo con apalancamiento —LBO—), para crear valor y revender
+  en un horizonte de años. La doctrina lo define como una **clase de activo** de inversión alternativa
+  orientada al **control y la transformación** de empresas establecidas.
+- **Venture Capital (VC) / Capital de riesgo:** inversión en empresas **jóvenes de alto crecimiento**
+  (*startups*), mediante participaciones **minoritarias** en sucesivas **rondas**, apostando al crecimiento
+  exponencial de unas pocas que compensan los fracasos de muchas (*power law*).
+- **Fondo (*fund*):** vehículo de inversión que **reúne capital** de varios inversionistas para invertirlo
+  según una estrategia, con un horizonte definido. Jurídicamente, suele estructurarse como una
+  **sociedad/asociación** (en EE.UU., *Limited Partnership*; en México, vía **CKD/CERPI** o vehículos
+  *offshore*).
+- **GP (*General Partner*) / Gestor:** quien **gestiona** el fondo, toma las decisiones de inversión y
+  responde por ellas; cobra comisión de gestión y *carry*. Es el "**administrador**" del fondo.
+- **LP (*Limited Partner*) / Inversionista:** quien **aporta el capital** al fondo (afores, aseguradoras,
+  fondos de pensiones, family offices, soberanos), con responsabilidad limitada a su aportación y un papel
+  **pasivo** (no gestiona).
+- **Carried interest (*carry*):** la **participación en las ganancias** que cobra el GP (típicamente ~20%
+  de las utilidades por encima de un umbral —*hurdle*—). Es el principal incentivo del gestor.
+- **LBO (*Leveraged Buyout*):** adquisición de una empresa financiada en gran parte con **deuda**, repagada
+  con el flujo de la propia empresa adquirida (visto en Libros 3 y 5).
+- **Term Sheet de inversión:** documento que fija los **términos** de la inversión del fondo (valuación,
+  preferencias, gobierno), mayormente **no vinculante** salvo cláusulas de proceso (eco del Libro 4).
+- **Preferencia de liquidación (*liquidation preference*):** derecho del inversionista a **cobrar primero**
+  (un múltiplo de su inversión) en una venta o liquidación, antes que los ordinarios.
+- **Cap table (tabla de capitalización):** el registro de **quién posee qué** porcentaje del capital de la
+  empresa, y cómo cambia con cada ronda, opción e instrumento convertible.
+- **Exit (salida):** la operación por la que el fondo **realiza su inversión** —vendiéndola (a un
+  estratégico o a otro fondo) o sacándola a bolsa (IPO)—. Es el momento en que se materializa el retorno.
+
+## 11. Definiciones legales y marco normativo
+
+El PE/VC se asienta en un entramado de derecho societario, bursátil y contractual:
+
+- **Estructura del fondo:** la relación **GP/LP** se rige por el contrato del fondo (***LPA — Limited
+  Partnership Agreement***, en vehículos extranjeros) o por las reglas del vehículo mexicano. En México,
+  los **CKDs** (Certificados de Capital de Desarrollo) y **CERPIs** (Certificados de Proyectos de
+  Inversión) son **vehículos bursátiles** (regulados por la **LMV** y la CNBV) que permiten a las **afores**
+  y otros institucionales invertir en capital privado/proyectos. Muchos fondos usan también vehículos
+  *offshore* (Delaware LP, Cayman) por eficiencia.
+- **La S.A.P.I. (LMV): el vehículo de la empresa invertida.** La **Sociedad Anónima Promotora de
+  Inversión** fue creada (LMV) precisamente para **dar validez societaria** a las cláusulas que exigen los
+  inversionistas de PE/VC: **restricciones a la transmisión** (lock-up, ROFR, tag/drag), **derechos de
+  veto**, **acciones con derechos especiales** (preferencias), **opciones** (put/call) y **convenios entre
+  accionistas**. Es el vehículo estándar de la empresa que recibe inversión.
+- **Acciones preferentes y series (LGSM/LMV).** El derecho societario permite **distintas series de
+  acciones** con derechos diferenciados (las acciones **preferentes** del inversionista, con preferencia de
+  liquidación y derechos de gobierno, frente a las **ordinarias** de los fundadores).
+- **Instrumentos convertibles.** Las **notas convertibles** (deuda que se convierte en acciones en la
+  siguiente ronda) y los **SAFE** (*Simple Agreement for Future Equity* —no es deuda ni equity hasta la
+  conversión—) se estructuran sobre la base contractual (autonomía de la voluntad), adaptados al derecho
+  mexicano.
+- **Convenios entre accionistas (SHA — Libro 4).** El corazón documental de la inversión: validado por la
+  S.A.P.I., rige gobierno, preferencias, antidilución, vesting y salidas.
+- **Mercado de valores (LMV) para el IPO.** Si la salida es a bolsa, aplica el régimen de emisoras.
+- **Competencia (LFCE), fiscal (LISR/CFF) e inversión extranjera.** Condicionan las adquisiciones (LBO), la
+  estructura fiscal del fondo y del *carry*, y la participación extranjera.
+
+> **Nota de método:** la estructura de fondos e inversiones es **intensamente fiscal y regulatoria**;
+> verifica el marco vigente (LMV, reglas de CKD/CERPI, LISR) y estructura **con especialistas fiscales**
+> antes de aplicar (Manifiesto XI.5).
+
+## 12. Definición sencilla
+
+Imagina dos tipos de inversionistas que ayudan a las empresas a crecer, para luego venderlas con ganancia:
+
+**El Venture Capital (VC) es como un "buscador de estrellas".** Apuesta a **muchas bandas de garage**
+(*startups*): le da dinero a 10 bandas jóvenes a cambio de un pedazo de cada una. Sabe que **7 fracasarán**,
+2 quedarán bien, y **1 se volverá una superestrella** que vale tanto que **paga las otras 9 y deja enorme
+ganancia**. No busca evitar fracasos (son inevitables); busca **no perderse la estrella**. Por eso invierte
+en muchas, en **etapas** (primero poco dinero —semilla—, luego más si la banda despega —Serie A, B...—), y
+se protege para los casos intermedios.
+
+**El Private Equity (PE) es como un "renovador de casas".** Compra una **casa sólida pero descuidada** (una
+empresa madura), normalmente con **un préstamo grande** (apalancamiento: pone poco de su dinero y mucho
+prestado), la **renueva** (la profesionaliza, la hace crecer), y la **revende** más cara unos años después.
+Su ganancia viene de **comprar bien, mejorar, y vender mejor** —amplificada por la deuda—.
+
+Lo que ambos tienen en común, y que **explica todo lo que hacen**: **entran pensando en cómo salir**. No
+quieren quedarse con la empresa para siempre; quieren **venderla con ganancia** en unos años. Por eso, cada
+cláusula que negocian responde a una pregunta: *si esto va bien, ¿cómo me aseguro de cobrar mucho?; si va
+regular, ¿cómo recupero al menos lo mío (preferencia de liquidación)?; si quiero vender todo, ¿cómo obligo
+a los demás a vender conmigo (drag along)?; mientras tanto, ¿cómo protejo mi inversión (vetos)?*. El fondo
+es un inversionista con **fecha de salida**, y eso lo explica todo.
+
+## 13. Conceptos fundamentales
+
+Fija este vocabulario; es el idioma del capital privado y reúne términos del SHA (Libro 4) y del LBO
+(Libro 5):
+
+**La estructura del fondo:**
+- **GP / LP:** gestor (administra, cobra carry) / inversionista (aporta capital, pasivo).
+- **Management fee / Carried interest:** comisión de gestión (~2%) / participación en ganancias (~20%) =
+  "**2 y 20**".
+- **Hurdle rate / Preferred return:** rendimiento mínimo que se da a los LPs antes de que el GP cobre carry.
+- **Commitment / Drawdown / Capital call:** capital comprometido por el LP / llamadas de capital cuando el
+  fondo invierte.
+- **Vintage y ciclo de vida del fondo:** *fundraising* → periodo de inversión → gestión → *exit*/
+  desinversión (típicamente 10 años).
+- **CKD / CERPI:** vehículos mexicanos para que las afores inviertan en capital privado.
+
+**Private Equity:**
+- **Buyout / LBO:** compra de control, con apalancamiento (Libros 3 y 5).
+- **Buy-and-build / add-ons:** crear valor adquiriendo empresas complementarias.
+- **Multiple expansion:** vender a un múltiplo mayor que al que se compró.
+- **Turnaround / distressed:** rescate de empresas en problemas.
+- **Dry powder:** capital comprometido aún no invertido.
+
+**Venture Capital:**
+- **Etapas:** **pre-seed/semilla** → **Serie A** → **Serie B, C...** (cada ronda, más capital y mayor
+  valuación si la empresa crece).
+- **Pre-money / Post-money:** valuación **antes** / **después** de la nueva inversión (post = pre +
+  inversión).
+- **Dilución:** reducción del porcentaje de los socios existentes al emitir acciones nuevas.
+- **Cap table:** tabla de capitalización (quién posee qué).
+- **SAFE / Nota convertible:** instrumentos de inversión rápida que **convierten** en acciones en la
+  siguiente ronda (con *descuento* y/o *cap* de valuación).
+- **ESOP / pool de opciones:** acciones reservadas para **empleados** (incentivo); diluye a todos.
+- **Unicornio:** *startup* valuada en más de mil millones de dólares.
+- **Power law / home run:** la lógica de que pocos éxitos enormes pagan muchos fracasos.
+
+**El term sheet de inversión y el SHA (protecciones del inversionista — reúne el Libro 4):**
+- **Preferencia de liquidación:** cobrar primero (1x, 2x; *participating* / *non-participating*).
+- **Antidilución:** protección si una ronda futura es a menor precio (*full ratchet* / *weighted average*).
+- **Protective provisions / vetos:** decisiones que requieren consentimiento del inversionista.
+- **Board seats / información:** asientos en el consejo y derechos de información.
+- **Pro-rata / preemptive rights:** derecho a invertir en rondas futuras para no diluirse.
+- **Vesting de fundadores:** las acciones del fundador se "ganan" con el tiempo (típico 4 años con 1 de
+  *cliff*); **good leaver / bad leaver** (cómo se va).
+- **Drag along / Tag along / ROFR:** salida (arrastrar / acompañar / preferencia) —del SHA—.
+- **Registration rights:** derecho a exigir que se registren las acciones para venderlas en un IPO.
+
+**Salidas (*exit*):**
+- **Trade sale (venta estratégica):** vender a otra empresa del sector (M&A).
+- **Secondary buyout:** vender a otro fondo de PE.
+- **IPO (oferta pública inicial):** sacar la empresa a bolsa.
+- **Redemption / recompra:** que la empresa o los socios recompren la participación del fondo.
+
+Con este vocabulario, entramos al **desarrollo absoluto**.
