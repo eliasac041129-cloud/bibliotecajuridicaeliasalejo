@@ -530,3 +530,110 @@ naufragio —y a prepararse para él **antes** de que ocurra—.
   *schemes of arrangement* (Reino Unido) o Chapter 11.
 - **Forum shopping concursal:** las empresas a veces eligen la jurisdicción de reestructura más
   favorable (Reino Unido, EE. UU.) —fenómeno que la cooperación internacional busca ordenar—.
+
+
+## 22. Derecho comparado
+
+| Sistema | Rasgos del derecho concursal |
+|---|---|
+| **México** | LCM (2000): dos etapas (**conciliación** → **quiebra**); IFECOM y especialistas; prioridad a la **conservación**; insolvencia transfronteriza (Ley Modelo UNCITRAL); planes prepactados (2014). |
+| **España** | Ley Concursal (texto refundido 2020): concurso único con fase común, convenio o liquidación; planes de reestructuración (Directiva UE 2019). |
+| **Estados Unidos** | **Bankruptcy Code:** **Chapter 11** (reorganización, *debtor in possession*, *DIP financing*, *cram down*) y **Chapter 7** (liquidación); el modelo mundial del concurso reorganizativo. |
+| **Delaware/Nueva York** | Sedes preferidas de los grandes Chapter 11 (tribunales especializados, jurisprudencia rica); centro del *distressed* global. |
+| **Unión Europea** | **Directiva 2019/1023** sobre marcos de reestructuración preventiva y segunda oportunidad; **Reglamento de Insolvencia** (coordinación transfronteriza dentro de la UE). |
+| **UNIDROIT** | Trabajos sobre ejecución y garantías relacionados con la insolvencia. |
+| **UNCITRAL** | **Ley Modelo sobre Insolvencia Transfronteriza** (adoptada por México, EE. UU. —Chapter 15— y muchos países); guía legislativa sobre insolvencia. |
+| **CISG** | No aplica. |
+| **Common Law** | Chapter 11/7 (EE. UU.); en Reino Unido, *administration*, *CVA* y los *schemes of arrangement* / *restructuring plans* (muy usados en reestructuras internacionales). |
+| **Civil Law** | Modelos de concurso con fases de convenio/liquidación; convergencia hacia la **reestructuración preventiva** (influencia de la Directiva UE y del Chapter 11). |
+
+> **Convergencia clave:** el mundo converge hacia el modelo **reorganizativo** (salvar la empresa
+> viable) inspirado en el **Chapter 11**, con mecanismos de ***cram down*** (vincular a disidentes) y
+> **financiamiento durante el concurso**. La **Ley Modelo UNCITRAL** coordina las insolvencias
+> transfronterizas. El abogado de reestructuración internacional debe dominar Chapter 11 y los
+> *schemes/restructuring plans* ingleses, además del concurso local.
+
+## 23. Derecho mexicano
+
+- **Ley de Concursos Mercantiles (LCM, 2000; reformas 2007 y 2014):** finalidad y carácter de interés
+  público (art. 1); presupuesto de incumplimiento generalizado (arts. 9-10); etapas (conciliación y
+  quiebra); órganos (juez, **IFECOM**, visitador, conciliador, síndico); reconocimiento, graduación y
+  **prelación** de créditos (arts. 217 y ss.); **retroacción** y actos en fraude (arts. 112 y ss.);
+  convenio concursal y *cram down*; financiamiento durante el concurso; insolvencia transfronteriza
+  (arts. 278 y ss., Ley Modelo UNCITRAL); planes prepactados.
+- **Competencia:** jueces de distrito (materia federal — comercio, art. 73-X).
+- **Normas conexas:** LGSM (responsabilidad de administradores en la zona de insolvencia), leyes
+  financieras (regímenes especiales para bancos y entidades financieras, que tienen procedimientos
+  propios), Ley de Instituciones de Crédito, fiscal (preferencia de créditos fiscales) y laboral
+  (preferencia de créditos laborales).
+
+## 24. Jurisprudencia relevante
+
+> Verificar vigencia antes de citar.
+- **Preferencia de créditos laborales:** confirmación de su lugar destacado en la prelación.
+- **Acciones de ineficacia (retroacción):** criterios sobre la impugnación de actos en fraude de la
+  masa (garantías y pagos preferentes en el periodo de retroacción).
+- **Suspensión de ejecuciones:** alcance de la suspensión y su relación con los acreedores
+  garantizados.
+- **Convenio concursal y vinculación de disidentes:** validez del *cram down* y sus límites
+  (protección de los acreedores minoritarios disidentes).
+- **Reconocimiento de procedimientos extranjeros:** aplicación de la insolvencia transfronteriza.
+
+## 25. Criterios de la Suprema Corte / tribunales
+
+- **Constitucionalidad de la LCM:** validez del régimen concursal y de la suspensión de ejecuciones
+  frente al derecho de los acreedores (interés público en la conservación de empresas).
+- **Equilibrio entre conservación y derechos de los acreedores garantizados:** criterios que buscan
+  preservar la empresa sin vaciar las garantías.
+- **Preferencias (laboral, fiscal, garantía real):** interpretación de la prelación y su jerarquía.
+
+## 26. Doctrina nacional
+
+- **Doctrina sobre la LCM de 2000** (autores que participaron en su redacción y comentaristas): clave
+  por la novedad y tecnicismo del régimen.
+- **Obras clásicas de quiebras** (bajo la antigua Ley de Quiebras de 1943) para el contraste histórico.
+- **Literatura de reestructuración y *distressed*** (más reciente): planes prepactados, *workouts*,
+  financiamiento concursal y *distressed M&A*.
+- **Doctrina mercantil general** (Mantilla Molina, Barrera Graf) para el marco del comerciante y la
+  empresa.
+
+## 27. Doctrina internacional
+
+- **US Bankruptcy Code y su doctrina (Chapter 11):** el modelo de referencia mundial; literatura
+  abundante sobre reorganización, *DIP financing* y *cram down*.
+- **UNCITRAL, *Guía Legislativa sobre el Régimen de la Insolvencia* y Ley Modelo sobre Insolvencia
+  Transfronteriza.**
+- **Directiva UE 2019/1023** sobre reestructuración preventiva y segunda oportunidad.
+- **Doctrina inglesa sobre *schemes of arrangement* y *restructuring plans*** (muy usados en
+  reestructuras internacionales).
+
+## 28. Opiniones críticas (postura del Consejo)
+
+1. **El concurso mexicano sigue siendo lento y subutilizado.** Pese a la filosofía conservativa de la
+   LCM, los tiempos y la incertidumbre llevan a muchas empresas a preferir **workouts extrajudiciales**
+   o a colapsar sin reestructura ordenada; el Consejo aboga por una mayor **agilidad** y uso de los
+   **planes prepactados**.
+2. **La prelación debe respetar las garantías para no encarecer el crédito.** El Consejo subraya que
+   un sistema que **respeta** las garantías reales (y su prelación) **abarata** el crédito de todo el
+   país; debilitarlas (por preferencias excesivas o impugnaciones laxas) tiene un costo macroeconómico.
+3. **La retroacción es un arma de doble filo.** Necesaria contra el fraude, pero usada con laxitud
+   genera **inseguridad** sobre las garantías; el Consejo recomienda tomar garantías **a tiempo** (al
+   originar el crédito) y documentar su causa para resistir impugnaciones.
+
+## 29. Debate doctrinal
+
+- **¿Conservación o liquidación como prioridad?** El modelo moderno prioriza **salvar** la empresa
+  viable, pero hay tensión: ¿hasta cuándo "mantener viva" una empresa inviable, a costa de los
+  acreedores? El **test de viabilidad** es clave.
+- **Prelación: ¿hasta dónde proteger a laborales y fiscales por encima de las garantías?** Proteger al
+  trabajador es justo, pero una preferencia excesiva **erosiona** las garantías y encarece el crédito.
+  El equilibrio es político y económico.
+- **Cram down: ¿vincular a los disidentes es justo?** Necesario para evitar el *holdout* (que un
+  minoritario secuestre la reestructura), pero debe proteger a los disidentes (que no reciban menos que
+  en una liquidación —*best interest test*—).
+- **Deberes de los administradores en la "zona de insolvencia":** cuando la empresa se acerca a la
+  insolvencia, ¿deben los administradores velar por los **acreedores** (no agravar el pasivo) y no solo
+  por los accionistas? Debate de gobierno corporativo y responsabilidad.
+- **Insolvencia transfronteriza: ¿universalismo o territorialismo?** ¿Un solo procedimiento global
+  (universalismo, COMI) o procedimientos locales coordinados (territorialismo)? La Ley Modelo UNCITRAL
+  adopta un universalismo **modificado**.
