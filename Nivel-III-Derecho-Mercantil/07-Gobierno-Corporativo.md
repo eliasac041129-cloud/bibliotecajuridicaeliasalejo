@@ -442,3 +442,96 @@ hostil)—, los gobernantes tienen deberes **reforzados**: deben buscar el **mej
 (los accionistas), no su propio beneficio. Todo el gobierno corporativo es, en el fondo, **diseñar y
 hacer cumplir esa "constitución" de la empresa** para que el poder sirva a sus dueños y no se abuse de
 los débiles.
+
+
+## 16. Ejemplos simples
+
+1. **Regla de juicio de negocio.** Un consejo aprueba, bien informado y de buena fe, lanzar un producto
+   que fracasa y causa pérdidas. ¿Responden los consejeros? **No**: la decisión fue **informada, de
+   buena fe y sin conflicto** (regla de juicio de negocio); el derecho no castiga el riesgo empresarial
+   razonable.
+2. **Deber de lealtad (conflicto de interés).** Un consejero quiere que la empresa compre un inmueble
+   **suyo**. Debe **revelar** el conflicto y **abstenerse** de votar; la operación pasa por consejeros
+   **independientes** y a **precio de mercado**.
+3. **Oportunidad societaria.** Un directivo se entera de un negocio que le interesaba a la empresa y lo
+   toma **para sí**. Viola el deber de **lealtad** (se apropió de una **oportunidad societaria**).
+4. **Consejero independiente.** Una S.A.B. integra a su consejo a independientes que vigilan las
+   operaciones con partes relacionadas y protegen a los minoritarios.
+5. **Acción de responsabilidad.** Unos administradores causan un daño a la sociedad por negligencia
+   grave; una **minoría del 25%** ejerce la **acción social de responsabilidad** para que **reparen**.
+
+## 17. Ejemplos complejos
+
+1. **Operación con parte relacionada y tunneling.** El socio de control hace que la empresa le compre
+   insumos a **otra empresa suya**, a precios **inflados**, extrayendo valor en perjuicio de los
+   minoritarios (*tunneling*). El comité de prácticas societarias y los independientes deben **bloquear**
+   o ajustar la operación (precio de mercado, revelación, aprobación independiente). Si no lo hacen,
+   hay responsabilidad y posible impugnación. Lección: las OPR son el principal canal de abuso; la
+   independencia y la transparencia las controlan.
+2. **Deberes del consejo en una venta (Revlon).** La empresa recibe ofertas de compra. El consejo debe
+   **maximizar el valor para los accionistas** (no elegir al postor que le conserva el puesto a los
+   directivos): proceso competitivo, *fairness opinion*, deliberación informada. Si el consejo
+   favorece a un postor por interés propio, viola sus deberes. Lección: en una venta de control, el
+   consejo se vuelve "subastador" en interés de los accionistas (Nivel IV).
+3. **OPA hostil y defensas (Unocal).** Un postor lanza una OPA hostil. El consejo de la *target* cree
+   que el precio es **inadecuado** y adopta defensas. Son válidas si son **proporcionales** a la
+   amenaza y buscan proteger a los accionistas —**no** atrincherar a los directivos—. Lección: el
+   consejo puede defender, pero dentro de sus deberes fiduciarios (Nivel IV).
+4. **Empresa familiar sin gobierno.** Una empresa familiar exitosa no tiene consejo profesional ni
+   reglas; al morir el fundador, los herederos entran en conflicto y la empresa se paraliza y pierde
+   valor. Lección: profesionalizar el gobierno (consejo con independientes, protocolo familiar,
+   sucesión) es supervivencia.
+
+## 18. Casos reales (jurisprudencia, regulación y operaciones estilizadas)
+
+- **Berle & Means / teoría de la agencia:** el marco conceptual que fundó la disciplina (separación
+  propiedad-control).
+- **Enron / WorldCom (2001-2002) → Sarbanes-Oxley:** el fraude contable que detonó la reforma global del
+  gobierno corporativo (independencia de auditores, comités de auditoría, certificación de estados
+  financieros, responsabilidad de directivos).
+- **Jurisprudencia de Delaware (Revlon, Unocal, business judgment rule):** los estándares de los
+  deberes fiduciarios y de las defensas anti-OPA; **derecho vivo del M&A** (se profundizan en Nivel
+  IV).
+- **México (LMV 2005):** codificación del gobierno corporativo de las emisoras (independientes,
+  comités, deberes); sanciones de la CNBV por operaciones con partes relacionadas y conflictos.
+
+> *Nota de método (Manifiesto XI.5):* verificar la vigencia y los datos de los casos/normas; se
+> exponen por su valor formativo y de criterio.
+
+## 19. Casos empresariales
+
+- **Profesionalización de la empresa familiar:** montar un **consejo** con consejeros independientes,
+  comités, un **protocolo familiar** (reglas de la familia sobre la empresa) y un plan de **sucesión**;
+  eleva el valor y la supervivencia.
+- **Gestión de conflictos de interés:** políticas internas de conflictos, comité que aprueba las OPR,
+  registro de partes relacionadas.
+- **Compliance corporativo:** programa de cumplimiento (anticorrupción, competencia, lavado, datos) que
+  protege a la empresa y a los administradores (responsabilidad de la persona moral, Libro 5 Nivel I).
+
+## 20. Casos corporativos (en transacciones)
+
+- **Deberes del consejo en un M&A:** asesorar al consejo para que el proceso de venta cumpla sus
+  deberes (información, *fairness opinion*, maximizar valor, manejar conflictos como un *management
+  buyout*).
+- **Derechos de gobierno del inversionista (VC/PE):** estructurar los asientos en el consejo, los
+  **vetos** sobre *reserved matters*, los derechos de información y los comités, vía estatutos
+  (S.A.P.I.) y convenio entre accionistas (Libro 2 Nivel III).
+- **Comité especial (*special committee*):** en operaciones con conflicto (compra por el socio de
+  control, MBO), se forma un comité de **independientes** que negocia y aprueba, para "limpiar" el
+  conflicto y resistir el escrutinio.
+- **Due diligence de gobierno corporativo:** revisar la integración y funcionamiento del consejo, los
+  comités, las OPR, los conflictos y los antecedentes de responsabilidad de administradores.
+
+## 21. Casos internacionales
+
+- **Delaware (el referente):** la Court of Chancery y su jurisprudencia (Revlon, Unocal, Caremark
+  —deber de supervisión—, business judgment rule) definen los deberes fiduciarios y las defensas;
+  estudio obligado del Nivel IV.
+- **Sarbanes-Oxley (EE. UU., 2002) y Dodd-Frank (2010):** estándares de gobierno, auditoría y
+  responsabilidad para emisoras.
+- **Principios de Gobierno Corporativo de la OCDE/G20:** el estándar internacional (derechos de
+  accionistas, trato equitativo, papel del consejo, transparencia, stakeholders).
+- **Códigos nacionales (UK Corporate Governance Code, etc.):** modelo "*comply or explain*"
+  (cumplir o explicar por qué no): autorregulación con disciplina de mercado.
+- **ESG y *stewardship*:** los grandes inversores institucionales globales (fondos de pensiones,
+  gestoras) ejercen presión por buen gobierno y sostenibilidad (códigos de *stewardship*).
