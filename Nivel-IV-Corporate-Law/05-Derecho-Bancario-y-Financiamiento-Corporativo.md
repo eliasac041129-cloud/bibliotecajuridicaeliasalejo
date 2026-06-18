@@ -557,3 +557,68 @@ tienen **prelación**: cobran del producto de su bien **antes** que los acreedor
 *negative pledge* (la prohibición de dar garantías a otros) es tan importante: el acreedor no quiere que
 aparezcan otros con mejor prelación que él. Todo el diseño de garantías es, en el fondo, una **apuesta
 sobre quién cobra primero si todo se derrumba**.
+
+### 14.C · El crédito sindicado (cómo prestan muchos bancos juntos)
+
+Cuando una empresa necesita financiamiento **muy grande** (cientos o miles de millones), **ningún banco
+quiere —ni regulatoriamente puede— prestarlo solo**: concentrar tanto riesgo en un solo deudor es
+imprudente y choca con los límites de exposición de la regulación bancaria. La solución es el **crédito
+sindicado**: **varios prestamistas** otorgan **conjuntamente** el crédito a un mismo deudor, bajo un
+**único contrato**, repartiéndose el monto y, con él, el riesgo. Es la forma estándar de financiar las
+grandes operaciones corporativas y de adquisición.
+
+**Por qué se sindica (la lógica económica):**
+- **Diversificación del riesgo:** cada banco presta solo una parte, distribuyendo el riesgo de impago.
+- **Límites regulatorios y de capital:** la regulación limita cuánto puede un banco prestar a un solo
+  deudor; el sindicato sortea ese límite sumando capacidades.
+- **Relación y oportunidad:** los bancos participan para mantener la relación con un cliente importante y
+  ganar comisiones, aunque no quieran (o no puedan) tomar todo el riesgo.
+
+**Los roles del sindicato (quién hace qué):**
+- ***Mandated Lead Arranger* (MLA) / Banco estructurador:** el banco (o bancos) que **estructura** la
+  operación, la negocia con el deudor y **organiza el sindicato** (busca a los demás bancos para que
+  participen). Gana comisiones de estructuración. Es el **arquitecto** del financiamiento.
+- ***Underwriting* (aseguramiento) vs. *best efforts*:** el arranger puede **comprometerse a prestar todo**
+  (underwriting: asume el riesgo de colocar las participaciones entre otros bancos) o solo **esforzarse**
+  por conseguir los participantes (best efforts). El underwriting da **certeza** al deudor (clave en
+  adquisiciones: el comprador necesita saber que tendrá el dinero para cerrar —el *committed financing*—).
+- ***Agent* (banco agente):** una vez cerrado el crédito, **un** banco actúa como **administrador** del
+  sindicato durante la vida del préstamo: recibe los pagos del deudor y los distribuye, monitorea los
+  covenants, canaliza la comunicación, y **coordina** las decisiones de los bancos. No decide solo: actúa
+  según las instrucciones de la **mayoría** de los prestamistas (*Majority Lenders*).
+- ***Security Agent / Trustee* (agente de garantías):** administra las **garantías** en beneficio de
+  **todos** los prestamistas (a menudo vía un fideicomiso, para que las garantías sirvan al sindicato como
+  un todo).
+- **Bancos participantes:** los demás prestamistas, que toman una parte del crédito.
+
+**La documentación del sindicado.** Aquí entra un estándar global que debes conocer: los **modelos de la
+LMA** (*Loan Market Association*, dominante en Europa, Medio Oriente y muchos mercados, incluido el uso en
+México para deuda internacional) y de la **LSTA** (*Loan Syndications and Trading Association*, en EE.UU.).
+Estos modelos **estandarizan** el *facilities agreement* sindicado, lo que agiliza las operaciones y
+crea un lenguaje común. El contrato es esencialmente el *facilities agreement* del 14.A, **más** las
+cláusulas propias del sindicato:
+- **Mecánica de agencia:** cómo actúa el agente, su exención de responsabilidad, su reemplazo.
+- **Decisiones del sindicato:** qué requiere **mayoría** de prestamistas (*Majority Lenders*, p. ej.,
+  66⅔%) y qué requiere **unanimidad** (decisiones fundamentales: bajar la tasa, extender el plazo, liberar
+  garantías —los *all lender matters*—).
+- **Cláusulas de reparto (*pro rata sharing*):** si un banco cobra de más (p. ej., ejecuta una garantía por
+  su cuenta), debe **compartir** con los demás, para que todos estén en igualdad (*pari passu*).
+- **Transferencia y cesión (*assignment/transfer*):** los bancos pueden **vender** su participación en el
+  **mercado secundario** de préstamos (a otros bancos o fondos), lo que da liquidez a la deuda.
+- **Yank-the-bank / snooze-you-lose:** mecanismos para manejar a bancos que bloquean o no responden.
+
+**La dinámica de poder en el sindicato.** Una tensión central del crédito sindicado es **mayoría vs.
+minoría de prestamistas**: la mayoría puede tomar muchas decisiones (modificar covenants, otorgar
+*waivers*), pero ciertas decisiones fundamentales requieren **unanimidad** para proteger a los bancos
+minoritarios (nadie quiere que la mayoría le baje la tasa o libere sus garantías sin su consentimiento).
+Esta dinámica se vuelve **crítica en una reestructuración**: cuando el deudor tiene problemas y hay que
+renegociar, alinear a 15 o 20 bancos con intereses distintos es un arte (y a veces un *holdout* —un banco
+que se niega— puede bloquear todo). El abogado del sindicato debe dominar estas reglas de decisión.
+
+**Conexión con el M&A.** El crédito sindicado es el **vehículo típico del *acquisition finance*** (14.D):
+cuando un comprador o un fondo de PE necesita financiar una adquisición grande, no va a un solo banco: arma
+un **sindicato** que le da el *committed financing* (el compromiso firme de prestar) que necesita para
+**poder cerrar** la operación. La **carta de compromiso** del financiamiento (*commitment letter*) y su
+certeza son condición para firmar el SPA: el vendedor quiere saber que el comprador **tendrá el dinero**.
+Aquí ves cómo el financiamiento (este libro) y la documentación del M&A (Libro 4) se **entrelazan** en una
+sola operación.
