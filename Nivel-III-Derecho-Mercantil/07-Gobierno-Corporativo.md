@@ -294,3 +294,151 @@ ruina.
   criterios ambientales, sociales y de gobierno (Nivel IV).
 - **Compliance:** programas internos para asegurar el cumplimiento de la ley (anticorrupción,
   competencia, lavado, datos); conectado con la responsabilidad de la persona moral (Libro 5 Nivel I).
+
+
+## 14. Desarrollo absoluto
+
+Lo organizamos en: (A) la estructura de poder y los órganos; (B) el **consejo de administración** y
+sus consejeros; (C) los **deberes fiduciarios** (diligencia y lealtad) y la regla de juicio de
+negocio; (D) los **comités y el control**; (E) las **minorías** y las **operaciones con partes
+relacionadas**; (F) el debate **shareholder vs. stakeholder, el ESG** y el **gobierno en M&A**.
+
+### 14.A · La estructura de poder y los órganos
+
+El gobierno corporativo organiza el poder en niveles, con **pesos y contrapesos**:
+- **Asamblea de accionistas (los dueños):** decide lo **estructural** (estatutos, capital, fusión,
+  nombramiento del consejo, dividendos). Es el órgano supremo, pero **no administra**.
+- **Consejo de administración (la estrategia y la vigilancia):** fija la **estrategia**, **supervisa** a
+  la dirección, aprueba las operaciones relevantes y vela por el interés social. Es el **núcleo** del
+  gobierno corporativo.
+- **Dirección general (la operación):** ejecuta la estrategia y dirige el día a día; rinde cuentas al
+  consejo.
+- **Comités (especialización):** auditoría, prácticas societarias, riesgos, etc.; preparan y vigilan
+  para el consejo.
+- **Vigilancia (comisario / auditoría externa):** fiscaliza la gestión y la información financiera.
+
+La clave es la **separación de funciones**: la asamblea **nombra y controla** al consejo; el consejo
+**nombra, dirige y vigila** a la dirección; los comités y la auditoría **vigilan** a todos. Es la
+división de poderes (Libro 3, Nivel I) aplicada a la empresa.
+
+### 14.B · El consejo de administración y sus consejeros
+
+El **consejo** es el corazón del gobierno corporativo. Buen diseño:
+- **Composición equilibrada:** consejeros **ejecutivos** (conocen la operación), **patrimoniales**
+  (representan a accionistas) e **independientes** (objetividad; en la S.A.B., al menos el **25%**).
+- **El consejero independiente** es la pieza clave del gobierno moderno: sin vínculos que comprometan
+  su juicio, vigila a la administración y a los socios de control **en beneficio de todos** los
+  accionistas (especialmente las minorías).
+- **Funcionamiento:** sesiones regulares, información suficiente y oportuna, actas, **comités** de
+  apoyo; un buen consejo **delibera** y **supervisa**, no solo ratifica.
+- **Presidente del consejo vs. director general:** la tendencia (y mejor práctica) separa ambos roles
+  (o nombra un consejero líder independiente) para evitar la concentración de poder.
+
+### 14.C · Los deberes fiduciarios: el corazón de la responsabilidad
+
+Los administradores manejan **dinero ajeno**; por eso tienen **deberes fiduciarios** (LMV arts. 30-37
+para la S.A.B.; principios generales para toda sociedad):
+
+**1) Deber de diligencia (o de cuidado).** Actuar **informadamente**, con la diligencia de un buen
+administrador, en el **mejor interés de la sociedad**: prepararse para las sesiones, exigir
+información, deliberar, vigilar. Su protección: la **regla de juicio de negocio** (*business judgment
+rule*): si el administrador decidió de manera **informada, de buena fe y sin conflicto de interés**,
+**no responde** por el resultado, aunque la decisión salga mal. (El derecho no castiga el riesgo
+empresarial razonable; castiga la **negligencia** y el **conflicto**.)
+
+**2) Deber de lealtad.** Anteponer el **interés social** al propio. Implica:
+- **No usar información** de la sociedad en beneficio propio (conexión con *insider trading*, Libro 5).
+- **No tomar oportunidades societarias** (negocios que corresponden a la sociedad).
+- **No competir** con la sociedad.
+- **Revelar** los **conflictos de interés** y **abstenerse** de participar/votar en ellos.
+- Tratar las **operaciones con partes relacionadas** a **precio de mercado**, con revelación y
+  aprobación **independiente**.
+
+**Responsabilidad:** la violación de estos deberes genera **responsabilidad** (deber de **reparar** el
+daño a la sociedad), exigible por la sociedad o por una **minoría del 25%** (acción social de
+responsabilidad, LGSM art. 163). En la S.A.B., el régimen es más detallado (LMV). El **deber de
+lealtad** es más estricto que el de diligencia: el conflicto de interés **no** está protegido por la
+regla de juicio de negocio.
+
+> **Cómo razona un socio (asesor del consejo).** *"Cuando asesoro a un consejo en una decisión
+> importante —un M&A, una operación grande, una crisis—, mi trabajo es protegerlos cumpliendo el
+> **proceso**: que estén **informados** (información completa, asesores, *fairness opinion* si hay
+> venta), que actúen **de buena fe** y en el **interés social**, y que los conflictos se **revelen** y
+> los conflictuados se **abstengan**. Si el proceso es impecable, la **regla de juicio de negocio**
+> los protege aunque la decisión salga mal. El deber de diligencia se cumple con **proceso**; el de
+> lealtad, con **honestidad y transparencia**. Mi peor pesadilla es un conflicto de interés no
+> revelado: ahí no hay business judgment rule que valga."*
+
+### 14.D · Los comités y el control
+
+El consejo no puede vigilarlo todo solo; se apoya en **comités** especializados (obligatorios en la
+S.A.B., recomendables en cualquier empresa seria):
+- **Comité de auditoría** (independientes): vigila la **información financiera**, el **control
+  interno**, la **gestión de riesgos** y al **auditor externo**. Es el guardián de la veracidad de las
+  cuentas (lección de Enron).
+- **Comité de prácticas societarias** (independientes): vigila las **operaciones con partes
+  relacionadas**, las **compensaciones** de directivos y los **conflictos de interés**.
+- **Auditoría externa e interna:** revisión independiente de las cuentas y de los controles.
+- **Función de cumplimiento (*compliance*):** asegura el respeto a la ley (anticorrupción, competencia,
+  lavado, datos) y previene la responsabilidad de la persona moral.
+
+### 14.E · Las minorías y las operaciones con partes relacionadas
+
+El gobierno corporativo protege a quienes **no controlan** frente al abuso de la mayoría/control:
+- **Derechos de minoría (Libro 2 Nivel III):** convocar asamblea, designar consejero, información,
+  impugnar acuerdos, acción de responsabilidad; **reforzados** en la S.A.B. y pactables en la S.A.P.I.
+- **Operaciones con partes relacionadas (OPR):** el mayor riesgo de **expropiación** de los
+  minoritarios (que el socio de control "extraiga" valor vía operaciones a su favor). Control:
+  **revelación**, **precio de mercado**, **aprobación** por consejeros/comité **independientes**, y
+  abstención del conflictuado. La transparencia y la independencia son las defensas.
+- **Túnel (*tunneling*):** el nombre que la doctrina da a la extracción indebida de valor por el socio
+  de control (vía OPR abusivas, transferencias, etc.); el gobierno corporativo busca **cerrar el
+  túnel**.
+
+### 14.F · Shareholder vs. stakeholder, ESG y el gobierno corporativo en M&A
+
+- **El gran debate (shareholder vs. stakeholder):** ¿debe el consejo maximizar el valor del
+  **accionista** (Friedman, doctrina clásica de Delaware) o atender también a los **grupos de
+  interés** —empleados, comunidad, ambiente— (stakeholder/ESG)? La tendencia moderna integra la
+  **sostenibilidad** y el **largo plazo**, sin abandonar el deber hacia los accionistas (Nivel IV).
+- **ESG:** los criterios ambientales, sociales y de gobierno se han vuelto exigencia de inversores,
+  reguladores y sociedad; el consejo debe gestionarlos y, cada vez más, **revelarlos** (Nivel IV).
+- **Gobierno corporativo en M&A (la conexión clave):** cuando se **vende** la empresa, el **consejo**
+  tiene deberes fiduciarios **reforzados**:
+  - En una venta de control, debe **maximizar el valor para los accionistas** (estándar *Revlon* de
+    Delaware: el consejo se vuelve "subastador"); proceso competitivo, *fairness opinion*.
+  - Ante una **OPA hostil**, puede defender a la empresa de ofertas inadecuadas (estándar *Unocal*:
+    proporcionalidad de las defensas), pero **no** atrincherarse para conservar su puesto.
+  - Las **operaciones con partes relacionadas** y los conflictos (p. ej., un *management buyout*)
+    exigen procesos especiales (comités independientes, *fairness opinions*) para resistir el
+    escrutinio.
+  (Los estándares de Delaware —Revlon, Unocal, business judgment rule— se profundizan en el **Nivel
+  IV**.) *El gobierno corporativo es, por eso, el marco de deberes dentro del cual se hace todo M&A.*
+
+## 15. Explicación intuitiva
+
+Imagina la empresa como un **país**, y el gobierno corporativo como su **constitución y división de
+poderes** (Libro 3, Nivel I aplicado a la empresa):
+- Los **accionistas** son el **pueblo** (los dueños del país); en la **asamblea** (las elecciones)
+  eligen a sus representantes y deciden lo más importante.
+- El **consejo de administración** es el **parlamento/gobierno**: fija el rumbo y **vigila** a quienes
+  ejecutan.
+- La **dirección general** es el **poder ejecutivo**: gobierna el día a día.
+- Los **comités** y la **auditoría** son los **órganos de control** (como una contraloría): vigilan que
+  nadie abuse.
+- Los **consejeros independientes** son como **jueces imparciales**: no tienen interés propio en el
+  juego, así que vigilan en beneficio de todos (sobre todo de los **minoritarios**, que son como las
+  minorías políticas que hay que proteger del abuso de la mayoría).
+
+¿Y los **deberes fiduciarios**? Son el **juramento del cargo**: quien administra debe hacerlo **bien**
+(diligencia: informarse, esforzarse) y **honestamente, sin corrupción** (lealtad: no robar, no usar el
+puesto para su provecho, no favorecer a sus amigos en contratos —partes relacionadas—). Y la **regla
+de juicio de negocio** es el reconocimiento de que **gobernar implica arriesgar**: si el administrador
+decidió bien informado y de buena fe, no se le castiga porque una apuesta razonable salga mal —solo se
+castiga la **negligencia** y la **deslealtad**—.
+
+Cuando llega un momento crítico —**vender el país** (M&A), o defenderlo de una **invasión** (OPA
+hostil)—, los gobernantes tienen deberes **reforzados**: deben buscar el **mejor precio para el pueblo**
+(los accionistas), no su propio beneficio. Todo el gobierno corporativo es, en el fondo, **diseñar y
+hacer cumplir esa "constitución" de la empresa** para que el poder sirva a sus dueños y no se abuse de
+los débiles.
