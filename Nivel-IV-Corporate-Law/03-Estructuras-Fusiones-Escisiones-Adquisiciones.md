@@ -635,3 +635,109 @@ una empresa, o que hay un activo/negocio "contaminado" que conviene aislar, la *
 **separar** lo deseable de lo indeseable antes de la operación (a veces el vendedor escinde y luego vende
 solo la parte sana). Combinada con un *share deal* sobre la sociedad escindida, logra un resultado limpio
 y fiscalmente eficiente que un *asset deal* no siempre puede igualar.
+
+### 14.D · Reestructuras y holdings (la combinación de figuras)
+
+Las estructuras vistas no se usan solo de forma aislada: el verdadero arte del abogado corporativo está en
+**combinarlas** para lograr arquitecturas que resuelven problemas complejos. Esto es la **reorganización
+corporativa**, y es trabajo de alto valor.
+
+**La sociedad holding (tenedora).** Una *holding* es una sociedad cuyo objeto principal es **poseer y
+controlar las acciones** de otras sociedades (las operativas). La estructura típica de grupo es: una
+**holding** en la cúspide, que controla varias **subsidiarias operativas**, y a veces sociedades
+**patrimoniales** que aíslan activos valiosos (inmuebles, marcas, PI). ¿Para qué sirve?
+- **Separar riesgo:** cada negocio en una sociedad distinta, de modo que el problema de uno no contamine a
+  los demás (la quiebra de una subsidiaria no arrastra a las hermanas ni, en principio, a la holding más
+  allá de su aportación).
+- **Organizar el control:** la holding centraliza la propiedad y el gobierno del grupo; facilita la entrada
+  de inversionistas en una subsidiaria sin tocar las demás.
+- **Eficiencia fiscal:** la organización en grupo permite, dentro de los límites de la ley, ciertas
+  eficiencias (régimen de dividendos entre sociedades del grupo, etc., siempre con asesor fiscal).
+- **Blindaje de activos:** los activos valiosos viven en una sociedad patrimonial que los **arrienda** a
+  la operativa, protegiéndolos del riesgo del negocio operativo.
+
+**Cómo se construye/reorganiza un grupo (las figuras combinadas).** El abogado dispone de una caja de
+herramientas que combina:
+- **Aportación de acciones/activos:** los socios aportan sus acciones de las operativas a una holding (a
+  cambio de acciones de la holding), creando o reorganizando la cadena de control.
+- **Escisión:** para **separar** negocios o activos que estaban juntos (crear la sociedad patrimonial que
+  tendrá los inmuebles; separar dos líneas de negocio).
+- **Fusión:** para **simplificar** estructuras (fusionar subsidiarias redundantes; fusionar la NewCo con
+  la *target* tras una compra).
+- **Constitución de NewCos:** crear sociedades nuevas como vehículos (de adquisición, de inversión, de
+  *joint venture*).
+
+**Ejemplos de arquitecturas combinadas:**
+- **Carve-out para venta:** un grupo quiere vender una de sus tres divisiones. Primero **escinde** la
+  división a una nueva sociedad (limpia, con solo los activos y pasivos de ese negocio); luego **vende las
+  acciones** de esa nueva sociedad (share deal) a un comprador. Resultado: el comprador recibe un negocio
+  aislado y limpio; el vendedor conserva el resto; y, bien diseñado, con eficiencia fiscal.
+- **Reorganización pre-inversión (entrada de un fondo):** una empresa familiar quiere que un fondo de PE
+  invierta solo en su negocio rentable, no en sus inmuebles. Se **escinden** los inmuebles a una sociedad
+  patrimonial de la familia; el fondo invierte en la operativa "ligera". 
+- **LBO (private equity):** el fondo constituye una **NewCo**, le inyecta capital y **deuda** (el
+  apalancamiento), la NewCo **compra** la *target* y luego **se fusiona** con ella (fusión apalancada),
+  de modo que el flujo de la *target* sirva la deuda. (Profundizaremos en el Libro 5.)
+- **Holding para sucesión familiar:** se crea una holding familiar que concentra las acciones de las
+  operativas; el patriarca transmite/hereda acciones de la holding a las distintas ramas, ordenando la
+  sucesión sin fragmentar el control operativo (se combina con un protocolo familiar y, a veces, un
+  fideicomiso).
+
+**La advertencia antiabuso.** Toda reorganización debe tener una **razón de negocio** legítima además de
+la fiscal. Las reglas antiabuso (y la **norma general antiabuso** del CFF) facultan a la autoridad a
+**recaracterizar** operaciones que carezcan de **razón de negocio** y busquen solo un beneficio fiscal
+indebido. El abogado serio diseña reorganizaciones con **sustancia económica** real y documenta su
+**propósito de negocio**; no "esquemas" artificiales. Esta es una frontera ética y técnica capital.
+
+### 14.E · Criterios de elección de la estructura (los cuatro ejes)
+
+Llegamos al método que **integra todo el libro**: ¿cómo se elige la estructura óptima? No por intuición ni
+por costumbre, sino ponderando **cuatro ejes**. Internaliza este marco; es la forma en que un socio de M&A
+piensa una operación.
+
+**Eje 1 — Riesgo (pasivos).** ¿Qué tan grande e inacotable es el riesgo de **pasivos ocultos** revelado
+por la due diligence? 
+- Riesgo **alto e inacotable** → favorece **asset deal** (aislar) o escisión previa (separar lo
+  contaminado) → si se queda en share deal, exige blindaje fuerte (reps, indemnización, escrow).
+- Riesgo **bajo o acotable** → el share deal o la fusión son viables con protección contractual normal.
+
+**Eje 2 — Continuidad (contratos, permisos, relaciones).** ¿Qué tan importante es **conservar** los
+contratos, permisos, concesiones y relaciones de la empresa, y qué tan **transferibles** son?
+- Continuidad **crítica** y activos/contratos **difíciles de transferir** (permisos intransferibles,
+  muchos contratos clave) → favorece **share deal o fusión** (continuidad automática).
+- Continuidad **poco relevante** o pocos contratos → el asset deal es manejable.
+- **Ojo con el *change of control*:** si los contratos clave tienen esa cláusula, ni siquiera el share
+  deal garantiza continuidad → hay que obtener consentimientos (condición al closing, Libro 2).
+
+**Eje 3 — Fiscalidad.** ¿Cuál estructura genera el **menor costo fiscal** total para las partes? 
+- ¿Hay **neutralidad fiscal** disponible (fusión/escisión que cumplan requisitos)?
+- ¿El asset deal dispara impuestos sobre activos e inmuebles, pero da *step-up* de base?
+- ¿Cómo se reparte la carga fiscal entre comprador y vendedor (afecta el precio neto)?
+- **Este eje, con frecuencia, es el decisivo** —y siempre se resuelve **con el asesor fiscal**—.
+
+**Eje 4 — Autorizaciones y tiempo.** ¿Qué **autorizaciones** requiere cada estructura y cuánto **tiempo**
+consume? 
+- ¿Notificación a la **COFECE** (competencia)? ¿Autorización **sectorial** (banca, energía)?
+  ¿Autorización **fiscal** para la reorganización? ¿Límites de **inversión extranjera**?
+- Los plazos de **oposición de acreedores** (3 meses en fusión, 45 días en escisión) afectan el calendario.
+- A veces la estructura más limpia jurídicamente es la **más lenta o incierta** en autorizaciones, y se
+  elige otra por **velocidad y certeza**.
+
+**El método de decisión (cómo lo hace un socio):**
+1. **Define el objetivo de negocio** del cliente (comprar todo, comprar una parte, combinar, separar,
+   reorganizar, preparar venta).
+2. **Trae los hallazgos de la due diligence** (¿riesgo de pasivos?, ¿continuidad en juego?, ¿*change of
+   control*?).
+3. **Pondera los cuatro ejes** con el equipo (legal + fiscal + financiero): casi nunca un eje manda solo;
+   se busca el **equilibrio**.
+4. **Diseña la estructura** (a menudo **combinada**: escindir y luego vender; comprar y luego fusionar;
+   crear holding) que mejor equilibra los cuatro ejes y sirve al objetivo.
+5. **Verifica la sustancia / razón de negocio** (antiabuso) y documenta el propósito.
+6. **Traduce la estructura al contrato** correcto: SPA (share deal), APA (asset deal), convenio de fusión,
+   proyecto de escisión, acuerdos de reorganización (Libro 4).
+
+**La idea que debe quedarte grabada:** **no hay estructura "mejor" en abstracto; hay una óptima para cada
+operación**, que resulta de equilibrar riesgo, continuidad, fiscalidad y autorizaciones a la luz del
+objetivo de negocio. El abogado que domina ese equilibrio —y que sabe **combinar** las figuras para
+construir la arquitectura precisa— es quien de verdad **arma deals**, y no solo los documenta. Ese es el
+salto de calidad que persigue este libro.
