@@ -265,3 +265,140 @@ mercantil no tiene una regla, **se llena con el derecho civil** (supletoriedad).
 - **Jurisdicción mercantil:** la competencia para conocer de las controversias mercantiles (juicios
   mercantiles del Código de Comercio: ordinario, ejecutivo, oral), con reglas propias de prueba y
   plazos.
+
+
+## 14. Desarrollo absoluto
+
+Lo organizamos en: (A) la autonomía del Derecho Mercantil y su relación con el civil; (B) los
+sistemas para delimitar la materia (subjetivo, objetivo, de la empresa); (C) el **acto de comercio**
+(art. 75); (D) el **comerciante** y sus obligaciones; (E) la **empresa** y el fondo de comercio;
+(F) las **fuentes** y su jerarquía.
+
+### 14.A · La autonomía del Derecho Mercantil y la supletoriedad del civil
+
+El Derecho Mercantil es **autónomo** (tiene principios, fuentes y jurisdicción propios) pero **no
+autosuficiente**: descansa sobre el derecho civil, que lo **suple** (art. 2 C. Com.). La relación
+es de **especialidad**: el mercantil es la regla **especial** que prevalece en su ámbito; donde
+calla, rige el **común** (civil). Ejemplo: la compraventa **mercantil** (Código de Comercio) tiene
+reglas propias (mora sin interpelación en obligaciones a día cierto, intereses, prescripción más
+corta), pero en lo no previsto se aplica la compraventa **civil** (saneamiento, etc., Libro 2 Nivel
+II). *Por qué importa:* el abogado debe saber **cuándo** se sale del Código de Comercio hacia el
+Civil, porque cambian plazos, prueba y soluciones.
+
+**Principios propios del Derecho Mercantil:**
+- **Celeridad y simplicidad de formas** (art. 78: libertad de forma; consensualismo reforzado).
+- **Onerosidad presunta** (en el comercio se presume el ánimo de lucro; los servicios y préstamos
+  no se presumen gratuitos).
+- **Buena fe profesional y diligencia del "buen comerciante"** (estándar más exigente que el del
+  *bonus pater familias* civil).
+- **Protección de la apariencia y de la circulación** (clave en títulos de crédito y
+  representación).
+- **Relevancia de los usos** (fuente normativa real).
+
+### 14.B · Los sistemas para delimitar la materia mercantil
+
+¿Cómo se decide qué es "mercantil"? Tres sistemas históricos:
+- **Sistema subjetivo (medieval):** es mercantil lo que hace un **comerciante** (derecho de una
+  clase profesional).
+- **Sistema objetivo (Código francés 1807, seguido por México):** es mercantil el **acto de
+  comercio**, lo realice quien lo realice (art. 75 C. Com.). El estatus de comerciante se **deriva**
+  de realizar actos de comercio de forma habitual.
+- **Sistema de la empresa (italiano-alemán, tendencia moderna):** la categoría central es la
+  **empresa**; lo mercantil es la actividad **organizada y profesional**.
+
+México combina los tres: tiene una lista **objetiva** de actos de comercio (art. 75), define al
+**comerciante** (art. 3) y, en la práctica y leyes especiales, gira cada vez más hacia la
+**empresa**. El resultado es un sistema **mixto**.
+
+### 14.C · El acto de comercio (art. 75 C. Com.)
+
+El art. 75 enumera de forma **enunciativa** (no taxativa) los actos de comercio. Categorías útiles:
+- **Por su naturaleza intrínseca (intermediación lucrativa):** adquisiciones y enajenaciones de
+  bienes con **propósito de especulación comercial** (comprar para revender con lucro).
+- **Por la persona/empresa que los realiza:** las operaciones de **empresas** de manufactura,
+  transporte, comisiones, depósitos, espectáculos públicos, etc. (la "empresa" como criterio de
+  mercantilidad).
+- **Por su forma u objeto (absolutamente mercantiles):** los actos sobre **títulos de crédito**
+  (cheques, pagarés, letras), las operaciones de **bancos** y las de las **sociedades
+  mercantiles**: son mercantiles **siempre**.
+- **Cláusula de cierre (fr. XXIV):** "cualesquiera otros actos de naturaleza análoga": permite
+  **integrar** la lista con actos nuevos (apertura propia del derecho mercantil, frente al *numerus
+  clausus* de los derechos reales).
+
+**Cómo razona un experto (calificación de la mercantilidad).** *Ante un acto, pregúntate: (1) ¿está
+en la lista del art. 75 o es análogo (fr. XXIV)? (2) ¿lo realiza una empresa/comerciante en su
+giro? (3) ¿recae sobre un título de crédito o es operación bancaria/societaria (absolutamente
+mercantil)? (4) ¿es accesorio a una actividad mercantil (lo accesorio sigue a lo principal)?* Si la
+respuesta a cualquiera es sí, es **mercantil**, con todas las consecuencias (ley, jurisdicción,
+prescripción, prueba).
+
+### 14.D · El comerciante y sus obligaciones profesionales
+
+**Quién es comerciante (art. 3):** la persona física que hace del comercio su **ocupación
+ordinaria** (capacidad + habitualidad + nombre propio + ánimo de lucro) y **toda sociedad
+mercantil** (comerciante por su **forma**, aunque no realice actos de comercio: la S.A. es siempre
+comerciante).
+
+**Capacidad e incompatibilidades:** se requiere capacidad de ejercicio (Libro 5 Nivel I); hay
+prohibiciones (quebrados no rehabilitados, ciertos funcionarios).
+
+**Obligaciones del comerciante (la base de la transparencia):**
+1. **Inscripción en el Registro Público de Comercio:** publicidad de su calidad y de ciertos actos.
+2. **Contabilidad** (arts. 33-46 C. Com.): llevar un sistema contable adecuado, con libros y
+   registros que reflejen la situación financiera; conservarla por el plazo legal. Base de la
+   **due diligence financiera** y del control fiscal.
+3. **Conservación de la correspondencia y documentación** mercantil.
+*Por qué importan en M&A:* la primera due diligence corporativa verifica que la *target* esté
+**inscrita**, lleve **contabilidad** confiable y conserve su documentación; su ausencia es una
+**bandera roja**.
+
+### 14.E · La empresa y el fondo de comercio
+
+La **empresa** es organización (capital + trabajo + dirección) orientada al mercado. El derecho la
+captura por varios "perfiles" (Asquini): el **empresario** (sujeto), la **actividad** (función), el
+**establecimiento/fondo de comercio** (objeto) y la **organización de personas** (corporativo).
+
+El **fondo de comercio (negociación mercantil)** es el conjunto **organizado** de elementos —
+instalaciones, mercancías, **clientela**, nombre comercial, marcas, patentes, derechos de
+arrendamiento, contratos— que forman la empresa **en marcha**. Tiene un valor superior a la suma de
+sus partes: el **aviamiento** o **goodwill**, que nace de la organización y la clientela. *Conexión
+M&A directa:* en un **asset deal** se transmite el fondo de comercio como **unidad** (no activo por
+activo), y el **goodwill** es precisamente lo que explica que una empresa se venda por mucho más que
+el valor contable de sus activos —es el germen de los **múltiplos** y las **sinergias** del Nivel
+IV/V—.
+
+### 14.F · Las fuentes del Derecho Mercantil y su jerarquía
+
+Orden de aplicación ante una cuestión mercantil:
+1. **Legislación mercantil especial** (LGSM, LGTOC, LMV, Ley de Concursos, etc.) — prevalece por
+   especialidad.
+2. **Código de Comercio** — tronco general de la materia.
+3. **Usos y prácticas mercantiles** — cuando la ley remite a ellos o para integrar (mucho más
+   relevantes que en el civil).
+4. **Derecho civil supletorio** (CCF) — a falta de norma mercantil (art. 2 C. Com.).
+
+En el plano **internacional**, se suman las fuentes transnacionales: **Incoterms**, reglas de la
+**CCI** (UCP 600, URDG), **CISG**, principios **UNIDROIT** y los **usos del comercio
+internacional** (nueva lex mercatoria), que las partes incorporan a sus contratos.
+
+## 15. Explicación intuitiva
+
+Piensa en el derecho privado como una ciudad. El **derecho civil** es el **reglamento general** que
+rige a todos los habitantes en su vida cotidiana. El **derecho mercantil** es el **reglamento
+especial del distrito de negocios**: las mismas calles, pero con reglas más rápidas para que el
+comercio fluya (semáforos más ágiles, trámites simplificados, horarios extendidos). Cuando el
+reglamento del distrito de negocios **no dice nada**, se aplica el reglamento general de la ciudad
+(supletoriedad del civil).
+
+¿Quién vive en ese distrito? Los **comerciantes** y, sobre todo, las **empresas**: organizaciones
+que producen e intercambian. ¿Qué se hace allí? **Actos de comercio**: comprar para revender,
+operar bancos, mover títulos de crédito, financiar. Y hay reglas especiales porque allí la gente es
+**profesional** (se le exige más diligencia), las operaciones son **masivas y rápidas** (se
+simplifican las formas) y el **crédito y los títulos** deben circular como dinero.
+
+La pieza que el derecho moderno pone en el centro de ese distrito es la **empresa**: no un acto
+suelto ni un comerciante aislado, sino la **organización en marcha**, cuyo valor extra —el
+**goodwill**— es justo lo que, años después, hará que un fondo pague millones por comprarla. Todo el
+Nivel III consiste en estudiar las **instituciones de ese distrito de negocios**: sus
+organizaciones (sociedades), su dinero circulante (títulos de crédito), su gran mercado de capital
+(valores) y qué pasa cuando una empresa cae (concurso).
