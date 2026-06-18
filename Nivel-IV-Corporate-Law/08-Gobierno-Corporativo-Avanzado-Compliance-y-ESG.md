@@ -1062,3 +1062,230 @@ la institución.
   requisito) sin independencia **real** (criterio propio, disposición a cuestionar) es un fraude al
   gobierno; el valor está en independientes que **de verdad** protejan a las minorías y cuestionen a la
   dirección.
+
+## 30. Errores comunes
+
+- **Decidir sin informarse (Van Gorkom).** El consejo aprueba una operación relevante sin información,
+  asesores ni *fairness opinion* → pierde la business judgment rule y responde. *Corrección:* imponer el
+  proceso (información, asesores, deliberación documentada).
+- **No manejar los conflictos.** Permitir que un conflictuado decida (MBO, operación con el control) sin
+  comité especial de independientes → deslealtad. *Corrección:* revelar, abstenerse, comité especial,
+  precio de mercado.
+- **Gobierno "de membrete".** Independientes que no lo son, comités sin dientes → falsa protección.
+  *Corrección:* independencia y comités **reales**.
+- **Compliance de papel.** Tener un manual que nadie vive (sin tone at the top, sin canal de denuncias
+  efectivo) → no previene y agrava la sanción. *Corrección:* programa **efectivo** con cultura genuina.
+- **Ignorar la due diligence de terceros.** No revisar a intermediarios, socios y proveedores → heredar
+  riesgo de corrupción. *Corrección:* third-party due diligence.
+- **Olvidar Caremark (deber de supervisión).** Un consejo que no instala ni vigila el compliance →
+  responsabilidad. *Corrección:* asegurar un programa efectivo y atender señales de alarma.
+- **Greenwashing.** Afirmaciones ESG infladas o falsas (bonos verdes, reportes, marketing) → sanción y daño
+  reputacional. *Corrección:* afirmaciones veraces, sustentadas y verificables.
+- **Tratar gobierno/compliance/ESG como trámite aislado.** No integrarlos en las operaciones. *Corrección:*
+  verlos como un **sistema** que legitima y protege cada deal.
+
+## 31. Mitos frecuentes
+
+- **"La business judgment rule protege cualquier decisión."** **Falso.** Solo protege la decisión
+  **informada, de buena fe y sin conflicto**. No protege la deslealtad ni la decisión no informada.
+- **"El gobierno corporativo es burocracia que frena al negocio."** **Falso.** El buen gobierno **mejora**
+  las decisiones, atrae capital y crea valor; las empresas bien gobernadas valen más.
+- **"El compliance es solo tener un manual y un oficial de cumplimiento."** **Falso.** Es **cultura** (tone
+  at the top), riesgos, canal de denuncias que funciona, investigaciones y mejora continua. El papel sin
+  cultura no protege.
+- **"Si el soborno lo pagó un intermediario, la empresa no responde."** **Falso.** Bajo la FCPA y leyes
+  locales, la empresa puede responder por los pagos de sus **terceros**. De ahí la due diligence de
+  terceros.
+- **"El ESG es solo marketing/relaciones públicas."** **Falso/matizado.** El ESG **material** es gestión de
+  riesgo y acceso al capital; el ESG **de relato** (greenwashing) sí es marketing —y un riesgo legal—.
+- **"El consejo no responde por fallas de compliance."** **Falso.** Vía **Caremark**, los consejeros
+  responden si **no instalaron ni vigilaron** sistemas de cumplimiento.
+- **"Un bono verde es verde solo por llamarse así."** **Falso.** Debe destinarse a proyectos realmente
+  sostenibles, con verificación; lo contrario es greenwashing sancionable.
+
+## 32. Preguntas difíciles
+
+1. **¿Cómo protege la business judgment rule, y cuándo NO aplica?** Protege a los administradores de
+   responsabilidad por decisiones que salieron mal, **si** decidieron **informados, de buena fe y sin
+   conflicto** (premia el buen **proceso**). **No** aplica ante **deslealtad** (conflicto, *tunneling*) ni
+   ante **falta de información** (Van Gorkom). Por eso el abogado se obsesiona con el proceso.
+2. **¿Por qué Caremark conecta gobierno y compliance?** Porque establece que los consejeros tienen el
+   **deber de supervisión**: deben asegurar que la empresa tenga **sistemas de compliance** efectivos y
+   atender las señales de alarma. Así, el compliance deja de ser solo cosa del "oficial de cumplimiento" y
+   se vuelve un **deber del consejo** —y el abogado que asesora al consejo debe garantizarlo—.
+3. **En una venta de control, ¿qué exige Revlon?** Que el consejo busque **maximizar el precio** para los
+   accionistas (se vuelve "subastador"): proceso competitivo, *market check*, demostrar que se obtuvo el
+   mejor valor razonable. No basta vender a buen precio; hay que **demostrar** que se maximizó.
+4. **¿Por qué la due diligence de terceros es central en anticorrupción?** Porque el riesgo de corrupción
+   suele venir por **intermediarios** (agentes, distribuidores, consultores que sobornan "por cuenta" de la
+   empresa), y la empresa puede responder por sus pagos. Investigar y vigilar a los terceros es la principal
+   defensa.
+5. **¿Cómo distinguir ESG genuino de greenwashing?** El ESG **genuino** gestiona riesgos **materiales** con
+   **hechos verificables** (metas reales, datos, verificación independiente); el **greenwashing** es
+   **relato** sin sustancia (afirmaciones infladas, sin respaldo). La prueba: ¿las afirmaciones ESG son
+   veraces, sustentadas y verificables, o solo marketing?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**Caso A.** *El consejo de una empresa va a aprobar su venta. ¿Qué debe hacer el abogado para proteger a
+los consejeros y a la operación?*
+**Respuesta modelo:** Asegurar un **proceso fiduciario impecable**: **(1)** información completa y asesores
+(diligencia —Van Gorkom—); **(2)** ***fairness opinion*** de un banco; **(3)** en una venta de control,
+demostrar que se **maximizó el valor** (*market check*, proceso competitivo —Revlon—); **(4)** manejar
+conflictos (si la dirección participa en la compra —MBO—, **comité especial** de independientes); **(5)**
+**documentar todo** en actas. Así la **business judgment rule** protege al consejo aunque alguien impugne.
+
+**Caso B.** *Tu cliente comprará una empresa que opera en sectores y países de alto riesgo de corrupción.
+¿Qué exiges en materia de compliance?*
+**Respuesta modelo:** **Due diligence anticorrupción profunda** (Libro 2): revisar pagos, intermediarios,
+contratos con el gobierno, historial. Si hay hallazgos: evaluar exposición FCPA/local, exigir
+**remediación**, considerar autodenuncia (atenúa), **indemnización especial y escrow** del vendedor (Libro
+4), y —si es sistémico e irremediable— *walk away*. Tras la compra: **instalar un programa de compliance**
+efectivo (tone at the top, riesgos, canal de denuncias, third-party due diligence, monitoreo). Fundar: la
+**sucesión de responsabilidad** y el deber de supervisión (Caremark).
+
+**Caso C.** *Una empresa quiere emitir un bono verde y promocionar metas "net zero". ¿Qué cuidas como
+abogado?*
+**Respuesta modelo:** Cuidar el riesgo de **greenwashing**: verificar que los recursos del bono se destinen
+a proyectos **realmente** sostenibles (con marco de bono verde y **verificación independiente**); que las
+metas "net zero" estén **sustentadas** (línea base, plan, datos verificables); y que las afirmaciones
+públicas sean **veraces y no engañosas** (no haya brecha entre el relato y la realidad). De lo contrario:
+riesgo de sanción regulatoria, demandas de inversionistas y daño reputacional.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Instrucciones:** eres asociado. Asesoras al **consejo de administración** de una empresa pública
+> (S.A.B.) que va a (a) aprobar una adquisición relevante con conflicto (el CEO tiene interés), y (b)
+> revisar su programa de compliance tras una denuncia anónima de un posible soborno. Diseña tu asesoría
+> antes de leer la guía.
+
+1. ¿Cómo proteges al consejo en la **decisión con conflicto** (deberes fiduciarios)?
+2. ¿Qué exiges para que la operación resista impugnaciones (proceso)?
+3. ¿Qué haces ante la **denuncia** de soborno (compliance)?
+4. ¿Qué responsabilidad del **consejo** está en juego (Caremark)?
+5. ¿Cómo integras el **ESG** en la operación y en la empresa?
+
+> **Guía de solución (resumen).** **(1)** El CEO conflictuado **se abstiene**; se forma un **comité especial
+> de independientes** que analiza y negocia, con su propia **fairness opinion**. **(2)** Información
+> completa, asesores, deliberación **documentada** en actas; si aplica Revlon (venta de control),
+> maximizar valor; revelar la operación con parte relacionada y aprobarla por el comité de **prácticas
+> societarias**. **(3)** Activar una **investigación interna** (independiente, confidencial); preservar
+> evidencia; evaluar exposición (FCPA/LGRA); remediar y, si procede, autodenunciar; reportar al **comité
+> de auditoría**. **(4)** El **deber de supervisión** (Caremark): el consejo debe asegurar que el programa
+> de compliance sea efectivo y atender la señal de alarma —ignorarla genera responsabilidad—. **(5)**
+> Evaluar riesgos ESG de la target en la due diligence; integrar estándares; asegurar que cualquier
+> comunicación ESG sea veraz (no greenwashing).
+
+## 35. Flashcards
+
+- **¿Gobierno corporativo?** Sistema de poder, control y responsabilidad en la empresa (resuelve el
+  problema de agencia).
+- **¿Deberes fiduciarios?** Diligencia (decidir informado) y lealtad (sin conflictos).
+- **¿Business judgment rule?** Protege la decisión informada, de buena fe y sin conflicto (no la desleal ni
+  la no informada).
+- **¿Van Gorkom?** Decidir sin informarse viola la diligencia.
+- **¿Revlon?** En venta de control, deber de maximizar el precio.
+- **¿Unocal?** Defensas anti-OPA proporcionales (no para atrincherarse).
+- **¿Caremark?** Deber de supervisión del consejo = base del compliance.
+- **¿Elementos del programa de compliance?** Tone at the top, riesgos, políticas, capacitación, canal de
+  denuncias, investigaciones, due diligence de terceros, monitoreo.
+- **¿FCPA?** Ley anticorrupción de EE.UU. (extraterritorial); prohíbe sobornar funcionarios + controles
+  contables.
+- **¿"Política de integridad" (México)?** El programa de compliance; atenuante en la LGRA.
+- **¿Los tres pilares ESG?** Ambiental, Social, Gobernanza (la "G" = gobierno corporativo).
+- **¿Doble materialidad?** Cómo el ESG afecta el valor + cómo la empresa impacta al mundo.
+- **¿Greenwashing?** Aparentar sostenibilidad sin serlo (riesgo legal y reputacional).
+- **¿La idea integradora?** Gobierno (legitimidad) + compliance (control) + ESG (sostenibilidad) = valor +
+  protección.
+
+## 36. Mapas mentales
+
+```
+        GOBIERNO + COMPLIANCE + ESG (un solo sistema)
+                         |
+   ┌─────────────────────┼─────────────────────┐
+ GOBIERNO              COMPLIANCE             ESG
+ (legitimidad:         (control:             (sostenibilidad:
+ quién decide y         dentro de la ley)     impacto de largo plazo)
+ responde)             tone at the top,       E (ambiental)
+ consejo, comités,     riesgos, denuncias,    S (social)
+ independientes,       3rd-party DD,          G (= gobierno)
+ deberes fiduciarios   anticorrupción (FCPA), materialidad,
+ (Revlon, Caremark)    antilavado (KYC)       finanzas sostenibles
+        └──── Caremark conecta gobierno y compliance ────┘
+        └──── la "G" del ESG ES el gobierno corporativo ────┘
+```
+
+```
+              DEBERES FIDUCIARIOS EN OPERACIONES
+   DILIGENCIA → decidir INFORMADO (Van Gorkom; fairness opinion)
+   LEALTAD → sin conflictos (OPR, MBO → comité especial de independientes)
+   EN VENTA DE CONTROL → maximizar precio (Revlon)
+   ANTE OPA → defensas proporcionales (Unocal)
+   SUPERVISIÓN → asegurar compliance (Caremark)
+   ⇒ PROCESO IMPECABLE = business judgment rule = protección
+```
+
+## 37. Cuadros comparativos
+
+**Las tres dimensiones**
+
+| | Gobierno | Compliance | ESG |
+|---|---|---|---|
+| Pregunta | ¿Quién decide y responde? | ¿Se decide dentro de la ley? | ¿Se decide de forma sostenible? |
+| Núcleo | Consejo, deberes fiduciarios | Programa, anticorrupción, lavado | E, S, G; materialidad |
+| Referente | Delaware (Caremark, Revlon) | FCPA / DOJ | UE (CSRD/SFDR), ISSB |
+| Protege | Decisiones, minorías | Empresa y directivos | Acceso al capital, reputación |
+
+**Los estándares de Delaware**
+
+| Caso | Principio |
+|---|---|
+| Van Gorkom | Deber de informarse (diligencia) |
+| Revlon | Maximizar precio en venta de control |
+| Unocal | Defensas anti-OPA proporcionales |
+| Caremark | Deber de supervisión (compliance) |
+
+**ESG genuino vs. greenwashing**
+
+| | ESG genuino | Greenwashing |
+|---|---|---|
+| Base | Hechos verificables | Relato sin sustancia |
+| Metas | Reales, medidas | Infladas, vagas |
+| Resultado | Valor + acceso al capital | Riesgo legal y reputacional |
+
+## 38. Diagramas
+
+**El proceso fiduciario impecable (en una operación):**
+```
+DECISIÓN RELEVANTE DEL CONSEJO
+   → información completa + asesores (diligencia)
+   → fairness opinion (operaciones relevantes)
+   → manejo de conflictos (abstención + comité especial si hay conflicto)
+   → venta de control: market check / maximizar valor (Revlon)
+   → documentar todo en actas
+   ⇒ BUSINESS JUDGMENT RULE protege al consejo
+```
+
+**El programa de compliance efectivo:**
+```
+TONE AT THE TOP (cultura genuina, lo primero)
+   → evaluación de RIESGOS → políticas + capacitación
+   → CANAL DE DENUNCIAS (anónimo, sin represalias)
+   → investigaciones + remediación
+   → due diligence de TERCEROS → monitoreo + mejora continua
+   [el consejo SUPERVISA — Caremark]
+```
+
+## 39. Mnemotecnias
+
+- **Deberes fiduciarios:** *"diligencia = decide informado; lealtad = sin robar"*.
+- **Business judgment rule:** *"buen proceso te protege, aunque el resultado sea malo; la deslealtad no"*.
+- **Los 4 de Delaware:** *"Van Gorkom (infórmate), Revlon (maximiza), Unocal (defiéndete proporcional),
+  Caremark (supervisa)"*.
+- **Caremark:** *"el consejo debe instalar el sistema inmune (compliance) o responde"*.
+- **Compliance:** *"tono arriba, denuncia abajo, terceros vigilados, cultura siempre"*.
+- **Anticorrupción:** *"el soborno del intermediario también te quema (FCPA)"*.
+- **ESG:** *"E ambiente, S gente, G gobierno; con hechos, no con relato"*.
+- **Greenwashing:** *"verde de mentira, multa de verdad"*.
+- **Regla de oro:** *"gobierno (legítimo) + compliance (limpio) + ESG (sostenible) = vale más y perdura"*.
