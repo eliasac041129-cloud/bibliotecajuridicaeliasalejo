@@ -243,3 +243,131 @@ para anticipar problemas, ordenar la casa y agilizar el proceso, entregando un r
 compradores). La VDD es cada vez más común en procesos competitivos (subastas) porque acelera el deal y
 fortalece la posición negociadora del vendedor. Ambas usan la misma técnica; cambian el cliente y el
 objetivo.
+
+## 10. Definiciones doctrinales
+
+La doctrina especializada en M&A define la due diligence con matices que vale la pena conocer porque
+revelan distintas facetas de la institución:
+
+- **Como proceso de investigación:** la due diligence es *"el proceso de investigación y análisis que
+  un comprador potencial realiza sobre una empresa objetivo para evaluar sus activos, pasivos, riesgos y
+  oportunidades antes de consumar una adquisición"*. Esta definición subraya su carácter **procesal y
+  analítico**.
+- **Como gestión de riesgo:** otros autores la definen como *"el ejercicio sistemático de
+  identificación, valoración y asignación de los riesgos asociados a una transacción"*. Aquí el énfasis
+  está en su función de **risk management**: no basta encontrar el riesgo, hay que valorarlo y decidir
+  quién lo soporta.
+- **Como estándar de conducta (origen anglosajón):** en su acepción original, *"diligencia debida"* es
+  el **grado de cuidado** que una persona razonable y prudente emplearía en sus propios asuntos antes de
+  tomar una decisión de inversión. Esta es la raíz del concepto: un **estándar de comportamiento
+  diligente** cuya satisfacción genera consecuencias jurídicas (la *due diligence defense*).
+- **Como puente entre la información y el contrato:** la doctrina transaccional moderna la describe como
+  *"el mecanismo que traduce la realidad de la empresa en cláusulas del contrato de compraventa"*. Esta
+  es, quizá, la definición más útil para el abogado: la DD es el **puente** entre lo que la empresa **es**
+  y lo que el SPA **dice**.
+
+Ninguna definición es completa por sí sola. La due diligence es, a la vez, **proceso** (cómo se hace),
+**función** (para qué sirve: gestionar riesgo) y **estándar** (con qué grado de cuidado). El abogado
+maduro las integra: investiga con rigor (proceso), para asignar el riesgo (función), con el cuidado de
+un profesional prudente (estándar).
+
+## 11. Definiciones legales y marco normativo
+
+A diferencia de otras instituciones de este programa, la due diligence **no está regulada por una ley
+específica que la defina y la imponga en términos generales** en el M&A privado mexicano. Es,
+fundamentalmente, una **práctica contractual y profesional** —un *uso* del comercio internacional
+adoptado en México—. Sin embargo, el ordenamiento jurídico la rodea y la conecta por varias vías:
+
+- **Securities Act de 1933 (EE.UU.), §11 y §12:** la fuente histórica. Establece la *due diligence
+  defense* para los participantes en una colocación de valores: la investigación razonable como eximente
+  de responsabilidad por información defectuosa en el prospecto. Es derecho extranjero, pero su lógica
+  permea toda la práctica global.
+- **Deberes fiduciarios del administrador (deber de diligencia):** en México, la **LGSM** y la **Ley del
+  Mercado de Valores** imponen a los administradores el deber de obrar con la **diligencia de un
+  administrador prudente** y de manera **informada**. Un consejo que aprueba una adquisición relevante
+  **sin** una due diligence adecuada puede estar incumpliendo su deber de diligencia (recuerda *Smith v.
+  Van Gorkom* del libro de Gobierno Corporativo: decidir sin informarse rompe la *business judgment
+  rule*). Aquí la DD deja de ser opcional: es parte del **proceso informado** que exige el deber
+  fiduciario.
+- **Régimen de competencia económica (LFCE):** impone la obligación de **notificar** concentraciones que
+  superen ciertos umbrales y de no consumarlas antes de la autorización; la DD evalúa esta exposición.
+- **Régimen anticorrupción y de prevención de lavado:** la **FCPA**, la **UK Bribery Act** y la **Ley
+  General de Responsabilidades Administrativas** generan, en la práctica, una **exigencia de DD de
+  compliance**: el comprador puede heredar responsabilidad, y la ausencia de investigación agrava la
+  posición.
+- **Obligaciones de información y buena fe (Código Civil/Código de Comercio):** los deberes
+  precontractuales de información y de buena fe en la negociación (que estudiaste en Obligaciones y
+  Contratos) son el telón de fondo civil que da sustento al intercambio de información durante la DD y a
+  la responsabilidad por dolo o reticencia del vendedor.
+
+En síntesis: la due diligence no nace de un artículo que ordene "harás due diligence", sino de la
+**convergencia** del deber fiduciario de diligencia, del régimen de responsabilidad, de la buena fe
+contractual y de la práctica profesional internacional. Es derecho **vivo y consuetudinario** antes que
+codificado.
+
+## 12. Definición sencilla
+
+Imagina que vas a comprar una **casa usada**. Antes de firmar y pagar, harías —si eres prudente— varias
+cosas: contratarías a un **arquitecto** para que revise si hay grietas, humedad o problemas
+estructurales; pedirías al Registro Público que confirme que el vendedor es el **dueño real** y que la
+casa no tiene **hipotecas, embargos o deudas**; revisarías que no haya **adeudos** de predial, agua o
+mantenimiento; verificarías que los **permisos** de construcción estén en regla; y comprobarías que no
+haya un **inquilino** con derecho a quedarse. Toda esa investigación —mirar **antes** de comprar, para
+saber qué estás comprando y qué problemas escondidos puede tener— es la **due diligence**.
+
+La due diligence en M&A es exactamente eso, pero sobre una **empresa** en lugar de una casa, y mil veces
+más compleja: en vez de revisar grietas y la escritura, revisas **contratos, litigios, impuestos,
+permisos, deudas laborales, propiedad intelectual y estados financieros**. La pregunta es la misma:
+*¿qué estoy comprando de verdad, cuánto vale y qué problemas trae escondidos?* Y la lógica también: lo
+que descubres te sirve para **bajar el precio, pedir garantías al vendedor, o retirarte si la casa está
+podrida por dentro**.
+
+## 13. Conceptos fundamentales
+
+Antes de entrar al desarrollo, fija estos **conceptos clave** que se usarán en todo el libro. Aprende
+cada término con su definición rigurosa; son el vocabulario del oficio.
+
+- **Target (empresa objetivo):** la empresa que se pretende adquirir, sobre la cual recae la
+  investigación.
+- **Buy-side / Sell-side:** el lado del comprador / el lado del vendedor. La DD típica es *buy-side*; la
+  *vendor due diligence* (VDD) es *sell-side*.
+- **Data room (cuarto de datos):** el repositorio —hoy casi siempre virtual (**VDR**)— donde el vendedor
+  pone a disposición del comprador la información y los documentos de la *target* para su revisión.
+- **Due diligence request list (DDRL) / checklist:** la **lista de solicitud de información**: el
+  documento donde el comprador pide, ordenadamente y por áreas, todos los documentos que necesita
+  revisar.
+- **Q&A (preguntas y respuestas):** el proceso, gestionado dentro del data room, mediante el cual el
+  comprador formula preguntas sobre la información y el vendedor responde. Genera un **rastro
+  documental** importante.
+- **Red flag (bandera roja):** un hallazgo que representa un **riesgo relevante**. Se distinguen por
+  gravedad: las que pueden **matar el deal** (*deal breakers*), las que **bajan el precio** o exigen
+  protección, y las que solo se **documentan**.
+- **Materialidad (*materiality*):** el **umbral de relevancia** a partir del cual un hallazgo importa.
+  Es un concepto central: se fija un monto o un criterio (p. ej., "solo revisamos contratos de más de
+  X" o "solo reportamos contingencias superiores a Y") para concentrar el esfuerzo en lo que de verdad
+  mueve la aguja.
+- **DD report (reporte de due diligence):** el documento donde el equipo plasma los **hallazgos**, su
+  **valoración** y sus **recomendaciones**. Puede ser *full report* (exhaustivo) o *red flag report*
+  (solo los riesgos relevantes, el más usado en la práctica moderna).
+- **Disclosure schedules (anexos de revelación):** los anexos del SPA donde el vendedor **revela
+  excepciones** a sus *representations*. Son la otra cara de la DD: lo que el vendedor revela aquí,
+  normalmente **deja de estar cubierto** por la garantía. La DD y los *disclosure schedules* dialogan
+  constantemente.
+- **Representations & warranties (declaraciones y garantías):** las afirmaciones que el vendedor hace
+  sobre la *target* en el SPA (p. ej., "no hay litigios distintos de los revelados"). Son el principal
+  vehículo para **asignar al vendedor** el riesgo de lo que la DD no pudo verificar del todo.
+- **Indemnification (indemnización):** el mecanismo por el cual el vendedor se obliga a **compensar** al
+  comprador si una *representation* resulta falsa o si se materializa un riesgo identificado. Suele venir
+  con **topes** (*caps*), **mínimos** (*baskets/de minimis*) y **plazos de supervivencia**.
+- **Escrow / holdback:** la **retención** de una parte del precio (en una cuenta de garantía o por el
+  propio comprador) para responder por eventuales indemnizaciones. Es la DD convertida en **garantía de
+  cobro**.
+- **Condition precedent (condición al closing):** un requisito que debe cumplirse **antes** del cierre
+  (p. ej., obtener una autorización o subsanar un hallazgo de la DD).
+- **Walk-away right (derecho a retirarse):** la facultad del comprador de **abandonar** la operación si
+  la DD revela algo inaceptable o si no se cumplen las condiciones.
+- **Quality of Earnings (QoE):** el análisis financiero que evalúa la **calidad y sostenibilidad** de
+  las utilidades de la *target* (cuánto del resultado es recurrente y real). Es central en la DD
+  financiera, sobre todo para fondos.
+
+Con este vocabulario fijado, ya podemos entrar al **desarrollo absoluto** de la materia.
