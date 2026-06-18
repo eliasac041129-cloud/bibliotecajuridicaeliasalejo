@@ -593,3 +593,197 @@ organizaciones (sociedades), su dinero circulante (títulos de crédito), su gra
 - **La empresa como objeto de derechos:** ¿es la empresa un "bien" transmisible como unidad
   (relevante para el asset deal y el goodwill) o solo un conjunto de elementos? Debate con
   consecuencias prácticas en la transmisión y la valuación.
+
+
+## 30. Errores comunes
+
+- **Aplicar derecho civil a una operación mercantil** (o viceversa): cambian prescripción, mora,
+  prueba y jurisdicción. Calificar mal la **mercantilidad** es un error de base.
+- **Olvidar la supletoriedad.** Creer que el Código de Comercio "lo dice todo": donde calla, rige el
+  **civil** (art. 2 C. Com.).
+- **Ignorar los usos mercantiles**, especialmente en comercio internacional (Incoterms, UCP).
+- **Tratar el art. 75 como lista cerrada.** Es **enunciativa**; la fr. XXIV integra actos análogos.
+- **Confundir empresa con sociedad.** La empresa es un fenómeno **económico** (organización); la
+  sociedad es una de sus **envolturas jurídicas**. No toda empresa es sociedad ni toda sociedad
+  "empresa" en sentido económico.
+- **Subestimar las obligaciones del comerciante** (registro, contabilidad): su incumplimiento es una
+  bandera roja en due diligence y tiene consecuencias fiscales y concursales.
+- **Olvidar el goodwill** al valuar o transmitir una empresa: el valor de la organización y la
+  clientela suele ser el grueso del precio.
+
+## 31. Mitos frecuentes
+
+- *"El derecho mercantil es solo el Código de Comercio."* **Falso:** es un **archipiélago** (LGSM,
+  LGTOC, LMV, concursos…) + usos + civil supletorio.
+- *"Solo los comerciantes hacen actos de comercio."* **Falso:** hay actos **absolutamente
+  mercantiles** (títulos de crédito) que cualquiera puede realizar.
+- *"Una sociedad civil y una mercantil son lo mismo."* **No:** la mercantil es **comerciante** por su
+  forma, con obligaciones (contabilidad, registro) propias.
+- *"La empresa es un sujeto de derecho."* **Inexacto:** el sujeto es el **empresario** (persona
+  física o moral); la empresa es la **organización/actividad**.
+- *"Los usos no son derecho."* **Falso en lo mercantil:** los usos son **fuente** relevante.
+
+## 32. Preguntas difíciles
+
+1. ¿Tiene sentido, hoy, mantener un derecho mercantil **separado** del civil, o convendría
+   **unificar** las obligaciones (como Italia 1942)?
+2. ¿La **empresa** debería poder ser objeto de derechos como **unidad** (un "bien" transmisible),
+   facilitando el asset deal y la valuación del goodwill?
+3. ¿La **lex mercatoria** internacional (UNIDROIT, usos) es un verdadero ordenamiento autónomo o
+   depende siempre de un derecho estatal que la reconozca?
+4. ¿Cómo califica la mercantilidad de actos puramente **digitales** (smart contracts, activos
+   tokenizados, plataformas)? ¿Basta la fr. XXIV?
+5. ¿Debe el derecho proteger más al **no comerciante** (consumidor) en actos mixtos, aun a costa de
+   la agilidad mercantil?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**P1.** *¿Qué relación hay entre el derecho mercantil y el civil?* **R.** El mercantil es derecho
+privado **especial** y **autónomo** (principios, fuentes y jurisdicción propios), pero el civil es
+su derecho **supletorio** (art. 2 C. Com.): rige donde el mercantil calla.
+
+**P2.** *Defina acto de comercio y explique los criterios de mercantilidad.* **R.** Acto que la ley
+reputa mercantil (art. 75 C. Com.), por su **naturaleza** (intermediación lucrativa), por la
+**persona/empresa** que lo realiza, o por su **forma/objeto** (títulos, banca, sociedades —
+absolutamente mercantiles). La lista es **enunciativa** (fr. XXIV).
+
+**P3.** *¿Quién es comerciante?* **R.** La persona física que hace del comercio su **ocupación
+ordinaria** y **toda sociedad mercantil** (comerciante por su forma). Obligaciones: registro,
+contabilidad, conservación de documentación.
+
+**P4.** *¿Qué es el fondo de comercio y por qué importa en M&A?* **R.** El conjunto **organizado**
+de elementos (instalaciones, clientela, marcas, contratos) que forma la empresa en marcha;
+incluye el **goodwill** (aviamiento). En un **asset deal** se transmite como unidad y explica que el
+precio supere el valor contable.
+
+**P5.** *Enuncie las fuentes del derecho mercantil y su jerarquía.* **R.** (1) Leyes mercantiles
+especiales; (2) Código de Comercio; (3) usos y prácticas; (4) derecho civil supletorio (art. 2 C.
+Com.). En lo internacional, además, la lex mercatoria (Incoterms, UNIDROIT, CISG).
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** asociado corporativo. **Cliente:** un empresario que opera, **sin estructura formal**,
+> una cadena de 6 cafeterías muy rentables (marca conocida, clientela fiel, contratos de
+> arrendamiento, 80 empleados). Quiere (a) **formalizar** el negocio y (b) en 2 años, **venderlo** a
+> un fondo.
+>
+> **Tarea:** elabora una **nota estratégica** que cubra: (1) por qué hoy ya es **comerciante** y qué
+> **obligaciones** incumple (registro, contabilidad) y sus riesgos; (2) cómo **formalizar**: elección
+> de **forma societaria** (S.A. / S. de R.L. / S.A.P.I. — adelanto del Libro 2), inscripción,
+> contabilidad, protección de la **marca** (IMPI); (3) cómo se compone su **fondo de comercio** y
+> dónde está el **goodwill** (clientela, marca, ubicaciones); (4) si la futura venta convendría como
+> **asset deal** (transmitir el fondo de comercio) o **share deal** (vender acciones), anticipando
+> consecuencias; (5) qué **due diligence** haría un fondo sobre un negocio que hoy es informal.
+> Concluye con una hoja de ruta a 24 meses para maximizar el valor de venta.
+
+*(Pista de evaluación: la mejor respuesta conecta la **formalización del comerciante** con la
+**creación de valor** para la venta —contabilidad confiable, marca registrada, contratos en orden,
+estructura societaria— y razona el asset vs. share deal en función del goodwill y los pasivos.)*
+
+## 35. Flashcards
+
+- **¿Qué es el derecho mercantil?** → Derecho privado **especial** del comercio, la empresa y los
+  comerciantes; autónomo, con el civil como **supletorio**.
+- **¿Art. 75 C. Com.?** → Lista **enunciativa** de actos de comercio (fr. XXIV: actos análogos).
+- **¿Quién es comerciante (art. 3)?** → Persona física con ocupación ordinaria de comercio + toda
+  **sociedad mercantil**.
+- **¿Supletoriedad (art. 2 C. Com.)?** → A falta de norma mercantil, rige el **derecho civil**.
+- **¿Libertad de forma (art. 78)?** → En lo mercantil, cada quien se obliga como quiso, sin
+  formalidades sacramentales.
+- **¿Acto absolutamente mercantil?** → Mercantil siempre (títulos de crédito, banca, sociedades).
+- **¿Empresa vs. empresario?** → Organización/actividad vs. el titular (sujeto de derecho).
+- **¿Fondo de comercio?** → Conjunto organizado (clientela, marca, instalaciones) = empresa en
+  marcha.
+- **¿Goodwill / aviamiento?** → Valor de la organización y la clientela (por encima de los activos).
+- **¿Fuente distintiva del mercantil?** → Los **usos** (Incoterms, prácticas).
+- **¿Materia federal o local?** → **Federal** (art. 73-X constitucional).
+- **¿Obligaciones del comerciante?** → Registro, contabilidad, conservación de documentación.
+
+## 36. Mapas mentales
+
+```
+DERECHO MERCANTIL (privado especial; civil = supletorio, art. 2)
+├── DELIMITACIÓN DE LA MATERIA
+│   ├── Subjetivo (comerciante) — medieval
+│   ├── Objetivo (acto de comercio, art. 75) — México/Francia
+│   └── De la empresa (Italia/Alemania) — tendencia moderna
+├── ACTO DE COMERCIO (art. 75; enunciativo, fr. XXIV)
+│   ├── Por naturaleza (intermediación lucrativa)
+│   ├── Por empresa/persona
+│   └── Absolutamente mercantiles (títulos, banca, sociedades)
+├── COMERCIANTE (art. 3): persona física (ocupación ordinaria) + sociedad mercantil
+│   └── Obligaciones: registro · contabilidad · documentación
+├── EMPRESA
+│   ├── Perfiles (Asquini): empresario · actividad · establecimiento · organización
+│   └── Fondo de comercio + GOODWILL (aviamiento) → asset deal / valuación
+├── FUENTES (jerarquía)
+│   └── Leyes especiales → Código de Comercio → USOS → civil supletorio
+│       (+ internacional: Incoterms, UCP, CISG, UNIDROIT)
+└── SISTEMA DEL NIVEL III
+    └── Sociedades (LGSM) · Títulos (LGTOC) · Valores (LMV) · Concurso · Gobierno corporativo
+```
+
+## 37. Cuadros comparativos
+
+**Derecho civil vs. mercantil**
+
+| Criterio | Civil | Mercantil |
+|---|---|---|
+| Ámbito | Vida privada ordinaria | Actividad económica profesional |
+| Competencia | Local (estatal) | Federal |
+| Formas | Más formalista | Libertad de forma (art. 78) |
+| Usos | Marginales | **Fuente relevante** |
+| Prescripción | Plazos generales | A menudo **más cortos** |
+| Relación | Derecho común | Especial (civil = supletorio) |
+
+**Sistemas de delimitación de la materia**
+
+| Sistema | Eje | Ejemplo |
+|---|---|---|
+| Subjetivo | El comerciante | Lex mercatoria medieval |
+| Objetivo | El acto de comercio | Código francés 1807 / México (art. 75) |
+| De la empresa | La organización | HGB alemán / doctrina italiana |
+
+**Empresa vs. sociedad vs. fondo de comercio**
+
+| Concepto | Qué es |
+|---|---|
+| Empresa | Organización económica (capital + trabajo + dirección) |
+| Empresario | El sujeto titular (persona física o moral) |
+| Sociedad | Envoltura jurídica habitual de la empresa (persona moral) |
+| Fondo de comercio | Conjunto organizado de bienes/derechos (empresa en marcha) + goodwill |
+
+## 38. Diagramas
+
+**¿Es mercantil este acto? (árbol de calificación):**
+```
+¿Recae sobre título de crédito / operación bancaria / acto de sociedad mercantil?
+   │ sí → ABSOLUTAMENTE MERCANTIL
+   │ no
+   ▼
+¿Lo realiza una empresa/comerciante en su giro, o es de los del art. 75?
+   │ sí → MERCANTIL
+   │ no
+   ▼
+¿Es accesorio a una actividad mercantil? → sí → mercantil por conexión
+   │ no
+   ▼
+¿Análogo a los del art. 75 (fr. XXIV)? → sí → mercantil / no → CIVIL
+```
+
+**De la empresa al precio (genealogía del goodwill):**
+```
+EMPRESA (organización en marcha) → fondo de comercio (clientela, marca, contratos)
+   → AVIAMIENTO / GOODWILL (valor de la organización)
+   → precio > valor contable → MÚLTIPLOS y SINERGIAS (Nivel IV/V)
+```
+
+## 39. Mnemotecnias
+
+- **Materia mercantil:** *"especial pero no solo: el civil la completa (art. 2)"*.
+- **Calificar el acto:** *"Título/Banca/Sociedad = siempre mercantil"* (absolutamente mercantiles).
+- **Fuentes:** **"LEC-CO-U-CI"** → **L**eyes **E**speciales, **CO**digo de Comercio, **U**sos,
+  **CI**vil supletorio.
+- **Empresa:** *"empresa es la cosa; empresario es quien la mueve"*.
+- **Goodwill:** *"el negocio en marcha vale más que sus fierros"*.
+- **Comerciante:** *"persona habitual + toda sociedad mercantil"*.
