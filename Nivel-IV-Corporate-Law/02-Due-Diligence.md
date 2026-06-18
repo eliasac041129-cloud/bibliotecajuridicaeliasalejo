@@ -1043,3 +1043,239 @@ acelera su carrera más que quien solo "redacta contratos".
   seguro reduce el incentivo a hacer una DD rigurosa? *Postura del Consejo:* no debería —las aseguradoras
   **exigen** una DD sólida para emitir la póliza—; el seguro **complementa**, no sustituye, a la due
   diligence.
+
+## 30. Errores comunes
+
+- **Empezar sin un *scope* claro.** Revisar documentos sin haber definido alcance, materialidad y
+  prioridades: el equipo se ahoga en lo irrelevante y se le escapa lo crítico. *Corrección:* define el
+  *scope* y el umbral de materialidad **antes** de abrir el data room.
+- **Confundir cantidad con calidad.** Un DD report enorme no es un buen DD report. *Corrección:*
+  jerarquiza (deal breaker / mayor / menor) y orienta a la decisión.
+- **No traducir los hallazgos al contrato.** El error más caro: detectar un riesgo y **no** convertirlo
+  en rep, indemnización, ajuste o condición. *Corrección:* para cada *red flag* mayor, define ya la
+  herramienta de protección (sección 14.E).
+- **Olvidar el *change of control*.** No revisar si los contratos clave se caen al cambiar el dueño.
+  *Corrección:* búscalo sistemáticamente y vuélvelo condición al *closing*.
+- **DD de compliance superficial.** Subestimar el riesgo de corrupción heredada. *Corrección:* DD
+  anticorrupción rigurosa, sobre todo con nexo FCPA o mercados de riesgo.
+- **Ignorar las ausencias.** Revisar solo lo que está en el data room sin preguntarse qué falta y por
+  qué. *Corrección:* lee también los **huecos**; úsalos en el Q&A.
+- **Romper el privilegio o la confidencialidad.** Manejar mal documentos privilegiados o información
+  sensible entre competidores. *Corrección:* cuida el privilegio y usa *clean teams* cuando haya riesgo
+  de competencia.
+- **Prisa por cerrar.** Saltarse o apresurar la DD por presión de tiempo (el error de HP-Autonomy).
+  *Corrección:* ninguna prisa justifica no verificar lo crítico (titularidad, QoE, compliance).
+
+## 31. Mitos frecuentes
+
+- **"La due diligence garantiza que no habrá sorpresas."** **Falso.** La DD **reduce y administra** el
+  riesgo; no lo elimina. Por eso existen las reps, la indemnización y el *escrow*: para lo que la DD no
+  pudo ver.
+- **"Hay que revisar absolutamente todo."** **Falso.** Revisar todo es imposible y antieconómico. La DD
+  moderna es **selectiva y proporcional al riesgo** (materialidad).
+- **"La DD es trabajo de juniors, sin importancia estratégica."** **Falso.** La ejecutan juniors, pero
+  define **precio, estructura, contrato y la decisión misma** de comprar. Es de lo más estratégico del
+  deal.
+- **"Si está en el data room, está cubierto."** **Falso.** Lo que el vendedor **revela** (en el data
+  room, en el Q&A, en los *disclosure schedules*) suele **dejar de estar garantizado**: el comprador
+  "ya lo sabía". De ahí el debate del *sandbagging*.
+- **"Con un seguro de reps & warranties no necesito DD."** **Falso.** Las aseguradoras **exigen** una DD
+  sólida para emitir la póliza; el seguro complementa, no sustituye.
+- **"La DD legal y la financiera son mundos separados."** **Falso.** Se cruzan constantemente: una deuda
+  oculta (financiera) nace de un aval (legal); una contingencia fiscal (legal) altera la QoE (financiera).
+
+## 32. Preguntas difíciles
+
+1. **¿Por qué lo que el vendedor revela en la DD puede *reducir* la protección del comprador?** Porque,
+   bajo la lógica de las reps, el comprador se protege de lo **desconocido**; si el vendedor **reveló** un
+   problema (en el *disclosure schedule*), el comprador lo **conocía** y, salvo cláusula
+   *pro-sandbagging*, no podrá reclamar por él después. Revelar es, para el vendedor, una forma de
+   **vacunarse** contra reclamaciones.
+2. **¿Cuándo conviene un *asset deal* en vez de un *share deal* por razones de DD?** Cuando la DD revela
+   un **riesgo alto de pasivos ocultos** (fiscales, ambientales, laborales) difíciles de acotar: el
+   *asset deal* permite **dejar los pasivos** en el vendedor y comprar solo los activos limpios (Libro 1).
+3. **¿Cómo investigar a un competidor sin violar la ley de competencia?** Con un **clean team**: un grupo
+   restringido (a menudo asesores externos) que revisa la información competitivamente sensible y entrega
+   solo conclusiones agregadas, hasta que la operación se autoriza y cierra. Evita el *gun jumping*
+   informativo.
+4. **Si la DD detecta corrupción en la *target*, ¿qué debe hacer el comprador?** Evaluar la gravedad y la
+   exposición (FCPA/local), exigir remediación, estructurar protecciones (indemnización especial,
+   posible *asset deal* para aislar), y —si es sistémica e irremediable— considerar el *walk away*. "No
+   investigué" no es defensa; "investigué y remedié" sí mitiga.
+5. **¿Una DD impecable exonera al consejo si el deal sale mal?** En buena medida sí: una DD adecuada es
+   parte del **proceso informado** que activa la *business judgment rule* (Gobierno Corporativo). El
+   consejo que decidió **informado** está protegido aunque el resultado sea malo; el que decidió **sin
+   informarse** (Van Gorkom), no.
+
+## 33. Casos de examen (con respuesta modelo)
+
+**Caso A.** *Tu cliente quiere comprar una empresa de logística. La DD revela que su contrato más
+importante (40% de los ingresos) contiene una cláusula que permite al cliente terminarlo si la empresa
+cambia de control. ¿Qué recomiendas?*
+**Respuesta modelo:** Es un *red flag* **mayor** (alto impacto sobre el valor). Herramientas combinadas:
+**(i)** condición al *closing* de obtener el **consentimiento** del cliente a la operación (o una
+renovación); **(ii)** si no se obtiene, derecho del comprador a **no cerrar** o a **ajustar el precio**;
+**(iii)** posible **earn-out** atado a la conservación del contrato; **(iv)** rep específica del vendedor
+sobre el estado del contrato. Razonar el porqué: el valor de la *target* depende de ese contrato, así que
+hay que **asegurar su continuidad antes de pagar**.
+
+**Caso B.** *La DD fiscal identifica una contingencia concreta y conocida por una deducción cuestionable
+de un ejercicio anterior, de monto significativo pero incierto. ¿Cómo lo proteges en el SPA?*
+**Respuesta modelo:** Por ser un riesgo **concreto y conocido**, no basta la rep general: se pacta una
+**indemnización especial** por esa contingencia específica, **al 100%, fuera de los topes y mínimos
+generales**, **respaldada por un *escrow*** suficiente por el plazo de prescripción, y con una cláusula
+de **control de la defensa** del eventual litigio fiscal. Mencionar que un riesgo **conocido** se cubre
+con indemnización **específica**, no con la rep general (que cubre lo desconocido).
+
+**Caso C.** *El comprador y la target son competidores directos. ¿Cómo organizas la DD de la información
+de precios y clientes?*
+**Respuesta modelo:** Mediante un **clean team**: grupo restringido o asesores externos que revisan la
+información sensible **sin** trasladarla a los equipos comerciales que toman decisiones, entregando solo
+conclusiones agregadas, hasta obtener la autorización de la COFECE y cerrar. Fundar en el riesgo de
+**gun jumping** informativo y la violación a la LFCE.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Instrucciones:** eres asociado de M&A. Tu socia te asigna la coordinación de la DD legal en la
+> compra de *Manufacturas del Norte, S.A.* (industrial, 600 empleados, una planta, exporta a EE.UU.).
+> Trabaja el caso por pasos antes de leer la guía.
+
+1. **Scoping:** define el alcance y las **áreas prioritarias** dado el perfil (industrial, exportadora,
+   muchos empleados). ¿Qué materialidad propondrías?
+2. **Request list:** redacta las **5 solicitudes más importantes** que pedirías primero y por qué.
+3. **Hipótesis de riesgo:** anticipa los **3 *red flags* más probables** dado el perfil de la empresa.
+4. **Q&A:** formula 3 preguntas precisas que harías si el data room **no** incluye los permisos
+   ambientales.
+5. **Traducción:** para cada *red flag* anticipado, indica la **herramienta de protección** (sección
+   14.E).
+
+> **Guía de solución (resumen).** **(1)** Prioriza **ambiental** (planta industrial), **laboral** (600
+> empleados, posible sindicato y pasivos), **fiscal** (exportadora: IVA, devoluciones, precios de
+> transferencia), **regulatoria** (permisos de operación) y **contractual** (clientes de exportación con
+> *change of control*). Materialidad: contratos > X y contingencias > Y, salvo temas cualitativos
+> (permisos esenciales, ambiental, titularidad). **(2)** Acta constitutiva y libro de accionistas
+> (titularidad); contratos materiales (clientes/proveedores); permisos ambientales y de operación;
+> situación fiscal (declaraciones, devoluciones, precios de transferencia); pasivos laborales y contrato
+> colectivo. **(3)** Pasivo ambiental de la planta; contingencia laboral/sindical o de subcontratación;
+> contingencia fiscal por exportación/devoluciones. **(4)** "¿Cuenta la planta con autorización de
+> impacto ambiental vigente? Favor de cargarla", "¿Existen procedimientos o sanciones de la autoridad
+> ambiental en los últimos 5 años?", "¿Hay estudios de suelo/agua del sitio?". **(5)** Ambiental →
+> condición al *closing* (regularizar) + rep + indemnización + posible *escrow*; laboral → rep +
+> indemnización por contingencias previas al cierre; fiscal → indemnización especial + *escrow*.
+
+## 35. Flashcards
+
+- **¿Qué es la due diligence?** La investigación previa y sistemática del comprador sobre la *target*
+  para saber qué compra, cuánto vale y qué riesgos asume.
+- **¿Cuál es la lección central del libro?** "La DD investiga y las reps reparten": cada hallazgo
+  relevante se traduce en una protección contractual.
+- **¿Qué es la materialidad?** El umbral (cuantitativo y cualitativo) a partir del cual un hallazgo
+  importa.
+- **¿Tres niveles de red flag?** Deal breaker (mata el deal) / mayor (precio-estructura-protección) /
+  menor (a documentar).
+- **¿Qué es un data room (VDR)?** El repositorio virtual seguro donde el vendedor pone la información para
+  su revisión.
+- **¿Qué es la *Quality of Earnings*?** El análisis de cuán recurrentes y reales son las utilidades de la
+  *target*.
+- **¿Qué es un *clean team*?** Grupo restringido que revisa información sensible entre competidores sin
+  trasladarla a las áreas comerciales, para evitar *gun jumping*.
+- **¿Riesgo concreto y conocido se cubre con...?** Indemnización **especial** (no con la rep general).
+- **¿Riesgo subsanable antes de cerrar se cubre con...?** Condición al *closing*.
+- **¿Qué es el *sandbagging*?** Que el comprador reclame por una rep que sabía falsa; se pacta expresamente
+  en el SPA.
+- **¿Qué es la *vendor due diligence*?** La DD que encarga el **vendedor** sobre su propia empresa antes
+  de venderla.
+- **¿Origen del concepto?** La *due diligence defense* de la Securities Act de 1933 (EE.UU.).
+
+## 36. Mapas mentales
+
+```
+                         DUE DILIGENCE
+                              |
+   ┌──────────────┬──────────┼───────────────┬──────────────┐
+ ¿QUÉ ES?     ¿QUÉ BUSCA?   PROCESO        RED FLAGS      TRADUCCIÓN
+investigación  el riesgo    scope→request  materialidad   al SPA
+previa y       (no solo     →data room→    (deal breaker/ (precio, rep,
+sistemática    describir)   revisión→Q&A   mayor/menor)   indemnización,
+del comprador               →report→SPA→   prob × impacto escrow, condición,
+                            confirmatoria                 exclusión, walk away)
+```
+
+```
+                    ÁREAS DE LA DD
+   Corporativa · Contractual · Fiscal · Financiera (QoE)
+   Laboral · Regulatoria/Permisos · Competencia · Ambiental
+   PI · Tecnología/Datos · Compliance/Anticorrupción · Litigios
+        (el abogado de M&A las COORDINA e INTEGRA)
+```
+
+## 37. Cuadros comparativos
+
+**Hallazgo → herramienta de protección (cuadro maestro)**
+
+| Tipo de hallazgo | Herramienta |
+|---|---|
+| La empresa vale menos | Ajuste/descuento de precio |
+| Área de riesgo a garantizar | Rep & warranty específica |
+| Riesgo concreto **conocido** | Indemnización especial (sin tope, fuera de cesta) |
+| Asegurar el cobro | *Escrow* / *holdback* |
+| Riesgo subsanable antes de cerrar | Condición al *closing* |
+| Riesgo localizado en activo/pasivo | Exclusión del perímetro / *asset deal* |
+| Riesgo intolerable e irresoluble | *Walk away* |
+
+**Buy-side DD vs. Vendor DD (VDD)**
+
+| | Buy-side DD | Vendor DD |
+|---|---|---|
+| Quién la encarga | El comprador | El vendedor |
+| Objetivo | Detectar riesgos para protegerse | Ordenar la casa y agilizar la venta |
+| Cuándo | Tras la LOI | Antes de salir al mercado |
+| Uso del reporte | Negociar precio y SPA | Entregar a posibles compradores |
+
+**Full report vs. Red flag report**
+
+| | Full report | Red flag report |
+|---|---|---|
+| Contenido | Exhaustivo, área por área | Solo riesgos relevantes |
+| Extensión | Larga | Ejecutiva |
+| Uso típico | Deals grandes/complejos | La mayoría de los deals modernos |
+
+## 38. Diagramas
+
+**Ciclo de la due diligence:**
+```
+SCOPING (alcance + materialidad)
+   → REQUEST LIST (solicitud de información)
+   → DATA ROOM (el vendedor carga; el comprador accede)
+   → REVISIÓN + Q&A (encontrar y aclarar el riesgo)
+   → DD REPORT (hallazgo → riesgo → impacto → recomendación)
+   → TRADUCCIÓN AL SPA (precio, reps, indemnización, escrow, condiciones)
+   → [signing] → DD CONFIRMATORIA / bring-down → [closing]
+```
+
+**Embudo de jerarquización del riesgo:**
+```
+TODOS los hallazgos
+      │  (filtro: materialidad)
+      ▼
+Hallazgos MATERIALES
+      │  (matriz: probabilidad × impacto)
+      ▼
+🔴 Deal breaker → resolver/condición o WALK AWAY
+🟠 Mayor        → precio / rep específica / indemnización / escrow / condición
+🟡 Menor        → documentar / rep general
+🟢 Conforme     → reportar (da confianza)
+```
+
+## 39. Mnemotecnias
+
+- **Las 3 preguntas de la DD:** *"¿QUÉ compro, CUÁNTO vale, qué RIESGOS trae?"*
+- **El proceso (SRDRRT):** **S**cope · **R**equest list · **D**ata room · **R**evisión+Q&A · **R**eport ·
+  **T**raducción al SPA.
+- **La regla de oro:** *"la DD investiga, las reps reparten, el escrow asegura, la condición exige, el
+  walk away salva"*.
+- **Materialidad:** *"no todo importa; importa lo material"* (cuánto + naturaleza).
+- **Riesgo conocido vs. desconocido:** *"lo desconocido → rep general; lo conocido → indemnización
+  especial"*.
+- **Competidores:** *"entre competidores, clean team o gun jumping"*.
+- **El gran error:** *"hallazgo sin cláusula = trabajo perdido"*.
