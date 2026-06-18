@@ -554,3 +554,111 @@ Una operación de M&A **ensambla todos los libros**:
   países** (COFECE, DOJ/FTC en EE. UU., Comisión Europea), con calendarios y *remedies* coordinados.
 - **Arbitraje internacional:** las disputas post-closing (indemnización, MAC) se resuelven a menudo en
   **arbitraje** (CCI, LCIA), no en tribunales estatales.
+
+
+## 22. Derecho comparado
+
+| Sistema | Rasgos del M&A |
+|---|---|
+| **México** | Estructuras share/asset/fusión (LGSM); SPA con técnica anglosajona sobre derecho mexicano; concentraciones ante **COFECE/IFT**; OPA (LMV); inversión extranjera; mercado liderado por despachos de élite. |
+| **España / UE** | Directiva de OPAs (*takeover bids*); control de concentraciones (Comisión Europea + autoridades nacionales); *due diligence* y SPA de estilo europeo-anglosajón. |
+| **Estados Unidos** | **El referente y el motor del M&A global:** SPA/Merger Agreement estandarizados; **Delaware** (deberes fiduciarios, Revlon/Unocal); control antitrust (DOJ/FTC, **Hart-Scott-Rodino**); SEC y tender offers (Williams Act); R&W Insurance maduro. |
+| **Delaware** | **La capital del M&A:** su *corporate law* y la Court of Chancery definen los estándares de los deberes del consejo, las defensas anti-OPA y la *appraisal* (derecho de los disidentes a valuación). |
+| **UNIDROIT/OCDE** | Principios de gobierno corporativo (deberes del consejo en M&A); soft law sobre adquisiciones. |
+| **UNCITRAL** | Marco de comercio internacional y arbitraje (disputas post-closing). |
+| **CISG** | No aplica a la compra de acciones/empresa; sí a la compraventa de bienes/activos en algunos casos. |
+| **Common Law** | Documentación extensa y autosuficiente; *reps & warranties*, *indemnities*, *MAC*, *disclosure schedules*; fuerte litigio post-closing (Delaware). |
+| **Civil Law** | Adopta la **técnica anglosajona** del SPA sobre el derecho local (fusión/escisión societaria, saneamiento como raíz de las reps); convergencia global de la práctica. |
+
+> **Convergencia clave:** el M&A es la práctica **más globalizada** del derecho. La **documentación
+> anglosajona** (SPA con reps & warranties, indemnity, conditions, MAC) es el **estándar mundial**, se
+> aplique sobre derecho mexicano, español o el que sea. **Delaware** es el laboratorio de los deberes
+> fiduciarios y las defensas. Por eso el abogado de M&A debe dominar **inglés jurídico** y la técnica
+> anglosajona, además del derecho local. (Los estándares de Delaware se profundizan en el Libro 3 y 6
+> del Nivel IV.)
+
+## 23. Derecho mexicano
+
+El M&A en México **integra** múltiples cuerpos (no hay "ley de M&A"):
+- **LGSM:** transmisión de acciones (128), fusión y escisión (222-228 bis), responsabilidad de
+  administradores (157-163), S.A.P.I. (vía LMV).
+- **LMV:** **OPA** (92-109), gobierno corporativo de emisoras, disclosure (Libro 5 Nivel III).
+- **Ley Federal de Competencia Económica:** notificación y autorización de **concentraciones**
+  (umbrales, COFECE/IFT, *gun jumping*, *remedies*).
+- **Ley de Inversión Extranjera:** sectores reservados/restringidos y registro (RNIE).
+- **Sectoriales:** energía (CRE), banca/valores (CNBV), seguros (CNSF), telecom (IFT).
+- **Fiscal (CFF, LISR):** efectos de la enajenación de acciones/activos, fusión/escisión (régimen de
+  neutralidad fiscal si se cumplen requisitos).
+- **Laboral (LFT):** **sustitución patronal** en asset deals.
+- **Civil/Mercantil:** la compraventa, el saneamiento, las garantías, los contratos y su cesión.
+- **El SPA:** autonomía de la voluntad (art. 78 C. Com.; Libro 8 Nivel I); a menudo regido por ley
+  extranjera en operaciones cross-border.
+
+## 24. Jurisprudencia relevante
+
+> Verificar vigencia antes de citar.
+- **Deberes fiduciarios del consejo (LMV / comparado Delaware):** Revlon (venta de control), Unocal
+  (defensas), Van Gorkom (deber de informarse) — referencia del M&A (Libro 7 Nivel III).
+- **Concentraciones (COFECE) y *gun jumping*:** resoluciones que sancionan cerrar antes de la
+  autorización o no notificar.
+- **Indemnización y reps & warranties:** criterios sobre interpretación de las *reps*, materialidad,
+  *disclosure* y causalidad del daño (Libros 3 Nivel II y 8 Nivel I).
+- **Fusión y derecho de oposición de acreedores:** criterios sobre los efectos y la protección de
+  acreedores (LGSM 224-225).
+- **OPA y protección de minoritarios:** criterios sobre la obligatoriedad de la OPA y el trato
+  igualitario (LMV).
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **Competencia económica:** la SCJN y los tribunales especializados han delineado el alcance del
+  control de concentraciones y las facultades de la COFECE.
+- **Protección de minoritarios:** criterios que refuerzan los derechos en emisoras (OPA, disclosure).
+- **Deberes de administradores:** desarrollo del deber de diligencia y lealtad (robusto en emisoras).
+- **(Comparado) Delaware:** la jurisprudencia de la Court of Chancery es el referente mundial de los
+  deberes del consejo en M&A.
+
+## 26. Doctrina nacional
+
+- **Doctrina mexicana de M&A y derecho corporativo** (artículos y obras de los grandes despachos y
+  académicos): práctica de fusiones, adquisiciones, due diligence y documentación en México.
+- **Doctrina de competencia económica** (concentraciones): clave por su rol en la viabilidad del *deal*.
+- **Doctrina societaria y bursátil** (LGSM, LMV — Libros 2 y 5 Nivel III): el sustrato del M&A.
+- **Literatura de empresa familiar y planeación patrimonial:** para las ventas de empresas familiares.
+
+## 27. Doctrina internacional
+
+- **"The Art of M&A"** (Reed, Lajoux et al.): manual clásico y completo de la práctica de M&A.
+- **Lou Kling & Eileen Nugent, *Negotiated Acquisitions of Companies, Subsidiaries and Divisions*:**
+  la "biblia" de la práctica transaccional estadounidense.
+- **Reinier Kraakman et al., *The Anatomy of Corporate Law*:** marco funcional del derecho corporativo
+  y el M&A.
+- **Jurisprudencia y doctrina de Delaware** (deberes fiduciarios, defensas).
+- ***Barbarians at the Gate* (Burrough & Helyar):** lectura narrativa imprescindible para entender la
+  dinámica humana y financiera de los grandes *deals*.
+
+## 28. Opiniones críticas (postura del Consejo)
+
+1. **La estructura (share/asset/fusión) es la primera y más estratégica decisión.** El Consejo insiste
+   en analizarla cruzando **pasivos, contratos, fiscal y regulatorio** desde el inicio: una estructura
+   mal elegida arrastra problemas todo el *deal*.
+2. **El M&A es 50% derecho y 50% gestión de proceso y personas.** El Consejo subraya que el abogado de
+   M&A no solo redacta: **dirige un proceso** (calendario, due diligence, coordinación de asesores y
+   autoridades, negociación), y eso —no solo el conocimiento— es lo que se aprende en el oficio.
+3. **Muchas fusiones destruyen valor.** El Consejo recuerda que las **sinergias se sobreestiman** y la
+   **integración** suele fallar; el buen abogado aporta **escepticismo informado** (due diligence
+   rigurosa, asignación de riesgo realista), no solo entusiasmo por cerrar.
+
+## 29. Debate doctrinal
+
+- **Share deal vs. asset deal:** ¿prevalece la simplicidad (share) o el aislamiento de pasivos (asset)?
+  El debate se decide caso a caso (pasivos, contratos, fiscal, regulatorio).
+- **¿El M&A crea o destruye valor?** Evidencia mixta: los **vendedores** suelen capturar la prima; los
+  **compradores** a menudo pagan de más. Implicación: el abogado debe ser realista sobre las sinergias.
+- **Deberes del consejo: shareholder vs. stakeholder en una venta.** ¿Debe el consejo buscar solo el
+  mejor precio para los accionistas (Revlon) o también atender a empleados/comunidad/ESG?
+- **Defensas anti-OPA:** ¿protegen a los accionistas o atrincheran a los directivos? (Unocal, poison
+  pills — Libro 6 Nivel IV).
+- **R&W Insurance:** ¿mejora la asignación de riesgo (clean exits) o desincentiva la due diligence
+  rigurosa del comprador?
+- **Control de concentraciones:** ¿hasta dónde debe la autoridad bloquear/condicionar fusiones
+  eficientes por proteger la competencia? (eficiencia vs. poder de mercado — Libro 9 Nivel I).
