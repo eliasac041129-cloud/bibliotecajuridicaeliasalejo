@@ -256,3 +256,102 @@ que sale de uno entra en el otro, y el Estado vigila que el hilo se respete.
 - **Cesión de créditos / subrogación / asunción de deuda / novación / compensación / dación en
   pago / confusión / remisión / prescripción:** los modos de transmisión y extinción que
   desarrollaremos en la sección 14.
+
+
+## 14. Desarrollo absoluto
+
+Este es el núcleo del libro. Lo organizamos en cuatro grandes bloques: (A) las clasificaciones
+que importan en la práctica; (B) las modalidades; (C) la transmisión; (D) la extinción. En cada
+uno, no solo "qué es", sino **qué consecuencia patrimonial dispara** y **cómo se usa en una
+operación**.
+
+### 14.A · Clasificaciones de las obligaciones (con consecuencias prácticas)
+
+**1) Por el objeto: dar, hacer, no hacer.**
+- *Dar* (art. 2011 CCF): transmitir dominio, conceder uso/goce, restituir o pagar. Su
+  incumplimiento permite, según el caso, **ejecución forzada** sobre la cosa o el patrimonio.
+- *Hacer* (art. 2027): un servicio u obra. **No se puede coaccionar físicamente** a la persona
+  (nadie es obligado a actuar con violencia); ante incumplimiento, se ejecuta **a costa del
+  deudor** (que un tercero lo haga) o se resuelve en **daños**. Por eso, en contratos de
+  servicios clave, se refuerza con **cláusula penal** y garantías.
+- *No hacer* (art. 2028): abstención. Se incumple al **ejecutar** la conducta prohibida; permite
+  exigir la **destrucción** de lo hecho en contravención y daños. Base de las cláusulas de **no
+  competencia** y de **exclusividad**.
+
+**2) De medios vs. de resultado (la clasificación que decide la prueba).**
+La obligación de **resultado** se incumple por el solo hecho de no obtenerse el resultado (carga
+de la prueba ligera para el acreedor: basta mostrar que no se logró). La de **medios** exige
+probar la **falta de diligencia** del deudor. *Aplicación corporativa directa:* en M&A se pacta
+si una parte debe "**best efforts**" (cercano a resultado, muy exigente), "**reasonable
+efforts**" o "**commercially reasonable efforts**" (de medios, gradación de diligencia) para
+obtener una autorización. La calificación define **quién prueba qué** y cuándo hay
+incumplimiento. *Cómo razona el socio:* nunca dejar "esfuerzos" sin **definir el estándar** en
+el contrato, porque de su naturaleza (medios/resultado) depende el litigio.
+
+**3) Mancomunadas vs. solidarias (la palabra que vale millones).**
+- *Mancomunada (simple):* la deuda **se divide**; cada deudor debe su parte y cada acreedor cobra
+  la suya (art. 1984-1987). Si un deudor es insolvente, su parte la pierde el acreedor.
+- *Solidaria:* cada deudor debe el **todo**; el acreedor elige a quién cobrarle el 100% y este
+  repite (acción de regreso) contra los codeudores por la parte de cada uno (art. 1987 y ss.).
+  **No se presume** (art. 1988): debe pactarse expresamente o imponerla la ley.
+*Aplicación bancaria/M&A:* el financiamiento exige **solidaridad pasiva** de codeudores y
+**avales** para concentrar el riesgo de cobro; los grupos otorgan **garantías solidarias**
+cruzadas (matriz garantiza a filiales). *Errores que cuestan millones (anticipo):* redactar
+"los deudores responderán" sin decir "**solidariamente**" puede dejar al acreedor con una deuda
+dividida e incobrable frente al insolvente.
+
+**4) Divisibles vs. indivisibles.** Determina si cabe **cumplimiento parcial** y cómo opera la
+pluralidad de sujetos respecto de una prestación indivisible (todos responden por el todo de
+hecho, por la naturaleza de la cosa).
+
+**5) Principales vs. accesorias (la suerte de las garantías).** *Accessorium sequitur
+principale.* La fianza, la prenda y la hipoteca son **accesorias** del crédito garantizado: si
+el crédito se extingue (pago, prescripción), **caen** las garantías; si se **nova** la obligación
+principal, las garantías se extinguen **salvo reserva expresa** (art. 2220 CCF). *Trampa de
+reestructura:* al novar un crédito sin reservar las garantías, el banco puede **perder** sus
+prendas e hipotecas. (Lo retomamos en 14.D.)
+
+**6) Líquidas vs. ilíquidas.** La **liquidez** (monto cierto o fácilmente determinable) es
+requisito para que opere la **compensación legal** (art. 2188: deudas líquidas y exigibles) y
+suele condicionar los **intereses moratorios**. *Práctica:* convertir un crédito en "líquido y
+exigible" (p. ej., mediante reconocimiento o estado de cuenta certificado) es un paso clave para
+ejecutar y compensar.
+
+**7) Civiles vs. naturales.** La natural no es exigible, pero lo pagado **no se repite**. Sirve
+para entender deudas prescritas pagadas voluntariamente y ciertos compromisos morales
+juridificados parcialmente.
+
+**8) Específicas vs. genéricas.** En las **genéricas**, *genus nunquam perit*: la pérdida de
+unas unidades no libera (el deudor consigue otras del género). Importa en suministro y en
+obligaciones dinerarias (el dinero es el género por excelencia: nunca "perece").
+
+**9) Alternativas y facultativas.** En la **alternativa** se deben varias prestaciones y se
+cumple con una (con derecho de elección, por regla del deudor —art. 1962); en la **facultativa**
+se debe una pero puede sustituirse por otra prevista. *Uso:* cláusulas de pago "en efectivo o en
+especie", opciones de cumplimiento.
+
+### 14.B · Las modalidades de la obligación
+
+Las modalidades (recuerda el Libro 4) **modulan** la existencia o exigibilidad de la obligación.
+
+- **Condición** (art. 1938 y ss.): acontecimiento **futuro e incierto**. **Suspensiva**: la
+  obligación no nace/no es exigible hasta que se cumpla (germen de las *conditions precedent*).
+  **Resolutoria**: la obligación existe pero se extingue si la condición se cumple. Reglas finas:
+  la condición **imposible** o **ilícita** vicia (art. 1943); cumplida la condición, sus efectos
+  se **retrotraen** al nacimiento del acto (art. 1941), salvo pacto. *Cómo razona el socio:* el
+  *closing* de un M&A es un **haz de condiciones suspensivas** (autorización COFECE, *no MAC*,
+  veracidad de *reps* a la fecha de cierre); su redacción precisa —qué condición, a cargo de
+  quién, plazo, consecuencia si no se cumple (*walk-right*)— es ingeniería de modalidades.
+- **Término o plazo** (art. 1953 y ss.): acontecimiento **futuro y cierto**; fija la
+  **exigibilidad** (suspensivo) o la **extinción** (resolutorio). El plazo se presume en
+  beneficio del **deudor** (art. 1958), salvo pacto. La **pérdida del beneficio del plazo**
+  (art. 1959: insolvencia, no otorgar garantías prometidas, su disminución) es la base civil de
+  las cláusulas de **vencimiento anticipado** (*acceleration*) de los créditos.
+- **Modo o carga:** obligación accesoria impuesta al beneficiario de una liberalidad (dono este
+  inmueble "con la carga" de mantener una beca). Su incumplimiento puede revocar la liberalidad.
+
+> **Puente con M&A (transversal — ¿por qué importa?):** las modalidades son el esqueleto
+> temporal de toda operación. *Signing* y *closing* se separan precisamente por **condiciones**
+> (suspensivas) y **plazos**; el *earn-out* es una obligación a **plazo/condición** con
+> prestación determinable; las cláusulas de *acceleration* son la pérdida del **beneficio del
+> plazo**. Sin dominar modalidades, no se redacta un calendario transaccional.
