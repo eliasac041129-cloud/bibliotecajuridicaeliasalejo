@@ -402,3 +402,95 @@ cuidado**: el precio de jugar con fuego.
 Para el abogado de negocios, el truco es que **gran parte de la responsabilidad se puede
 **repartir por contrato** (indemnity, caps, exclusiones, seguros): negociar un SPA es, en buena
 medida, **decidir por anticipado quién paga si algo sale mal**.
+
+
+## 16. Ejemplos simples
+
+1. **Extracontractual subjetiva.** Un conductor distraído choca tu auto. Hay **culpa**
+   (negligencia), **daño** (la reparación) y **nexo causal**: debe indemnizarte el daño emergente
+   (reparación) y, en su caso, el lucro cesante (si usabas el auto para trabajar).
+2. **Objetiva (riesgo creado).** Una fábrica de explosivos sufre una detonación que daña casas
+   vecinas. Aunque haya operado con todo cuidado, responde **sin culpa** (art. 1913): la actividad
+   es peligrosa por sí misma.
+3. **Contractual.** Un proveedor no entrega a tiempo y el cliente pierde una venta. El proveedor
+   responde del daño emergente y del lucro cesante **previsible y directo** (art. 2110).
+4. **Daño moral.** Un medio difunde una nota falsa que daña la reputación de una persona; procede
+   indemnización por **daño moral** (art. 1916), aunque no haya daño patrimonial.
+5. **Responsabilidad del patrón.** Un repartidor de una empresa atropella a alguien durante su
+   jornada: el **patrón** responde por el hecho de su dependiente (art. 1924).
+
+## 17. Ejemplos complejos
+
+1. **Concurrencia de culpas.** Un peatón cruza con el semáforo en rojo y un coche que iba a
+   exceso de velocidad lo atropella. Hay **culpa de ambos**: la indemnización se **reduce**
+   proporcionalmente a la culpa de la víctima.
+2. **Daño indirecto y causalidad.** Una empresa incumple entregar un componente; el cliente alega
+   que, por ello, perdió un **contrato futuro con un tercero** y, además, su acción bursátil cayó.
+   ¿Hasta dónde responde? El daño **directo** (mayor costo de reposición) sí; los **remotos**
+   (caída bursátil) probablemente no (art. 2110, falta de causalidad inmediata/directa). En un
+   contrato bien hecho, los **consequential damages** estarían **excluidos**.
+3. **Responsabilidad de producto y seguro.** Un electrodoméstico defectuoso provoca un incendio.
+   El fabricante responde (objetiva/producto); pero tiene un **seguro de responsabilidad de
+   producto** que cubre la indemnización. Se litiga entre víctima, fabricante, distribuidor y
+   aseguradora; la **cadena de indemnización** y los *hold harmless* entre ellos deciden quién
+   soporta el costo final.
+4. **Responsabilidad de administradores (D&O).** Un consejero aprueba una operación con conflicto
+   de interés que daña a la sociedad. Responde por violar su deber de **lealtad** (responsabilidad
+   civil del administrador); el seguro **D&O** puede cubrir la defensa y ciertos daños, pero
+   **no** el dolo/fraude. Conexión directa con gobierno corporativo (Nivel IV).
+
+## 18. Casos reales (jurisprudencia y operaciones estilizadas)
+
+- **Daño moral con función disuasiva (SCJN, caso *Mayan Palace* / "valor de la dignidad"):** la
+  Primera Sala reconoció que la indemnización del daño moral, además de reparar, puede tener una
+  **función disuasiva**, y desarrolló parámetros para su cuantificación (derecho lesionado, grado
+  de responsabilidad, capacidad económica). Es lo más cercano a los daños punitivos en México.
+- **Reparación integral (Corte IDH / SCJN):** el derecho a una **reparación justa e integral**
+  comprende daño material, moral y proyecto de vida; ha **expandido** la cuantía de las
+  indemnizaciones, especialmente frente a violaciones graves.
+- **Responsabilidad objetiva por actividades peligrosas:** criterios que aplican el art. 1913 a
+  vehículos, energía eléctrica, sustancias y maquinaria, invirtiendo la carga (la víctima no
+  prueba culpa; el demandado debe probar la eximente).
+
+> *Nota de método (Manifiesto XI.5):* verificar la vigencia y los datos de localización de estos
+> criterios antes de citarlos; se exponen por su valor formativo y de criterio.
+
+## 19. Casos empresariales
+
+- **Responsabilidad de producto:** una embotelladora enfrenta reclamaciones por un lote
+  contaminado; gestiona prevención (control de calidad), **seguro** y, frente a proveedores,
+  cláusulas de **indemnización/hold harmless**.
+- **Responsabilidad ambiental:** una industria contamina un río; responde por el **daño ambiental**
+  (régimen objetivo) y debe **remediar**; el costo se gestiona con provisiones, seguros y, en M&A,
+  con *reps* ambientales e indemnidades específicas.
+- **Responsabilidad laboral refleja:** la empresa responde por daños causados por sus trabajadores
+  a terceros en el ejercicio de sus funciones; capacita y asegura para mitigar.
+
+## 20. Casos corporativos (en transacciones)
+
+- **Indemnización del SPA = responsabilidad contractualizada.** El régimen de *indemnity* (qué
+  daños, caps, baskets, survival, exclusión de consecuenciales) es responsabilidad civil
+  **diseñada por contrato**. El abogado la negocia para asignar el riesgo de lo desconocido.
+- **R&W Insurance (seguro de manifestaciones y garantías):** en M&A modernos, una **aseguradora**
+  cubre el incumplimiento de las reps, permitiendo al vendedor un *clean exit* y dando al comprador
+  un deudor solvente. Es transferencia del riesgo de responsabilidad a un tercero.
+- **Indemnidades específicas (*special indemnities*):** para contingencias **conocidas**
+  (un litigio, una contingencia fiscal o ambiental identificada en due diligence), el vendedor
+  indemniza **sin cap ni basket**, fuera del régimen general.
+- **Responsabilidad de administradores y D&O:** los deberes fiduciarios se hacen valer por
+  responsabilidad civil; el seguro D&O y las cláusulas de indemnización estatutaria protegen a los
+  consejeros (dentro de límites: no el dolo).
+
+## 21. Casos internacionales
+
+- **Daños punitivos (common law) vs. orden público mexicano:** una sentencia extranjera que
+  condena a **punitive damages** puede chocar con el **orden público** mexicano al pedir su
+  reconocimiento (se discute si la parte punitiva, no compensatoria, es ejecutable en México).
+- **Cláusulas de limitación de responsabilidad cross-border:** los *caps*, las exclusiones de
+  *consequential/indirect damages* y los *hold harmless* se redactan conforme a la ley aplicable
+  (NY, inglés) y deben respetar las normas imperativas del foro de ejecución.
+- **Deber de mitigar (CISG / common law):** en contratos internacionales, la víctima tiene un
+  **deber de mitigar** el daño claramente exigible; su omisión **reduce** la indemnización.
+- **Responsabilidad de producto internacional:** las cadenas globales de suministro distribuyen la
+  responsabilidad de producto entre fabricante, importador y distribuidor mediante **indemnidades**
+  y seguros, con foros y leyes pactados.
