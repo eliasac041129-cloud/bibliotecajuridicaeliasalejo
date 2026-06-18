@@ -533,3 +533,74 @@ negociador "blando" es ceder para crear valor y relación, sin **reclamar** su p
 El **experto** hace ambas cosas: **agranda el pastel** (crea valor con inteligencia integradora) **y** se
 **lleva una buena porción** (reclama con criterio y firmeza). Saber **cuándo** abrir y cuándo cerrar, cuándo
 cooperar y cuándo competir, es la maestría de la negociación —y se afina solo con **práctica deliberada**—.
+
+### 14.C · La preparación y el método de Harvard (donde se gana la negociación)
+
+Existe una verdad que separa a los amateurs de los profesionales: **la negociación se gana en la
+preparación, no en la mesa.** El negociador improvisado reacciona; el preparado **conduce**. Dedicar horas
+a preparar una negociación importante no es exceso: es lo que distingue al experto. Y el marco para
+prepararse y negociar bien es la ***principled negotiation*** de Harvard.
+
+**La preparación rigurosa (la checklist del negociador).** Antes de cualquier negociación seria, analiza:
+1. **Tus intereses (y los del otro):** ¿qué necesitas **realmente** (no qué pides)? ¿Qué prioridades?
+   ¿Qué necesita el otro? Hipotetiza sus intereses (ponte en sus zapatos).
+2. **Los BATNAs:** ¿cuál es **tu** BATNA? ¿Puedes **mejorarlo** antes de negociar? ¿Cuál es el BATNA del
+   **otro** (qué hará si no cierra contigo)? Esto define el poder de cada lado.
+3. **Los puntos de reserva y la ZOPA:** ¿cuál es tu *walk-away*? ¿Cuál estimas que es el del otro? ¿Hay
+   ZOPA? ¿Dónde?
+4. **Las oportunidades de crear valor:** ¿qué **intercambios** podrían beneficiar a ambos (prioridades
+   distintas, diferencias de valoración, riesgo, tiempo)? ¿Qué **temas adicionales** ampliarían el pastel?
+5. **Los criterios objetivos:** ¿qué **estándares** justos legitiman tu posición (precio de mercado,
+   comparables, peritajes, precedentes, fórmulas)?
+6. **El proceso (*setup*):** ¿quiénes deben estar en la mesa? ¿En qué **secuencia**? ¿Quién tiene autoridad
+   para decidir? ¿Dónde, cuándo, con qué plazos?
+7. **Tu primera oferta y tu estrategia de concesiones:** ¿anclas tú o esperas? ¿Con qué número? ¿Cómo
+   cederás?
+8. **Las partes y los agentes:** ¿negocias con quien decide o con un agente? ¿Quiénes influyen detrás?
+*Regla:* **escribe** tu preparación (no la dejes en la cabeza). El que llega con este análisis hecho
+**domina** la mesa.
+
+**El método de Harvard: los cuatro principios de la *principled negotiation*.** *Getting to Yes* propuso un
+método que supera el falso dilema entre negociar "duro" (posicional, gana-pierde, daña la relación) y
+"suave" (ceder, preserva la relación pero pierde valor). La propuesta: negociar **por méritos**, con cuatro
+principios:
+
+**1) Separar a las personas del problema.** Las negociaciones involucran **personas** con emociones, egos y
+percepciones. El error es **mezclar** el problema sustantivo con la relación personal (atacar a la persona
+al atacar su posición). La regla: **"duro con el problema, suave con la persona"**. Trata a la contraparte
+con **respeto y empatía** (escucha, reconoce sus emociones, no la humilles) mientras defiendes **firmemente**
+los intereses de tu cliente. Esto **preserva la relación** y, paradójicamente, hace al otro más cooperativo.
+
+**2) Centrarse en los intereses, no en las posiciones.** Ya lo vimos (14.A): pregunta "**¿por qué?**" y
+"**¿para qué?**" para descubrir los intereses detrás de las posiciones. Detrás de demandas incompatibles
+suele haber intereses **conciliables**. Identifica los **intereses compartidos** (ambos quieren cerrar el
+deal, ambos quieren una relación sana), los **complementarios** (prioridades distintas → intercambios), y
+los **realmente opuestos** (donde sí hay que repartir). Centrarse en intereses **abre** el espacio de
+soluciones.
+
+**3) Generar opciones de beneficio mutuo (antes de decidir).** Antes de comprometerte con una solución,
+**genera muchas opciones** —idealmente en un modo de "lluvia de ideas" separado de la decisión—. El error
+es buscar **una** respuesta y pelear por ella; el acierto es **inventar opciones** que creen valor (los
+intercambios del 14.B). Pregunta "**¿qué pasaría si...?**". Cuantas más opciones inteligentes pongas sobre
+la mesa, más probable es encontrar el acuerdo que agranda el pastel.
+
+**4) Insistir en criterios objetivos.** Cuando hay que **repartir** (intereses opuestos), no lo hagas por
+**voluntad** ("porque yo lo digo" / "porque tú quieres") sino por **criterios objetivos e independientes**:
+precio de mercado, valor de comparables, peritaje, precedentes, fórmulas, estándares profesionales. ¿Por
+qué? Porque un criterio objetivo **legitima** el resultado (es más fácil aceptar "el precio de mercado es
+X" que "yo quiero X"), **despersonaliza** el conflicto, y **protege la relación**. El negociador hábil
+**enmarca** su posición en criterios objetivos y pide al otro que justifique la suya con criterios también.
+
+**La integración: preparación + método.** El negociador profesional **prepara** rigurosamente (intereses,
+BATNAs, ZOPA, opciones, criterios) y **conduce** la negociación con el método de Harvard (separa personas y
+problema, explora intereses, genera opciones, usa criterios objetivos). Este enfoque **crea valor** (porque
+explora intereses y opciones) **y** ayuda a **reclamar** con legitimidad (criterios objetivos), **sin
+destruir la relación** (separar persona y problema). No es "ser blando": es ser **eficaz y firme a la vez**.
+Es la diferencia entre el negociador que **regatea** y el que **resuelve problemas creando y capturando
+valor**.
+
+**Una advertencia realista.** El método de Harvard es poderoso, pero no ingenuo: no todos los negociadores
+juegan limpio. Por eso debes dominar **también** las tácticas de poder y las defensas (14.D): el método de
+Harvard es tu **estrategia base** (crea valor, usa criterios), pero debes saber **reclamar con firmeza** y
+**defenderte** de las tácticas duras y la mala fe. El experto combina la **mentalidad colaborativa** de
+Harvard con la **competencia táctica** de quien sabe protegerse —y reconoce cuándo usar cada una—.
