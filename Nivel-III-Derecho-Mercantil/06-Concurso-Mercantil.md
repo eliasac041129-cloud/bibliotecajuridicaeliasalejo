@@ -830,3 +830,130 @@ Cobro con PREFERENCIA sobre el bien (tras laborales/fiscales aplicables) ✔
 - **Colectivo:** *"declarado el concurso, nadie cobra por fuera"*.
 - **Conservación:** *"la empresa viva vale más que sus pedazos"*.
 - **Distressed:** *"comprar barato en la crisis, a veces limpio de pasivos"*.
+
+
+## 40. Resumen ejecutivo
+
+El **concurso mercantil** es el derecho de la empresa insolvente: un procedimiento **colectivo** y
+**universal** (todos los acreedores, todos los bienes) que, ante el **incumplimiento generalizado** de
+pagos, persigue dos finalidades **en orden**: **primero conservar** la empresa viable —la
+**conciliación**, que reestructura la deuda mediante un **convenio** (quitas, esperas, conversión)
+vinculante incluso para los disidentes (***cram down***)— y, si fracasa, **liquidar** ordenadamente
+—la **quiebra**, donde el síndico vende los bienes (idealmente la empresa **como unidad**) y paga
+conforme a la **prelación**—. La prelación es el corazón de la materia: cobran primero los
+**singularmente privilegiados** y los **laborales** (preferencia destacada), luego los acreedores
+**con garantía real** (sobre su bien), los **fiscales** y los de privilegio especial, y al final los
+**comunes** a prorrata. La declaración de concurso **suspende** las ejecuciones individuales y abre la
+posibilidad de **anular** (retroacción) los actos en fraude de la masa —incluidas las **garantías
+tomadas tarde**—.
+
+Para el abogado corporativo, este libro es la **prueba de fuego de las garantías** (Libro 4 Nivel II):
+el día de la insolvencia se descubre quién las tomó bien, a tiempo y perfeccionadas (y cobra) y quién
+quedó como quirografario (y no cobra). De ahí su doble enseñanza: **proteger al acreedor antes de la
+crisis** (garantías reales, oportunas y bien inscritas) y **navegar la crisis** cuando llega
+(reestructurar vía conciliación o *workout*, o aprovecharla vía ***distressed M&A*** y *distressed
+debt*). Es una especialidad técnica y de alto valor en banca, reestructuración y private equity, y la
+penúltima pieza del Nivel III antes del gobierno corporativo y del salto al Corporate Law.
+
+## 41. Checklist
+
+**Para el acreedor (antes y durante la crisis):**
+- [ ] ¿Tomé **garantía real**, bien **perfeccionada e inscrita**, y **a tiempo** (fuera de
+  retroacción)?
+- [ ] ¿En qué **rango** de la prelación cobro? ¿Hay preferencias laborales/fiscales por delante?
+- [ ] Declarado el concurso, ¿estoy cobrando **dentro** (no por ejecución individual)?
+- [ ] ¿Me conviene **apoyar la conciliación** (reestructura) o empujar la **quiebra**? (comparar
+  recuperación)
+- [ ] ¿Puede el ***cram down*** vincularme, o puedo influir en el convenio?
+
+**Para la empresa en crisis:**
+- [ ] ¿Es viable? ¿Conviene **conciliación**, **workout** o **plan prepactado**?
+- [ ] ¿Puedo obtener **financiamiento durante el concurso** para seguir operando?
+- [ ] ¿Los administradores están cuidando sus **deberes en la zona de insolvencia** (no agravar el
+  pasivo, no preferir indebidamente)?
+
+**Para el inversionista (distressed):**
+- [ ] ¿Conviene comprar **deuda** (distressed debt / loan-to-own) o **activos/empresa** (distressed
+  M&A)?
+- [ ] ¿La compra es "**limpia**" de pasivos? ¿Riesgo de impugnación?
+
+## 42. Bibliografía comentada
+
+- **Ley de Concursos Mercantiles (2000, reformas 2007 y 2014) y su doctrina.** El derecho positivo;
+  estúdialo con el texto vigente y los comentarios a las reformas (planes prepactados,
+  financiamiento).
+- **US Bankruptcy Code — Chapter 11 (y su literatura).** El modelo mundial de la reorganización;
+  indispensable para entender la filosofía conservativa y el *distressed* internacional.
+- **UNCITRAL, *Guía Legislativa sobre el Régimen de la Insolvencia* y *Ley Modelo sobre Insolvencia
+  Transfronteriza*.** Para el marco internacional y la coordinación de grupos multinacionales.
+- **Directiva UE 2019/1023** sobre reestructuración preventiva y segunda oportunidad.
+- **Doctrina mexicana de reestructuración y *distressed*** (reciente): para los *workouts*, los
+  prepacks y el *distressed M&A*.
+
+## 43. Ruta hacia el siguiente libro
+
+Lo que acabas de aprender —cómo se reestructura o liquida la empresa insolvente y cómo se reparte entre
+acreedores— será **indispensable para comprender** el último libro del Nivel III: el **gobierno
+corporativo**, que busca, entre otras cosas, **prevenir** la crisis mediante buenos consejos, control y
+deberes fiduciarios, y que es el puente directo al Corporate Law.
+
+- **Siguiente libro:** *[Nivel III · Libro 7] Gobierno Corporativo (mercantil)* — consejo de
+  administración, deberes de diligencia y lealtad, comités, protección de minorías y control;
+  consolida lo visto en Sociedades (LGSM) y LMV y abre el Nivel IV.
+- **Conexión de largo alcance:** el ***distressed M&A***, el *distressed debt* y la reestructuración
+  reaparecen, con plena potencia, en el **Nivel IV** (private equity, special situations) y en el
+  **financiamiento de adquisiciones**. Vuelve a las secciones 14.D, 14.E y 14.F cuando llegues allí.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque el concurso es **el día de la verdad de todo lo que el abogado estructuró antes**. El crédito,
+las garantías, los contratos, la estructura societaria: todo se pone a prueba cuando la empresa no
+puede pagar. El abogado que entiende la **prelación** y la **retroacción** diseña financiamientos que
+**sí cobran** en la insolvencia (garantías reales, oportunas y bien inscritas); el que no, deja a su
+cliente como quirografario. Además, la **reestructuración** (salvar empresas viables) y el
+***distressed M&A*** (comprar en la crisis) son nichos de **altísimo valor** en banca y private
+equity. Y para el lado del deudor, saber cuándo y cómo acogerse al concurso (o reestructurar
+extrajudicialmente) puede salvar a la empresa y a los empleos. Es una de las materias que más
+distingue al abogado de negocios completo.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+> *"Cuando estructuro un financiamiento, no pienso en el día del pago puntual, sino en el **peor día**:
+> la **quiebra** del deudor. Me pregunto: ¿mi garantía real está **bien tomada, perfeccionada e
+> inscrita**, y **a tiempo** (fuera del periodo de retroacción)? ¿En qué **rango** de la prelación
+> caigo —después de laborales y fiscales—? Porque ese día se separa al acreedor que **recupera** del
+> que **mira cómo otros cobran**. Cuando la crisis llega, decido rápido: ¿la empresa es **viable**
+> (entonces reestructuro: conciliación, *workout* o *pre-pack*, usando el *cram down* para vencer a los
+> *holdouts*) o no (entonces ejecuto y cobro sobre mi colateral)? Y como inversionista *distressed*,
+> veo oportunidad: comprar **deuda** con descuento para hacer *loan-to-own*, o comprar la **empresa
+> en concurso** limpia de pasivos. El concurso, bien entendido, es tanto un riesgo a blindar como una
+> oportunidad a capturar."*
+
+## ✦ Errores que cuestan millones
+
+1. **Tomar garantías en la víspera de la insolvencia.** Constituir una hipoteca o prenda por una deuda
+   preexistente justo antes del concurso las expone a ser **anuladas por retroacción**: el acreedor
+   pasa de garantizado a quirografario. Pérdida potencial: todo el colateral. *Prevención:* garantías
+   **al originar** el crédito.
+2. **Descuidar el perfeccionamiento/inscripción de la garantía.** Una garantía no inscrita puede ser
+   inoponible y degradar al acreedor a común en el concurso. *Prevención:* perfeccionar e inscribir
+   (Libro 4 Nivel II).
+3. **Empujar a la liquidación una empresa viable.** Liquidar "en pedazos" una empresa que podía salvarse
+   destruye el goodwill y reduce la recuperación de **todos** (incluido el propio acreedor).
+   *Prevención:* evaluar la viabilidad y favorecer la **conciliación**/venta como unidad.
+4. **Confiar en un *workout* con un acreedor díscolo.** Sin *cram down* judicial, un *holdout* puede
+   **bloquear** la reestructura extrajudicial. *Prevención:* usar el concurso (o un *pre-pack*) cuando
+   el consenso no es total.
+5. **Ignorar la insolvencia transfronteriza.** En grupos multinacionales, no coordinar los
+   procedimientos (COMI, reconocimiento) genera pérdidas y litigios paralelos.
+
+---
+
+> *Cierre del Libro.* Has aprendido a navegar el **peor día** de la empresa —y a prepararte para él
+> antes de que llegue—. Con esto dominas el ciclo completo del crédito: nace (obligaciones), circula
+> (títulos), se garantiza (garantías) y, si todo falla, se resuelve en el **concurso**. Solo resta un
+> libro para cerrar el Nivel III: el **gobierno corporativo**, que busca **prevenir** la crisis con
+> buenos consejos y deberes fiduciarios, y que es la puerta directa al **Nivel IV: Corporate Law y
+> M&A**. El objetivo está cada vez más cerca.
