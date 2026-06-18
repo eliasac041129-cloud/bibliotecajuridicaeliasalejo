@@ -171,3 +171,95 @@ Para la empresa, las garantías son **la llave del financiamiento** y un activo 
 El abogado corporativo **diseña y ejecuta** el *security package*: elige la garantía idónea para
 cada activo, la perfecciona, asegura su prioridad y prevé su ejecución. Es el cierre natural del
 derecho civil profundo y la antesala directa del Nivel IV (financiamiento y M&A).
+
+
+## 10. Definiciones doctrinales
+
+- **Garantía (concepto general):** todo medio que **refuerza** el derecho del acreedor a cobrar,
+  aumentando la probabilidad de cumplimiento o asegurando la satisfacción del crédito con un bien o
+  un patrimonio adicional.
+- **Fianza (doctrina civil):** garantía **personal** y **accesoria** por la que un tercero (fiador)
+  se obliga a pagar por el deudor si este no lo hace; añade un patrimonio responsable.
+- **Prenda (doctrina):** derecho real de **garantía sobre bienes muebles** que faculta al acreedor
+  a venderlos y cobrarse con preferencia si el deudor incumple.
+- **Hipoteca (doctrina):** derecho real de garantía que recae sobre **bienes inmuebles** (o ciertos
+  derechos), **sin desplazamiento** de la posesión, y confiere persecución y preferencia.
+- **Fideicomiso de garantía:** negocio por el que el deudor (fideicomitente) **transmite** bienes a
+  una fiduciaria para garantizar una obligación; ante incumplimiento, los bienes se realizan
+  conforme al contrato para pagar al acreedor (fideicomisario).
+- **Garantía autónoma / a primera demanda:** garantía **independiente** del crédito principal (no
+  accesoria), pagadera al simple requerimiento, sin discutir el contrato subyacente.
+
+> **Lectura del Consejo:** la gran summa divisio es **personal vs. real**. La personal multiplica
+> los **patrimonios** que responden (más deudores/garantes); la real concentra el cobro en un
+> **bien** (con persecución y preferencia). El financiamiento serio **combina ambas**: garantía
+> corporativa (personal) + prenda/hipoteca/fideicomiso (real) sobre los activos clave.
+
+## 11. Definiciones legales (verificar versión vigente)
+
+- **Fianza — art. 2794 CCF:** contrato por el cual una persona se compromete con el acreedor a
+  **pagar por el deudor** si éste no lo hace. **Beneficios de orden y excusión:** arts. 2814 y ss.
+  (renunciables).
+- **Prenda (con desplazamiento) — art. 2856 CCF:** derecho real constituido sobre un bien mueble
+  enajenable para **garantizar** el cumplimiento de una obligación y su preferencia en el pago.
+- **Hipoteca — art. 2893 CCF:** garantía real constituida sobre bienes **que no se entregan** al
+  acreedor, y que da derecho, en caso de incumplimiento, a ser pagado con el valor de los bienes,
+  con la preferencia que la ley establece.
+- **Prohibición del pacto comisorio — art. 2887 CCF (prenda) y reglas análogas en hipoteca:** es
+  **nulo** el pacto que autorice al acreedor a **apropiarse** de la cosa dada en garantía sin las
+  formalidades de venta/remate (protege al deudor).
+- **Prenda sin transmisión de posesión — arts. 346 y ss. LGTOC:** el deudor **conserva la posesión**
+  y el uso del bien (inventario, maquinaria, materias primas) que queda gravado; se inscribe en el
+  **RUG**.
+- **Fideicomiso de garantía — arts. 395 y ss. LGTOC:** afectación de bienes en fideicomiso para
+  garantizar obligaciones, con reglas de ejecución (incluso extrajudicial pactada).
+- **Registro Único de Garantías Mobiliarias (RUG) — Código de Comercio:** publicidad electrónica de
+  las garantías sobre bienes muebles; fija **prelación** por la fecha de inscripción.
+
+## 12. Definición sencilla
+
+Una garantía es un **"seguro de cobro"** para el acreedor. Hay dos tipos:
+- **Personal** (fianza/aval): "si el deudor no paga, **otra persona** paga por él." Más bolsillos
+  que persiguen.
+- **Real** (prenda/hipoteca/fideicomiso): "si no pagan, **me cobro con este bien**, antes que
+  nadie, aunque el deudor lo haya vendido." Un bien marcado para responder.
+
+La clave práctica: una garantía solo sirve si está **bien puesta** (constituida con la forma
+correcta), **bien anotada** (perfeccionada/registrada para que valga frente a todos y tenga
+prioridad) y **se puede cobrar rápido** (ejecutable).
+
+## 13. Conceptos fundamentales
+
+- **Garantía personal vs. real:** patrimonio(s) adicional(es) que responde(n) vs. bien concreto
+  afectado con persecución y preferencia.
+- **Accesoriedad:** la garantía **sigue la suerte del crédito** que garantiza (si se extingue o se
+  **nova** sin reserva, la garantía cae — art. 2220, Libro 1). Excepción: las garantías
+  **autónomas**.
+- **Persecución (*ius persequendi*):** el acreedor con garantía real persigue el bien **aunque pase
+  a un tercero**.
+- **Preferencia (*ius praelationis*):** cobra **antes** que los acreedores comunes sobre el bien
+  gravado.
+- **Constitución:** el acto que **crea** la garantía (contrato de fianza, prenda, hipoteca,
+  fideicomiso), con sus requisitos de **forma** (escritura pública en hipoteca; contrato en prenda;
+  etc.).
+- **Perfeccionamiento:** los actos que hacen la garantía **oponible a terceros** (entrega de la
+  cosa en prenda clásica; **inscripción** en el Registro Público de la Propiedad —hipoteca— o en el
+  **RUG** —prenda sin transmisión—).
+- **Prelación / prioridad:** el **orden** de cobro entre garantías sobre el mismo bien; rige *prior
+  in tempore, potior in iure* (quien **inscribe primero**, gana).
+- **Pacto comisorio (prohibido):** acuerdo por el que el acreedor se **apropia** del bien sin
+  remate; **nulo**, para evitar abusos. La garantía se ejecuta por **venta/remate** (o conforme al
+  fideicomiso).
+- **Ejecución:** el procedimiento para **realizar** la garantía y cobrar (juicio hipotecario,
+  ejecución de prenda, realización del fideicomiso —a veces extrajudicial—).
+- **Prenda sin transmisión de posesión:** el deudor **conserva y usa** el bien gravado (RUG);
+  permite financiar con activos productivos sin paralizarlos.
+- **Fideicomiso de garantía:** transmisión fiduciaria con **ejecución ágil**; preferido en
+  financiamientos estructurados.
+- **Garantía corporativa / aval / fianza solidaria:** garantías personales que refuerzan el crédito
+  de grupo (matriz garantiza a filial, *parent guarantee*).
+- **Negative pledge:** compromiso del deudor de **no otorgar** garantías sobre sus activos a otros
+  acreedores (protege al acreedor que no tiene garantía real, manteniendo su posición relativa).
+- **Cross-collateralization:** un mismo paquete de garantías respalda **varios** créditos.
+- **Intercreditor agreement:** acuerdo entre varios acreedores que regula la **prelación** y la
+  **subordinación** de sus garantías y créditos (deuda *senior* vs. *mezzanine*).
