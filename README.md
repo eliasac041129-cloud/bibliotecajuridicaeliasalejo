@@ -1,8 +1,12 @@
-# Biblioteca Jurídica · Ruta a Abogado Corporativo de Clase Mundial
+# Biblioteca Jurídica Elias Alejo · Ruta a Abogado Corporativo de Clase Mundial
 
-> Colección de tratados universitarios diseñada para formar, desde cero, a un jurista
-> mexicano capaz de incorporarse a un despacho líder en Derecho Corporativo y
-> desarrollarse hacia una práctica de excelencia en **Fusiones y Adquisiciones (M&A)**.
+> Colección de tratados diseñada para formar, desde cero, a un jurista mexicano capaz de
+> incorporarse a un despacho líder en Derecho Corporativo y desarrollarse hacia una práctica
+> de excelencia en **Fusiones y Adquisiciones (M&A)**.
+
+> 📜 **Documento rector:** antes que este README, lee el
+> [**00 · Manifiesto Editorial**](./00_MANIFIESTO_EDITORIAL.md) — la "Constitución" de la
+> biblioteca: su visión, principios y estándar de calidad.
 
 ---
 
@@ -40,41 +44,16 @@ Derecho Corporativo y crecer hacia una práctica de élite en M&A.
 
 ---
 
-## Estructura de cada libro (30 secciones obligatorias)
+## Estructura de cada libro (Estándar Editorial V3)
 
-Todos los tratados siguen exactamente la misma plantilla. Ver
-[PLANTILLA-LIBRO.md](./PLANTILLA-LIBRO.md).
+Los libros nuevos siguen el **Estándar V3: 43 secciones** + **4 secciones transversales
+obligatorias** (¿Por qué importa para un abogado corporativo? · Cómo piensa un socio de un
+despacho internacional · Errores que cuestan millones · Nivel de importancia profesional).
+El detalle está en [PLANTILLA-LIBRO.md](./PLANTILLA-LIBRO.md).
 
-1. ¿Por qué esta materia existe?
-2. Historia
-3. Problema jurídico que resolvió
-4. Conceptos
-5. Explicación completa
-6. Comparación doctrinal
-7. Autores más importantes
-8. Derecho comparado
-9. Relación con México
-10. Relación con otras materias
-11. Aplicación profesional
-12. Errores comunes
-13. Cómo lo preguntaría un profesor
-14. Cómo aparece en un juicio
-15. Cómo aparece en un contrato
-16. Cómo aparece en una empresa
-17. Cómo aparece en una operación de M&A
-18. Cómo aparece en la práctica internacional
-19. Casos
-20. Preguntas abiertas
-21. Preguntas tipo examen
-22. Casos complejos
-23. Flashcards
-24. Mapas mentales
-25. Cuadros comparativos
-26. Mnemotecnias
-27. Checklist
-28. Resumen ejecutivo
-29. Bibliografía
-30. Ruta para continuar
+> Los 13 tratados del **Nivel I** se construyeron sobre el estándar fundacional de 30 secciones
+> (plenamente válido); los nuevos volúmenes adoptan el V3, y el Nivel I se enriquecerá hacia el
+> V3 progresivamente.
 
 ---
 

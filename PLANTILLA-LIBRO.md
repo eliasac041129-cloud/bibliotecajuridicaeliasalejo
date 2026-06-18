@@ -1,9 +1,9 @@
-# Plantilla maestra de tratado
+# Plantilla maestra de tratado · Estándar Editorial V3
 
-> Este documento define el **estándar editorial** de todos los libros de la biblioteca.
-> Cada tratado debe contener las 30 secciones, en este orden, con la profundidad que
-> corresponda: **tratado** para temas centrales, **manual** para temas secundarios.
-> Nunca rellenar. Todo debe aportar valor.
+> Documento operativo del [Manifiesto Editorial](./00_MANIFIESTO_EDITORIAL.md). Define el
+> estándar **V3** de todos los libros nuevos: **43 secciones** + **4 secciones transversales
+> obligatorias**. Profundidad de **tratado** en temas centrales; **manual robusto** en
+> secundarios. Nunca relleno. Cada página, conocimiento permanente.
 
 ---
 
@@ -11,111 +11,107 @@
 
 ```
 # [Nivel X · Libro N] Título del tratado
-> Una línea que captura la tesis central de la materia.
+> Tesis central en una o dos líneas.
 Etiquetas: materia · subárea · conexión con M&A
 Prerrequisitos: [libros previos]
+Estándar: V3 (43 secciones)
+```
+
+> **Aviso de método (incluir al inicio):** una línea recordando que el libro se construye con
+> profundidad de tratado, ejemplos trabajados, "cómo razona un socio" y ejercicios, no como
+> repaso.
+
+---
+
+## Las 43 secciones (orden obligatorio)
+
+1. **Introducción** — apertura que sitúa la materia y engancha al lector.
+2. **Objetivos del libro** — qué dominará el lector al terminar.
+3. **Importancia profesional** — peso de la materia en la práctica corporativa.
+4. **Historia de la institución** — origen y nacimiento.
+5. **Evolución histórica** — desarrollo hasta el derecho vigente.
+6. **Contexto económico** — fuerzas económicas que la moldean.
+7. **Contexto político** — relación con el poder y la regulación.
+8. **Contexto social** — función social de la institución.
+9. **Contexto empresarial** — papel en la vida de la empresa.
+10. **Definiciones doctrinales** — de los grandes autores.
+11. **Definiciones legales** — de la ley vigente (con artículos).
+12. **Definición sencilla** — en lenguaje claro, para fijar la intuición.
+13. **Conceptos fundamentales** — glosario riguroso.
+14. **Desarrollo absoluto** — el cuerpo doctrinal completo y sistemático (núcleo del libro).
+15. **Explicación intuitiva** — el modelo mental, analogías, "cómo pensarlo".
+16. **Ejemplos simples** — para asentar.
+17. **Ejemplos complejos** — multi-variable, realistas.
+18. **Casos reales** — jurisprudencia y operaciones documentadas o estilizadas.
+19. **Casos empresariales** — en la vida de una compañía.
+20. **Casos corporativos** — en transacciones.
+21. **Casos internacionales** — *cross-border*.
+22. **Derecho comparado** — México, España, EE.UU., Delaware, UE, UNIDROIT, UNCITRAL, CISG,
+    Common Law, Civil Law.
+23. **Derecho mexicano** — régimen positivo nacional (constitucional, legal).
+24. **Jurisprudencia relevante** — criterios judiciales.
+25. **Criterios de la Suprema Corte** — SCJN y tribunales superiores.
+26. **Doctrina nacional** — autores mexicanos.
+27. **Doctrina internacional** — autores extranjeros.
+28. **Opiniones críticas** — postura del Consejo y de la crítica.
+29. **Debate doctrinal** — controversias vivas.
+30. **Errores comunes** — del estudiante y del practicante.
+31. **Mitos frecuentes** — creencias falsas que conviene desterrar.
+32. **Preguntas difíciles** — para pensar como experto.
+33. **Casos de examen** — con respuesta modelo.
+34. **Simulador** — ejercicio práctico tipo despacho (rol, hechos, tarea).
+35. **Flashcards** — recuperación activa.
+36. **Mapas mentales** — estructura jerárquica.
+37. **Cuadros comparativos** — tablas que contrastan figuras afines.
+38. **Diagramas** — flujos y esquemas (en texto/ASCII).
+39. **Mnemotecnias** — reglas de retención.
+40. **Resumen ejecutivo** — síntesis de alto nivel.
+41. **Checklist** — lista operativa del profesional.
+42. **Bibliografía comentada** — fuentes con nota de por qué leerlas.
+43. **Ruta hacia el siguiente libro** — «Lo que acabas de aprender será indispensable para
+    comprender...».
+
+---
+
+## Secciones transversales obligatorias
+
+Se integran dentro del libro (idealmente como apartados destacados, una vez por libro o por
+gran tema):
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+La utilidad del tema para empresas, contratos, fusiones, adquisiciones, financiamiento y
+gobierno corporativo. **Obligatoria aunque el tema sea Derecho Romano, Filosofía o Historia.**
+
+### ✦ Cómo piensa un socio de un despacho internacional
+Cómo un socio de Skadden, Kirkland, Cravath, Davis Polk, Latham, Creel o Galicia usaría este
+conocimiento en una operación real.
+
+### ✦ Errores que cuestan millones
+Errores concretos que provocan pérdidas económicas relevantes, con el aprendizaje práctico.
+
+### ✦ Nivel de importancia profesional
+Calificación de 1 a 5 ★ por área. Formato sugerido:
+
+```
+Litigio              ★★★☆☆
+Corporate            ★★★★★
+M&A                  ★★★★★
+Mercado de Valores   ★★★★☆
+Venture Capital      ★★★★☆
+Private Equity       ★★★★☆
+Gobierno Corporativo ★★★★★
+Compliance           ★★★☆☆
+Derecho Bancario     ★★★★☆
+Empresa Familiar     ★★★★☆
 ```
 
 ---
 
-## Las 30 secciones
+## Reglas de estilo y calidad
 
-### 1. ¿Por qué esta materia existe?
-Función social y económica. Qué problema humano la origina. Por qué un abogado
-corporativo no puede ignorarla.
-
-### 2. Historia
-Origen, evolución, hitos legislativos y doctrinales. De Roma al derecho vigente.
-
-### 3. Problema jurídico que resolvió
-El conflicto concreto que la institución vino a ordenar.
-
-### 4. Conceptos
-Glosario riguroso de términos técnicos, con definición de autor y de ley.
-
-### 5. Explicación completa
-El cuerpo doctrinal. Desarrollo extenso, sistemático y argumentado.
-
-### 6. Comparación doctrinal
-Escuelas, corrientes y debates. Posturas enfrentadas y su razón de ser.
-
-### 7. Autores más importantes
-Quién es quién, qué aportó y qué leer de cada uno.
-
-### 8. Derecho comparado
-Tratamiento en sistemas relevantes (romano-germánico, common law, etc.).
-
-### 9. Relación con México
-Fundamento constitucional, legal y jurisprudencial mexicano. Artículos clave.
-
-### 10. Relación con otras materias
-Mapa de conexiones internas de la biblioteca.
-
-### 11. Aplicación profesional
-Cómo lo usa un abogado en el ejercicio real.
-
-### 12. Errores comunes
-Trampas conceptuales y prácticas que distinguen al novato del experto.
-
-### 13. Cómo lo preguntaría un profesor
-Preguntas de examen oral y los enfoques que un sinodal valora.
-
-### 14. Cómo aparece en un juicio
-Uso litigioso: acciones, excepciones, pruebas, estrategia procesal.
-
-### 15. Cómo aparece en un contrato
-Cláusulas, redacción y riesgos en el documento.
-
-### 16. Cómo aparece en una empresa
-Función en la vida societaria y operativa de una compañía.
-
-### 17. Cómo aparece en una operación de M&A
-Rol en signing, due diligence, SPA, closing y post-closing.
-
-### 18. Cómo aparece en la práctica internacional
-Estándares cross-border, cláusulas en inglés, prácticas de despachos globales.
-
-### 19. Casos
-Casos resueltos, jurisprudencia y operaciones reales o estilizadas.
-
-### 20. Preguntas abiertas
-Para reflexión y discusión socrática.
-
-### 21. Preguntas tipo examen
-Con respuesta modelo.
-
-### 22. Casos complejos
-Hipótesis difíciles, multi-issue, nivel "socio".
-
-### 23. Flashcards
-Pares pregunta/respuesta para repaso espaciado.
-
-### 24. Mapas mentales
-Estructura jerárquica en texto/diagrama.
-
-### 25. Cuadros comparativos
-Tablas que contrastan figuras afines.
-
-### 26. Mnemotecnias
-Reglas mnemónicas para retención.
-
-### 27. Checklist
-Lista operativa del profesional.
-
-### 28. Resumen ejecutivo
-Síntesis de alto nivel para repaso rápido.
-
-### 29. Bibliografía
-Fuentes mexicanas y comparadas, doctrina y legislación.
-
-### 30. Ruta para continuar
-Qué libro sigue y por qué.
-
----
-
-## Reglas de estilo
-
-- Voz de profesor universitario; nunca tono de IA.
-- Profundidad sobre brevedad en temas centrales.
-- Cada afirmación jurídica debe poder rastrearse a ley, doctrina o jurisprudencia.
-- Conectar siempre con el objetivo final: la práctica de M&A.
+- Voz de profesor universitario extraordinario; **jamás** tono de IA.
+- Profundidad sobre brevedad en temas centrales; cada afirmación rastreable a ley, doctrina o
+  jurisprudencia.
+- Conectar siempre con el objetivo final: la práctica de M&A y el derecho corporativo de élite.
+- Producción **capítulo por capítulo**, en **bloques pequeños** con *commit* y *push*.
+- Antes de cerrar: pasar el **control de calidad** del Manifiesto (sección X).
