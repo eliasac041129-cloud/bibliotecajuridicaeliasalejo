@@ -289,3 +289,166 @@ tenedor de buena fe (con el límite del enriquecimiento injusto y de las excepci
 - **Fideicomiso:** negocio por el que el fideicomitente transmite bienes a una **fiduciaria** para un
   fin lícito determinado, en beneficio de un fideicomisario; versátil (garantía, administración,
   fuente de pago, inversión) — Libro 4 Nivel II.
+
+
+## 14. Desarrollo absoluto
+
+Lo organizamos en: (A) la teoría general (los principios en acción); (B) los títulos en particular
+(letra, pagaré, cheque); (C) la circulación y las garantías cambiarias (endoso, aval); (D) el cobro
+(protesto, acciones cambiarias, vía ejecutiva) y las excepciones; (E) las operaciones de crédito;
+(F) el fideicomiso.
+
+### 14.A · La teoría general: los principios en acción
+
+Los cuatro pilares no son teoría abstracta; **resuelven problemas concretos**:
+- **Incorporación** → para cobrar y para iniciar la vía ejecutiva, hay que **presentar el
+  documento**. Perder el título es perder (casi) el derecho (existe la cancelación y reposición,
+  pero es engorrosa). *Práctica:* custodiar los títulos como si fueran dinero.
+- **Literalidad** → el deudor responde de lo que **dice** el título; el tenedor no puede exigir más,
+  ni el deudor oponer pactos no incorporados frente al tercero de buena fe. *Práctica:* redactar el
+  título con precisión (monto, fecha, lugar, beneficiario).
+- **Autonomía** → el tenedor de buena fe adquiere un derecho **limpio**; no se le oponen las
+  excepciones personales contra anteriores tenedores (art. 8). *Práctica:* por eso el descuento y la
+  circulación funcionan: quien compra un pagaré no hereda los líos del negocio original.
+- **Legitimación** → quien posee el título según su ley de circulación cobra **sin probar** la
+  propiedad; el deudor que paga a quien aparece legitimado **se libera**. *Práctica:* verificar la
+  cadena de endosos.
+
+### 14.B · Los títulos en particular
+
+**Letra de cambio (arts. 76 y ss.).** Documento por el que el **girador** ordena al **girado** pagar
+una suma a un **beneficiario**. Tres partes. El girado, al **aceptar**, se vuelve **aceptante** y
+obligado principal. Requisitos esenciales (art. 76): mención de ser letra, orden incondicional de
+pagar suma determinada, nombre del girado, lugar y época de pago, beneficiario, fecha y lugar de
+suscripción, firma del girador. Es el título cambiario "completo" y la base teórica de los demás.
+
+**Pagaré (arts. 170 y ss.).** **Promesa incondicional** del suscriptor de pagar una suma a un
+beneficiario. Dos partes (suscriptor y beneficiario). Es el título **más usado** en la práctica
+mexicana (documenta créditos, ventas a plazo, garantías). Requisitos: mención de ser pagaré, promesa
+incondicional de pagar suma determinada, beneficiario, época y lugar de pago, fecha y lugar de
+suscripción, firma. *Conexión bancaria:* casi todo crédito se documenta con un **pagaré** que da la
+vía ejecutiva.
+
+**Cheque (arts. 175 y ss.).** **Orden incondicional** de pago contra un **banco** (librado), en el
+que el librador tiene fondos disponibles. Es un instrumento de **pago** (no de crédito): pagadero **a
+la vista**. Tipos: nominativo/al portador, cruzado, para abono en cuenta, certificado, de caja, de
+viajero. El libramiento **sin fondos** puede tener consecuencias civiles y penales (fraude).
+
+### 14.C · La circulación y las garantías cambiarias
+
+**Endoso (arts. 26 y ss.).** Es la forma de transmitir los títulos "a la orden". Debe constar en el
+título, ser **puro y simple** (no condicionado) y por el **importe total**. Tipos:
+- **En propiedad:** transmite **todos** los derechos del título (la forma normal de circular).
+- **En procuración (al cobro):** solo faculta para **cobrar/gestionar** (mandato), no transmite la
+  propiedad.
+- **En garantía (en prenda):** constituye **prenda** sobre el título (garantía — Libro 4 Nivel II).
+El **endoso en blanco** (solo firma) convierte el título, de hecho, en transmisible por entrega.
+
+**Aval (arts. 109-116).** Garantía del pago del título. Notas clave (¡examen!):
+- Es una garantía **autónoma**: el avalista se obliga **igual que** aquel por quien avala, pero su
+  obligación es **válida aun si la del avalado es nula por un vicio de forma** (art. 114) —a
+  diferencia de la **fianza**, que es **accesoria** (Libro 2 Nivel II)—.
+- Si no se indica por quién se avala, se entiende que avala al **aceptante** (o al suscriptor en el
+  pagaré).
+- El avalista que paga se **subroga** en los derechos cambiarios contra el avalado y los obligados
+  anteriores.
+
+### 14.D · El cobro: protesto, acciones cambiarias, vía ejecutiva y excepciones
+
+**Protesto (arts. 139 y ss.).** Acto **formal** (ante notario/corredor) que acredita la **falta de
+aceptación** o de **pago** del título; es presupuesto de la acción de regreso, salvo cláusula "**sin
+protesto**" (que lo dispensa, muy común).
+
+**Acciones cambiarias.** La acción para cobrar el título:
+- **Directa:** contra el **aceptante** (letra) / **suscriptor** (pagaré) y sus **avalistas** (no
+  requiere protesto).
+- **De regreso:** contra los **endosantes**, el **girador** y sus avalistas (requiere protesto,
+  salvo dispensa).
+Prescriben en plazos cortos (la directa, 3 años; la de regreso, plazos menores).
+
+**Vía ejecutiva mercantil.** El título de crédito es un **título ejecutivo** (trae aparejada
+ejecución): permite demandar por la **vía ejecutiva mercantil**, embargando bienes desde el inicio y
+con un debate **limitado**. Esta es la gran ventaja práctica del título.
+
+**Excepciones (art. 8 LGTOC).** Frente a la acción cambiaria, el demandado **solo** puede oponer las
+excepciones **enumeradas** en el art. 8 (incompetencia, falta de personalidad, falta de requisitos
+del título, alteración, falta de legitimación, **excepciones personales** que el demandado tenga
+contra el actor —no contra anteriores tenedores—, prescripción, pago, etc.). **No** puede oponer al
+tenedor de buena fe las excepciones derivadas del **negocio subyacente** con tenedores anteriores
+(autonomía). *Cómo razona un litigante:* atacar el título por sus **requisitos formales** (art. 76/
+170/175), por **alteración**, por **prescripción**, por **falta de legitimación** (cadena de endosos
+rota) o por **excepción personal directa** contra el actor; difícilmente por el negocio de fondo si
+el actor es tercero de buena fe.
+
+### 14.E · Las operaciones de crédito
+
+- **Apertura de crédito (arts. 291 y ss.):** el banco (acreditante) pone a disposición del acreditado
+  una suma o su crédito; el acreditado **dispone** (en una o varias veces, revolvente o simple) y
+  **restituye** con intereses y comisiones. Es la **línea de crédito**: el financiamiento revolvente
+  del capital de trabajo. Suele documentarse y garantizarse (pagaré, prenda, hipoteca, fideicomiso).
+- **Descuento (arts. 288 y ss. / práctica bancaria):** el banco adquiere un crédito **no vencido**
+  (pagaré, factura) pagando su valor menos el **descuento** (interés anticipado). Da **liquidez** al
+  cedente. El **factoraje** es su versión sobre cuentas por cobrar (Libro 1 Nivel II: cesión).
+- **Reporto (arts. 259 y ss.):** el reportador adquiere títulos del reportado, pagando un precio, con
+  pacto de **devolverlos** contra el reembolso del precio más un premio. Instrumento de **liquidez**
+  y de mercado de dinero.
+- **Cuenta corriente (arts. 302 y ss.):** las partes se conceden crédito recíproco, anotando sus
+  remesas y liquidando el **saldo** periódicamente (compensación — Libro 1 Nivel II).
+- **Carta de crédito (arts. 311 y ss. + UCP 600):** instrumento de **comercio exterior**: un banco se
+  obliga a pagar al beneficiario (exportador) contra la **presentación de documentos** conformes
+  (embarque, factura). Sustituye la confianza entre partes lejanas por la del banco.
+- **Crédito refaccionario y de habilitación o avío (arts. 321 y ss.):** créditos con **destino
+  específico** y **garantía** sobre lo financiado: el **refaccionario** para activos fijos (con
+  garantía sobre fincas, construcciones, maquinaria) y el de **avío** para insumos/capital de trabajo
+  (con garantía sobre materias primas y productos). Muy usados en financiamiento productivo y
+  agroindustrial.
+
+### 14.F · El fideicomiso (arts. 381 y ss.): el vehículo versátil
+
+Negocio por el que el **fideicomitente** transmite bienes o derechos a una **fiduciaria** (institución
+financiera autorizada) para destinarlos a un **fin lícito y determinado**, en beneficio del
+**fideicomisario**. Crea un **patrimonio autónomo** (afecto al fin, separado del de las partes).
+Modalidades clave para el corporativo:
+- **Fideicomiso de garantía** (Libro 4 Nivel II): garantiza obligaciones con **ejecución ágil**.
+- **Fideicomiso de fuente de pago / administración:** afecta **flujos** (peajes, rentas, cuentas) al
+  pago de un crédito —base del **project finance**—.
+- **Fideicomiso de inversión:** vehículo para canalizar inversión (los **FIBRAS** y **CKDs** del
+  mercado de valores son fideicomisos — Libro 5).
+- **Fideicomiso testamentario / de control:** planeación patrimonial y de control accionario en
+  empresas familiares.
+*Por qué es tan poderoso:* combina **separación patrimonial**, **flexibilidad** del fin y, según el
+caso, **ejecución/administración ágil**. Es una de las herramientas más usadas en el financiamiento
+estructurado mexicano.
+
+> **Cómo razona un socio (títulos y financiamiento).** *"En litigio, el título es mi mejor amigo: me
+> da la **vía ejecutiva** y limita las excepciones del deudor a la lista del **art. 8** —difícilmente
+> me oponen el negocio de fondo si mi cliente es tenedor de buena fe—. Por eso documento todo crédito
+> con un **pagaré** bien redactado (literalidad). En financiamiento, pienso en capas: la **apertura
+> de crédito** (la línea), el **pagaré** que la documenta (la vía ejecutiva), las **garantías**
+> (prenda, hipoteca) y, sobre todo, el **fideicomiso** —de garantía o de fuente de pago— que me da
+> ejecución ágil y blinda los flujos. El título y el fideicomiso son mis dos herramientas favoritas:
+> uno para cobrar rápido, otro para estructurar y garantizar."*
+
+## 15. Explicación intuitiva
+
+Piensa en un **título de crédito** como un **billete personalizado**. Un billete de banco vale por sí
+mismo: quien lo tiene, puede gastarlo, y nadie le pregunta de dónde lo sacó. El título de crédito
+hace algo parecido con un crédito privado: **mete el derecho a cobrar dentro de un papel**
+(incorporación), de modo que:
+- **quien tiene el papel, tiene el derecho** (por eso hay que cuidarlo como dinero);
+- vale **lo que dice** (literalidad: cuidado con lo que firmas);
+- y, lo más mágico, **el que lo recibe de buena fe lo cobra limpio**, sin heredar los problemas entre
+  los dueños anteriores (autonomía) —igual que tú no heredas los pleitos de quien tuvo antes el
+  billete de $500 que hoy traes en la cartera—.
+
+Por eso el título **circula** (endoso = pasarlo a otro) y se puede **vender hoy con descuento** (si
+te deben $100 a 90 días, un banco te da $97 hoy y él cobra los $100 después). Y si no te pagan, no
+necesitas un juicio largo: tienes la **vía ejecutiva**, rápida, donde el deudor casi no puede alegar
+el negocio de fondo (solo la lista corta del art. 8).
+
+Las **operaciones de crédito** son las distintas "máquinas" con que los bancos usan el crédito: la
+**línea de crédito** (te abren un grifo de dinero que abres y cierras), el **descuento** (te
+adelantan lo que te deben), la **carta de crédito** (el banco paga por ti al exportador lejano contra
+documentos) y el **fideicomiso** (pones bienes o flujos "en una caja fuerte" manejada por un banco,
+para garantizar o pagar). Todo este libro es el **sistema circulatorio del dinero y el crédito** en
+la economía.
