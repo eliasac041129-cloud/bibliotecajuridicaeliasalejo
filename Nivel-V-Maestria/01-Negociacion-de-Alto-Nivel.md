@@ -684,3 +684,67 @@ neutralízalas:
 activo; la de tramposo, un pasivo que te perseguirá en un mundo pequeño), y **defiéndete** de las que usen
 contra ti **nombrándolas y volviendo a los criterios objetivos y a tu BATNA**. El negociador maduro **no se
 deja manipular ni manipula**: negocia con firmeza, inteligencia táctica e integridad.
+
+### 14.E · El cierre y la negociación en operaciones (deal-making)
+
+Las dos últimas piezas: **cómo se cierra** una negociación (superar los obstáculos finales y diseñar el
+acuerdo para que perdure) y cómo se aplica todo a las **operaciones complejas** del Nivel IV (*deal-making*)
+—incluida la peculiaridad de negociar como **agente** (el abogado por su cliente)—.
+
+**El cierre (cerrar y que perdure).** El cierre es un momento delicado donde muchos deals se caen. Claves:
+- **Reconocer cuándo cerrar:** ni demasiado pronto (dejas valor sobre la mesa) ni demasiado tarde (el otro
+  se cansa o aparece un mejor BATNA). Cierra cuando el acuerdo supera tu punto de reserva y el riesgo de
+  seguir negociando supera la ganancia marginal.
+- **Superar los obstáculos finales:** los últimos puntos suelen ser emocionales o de "face-saving". Usa el
+  ***bracketing*** (acercar posiciones por rangos), el "**dividir la diferencia**" (con criterio, no
+  automático), el **paquete** (cerrar varios temas juntos en vez de uno por uno —permite intercambios—), y
+  dale al otro una **salida digna**.
+- **Cuidado con el *nibbling* y la euforia del cierre:** no concedas extras de última hora ni bajes la
+  guardia cuando crees que ya cerraste.
+- **El cierre que perdura:** el objetivo no es **firmar**, sino que el acuerdo se **cumpla**. Un acuerdo que
+  una parte siente **injusto** o que firmó **presionada** se incumple, se litiga o envenena la relación.
+  Diseña acuerdos **equilibrados, claros y con mecanismos de cumplimiento** (garantías, hitos, resolución de
+  disputas). En relaciones de largo plazo, **un buen acuerdo para ambos vale más que una "victoria"
+  unilateral**. Y **documenta** con precisión (aquí entra tu oficio de redactor —Nivel IV—: el acuerdo
+  negociado se plasma en el SPA, el SHA, el contrato).
+
+**La negociación en operaciones complejas (*deal-making* — Subramanian, Sebenius).** Negociar un M&A o una
+alianza es más que regatear el precio: es **diseñar y conducir un proceso**. Tres dimensiones:
+- **El *setup* (preparar el escenario):** **quién** se sienta a la mesa (¿negocias con quien decide?),
+  **cómo** se invita a las partes (¿subasta con varios postores —que mejora tu BATNA como vendedor— o
+  negociación bilateral exclusiva?), la **secuencia** (¿en qué orden negocias los temas y con quién?), y el
+  marco. El *setup* a menudo **determina** el resultado **antes** de negociar el fondo. *(Ej.: un vendedor
+  que monta una subasta competitiva mejora drásticamente su poder.)*
+- **El *deal design* (diseñar el trato que crea valor):** estructurar el acuerdo para **crear valor** y
+  resolver los desacuerdos —el *earn-out* (resuelve diferencias de expectativas sobre el futuro), las
+  garantías y el escrow (asignan el riesgo), los pagos escalonados (resuelven diferencias de tiempo/
+  liquidez)—. Aquí la negociación se funde con la **estructura y la documentación** (Nivel IV): las
+  cláusulas **son** soluciones negociadas a problemas de valor y riesgo.
+- **La táctica en la mesa:** lo visto en 14.A-D, aplicado a cada punto del deal (precio, reps,
+  indemnización, MAC, vetos, salidas).
+
+**Negociar como agente (la situación del abogado).** El abogado **no** negocia para sí: negocia **por su
+cliente**. Esto añade capas que debes dominar:
+- **El problema de agencia:** los incentivos del agente (el abogado) pueden **diferir** de los del cliente
+  (p. ej., el abogado que cobra por hora vs. el cliente que quiere cerrar rápido; o el banquero que cobra
+  comisión solo si hay deal vs. el cliente que estaría mejor sin el deal). El buen abogado **alinea** sus
+  incentivos con los del cliente y actúa con **lealtad**.
+- **La autoridad y las instrucciones:** define **claramente** con tu cliente cuál es su BATNA, su punto de
+  reserva, sus prioridades y **hasta dónde** tienes autoridad para comprometer. Negociar sin instrucciones
+  claras es peligroso.
+- **La ventaja del agente:** el agente puede negociar con más **objetividad** (menos emoción que el
+  principal), servir de "**escudo**" ("tengo que consultarlo con mi cliente" —táctica de autoridad
+  limitada—), y aportar **experiencia** y **distancia**. Usa estas ventajas.
+- **El abogado como creador de valor:** el mejor abogado negociador no solo "defiende posiciones": **diseña
+  el deal** (propone estructuras que crean valor), **maneja el proceso**, **protege la relación** entre las
+  partes (para que el deal se cierre y perdure), y **traduce** lo negociado en un contrato sólido. Es el
+  **arquitecto del acuerdo**, no su mecanógrafo.
+
+**La integración con todo el programa.** Observa cómo la negociación **conecta con todo**: con la
+**argumentación** (Nivel I —persuadir—); con los **contratos y obligaciones** (la buena fe, el dolo); con
+toda la **documentación del Nivel IV** (el SPA, el SHA y el term sheet son **negociaciones plasmadas**); con
+la **valuación** (saber cuánto vale lo que negocias —Libro 3 del Nivel V—); y con la **teoría de juegos**
+(la lógica estratégica de la interacción —Libro 4—). La negociación es la habilidad que **pone en
+movimiento** todo lo que sabes: convierte el conocimiento jurídico y de negocios en **acuerdos reales que
+crean valor para tu cliente**. Por eso es la primera y más universal de las herramientas de la maestría —y
+la que más se perfecciona con **práctica deliberada**: negocia, reflexiona, ajusta, repite—.
