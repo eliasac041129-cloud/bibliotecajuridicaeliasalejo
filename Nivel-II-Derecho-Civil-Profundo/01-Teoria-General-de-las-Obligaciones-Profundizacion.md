@@ -686,3 +686,204 @@ La SCJN ha sido especialmente activa en:
 - **Autonomía de la voluntad vs. protección del deudor:** hasta dónde puede el contrato excluir
   remedios (renunciar a resolver, limitar daños, pactar set-off amplio) sin chocar con normas
   imperativas y la buena fe.
+
+
+## 30. Errores comunes
+
+- **Presumir la solidaridad.** No se presume (art. 1988). Si no se pactó expresamente, la deuda
+  es **mancomunada** y se divide.
+- **Confundir modificación con novación.** Cambiar plazo o tasa **no** nova si no hay *animus
+  novandi*; creer que se "novó" puede llevar a creer (erróneamente) que se extinguieron
+  garantías… o a perderlas si efectivamente se novó sin reserva.
+- **Olvidar notificar la cesión.** Sin notificación al deudor, la cesión **no le es oponible** y
+  el pago al cedente lo libera.
+- **No verificar liquidez para compensar.** La compensación legal exige deudas **líquidas y
+  exigibles**; intentar compensar una indemnización ilíquida fracasa.
+- **Confundir prescripción con caducidad** y no **oponerla** como excepción (el juez no la
+  declara de oficio).
+- **Tratar "esfuerzos" como obligación de resultado** (o viceversa), alterando la carga de la
+  prueba.
+
+## 31. Mitos frecuentes
+
+- *"Si pago una deuda ajena, no recupero nada."* **Falso:** si tienes interés jurídico, te
+  **subrogas** y conservas el crédito y sus garantías.
+- *"La cesión necesita el consentimiento del deudor."* **Falso** (regla general): la cesión de
+  **crédito** solo requiere **notificarle**; el consentimiento se exige para la **asunción de
+  deuda** (cambia el deudor, importa al acreedor).
+- *"Reestructurar siempre conviene como 'nuevo crédito'."* **Peligroso:** novar sin reservar
+  garantías las extingue (art. 2220).
+- *"El dinero puede 'perecer' por caso fortuito."* **Falso:** las obligaciones genéricas (y el
+  dinero es género) no se extinguen por pérdida —*genus nunquam perit*—.
+- *"La cláusula penal siempre se cobra íntegra."* **No necesariamente:** puede **moderarse** por
+  desproporción o cumplimiento parcial (art. 1844).
+
+## 32. Preguntas difíciles
+
+1. Si un crédito se cede con sus garantías pero la hipoteca no se **reinscribe** a nombre del
+   cesionario, ¿es oponible la garantía frente a terceros? (Pista: distinguir transmisión del
+   derecho vs. publicidad registral.)
+2. ¿Puede pactarse válidamente la **solidaridad** y, a la vez, limitar la acción de regreso entre
+   codeudores? ¿Hasta dónde?
+3. En una reestructura, ¿conviene **novar** (para "limpiar" la relación) o **modificar** (para
+   conservar garantías)? ¿Qué factores deciden?
+4. ¿La **compensación** opera en un concurso mercantil, o la masa lo impide? ¿Y el *netting* de
+   un ISDA?
+5. ¿Una cláusula de **set-off** amplia en un SPA puede chocar con normas imperativas o con la
+   buena fe si se usa para retener pagos por reclamaciones dudosas?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**P1.** *Tres deudores firman "obligándose conjunta y solidariamente" por $1,200,000. Uno es
+insolvente. ¿Cuánto puede el acreedor cobrar a cada solvente y cómo opera el regreso?* **R.** El
+acreedor puede cobrar **el total** a cualquiera de los solventes (solidaridad pasiva). Internamente,
+la cuota del insolvente se **reparte** entre los solventes (art. 1999): si eran tres por partes
+iguales ($400,000 c/u), los dos solventes absorben los $400,000 del insolvente ($200,000 c/u),
+quedando cada uno con $600,000 en la relación interna.
+
+**P2.** *Un banco "novó" un crédito hipotecario sin mención de la hipoteca. ¿Subsiste la
+garantía?* **R.** No, salvo reserva expresa: la novación extingue las obligaciones accesorias
+(art. 2220). Para conservarla debió **reservarse** la hipoteca (y reinscribirse) o haber
+**modificado** sin novar.
+
+**P3.** *¿Desde cuándo es oponible al deudor una cesión de crédito?* **R.** Desde que se le
+**notifica** (art. 2036); antes, el pago al cedente lo libera.
+
+**P4.** *¿Cuándo opera la compensación legal?* **R.** Cuando dos personas son recíprocamente
+deudoras y acreedoras de deudas **líquidas y exigibles**, fungibles y homogéneas (art. 2185-2188);
+se extinguen hasta el importe menor.
+
+**P5.** *Diferencia entre obligación de medios y de resultado y su efecto en la prueba.* **R.** En
+la de resultado basta acreditar que el resultado no se obtuvo; en la de medios, el acreedor debe
+probar la **falta de diligencia** del deudor.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** eres asociado del equipo de *banking & finance* de un despacho. **Cliente:** un banco
+> acreedor de "Industrias del Norte, S.A." por $80M, garantizado con hipoteca sobre la planta y
+> prenda sin transmisión sobre maquinaria. La empresa está en *distress* y propone una
+> reestructura: reducir el principal a $60M (quita), ampliar el plazo 3 años (espera), capitalizar
+> $10M (conversión a acciones) y que una filial **asuma** $20M.
+>
+> **Tarea:** redacta una **nota de estructura** que responda: (1) ¿documentamos como **modificación
+> o novación**, y por qué, a la luz del art. 2220 y las garantías?; (2) si hay novación parcial,
+> ¿cómo **reservamos y reinscribimos** la hipoteca y la prenda?; (3) la **asunción** por la filial,
+> ¿qué consentimientos y ratificaciones de garantes exige?; (4) la **quita**, ¿qué efecto fiscal
+> tiene para el deudor (ingreso por condonación)?; (5) la **capitalización**, ¿cómo afecta el
+> gobierno corporativo y la prelación?; (6) propón un **set-off**/compensación para futuros saldos.
+> Cierra con una recomendación: ¿modificar conservando garantías o novar con reserva? Justifica.
+
+*(Pista de evaluación: la mejor respuesta privilegia **modificar** o, si se nova, **reservar y
+reinscribir** garantías; documenta consentimientos de garantes en la asunción; prevé el ingreso
+fiscal de la quita; y blinda la compensación con cláusula expresa de *set-off*.)*
+
+## 35. Flashcards
+
+- **¿La solidaridad se presume?** → No (art. 1988).
+- **¿Qué transmite la cesión de crédito?** → El crédito **con sus accesorios y garantías**
+  (art. 2032).
+- **¿Desde cuándo es oponible la cesión al deudor?** → Desde la **notificación** (art. 2036).
+- **¿Responde el cedente de la solvencia del deudor?** → No, salvo pacto (responde de la
+  existencia/legitimidad).
+- **¿Qué requiere la asunción de deuda?** → Consentimiento del **acreedor**.
+- **¿Efecto de la novación sobre garantías?** → Las extingue, **salvo reserva expresa**
+  (art. 2220).
+- **¿La novación se presume?** → No (art. 2215): exige *animus novandi*.
+- **¿Requisitos de la compensación legal?** → Deudas recíprocas, **líquidas y exigibles**,
+  fungibles (art. 2185-2188).
+- **¿Genus nunquam perit?** → El género (y el dinero) nunca perece: no libera la pérdida.
+- **¿Subrogación?** → El tercero que paga con interés ocupa el lugar del acreedor, con garantías.
+- **¿Medios vs. resultado?** → Diligencia vs. resultado concreto (cambia la carga de la prueba).
+- **¿Pérdida del beneficio del plazo?** → Insolvencia o falta/disminución de garantías
+  (art. 1959) → base del vencimiento anticipado.
+
+## 36. Mapas mentales
+
+```
+OBLIGACIONES (PROFUNDIZACIÓN)
+├── CLASIFICACIÓN
+│   ├── Objeto: dar / hacer / no hacer
+│   ├── Exigencia: MEDIOS / RESULTADO (carga de la prueba)
+│   ├── Sujetos: mancomunada / SOLIDARIA (no se presume)
+│   ├── Divisible / indivisible · principal / ACCESORIA (garantías)
+│   ├── Líquida / ilíquida (compensación, intereses)
+│   ├── Civil / natural · específica / GENÉRICA (genus nunquam perit)
+│   └── Alternativa / facultativa
+├── MODALIDADES
+│   ├── Condición (suspensiva → conditions precedent / resolutoria)
+│   ├── Término (exigibilidad; beneficio del plazo; acceleration)
+│   └── Modo / carga
+├── TRANSMISIÓN (el crédito circula)
+│   ├── Cesión de créditos (notificación; con garantías; pro soluto/solvendo)
+│   ├── Subrogación (paga 3º con interés → garantías)
+│   └── Asunción de deuda (consentimiento del acreedor)
+└── EXTINCIÓN (¿qué pasa con las garantías?)
+    ├── Pago (idéntico, íntegro, indivisible; consignación)
+    ├── Dación en pago · Compensación (set-off / netting)
+    ├── NOVACIÓN (art. 2220: extingue accesorios salvo reserva)
+    ├── Confusión (fusión) · Remisión (quita) · Prescripción
+```
+
+## 37. Cuadros comparativos
+
+**Mancomunada vs. solidaria**
+
+| | Mancomunada | Solidaria |
+|---|---|---|
+| ¿Cuánto debe cada uno? | Su parte | El todo |
+| Insolvencia de un deudor | La pierde el acreedor | La absorben los solventes (regreso) |
+| ¿Se presume? | Sí (regla) | No (art. 1988) |
+
+**Cesión de crédito vs. asunción de deuda**
+
+| | Cesión de crédito | Asunción de deuda |
+|---|---|---|
+| Qué cambia | El **acreedor** | El **deudor** |
+| Requisito frente al deudor/acreedor | **Notificar** al deudor | **Consentimiento** del acreedor |
+| Garantías | Pasan con el crédito | Las de terceros caen si no consienten |
+
+**Modificación vs. novación**
+
+| | Modificación | Novación |
+|---|---|---|
+| Efecto | Conserva la obligación | La **extingue** y crea una nueva |
+| Garantías | Subsisten | Se extinguen salvo reserva (2220) |
+| ¿Se presume? | — | No (animus novandi, 2215) |
+
+## 38. Diagramas
+
+**Flujo de decisión en una reestructura (modificar vs. novar):**
+```
+¿Se altera un elemento esencial (objeto/deudor/acreedor) con ánimo de extinguir?
+        │
+   ┌────┴─────┐
+  NO          SÍ
+   │           │
+MODIFICACIÓN   NOVACIÓN ──► ¿Se reservaron expresamente las garantías? (art. 2220)
+(garantías          │
+ subsisten)     ┌───┴────┐
+               SÍ        NO
+                │         │
+        Subsisten     SE EXTINGUEN  ──►  acreedor queda quirografario ⚠️
+        (reinscribir)
+```
+
+**Oponibilidad de la cesión:**
+```
+Cesión A→B   →   ¿Notificada al deudor?
+                      │
+                ┌─────┴─────┐
+               SÍ           NO
+                │            │
+   Deudor debe pagar a B   Pago al cedente A LIBERA al deudor
+```
+
+## 39. Mnemotecnias
+
+- **Solidaridad:** *"no se presume; pacta la palabra o pierde el todo"*.
+- **Novación y garantías:** *"novar sin reservar = garantías al basurero (2220)"*.
+- **Cesión:** *"sin notificación, no hay oponibilidad"*.
+- **Compensación:** *"líquidas y exigibles, o no se compensan"*.
+- **Género:** *genus nunquam perit* — "el dinero nunca se pierde por caso fortuito".
+- **Subrogación:** *"el que paga con interés, se queda con las llaves (garantías)"*.
+- **Transmisión:** *"cedo el crédito notificando; asumo la deuda con permiso del acreedor"*.
