@@ -491,3 +491,105 @@ organizaciones (sociedades), su dinero circulante (títulos de crédito), su gra
   los antiguos **tribunales consulares**.
 - **Sociedades y sucursales extranjeras:** las sociedades extranjeras que realizan actos de comercio
   en México son comerciantes (art. 3-III) y deben cumplir requisitos de establecimiento y registro.
+
+
+## 22. Derecho comparado
+
+| Sistema | Cómo delimita la materia mercantil / la empresa |
+|---|---|
+| **México** | Sistema **mixto**: lista objetiva de actos de comercio (art. 75 C. Com.) + comerciante (art. 3) + giro hacia la empresa; materia **federal**. |
+| **España** | Código de Comercio (1885) con sistema objetivo; fuerte desarrollo del **derecho de la empresa** y del empresario; reformas societarias y concursales modernas. |
+| **Estados Unidos** | No hay "derecho mercantil" autónomo formal; el **UCC (Uniform Commercial Code)** regula las transacciones comerciales (venta de bienes, títulos, garantías) de forma uniforme entre estados; *corporate law* estatal (Delaware). |
+| **Delaware** | Centro mundial del derecho **societario**; lo "mercantil" se canaliza por *contract law* y *corporation law* estatales; máxima libertad y previsibilidad. |
+| **Unión Europea** | Diversidad: Alemania (**HGB**, *Handelsgesetzbuch*, con fuerte noción de **comerciante** y empresa); Francia (Code de commerce); armonización europea en sociedades, insolvencia y mercados. |
+| **UNIDROIT** | Principios sobre contratos comerciales internacionales: régimen neutral del comercio transnacional. |
+| **UNCITRAL** | Leyes modelo (comercio electrónico, arbitraje, insolvencia, garantías mobiliarias) que armonizan el derecho mercantil global. |
+| **CISG** | Régimen uniforme de la compraventa internacional de mercaderías (núcleo del comercio internacional de bienes). |
+| **Common Law** | Tradición del *law merchant* (lex mercatoria) absorbida en el *common law*; *commercial law* basado en precedente y en el UCC (EE. UU.). |
+| **Civil Law** | Codificación mercantil (Códigos de Comercio) con tendencia a la descodificación en leyes especiales y al **derecho de la empresa**. |
+
+> **Convergencia clave:** pese a las diferencias de técnica (código vs. UCC vs. common law), todos
+> los sistemas convergen en regular lo mismo —la **empresa**, las **sociedades**, los **títulos**,
+> las **garantías** y la **insolvencia**— y en un **derecho transnacional** del comercio (lex
+> mercatoria moderna). Por eso el abogado de M&A puede operar globalmente: las **instituciones** son
+> reconocibles en todas partes.
+
+## 23. Derecho mexicano
+
+- **Fundamento constitucional:** art. 73, fr. X (el comercio es **materia federal**); arts. 5 y 28
+  (libertad de comercio y de empresa, prohibición de monopolios).
+- **Código de Comercio (1889, muy reformado):** comerciantes (art. 3), actos de comercio (art. 75),
+  supletoriedad del civil (art. 2), libertad de forma (art. 78), obligaciones del comerciante
+  (arts. 16-46), Registro Público de Comercio, juicios mercantiles (ordinario, ejecutivo, oral).
+- **Leyes mercantiles especiales (el archipiélago):** **LGSM** (sociedades), **LGTOC** (títulos y
+  operaciones de crédito), **LMV** (mercado de valores), **Ley de Concursos Mercantiles**, Ley de
+  Instituciones de Crédito, Ley de Competencia Económica, LFPC (consumidor), entre otras.
+- **Registro y publicidad:** Registro Público de Comercio (vía **SIGER**) y **RUG** (garantías
+  mobiliarias).
+
+## 24. Jurisprudencia relevante
+
+> Verificar vigencia antes de citar.
+- **Carácter enunciativo del art. 75** y la integración por la fracción XXIV.
+- **Mercantilidad para efectos procesales:** criterios para determinar la **vía** (ejecutiva
+  mercantil) y la **prescripción** mercantil.
+- **Actos mixtos:** tratamiento del acto mercantil para una parte y civil para la otra, y la
+  protección al no comerciante (consumidor).
+- **Sociedad mercantil como comerciante** y sus obligaciones (contabilidad, registro).
+
+## 25. Criterios de la Suprema Corte
+
+- **Libertad de comercio (art. 5):** la SCJN ha delimitado su alcance y los límites legítimos
+  (regulación de interés público, competencia económica).
+- **Materia federal del comercio:** confirmación de la competencia federal y de la unidad del
+  derecho mercantil.
+- **Protección al consumidor:** ponderación entre la agilidad mercantil y la tutela del no
+  comerciante en actos mixtos.
+
+## 26. Doctrina nacional
+
+- **Roberto Mantilla Molina, *Derecho Mercantil***: el manual clásico mexicano; base conceptual de
+  generaciones.
+- **Joaquín Rodríguez Rodríguez, *Curso de Derecho Mercantil***: profundo y sistemático.
+- **Jorge Barrera Graf, *Instituciones de Derecho Mercantil***: visión moderna orientada a la
+  **empresa**; imprescindible.
+- **Óscar Vásquez del Mercado, *Contratos Mercantiles*** y doctrina contemporánea (para conectar con
+  los libros siguientes del Nivel III).
+
+## 27. Doctrina internacional
+
+- **Alberto Asquini** (teoría de los **perfiles de la empresa**): lectura fundacional para entender
+  la empresa.
+- **Joaquín Garrigues, *Curso de Derecho Mercantil*** (España): referencia mayor del derecho
+  mercantil hispano.
+- **Karsten Schmidt, *Derecho Comercial*** (Alemania): el derecho de la empresa (*Unternehmensrecht*).
+- **Doctrina del UCC y del *commercial law*** anglosajón (Gilmore, White & Summers).
+
+## 28. Opiniones críticas (postura del Consejo)
+
+1. **El sistema "objetivo" del acto de comercio está superado por la realidad de la empresa.** La
+   lista del art. 75 es útil pero anacrónica; el Consejo sostiene que el eje moderno es la
+   **empresa** y que el estudio debe centrarse en ella (organización, gobierno, financiamiento),
+   como hacen los derechos italiano y alemán.
+2. **La descodificación exige una visión de sistema.** El "archipiélago" de leyes especiales (LGSM,
+   LGTOC, LMV…) puede estudiarse como piezas sueltas o como un **sistema** coherente; el Consejo
+   insiste en lo segundo: todas regulan facetas de la **empresa** y su financiamiento.
+3. **Los usos y la lex mercatoria recobran centralidad.** En el comercio internacional, los usos
+   (Incoterms, UCP) y el arbitraje son, de facto, el derecho aplicable; subestimarlos es no entender
+   cómo opera el comercio global.
+
+## 29. Debate doctrinal
+
+- **¿Derecho de los actos de comercio o derecho de la empresa?** El gran debate del derecho
+  mercantil moderno: ¿mantener el eje en el acto (art. 75) o trasladarlo a la empresa? La tendencia
+  doctrinal es clara hacia la **empresa**, aunque el Código de Comercio mexicano conserve el modelo
+  objetivo.
+- **¿Unificación del derecho privado (civil + mercantil) o autonomía?** Algunos países (Italia 1942,
+  Suiza) **unificaron** las obligaciones civiles y mercantiles en un solo código; otros mantienen la
+  dualidad. ¿Tiene sentido hoy un derecho mercantil **separado** del civil?
+- **¿Existe una verdadera lex mercatoria transnacional?** Debate sobre si los usos, principios
+  UNIDROIT y prácticas internacionales constituyen un **ordenamiento autónomo** o son solo cláusulas
+  contractuales que dependen de un derecho estatal.
+- **La empresa como objeto de derechos:** ¿es la empresa un "bien" transmisible como unidad
+  (relevante para el asset deal y el goodwill) o solo un conjunto de elementos? Debate con
+  consecuencias prácticas en la transmisión y la valuación.
