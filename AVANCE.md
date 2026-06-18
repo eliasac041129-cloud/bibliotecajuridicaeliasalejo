@@ -30,14 +30,14 @@ integridad. Este archivo es el tablero de control.
 | 12 | Lógica Jurídica | ✅ | 2 sem |
 | 13 | Metodología Jurídica | ✅ | 2 sem |
 
-## Nivel II · Derecho Civil Profundo — (estándar V3)
+## Nivel II · Derecho Civil Profundo — ✅ COMPLETO (estándar V3)
 **⏱ Dominio del nivel: ~4–5 meses**
 | # | Tratado | Estado | ⏱ Dominio |
 |---|---------|--------|-----------|
 | 1 | Teoría general de las obligaciones (profundización) | ✅ | 3–4 sem |
 | 2 | Contratos civiles en particular | ✅ | 5–6 sem |
 | 3 | Responsabilidad civil | ✅ | 3–4 sem |
-| 4 | Garantías y derechos reales de garantía | ⬜ | 3–4 sem |
+| 4 | Garantías y derechos reales de garantía | ✅ | 3–4 sem |
 
 ## Nivel III · Derecho Mercantil — (estándar V3)
 **⏱ Dominio del nivel: ~6–8 meses**
