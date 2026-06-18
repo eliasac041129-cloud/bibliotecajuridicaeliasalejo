@@ -400,3 +400,103 @@ El abogado de financiamiento es el **cerrajero experto**: elige el candado adecu
 lo instala bien (perfecciona), pone la placa (registra) para llegar **primero**, y se asegura de
 que se pueda **abrir rápido** el día del impago. Un *deal* de crédito, desarmado, es un **conjunto
 de candados** bien puestos sobre el patrimonio del deudor.
+
+
+## 16. Ejemplos simples
+
+1. **Hipoteca.** Un banco presta $5M para comprar una nave industrial; constituye **hipoteca** en
+   escritura pública y la **inscribe**. El deudor sigue usando la nave; si no paga, el banco ejecuta
+   por **juicio hipotecario**, remata la nave y cobra con **preferencia**.
+2. **Prenda sin transmisión.** Una fábrica obtiene crédito dando en **prenda sin transmisión** su
+   maquinaria e inventario, **inscritos en el RUG**. Sigue produciendo con esos bienes; el banco
+   tiene garantía y prioridad por la fecha de inscripción.
+3. **Prenda sobre acciones.** Un fondo financia la compra de una empresa; **prenda las acciones**
+   adquiridas (endoso en garantía + anotación en el libro de accionistas). Si no paga el crédito, el
+   banco realiza las acciones.
+4. **Fianza con renuncia.** Un proveedor exige que el socio **afiance** a su empresa, renunciando a
+   los beneficios de orden y excusión: si la empresa no paga, el proveedor cobra **directamente** al
+   socio.
+5. **Fideicomiso de flujos.** Una concesionaria de carretera afecta los **peajes** futuros a un
+   **fideicomiso de garantía y fuente de pago**: los flujos pagan el crédito antes de llegar a la
+   empresa.
+
+## 17. Ejemplos complejos
+
+1. **Prioridad y *negative pledge*.** Un banco otorga crédito quirografario con cláusula de
+   **negative pledge** (el deudor no gravará sus activos). Después, el deudor **hipoteca** un
+   inmueble a favor de otro banco. El primer banco no tiene garantía real (solo un derecho personal
+   por incumplir el negative pledge): el segundo banco, que **inscribió**, tiene prioridad sobre el
+   inmueble. *Lección:* el negative pledge **no** crea garantía real; solo da acción por
+   incumplimiento. Para tener prioridad, **hay que tomar y registrar** garantía real.
+2. **Novación que extingue la garantía corporativa.** Una matriz **afianza** el crédito de su
+   filial. El banco y la filial **novan** el crédito (nuevo monto y plazo) **sin** que la matriz
+   consienta. La fianza corporativa se **extingue** (accesoriedad + arts. 2220-2222): el banco
+   pierde la garantía del grupo. *Solución:* ratificación de la matriz en toda novación.
+3. **Garantía constituida en periodo de retroacción.** Un deudor en dificultades constituye una
+   hipoteca a favor de un acreedor preexistente poco antes de caer en concurso. El conciliador o
+   los acreedores pueden **impugnar** ese acto (operación en fraude de la masa, dentro del periodo
+   de retroacción), dejando sin efecto la garantía. *Lección:* garantías tomadas tarde, cerca de la
+   insolvencia, son **vulnerables**.
+4. **Intercreditor en deuda senior y mezzanine.** Una adquisición se financia con deuda **senior**
+   (banco) y **mezzanine** (fondo). Ambos quieren garantía sobre las acciones y activos. Se firma un
+   **intercreditor agreement**: el senior tiene **primera prelación** sobre las garantías; el
+   mezzanine, **segunda** (subordinado), con reglas sobre ejecución, *standstill* y reparto del
+   producto. *Lección:* cuando varios acreedores comparten colateral, la prelación se **pacta** y se
+   refleja en el registro.
+
+## 18. Casos reales (jurisprudencia y operaciones estilizadas)
+
+- **Prohibición del pacto comisorio:** los tribunales reiteran la **nulidad** del pacto que permite
+  al acreedor **apropiarse** del bien dado en garantía sin remate (arts. 2887 y análogos); la
+  garantía se ejecuta por **venta/remate** o conforme al fideicomiso. Protege al deudor frente a
+  ejecuciones abusivas.
+- **Fianza: liberación por prórroga/novación sin consentimiento del fiador** (arts. 2846-2849 y
+  2220): criterios que liberan al fiador cuando el acreedor altera la obligación principal sin su
+  anuencia.
+- **Prelación registral:** criterios que aplican *prior in tempore, potior in iure* a hipotecas y a
+  garantías inscritas en el RUG; la **fecha de inscripción** decide.
+- **Operación estilizada de *project finance*:** un parque eólico afecta sus **flujos** (contratos
+  de venta de energía) y activos a un **fideicomiso de garantía y fuente de pago**; los bancos
+  cobran de los flujos antes de que lleguen al desarrollador.
+
+> *Nota de método (Manifiesto XI.5):* verificar la vigencia de los criterios antes de invocarlos;
+> se exponen por su valor formativo.
+
+## 19. Casos empresariales
+
+- **Financiamiento de capital de trabajo:** la empresa da en **prenda sin transmisión** su
+  inventario rotativo y cuentas por cobrar (universalidad, presente y futuro) para una línea de
+  crédito revolvente.
+- **Gestión del portafolio de garantías:** el director jurídico controla qué activos están
+  gravados, su prioridad y las **liberaciones (*releases*)** al pagar; evita gravar dos veces o
+  violar *negative pledges*.
+- **Garantías intragrupo (upstream/downstream):** la matriz garantiza a la filial y viceversa,
+  cuidando el **interés social** y el riesgo de **fraude de acreedores**.
+
+## 20. Casos corporativos (en transacciones)
+
+- **Acquisition finance / LBO:** la compra se financia con deuda garantizada con **prenda sobre las
+  acciones** de la *target*, **hipoteca** sobre sus inmuebles y **fideicomiso** sobre flujos; las
+  garantías se **perfeccionan e inscriben el día del cierre** (cierre coordinado).
+- **Payoff & release al cierre:** si la *target* tenía deuda garantizada, se **paga y liberan** esas
+  garantías simultáneamente para que el comprador reciba los activos/acciones *free and clear*.
+- **Garantía corporativa del comprador:** la matriz del vehículo de adquisición (NewCo)
+  **garantiza** la deuda frente a los bancos (*parent guarantee*).
+- **Intercreditor agreement:** regula la prelación entre senior y mezzanine sobre el colateral
+  compartido.
+
+## 21. Casos internacionales
+
+- **Garantías a primera demanda / standby letters of credit:** en operaciones internacionales se
+  usan **garantías autónomas** (reguladas por las reglas URDG de la CCI o el UCP 600 para cartas de
+  crédito) que pagan al **simple requerimiento**, independientes del contrato subyacente.
+- **Toma de garantías multijurisdiccional:** la hipoteca del inmueble mexicano (ley mexicana), la
+  prenda sobre acciones de la *holding* extranjera (su ley), el *security interest* bajo
+  **Article 9 UCC** sobre activos en EE. UU.: el *security package* cross-border se coordina con
+  opiniones legales locales sobre **validez, perfeccionamiento y ejecución**.
+- **Floating charge (common law):** garantía flotante sobre un conjunto cambiante de activos
+  (inventario, cuentas), análoga funcional a la prenda sin transmisión sobre universalidades; se
+  "cristaliza" ante el incumplimiento.
+- **Insolvencia transfronteriza:** la ejecución de una garantía puede chocar con un concurso en
+  otra jurisdicción (Ley Modelo UNCITRAL sobre insolvencia transfronteriza); la prelación se decide
+  conforme a la ley aplicable y al reconocimiento del procedimiento extranjero.
