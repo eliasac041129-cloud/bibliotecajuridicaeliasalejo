@@ -518,3 +518,110 @@ Todo este libro trata de cómo funciona esa "feria del dinero" y cómo el derech
 - **Estándares de gobierno corporativo (OCDE):** los Principios de Gobierno Corporativo de la OCDE
   influyen en la regulación de todos los mercados (consejos, independientes, derechos de accionistas,
   transparencia).
+
+
+## 22. Derecho comparado
+
+| Sistema | Rasgos del mercado de valores |
+|---|---|
+| **México** | LMV (2005): S.A.B., S.A.P.I.; CNBV como regulador; BMV y BIVA; Indeval; gobierno corporativo reforzado; OPA; mercado relativamente pequeño. |
+| **España** | Ley del Mercado de Valores; CNMV como regulador; armonización con la UE (folleto, abuso de mercado). |
+| **Estados Unidos** | **El referente mundial:** Securities Act 1933 + Exchange Act 1934; **SEC**; full disclosure; Sarbanes-Oxley (2002), Dodd-Frank (2010); tender offers (Williams Act); enforcement potente. |
+| **Delaware** | Sede de las grandes corporaciones; su **corporate law** y la jurisprudencia de la Court of Chancery rigen las **defensas anti-OPA** y los deberes fiduciarios (Revlon, Unocal — Nivel IV). |
+| **Unión Europea** | Armonización: Reglamento de **Folleto** (disclosure en ofertas), Reglamento de **Abuso de Mercado (MAR)** (insider trading, manipulación), Directiva de **OPAs** (takeover bids), MiFID II (intermediarios). |
+| **UNIDROIT** | Convenio de Ginebra sobre valores intermediados (titularidad de valores desmaterializados en cadenas de custodia). |
+| **UNCITRAL** | Trabajos sobre comercio electrónico y, conexamente, sobre valores y garantías. |
+| **CISG** | No aplica (es compraventa de mercaderías). |
+| **Common Law** | Tradición de *securities regulation* (EE. UU., Reino Unido —FCA—); fuerte *enforcement* y litigio (class actions en EE. UU.). |
+| **Civil Law** | Regulación bursátil basada en leyes especiales y reguladores administrativos; convergencia hacia el modelo de disclosure y los estándares OCDE. |
+
+> **Convergencia clave:** todos los mercados comparten el ADN de la **SEC**: *full disclosure*,
+> prohibición de *insider trading* y manipulación, gobierno corporativo y un regulador fuerte. Para el
+> abogado de M&A público y de IPOs, dominar el modelo estadounidense (SEC, Reg S/144A, Sarbanes-Oxley)
+> es indispensable, porque muchas operaciones mexicanas tocan EE. UU. (ADRs, dual listings, fondos).
+
+## 23. Derecho mexicano
+
+- **LMV (2005, reformada):** objeto y valores (arts. 1-2); **S.A.P.I., S.A.P.I.B. y S.A.B.** (arts. 12
+  y ss.); gobierno corporativo de la S.A.B. (consejo, independientes, comités de auditoría y prácticas
+  societarias, deberes de diligencia y lealtad, arts. 22-44); oferta pública e inscripción en el RNV;
+  **OPA** (arts. 92-109); información privilegiada y manipulación (arts. 362-380); régimen de
+  intermediarios, bolsas e Indeval; sanciones y delitos.
+- **CNBV:** Ley de la CNBV; facultades de autorización, supervisión y sanción.
+- **Ley Fintech (2018):** instituciones de financiamiento colectivo (*crowdfunding*) y de fondos de
+  pago; activos virtuales (con Banxico).
+- **Normas conexas:** LGSM (supletoria en lo societario), Ley de Concursos, competencia (COFECE en
+  concentraciones de emisoras), Afores (régimen de inversión).
+- **Bolsas:** BMV y BIVA; **MexDer** (derivados); **Indeval** (depósito/liquidación).
+
+## 24. Jurisprudencia relevante
+
+> Verificar vigencia antes de citar.
+- **Responsabilidad por el prospecto:** criterios sobre la información veraz y la responsabilidad de
+  la emisora y firmantes por omisiones o información engañosa.
+- **Deberes fiduciarios de consejeros y director general (LMV):** alcance de los deberes de diligencia
+  y lealtad y de la **regla de juicio de negocio**.
+- **Operaciones con partes relacionadas:** estándares de revelación y aprobación.
+- **OPA y protección de minoritarios:** criterios sobre la obligatoriedad de la OPA y el trato
+  igualitario.
+- **Sanciones por información privilegiada y manipulación:** resoluciones de la CNBV.
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **Constitucionalidad de la regulación bursátil:** validez de las facultades de la CNBV y de las
+  restricciones (disclosure, prohibiciones) frente a la libertad de comercio, por el interés público
+  en la **integridad del mercado**.
+- **Gobierno corporativo y protección de minoritarios:** criterios que refuerzan los derechos de los
+  accionistas minoritarios en emisoras.
+- **Resoluciones de la CNBV:** sanciones por insider trading, manipulación e incumplimiento de
+  disclosure (jurisdicción administrativa especializada).
+
+## 26. Doctrina nacional
+
+- **Doctrina sobre la LMV de 2005:** análisis de la S.A.B., S.A.P.I. y el gobierno corporativo
+  reforzado (autores y comentaristas de la reforma).
+- **Roberto Mantilla Molina / Jorge Barrera Graf:** marco mercantil y societario base.
+- **Doctrina de gobierno corporativo (Consejo Coordinador Empresarial, Código de Principios de
+  Gobierno Corporativo):** estándares de mejores prácticas.
+- **Literatura sobre mercado de capitales mexicano** (BMV/BIVA, Afores, FIBRAS, CKDs).
+
+## 27. Doctrina internacional
+
+- **Louis Loss & Joel Seligman, *Securities Regulation* (EE. UU.):** la obra monumental de la materia.
+- **Reinier Kraakman et al., *The Anatomy of Corporate Law*:** análisis funcional del gobierno
+  corporativo y la protección de inversores (también relevante en el Libro 2 Nivel III).
+- **John Armour et al., *Principles of Financial Regulation*:** marco moderno de regulación
+  financiera.
+- **Principios de Gobierno Corporativo de la OCDE/G20:** estándar internacional.
+- **Regulación de la SEC, MAR/Folleto (UE):** los marcos de referencia globales.
+
+## 28. Opiniones críticas (postura del Consejo)
+
+1. **El mercado de valores mexicano es pequeño y debe crecer.** Pocas emisoras cotizan; el Consejo
+   considera que el reto de política pública es **atraer más empresas** (reduciendo cargas sin
+   sacrificar la confianza) y profundizar la cultura de inversión y de gobierno corporativo.
+2. **El gobierno corporativo de la S.A.B. es el estándar de excelencia.** El Consejo recomienda que las
+   empresas privadas que aspiren a crecer o venderse **adopten anticipadamente** el modelo de la S.A.B.
+   (consejo con independientes, comités, deberes fiduciarios): eleva su valor y las prepara para una
+   IPO o un M&A.
+3. **El *disclosure* y el control del *insider trading* son innegociables.** La confianza es el activo
+   del mercado; el Consejo subraya que el **compliance** bursátil (eventos relevantes, listas de
+   personas con información privilegiada, ventanas de operación) es de máxima prioridad y de altísimo
+   riesgo penal.
+
+## 29. Debate doctrinal
+
+- **¿Disclosure (mandatory disclosure) o desregulación?** ¿Debe el Estado **obligar** a revelar
+  (modelo SEC) o bastaría con la disciplina del mercado? El consenso, tras 1929 y 2008, es que el
+  *disclosure* obligatorio es necesario; el debate es sobre su **alcance y costo**.
+- **Shareholder vs. stakeholder en la emisora (ESG):** ¿debe la S.A.B. maximizar el valor del
+  accionista o atender a todos los grupos de interés? El **ESG** y el *disclosure* de sostenibilidad
+  son la frontera actual (Nivel IV).
+- **Defensas anti-OPA: ¿protegen a los accionistas o atrincheran a los administradores?** El debate
+  clásico del *takeover law* (Delaware): las *poison pills* y otras defensas pueden proteger a los
+  accionistas de ofertas inadecuadas o servir a los directivos para conservar su puesto (Nivel IV).
+- **Mercados eficientes vs. conductual:** ¿reflejan los precios toda la información (Fama) o hay
+  burbujas e irracionalidad (Shiller)? Afecta cómo se concibe el *disclosure* y la protección del
+  inversionista (Libro 10 Nivel I).
+- **Regulación vs. innovación (fintech, cripto):** cómo regular el *crowdfunding*, los activos
+  digitales y las nuevas plataformas sin asfixiar la innovación ni desproteger al inversionista.
