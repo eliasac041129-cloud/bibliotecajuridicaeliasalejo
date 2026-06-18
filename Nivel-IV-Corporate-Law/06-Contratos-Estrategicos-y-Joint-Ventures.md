@@ -261,3 +261,141 @@ otra como socio activo, o no puedes/no quieres comprar (por costo, por riesgo, p
 de suministro (colaboración ligera) hasta una JV societaria (colaboración profunda, casi un "mini-M&A
 compartido"). El gran abogado de operaciones complejas maneja **todo el espectro** —comprar, financiar,
 colaborar— y elige (o combina) la herramienta que mejor sirve la estrategia del cliente.
+
+## 10. Definiciones doctrinales
+
+La doctrina define las figuras centrales de la colaboración así:
+
+- **Joint Venture (JV) / Empresa conjunta / Coinversión:** acuerdo por el cual **dos o más empresas** unen
+  recursos para un **propósito común**, compartiendo el **control, las utilidades y los riesgos**. La
+  doctrina la define como una forma de **cooperación interempresarial** a medio camino entre el **mercado**
+  (contratar) y la **jerarquía** (fusionarse): ni totalmente independientes, ni totalmente integradas.
+- **Equity JV (JV societaria / de capital):** JV en la que los socios **constituyen una sociedad nueva**
+  (la *JV co* o *NewCo*) de la que son **accionistas**, aportando capital y recursos. La colaboración se
+  **institucionaliza** en una persona jurídica con su propio gobierno y patrimonio.
+- **Contractual JV (JV contractual / sin sociedad):** JV en la que los socios colaboran **solo por
+  contrato**, **sin** crear una sociedad: se obligan a coordinar conductas, aportar recursos y repartir
+  resultados, pero cada uno conserva su personalidad y su patrimonio (típico en consorcios para una obra o
+  proyecto específico). En México se asocia a la figura de la **asociación en participación (A en P)** o a
+  consorcios contractuales.
+- **Alianza estratégica:** término amplio para cualquier **acuerdo de cooperación** entre empresas con un
+  fin estratégico (compartir tecnología, mercados, I+D), que puede o no llegar al nivel de una JV.
+- **Contrato de distribución:** acuerdo por el que un **distribuidor** se obliga a **comprar y revender**
+  los productos del **proveedor** en un territorio, **por cuenta y riesgo propios** (compra para revender),
+  a diferencia del agente (que vende por cuenta del principal) y del franquiciatario (que opera un modelo
+  de negocio bajo licencia).
+- **Contrato de suministro:** acuerdo por el que un **proveedor** se obliga a **entregar bienes de forma
+  continuada o periódica** a un **adquirente**, durante un plazo, a un precio y condiciones pactados.
+  Asegura el abasto de un insumo (o la colocación de una producción).
+- **Contrato de licencia / transferencia de tecnología:** acuerdo por el que el **titular** de una
+  propiedad intelectual (patente, marca, know-how, software) **autoriza** a otro a usarla, a cambio de
+  regalías, en ciertas condiciones.
+- **MOU (*Memorandum of Understanding*) / Carta de intención:** documento **preliminar** que expresa la
+  **intención** de las partes de colaborar bajo ciertos términos, normalmente **no vinculante** en lo
+  sustantivo (eco directo del Term Sheet del Libro 4).
+
+## 11. Definiciones legales y marco normativo
+
+A diferencia de la sociedad mercantil (regulada con detalle en la LGSM), la JV **no es un tipo contractual
+único y nominado** en el derecho mexicano: es una **operación** que se **encarna** en figuras jurídicas
+existentes. El marco normativo se arma combinando varias fuentes:
+
+- **Autonomía de la voluntad (CCF, Código de Comercio).** La base: las partes pueden diseñar libremente su
+  colaboración (el contrato de JV, la alianza) dentro de los límites de la ley, el orden público y la
+  competencia. La JV contractual es, ante todo, un **contrato atípico** amparado por la libertad
+  contractual.
+- **Ley General de Sociedades Mercantiles (LGSM).** Si la JV es **societaria**, se constituye una sociedad
+  (típicamente **S. de R.L.** —flexible, ideal para JV con pocos socios— o **S.A.**, y cada vez más la
+  **S.A.P.I.** por la validez que da a las cláusulas de socios). El **convenio de JV** funciona como un
+  **SHA** (Libro 4) que rige la relación entre los socios de la JV co.
+- **Asociación en Participación (A en P) (LGSM).** Figura mexicana clave para la **JV contractual**: un
+  **asociante** (que opera y aparece frente a terceros) y uno o varios **asociados** (que aportan y
+  participan en resultados) colaboran en un negocio **sin crear una persona jurídica** ni aparecer los
+  asociados frente a terceros. Útil para coinversiones sin sociedad.
+- **Contratos mercantiles típicos y atípicos (Código de Comercio, LGTOC, leyes especiales).** La
+  **distribución**, el **suministro** y la **comisión** se rigen por las reglas mercantiles (algunos son
+  atípicos, regidos por la autonomía de la voluntad y por analogía); el **franquiciamiento** tiene reglas
+  específicas (Ley de la Propiedad Industrial). La **licencia** de PI se rige por la **Ley Federal de
+  Protección a la Propiedad Industrial** y la de derechos de autor.
+- **Ley Federal de Competencia Económica (LFCE).** Límite central: las JV entre competidores
+  (concentraciones notificables; prohibición de colusión) y las restricciones verticales de los contratos
+  de distribución/suministro (prácticas monopólicas relativas).
+- **Ley de Inversión Extranjera.** Cuando hay un socio extranjero, define límites y condiciones de su
+  participación (relevante para JV de internacionalización).
+- **Código Civil (contratos en general, asociación civil, copropiedad).** Marco supletorio de las
+  obligaciones y, para fines no lucrativos, la asociación civil.
+
+> **Nota de método:** la JV es una **operación**, no un contrato típico único; se estructura **eligiendo y
+> combinando** vehículos (sociedad, A en P, contratos). Verifica el texto vigente de la LGSM, la LFCE y las
+> leyes de PdI/inversión extranjera antes de aplicarlos (Manifiesto XI.5).
+
+## 12. Definición sencilla
+
+Imagina que tú eres **muy bueno cocinando** y tu amigo tiene **un local en la mejor esquina** de la ciudad.
+Ninguno de los dos, solo, puede abrir el gran restaurante: tú no tienes local, él no sabe cocinar. Tienen
+tres caminos:
+
+- **Comprar (M&A):** tú le **compras el local** (o él te compra tu receta) y mandas tú solo. Uno se queda
+  con todo y el otro se va.
+- **Contratar (contrato estratégico):** él te **renta el local** (suministro/arrendamiento) o tú le
+  **vendes tus platillos** para que él los revenda (distribución). Colaboran, pero cada quien sigue por su
+  lado, sin un negocio común.
+- **Aliarse (joint venture):** **abren juntos el restaurante**, como **socios**. Tú pones la cocina y las
+  recetas; él, el local y el dinero. Reparten las ganancias, **comparten las decisiones**, y comparten el
+  riesgo si va mal. Eso es una **joint venture**.
+
+Y si abren juntos, deben decidir **antes** las preguntas difíciles, que son exactamente las cláusulas de la
+JV: ¿quién **pone qué** (aportaciones)?, ¿quién **decide** el menú y los precios (gobierno)?, ¿qué pasa si
+**no se ponen de acuerdo** (deadlock)?, ¿cómo se **reparten** las ganancias?, ¿de quién son las **recetas**
+si se separan (propiedad intelectual)?, y —lo más importante— ¿qué pasa si uno **quiere salirse** o
+**vender su parte** (salida)? Una JV es un **matrimonio de negocios**: hay que pactar el "prenupcial"
+**antes** de la boda, porque si la sociedad se agria sin reglas, el restaurante (el valor) se destruye en
+la pelea.
+
+## 13. Conceptos fundamentales
+
+Fija este vocabulario; muchos términos ya los conoces del SHA (Libro 4) —porque una JV societaria **usa** un
+SHA—:
+
+**Tipos y vehículos de colaboración:**
+- **Equity JV (societaria):** se crea una **JV co** (sociedad); los socios son accionistas.
+- **Contractual JV (sin sociedad):** colaboración solo por contrato; en México, a menudo vía **asociación
+  en participación (A en P)** o consorcio.
+- **Asociación en Participación (A en P):** **asociante** (opera y aparece frente a terceros) + **asociado**
+  (aporta y participa en resultados, oculto frente a terceros); **sin** personalidad jurídica.
+- **Consorcio:** unión contractual de empresas para un **proyecto u obra** específicos (típico en
+  licitaciones e infraestructura).
+
+**El contrato de JV (gobierno, capital, salida — como un SHA):**
+- **Aportaciones (*contributions*):** lo que cada socio pone (capital, activos, tecnología, mercado,
+  personal). Se valúan y definen su participación.
+- **Gobierno compartido:** **consejo paritario** (asientos por socio), **materias reservadas/vetos**
+  (decisiones que requieren acuerdo de ambos), y la regla de mayorías.
+- **Deadlock (bloqueo):** el problema **característico** de la JV 50/50: qué hacer cuando los socios **no se
+  ponen de acuerdo** y el negocio se paraliza. Mecanismos: escalamiento, mediación, y de salida forzosa
+  (**ruleta rusa**, **Texas/Mexican shoot-out**, *cooling-off*).
+- **Reparto de utilidades y reinversión:** cómo y cuándo se distribuyen las ganancias.
+- **Exclusividad y no competencia:** compromisos de canalizar cierto negocio a la JV y de no competir con
+  ella (¡cuidado con la competencia económica!).
+- **Propiedad intelectual:** de quién es la PI **aportada** y la **creada** por la JV; qué pasa con ella al
+  terminar.
+- **Salida (*exit*):** **lock-up**, **ROFR/ROFO**, **tag along**, **drag along**, **put/call**,
+  disolución y liquidación de la JV. La parte más crítica (reutiliza el SHA).
+
+**Contratos estratégicos:**
+- **Distribución:** el distribuidor **compra para revender** por cuenta y riesgo propios (vs. **agencia**:
+  vende por cuenta del principal; vs. **franquicia**: opera un modelo bajo licencia).
+- **Suministro:** entrega **continuada** de bienes; cláusulas de **precio** (fijo, indexado), **volumen**
+  (mínimos, **take-or-pay** —pagas tomes o no—), **exclusividad** y plazo.
+- **Licencia / transferencia de tecnología:** autorización de uso de PI a cambio de **regalías**; alcance,
+  territorio, exclusividad, mejoras.
+- **Acuerdo marco (*framework/master agreement*):** contrato "paraguas" que fija las condiciones generales
+  de una relación de largo plazo, bajo el cual se celebran órdenes o contratos específicos.
+
+**Instrumentos preliminares:**
+- **MOU / Carta de intención / Heads of Terms:** documento **preliminar** de la colaboración, mayormente
+  **no vinculante** salvo cláusulas de proceso (exclusividad, confidencialidad) —eco del Term Sheet—.
+- **NDA (acuerdo de confidencialidad):** protege la información que las partes comparten al explorar la
+  alianza.
+
+Con este vocabulario, entramos al **desarrollo absoluto**.
