@@ -339,3 +339,111 @@ masivo y garantizado.
 > el fondo, un mutuo**: una entrega de capital a cambio de su devolución con interés y garantías.
 > Entender el régimen civil del mutuo —propiedad de lo prestado, intereses, usura, mora— es la base
 > para leer y negociar un contrato de crédito de cientos de millones.
+
+
+### 14.C · El mandato y la representación (la raíz de los poderes corporativos)
+
+**Mandato vs. poder vs. representación.** Tres nociones que conviene separar:
+- **Mandato:** el **contrato** por el que el mandatario se obliga a ejecutar actos jurídicos por
+  cuenta del mandante (relación interna, art. 2546).
+- **Poder (apoderamiento):** el **acto unilateral** por el que se **faculta** a otro para
+  representar (la cara externa, frente a terceros).
+- **Representación:** el **efecto** de que lo actuado por el representante recaiga en la esfera del
+  representado (Libro 4 y 5, Nivel I).
+
+**Mandato con y sin representación.** **Con** representación: el mandatario actúa **en nombre** del
+mandante; los efectos recaen **directamente** en este. **Sin** representación: el mandatario actúa
+en **nombre propio**; se obliga frente al tercero y luego traslada los efectos al mandante (base de
+la **comisión mercantil** y de ciertos vehículos de adquisición donde se actúa por cuenta de otro
+sin revelarlo).
+
+**Los tres grandes poderes (art. 2554 CCF).** La redacción de los poderes en México se estructura
+en tres niveles, de menor a mayor amplitud:
+1. **Pleitos y cobranzas:** para litigar y cobrar (representación procesal).
+2. **Actos de administración:** para **operar** el patrimonio (contratar en el giro ordinario,
+   arrendar, contratar empleados).
+3. **Actos de dominio:** para **disponer y gravar** (vender, hipotecar, prendar) — el poder más
+   amplio.
+Además, se otorgan **poderes especiales** (para suscribir títulos de crédito —art. 9 LGTOC—, para
+actos específicos). *Regla de oro:* un apoderado **solo puede lo que su poder le faculta**; un
+poder de administración **no** alcanza para vender o gravar.
+
+**Obligaciones y deberes del mandatario:** ejecutar el encargo con **diligencia** (obligación de
+medios, Libro 1), **ceñirse a las instrucciones**, **no exceder** sus facultades, **rendir
+cuentas** y **lealtad** (no anteponer su interés). El exceso o la falta de poder hace el acto
+**ineficaz** frente al mandante salvo **ratificación** (Libro 4 y 5).
+
+**Cómo razona un socio (mandato → auditoría de facultades).** *"En todo deal, lo primero que
+verifico es **quién firma y con qué poder**. Reviso la escritura del poder: ¿es de **dominio**
+(necesario para vender acciones/activos)?, ¿incluye suscribir **títulos de crédito** si va a
+firmar pagarés?, ¿está **vigente** (no revocado)?, ¿lo otorgó el órgano facultado? Un SPA firmado
+por un apoderado con poder solo de **administración** puede ser **ineficaz** frente a la sociedad.
+La cadena de facultades es donde más errores —y más caros— he visto."*
+
+### 14.D · Los contratos de garantía (el corazón del *security package*)
+
+**Garantías personales vs. reales (recordatorio del Libro 6).** Las **personales** (fianza, aval)
+añaden **patrimonios** que responden (más deudores/garantes); las **reales** (prenda, hipoteca,
+fideicomiso) afectan **bienes concretos** con persecución y preferencia. El financiamiento serio
+combina ambas.
+
+**La fianza (garantía personal).** Contrato por el que el fiador se obliga a **pagar por el
+deudor** si este no lo hace (art. 2794). Notas clave:
+- **Accesoriedad:** sigue la suerte del crédito principal (si se extingue o se nova sin reserva, la
+  fianza se afecta — art. 2220, Libro 1).
+- **Beneficios de orden y excusión (arts. 2814 y ss.):** el fiador puede exigir que se demande y se
+  persigan **primero** los bienes del deudor. **En la práctica comercial se renuncian**,
+  convirtiendo al fiador en obligado **casi solidario** (de cobro inmediato).
+- **Fianza de empresa (afianzadora):** versión mercantil/financiera, regulada y onerosa
+  (Nivel III).
+- *Conexión M&A:* las **garantías corporativas** (la matriz garantiza a la filial; *parent
+  guarantees*) son fianzas/garantías personales que refuerzan el crédito de grupo.
+
+**La prenda (garantía real mobiliaria).** Sobre bienes **muebles** —incluidas las **acciones**—.
+Clásica con desplazamiento de posesión; moderna **sin transmisión de posesión** (LGTOC, registro
+en el RUG). *Conexión M&A:* la **prenda sobre las acciones** de la *target* es la garantía estrella
+del *acquisition finance* (si el comprador no paga el crédito, el banco se queda con las acciones).
+
+**La hipoteca (garantía real inmobiliaria).** Sobre **inmuebles** (y ciertos derechos), sin
+desplazamiento de posesión, en escritura pública e inscrita. *Conexión M&A:* hipoteca sobre la
+planta/inmuebles de la *target* dentro del paquete de garantías.
+
+**El fideicomiso de garantía** (LGTOC, Libro 6): transmisión fiduciaria con **ejecución ágil**; el
+preferido en financiamientos estructurados.
+
+> **¿Por qué importa? (garantías).** Sin garantías no hay crédito —o es carísimo—. El abogado que
+> sabe **constituir, perfeccionar, inscribir y ejecutar** fianzas, prendas e hipotecas, y que
+> conoce su **accesoriedad** (cuidado con la novación), es el que arma financiamientos cobrables.
+
+### 14.E · Otros contratos relevantes (en clave corporativa)
+
+- **Arrendamiento (arts. 2398 y ss.):** uso/goce temporal por renta. Evoluciona al **arrendamiento
+  financiero (leasing)** mercantil. Cláusulas clave: plazo, renta, mejoras, terminación,
+  *change of control*.
+- **Permuta (art. 2327):** cosa por cosa; se rige por reglas de la compraventa. Base de las
+  operaciones de **canje de acciones** (*stock-for-stock*).
+- **Donación (arts. 2332 y ss.):** transmisión **gratuita**; relevante en **planeación
+  patrimonial** y empresa familiar (donación de acciones, anticipos de herencia).
+- **Depósito y comodato:** guarda de cosa ajena / préstamo de uso gratuito; el depósito mercantil y
+  el de valores tienen reglas propias.
+- **Transacción (arts. 2944 y ss.):** concesiones recíprocas para evitar/terminar un litigio; tiene
+  fuerza de **cosa juzgada**. *Conexión:* los *settlement agreements* y la resolución de *claims*
+  post-closing son transacciones.
+
+## 15. Explicación intuitiva
+
+Piensa en los contratos típicos como las **herramientas de una caja**, cada una con su función:
+- La **compraventa** es el **martillo**: la herramienta básica del intercambio; con ella se arma
+  desde comprar un lápiz hasta adquirir una empresa (SPA = martillo de precisión con
+  saneamiento-garantía incorporado).
+- El **mutuo** es la **batería**: inyecta capital (energía) que debe devolverse con un costo
+  (interés).
+- El **mandato/poder** es el **control remoto**: te permite actuar **a distancia**, por medio de
+  otro; pero el control remoto solo hace lo que sus **botones** (facultades) permiten.
+- Las **garantías** son los **seguros y candados**: la fianza añade otra persona que responde; la
+  prenda/hipoteca ponen un candado sobre un bien para que el acreedor cobre seguro.
+
+El abogado corporativo es quien **combina** estas herramientas: una adquisición es una
+**compraventa** (de acciones) financiada con un **mutuo/crédito**, firmada mediante **poderes** de
+dominio, y **garantizada** con prenda sobre las acciones e hipoteca sobre los inmuebles. Todo el
+*deal*, desarmado, son **contratos típicos** ensamblados con maestría.
