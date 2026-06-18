@@ -190,3 +190,110 @@ Para la empresa y sus acreedores, el concurso es el **escenario del peor día**,
 El abogado corporativo asesora en las tres posiciones: **protege al acreedor** antes de la crisis,
 **reestructura** o **liquida** la empresa durante ella, y **estructura adquisiciones** de activos o
 deuda en *distress*. Es una especialidad técnica, intensa y de alto valor.
+
+
+## 10. Definiciones doctrinales
+
+- **Concurso mercantil (doctrina):** procedimiento **colectivo** y **universal** que, ante la
+  **insolvencia** (incumplimiento generalizado de pagos) de un comerciante, reúne a todos sus
+  acreedores y todos sus bienes para, primero, intentar **conservar** la empresa mediante un convenio
+  (conciliación) y, en su defecto, **liquidarla** ordenadamente (quiebra) repartiendo el producto
+  conforme a la **prelación** legal.
+- **Insolvencia (concepto económico-jurídico):** incapacidad del deudor para hacer frente a sus
+  obligaciones; en la LCM, se traduce en el **incumplimiento generalizado** de pagos (presupuesto
+  objetivo del concurso).
+- **Principios del concurso (doctrina):** **universalidad** (todos los bienes), **colectividad** (todos
+  los acreedores), ***par condicio creditorum*** (igualdad de trato entre acreedores del mismo rango)
+  y **conservación de la empresa** (preferencia por salvarla).
+- **Debtor in possession (Chapter 11):** el modelo en que el deudor **conserva la administración**
+  durante la reorganización (con vigilancia), en vez de ser desplazado por un síndico; influye en la
+  conciliación moderna.
+
+> **Lectura del Consejo:** memoriza los cuatro principios —**universalidad, colectividad, *par
+> condicio*, conservación**— y la **jerarquía de finalidades**: **primero conservar, luego liquidar**.
+> De ahí se entiende todo el procedimiento: la conciliación (salvar) precede a la quiebra (liquidar), y
+> la *par condicio* (igualdad) solo opera **dentro de cada rango** de la prelación —porque algunos
+> acreedores (garantizados, laborales, fiscales) tienen **preferencia**—.
+
+## 11. Definiciones legales (LCM — verificar versión vigente)
+
+- **Finalidad — art. 1 LCM:** el concurso mercantil es de **interés público** y tiene por objeto
+  **conservar las empresas** y evitar que el incumplimiento generalizado ponga en riesgo su viabilidad
+  y la de las demás con las que tenga relación.
+- **Presupuesto (incumplimiento generalizado) — arts. 9-10:** el comerciante incurre en incumplimiento
+  generalizado cuando **incumple sus obligaciones** de pago a **dos o más acreedores** y se cumplen
+  ciertas condiciones (p. ej., que las obligaciones vencidas representen al menos el **35%** de todas
+  sus obligaciones, o que no tenga activos para cubrir al menos el **80%** de sus obligaciones
+  vencidas).
+- **Etapas — art. 2 y ss.:** el concurso consta de **dos etapas sucesivas**: la **conciliación**
+  (finalidad: lograr la **conservación** mediante el **convenio**) y la **quiebra** (finalidad: la
+  **venta** de la empresa o sus bienes para el pago a los acreedores).
+- **Órganos:** el **juez** (de distrito), el **IFECOM** (designa y supervisa a los especialistas) y los
+  **especialistas**: el **visitador** (verifica si procede el concurso), el **conciliador** (gestiona la
+  reestructura y el convenio) y el **síndico** (administra y liquida en la quiebra).
+- **Prelación de acreedores — arts. 217 y ss.:** orden de pago: **singularmente privilegiados**
+  (gastos de entierro y de enfermedad del comerciante persona física), **con garantía real** (prenda,
+  hipoteca), **con privilegio especial** (los que tengan un privilegio especial conforme a leyes), y
+  **comunes** (quirografarios, a prorrata). Los **créditos laborales** (salarios e indemnizaciones del
+  último año) y los **fiscales** tienen reglas de preferencia destacadas.
+- **Retroacción y actos en fraude de acreedores — arts. 112 y ss.:** los actos del deudor en perjuicio
+  de la masa, realizados en el **periodo de retroacción** (anterior a la sentencia de concurso), pueden
+  ser declarados **ineficaces**.
+- **Insolvencia transfronteriza — arts. 278 y ss.:** incorpora la **Ley Modelo UNCITRAL** sobre
+  reconocimiento de procedimientos extranjeros y cooperación.
+
+## 12. Definición sencilla
+
+El **concurso mercantil** es lo que pasa cuando una empresa **ya no puede pagar** a sus deudas en
+general. En vez de dejar que cada acreedor llegue a llevarse lo que pueda (un caos que destruiría la
+empresa), un **juez** los reúne a **todos** y a **todos los bienes**, y se intenta, **primero**,
+**salvar la empresa** llegando a un **acuerdo** para reestructurar la deuda (la **conciliación**); si
+no se logra, se **vende todo** y se reparte el dinero entre los acreedores en un **orden** fijado por
+la ley (la **quiebra**): primero los trabajadores y ciertos privilegiados, luego los que tienen
+**garantía** (hipoteca, prenda) sobre un bien, y al final, lo que sobre, los acreedores **comunes** a
+prorrata. El día del concurso se ve **quién tomó bien sus garantías** y quién no.
+
+## 13. Conceptos fundamentales
+
+- **Incumplimiento generalizado:** el presupuesto del concurso (no pagar a dos o más acreedores,
+  rebasando los umbrales del art. 10). No basta un solo impago.
+- **Conciliación:** la **primera etapa**; busca **conservar** la empresa mediante un **convenio
+  concursal** con los acreedores (reestructura: quitas, esperas, conversión). El deudor suele conservar
+  la administración (con vigilancia del **conciliador**).
+- **Convenio concursal:** el acuerdo entre el deudor y sus acreedores (reconocidos), aprobado por las
+  **mayorías** legales, que reestructura la deuda y permite a la empresa seguir operando; una vez
+  aprobado y homologado por el juez, **vincula** a todos (incluso a los disidentes —*cram down*—).
+- **Quiebra:** la **segunda etapa** (si la conciliación fracasa o el deudor la pide); implica la
+  **liquidación**: el **síndico** vende los bienes (idealmente la empresa **como unidad**, para
+  conservar el goodwill) y paga conforme a la prelación.
+- **Masa concursal (activa y pasiva):** la **activa** = todos los bienes del deudor afectos al pago;
+  la **pasiva** = todos los créditos reconocidos.
+- **Reconocimiento, graduación y prelación de créditos:** el procedimiento para **reconocer** qué
+  créditos existen, **graduarlos** (clasificarlos por rango) y fijar el **orden de pago**. Es el
+  corazón del concurso.
+- **Acreedores por rango (prelación):**
+  - **Singularmente privilegiados** (gastos de entierro/enfermedad del comerciante persona física).
+  - **Créditos laborales** (salarios e indemnizaciones del último año): **preferencia** destacada.
+  - **Con garantía real** (prenda, hipoteca): cobran con **preferencia sobre el bien gravado** (aquí se
+    materializa el Libro 4 Nivel II).
+  - **Fiscales** (con reglas especiales de preferencia).
+  - **Con privilegio especial.**
+  - **Comunes (quirografarios):** cobran al final, **a prorrata**.
+- **Especialistas:** **visitador** (verifica si procede el concurso), **conciliador** (reestructura),
+  **síndico** (liquida); designados y supervisados por el **IFECOM**.
+- **Periodo de retroacción y acciones de ineficacia:** lapso previo a la sentencia en que los actos del
+  deudor en **fraude** de la masa (p. ej., constituir garantías o pagar a un acreedor preferido) pueden
+  declararse **ineficaces** y revertirse.
+- **Suspensión de ejecuciones:** declarado el concurso, se **suspenden** los procedimientos de
+  ejecución individuales contra el deudor (los acreedores deben cobrar **dentro** del concurso) —el
+  principio colectivo en acción—.
+- **Separación de bienes:** los bienes que están en poder del deudor pero **no son suyos** (en
+  consignación, arrendados, en fideicomiso) pueden **separarse** de la masa.
+- **Contratos pendientes:** régimen de los contratos en curso al declararse el concurso (cuáles
+  continúan, cuáles pueden terminarse).
+- **Plan prepactado (*pre-pack*):** convenio **negociado por anticipado** con los acreedores y luego
+  presentado al juez para su homologación rápida (reforma 2014).
+- **Workout extrajudicial:** reestructura negociada **fuera** del concurso (sin tribunal), por acuerdo
+  directo con los acreedores; más rápida y flexible, pero requiere consenso.
+- **Distressed M&A / distressed debt:** comprar **activos/empresas** en concurso o **deuda** con
+  descuento, como estrategia de inversión (private equity, special situations).
