@@ -761,3 +761,125 @@ Cliente elige el bien → ARRENDADORA lo compra → lo arrienda al cliente (pago
 - **Franquicia:** *"marca + know-how + COF + uniformidad"*.
 - **M&A:** *"primero busca el CHANGE OF CONTROL"* (la cláusula que traba el deal).
 - **Atípico:** *"si la ley no lo tiene, lo coso yo (art. 78)"*.
+
+
+## 40. Resumen ejecutivo
+
+Los **contratos mercantiles** son los contratos de la empresa: las versiones profesionales, ágiles y
+con frecuencia **atípicas** de los contratos, regidas por la **autonomía de la voluntad** (art. 78
+C. Com.), los **usos** y el derecho civil supletorio. La **compraventa mercantil** (con propósito de
+especulación; mora sin interpelación a día cierto) es la base del comercio y del *asset deal*. Los
+contratos de **colaboración y distribución** —comisión, agencia, **distribución** (compra y revende)
+y **franquicia** (licencia de marca + *know-how* + uniformidad, con la **COF** obligatoria)— llevan
+los productos y el modelo de negocio al mercado, siempre con cuidado de la **competencia económica**
+(las exclusividades, no competencias y fijación de precios de reventa pueden ser anticompetitivas).
+Los contratos de **financiamiento** —**factoraje** (liquidez sobre cuentas por cobrar, con o sin
+recurso) y **arrendamiento financiero/leasing** (adquirir activos vía arrendamiento con opción de
+compra)— financian la operación sin crédito tradicional. Y los **atípicos** (incluido el **joint
+venture**, contractual o equity vía S.A.P.I.) se construyen a la medida.
+
+Para el abogado corporativo, estos contratos son los **activos contractuales** de la empresa: en M&A
+se revisan masivamente en due diligence (la **matriz de contratos materiales**), donde lo crítico es
+detectar cláusulas de ***change of control*** (que permiten a la contraparte terminar al cambiar el
+dueño), la **cedibilidad** y los **consentimientos** necesarios. Dominar estos contratos —y saber
+**diseñar los atípicos** con detalle, dentro de los límites de la competencia y la protección del
+consumidor— es dominar el contenido operativo vivo de la empresa. Es la antesala directa de la
+documentación de M&A (Nivel IV), donde el SPA, el SHA y el joint venture agreement llevan estos
+contratos a su máxima sofisticación.
+
+## 41. Checklist
+
+**Redacción/negociación de un contrato mercantil:**
+- [ ] ¿Es típico o **atípico** (necesita redacción detallada)?
+- [ ] ¿Objeto, precio/contraprestación, plazo, exclusividad, metas bien definidos?
+- [ ] ¿Cláusulas de **terminación**, **indemnización** (Libro 3 Nivel II) y **propiedad intelectual**?
+- [ ] ¿Riesgo de **competencia económica** (exclusividad/no competencia/precios de reventa)?
+- [ ] ¿Franquicia: **COF**, licencia de marca, estándares?
+- [ ] ¿Financiamiento: factoraje (con/sin recurso, notificación) o leasing (opción de compra)?
+
+**Due diligence / M&A:**
+- [ ] **Matriz de contratos materiales** (¿qué ingresos dependen de cada uno?).
+- [ ] **Change of control** en cada contrato clave.
+- [ ] **Cedibilidad** y **consentimientos** a obtener antes del cierre.
+- [ ] **Reps** sobre vigencia, validez y cumplimiento de los contratos materiales.
+- [ ] ¿*Share deal* (los contratos siguen con la sociedad) o *asset deal* (hay que cederlos)?
+
+## 42. Bibliografía comentada
+
+- **Vásquez del Mercado, O., *Contratos Mercantiles* (Porrúa).** Manual de referencia mexicano;
+  sistemático y completo.
+- **Díaz Bravo, A., *Contratos Mercantiles*.** Claro y práctico; buena cobertura de los contratos
+  modernos (leasing, factoraje, franquicia).
+- **Schlechtriem & Schwenzer, *Commentary on the CISG*.** Para la compraventa internacional;
+  indispensable en comercio exterior y M&A cross-border.
+- **UNIDROIT, *Guía sobre franquicia principal internacional*; Reglas de la CCI (Incoterms, contratos
+  modelo).** Para la práctica internacional de distribución, franquicia y compraventa.
+- **Ley Federal de Competencia Económica (y guías de la COFECE) sobre restricciones verticales.**
+  Esencial para diseñar exclusividades y franquicias sin caer en prácticas monopólicas.
+
+## 43. Ruta hacia el siguiente libro
+
+Lo que acabas de aprender —los contratos de la empresa, su financiamiento operativo y su revisión en
+due diligence— será **indispensable para comprender** el **mercado de valores**: cuando la empresa
+necesita financiamiento a gran escala, acude al mercado emitiendo **valores** (acciones, deuda) ante
+el público inversionista, un escenario regulado y sofisticado.
+
+- **Siguiente libro:** *[Nivel III · Libro 5] Mercado de Valores (LMV)* — emisoras (S.A.B.), oferta
+  pública e **IPO**, intermediarios (casas de bolsa), instrumentos (acciones, certificados bursátiles,
+  FIBRAS, CKDs), gobierno corporativo bursátil y regulación (CNBV).
+- **Conexión de largo alcance:** los **joint ventures** y los contratos de financiamiento de este
+  libro reaparecen, con plena potencia, en el **Nivel IV** (M&A, VC, PE). Vuelve a las secciones 14.D
+  y 14.E cuando estructures coinversiones y revises contratos en un *deal*.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque **los contratos mercantiles son los activos vivos de la empresa**: generan sus ingresos
+(ventas, distribución, franquicias), financian su operación (factoraje, leasing) y la conectan con el
+mercado. En un M&A, son lo que se **revisa y transmite**: la **matriz de contratos materiales** y la
+caza de cláusulas de ***change of control*** son de los trabajos más decisivos de la due diligence —un
+contrato clave que la contraparte puede cancelar al cambiar el dueño puede frustrar el *deal* o reducir
+el precio—. Además, el abogado de negocios pasa buena parte de su tiempo **diseñando contratos
+atípicos** (leasing, factoraje, franquicia, *joint venture*) que la ley no regula en detalle: saber
+crearlos con precisión, dentro de los límites de la competencia económica y la protección del
+consumidor, es una destreza central.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+> *"Cuando compro una empresa, sus **contratos materiales** son sus arterias, y lo primero que busco
+> es el ***change of control***: ¿puede el cliente más importante, o el franquiciante, o el banco,
+> **terminar** el contrato porque cambia el dueño? Hago una **matriz de contratos materiales** con tres
+> columnas: ingresos que aporta, ¿change of control?, ¿cedible? De ahí sale mi **lista de
+> consentimientos** a obtener antes del cierre. Y cuando estructuro la expansión de un cliente
+> (franquicia, distribución, joint venture), redacto **atípicos a la medida** —porque la ley no los
+> rellena— cuidando la **competencia económica** (nada de fijar precios de reventa) y preparando los
+> contratos para una **venta futura** (cedibles, sin change of control venenoso, con la IP protegida).
+> Pienso siempre dos pasos adelante: hoy redacto el contrato pensando en cómo se verá en la due
+> diligence del comprador de mañana."*
+
+## ✦ Errores que cuestan millones
+
+1. **No detectar un *change of control* en un contrato clave.** Si el cliente que aporta el 40% de
+   los ingresos puede terminar el contrato al cambiar el dueño, y no se obtiene su consentimiento, el
+   *deal* puede caerse o el comprador pagar de más por ingresos que se evaporan. *Prevención:* matriz
+   de contratos materiales y consentimientos como condición de cierre.
+2. **Redactar un contrato atípico de forma escueta.** Un leasing, factoraje o franquicia mal
+   redactados (sin terminación, IP, no competencia claros) generan litigios costosos porque la ley no
+   los completa. *Prevención:* redacción exhaustiva.
+3. **Diseñar exclusividades o fijar precios de reventa que violen la competencia.** Una práctica
+   monopólica relativa acarrea **multas** elevadas de la COFECE y nulidad de las cláusulas.
+   *Prevención:* diseñar restricciones verticales dentro de lo permitido.
+4. **Omitir la COF en franquicia.** Habilita al franquiciatario a **anular** el contrato; pérdida del
+   negocio de expansión y de las regalías.
+5. **Confundir factoraje con recurso y sin recurso.** Vender cartera "sin recurso" creyendo que se
+   conserva la garantía del cedente (o al revés) asigna mal el **riesgo de crédito** —puede costar el
+   monto íntegro de las cuentas incobrables—.
+
+---
+
+> *Cierre del Libro.* Has dominado los **contratos vivos de la empresa**: cómo vende, distribuye,
+> franquicia y se financia, y cómo se revisan y transmiten en un *deal*. En el siguiente libro
+> subiremos de escala: cuando la empresa necesita **capital del público**, entra al **mercado de
+> valores** —emisoras, IPO, intermediarios y regulación—. El financiamiento corporativo a gran escala
+> y la antesala del M&A público nos esperan.
