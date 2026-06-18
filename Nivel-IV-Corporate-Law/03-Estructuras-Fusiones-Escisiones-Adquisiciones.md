@@ -246,3 +246,147 @@ La elección de estructura es, por tanto, una decisión que el abogado toma **co
 respuesta técnica (share, asset, fusión, escisión, o una combinación) sirve a un **objetivo empresarial**
 concreto. El gran abogado de estructuras traduce el objetivo de negocio en la arquitectura jurídica que lo
 realiza de la forma más eficiente y segura.
+
+## 10. Definiciones doctrinales
+
+La doctrina societaria y transaccional define las figuras centrales así (apréndelas con rigor; son el
+vocabulario técnico del libro):
+
+- **Adquisición (*acquisition*):** operación por la cual una persona o entidad **toma el control** de una
+  empresa, sea comprando sus **acciones/partes sociales** (*share deal*) o sus **activos** (*asset deal*).
+  La doctrina subraya que lo característico es la **transferencia de control**, no la combinación de
+  patrimonios.
+- **Share deal (compraventa de acciones):** adquisición en la que el comprador compra las **acciones o
+  partes sociales** de la *target*, adquiriendo así la **sociedad completa** —su patrimonio, sus
+  contratos, sus permisos y **todos sus pasivos, conocidos u ocultos**—. La sociedad sigue siendo la misma
+  persona jurídica; solo cambian sus dueños.
+- **Asset deal (compraventa de activos):** adquisición en la que el comprador compra **activos
+  determinados** (y, en su caso, asume pasivos determinados) **seleccionados** del patrimonio de la
+  *target*, dejando el resto (incluidos los pasivos no asumidos) en la sociedad vendedora. No se adquiere
+  la sociedad, sino una parte (o la totalidad) de su **contenido**.
+- **Fusión (*merger*):** operación por la cual **dos o más sociedades se integran en una sola**,
+  transmitiéndose en bloque (**sucesión universal**) el patrimonio de la(s) sociedad(es) que
+  desaparece(n) a la que subsiste o a una nueva, y pasando sus socios a ser socios de la sociedad
+  resultante. La doctrina distingue la **fusión por absorción** (una subsiste y absorbe a la otra) de la
+  **fusión por integración o pura** (todas desaparecen y nace una nueva).
+- **Escisión (*spin-off / division*):** operación inversa a la fusión: una sociedad (**escindente**)
+  **divide** la totalidad o parte de su patrimonio y lo transmite en bloque a una o varias sociedades
+  nuevas o existentes (**escindidas o beneficiarias**). La doctrina distingue la **escisión total** (la
+  escindente desaparece y reparte todo su patrimonio) de la **escisión parcial** (la escindente subsiste y
+  solo segrega una parte).
+- **Reestructuración / reorganización corporativa:** término amplio que designa cualquier **rediseño de la
+  estructura jurídica** de una empresa o grupo (fusiones, escisiones, aportaciones, creación de holdings,
+  etc.) para lograr objetivos de eficiencia, riesgo, fiscalidad o sucesión.
+- **Sucesión universal vs. sucesión particular:** concepto doctrinal clave. En la **sucesión universal**
+  (fusión, escisión) el patrimonio se transmite **en bloque, automáticamente**, sin necesidad de
+  transferir cada bien o contrato uno por uno. En la **sucesión particular** (asset deal) cada activo y
+  cada contrato debe transmitirse **individualmente**, con sus formalidades y, a veces, con el
+  consentimiento de la contraparte.
+
+## 11. Definiciones legales y marco normativo
+
+El marco normativo mexicano de las estructuras se asienta, principalmente, en la **LGSM** (para fusión y
+escisión) y en el **derecho común de los contratos** (para las compraventas de acciones y de activos),
+complementado por la legislación fiscal:
+
+- **Fusión — LGSM, artículos 222 a 226.** La ley regula: el **acuerdo de fusión** por cada sociedad
+  (asamblea extraordinaria), su **inscripción** en el Registro Público de Comercio y **publicación**; la
+  regla de que la fusión surte efectos **tres meses** después de la inscripción, salvo que se pague a los
+  acreedores, se obtenga su consentimiento o se deposite el importe de las deudas (mecanismo de
+  **protección de acreedores**); el **derecho de oposición** judicial de los acreedores durante ese plazo;
+  y la **transmisión** del patrimonio a la sociedad fusionante. La fusión puede surtir efectos de inmediato
+  si se cumplen las condiciones de pago/garantía a acreedores.
+- **Escisión — LGSM, artículo 228 Bis** (incorporado en 1992). Regula con detalle: el **acuerdo de
+  escisión** (asamblea extraordinaria con mayoría reforzada), su contenido obligatorio (descripción de la
+  forma de repartir activos, pasivos y capital), su **publicación** y **resoluciones**, el **derecho de
+  oposición** de acreedores (plazo de 45 días naturales desde la última publicación/inscripción), el
+  **derecho de los socios** y la **responsabilidad solidaria** de las sociedades escindidas frente a los
+  acreedores durante cierto periodo.
+- **Compraventa de acciones (*share deal*):** se rige por el **Código de Comercio** y supletoriamente por
+  el **Código Civil** (compraventa), más las reglas de la **LGSM** y de la **LMV** sobre transmisión de
+  acciones (endoso e inscripción en el libro de registro de accionistas para las nominativas; régimen
+  especial para acciones de S.A.B.). El contrato típico es el **SPA** (*Share Purchase Agreement*), que
+  estudiarás a fondo en el Libro 4.
+- **Compraventa de activos (*asset deal*):** se rige por las reglas de la **compraventa** y de la
+  **cesión** de cada tipo de bien o derecho (inmuebles con sus formalidades registrales; cesión de
+  contratos con consentimiento de la contraparte cuando se requiera; cesión de créditos con notificación
+  al deudor; transmisión de PI con sus registros). El contrato típico es el **APA** (*Asset Purchase
+  Agreement*).
+- **Régimen fiscal — LISR y CFF.** Establece los **requisitos para la neutralidad fiscal** de fusiones y
+  escisiones (que no se consideren enajenación gravada si cumplen condiciones de permanencia y continuidad,
+  avisos y, en su caso, autorización), y las reglas **antiabuso**. El CFF regula los avisos y efectos
+  fiscales de estas reorganizaciones.
+
+> **Nota de método:** la numeración y el contenido exacto de los artículos de la LGSM y de la legislación
+> fiscal deben **verificarse en el texto vigente** antes de aplicarlos profesionalmente (Manifiesto XI.5).
+> Aquí los citamos con fines didácticos para que ubiques **dónde vive** cada figura.
+
+## 12. Definición sencilla
+
+Imagina que las empresas son **edificios de Lego**.
+
+- **Share deal (comprar acciones):** compras el **edificio completo, tal como está** —con todos sus
+  cuartos, su instalación eléctrica, sus tuberías y también sus **fugas y grietas ocultas**—. Te quedas
+  con el edificio entero, lo bueno y lo malo, porque compraste la **escritura** del edificio (las
+  acciones). El edificio no se movió: solo cambió de dueño.
+- **Asset deal (comprar activos):** no compras el edificio; compras **solo las piezas que te interesan**
+  —estas habitaciones sí, el sótano con humedad no—. Te llevas las piezas buenas y **dejas atrás** las
+  grietas y los problemas. Pero como te llevas pieza por pieza, tienes que **desmontar y volver a montar**
+  (transferir cada activo, pedir permiso para mudar ciertos contratos): más trabajo, pero más limpio.
+- **Fusión (merger):** tomas **dos edificios y los unes en uno solo**. Las piezas de ambos se combinan en
+  una sola construcción, y los dueños de los dos edificios pasan a ser **codueños** del edificio
+  combinado. Uno de los edificios "desaparece" como tal (sus piezas pasan al otro) —eso es la **sucesión
+  universal**: todo pasa en bloque, automáticamente—.
+- **Escisión (spin-off):** tomas **un edificio grande y lo divides en dos** —separas el ala de oficinas
+  del ala de bodegas, y cada una se vuelve un edificio independiente—. Sirve para separar negocios que
+  estaban juntos, por ejemplo para vender uno y quedarte el otro.
+
+La pregunta de siempre: *¿me conviene llevarme el edificio entero (con sus grietas), solo las piezas
+buenas, unir dos edificios, o partir uno en dos?* Eso es elegir la **estructura**.
+
+## 13. Conceptos fundamentales
+
+Fija estos conceptos; se usan en todo el libro y en la práctica diaria del M&A:
+
+- **Share deal / Asset deal:** comprar la **sociedad** (acciones) vs. comprar su **contenido** (activos
+  seleccionados). La diferencia clave: en el *share deal* se **heredan todos los pasivos**; en el *asset
+  deal* se **eligen** activos y pasivos.
+- **Fusión por absorción:** una sociedad (**fusionante**) subsiste y absorbe a otra(s) (**fusionada(s)**),
+  que desaparece(n). Es la forma más común.
+- **Fusión por integración (o pura):** **todas** las sociedades desaparecen y nace una **nueva** que
+  recibe sus patrimonios.
+- **Escisión total:** la **escindente desaparece** y reparte **todo** su patrimonio entre dos o más
+  sociedades beneficiarias.
+- **Escisión parcial:** la **escindente subsiste** y solo **segrega una parte** de su patrimonio a una o
+  más beneficiarias.
+- **Sucesión universal:** transmisión **en bloque y automática** del patrimonio (activos, pasivos,
+  contratos) propia de la fusión y la escisión. No hay que transferir bien por bien.
+- **Sucesión particular:** transmisión **individual** de cada activo/derecho, propia del *asset deal*
+  (cada cosa con su formalidad y, a veces, consentimiento).
+- **Derecho de oposición de los acreedores:** facultad de los acreedores de **oponerse judicialmente** a
+  una fusión o escisión que perjudique su garantía, suspendiéndola hasta que se resuelva o se les pague/
+  garantice.
+- **Responsabilidad solidaria:** en la escisión, las sociedades beneficiarias (y, en su caso, la
+  escindente) **responden solidariamente** frente a los acreedores por las obligaciones, durante el plazo
+  legal, para que la división del patrimonio no los perjudique.
+- **Derecho de separación (*appraisal right*):** facultad del socio que **no estuvo de acuerdo** con una
+  decisión estructural relevante (como ciertas fusiones o cambios fundamentales) de **separarse** de la
+  sociedad y exigir el reembolso del valor de sus acciones.
+- **Neutralidad fiscal:** régimen por el cual una fusión o escisión, si cumple requisitos, **no se
+  considera enajenación gravada** (no genera impuesto inmediato), por tratarse de una reorganización y no
+  de una venta. El gran atractivo fiscal de estas figuras.
+- **Sustitución patronal:** en materia laboral, figura por la cual el nuevo titular de la empresa
+  **sustituye** al anterior como patrón, conservando los derechos de los trabajadores. Relevante para la
+  continuidad laboral en fusiones y *asset deals*.
+- **Change of control:** cláusula (vista en el Libro 2) que permite a una contraparte terminar o
+  renegociar un contrato si la empresa cambia de dueño. Determina la **continuidad** de los contratos según
+  la estructura.
+- **Carve-out:** segregación de una unidad o negocio de un grupo (típicamente vía escisión o *asset deal*)
+  para venderlo o independizarlo. Operación frecuente y técnicamente exigente.
+- **Holding (sociedad tenedora):** sociedad cuyo objeto principal es **poseer y controlar** las acciones
+  de otras sociedades (operativas). Pieza central de la organización de grupos.
+- **NewCo / vehículo de adquisición:** sociedad **creada específicamente** para realizar una adquisición
+  (típica en los LBO de *private equity*: la NewCo toma la deuda y compra/se fusiona con la *target*).
+
+Con este vocabulario fijado, entramos al **desarrollo absoluto**, donde diseccionamos cada estructura por
+dentro.
