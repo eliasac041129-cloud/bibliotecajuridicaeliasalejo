@@ -390,3 +390,94 @@ Fija estos conceptos; se usan en todo el libro y en la práctica diaria del M&A:
 
 Con este vocabulario fijado, entramos al **desarrollo absoluto**, donde diseccionamos cada estructura por
 dentro.
+
+## 14. Desarrollo absoluto
+
+Esta es la sección central. La desarrollamos en cinco bloques: **(A)** *share deal* vs. *asset deal* a
+fondo —la decisión más frecuente—; **(B)** la **fusión** —concepto, clases, proceso paso a paso y
+efectos—; **(C)** la **escisión** —concepto, clases, proceso y efectos—; **(D)** las **reestructuras y
+holdings** —cómo se combinan las figuras para reorganizar grupos—; y **(E)** los **criterios de elección**
+—los cuatro ejes que deciden la estructura óptima—. Estúdialos en orden: primero las dos formas básicas de
+adquirir, luego las dos grandes reorganizaciones societarias, después su combinación, y al final el
+método de decisión que lo integra todo.
+
+### 14.A · Share deal vs. asset deal (la decisión más frecuente del M&A)
+
+La primera y más común disyuntiva estructural es: ¿el comprador adquiere las **acciones** de la sociedad
+(*share deal*) o sus **activos** (*asset deal*)? Aunque en ambos casos el comprador termina controlando un
+negocio, las consecuencias jurídicas son **profundamente distintas**. Domina esta comparación: es la
+columna vertebral del trabajo transaccional.
+
+**Qué se adquiere y qué pasa con la persona jurídica.**
+- En el **share deal**, el objeto de la compra son las **acciones o partes sociales**. La **sociedad sigue
+  siendo la misma persona jurídica** —el mismo RFC, los mismos contratos, los mismos permisos, las mismas
+  cuentas bancarias—; lo único que cambia es **quién es su dueño**. El comprador "se pone los zapatos" del
+  vendedor como accionista.
+- En el **asset deal**, el objeto de la compra son **activos determinados** (una planta, maquinaria,
+  inventario, marcas, una cartera de clientes, una línea de negocio). La sociedad vendedora **subsiste** y
+  conserva lo que no vendió (incluidos, en principio, sus pasivos). El comprador adquiere **cosas**, no una
+  sociedad.
+
+**El pasivo: la diferencia capital.**
+- **Share deal: se heredan TODOS los pasivos**, conocidos y ocultos, porque se compra la sociedad entera
+  con su pasado. Una contingencia fiscal de hace tres años, un litigio que aún no estalla, una deuda
+  contingente por un aval: todo "viene incluido". Por eso el *share deal* exige **due diligence
+  exhaustiva** y un **blindaje contractual fuerte** (reps & warranties, indemnización, escrow) —la lección
+  del Libro 2—.
+- **Asset deal: se eligen los pasivos.** El comprador, en principio, adquiere **solo** los activos (y, en
+  su caso, los pasivos que **expresamente** acepte asumir), dejando los demás en la sociedad vendedora.
+  Esto permite **aislar el riesgo** de pasivos ocultos. **Pero hay excepciones importantes:** ciertos
+  pasivos **siguen al activo o al negocio** por mandato de la ley, con independencia de lo pactado —en
+  particular, **pasivos laborales** (sustitución patronal), **fiscales** (responsabilidad por adquisición
+  de negociación en marcha) y **ambientales** (responsabilidad por el sitio contaminado)—. Es decir: el
+  *asset deal* aísla **menos** de lo que el comprador ingenuo cree; el abogado debe conocer estas
+  excepciones legales para no vender una falsa sensación de seguridad.
+
+**La transmisión: sucesión particular vs. continuidad.**
+- **Share deal:** como la sociedad no cambia, sus **contratos y permisos continúan automáticamente** (no
+  hay que transferirlos uno por uno). **Excepción crítica:** las cláusulas de ***change of control***, que
+  permiten a la contraparte terminar o renegociar el contrato precisamente porque cambió el dueño (Libro
+  2). Salvo esas cláusulas, la continuidad es la gran ventaja del *share deal*.
+- **Asset deal:** cada activo y cada contrato debe transmitirse **individualmente** (**sucesión
+  particular**): los inmuebles con sus formalidades registrales, los créditos con notificación al deudor,
+  los contratos con **consentimiento de la contraparte** cuando sea necesario, la PI con sus registros,
+  los permisos —muchos de los cuales **no son transferibles** y obligan a tramitar nuevos—. Es más
+  **trabajoso, lento y con riesgo de pérdida** (¿y si una contraparte clave no consiente la cesión?).
+
+**La fiscalidad: a menudo decide.**
+- **Share deal:** suele generar un **único hecho gravable** —la ganancia del vendedor por la venta de sus
+  acciones—, con un tratamiento relativamente sencillo. El comprador, en cambio, **no actualiza** la base
+  fiscal de los activos de la sociedad (los "hereda" con su valor fiscal histórico), lo que puede ser una
+  desventaja a futuro.
+- **Asset deal:** puede generar impuestos sobre la **ganancia en la venta de cada activo**, **IVA** sobre
+  ciertos bienes, e impuestos locales sobre la transmisión de **inmuebles**; pero permite al comprador
+  **actualizar la base** de los activos adquiridos (depreciar sobre el valor de compra), lo que puede ser
+  ventajoso. El balance fiscal entre una y otra estructura es **caso por caso** y se decide con el asesor
+  fiscal —pero es, muy a menudo, **el factor determinante**—.
+
+**Quién prefiere qué (la dinámica de negociación).** Por regla general: el **vendedor** suele preferir el
+**share deal** (vende todo de un golpe, se desprende de los pasivos, suele tener mejor trato fiscal y no
+queda con una "cáscara" llena de obligaciones); el **comprador** suele preferir el **asset deal** (elige
+qué lleva, aísla pasivos, actualiza base fiscal). La estructura final es resultado de esa **tensión
+negociadora**, mediada por la fiscalidad, el riesgo detectado en la due diligence y la importancia de la
+continuidad de contratos y permisos.
+
+**Cuadro síntesis (memorízalo):**
+
+| Criterio | Share deal (acciones) | Asset deal (activos) |
+|---|---|---|
+| Qué se compra | La sociedad entera | Activos seleccionados |
+| Pasivos ocultos | **Se heredan todos** | **Se eligen** (con excepciones legales) |
+| Continuidad de contratos/permisos | Automática (salvo *change of control*) | Cesión individual / nuevos permisos |
+| Transmisión | No aplica (la sociedad es la misma) | Sucesión **particular** (bien por bien) |
+| Complejidad de ejecución | Menor | Mayor (cesiones, consentimientos) |
+| Fiscalidad | Un hecho gravable; sin *step-up* de base | Varios gravámenes; con *step-up* de base |
+| Lo prefiere | El **vendedor** (típicamente) | El **comprador** (típicamente) |
+| Pasivos que igual siguen al negocio | — | Laborales, fiscales, ambientales |
+
+**Conexión con la due diligence (Libro 2):** ahora ves con claridad por qué un **hallazgo** empuja la
+estructura. ¿La DD reveló pasivos ocultos grandes e inacotables? → empuja al **asset deal** (aislar). ¿La
+DD reveló que los contratos y permisos clave son intransferibles o tienen *change of control* hostil? →
+empuja al **share deal** o la fusión (continuidad). ¿La DD reveló un pasivo concreto y acotable? → puede
+quedarse en *share deal* con **indemnización especial** (no hace falta cambiar de estructura). El abogado
+de élite **conecta** el diagnóstico (DD) con la arquitectura (estructura) y con el blindaje (contrato).
