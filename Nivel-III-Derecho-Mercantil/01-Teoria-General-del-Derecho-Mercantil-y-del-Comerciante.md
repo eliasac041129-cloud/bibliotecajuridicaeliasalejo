@@ -787,3 +787,113 @@ EMPRESA (organización en marcha) → fondo de comercio (clientela, marca, contr
 - **Empresa:** *"empresa es la cosa; empresario es quien la mueve"*.
 - **Goodwill:** *"el negocio en marcha vale más que sus fierros"*.
 - **Comerciante:** *"persona habitual + toda sociedad mercantil"*.
+
+
+## 40. Resumen ejecutivo
+
+El Derecho Mercantil es **derecho privado especial**: nació de los usos de los comerciantes (la
+**lex mercatoria** medieval), se estatalizó y codificó (Código de Comercio), se especializó en un
+**archipiélago de leyes** (LGSM, LGTOC, LMV, concursos) y hoy se reinternacionaliza y digitaliza.
+Es **autónomo** —principios propios (celeridad, libertad de forma, onerosidad, buena fe
+profesional, relevancia de los **usos**), fuentes y jurisdicción propias— pero se apoya en el
+**civil como supletorio** (art. 2 C. Com.). La materia se delimita por el **acto de comercio**
+(art. 75, lista **enunciativa**), por el **comerciante** (art. 3: persona física habitual + toda
+**sociedad mercantil**, con obligaciones de registro, contabilidad y documentación) y,
+modernamente, por la **empresa** (organización profesional de capital, trabajo y dirección),
+categoría central del derecho mercantil contemporáneo.
+
+Para el abogado corporativo, este libro fija el **campo de juego**: saber qué es mercantil decide
+ley, jurisdicción, prescripción y formalismo; entender la **empresa** y el **fondo de comercio** (con
+su **goodwill**/aviamiento) es la base de la valuación y del *asset deal*; y dominar las **fuentes**
+(incluidos los usos y la lex mercatoria internacional) es esencial en contratos cross-border. Sobre
+este marco se montan las cuatro grandes instituciones del Nivel III —**sociedades, títulos de
+crédito, mercado de valores y concurso**—, todas facetas de la **empresa** y su financiamiento.
+Aquí empieza la formación del **especialista**.
+
+## 41. Checklist
+
+**Para calificar una operación:**
+- [ ] ¿Es **mercantil** (art. 75 / comerciante / absolutamente mercantil / conexión)?
+- [ ] ¿Qué **ley** aplica (especial → Código de Comercio → usos → civil supletorio)?
+- [ ] ¿Qué **jurisdicción, prescripción y prueba** rigen?
+- [ ] ¿Hay **usos** relevantes (Incoterms, prácticas bancarias)?
+
+**Para el comerciante/empresa (due diligence):**
+- [ ] ¿Está **inscrito** en el Registro Público de Comercio?
+- [ ] ¿Lleva **contabilidad** adecuada y conserva documentación?
+- [ ] ¿Cuál es su **forma** (S.A., S. de R.L., S.A.P.I.) y está regular?
+- [ ] ¿Cómo se compone su **fondo de comercio** y dónde está el **goodwill** (marca, clientela)?
+
+## 42. Bibliografía comentada
+
+- **Mantilla Molina, R., *Derecho Mercantil* (Porrúa).** El clásico mexicano; base conceptual
+  imprescindible para todo el Nivel III. **Empieza aquí.**
+- **Barrera Graf, J., *Instituciones de Derecho Mercantil*.** Visión moderna centrada en la
+  **empresa**; el complemento indispensable para pensar como abogado corporativo.
+- **Rodríguez Rodríguez, J., *Curso de Derecho Mercantil*.** Profundo y sistemático; útil para
+  títulos y sociedades.
+- **Garrigues, J., *Curso de Derecho Mercantil* (España).** Referencia hispana mayor; gran claridad.
+- **Asquini, A., "Perfiles de la empresa".** Lectura fundacional para entender la empresa como
+  categoría jurídica.
+- **Código de Comercio (arts. 1-75) y Constitución (arts. 5, 28, 73-X).** El derecho positivo base.
+
+## 43. Ruta hacia el siguiente libro
+
+Lo que acabas de aprender —el marco mercantil, el comerciante y, sobre todo, la **empresa**— será
+**indispensable para comprender** la institución que da forma jurídica a la empresa: la **sociedad
+mercantil**.
+
+- **Siguiente libro:** *[Nivel III · Libro 2] Sociedades Mercantiles (LGSM)* — la S.A., la S. de
+  R.L., la **S.A.P.I.**, su constitución, capital, órganos (asamblea, consejo, vigilancia),
+  accionistas y responsabilidad. Es el corazón del derecho corporativo y la base directa del M&A.
+- **Conexión de largo alcance:** la **empresa** y el **goodwill** de este libro reaparecen en
+  Valuación (Nivel V) y en la decisión **asset vs. share deal** (Nivel IV). Vuelve a las secciones
+  14.E y 20 cuando llegues allí.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque define **qué es y cómo se piensa el cliente**: una **empresa** que opera en el tráfico
+mercantil. Saber calificar la **mercantilidad** decide la ley, el tribunal y los plazos de cada
+operación; entender la **empresa** y el **fondo de comercio** es la base de la valuación (el
+**goodwill** es lo que explica que una empresa valga más que sus activos) y de la decisión
+estratégica **asset vs. share deal**; y dominar las **obligaciones del comerciante** (registro,
+contabilidad) es el primer capítulo de toda due diligence. Sin este marco, el abogado ve "contratos
+sueltos"; con él, ve **empresas y sistemas**, que es como piensa un asesor corporativo.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+> *"Para mí, lo primero no es la cláusula, es la **empresa**: qué hace, cómo está organizada, dónde
+> está su valor (marca, clientela, contratos, equipo). Pienso en términos de **fondo de comercio** y
+> **goodwill**, porque ahí está el precio. Luego califico la **mercantilidad** (qué ley y foro
+> aplican) y verifico lo básico del comerciante: que esté **bien constituido, inscrito, con
+> contabilidad confiable**. Un negocio rentable pero **informal** vale menos y es más riesgoso de
+> comprar, porque su valor no es defendible ni transmisible con limpieza. Y en lo internacional,
+> nunca olvido los **usos** (Incoterms, UCP) y el **arbitraje**: ese es el verdadero derecho del
+> comercio global."*
+
+## ✦ Errores que cuestan millones
+
+1. **Comprar un negocio informal sin estructurarlo.** Adquirir una empresa sin inscripción ni
+   contabilidad confiable expone a contingencias fiscales, laborales y de titularidad ocultas, y
+   destruye el **goodwill** (un negocio cuya operación no es transmisible con limpieza vale mucho
+   menos). *Prevención:* formalizar y ordenar **antes** de vender/comprar.
+2. **No proteger la marca y la clientela (el goodwill).** Vender o comprar un negocio sin tener la
+   **marca registrada** (IMPI) ni los contratos clave **cedibles** es pagar por un goodwill que se
+   puede evaporar. *Prevención:* asegurar la propiedad intelectual y la transmisibilidad de los
+   contratos.
+3. **Calificar mal la mercantilidad.** Litigar por la vía o el plazo equivocados (civil vs.
+   mercantil) puede hacer **prescribir** una acción o perder la **vía ejecutiva**. *Prevención:*
+   determinar la mercantilidad y sus consecuencias procesales desde el inicio.
+4. **Ignorar los usos en contratos internacionales.** No entender un Incoterm o una regla UCP puede
+   asignar mal el **riesgo y los costos** del transporte o del pago en una operación de comercio
+   exterior.
+
+---
+
+> *Cierre del Libro.* Has fijado el **campo de juego** del derecho de los negocios: la materia
+> mercantil, el comerciante y la empresa. Ahora estudiaremos la **forma jurídica por excelencia de
+> la empresa** —la sociedad mercantil—, donde nacen la S.A., los accionistas, el consejo y todo lo
+> que hará posible, más adelante, comprar y vender empresas. Entramos al corazón del Derecho
+> Corporativo.
