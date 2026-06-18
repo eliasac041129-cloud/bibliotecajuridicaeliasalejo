@@ -1241,3 +1241,150 @@ El FONDO COMPRA (M&A, L1-4; due diligence, L2; estructura, L3; LBO, L5)
 - **Cap table:** *"si está sucio, no hay ronda ni venta"*.
 - **Power law:** *"muchas semillas, un árbol gigante paga todo"*.
 - **Regla de oro:** *"el PE/VC es la síntesis del Nivel IV: comprar, crear valor, vender"*.
+
+## 40. Resumen ejecutivo
+
+El **private equity (PE)** y el **venture capital (VC)** son las formas de **inversión de capital privado**:
+fondos que reúnen dinero de inversionistas (los **LP**) y lo invierten —gestionados por el **GP**— en
+empresas que no cotizan, para hacerlas crecer y **venderlas con ganancia** en años. El **PE** invierte en
+empresas **maduras**, comprando el **control** (a menudo con deuda —el **LBO**—) y creando valor por
+mejora operativa, crecimiento, apalancamiento y *multiple expansion*. El **VC** invierte en **startups** en
+**rondas** sucesivas (semilla, Serie A, B...), tomando participaciones minoritarias y apostando al *power
+law* (pocos éxitos enormes pagan muchos fracasos). El fondo se estructura como **GP/LP** con el modelo
+"**2 y 20**" (comisión de gestión + *carried interest*) y un ciclo de vida de ~10 años; en México, los
+vehículos son los **CKD/CERPI** (para afores) y la **S.A.P.I.** (para la empresa invertida). La inversión
+se documenta con un **term sheet** y un **SHA especializadísimo** cuyas cláusulas —**preferencia de
+liquidación**, **antidilución**, **vetos**, **pro-rata**, **vesting de fundadores**, **drag/tag along**—
+protegen la inversión hasta la salida. El **cap table** mapea la propiedad, y las **salidas** (*trade
+sale*, *secondary*, **IPO**, redemption) realizan el retorno.
+
+La frase que lo explica **todo**: **el fondo entró pensando en cómo salir.** Su horizonte definido y su
+incentivo de retorno (el *carry*) explican cada decisión y cada cláusula —la preferencia (cobrar primero
+en ventas regulares), el drag along (vender el 100%), los vetos (proteger hasta el exit), el vesting
+(retener al equipo)—. Y la gran síntesis para tu perfil: el **PE/VC reúne todo el Nivel IV** —due
+diligence (L2), estructura (L3), documentación/SHA (L4), financiamiento/LBO (L5) y coinversión (L6)—,
+orientado por la lógica del inversionista que **compra para vender**. El gran círculo del M&A se cierra: el
+**exit del fondo es la compra de otro**, y por eso el fondo prepara la empresa para **pasar la due
+diligence** del próximo comprador —la misma que tú aprendiste a hacer en el Libro 2—. El abogado que domina
+el PE/VC ha integrado toda su formación y la aplica para los clientes más exigentes: es, en formación, el
+**especialista en operaciones corporativas complejas** que persigues.
+
+## 41. Checklist
+
+**Estructura del fondo (si asesoras al fondo):**
+- [ ] ¿**GP/LP** y vehículo (CKD/CERPI / *offshore*) bien estructurados? ¿LPA con comisiones (2y20),
+  hurdle, clawback, gobernanza, conflictos?
+- [ ] ¿Diseño **fiscal** del fondo y del *carry* con especialistas?
+
+**La inversión (term sheet y SHA):**
+- [ ] ¿**Valuación** (pre/post-money) y **porcentaje** claros? ¿Instrumento (preferentes / SAFE / nota)?
+- [ ] ¿**Preferencia de liquidación** (1x non-participating de mercado)? ¿**Antidilución** (weighted
+  average)?
+- [ ] ¿**Gobierno**: asientos, **vetos** acotados a lo estratégico, información, **pro-rata**?
+- [ ] ¿**Vesting** de fundadores justo (4 años + cliff, good/bad leaver, aceleración)?
+- [ ] ¿**Drag along / tag along / ROFR** y **registration rights** para la salida?
+- [ ] ¿Todo anclado en una **S.A.P.I.** (validez societaria)?
+
+**PE / LBO:**
+- [ ] ¿**Due diligence** (L2), **estructura** NewCo + fusión (L3), **LBO** con intercreditor y *committed
+  financing* (L5)? ¿**Asistencia financiera** resuelta?
+- [ ] ¿*Management equity plan* (vesting/incentivos a la dirección)?
+
+**Cap table y salida:**
+- [ ] ¿**Cap table** *fully diluted* limpio y documentado (SAFEs, opciones, convertibles)?
+- [ ] ¿Empresa **preparada para la salida** (gobierno limpio, contingencias resueltas) para pasar la due
+  diligence del comprador?
+
+## 42. Bibliografía comentada
+
+- **Brad Feld & Jason Mendelson, *Venture Deals*.** **Lectura imprescindible (práctica):** cómo funcionan
+  los *term sheets* de VC cláusula por cláusula, desde la óptica de fundadores e inversionistas.
+- **Documentación estándar NVCA (EE.UU.) y de la BVCA (Reino Unido).** Los modelos globales de documentos
+  de VC; el lenguaje común.
+- **Y Combinator — el SAFE y su documentación.** El instrumento estándar de las rondas semilla.
+- **Ley del Mercado de Valores (S.A.P.I., CKD/CERPI) y normativa de la CNBV/CONSAR.** El marco mexicano de
+  la empresa invertida y de los vehículos de los fondos.
+- **Doctrina y materiales de PE/LBO (finanzas corporativas).** La mecánica del apalancamiento, la creación
+  de valor, el IRR y los múltiplos.
+- **AMEXCAP (asociación mexicana de capital privado) y guías de la industria.** La práctica del PE/VC en
+  México.
+- **Jurisprudencia de Delaware sobre deberes fiduciarios en PE/VC.** Conflictos de interés y deberes de los
+  consejeros designados por el fondo.
+- ***Barbarians at the Gate* (Burrough & Helyar).** El relato del LBO de RJR Nabisco; entender la cultura,
+  el poder y los excesos del PE.
+
+## 43. Ruta hacia el siguiente libro
+
+Has llegado a la **cumbre del Nivel IV**: el PE/VC, donde todo lo aprendido —comprar, financiar, colaborar—
+se integra en la lógica del inversionista profesional. Solo falta el libro que **cierra el nivel** elevando
+la mirada de la operación a la **empresa como institución de poder y responsabilidad** en el largo plazo.
+
+- **Siguiente libro (cierra el Nivel IV):** *[Libro 8 · Gobierno corporativo avanzado, Compliance y ESG](./08-Gobierno-Corporativo-Avanzado-Compliance-y-ESG.md)* —
+  el gobierno corporativo de élite (consejos sofisticados, comités, deberes fiduciarios reforzados en
+  operaciones —Revlon/Unocal—), el **compliance** (programas de cumplimiento, anticorrupción —FCPA—,
+  prevención de lavado, líneas de denuncia) y el **ESG** (sostenibilidad, criterios ambientales, sociales
+  y de gobernanza que hoy condicionan la inversión y la reputación). Es la capa que da **legitimidad y
+  sostenibilidad** a todo lo demás.
+- **Conexión inmediata:** los fondos de PE/VC son hoy de los mayores impulsores del **gobierno corporativo
+  profesional** (lo instalan en sus empresas) y del **ESG** (sus LPs lo exigen). El **compliance** es lo
+  que protege a la empresa y a sus directivos en cada operación que has estudiado. El Libro 8 te dará el
+  marco que **legitima y protege** toda la práctica corporativa.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque los fondos de **PE y VC son los clientes más sofisticados, recurrentes y valiosos** del abogado
+corporativo de élite, y atenderlos significa estar en el **centro del *deal flow*** del mercado —ver y
+estructurar las operaciones más interesantes, una tras otra—. Para tu perfil, el PE/VC es donde **todo
+converge**: una operación de PE reúne due diligence, estructura, documentación, financiamiento y gobierno;
+una de VC, un SHA especializadísimo y una apuesta sobre el crecimiento. Dominar el PE/VC es dominar la
+**aplicación integrada** de toda tu formación, para los clientes que pagan por el mejor trabajo. Y es,
+además, un destino natural de carrera: muchos de los mejores abogados corporativos terminan asesorando a
+fondos de forma recurrente, como *general counsel* de un fondo, o pasando al lado de la inversión. El
+PE/VC es el motor que financia la innovación (VC) y profesionaliza las empresas (PE): entenderlo te conecta
+con **cómo se mueve el capital y se crea valor** en el mundo real.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+> *"Cuando represento a un fondo, la primera regla que le enseño a mis asociados es: **todo se explica
+> porque el fondo entró pensando en cómo salir**. No es un dueño que ama la empresa; es un gestor de
+> dinero ajeno con una fecha de salida y un *carry* que cobrar. Por eso, cuando negocio el SHA, mi brújula
+> es el **exit**: la preferencia de liquidación es su red de seguridad para la venta regular; el drag along
+> es su garantía de poder vender el 100%; los vetos protegen su inversión hasta que salga; el vesting
+> retiene al equipo que crea el valor que venderá. Cuando represento al **fundador**, mi trabajo es otro:
+> el VC necesita esas protecciones —sin ellas no hay capital—, así que **no las rechazo**; las **equilibro**.
+> Acepto la 1x non-participating y la weighted average (son de mercado), pero peleo a muerte por acotar los
+> vetos a lo estratégico, por un vesting con aceleración si lo despiden, y por una dilución que le deje
+> incentivo. Y en un PE/LBO, vivo en tres documentos a la vez: el SPA de la compra, el *facilities
+> agreement* de la deuda, y el SHA con la dirección —porque la operación es M&A + financiamiento +
+> gobierno, todo junto—. Y desde el día uno pienso en el día de la venta: preparo la empresa para que pase
+> la due diligence del próximo comprador. El abogado que domina el PE/VC no hace una cosa: hace **todas a
+> la vez**."*
+
+## ✦ Errores que cuestan millones
+
+1. **No entender la lógica de salida del fondo.** Negociar sin ver que cada cláusula protege la inversión
+   hasta el exit → ceder o pelear lo equivocado. *Prevención:* lee todo desde "entró pensando en cómo
+   salir".
+2. **Cap table sucio.** SAFEs sin convertir, promesas informales, opciones mal documentadas → hunde rondas
+   y ventas en la due diligence. *Prevención:* higiene constante del cap table *fully diluted*.
+3. **Ceder cláusulas agresivas (participating, full ratchet, vetos operativos, vesting sin aceleración).**
+   El abogado del fundador acepta lo que castiga desproporcionadamente. *Prevención:* aceptar lo de
+   mercado, pelear lo agresivo.
+4. **LBO que ignora la asistencia financiera o sobre-apalanca.** Estructura ilegal o empresa aplastada por
+   la deuda. *Prevención:* NewCo + fusión bien estructurada; apalancamiento prudente.
+5. **No preparar la salida.** Llegar al exit con gobierno sucio y contingencias que la due diligence del
+   comprador castiga, bajando el precio o matando el deal. *Prevención:* due diligence inversa desde antes.
+
+---
+
+> *Cierre del Libro 7.* Has subido a la **cumbre del Nivel IV**: el mundo del capital privado, donde el
+> inversionista profesional **compra para vender** y donde **todo** lo que aprendiste —due diligence,
+> estructura, documentación, financiamiento, coinversión— se integra en una sola lógica. Te llevas la frase
+> que lo explica todo —"*el fondo entró pensando en cómo salir*"— y la capacidad de ver una operación de
+> PE/VC como la síntesis del derecho corporativo. Ya manejas el repertorio completo del estructurador de
+> operaciones complejas: comprar, financiar, colaborar e invertir como un fondo. Solo falta la capa que da
+> **legitimidad y sostenibilidad** a todo: en el **Libro 8 · Gobierno Corporativo Avanzado, Compliance y
+> ESG** —que cierra el Nivel IV— aprenderás el marco que **protege y legitima** a la empresa y a quienes la
+> dirigen en cada operación que has estudiado.
