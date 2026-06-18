@@ -585,3 +585,113 @@ seguridad para los casos regulares) y por qué, a la vez, **apuesta al upside** 
 abogado deben entender esta lógica para negociar: ceder lo que protege al VC en los malos escenarios (donde
 de todas formas hay poco) y pelear lo que importa en los buenos (control, dilución razonable, vesting
 justo).
+
+### 14.D · El term sheet de inversión y el SHA (las protecciones del inversionista)
+
+Aquí está el **corazón documental** de la inversión de PE/VC, y donde se concentra el trabajo del abogado.
+La inversión se documenta con: un **term sheet** (las bases, mayormente no vinculante —eco del Libro 4—),
+los **documentos de la inversión** (contrato de suscripción/compra de acciones), y —lo más importante— un
+**SHA especializadísimo** (el convenio entre accionistas, validado por la S.A.P.I.) que contiene las
+**protecciones del inversionista**. Domina estas cláusulas: son las que definen el poder y el dinero.
+
+**1) La valuación y la estructura de la inversión.** Cuánto invierte el fondo, a qué **valuación**
+(pre/post-money), por qué **porcentaje**, y mediante qué instrumento (acciones **preferentes** de una nueva
+serie, suscripción primaria —dinero a la empresa— y/o secundaria —compra a socios existentes—).
+
+**2) La preferencia de liquidación (*liquidation preference*): la protección económica central.** El
+derecho del inversionista a **cobrar primero** en una venta o liquidación, antes que los ordinarios
+(fundadores). Es su **red de seguridad**. Variables:
+- **El múltiplo:** **1x** (recupera su inversión) es lo estándar y razonable; 2x o más es agresivo.
+- ***Non-participating*** (lo estándar y equilibrado): el inversionista elige lo que más le convenga —**o**
+  cobra su preferencia (su 1x) **o** convierte a ordinario y cobra su porcentaje—, pero **no ambos**.
+- ***Participating* ("double-dip", agresiva):** cobra su preferencia **y además** participa como ordinario
+  en el resto. Muy favorable al inversionista, castiga a los fundadores.
+- *Por qué importa:* en una venta **mediocre** (la empresa se vende por poco), la preferencia hace que el
+  inversionista **recupere lo suyo** mientras los fundadores reciben poco o nada; en una venta **excelente**,
+  el inversionista convierte y todos ganan. Es la cláusula que protege al VC en los escenarios regulares
+  (recuerda el *power law*).
+
+**3) La antidilución (*anti-dilution*): protección contra rondas a la baja.** Protege al inversionista si
+una **ronda futura** se hace a un precio **menor** que el que él pagó (un *down round*, señal de que la
+empresa se desvalorizó). Modalidades:
+- ***Weighted average* (promedio ponderado): la estándar y equilibrada.** Ajusta el precio de conversión
+  del inversionista de forma **proporcional** al tamaño del down round.
+- ***Full ratchet* (la agresiva):** ajusta el precio del inversionista **al nuevo precio más bajo**, como
+  si hubiera entrado a ese precio —castiga severamente a los fundadores—. Poco común y muy peleada.
+
+**4) Los derechos de gobierno (*protective provisions* / vetos y board).** El inversionista, aunque sea
+minoritario, se protege con:
+- **Asientos en el consejo (*board seats*):** uno o más consejeros (y a veces un *observer*).
+- **Materias reservadas / vetos (*protective provisions*):** decisiones que requieren su **consentimiento**
+  aunque no controle el consejo: vender la empresa, emitir más acciones, endeudarse, cambiar el giro,
+  modificar estatutos, aprobar el presupuesto, contratar/remover al CEO, hacer adquisiciones. Su
+  **protección de poder** clave.
+- **Derechos de información:** estados financieros, reportes, presupuesto, acceso.
+
+**5) Los derechos sobre futuras rondas y la propiedad.**
+- **Pro-rata / preemptive rights:** derecho a **invertir en rondas futuras** para mantener su porcentaje
+  (no diluirse) —importante para los buenos fondos, que quieren "doblar la apuesta" en sus ganadores—.
+- **ROFR / co-sale (tag along):** derechos preferentes y de acompañamiento en ventas de acciones (del SHA).
+
+**6) El vesting de fundadores (*founder vesting*): proteger el "capital humano".** Crucial y a veces
+malentendido. Las acciones del **fundador** se "**ganan**" (*vest*) con el **tiempo** (típicamente **4
+años**, con un ***cliff* de 1 año** —no gana nada el primer año, luego mensual—). ¿Por qué? Porque el
+inversionista invierte en la empresa **por su equipo fundador**; si un fundador **se va pronto**, no debe
+quedarse con todas sus acciones (sería injusto para los que se quedan y para el inversionista). Por eso:
+- **Good leaver / bad leaver:** el que se va "**bien**" (sin causa, por razones legítimas) conserva lo
+  *vested*; el que se va "**mal**" (incumpliendo, por causa) puede perder acciones o venderlas a descuento.
+- *El abogado del fundador* negocia que el vesting sea **justo** (reconocer tiempo ya trabajado —*vesting
+  acreditado*—, aceleración si lo despiden sin causa o si se vende la empresa —*single/double trigger
+  acceleration*—).
+
+**7) Otras cláusulas clave:** **drag along** (el inversionista/mayoría puede forzar la venta del 100% —su
+salida—), **tag along** (acompañamiento), **lock-up**, **no competencia** de los fundadores, **opciones**
+(put/call), y **registration rights** (derecho a exigir el registro de acciones para un IPO).
+
+**La idea integradora.** Observa que el SHA de una inversión de PE/VC es el **SHA del Libro 4 llevado a su
+máxima sofisticación**, todo orientado por la lógica del inversionista: **proteger la inversión hasta la
+salida y asegurar la salida misma**. Preferencia de liquidación (cobrar primero), antidilución (no
+desvalorizarse), vetos (controlar lo importante), pro-rata (seguir invirtiendo en los ganadores), vesting
+(retener al equipo), drag along (poder vender todo). Cada cláusula responde a "**entré pensando en cómo
+salir**". Dominar este term sheet es dominar el lenguaje en que se negocian las inversiones de capital
+privado.
+
+### 14.E · El cap table y las salidas (la propiedad y la realización del retorno)
+
+**El cap table (tabla de capitalización).** Es el **mapa de la propiedad** de la empresa: quién posee qué
+porcentaje, en qué tipo de acciones (ordinarias, preferentes de cada serie), más las opciones (ESOP) y los
+instrumentos convertibles (SAFE, notas) pendientes de convertir. El abogado de PE/VC **vive en el cap
+table**: cada ronda, cada opción, cada conversión lo **modifica**, y proyectar su evolución (el *cap table*
+"*fully diluted*" —como si todo convirtiera—) es esencial para entender quién controla y quién cobra qué.
+- **Por qué importa:** el cap table determina el **control** (quién tiene mayoría, quién tiene vetos), la
+  **dilución** (cómo cambia cada porcentaje en cada ronda), y el **reparto en la salida** (cuánto recibe
+  cada quien, aplicando las preferencias de liquidación). Un cap table "**sucio**" (mal documentado,
+  con promesas informales de equity, convertibles olvidados) es un **red flag** grave en la due diligence
+  (Libro 2) y puede hundir una ronda o una venta.
+- **El waterfall de la salida:** cuando la empresa se vende, el dinero se reparte en **cascada** según el
+  cap table y las preferencias: primero la **deuda**, luego las **preferencias de liquidación** de los
+  inversionistas (en orden de antigüedad, a veces), y al final los **ordinarios** (fundadores y empleados).
+  Calcular ese *waterfall* —quién recibe cuánto en distintos precios de venta— es trabajo fino del abogado.
+
+**Las salidas (*exit*): la realización del retorno.** Todo el capital privado existe **para esto**: el
+fondo invierte para **salir con ganancia**. Las vías:
+- **Trade sale (venta estratégica): la más común.** Vender la empresa a un **comprador estratégico** del
+  sector (vía un **M&A** —Libros 1-4—). El comprador paga por las sinergias. El **drag along** del SHA
+  permite al fondo **forzar** la venta del 100%. Aquí se cierra el círculo: la **salida del fondo es la
+  compra de otro** (todo lo que estudiaste de M&A se aplica, ahora del lado del vendedor).
+- **Secondary buyout:** vender a **otro fondo de PE** (el siguiente dueño que seguirá creando valor).
+  Frecuente cuando la empresa aún tiene recorrido pero el fondo actual debe salir (su plazo se acaba).
+- **IPO (oferta pública inicial):** sacar la empresa a la **bolsa** (régimen de la LMV —emisoras—). Es la
+  salida más prestigiosa (y rara), que da liquidez y valuación de mercado; los **registration rights** del
+  SHA permiten al fondo vender sus acciones tras el IPO.
+- **Recompra / redemption:** que la empresa o los socios **recompren** la participación del fondo (salida
+  pactada, típica si no hay venta ni IPO en el horizonte —de ahí las opciones *put*—).
+
+**La preparación de la salida (la due diligence inversa).** Un buen fondo —y su abogado— **preparan la
+empresa para venderse** desde mucho antes: gobierno corporativo limpio, contratos en orden, contingencias
+resueltas, cap table claro, finanzas auditadas. ¿Por qué? Porque el comprador hará **due diligence** (Libro
+2), y todo lo que encuentre **mal** bajará el precio o matará el deal. Aquí se cierra el gran círculo del
+Nivel IV: **el fondo, que entró pensando en cómo salir, prepara la empresa para que pase la due diligence
+del próximo comprador** —la due diligence que tú aprendiste a hacer en el Libro 2, ahora vista desde el lado
+del vendedor que se prepara para ella—. Todo el M&A es un ciclo, y el PE/VC lo recorre completo: comprar,
+crear valor, vender. El abogado que lo entiende ha integrado **toda** su formación.
