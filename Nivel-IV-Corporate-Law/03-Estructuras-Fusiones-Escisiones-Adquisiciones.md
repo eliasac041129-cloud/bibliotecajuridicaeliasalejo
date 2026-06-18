@@ -1303,3 +1303,154 @@ Fondo PE → crea NEWCO → NewCo recibe CAPITAL + DEUDA
 - **Oposición de acreedores:** *"Fusión, 3 meses; Escisión, 45 días"*.
 - **Regla de oro:** *"no hay estructura mejor; hay estructura óptima para cada caso"*.
 - **Antiabuso:** *"sin razón de negocio, no hay estructura que aguante"*.
+
+## 40. Resumen ejecutivo
+
+Toda operación de M&A debe **encarnar en una estructura jurídica**, y esa elección no es un tecnicismo:
+determina qué se adquiere, qué pasivos se heredan, si los contratos y permisos continúan, cuántos
+impuestos se pagan y qué protecciones tienen acreedores y minorías. Hay cuatro grandes estructuras. El
+**share deal** compra las **acciones** —la sociedad entera, con **todos** sus pasivos (conocidos u
+ocultos) y con **continuidad automática** de contratos y permisos (salvo *change of control*)—. El **asset
+deal** compra **activos seleccionados** —permite **aislar** pasivos, pero exige transmisión **individual**
+de cada bien y contrato, y ciertos pasivos (laborales, fiscales, ambientales) **siguen al negocio** por
+mandato legal—. La **fusión** **combina** dos o más sociedades en una (por absorción o por integración),
+con **sucesión universal** del patrimonio. La **escisión** **divide** una sociedad (total o parcial),
+también por sucesión universal del bloque segregado, con protección de acreedores vía **oposición** y
+**responsabilidad solidaria**.
+
+El rasgo técnico que distingue a las reorganizaciones societarias (fusión, escisión) del asset deal es la
+**sucesión universal**: el patrimonio pasa **en bloque y automáticamente**, sin ceder bien por bien —lo
+que las vuelve ideales para los *carve-outs* y las integraciones—. Y el arte del abogado está en
+**combinar** las figuras (escindir y luego vender; crear una NewCo y fusionarla; armar holdings) para
+construir la arquitectura que resuelve el problema. La **fiscalidad** (neutralidad vs. step-up) suele ser
+el factor decisivo, y toda reorganización exige **razón de negocio** real para resistir el escrutinio
+**antiabuso**.
+
+El método que integra el libro son **los cuatro ejes** —**riesgo, continuidad, fiscalidad y
+autorizaciones**—: no existe una estructura "mejor" en abstracto, sino una **óptima para cada operación**,
+que equilibra esos ejes a la luz del objetivo de negocio y de los hallazgos de la due diligence. El
+abogado que domina ese equilibrio —y que sabe **diseñar y ejecutar** la arquitectura, no solo
+describirla— es quien de verdad **arma deals**. Con este libro tienes el dominio técnico de las
+estructuras; en el Libro 4 aprenderás a **documentarlas**.
+
+## 41. Checklist
+
+**Diseño de la estructura:**
+- [ ] ¿Cuál es el **objetivo de negocio** (comprar todo/parte, combinar, separar, reorganizar, preparar
+  venta)?
+- [ ] ¿Qué dicen los **cuatro ejes** —riesgo, continuidad, fiscalidad, autorizaciones— para este caso?
+- [ ] ¿La estructura es **share deal, asset deal, fusión, escisión** o una **combinación**? ¿Por qué?
+- [ ] ¿Integraste al **asesor fiscal** desde el diseño? ¿Hay neutralidad disponible? ¿Step-up?
+- [ ] ¿La reorganización tiene **razón de negocio** y sustancia (antiabuso)? ¿Está documentada?
+
+**Ejecución (según la figura):**
+- [ ] **Share deal:** ¿transmisión válida de acciones (endoso, libro de registro)? ¿*Change of control* en
+  contratos clave → consentimientos?
+- [ ] **Asset deal:** ¿identificación precisa de activos y pasivos asumidos? ¿Cesiones y consentimientos?
+  ¿Permisos transferibles o nuevos? ¿Pasivos que siguen al negocio (laboral/fiscal/ambiental)?
+- [ ] **Fusión:** ¿acuerdo en asamblea extraordinaria de cada sociedad? ¿Inscripción y publicación?
+  ¿Plazo de **3 meses** o pago/garantía a acreedores? ¿Relación de canje? ¿Derecho de separación?
+- [ ] **Escisión:** ¿asamblea con mayoría reforzada? ¿Contenido del art. 228 Bis (reparto de activos/
+  pasivos/capital)? ¿Publicación? ¿Plazo de **oposición 45 días**? ¿Responsabilidad solidaria? ¿Reparto
+  de acciones y derecho de separación?
+
+**Autorizaciones y cierre:**
+- [ ] ¿Notificación a **COFECE** / autorización **sectorial** / límites de **inversión extranjera**?
+- [ ] ¿Calendario realista considerando plazos de oposición y autorizaciones?
+- [ ] ¿La estructura está **documentada** en el contrato correcto (SPA / APA / convenio de fusión /
+  proyecto de escisión)?
+
+## 42. Bibliografía comentada
+
+- **Ley General de Sociedades Mercantiles (arts. 222-226 y 228 Bis).** **Lectura imprescindible:** el
+  derecho positivo de la fusión y la escisión en México (proceso, oposición, solidaridad). Estúdialo con
+  el texto vigente en la mano.
+- **Ley del Impuesto sobre la Renta y Código Fiscal de la Federación (reorganizaciones y norma
+  antiabuso).** Los requisitos de **neutralidad fiscal** y la exigencia de **razón de negocio**: el eje
+  que a menudo decide la estructura.
+- **Doctrina societaria y mercantil mexicana (sociedades mercantiles).** El marco conceptual de las
+  modificaciones estructurales y de la protección de acreedores y socios.
+- **DGCL de Delaware y tratados de *corporations* (EE.UU.).** Las fusiones triangulares y los *appraisal
+  rights*; vocabulario imprescindible del M&A internacional.
+- **Directivas de la UE sobre modificaciones estructurales (incluidas transfronterizas).** El modelo
+  armonizado del civil law europeo.
+- **OCDE — BEPS y sustancia económica.** El marco antiabuso internacional para reorganizaciones
+  transfronterizas.
+- **Manuales de *deal structuring* (Practical Law, materiales de despachos).** El "cómo" práctico de
+  combinar figuras para carve-outs, LBOs y reorganizaciones.
+
+## 43. Ruta hacia el siguiente libro
+
+Ya sabes **qué arquitectura** usar y **cómo ejecutarla**. El siguiente paso es **documentarla**: plasmar
+la operación en los contratos que la hacen vinculante y que asignan el riesgo entre las partes.
+
+- **Siguiente libro:** *[Libro 4 · Documentación: Term Sheet, SPA, APA, SHA](./04-Documentacion-Term-Sheet-SPA-APA-SHA.md)* —
+  el dominio cláusula por cláusula de los contratos del M&A: el **Term Sheet/LOI**, el **SPA** (Share
+  Purchase Agreement) con sus *representations & warranties*, *covenants*, condiciones, indemnización,
+  MAC y *disclosure schedules*; el **APA** (Asset Purchase Agreement) para los asset deals; y el **SHA**
+  (Shareholders Agreement / convenio de accionistas) con *drag along*, *tag along*, derechos de veto y
+  gobierno. Es donde **todo** lo aprendido se convierte en texto vinculante.
+- **Conexión inmediata:** cada estructura de este libro tiene **su** documento —share deal → SPA; asset
+  deal → APA; fusión → convenio de fusión; escisión → proyecto de escisión; entrada de socios/inversionistas
+  → SHA—. Y los hallazgos de la due diligence (Libro 2), que viste cómo empujan la estructura (Libro 3),
+  se traducen ahora en **cláusulas concretas** (Libro 4). Los tres libros forman una cadena: **investigar
+  → estructurar → documentar**.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque la estructura es **el núcleo del trabajo de ingeniería jurídica** del abogado de M&A, y donde más
+se distingue del litigante o del generalista. Cualquiera puede documentar una compraventa de acciones;
+pero **diseñar** la arquitectura de una operación compleja —reorganizar un grupo, aislar un pasivo,
+preparar un carve-out, armar el vehículo de un LBO, ordenar una sucesión familiar— de forma que minimice
+riesgo e impuestos y preserve la continuidad del negocio, es trabajo de **alto valor** que solo hacen
+quienes dominan las estructuras a fondo. Además, la decisión de estructura **crea o destruye más valor**
+que casi cualquier cláusula: una estructura mal elegida cuesta millones en impuestos o pasivos heredados
+que ningún contrato repara. El abogado que piensa la estructura **primero** —y que sabe combinar fusión,
+escisión, share/asset deal y holdings como piezas de un mismo tablero— es el que las empresas y los fondos
+buscan para sus operaciones más importantes.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+> *"Antes de redactar una sola cláusula, dibujo la **estructura** en una hoja en blanco: cajas y flechas,
+> quién compra qué, qué se queda dónde. Y me hago cuatro preguntas en orden. Primero, **riesgo**: ¿hay
+> algún pasivo que mi cliente NO deba tocar ni con un palo? Si lo hay, lo aíslo —asset deal, o escindo lo
+> sano y vendo eso—. Segundo, **continuidad**: ¿qué contratos y permisos no pueden perderse, y se
+> transfieren fácil? Si la respuesta es 'son críticos y difíciles de mover', voy a share deal o fusión,
+> donde todo pasa en bloque. Tercero —y esto es donde gano o pierdo el deal—, llamo a mi **fiscalista** y
+> diseñamos juntos: ¿hay neutralidad en una fusión o escisión?, ¿conviene el step-up de un asset deal?,
+> ¿quién absorbe qué impuesto? Cuarto, **autorizaciones**: ¿COFECE?, ¿regulador sectorial?, ¿cuánto tiempo
+> me comen los plazos de oposición? Casi nunca uso una figura sola: la magia está en **combinarlas** —
+> escindo y luego vendo acciones, o creo una NewCo y la fusiono—. Y jamás monto un esquema sin **razón de
+> negocio** real: un diseño elegante sin sustancia es una bomba de tiempo. La estructura óptima no es la
+> más ingeniosa; es la que sirve al objetivo del cliente con el menor riesgo, el menor impuesto y la mayor
+> continuidad."*
+
+## ✦ Errores que cuestan millones
+
+1. **Heredar un pasivo evitable por elegir mal la estructura.** Hacer un share deal "por costumbre" y
+   recibir una contingencia fiscal o ambiental que un asset deal o una escisión previa habrían aislado.
+   *Prevención:* aplicar los cuatro ejes; aislar el riesgo alto e inacotable.
+2. **Creer que el asset deal aísla de todo y olvidar los pasivos que siguen al negocio.** Recibir
+   pasivos **laborales, fiscales o ambientales** que la ley pega al activo pese al contrato. *Prevención:*
+   mapear las excepciones legales y reforzar con reps e indemnización.
+3. **Perder un contrato o permiso clave por el *change of control* o por la intransferibilidad.** Asumir
+   continuidad que no existe. *Prevención:* identificarlo en la DD; consentimientos como condición al
+   closing; elegir la estructura que preserva el activo.
+4. **Diseñar sin el fiscalista y disparar impuestos innecesarios.** Ignorar la neutralidad disponible o
+   gatillar gravámenes evitables. *Prevención:* fiscalista desde el **diseño**, no al final.
+5. **Reorganización sin razón de negocio (abuso).** Esquema artificial recaracterizado por la autoridad,
+   con impuestos, multas y daño reputacional. *Prevención:* sustancia económica real y propósito de
+   negocio documentado.
+
+---
+
+> *Cierre del Libro 3.* Ya dominas las **arquitecturas de la transacción**: comprar acciones o activos,
+> fusionar, escindir, y combinarlas en reorganizaciones y holdings; conoces su proceso en la LGSM, sus
+> protecciones de acreedores y minorías, sus efectos fiscales y, sobre todo, el método de los **cuatro
+> ejes** para elegir la óptima. Has pasado de **conocer** las estructuras (Libro 1) a **diseñarlas y
+> ejecutarlas**. Con la investigación (Libro 2) y la estructuración (Libro 3) en tu poder, falta convertir
+> todo en **texto vinculante**: avanzamos al **Libro 4 · Documentación**, donde aprenderás, cláusula por
+> cláusula, el Term Sheet, el SPA, el APA y el SHA —el lenguaje en el que se escriben los deals—. La cadena
+> del M&A se completa: **investigar → estructurar → documentar**.
