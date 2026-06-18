@@ -452,3 +452,94 @@ adelantan lo que te deben), la **carta de crédito** (el banco paga por ti al ex
 documentos) y el **fideicomiso** (pones bienes o flujos "en una caja fuerte" manejada por un banco,
 para garantizar o pagar). Todo este libro es el **sistema circulatorio del dinero y el crédito** en
 la economía.
+
+
+## 16. Ejemplos simples
+
+1. **Autonomía.** A le vende mercancía defectuosa a B, quien firma un pagaré. A endosa el pagaré a C
+   (tercero de buena fe). B **no puede oponer a C** el defecto de la mercancía (excepción personal
+   contra A): debe pagarle a C y luego reclamar a A. Esa es la **autonomía** (art. 8).
+2. **Literalidad.** Un pagaré dice "$50,000". El beneficiario alega que "en realidad se acordaron
+   $80,000". Frente al título, vale **lo escrito**: $50,000.
+3. **Vía ejecutiva.** El deudor no paga un pagaré vencido. El tenedor demanda por la **vía ejecutiva
+   mercantil**: embarga bienes desde el inicio, sin discutir el negocio de fondo.
+4. **Aval autónomo.** Un avalista garantiza un pagaré que resulta nulo porque el suscriptor era
+   incapaz (vicio de fondo del avalado). El avalista **igual responde** (art. 114: el aval vale aun
+   si la obligación avalada es nula —salvo vicio de **forma** del propio título—).
+5. **Endoso en procuración.** Una empresa endosa "en procuración al cobro" sus pagarés a un
+   despacho: el despacho puede **cobrar** pero no es dueño de los títulos.
+
+## 17. Ejemplos complejos
+
+1. **Pagaré en garantía y abstracción.** Un crédito bancario se documenta con un **pagaré** y se
+   garantiza con **hipoteca**. El banco endosa el pagaré (lo descuenta) a un tercero. El deudor, al
+   ser demandado por el tercero, intenta oponer que "el banco no le entregó todo el crédito"
+   (excepción del negocio subyacente). Frente al tercero de buena fe, esa excepción **no procede**
+   (autonomía/abstracción, art. 8); el deudor paga y reclama al banco. Lección: el pagaré
+   **desconecta** el cobro del negocio de fondo.
+2. **Cadena de endosos rota (legitimación).** Un pagaré llega al actor con una cadena de endosos
+   **interrumpida** (falta un eslabón). El demandado opone **falta de legitimación** (art. 8): el
+   actor no está legitimado porque la cadena no es regular. Lección: verificar la cadena de endosos
+   es esencial antes de demandar.
+3. **Cheque sin fondos.** Un proveedor recibe un cheque que rebota por falta de fondos. Tiene la
+   **acción cambiaria** (vía ejecutiva) más, eventualmente, responsabilidad **penal** del librador
+   (fraude). Lección: el cheque es pago, no crédito; librarlo sin fondos tiene consecuencias graves.
+4. **Estructura de project finance con fideicomiso.** Una carretera de cuota se financia: los
+   **peajes** futuros se afectan a un **fideicomiso de fuente de pago**; el fideicomiso recibe los
+   flujos, paga primero a los bancos (servicio de la deuda) y entrega el remanente al concesionario.
+   Si hay incumplimiento, el fideicomiso ejecuta ágilmente. Lección: el fideicomiso permite
+   **blindar flujos** y dar ejecución rápida —el corazón del financiamiento de infraestructura—.
+
+## 18. Casos reales (jurisprudencia y operaciones estilizadas)
+
+- **Excepciones oponibles (art. 8):** los tribunales reiteran que frente a la acción cambiaria
+  **solo** proceden las excepciones del art. 8, protegiendo al tenedor de buena fe; no se opone el
+  negocio causal a terceros.
+- **Requisitos del pagaré (art. 170):** la falta de un requisito esencial (p. ej., la promesa
+  incondicional, el lugar, la firma) puede hacer que el documento **no valga** como título de
+  crédito (aunque pueda valer como prueba de un crédito ordinario).
+- **Usura en títulos (intereses):** la SCJN extendió el **control de usura** (Primera Sala, art.
+  21.3 CADH) a los intereses pactados en **pagarés**: el juez puede analizarlos de oficio y
+  **reducirlos** si son notoriamente excesivos, aun en la vía ejecutiva.
+- **Pagaré en blanco:** validez de su llenado conforme a lo convenido; riesgos del abuso en su
+  integración (criterios sobre la carga de la prueba).
+
+> *Nota de método (Manifiesto XI.5):* verificar la vigencia y localización de los criterios; se
+> exponen por su valor formativo.
+
+## 19. Casos empresariales
+
+- **Documentar ventas a crédito:** la empresa hace firmar **pagarés** a sus clientes para tener vía
+  ejecutiva si no pagan.
+- **Liquidez vía descuento/factoraje:** la empresa **descuenta** sus pagarés o cuentas por cobrar
+  para obtener efectivo inmediato.
+- **Líneas de crédito (apertura de crédito):** financiamiento revolvente del capital de trabajo,
+  documentado con pagarés y, a veces, garantizado.
+- **Comercio exterior:** uso de **cartas de crédito** para importar/exportar con seguridad de pago.
+
+## 20. Casos corporativos (en transacciones)
+
+- **Financiamiento de adquisición (acquisition finance):** el crédito que paga la compra se documenta
+  con **pagarés** (vía ejecutiva) y se garantiza con prenda, hipoteca y **fideicomiso**; el
+  fideicomiso de fuente de pago capta los flujos de la *target* para el servicio de la deuda.
+- **Pagarés en el SPA:** parte del precio diferido o el *earn-out* puede documentarse con pagarés
+  (dando al vendedor vía ejecutiva); el **escrow** puede instrumentarse vía fideicomiso.
+- **Due diligence de pasivos:** revisar los **títulos** suscritos por la *target* (pagarés, avales
+  otorgados) —obligaciones potencialmente ejecutivas— es parte de la due diligence financiera.
+- **Garantías cambiarias intragrupo:** avales y pagarés entre sociedades del grupo que refuerzan el
+  crédito (con cuidado del interés social y el fraude de acreedores — Libro 4 Nivel II).
+
+## 21. Casos internacionales
+
+- **Cartas de crédito y UCP 600:** las cartas de crédito documentarias se rigen por las **Reglas y
+  Usos Uniformes (UCP 600)** de la CCI: estándar global del comercio exterior; el banco paga contra
+  **documentos conformes**, con independencia del contrato subyacente (principio de **autonomía** de
+  la carta de crédito).
+- **Garantías a primera demanda (URDG 758):** garantías bancarias autónomas internacionales.
+- **Ley uniforme de Ginebra (letra de cambio y pagaré):** base de la armonización del derecho
+  cambiario en muchos países (México siguió esa influencia vía la doctrina italiana).
+- **Convención UNCITRAL sobre letras internacionales y pagarés:** intento de uniformar los títulos
+  en el comercio internacional.
+- **Desmaterialización y mercado de valores:** los **valores** internacionales se manejan
+  desmaterializados (anotaciones en cuenta, depositarios centrales como Indeval/DTC): la lógica del
+  título de crédito aplicada a escala masiva y electrónica (antesala de la LMV, Libro 5).
