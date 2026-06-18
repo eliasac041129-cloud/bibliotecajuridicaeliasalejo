@@ -411,3 +411,125 @@ Fija este vocabulario; es el de la negociación profesional:
   firme).
 
 Con este vocabulario, entramos al **desarrollo absoluto**.
+
+## 14. Desarrollo absoluto
+
+Esta es la sección central. La desarrollamos en cinco bloques: **(A)** el **marco analítico** (intereses,
+BATNA, punto de reserva, ZOPA —la "geometría" de toda negociación—); **(B)** **crear vs. reclamar valor**
+(las dos tareas y su dilema); **(C)** la **preparación y el método de Harvard** (donde se gana la
+negociación); **(D)** **poder, psicología y tácticas** (el anclaje, los sesgos, las emociones, las tácticas
+duras y sus defensas); y **(E)** el **cierre y la negociación en operaciones** (cómo se cierra y cómo se
+negocian los deals del Nivel IV). Estúdialos en orden: primero la geometría, luego las dos tareas, después
+cómo prepararse, las herramientas, y la aplicación.
+
+### 14.A · El marco analítico (intereses, BATNA, punto de reserva, ZOPA)
+
+Toda negociación, por compleja que parezca, tiene una **geometría** subyacente. Dominarla es el primer paso
+del negociador profesional —porque te permite **ver** lo que el negociador intuitivo no ve—.
+
+**Intereses vs. posiciones (la distinción que lo cambia todo).** La **posición** es lo que una parte
+**dice que quiere** (su demanda concreta); el **interés** es la **necesidad, deseo o preocupación**
+subyacente que explica esa posición. El negociador novato pelea sobre **posiciones** (regatea cifras); el
+experto explora **intereses** (pregunta "**¿por qué?**" y "**¿para qué?**"). ¿Por qué importa tanto?
+- Porque **detrás de una posición suele haber varios intereses**, y **detrás de un interés, varias
+  soluciones**. Si solo peleas la posición ("$100 vs. $80"), el espacio es unidimensional (suma cero); si
+  exploras intereses ("necesito liquidez ya" vs. "me preocupa el riesgo"), aparecen soluciones creativas
+  (un pago escalonado, una garantía, un *earn-out*) que satisfacen a ambos.
+- Porque los intereses pueden ser **compatibles** aunque las posiciones choquen (como la naranja: ambos la
+  querían, pero por razones distintas y conciliables).
+*Técnica:* ante cada posición, pregunta (o hipotetiza) **el interés** detrás. Distingue intereses
+**sustantivos** (dinero, tiempo, riesgo), **de relación** (confianza, reputación) y de **proceso** (sentir
+que se le trató con justicia y respeto).
+
+**El BATNA (tu verdadero poder).** El ***Best Alternative To a Negotiated Agreement*** es **qué harás si NO
+hay acuerdo** —tu mejor opción fuera de esta mesa—. Es el concepto más importante de la negociación, por
+tres razones:
+- **Es la fuente real de tu poder.** No negocias con fuerza por ser grande o agresivo, sino por tener una
+  **buena alternativa**. Quien puede **levantarse** y estar bien (buen BATNA) manda; quien **necesita** el
+  acuerdo (mal BATNA) está a merced del otro.
+- **Es tu estándar de decisión.** No aceptes **ningún** acuerdo peor que tu BATNA (si lo haces, estás peor
+  que sin negociar). Tu BATNA define tu **punto de reserva** (el peor acuerdo aceptable).
+- **Se puede mejorar.** La forma más poderosa de fortalecer tu posición es **mejorar tu BATNA antes de
+  sentarte**: conseguir otro comprador, otra oferta, otra opción. Y, lícitamente, **debilitar o conocer**
+  el BATNA del otro.
+*Regla de oro:* **antes de cualquier negociación importante, identifica tu BATNA, mejóralo si puedes, y
+estima el BATNA del otro.** El que conoce ambos BATNAs ve el campo de juego.
+
+**El punto de reserva (*walk-away*).** Es el **peor acuerdo que aceptarías** —el punto exacto en que te
+resulta indiferente cerrar o irte a tu BATNA—. Para un comprador, el **precio máximo** que pagaría; para un
+vendedor, el **mínimo** que aceptaría. Definir tu punto de reserva **antes** de negociar (con frialdad,
+lejos de la presión de la mesa) te protege de cerrar un mal trato por el calor del momento. **Nunca reveles
+tu punto de reserva** (es tu información más valiosa) y **trata de estimar el del otro**.
+
+**La ZOPA (zona de posible acuerdo).** Es el **rango** entre el punto de reserva de una parte y el de la
+otra —los acuerdos que dejan a **ambas** mejor que su alternativa—. *Ejemplo:* si el comprador pagaría
+hasta 100 (su reserva) y el vendedor aceptaría desde 70 (su reserva), la **ZOPA es 70-100**: cualquier
+precio ahí deja a ambos mejor que no cerrar. La negociación distributiva decide **dónde dentro de la ZOPA**
+se cierra (más cerca de 70 gana el comprador; de 100, el vendedor).
+- **Si los puntos de reserva NO se solapan, NO hay ZOPA** (el comprador no paga más de 60 y el vendedor no
+  baja de 80): **no hay acuerdo posible**, y forzarlo sería un error (mejor irse al BATNA). Reconocer
+  cuándo **no hay ZOPA** —y retirarse— es tan importante como cerrar cuando la hay.
+- **La creación de valor agranda la ZOPA:** al encontrar intercambios que benefician a ambos, se crea
+  excedente que puede convertir un "no hay trato" en un acuerdo posible.
+
+**Cómo se conecta todo:** los **intereses** te dicen qué buscan realmente las partes (y dónde crear valor);
+el **BATNA** define el poder y el punto de reserva de cada uno; la **ZOPA** es el espacio donde el acuerdo
+es posible. El negociador profesional **mapea** esta geometría antes de hablar de cifras —y por eso negocia
+con una claridad que el regateador intuitivo nunca alcanza—.
+
+### 14.B · Crear valor vs. reclamar valor (las dos tareas y su dilema)
+
+El corazón estratégico de la negociación es entender que tiene **dos tareas distintas** —a menudo
+simultáneas y en tensión— y saber **manejar ambas**. Confundirlas es el error más común y costoso.
+
+**Reclamar valor (negociación distributiva — "repartir el pastel").** Es la dimensión de **suma cero**:
+hay un valor dado y se trata de **repartirlo** (lo que uno gana, el otro lo pierde —el precio de una
+compraventa simple, una vez fijado todo lo demás—). Sus herramientas:
+- **El anclaje:** la **primera oferta** ejerce un poderoso efecto de **ancla** (sesgo cognitivo: las
+  ofertas posteriores giran en torno a ella). Hacer una primera oferta **ambiciosa pero justificable**
+  suele ser ventajoso (mueve el punto medio a tu favor) —salvo cuando tienes **mucha menos información**
+  que el otro (ahí el ancla puede revelar tu ignorancia)—.
+- **Las concesiones:** ceder en **pasos pequeños y decrecientes**, con **reciprocidad** (cede solo si el
+  otro cede), señalando que cada concesión **cuesta** (para que el otro la valore). Conceder rápido o en
+  grandes saltos **proyecta debilidad** y mala información.
+- **La paciencia y la información:** no mostrar urgencia (la urgencia se explota), proteger tu punto de
+  reserva, sondear el del otro.
+
+**Crear valor (negociación integradora — "agrandar el pastel").** Es la dimensión de **suma positiva**:
+encontrar acuerdos que dejen a **ambos** mejor de lo que un simple reparto permitiría. ¿Cómo es posible?
+Porque las partes **valoran las cosas de forma distinta** y tienen **intereses diferentes**, lo que permite
+**intercambios** mutuamente beneficiosos:
+- **Intercambios basados en prioridades distintas (*logrolling*):** cede en lo que a ti te importa **poco**
+  pero al otro le importa **mucho**, a cambio de que él ceda en lo que a ti te importa mucho y a él poco.
+  Ambos ganan. *(Ej.: el vendedor quiere precio alto pero no le urge cobrar; el comprador quiere pagar a
+  plazos y no le importa pagar un poco más —se acuerda precio alto con pago diferido: ambos satisfechos.)*
+- **Aprovechar diferencias:** de **valoración** (cada uno valora distinto un activo), de **expectativas**
+  (un *earn-out* resuelve el desacuerdo sobre el futuro —si crees que vale más, demuéstralo—), de
+  **actitud ante el riesgo** (quien teme el riesgo lo transfiere a quien lo tolera, vía garantías o
+  seguros), de **tiempo** (uno prefiere ahora, otro después).
+- **Añadir temas e intereses:** ampliar la negociación más allá del precio (servicios, plazos, exclusividad,
+  futuras operaciones) para crear más dimensiones de intercambio.
+*Herramienta:* explorar **intereses**, **compartir información** (selectivamente), **generar muchas
+opciones** antes de decidir, y preguntar "**¿qué pasaría si...?**".
+
+**El dilema del negociador (la tensión entre ambas).** Aquí está la dificultad central: **crear valor**
+requiere **apertura** (compartir información sobre tus intereses y prioridades para encontrar intercambios),
+pero **reclamar valor** favorece la **reserva** (ocultar tu punto de reserva, exagerar, presionar). Si te
+abres demasiado (para crear valor), te vuelves vulnerable a que el otro **reclame** todo el valor creado; si
+te cierras demasiado (para reclamar), **matas** la creación de valor y dejas dinero sobre la mesa. El **arte
+del negociador experto** es manejar esta tensión:
+- **Crea valor primero, reclama después** (en lo posible): explora intereses y agranda el pastel antes de
+  pelear por el reparto.
+- **Comparte información de forma recíproca y gradual** ("yo te digo esto, tú me dices aquello"), sin
+  revelar tu punto de reserva.
+- **Sé "duro con el problema, suave con la persona":** firme en defender los intereses de tu cliente,
+  respetuoso y colaborativo en el trato (separar persona y problema —Harvard—).
+- **Usa criterios objetivos** para el reparto (precio de mercado, peritaje), que legitiman tu reclamo sin
+  destruir la relación.
+
+**La lección estratégica.** El error del negociador agresivo es ver **toda** negociación como suma cero
+(solo reclamar), lo que **destruye valor** (deja dinero sobre la mesa y daña la relación). El error del
+negociador "blando" es ceder para crear valor y relación, sin **reclamar** su parte justa (regala valor).
+El **experto** hace ambas cosas: **agranda el pastel** (crea valor con inteligencia integradora) **y** se
+**lleva una buena porción** (reclama con criterio y firmeza). Saber **cuándo** abrir y cuándo cerrar, cuándo
+cooperar y cuándo competir, es la maestría de la negociación —y se afina solo con **práctica deliberada**—.
