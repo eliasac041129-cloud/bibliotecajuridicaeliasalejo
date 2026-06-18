@@ -260,3 +260,146 @@ sus *covenants* característicos. El gran abogado de financiamiento **conversa c
 es la deuda?, ¿de dónde saldrá el repago?, ¿qué puede salir mal?) y diseña la estructura de deuda que
 mejor sirve al objetivo con el riesgo bien asignado —exactamente como el abogado de M&A hace con la
 estructura de la operación—.
+
+## 10. Definiciones doctrinales
+
+La doctrina del derecho bancario y financiero define los conceptos centrales así:
+
+- **Crédito / Financiamiento:** operación por la cual una parte (**acreditante/prestamista**) pone a
+  disposición de otra (**acreditado/prestatario**) una suma de dinero, que esta se obliga a **restituir**
+  en un plazo, con **intereses**. La doctrina lo define como un **cambio de bienes presentes por bienes
+  futuros** mediado por la confianza (*credere* = confiar).
+- **Apertura de crédito (LGTOC):** el contrato típico mexicano por el cual el acreditante se obliga a poner
+  una **suma a disposición** del acreditado (o a contraer una obligación por su cuenta), pudiendo este
+  **disponer** de ella; puede ser **simple** (una sola disposición) o **revolvente/en cuenta corriente**
+  (puede disponer, pagar y volver a disponer).
+- **Derecho bancario:** rama que regula la **organización y actividad de las instituciones de crédito** y
+  sus operaciones (activas —prestar—, pasivas —captar— y de servicios). La doctrina lo sitúa entre el
+  derecho público (regulación, supervisión) y el privado (contratos).
+- **Garantía:** todo mecanismo que **refuerza** la probabilidad de cumplimiento de una obligación. La
+  doctrina distingue **garantías reales** (recaen sobre un **bien**: hipoteca, prenda, fideicomiso de
+  garantía) y **garantías personales** (un **tercero** se obliga: aval, fianza, obligación solidaria,
+  *guarantee*).
+- **Covenant (cláusula de protección):** obligación de conducta del deudor pactada para **proteger** al
+  acreedor durante la vida del crédito. La doctrina financiera los clasifica en **afirmativos** (obligan a
+  hacer), **negativos** (prohíben hacer) y **financieros** (obligan a mantener ciertos **ratios**).
+- **Sindicación:** técnica por la cual **varios prestamistas** (un **sindicato** de bancos) otorgan
+  conjuntamente un crédito a un mismo deudor bajo un **único contrato**, repartiéndose el monto y el
+  riesgo, coordinados por un **banco agente**.
+- **Project finance:** estructura de financiamiento de un **proyecto** específico (típicamente de
+  infraestructura o energía) en la que el repago proviene **principalmente del flujo de efectivo del
+  propio proyecto** y las garantías se constituyen sobre sus activos y contratos, con **recurso limitado o
+  nulo** contra los patrocinadores.
+- **Acquisition finance:** financiamiento cuyo destino es **adquirir** una empresa o activos; incluye el
+  *leveraged buyout* (LBO), donde la deuda se repaga, en parte, con el **flujo de la empresa adquirida**.
+- **Bono / Obligación:** título de deuda **negociable** que la empresa (o el Estado) emite en el
+  **mercado**, fraccionando un gran financiamiento entre **múltiples inversionistas**, con promesa de pagar
+  intereses (**cupón**) y devolver el principal al vencimiento.
+
+## 11. Definiciones legales y marco normativo
+
+El financiamiento se asienta en un entramado normativo mexicano amplio:
+
+- **Apertura de crédito y operaciones de crédito (LGTOC).** La **Ley General de Títulos y Operaciones de
+  Crédito** —que estudiaste en el Nivel III— regula la **apertura de crédito**, el préstamo mercantil, el
+  descuento, el crédito documentario, y las **garantías** mercantiles, incluida la **prenda** (con y sin
+  transmisión de posesión) y el **fideicomiso de garantía**. Es la base del derecho del crédito en México.
+- **Instituciones de crédito (Ley de Instituciones de Crédito - LIC).** Regula la **organización,
+  operación y supervisión** de los bancos: autorización, operaciones permitidas, capitalización, límites,
+  y el papel de la **CNBV** y de **Banxico**. Define qué es un banco y qué puede hacer.
+- **Garantías reales (Código Civil —hipoteca, prenda civil—; LGTOC —prenda mercantil, prenda sin
+  transmisión de posesión—; Ley General de Organizaciones y Actividades Auxiliares del Crédito).** El marco
+  de constitución, registro y **ejecución** de las garantías sobre bienes.
+- **Fideicomiso de garantía (LGTOC).** Figura clave del financiamiento moderno mexicano: el deudor
+  **transmite** bienes a un fiduciario en garantía, lo que permite una ejecución **más ágil** que la
+  hipoteca o la prenda tradicionales.
+- **Registro Único de Garantías Mobiliarias (RUG).** Sistema de **publicidad** de las garantías sobre
+  bienes muebles, que da certeza sobre la prelación.
+- **Mercado de valores y bonos (LMV).** Regula la **emisión** de deuda en el mercado (certificados
+  bursátiles, obligaciones), el prospecto, la calificación y el papel del **representante común** de los
+  tenedores.
+- **Banco de México (Ley del Banco de México).** Regula aspectos de las operaciones de crédito (tasas,
+  ciertas reglas) y la política monetaria que afecta el costo del dinero.
+- **Concursos Mercantiles (LCM).** Determina qué pasa con la deuda y las garantías si el deudor **cae en
+  insolvencia**: la **prelación** de los acreedores (los garantizados cobran antes), el tratamiento de las
+  garantías y la reestructuración.
+
+> **Nota de método:** verifica el texto y la numeración vigentes de la LGTOC, la LIC, la LMV y la LCM antes
+> de aplicarlas en un caso real (Manifiesto XI.5). Aquí las citamos para que ubiques **dónde vive** cada
+> figura del financiamiento.
+
+## 12. Definición sencilla
+
+Imagina que **le prestas dinero a un amigo** para que abra una taquería. Si eres prudente, harás varias
+cosas que son, exactamente, el derecho del financiamiento:
+
+- **El contrato (apertura de crédito):** "Te presto 100 mil, me los devuelves en 2 años con intereses".
+  Pones por escrito cuánto, a qué plazo, a qué tasa.
+- **La garantía real (hipoteca/prenda):** "Y para asegurarme, si no me pagas, me quedo con tu **coche**"
+  (prenda) o "con tu **local**" (hipoteca). Si el amigo no paga, **ejecutas** el bien y te cobras.
+- **La garantía personal (aval/fianza):** "Además, que tu **papá firme** como aval, por si tú no puedes".
+  Otra persona responde si el deudor falla.
+- **Los covenants:** "Mientras me debas, te pongo reglas: **no pidas más préstamos** sin avisarme
+  (negativo), **mándame tus números** cada mes (afirmativo), y **mantén la taquería rentable** —que tus
+  ventas cubran al menos X (financiero)—". Lo vigilas para que no se deteriore.
+- **El evento de incumplimiento y la aceleración:** "Si dejas de pagar dos meses, o rompes una regla,
+  **toda la deuda se vuelve exigible de inmediato**" (no esperas los 2 años: aceleras).
+
+Eso es todo el libro en una taquería: **prestar con garantías, reglas y un botón de emergencia**. Cuando
+en vez de un amigo es una empresa, y en vez de 100 mil son 100 millones, y en vez de un prestamista son 15
+bancos (sindicato), la **lógica es idéntica** —solo cambia la sofisticación de los contratos—.
+
+## 13. Conceptos fundamentales
+
+Fija este vocabulario; es el idioma del financiamiento y dialoga con el del M&A (Libro 4):
+
+**El crédito y su contrato:**
+- **Acreditante/prestamista (*lender*) vs. acreditado/prestatario (*borrower*):** quien presta vs. quien
+  recibe.
+- **Facility (facilidad de crédito):** la línea o crédito otorgado. Tipos: **a plazo** (*term loan*: se
+  dispone y se amortiza), **revolvente** (*revolving*: se dispone, paga y vuelve a disponer), **puente**
+  (*bridge*: temporal, hasta un financiamiento permanente).
+- **Disposición (*drawdown*) y amortización:** cuándo se toma el dinero y cómo se devuelve (en cuotas
+  —*amortizing*— o todo al final —*bullet*—).
+- **Tasa de interés y *spread*:** tasa de referencia (TIIE, SOFR) + un **margen** (*spread*) según el
+  riesgo del deudor.
+- **Comisiones:** de apertura, de disponibilidad (*commitment fee*), de agencia.
+
+**Las protecciones del acreedor:**
+- **Representations & warranties:** declaraciones del deudor (igual que en el SPA) sobre su situación
+  legal y financiera.
+- **Covenants:** **afirmativos** (entregar información, mantener seguros y licencias, pagar impuestos),
+  **negativos** (no endeudarse más —*negative pledge*—, no vender activos clave, no repartir dividendos, no
+  dar garantías a otros) y **financieros** (mantener ratios: apalancamiento máximo —*Debt/EBITDA*—,
+  cobertura de intereses, capital de trabajo mínimo).
+- **Conditions precedent (CP):** condiciones para disponer del crédito (garantías constituidas, opiniones
+  legales, documentos).
+- **Events of default (eventos de incumplimiento):** los hechos que permiten al acreedor **acelerar** (no
+  pago, incumplimiento de covenants, **cross-default** —incumplir otra deuda—, insolvencia, *material
+  adverse change*).
+- **Aceleración (*acceleration*):** hacer **exigible de inmediato** toda la deuda ante un evento de
+  incumplimiento. El "botón de emergencia" del acreedor.
+
+**Las garantías:**
+- **Reales (sobre un bien):** **hipoteca** (inmuebles), **prenda** (muebles; con o **sin transmisión de
+  posesión**), **fideicomiso de garantía** (transmisión a un fiduciario; ejecución ágil).
+- **Personales (un tercero responde):** **aval** (en títulos de crédito), **fianza**, **obligación
+  solidaria**, ***guarantee***/garantía corporativa (la matriz garantiza a la filial).
+- **Security package (paquete de garantías):** el **conjunto** de garantías de una operación (hipotecas,
+  prendas sobre acciones e inventarios, fideicomiso, garantías de la matriz).
+- **Prelación / *ranking*:** el **orden** en que cobran los acreedores (los garantizados y *senior* antes
+  que los quirografarios y subordinados).
+
+**Estructuras avanzadas:**
+- **Crédito sindicado:** muchos bancos, un contrato; roles de ***arranger*** (estructura/coloca) y
+  ***agent*** (administra).
+- **Project finance:** financiamiento por el **flujo del proyecto**; **SPV** (vehículo del proyecto),
+  **cascada de pagos** (*cash waterfall*), recurso limitado.
+- **Acquisition finance / LBO:** deuda para **adquirir**; **deuda senior** y **subordinada/mezzanine**;
+  **intercreditor agreement** (acuerdo entre acreedores sobre prelación y ejecución).
+- **Asistencia financiera:** límites a que la **empresa adquirida** financie o garantice su **propia**
+  compra (regla anti-abuso clave en los LBO).
+- **Bono / certificado bursátil:** deuda emitida en el **mercado**; **indenture/acta de emisión**,
+  **trustee/representante común**, **covenants** del bono.
+
+Con este vocabulario, entramos al **desarrollo absoluto**.
