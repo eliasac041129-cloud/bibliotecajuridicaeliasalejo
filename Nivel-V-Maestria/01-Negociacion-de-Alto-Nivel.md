@@ -604,3 +604,83 @@ juegan limpio. Por eso debes dominar **también** las tácticas de poder y las d
 Harvard es tu **estrategia base** (crea valor, usa criterios), pero debes saber **reclamar con firmeza** y
 **defenderte** de las tácticas duras y la mala fe. El experto combina la **mentalidad colaborativa** de
 Harvard con la **competencia táctica** de quien sabe protegerse —y reconoce cuándo usar cada una—.
+
+### 14.D · Poder, psicología y tácticas (el anclaje, los sesgos, las emociones y las defensas)
+
+El método de Harvard es la estrategia base, pero la negociación real involucra **poder**, **psicología** y
+**tácticas** —y el negociador completo debe dominarlos, tanto para usarlos con criterio como para
+**defenderse** de quien los usa contra él—.
+
+**El poder en la negociación (de dónde viene de verdad).** El poder no es (principalmente) el tamaño, el
+volumen de voz ni la agresividad. Sus fuentes reales:
+- **El BATNA (la principal):** quien tiene mejor alternativa tiene más poder (puede irse). Mejora tu BATNA
+  y conoce el del otro.
+- **La información:** quien sabe más (sobre el valor, los intereses y el BATNA del otro) negocia mejor.
+- **El tiempo y la urgencia:** quien tiene **menos prisa** tiene poder (la urgencia se explota); nunca
+  muestres desesperación, y detecta (o crea) la presión de tiempo del otro.
+- **La legitimidad (criterios objetivos):** apoyarte en estándares justos te da poder moral y persuasivo.
+- **El compromiso y la credibilidad:** comprometerte creíblemente con una posición (o un límite) puede
+  moverla a tu favor —pero solo si es **creíble**—.
+- **La relación y la reputación:** la confianza acumulada y la fama de íntegro son poder de largo plazo.
+
+**El anclaje (la táctica distributiva más potente).** La **primera oferta** ejerce un efecto de **ancla**:
+sesga todo lo que sigue hacia ella (las contraofertas y el "punto medio" giran en torno al ancla). Por eso:
+- **Hacer la primera oferta** suele ser ventajoso si tienes **buena información** del valor: ancla alto (si
+  vendes) o bajo (si compras), pero **justificable** (un ancla absurda destruye credibilidad y la relación).
+- **No anclar** conviene si tienes **mucha menos información** que el otro (su ancla te revela información, y
+  evitas anclar contra ti mismo por ignorancia).
+- **Defenderse de un ancla:** no la "aceptes" como punto de partida; **re-anclar** con tu propia oferta
+  justificada, o **rechazar el marco** ("ese número no refleja el valor real, hablemos de criterios
+  objetivos"). No dejes que un ancla extrema secuestre la negociación.
+
+**Las concesiones (cómo ceder sin regalar).** El patrón de tus concesiones **comunica**:
+- Cede en **pasos pequeños y decrecientes** (señala que te acercas a tu límite).
+- Exige **reciprocidad** ("si yo cedo en esto, tú cedes en aquello").
+- Haz que cada concesión **parezca costarte** (para que el otro la valore y no pida más).
+- **Nunca** hagas la primera concesión grande ni cedas sin que el otro mueva: proyecta debilidad.
+
+**Los sesgos cognitivos (la psicología que nos desvía).** Los negociadores no son racionales; conocer los
+sesgos (Kahneman) te protege y te orienta:
+- **Anclaje:** ya visto —el poder de la primera cifra—.
+- **Aversión a la pérdida:** tememos **perder** más de lo que valoramos **ganar** (≈2x). *Uso:* enmarca tu
+  propuesta como evitar una **pérdida** para el otro, no solo como ganancia ("si no cierras, **pierdes**
+  esta oportunidad").
+- **Efecto dotación:** sobrevaloramos lo que **ya poseemos** (el vendedor cree que su empresa vale más de lo
+  que el mercado paga). Anticípalo.
+- **Exceso de confianza:** sobreestimamos nuestra posición y la probabilidad de "ganar". Sé realista sobre
+  tu BATNA.
+- **Sesgo de confirmación:** buscamos información que confirma lo que ya creemos. Cuestiona tus supuestos.
+- **Escalada del compromiso:** seguir invirtiendo en un mal acuerdo "porque ya invertí mucho" (falacia del
+  costo hundido). **No** te cases con cerrar; respeta tu *walk-away*.
+- **Reactive devaluation:** devaluamos una propuesta **solo porque la hizo el otro lado**. Evalúa las
+  propuestas por su mérito, no por su origen.
+
+**Las emociones (manejarlas, no negarlas).** Las emociones están siempre presentes:
+- **Maneja las tuyas:** no negocies con ira ni miedo; haz una **pausa** si te alteras (la emoción nubla el
+  juicio). El **autocontrol** es poder.
+- **Reconoce las del otro:** valida sus emociones ("entiendo que esto te preocupe") —no para manipular,
+  sino porque una contraparte que se siente **escuchada y respetada** coopera más—. Muchos acuerdos se caen
+  por **orgullo herido**, no por falta de ZOPA.
+- **Cuida el "rostro" (*face-saving*):** dale al otro una forma de aceptar **sin sentirse derrotado** (un
+  buen acuerdo permite a ambos contar una historia de éxito a sus jefes/socios).
+
+**Las tácticas duras (y cómo defenderse).** Algunos negociadores usan tácticas de presión; reconócelas y
+neutralízalas:
+- ***Good cop / bad cop*:** uno amenaza, otro concilia (para que aceptes al "bueno"). *Defensa:* nómbrala
+  ("entiendo el juego de roles") y negocia por criterios objetivos.
+- **Ultimátum / "lo tomas o lo dejas":** presión para cerrar. *Defensa:* no reacciones; evalúa contra tu
+  BATNA; a veces, ignorar el ultimátum (seguir negociando como si no se hubiera dicho) lo disuelve.
+- **Presión de tiempo / plazos artificiales:** *Defensa:* verifica si el plazo es real; no te dejes
+  apresurar a un mal trato.
+- ***Nibbling* (mordisqueo):** pedir un extra al final, cuando crees que ya cerraste. *Defensa:* reabre el
+  paquete ("si pides eso, revisemos todo") o pide reciprocidad.
+- **Amenazas y faroles:** *Defensa:* evalúa su **credibilidad** (¿tiene el otro un buen BATNA que respalde
+  la amenaza?); no cedas ante faroles no creíbles.
+- **Información falsa / mala fe:** *Defensa:* **verifica** (no confíes ciegamente), protégete con
+  **representaciones contractuales** (reps) y condiciones, y recuerda que el **dolo** es ilícito. Si el otro
+  negocia de mala fe, tu mejor herramienta es un **buen BATNA** (poder irte).
+
+**La regla maestra de las tácticas:** úsalas con **criterio y ética** (la reputación de íntegro es un
+activo; la de tramposo, un pasivo que te perseguirá en un mundo pequeño), y **defiéndete** de las que usen
+contra ti **nombrándolas y volviendo a los criterios objetivos y a tu BATNA**. El negociador maduro **no se
+deja manipular ni manipula**: negocia con firmeza, inteligencia táctica e integridad.
