@@ -297,3 +297,143 @@ prorrata. El día del concurso se ve **quién tomó bien sus garantías** y qui�
   directo con los acreedores; más rápida y flexible, pero requiere consenso.
 - **Distressed M&A / distressed debt:** comprar **activos/empresas** en concurso o **deuda** con
   descuento, como estrategia de inversión (private equity, special situations).
+
+
+## 14. Desarrollo absoluto
+
+Lo organizamos en: (A) el presupuesto y la **apertura** del concurso; (B) los **efectos** de la
+declaración; (C) la **conciliación** (reestructura); (D) la **quiebra** (liquidación) y la
+**prelación**; (E) la **retroacción** y los actos en fraude; (F) la **reestructuración** moderna
+(*pre-packs*, *workouts*) y el ***distressed M&A***.
+
+### 14.A · El presupuesto y la apertura del concurso
+
+**Presupuesto objetivo: el incumplimiento generalizado.** No basta un solo impago: la LCM exige
+(arts. 9-10) que el comerciante incumpla con **dos o más acreedores** y que se cumplan condiciones
+cuantitativas —en esencia, que las obligaciones **vencidas** representen al menos el **35%** de todas
+sus obligaciones, **o** que no tenga activos líquidos suficientes para cubrir al menos el **80%** de
+sus obligaciones vencidas—. La idea: un problema **generalizado y estructural** de pagos, no un
+incumplimiento aislado.
+
+**Cómo se abre:**
+- **Solicitud** (la presenta el **propio deudor**) o **demanda** (la presentan **acreedores** o el
+  **Ministerio Público**).
+- **Visita de verificación:** el **visitador** (designado por el IFECOM) revisa la contabilidad y
+  verifica si se actualiza el incumplimiento generalizado, y rinde dictamen.
+- **Sentencia de concurso:** el **juez** declara el concurso (si procede). A partir de ella corren los
+  efectos (suspensión de ejecuciones, designación del **conciliador**, etc.).
+- **Concurso con plan prepactado:** el deudor puede solicitar el concurso **acompañando ya un convenio**
+  negociado con la mayoría de sus acreedores (reforma 2014), acelerando el proceso.
+
+### 14.B · Los efectos de la declaración de concurso
+
+- **Suspensión de ejecuciones individuales:** los acreedores ya **no pueden** embargar ni ejecutar por
+  su cuenta; deben cobrar **dentro** del concurso (principio colectivo). (Con matices para ciertos
+  créditos garantizados y laborales.)
+- **Reconocimiento, graduación y prelación de créditos:** se abre el procedimiento para **reconocer**
+  los créditos, **graduarlos** por rango y fijar el **orden de pago**.
+- **Administración:** en la **conciliación**, el deudor suele **conservar** la administración (con
+  vigilancia del conciliador) —modelo *debtor in possession*—; en la **quiebra**, lo desplaza el
+  **síndico**.
+- **Contratos pendientes:** régimen especial: algunos continúan, otros pueden darse por terminados; se
+  busca preservar los contratos **útiles** para la conservación de la empresa.
+- **Separación de bienes:** los bienes en poder del deudor que **no son suyos** (consignación,
+  arrendamiento, fideicomiso) pueden **separarse** de la masa por sus titulares.
+- **Compensación:** opera con reglas especiales (la compensación de deudas recíprocas anteriores al
+  concurso suele admitirse; la posterior, restringida).
+
+### 14.C · La conciliación (la etapa de salvar la empresa)
+
+Es la **primera etapa** y la **prioritaria**. Su finalidad: **conservar** la empresa mediante un
+**convenio concursal** con los acreedores. Elementos:
+- **El conciliador:** especialista que **media** entre el deudor y los acreedores, vigila la
+  administración y promueve el convenio.
+- **Plazo:** la conciliación tiene una **duración limitada** (con prórrogas máximas); si no se logra
+  el convenio en el plazo, se pasa a la **quiebra**.
+- **El convenio concursal:** reestructura la deuda (típicamente **quitas** —remisión parcial—,
+  **esperas** —ampliación de plazos—, **conversión** de deuda en capital, nuevas garantías). Debe
+  aprobarse por las **mayorías** legales de acreedores reconocidos.
+- **Homologación y *cram down*:** aprobado por las mayorías y **homologado** por el juez, el convenio
+  **vincula a todos** los acreedores reconocidos, **incluso a los disidentes** (mecanismo de *cram
+  down*: la minoría disidente queda obligada por la voluntad mayoritaria, con protecciones). Esto
+  evita que un acreedor minoritario "secuestre" la reestructura.
+- **Financiamiento durante el concurso:** la empresa necesita **operar** mientras se reestructura; la
+  LCM permite **créditos** durante el concurso con cierta **preferencia** para el nuevo financiador
+  (incentiva a financiar la salvación —análogo al *DIP financing* del Chapter 11—).
+
+### 14.D · La quiebra (liquidación) y la prelación de acreedores
+
+Si la conciliación fracasa (o el deudor pide la quiebra), se **liquida**:
+- **El síndico:** desplaza al deudor en la administración, **realiza** (vende) los bienes —idealmente
+  la **empresa como unidad** (going concern), para conservar el goodwill y el empleo, en vez de
+  venderla "en pedazos"— y **paga** conforme a la prelación.
+- **La prelación de acreedores (el corazón del concurso, arts. 217 y ss.):** el orden de pago es:
+  1. **Singularmente privilegiados** (gastos de entierro y de enfermedad del comerciante persona
+     física): un rango menor en monto pero primero en orden.
+  2. **Acreedores con garantía real** (prenda, hipoteca): cobran con **preferencia sobre el producto
+     del bien gravado**. **Aquí se materializa el valor de las garantías (Libro 4 Nivel II):** quien
+     tomó y **perfeccionó** bien su garantía recupera; quien no, baja a quirografario.
+  3. **Créditos con privilegio especial** (los que la ley dota de un privilegio sobre ciertos bienes).
+  4. **Créditos comunes (quirografarios):** cobran **al final**, **a prorrata** (lo que sobre).
+  - **Créditos laborales (salarios e indemnizaciones del último año):** tienen una **preferencia
+    destacada** (la ley los protege especialmente, incluso por encima de otros).
+  - **Créditos fiscales:** con reglas especiales de preferencia.
+  - **Gastos del concurso (de administración y los del procedimiento):** se pagan con prioridad
+    (créditos contra la masa).
+
+> **Cómo razona un socio (prelación y garantías).** *"El concurso es el día de la verdad de las
+> garantías. Por eso, cuando estructuro un financiamiento, no pienso en el día del pago normal, sino
+> en el **día de la quiebra**: ¿mi garantía real está **bien constituida, perfeccionada e inscrita**?
+> Si lo está, cobro **antes** que los comunes sobre ese bien. Si descuidé el perfeccionamiento, bajo a
+> **quirografario** y cobro a prorrata —casi nada—. Y vigilo dos peligros: los **créditos laborales y
+> fiscales**, que pueden tener preferencia, y la **retroacción** (que mi garantía no se haya tomado
+> demasiado cerca de la insolvencia, o me la anulan)."*
+
+### 14.E · La retroacción y los actos en fraude de acreedores
+
+El deudor en crisis puede tener la tentación de **vaciar** la empresa o **favorecer** a ciertos
+acreedores antes de caer en concurso. Para evitarlo, la LCM establece un **periodo de retroacción**
+(anterior a la sentencia): los actos realizados en ese periodo **en perjuicio de la masa** (donaciones,
+ventas a bajo precio, **constitución de garantías** por deudas preexistentes, **pagos anticipados** o
+preferencias indebidas) pueden declararse **ineficaces** y revertirse. *Implicación crítica (Libro 4
+Nivel II):* una **garantía tomada demasiado cerca** de la insolvencia puede ser **impugnada** y
+anulada; por eso las garantías deben tomarse **a tiempo** (al otorgar el crédito), no cuando el deudor
+ya está hundiéndose.
+
+### 14.F · Reestructuración moderna y distressed M&A
+
+- **Plan prepactado (*pre-pack*):** negociar el convenio **antes** de entrar al concurso, con la
+  mayoría de los acreedores, y presentarlo ya hecho al juez para una **homologación rápida**. Combina
+  la flexibilidad del acuerdo privado con la fuerza vinculante (incluido el *cram down*) del concurso.
+- **Workout extrajudicial:** reestructurar **fuera** del concurso, por acuerdo directo con los
+  acreedores (sin tribunal). Más rápido y discreto, pero requiere **consenso** (un acreedor "díscolo"
+  —*holdout*— puede bloquearlo, al no haber *cram down* judicial).
+- **Distressed M&A:** comprar la **empresa** o sus **activos** en concurso —a menudo "**limpios**" de
+  pasivos (la venta como unidad productiva, autorizada en el concurso, puede purgar ciertos
+  gravámenes)— a precio de crisis. Es una estrategia clásica del **private equity** y de los fondos de
+  *special situations* (Nivel IV).
+- **Compra de deuda (*distressed debt*):** adquirir los créditos contra la empresa con **descuento**,
+  para luego (i) cobrar en el concurso, (ii) influir en la reestructura, o (iii) **convertir deuda en
+  capital** y quedarse con la empresa (*loan-to-own*).
+
+## 15. Explicación intuitiva
+
+Imagina que una empresa es un **barco que se hunde** y los acreedores son pasajeros que quieren
+salvarse. Sin reglas, cada uno correría a llevarse lo que pudiera —los botes salvavidas, las
+provisiones— y el barco se hundiría más rápido y de forma injusta (los más fuertes se salvarían, los
+demás se ahogarían). El **concurso mercantil** es el **capitán** que pone orden:
+- **Primero, intenta salvar el barco** (la **conciliación**): reúne a todos y propone un **plan**
+  (reestructurar la deuda: que los acreedores acepten cobrar menos —quita— o más tarde —espera— para
+  que el barco siga a flote y todos cobren algo). Si la mayoría acepta, **todos** se suben al plan
+  (incluso los que decían que no: *cram down*).
+- **Si el barco no se puede salvar** (la **quiebra**): se reparten ordenadamente los botes
+  salvavidas según una **lista de prioridad**: primero los **trabajadores** (sus salarios) y ciertos
+  privilegiados; luego los que tenían un **bote reservado a su nombre** (los acreedores con
+  **garantía real** sobre un bien —hipoteca, prenda—); y al final, lo que quede, se reparte **a
+  prorrata** entre los **comunes** (que casi siempre se ahogan).
+
+Dos lecciones de oro: **(1)** vale más **salvar el barco** (la empresa viva genera más que sus restos);
+y **(2)** si quieres un **bote reservado** (garantía real), debes **reservarlo a tiempo y bien**
+(perfeccionarlo e inscribirlo cuando das el crédito), porque si lo reservas cuando el barco ya se
+hunde (periodo de **retroacción**), el capitán te lo **quita**. Todo este libro enseña a navegar ese
+naufragio —y a prepararse para él **antes** de que ocurra—.
