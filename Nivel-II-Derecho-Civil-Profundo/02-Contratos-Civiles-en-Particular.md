@@ -540,3 +540,108 @@ dominio, y **garantizada** con prenda sobre las acciones e hipoteca sobre los in
 - **Reserva de dominio internacional (Romalpa clauses):** las cláusulas de reserva de dominio en
   ventas internacionales (*retention of title*) tienen eficacia variable según la ley del lugar de
   los bienes y del concurso del comprador.
+
+
+## 22. Derecho comparado
+
+| Sistema | Rasgos en los contratos típicos clave |
+|---|---|
+| **México** | Consensualismo en compraventa (art. 2014); saneamiento por evicción y vicios; mutuo con control de usura; poderes graduados (art. 2554); fianza con beneficios renunciables. |
+| **España** | Compraventa con **teoría del título y el modo** (contrato + entrega/*traditio* para transmitir); saneamiento similar; mandato y fianza afines. |
+| **Estados Unidos** | Venta de bienes muebles regida por el **UCC Art. 2** (*warranties* expresas e implícitas —*merchantability*, *fitness*—, base directa de las *reps & warranties*); *agency law* para mandato; *secured transactions* (UCC Art. 9) para garantías. |
+| **Delaware** | *Contract law* estatal con amplia libertad; en M&A, las *reps & warranties* y la indemnización se rigen por el acuerdo y la jurisprudencia de la Court of Chancery. |
+| **Unión Europea** | Diversidad: el **BGB** alemán mantiene título/modo y *abstracción*; Francia (Code reformado 2016) modernizó compraventa y garantías; directivas de protección al consumidor armonizan ventas B2C. |
+| **UNIDROIT** | Principios sobre contratos comerciales internacionales: reglas supletorias de cumplimiento, conformidad y remedios; muy usados en compraventa y suministro internacionales. |
+| **UNCITRAL** | **CISG** (compraventa internacional de mercaderías) y convención sobre cesión de créditos; marco neutral para el comercio global. |
+| **CISG** | Régimen propio de compraventa internacional: conformidad de las mercaderías (≈ vicios), incumplimiento esencial, resolución, **deber de mitigar**; aplica salvo exclusión. |
+| **Common Law** | *Sale of goods* con *warranties* (expresas/implícitas); *consideration* como requisito; *agency*; *guarantee* (fianza) e *indemnity* distinguidas con precisión. |
+| **Civil Law** | Contratos nominados con régimen supletorio codificado; saneamiento, mandato y fianza como categorías dogmáticas; consensualismo o título-modo según el país. |
+
+> **Convergencia para M&A:** la **compraventa** es universal, pero su **garantía** difiere: el
+> *warranty* del UCC/common law y el *saneamiento* civil convergen funcionalmente en las **reps &
+> warranties** del SPA. Por eso un SPA cross-border es legible en ambos mundos: todos reconocen "el
+> vendedor garantiza X".
+
+## 23. Derecho mexicano
+
+Régimen en el CCF, Libro Cuarto, 2ª parte (verificar versión vigente y código local):
+- **Compraventa:** arts. 2248-2326 (elementos, modalidades, obligaciones); transmisión: 2014;
+  saneamiento por evicción 2119-2141; por vicios ocultos 2142-2162; reserva de dominio 2310-2312.
+- **Permuta:** 2327-2331. **Donación:** 2332-2383.
+- **Mutuo:** 2384-2397 (interés 2393-2397). **Comodato:** 2497-2515. **Depósito:** 2516-2545.
+- **Mandato:** 2546-2604 (poderes 2554). **Prestación de servicios y obra:** 2606 y ss.
+- **Arrendamiento:** 2398-2496.
+- **Fianza:** 2794-2855 (beneficios de orden/excusión 2814 y ss.). **Prenda:** 2856-2892.
+  **Hipoteca:** 2893-2943. **Transacción:** 2944-2963.
+- **Mercantil:** compraventa mercantil (Código de Comercio); comisión; crédito y operaciones
+  (LGTOC); fianza de empresa (Nivel III).
+
+## 24. Jurisprudencia relevante
+
+> Verificar vigencia antes de citar.
+- **Saneamiento por evicción:** necesidad de **denunciar el pleito** al vendedor; alcance de la
+  responsabilidad según buena/mala fe.
+- **Vicios ocultos:** plazos para ejercer las acciones redhibitoria y quanti minoris; carga de
+  probar el carácter **oculto** y **anterior** del vicio.
+- **Usura en mutuo:** análisis oficioso y reducción (SCJN, Primera Sala).
+- **Poderes:** insuficiencia del poder de administración para actos de **dominio** y para
+  **suscribir títulos** (se requiere poder/cláusula especial, art. 9 LGTOC).
+- **Fianza:** efecto liberatorio para el fiador de la **novación** o **prórroga** concedida al
+  deudor sin su consentimiento.
+
+## 25. Criterios de la Suprema Corte
+
+- **Usura (Primera Sala):** constitucionalización del control de intereses; aplicable a mutuos y
+  operaciones de crédito.
+- **Cláusulas abusivas y contratos de adhesión:** protección reforzada del adherente/consumidor
+  (en conexión con la LFPC).
+- **Buena fe e interpretación contractual:** criterios sobre la prevalencia de la intención común y
+  la integración por buena fe.
+- **Lesión:** estándar subjetivo-objetivo (art. 17 CCF) aplicado a compraventas notoriamente
+  desproporcionadas con explotación.
+
+## 26. Doctrina nacional
+
+- **Ramón Sánchez Medal, *De los Contratos Civiles* (Porrúa)** — el tratado mexicano de referencia
+  en contratos en particular; imprescindible.
+- **Rafael Rojina Villegas, *Derecho Civil Mexicano*, t. IV-VI (contratos)** — exposición completa.
+- **Bernardo Pérez Fernández del Castillo, *Contratos Civiles* (Porrúa)** — enfoque práctico y
+  notarial, excelente para la **redacción** y los poderes.
+- **Miguel Ángel Zamora y Valencia, *Contratos Civiles*** — claro y sistemático.
+
+## 27. Doctrina internacional
+
+- **Pothier, *Tratados* (compraventa, mandato, fianza)** — raíz del régimen mexicano.
+- **Schlechtriem & Schwenzer, *Commentary on the CISG*** — referencia mundial en compraventa
+  internacional.
+- **Treitel / Peel, *The Law of Contract*** — *warranties*, *guarantee* vs. *indemnity* en el
+  common law.
+- **Farnsworth, *Contracts*; UCC (Art. 2 y 9)** — venta de bienes y garantías en EE. UU.
+
+## 28. Opiniones críticas (postura del Consejo)
+
+1. **El consensualismo mexicano (art. 2014) genera riesgos de "doble venta".** Que la propiedad pase
+   sin entrega ni registro facilita el tráfico pero crea inseguridad frente a terceros; el Consejo
+   subraya la importancia del **registro** (inmuebles) y de pactar entrega y reserva de dominio para
+   proteger al vendedor a plazo.
+2. **Los poderes deben otorgarse con la mínima amplitud necesaria.** Otorgar poderes de **dominio**
+   amplios "por comodidad" es una bomba: el Consejo recomienda poderes **específicos y graduados**,
+   con límites y vigencias, y un registro interno riguroso de su otorgamiento y revocación.
+3. **La fianza "de favor" sin asesoría es una de las mayores fuentes de ruina patrimonial.** Renunciar
+   a los beneficios de orden y excusión sin entender que se vuelve obligado casi solidario es un
+   error social y jurídico que el Consejo denuncia.
+
+## 29. Debate doctrinal
+
+- **Consensualismo vs. título y modo:** ¿debe la propiedad transmitirse por el solo consentimiento
+  (Francia/México) o exigir entrega/registro (España/Alemania)? Afecta la seguridad del tráfico y el
+  riesgo de doble venta.
+- **¿La causa sigue siendo elemento de la compraventa?** Tras la supresión de la causa en el Code
+  francés (2016), se debate su utilidad; en México persiste el "motivo o fin determinante" lícito.
+- **Garantía como *warranty* vs. saneamiento:** ¿son lo mismo? Funcionalmente convergen, pero el
+  *warranty* anglosajón es una **promesa contractual** (su falsedad = breach), mientras el
+  saneamiento civil es una **garantía legal** que opera aunque no se pacte. Debate clave al traducir
+  un SPA al derecho mexicano.
+- **Fianza vs. garantía autónoma (a primera demanda):** ¿hasta dónde puede pactarse una garantía
+  **independiente** del crédito principal (no accesoria), como las *first demand guarantees*
+  internacionales, sin desnaturalizar la fianza?
