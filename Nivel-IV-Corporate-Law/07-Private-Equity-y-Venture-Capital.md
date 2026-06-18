@@ -1016,3 +1016,228 @@ práctica.
 - **¿Es sano el nivel de apalancamiento del PE?** *Postura del Consejo:* el apalancamiento moderado crea
   valor; el **excesivo** traslada un riesgo enorme a la empresa y sus acreedores (y puede quebrarla). La
   prudencia —y el respeto a la protección de acreedores y a la asistencia financiera— es la línea correcta.
+
+## 30. Errores comunes
+
+- **No entender la lógica de salida del fondo.** Negociar con un fondo sin recordar que "entró pensando en
+  cómo salir" → no anticipar su insistencia en drag along, preferencia y exit. *Corrección:* lee cada
+  cláusula como protección de la inversión hasta la salida.
+- **Cap table sucio.** Promesas informales de equity, SAFEs sin convertir, opciones mal documentadas →
+  hunde rondas y ventas en la due diligence. *Corrección:* higiene constante del cap table.
+- **Ceder preferencia *participating* o *full ratchet* sin pelearlas.** El abogado del fundador acepta
+  cláusulas agresivas que castigan desproporcionadamente. *Corrección:* pelear non-participating 1x y
+  weighted average (lo de mercado).
+- **Vesting injusto o sin aceleración.** No negociar reconocimiento del tiempo trabajado ni aceleración si
+  despiden al fundador sin causa o se vende la empresa. *Corrección:* vesting justo con *single/double
+  trigger acceleration*.
+- **Vetos excesivos que paralizan.** Ceder al inversionista vetos sobre decisiones operativas, no solo las
+  estratégicas → la empresa se paraliza. *Corrección:* acotar los vetos a lo verdaderamente relevante.
+- **Olvidar la asistencia financiera en el LBO.** Usar los activos de la target para su propia compra sin
+  estructurar → ilegal (Libro 5). *Corrección:* NewCo + fusión apalancada bien estructurada.
+- **Subestimar la fiscalidad.** Estructurar el fondo o la inversión sin fiscalista → consecuencias caras en
+  carry, ganancias de capital, vehículos. *Corrección:* fiscalista desde el diseño.
+- **No preparar la empresa para la salida.** Llegar al exit con gobierno sucio, contingencias y cap table
+  desordenado → la due diligence del comprador baja el precio o mata el deal. *Corrección:* preparar la
+  "due diligence inversa" desde antes.
+
+## 31. Mitos frecuentes
+
+- **"El VC quiere quedarse con mi empresa."** **Falso.** El VC quiere que crezcas y **salir con ganancia**;
+  su éxito es tu éxito (en el upside). No quiere operarla ni conservarla.
+- **"Más valuación siempre es mejor para el fundador."** **Falso/matizado.** Una valuación inflada hoy
+  puede causar un **down round** doloroso mañana (con antidilución que te diluye) y dificultar futuras
+  rondas. A veces una valuación realista es mejor.
+- **"La preferencia de liquidación solo importa si quiebro."** **Falso.** Importa sobre todo en ventas
+  **mediocres** (las más probables): determina quién cobra cuánto. Define el reparto en casi todos los
+  escenarios salvo el gran éxito.
+- **"El PE solo gana con deuda (ingeniería financiera)."** **Falso/parcial.** El apalancamiento ayuda, pero
+  el PE maduro crea valor sobre todo **operando mejor** (crecimiento, profesionalización, add-ons).
+- **"El SAFE es deuda."** **Falso.** El SAFE **no es deuda ni equity** hasta que convierte (sin interés ni
+  vencimiento); la **nota convertible** sí es deuda. Son distintos.
+- **"El carry es solo un sueldo grande del gestor."** **Falso.** Es una **participación en las ganancias**
+  por encima de un umbral (hurdle), con clawback; alinea al GP con los LPs (solo gana si el fondo gana).
+- **"Levantar capital de un fondo es siempre bueno."** **Falso.** Trae capital, pero también dilución,
+  pérdida de control y presión de salida. Hay que evaluar si conviene.
+
+## 32. Preguntas difíciles
+
+1. **¿Por qué el fondo insiste tanto en el drag along?** Porque su negocio es **salir con ganancia**, y la
+   salida más común es vender la empresa **entera** a un comprador (que quiere el 100%). El drag along le
+   permite **forzar** a los demás socios a vender con él, garantizando que un minoritario no bloquee su
+   exit. Sin drag, su salida queda a merced de terceros.
+2. **¿Por qué una valuación muy alta puede perjudicar al fundador?** Porque crea expectativas que, si no se
+   cumplen, llevan a un **down round** (ronda a menor precio), que activa la **antidilución** del
+   inversionista (diluyendo más al fundador) y daña la moral y la capacidad de levantar capital. Una
+   valuación **realista y sostenible** suele ser mejor que una inflada.
+3. **Preferencia non-participating 1x: ¿qué elige el inversionista en una venta?** Compara: ¿le conviene
+   más su **preferencia** (recuperar 1x su inversión) o **convertir** a ordinario y cobrar su **porcentaje**?
+   Elige lo mayor. En ventas **bajas**, la preferencia (recupera lo suyo); en ventas **altas**, convierte
+   (su % vale más). Por eso "non-participating" es equilibrada: no cobra ambas.
+4. **¿Por qué existe el vesting de fundadores si ya son dueños?** Porque el inversionista invierte por el
+   **equipo**; si un fundador **se va pronto**, no es justo que conserve todas sus acciones (perjudica a
+   los que se quedan y al inversionista). El vesting hace que las acciones se "**ganen**" con permanencia,
+   alineando el incentivo de quedarse y construir.
+5. **¿Cómo se conecta la salida del fondo con la due diligence (Libro 2)?** La salida del fondo suele ser
+   la **compra de otro** (trade sale): el comprador hará **due diligence** de la empresa. Por eso el fondo
+   **prepara** la empresa (gobierno limpio, cap table ordenado, contingencias resueltas) para **pasar** esa
+   due diligence —la "due diligence inversa"—. El M&A es un ciclo: el fondo lo recorre completo (compra,
+   crea valor, vende).
+
+## 33. Casos de examen (con respuesta modelo)
+
+**Caso A.** *Representas a un fundador en su Serie A. El VC pide preferencia 1x participating, antidilución
+full ratchet, vetos amplios y vesting de 4 años sin aceleración. ¿Qué negocias?*
+**Respuesta modelo:** Aceptar lo estándar y **pelear lo agresivo**: cambiar la preferencia a **1x
+non-participating** (no participating/double-dip); la antidilución a **weighted average** (no full
+ratchet); **acotar los vetos** a decisiones verdaderamente estratégicas (no operativas); y negociar
+**aceleración del vesting** (single trigger si lo despiden sin causa; double trigger en cambio de control)
+y reconocimiento del tiempo ya trabajado. Razonar: las protecciones del VC son legítimas, pero estas
+versiones son **agresivas** y castigan desproporcionadamente al fundador.
+
+**Caso B.** *Un fondo de PE quiere comprar el control de una empresa familiar por LBO. ¿Qué reúne esta
+operación de todo el Nivel IV?*
+**Respuesta modelo:** **Due diligence** (L2) de la target; **estructura** NewCo + fusión apalancada (L3,
+cuidando asistencia financiera); **SPA** con los vendedores y **SHA** con la dirección (*management equity
+plan* con vesting) (L4); **LBO** —deuda senior + mezzanine, intercreditor, garantías, covenants,
+*committed financing*— (L5); posible **coinversión** con otro fondo (L6); y todo orientado por la **lógica
+del fondo** (crear valor, preparar y ejecutar el **exit** en 5-7 años) (L7). Es la síntesis del Nivel IV.
+
+**Caso C.** *Una startup tiene un cap table con SAFEs sin convertir, una promesa verbal de 5% a un ex
+asesor y opciones mal documentadas. Va a su Serie B. ¿Qué haces antes de la ronda?*
+**Respuesta modelo:** **Limpiar el cap table** antes de la ronda: documentar la **conversión** de los
+SAFEs (calcular su efecto con descuento/cap), resolver y formalizar (o liberar) la **promesa al ex asesor**,
+y documentar correctamente el **pool de opciones (ESOP)**. Presentar un cap table **fully diluted** claro.
+Razonar: un cap table sucio es un *red flag* que frena la ronda; la higiene es condición para invertir.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Instrucciones:** eres asociado. Representas a un **fondo de VC** que invertirá **3 millones** en una
+> *startup* de fintech, a un **pre-money de 9** (Serie A). Diseña los términos clave antes de leer la guía.
+
+1. ¿Qué **porcentaje** obtiene el fondo? (calcula con pre/post-money)
+2. ¿Qué **preferencia de liquidación** y **antidilución** propones (de mercado)?
+3. ¿Qué **derechos de gobierno** pides?
+4. ¿Qué **vesting** para los fundadores?
+5. ¿Qué cuidas en el **cap table** y para la **salida**?
+
+> **Guía de solución (resumen).** **(1)** Post-money = 9 + 3 = 12; el fondo obtiene **25%** (3/12). **(2)**
+> Preferencia **1x non-participating** (de mercado); antidilución **weighted average** (equilibrada). **(3)**
+> Un **asiento** en el consejo; **protective provisions/vetos** sobre lo estratégico (vender, emitir
+> acciones, endeudarse, cambiar giro, presupuesto, CEO); **información** periódica; **pro-rata** para
+> futuras rondas. **(4)** Vesting de fundadores **4 años con cliff de 1**, good/bad leaver, con aceleración
+> negociada. **(5)** Cap table **fully diluted** limpio (ESOP del 10-15% definido, convertibles
+> documentados); pensar el **exit** desde ahora (drag along, registration rights). Anclar todo en una
+> **S.A.P.I.**
+
+## 35. Flashcards
+
+- **¿PE vs. VC?** PE: empresas maduras, control, LBO. VC: startups, minoritario, rondas.
+- **¿GP vs. LP?** Gestor (administra, cobra carry) / inversionista (aporta capital, pasivo).
+- **¿"2 y 20"?** Management fee ~2% + carried interest ~20% de las ganancias.
+- **¿Pre-money vs. post-money?** Valuación antes / después de la inversión (post = pre + inversión).
+- **¿% del inversionista?** Inversión / post-money.
+- **¿Preferencia de liquidación?** Cobrar primero (1x); non-participating (elige) vs. participating
+  (double-dip).
+- **¿Antidilución?** Protección en down round; weighted average (justa) vs. full ratchet (punitiva).
+- **¿Vesting de fundadores?** Las acciones se ganan con el tiempo (4 años + cliff de 1); good/bad leaver.
+- **¿SAFE vs. nota convertible?** SAFE no es deuda ni equity (sin interés/vencimiento) / nota es deuda
+  (interés, vencimiento); ambos convierten con descuento y/o cap.
+- **¿Cap table?** Mapa de quién posee qué; cambia con cada ronda; debe estar "limpio".
+- **¿Power law?** Pocos éxitos enormes pagan muchos fracasos (lógica del VC).
+- **¿Drag along (por qué le importa al fondo)?** Le permite forzar la venta del 100% (su exit).
+- **¿Exits?** Trade sale, secondary buyout, IPO, redemption.
+- **¿La frase que lo explica todo?** "El fondo entró pensando en cómo salir".
+
+## 36. Mapas mentales
+
+```
+                     CAPITAL PRIVADO (PE / VC)
+                              |
+   ┌──────────────┬──────────┼───────────────┬──────────────────┐
+ EL FONDO        PRIVATE EQ.  VENTURE CAP.    TERM SHEET/SHA      CAP TABLE
+ (GP/LP, 2y20,   (maduras,    (startups,      (preferencia,       + SALIDAS
+ ciclo de vida,  control,     rondas, pre/    antidilución,       (waterfall;
+ CKD/CERPI)      LBO, crear   post-money,     vetos, vesting,     trade sale,
+                 valor,       dilución,       pro-rata,           secondary,
+                 exit)        SAFE/notas)     drag/tag)           IPO, redemption)
+```
+
+```
+              LA FRASE QUE EXPLICA TODO EL PE/VC
+   "ENTRÓ PENSANDO EN CÓMO SALIR"
+        │ → preferencia de liquidación (cobrar primero si la venta es regular)
+        │ → drag along (poder vender el 100%)
+        │ → vetos (proteger la inversión hasta el exit)
+        │ → pro-rata (doblar la apuesta en los ganadores)
+        │ → vesting (retener al equipo que crea el valor)
+        └ → preparar la empresa para la due diligence del comprador
+```
+
+## 37. Cuadros comparativos
+
+**Private Equity vs. Venture Capital**
+
+| | Private Equity | Venture Capital |
+|---|---|---|
+| Empresa | Madura, con flujo | Joven, alto crecimiento |
+| Participación | Control (mayoría) | Minoritaria |
+| Apalancamiento | Sí (LBO) | No (startups sin flujo) |
+| Riesgo | Menor, consistente | Alto (power law) |
+| Cómo crea valor | Operar mejor + apalancar + multiple | Crecimiento exponencial |
+| Instrumento | Compra de acciones / LBO | Acciones preferentes, SAFE, notas |
+
+**Preferencia de liquidación**
+
+| | Non-participating (estándar) | Participating (agresiva) |
+|---|---|---|
+| Cobra | Preferencia **o** su % (elige) | Preferencia **y además** su % |
+| Favorece a | Equilibrio | Inversionista (castiga fundador) |
+
+**Antidilución**
+
+| | Weighted average (justa) | Full ratchet (punitiva) |
+|---|---|---|
+| Ajuste | Proporcional al down round | Al precio más bajo (total) |
+| Efecto en fundador | Moderado | Severo |
+
+## 38. Diagramas
+
+**El ciclo del fondo:**
+```
+FUNDRAISING (levantar capital de LPs)
+   → INVERSIÓN (capital calls; comprar/invertir en empresas)
+   → GESTIÓN / CREACIÓN DE VALOR (operar, crecer, add-ons)
+   → EXIT (trade sale / secondary / IPO) → DISTRIBUIR a LPs (capital + hurdle, luego 80/20)
+   → (mientras tanto: levantar el SIGUIENTE fondo)
+```
+
+**El waterfall de la salida (reparto):**
+```
+PRECIO DE VENTA
+   1) Pagar la DEUDA
+   2) PREFERENCIAS DE LIQUIDACIÓN de los inversionistas (por antigüedad)
+   3) Lo que sobra → ORDINARIOS (fundadores + empleados con opciones)
+   [non-participating: el inversionista elige preferencia O conversión, lo mayor]
+```
+
+**El gran círculo del M&A (cómo el Nivel IV se cierra):**
+```
+El FONDO COMPRA (M&A, L1-4; due diligence, L2; estructura, L3; LBO, L5)
+   → CREA VALOR (gobierno, SHA, add-ons; L4-6)
+   → PREPARA LA SALIDA (due diligence inversa; cap table limpio)
+   → VENDE (su exit = la COMPRA de otro → vuelve al inicio del ciclo)
+```
+
+## 39. Mnemotecnias
+
+- **La frase maestra:** *"el fondo entró pensando en cómo salir"* (explica cada cláusula).
+- **PE vs. VC:** *"PE compra maduras con deuda; VC siembra startups en rondas"*.
+- **2 y 20:** *"2% por gestionar, 20% por ganar"*.
+- **Pre/post-money:** *"post = pre + lo que entra; mi % = lo que pongo / post"*.
+- **Preferencia:** *"non-participating elige; participating se lleva ambas (double-dip)"*.
+- **Antidilución:** *"weighted es justa; full ratchet es castigo"*.
+- **Vesting:** *"las acciones se ganan quedándote (4 años, cliff de 1)"*.
+- **SAFE:** *"ni deuda ni equity hasta que convierte"*.
+- **Cap table:** *"si está sucio, no hay ronda ni venta"*.
+- **Power law:** *"muchas semillas, un árbol gigante paga todo"*.
+- **Regla de oro:** *"el PE/VC es la síntesis del Nivel IV: comprar, crear valor, vender"*.
