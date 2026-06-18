@@ -565,3 +565,124 @@ inunde el patrimonio de su cliente.
 - **CISG y obligaciones del vendedor.** En compraventa internacional de mercaderías regida por la
   **CISG**, el régimen de incumplimiento (incumplimiento esencial, derecho a resolver, deber de
   **mitigar**) modula las obligaciones de las partes de forma distinta al derecho mexicano puro.
+
+
+## 22. Derecho comparado
+
+| Sistema | Rasgos en materia de obligaciones (transmisión/extinción) |
+|---|---|
+| **México** | Sistema romano-germánico (CCF, Libro Cuarto). Cesión oponible por **notificación**; novación extingue accesorios salvo reserva (2220); compensación legal exige liquidez y exigibilidad. |
+| **España** | Código Civil afín; cesión de créditos (arts. 1526 y ss.); el cedente responde de la existencia, no de la solvencia, salvo pacto; novación con reglas paralelas. |
+| **Estados Unidos** | *Contract law* estatal + **UCC Art. 9** para *assignment* de cuentas (cesión) y garantías mobiliarias; fuerte desarrollo de la **securitization**; *set-off* y *netting* muy elaborados. |
+| **Delaware** | Referente societario; las obligaciones contractuales se rigen por *contract law* estatal; libertad contractual amplia; eficacia robusta de cláusulas de *set-off* y *waiver*. |
+| **Unión Europea** | Diversidad de códigos (BGB alemán con **Schuldübernahme** y **Abtretung**; Code francés reformado 2016 con imprevisión); esfuerzos de armonización (PECL, **DCFR**). |
+| **UNIDROIT** | *Principios sobre los Contratos Comerciales Internacionales*: regulan cesión de créditos, transferencia de obligaciones y de contratos; régimen neutral muy usado en arbitraje. |
+| **UNCITRAL** | Convención de la ONU sobre la **Cesión de Créditos** en el comercio internacional (favorece la financiación mediante cesión, p. ej. factoraje transfronterizo). |
+| **CISG** | Compraventa internacional: régimen de incumplimiento (esencial), resolución y **deber de mitigar**; no regula cesión, pero modela las obligaciones de comprador y vendedor. |
+| **Common Law** | Razona por *contract/tort*; *assignment* de derechos con notice; *novation* requiere acuerdo trilateral; *set-off* legal y en equidad; remedios centrados en *damages*. |
+| **Civil Law** | Sistematiza obligaciones en códigos; teoría de la causa (o su supresión, Francia 2016); cesión, subrogación, novación y compensación como categorías dogmáticas. |
+
+> **Convergencia práctica:** en operaciones cross-border, la **cesión de créditos** y el
+> **netting/set-off** son el terreno donde más chocan los sistemas; los Principios UNIDROIT y la
+> Convención UNCITRAL sobre cesión buscan un lenguaje común para la **financiación** internacional.
+
+## 23. Derecho mexicano
+
+Mapa positivo (CCF, Libro Cuarto; verificar versión vigente y código local aplicable):
+- **Fuentes:** contrato (1792 y ss.); declaración unilateral (1860 y ss.); enriquecimiento sin
+  causa (1882 y ss.); gestión de negocios (1896 y ss.); hechos ilícitos (1910 y ss.).
+- **Modalidades:** condicionales (1938-1952); a plazo (1953-1962); pérdida del beneficio del
+  plazo (1959).
+- **Clasificación por sujetos:** mancomunadas y solidarias (1984-2010); la solidaridad no se
+  presume (1988).
+- **Transmisión:** cesión de créditos (2029-2050); subrogación (2058-2061); cesión de deudas /
+  asunción (2051-2057).
+- **Extinción:** pago (2062-2096); ofrecimiento y consignación (2097-2103); dación en pago
+  (2095); compensación (2185-2205); confusión (2206-2208); remisión (2209-2212); novación
+  (2213-2223, con el art. **2220** sobre accesorios); prescripción (1135-1180).
+- **Incumplimiento:** daños y perjuicios (2104-2118); consecuencia inmediata y directa (2110);
+  cláusula penal (1840-1850); caso fortuito (2111).
+- **Mercantil:** Código de Comercio (mora mercantil, intereses, supletoriedad del derecho civil);
+  LGTOC para operaciones de crédito específicas (Nivel III).
+
+## 24. Jurisprudencia relevante
+
+> Exponemos líneas jurisprudenciales por su valor de criterio; **verificar vigencia** antes de
+> citarlas en un escrito.
+
+- **Usura (intereses):** los juzgadores deben analizarla **de oficio** y reducir tasas
+  notoriamente excesivas, conforme al art. 21.3 CADH (línea de la Primera Sala de la SCJN,
+  contradicción de tesis 350/2013 y posteriores).
+- **Cesión de créditos:** la **notificación** al deudor determina la oponibilidad; el pago hecho
+  al acreedor original antes de la notificación libera (tribunales colegiados).
+- **Pena convencional:** los tribunales han admitido la **reducción** de la cláusula penal cuando
+  resulta desproporcionada o cuando hubo cumplimiento parcial (art. 1844 CCF y criterios).
+- **Novación:** debe constar la **voluntad inequívoca** de novar (no se presume, art. 2215); la
+  mera modificación de condiciones (plazo, tasa) no nova ni extingue garantías si no hay *animus
+  novandi*.
+- **Compensación:** requiere deudas **líquidas y exigibles** (art. 2188); criterios sobre su
+  operatividad en juicio.
+
+## 25. Criterios de la Suprema Corte
+
+La SCJN ha sido especialmente activa en:
+- **Control de usura** (Primera Sala): incorporó el estándar convencional (CADH) al derecho
+  privado, facultando al juez para moderar intereses; hito que **constitucionaliza** el derecho de
+  obligaciones.
+- **Interés legal y moratorio:** criterios sobre su procedencia, base de cálculo y límites.
+- **Protección al deudor en contratos de adhesión** y control de cláusulas abusivas (en conexión
+  con la LFPC y el derecho del consumidor).
+- **Buena fe** como principio integrador y límite del ejercicio de los derechos de crédito.
+
+> *Lección de criterio:* el derecho de obligaciones mexicano ya no es solo el CCF: está
+> **permeado por los derechos humanos** (usura, proporcionalidad, buena fe). El abogado moderno
+> argumenta obligaciones también en clave **constitucional y convencional**.
+
+## 26. Doctrina nacional
+
+- **Manuel Borja Soriano**, *Teoría General de las Obligaciones* — la obra clásica y sistemática.
+- **Rafael Rojina Villegas**, *Derecho Civil Mexicano*, t. III, y *Compendio* — la exposición más
+  difundida.
+- **Ernesto Gutiérrez y González**, *Derecho de las Obligaciones* — vigoroso y crítico; célebre por
+  su tratamiento del patrimonio, la responsabilidad y la distinción débito/responsabilidad.
+- **Ignacio Galindo Garfias** — claridad conceptual.
+- **Manuel Bejarano Sánchez**, *Obligaciones Civiles* — manual moderno muy usado en facultades.
+
+## 27. Doctrina internacional
+
+- **Robert J. Pothier**, *Tratado de las Obligaciones* — puente hacia el Code y México; teoría de
+  los daños (consecuencia directa y previsible).
+- **Karl Larenz**, *Derecho de Obligaciones* — cumbre de la dogmática alemana.
+- **René Demogue** — obligaciones de medios y de resultado.
+- **Planiol y Ripert; los hermanos Mazeaud** — tratadística francesa.
+- **Reinhard Zimmermann**, *The Law of Obligations* — historia y derecho comparado de las
+  obligaciones (romano → moderno); referencia mundial.
+
+## 28. Opiniones críticas (postura del Consejo)
+
+1. **La solidaridad debería pactarse siempre de forma expresa y destacada.** Dado que "no se
+   presume", la práctica de enterrarla en el clausulado genera litigios; el Consejo recomienda
+   cláusulas de solidaridad **visibles y específicas**, con renuncia expresa a los beneficios de
+   orden y excusión cuando proceda.
+2. **El art. 2220 (extinción de accesorios por novación) es una trampa subestimada.** Demasiadas
+   reestructuras se documentan como "novación" sin advertir el efecto sobre garantías. El Consejo
+   sostiene que **modificar** (no novar) suele ser preferible, y que toda novación debe llevar
+   **reserva expresa y reinscripción** de garantías.
+3. **La judicialización de la usura aporta justicia pero introduce incertidumbre.** Moderar tasas
+   *ex post* protege al deudor, pero erosiona la previsibilidad del crédito; el Consejo aboga por
+   tasas documentadas y de mercado para reducir el riesgo de moderación judicial.
+
+## 29. Debate doctrinal
+
+- **¿La obligación es relación entre personas o sujeción de patrimonios?** La tesis personalista
+  (vínculo entre sujetos) frente a la patrimonialista (Schuld/Haftung; lo relevante es la
+  responsabilidad del patrimonio). El debate ilumina avales, fianzas y la circulación del crédito.
+- **Naturaleza de la cesión: ¿transmisión del mismo crédito o creación de uno nuevo?** La doctrina
+  dominante: se transmite el **mismo** crédito con sus accesorios (de ahí que las garantías
+  pasen). Implica que las **excepciones** del deudor contra el cedente sean oponibles al cesionario.
+- **¿Cabe la imprevisión (rebus sic stantibus) en México?** Discusión por la dispersión estatal:
+  algunos códigos la admiten, el CCF tradicionalmente fue reacio; el debate se reaviva con crisis
+  económicas y con la influencia del Code francés reformado (2016).
+- **Autonomía de la voluntad vs. protección del deudor:** hasta dónde puede el contrato excluir
+  remedios (renunciar a resolver, limitar daños, pactar set-off amplio) sin chocar con normas
+  imperativas y la buena fe.
