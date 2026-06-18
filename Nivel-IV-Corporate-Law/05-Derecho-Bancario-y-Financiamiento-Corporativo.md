@@ -916,3 +916,159 @@ los contratos —un detalle técnico que mueve enormes cantidades de dinero—.
 créditos cuya tasa se ajusta según el cumplimiento de **metas ESG** (ambientales/sociales) del deudor, o
 destinados a proyectos verdes. *Lección:* el financiamiento incorpora cada vez más la dimensión de
 **sostenibilidad** —frontera que conecta con el Libro 8 (ESG) y que el abogado moderno debe conocer—.
+
+## 22. Derecho comparado
+
+El financiamiento es global en su técnica, pero el marco regulatorio y de garantías varía. Tabla comparada
+esencial:
+
+| Jurisdicción / sistema | Tratamiento del financiamiento y las garantías |
+|---|---|
+| **México (Civil Law)** | Crédito regido por **LGTOC** y **LIC**; garantías reales (hipoteca, prenda con/sin posesión, **fideicomiso de garantía**) con registro (**RUG**); supervisión **CNBV/Banxico**; bonos por **LMV**; insolvencia por **LCM**. Documentación internacional usa estándares **LMA**. |
+| **EE.UU. (Common Law)** | Garantías mobiliarias unificadas bajo el **UCC Article 9** (sistema muy eficiente de *security interests* y *perfection* por registro). Mercado de **leveraged loans** y **high-yield bonds** enorme; estándar **LSTA**. *Chapter 11* (reorganización) muy desarrollado. |
+| **Reino Unido (Common Law)** | Figuras potentes: ***fixed and floating charges*** (la *floating charge* grava activos cambiantes —inventarios— sin inmovilizarlos), ***debentures***; estándar **LMA**; régimen de *financial assistance* históricamente estricto (flexibilizado para privadas). Centro global del crédito sindicado. |
+| **España (Civil Law)** | Hipoteca, prenda (incl. sin desplazamiento), hipoteca mobiliaria; influencia de las **directivas UE**; uso de estándares LMA en deuda internacional. |
+| **Unión Europea** | Armonización bancaria (**MREL**, unión bancaria, supervisión del BCE), **garantías financieras** (Directiva de Financial Collateral), y régimen de *financial assistance* en la directiva de sociedades. |
+| **UNIDROIT / soft law** | Principios y guías sobre **garantías mobiliarias** (que inspiraron reformas como el RUG mexicano) y sobre operaciones de crédito internacionales. |
+| **Basilea (BCBS)** | Estándares **internacionales de capital y liquidez** bancaria (Basilea III) que condicionan cuánto y cómo prestan los bancos en todo el mundo. |
+| **Civil Law vs. Common Law (síntesis)** | El **common law** ofrece garantías muy flexibles (*floating charge*, UCC Art. 9) y mercados de deuda profundísimos; el **civil law** tiende a garantías más tasadas pero ha innovado (fideicomiso de garantía, prenda sin posesión, RUG) para competir. La documentación sindicada (**LMA/LSTA**) es el **lenguaje común** global. |
+
+**Lección comparada:** dos figuras del common law que el abogado mexicano debe conocer: la **floating
+charge** británica (gravar activos en rotación) —cuyo equivalente funcional mexicano es la **prenda sin
+transmisión de posesión**— y el **UCC Article 9** estadounidense (el sistema de garantías mobiliarias más
+eficiente del mundo), cuya lógica inspiró el **RUG**. Y el estándar documental: el M&A "habla inglés"
+(Libro 4) y el financiamiento también, vía **LMA/LSTA**.
+
+## 23. Derecho mexicano
+
+El financiamiento en México se asienta en:
+
+- **LGTOC:** apertura de crédito (simple y revolvente), préstamo mercantil, descuento, **prenda** (con y
+  **sin transmisión de posesión**), **fideicomiso de garantía**, y los **títulos de crédito** (pagaré) que
+  suelen documentar la deuda. Es la columna del derecho del crédito.
+- **Ley de Instituciones de Crédito (LIC):** organización, operaciones y supervisión de los bancos;
+  autorización, capitalización, límites; papel de **CNBV** y **Banxico**.
+- **Garantías reales:** **hipoteca** (CCF, ante notario y registro); **prenda** (LGTOC); **fideicomiso de
+  garantía** (LGTOC, con ejecución extrajudicial ágil); inscripción en el **RUG** (garantías mobiliarias) y
+  en el **RPP** (inmuebles).
+- **Garantías personales:** aval (LGTOC), fianza (CCF / Ley de Instituciones de Seguros y Fianzas),
+  obligación solidaria (CCF).
+- **Mercado de deuda (LMV):** emisión de **certificados bursátiles** y obligaciones; prospecto;
+  **representante común** de los tenedores; supervisión de la **CNBV**.
+- **Ley del Banco de México:** reglas sobre operaciones de crédito y tasas; política monetaria (costo del
+  dinero).
+- **Ley de Concursos Mercantiles (LCM):** **prelación** de los acreedores (los garantizados cobran antes),
+  tratamiento de las garantías y la reestructuración en insolvencia.
+- **Prevención de lavado (LFPIORPI):** obligaciones de identificación (KYC) y reporte en operaciones
+  financieras.
+- **Usura:** límites y criterios contra los intereses **usurarios** (la SCJN ha desarrollado la facultad de
+  los jueces de reducir intereses notoriamente excesivos).
+
+> **Nota de método:** verifica el texto y la numeración vigentes de la LGTOC, LIC, LMV, LCM y la
+> normativa de la CNBV/Banxico antes de aplicarlos (Manifiesto XI.5).
+
+## 24. Jurisprudencia relevante
+
+> *Nota de método: verifica vigencia y datos de identificación antes de citar.*
+
+Criterios mexicanos relevantes:
+- **Intereses usurarios:** la línea jurisprudencial de la SCJN que faculta a los jueces a **analizar de
+  oficio** y **reducir** los intereses notoriamente excesivos (a partir de la interpretación del art. 21.3
+  de la Convención Americana sobre Derechos Humanos) —doctrina capital del crédito en México—.
+- **Ejecución de garantías:** criterios sobre la ejecución de la **hipoteca**, la **prenda** y el
+  **fideicomiso de garantía** (validez de la ejecución extrajudicial pactada, requisitos).
+- **Fideicomiso de garantía:** criterios sobre su validez, su naturaleza y los límites de la ejecución.
+- **Prelación de acreedores en el concurso (LCM):** criterios sobre el orden de cobro y el tratamiento de
+  los acreedores con garantía real.
+- **Capacidad y representación para contratar crédito:** criterios sobre poderes y facultades para obligar
+  a la sociedad.
+
+En el ámbito internacional, la práctica (más que la jurisprudencia publicada) ha consolidado la
+interpretación de los contratos **LMA/LSTA** y de los *intercreditor agreements*, estudio obligado para el
+financiamiento transfronterizo.
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **SCJN:** la doctrina de **usura** (reducción de intereses excesivos) y los criterios sobre **ejecución
+  de garantías** y **fideicomiso de garantía** son los más relevantes para el financiamiento.
+- **CNBV:** regulación y supervisión de bancos (capitalización, provisiones, límites) y del mercado de
+  deuda (emisiones, revelación, calificación).
+- **Banco de México:** reglas sobre operaciones de crédito, tasas de referencia (TIIE) y su transición, y
+  la política monetaria que fija el costo del dinero.
+- **CONDUSEF:** protección al usuario de servicios financieros (más relevante en crédito de consumo que
+  corporativo, pero presente).
+- **SHCP / SAT:** tratamiento fiscal de los intereses (deducibilidad, retención) y reglas que afectan la
+  estructura de la deuda (límites a la deducción de intereses —relevante en LBO—).
+
+## 26. Doctrina nacional
+
+La doctrina mexicana del financiamiento proviene del **derecho bancario y mercantil** (los autores de
+títulos y operaciones de crédito, derecho bancario y el análisis de la LGTOC y la LIC), del **derecho de
+garantías** (hipoteca, prenda, fideicomiso —conecta con el libro de Garantías del Nivel II—) y del **derecho
+del mercado de valores** (para los bonos). A esto se suma el **know-how transaccional** de los despachos de
+*banking & finance*, que adaptaron los estándares internacionales (LMA, project finance, LBO) al marco
+mexicano y desarrollaron la práctica del **fideicomiso de garantía** y las estructuras de financiamiento
+complejas. La doctrina de **concursos mercantiles** aporta la perspectiva del "qué pasa si no se paga".
+
+## 27. Doctrina internacional
+
+- **Documentación LMA / LSTA y guías de los grandes despachos.** El estándar global del crédito sindicado;
+  material de trabajo del abogado de *banking & finance*.
+- **Doctrina de *project finance* (Yescombe, *Principles of Project Finance*).** La obra de referencia
+  sobre la estructura, los contratos y los riesgos del *project finance*.
+- **Doctrina de *acquisition finance* y LBO.** Cómo se estructura la deuda de adquisición, los tramos, el
+  *intercreditor* y los límites de asistencia financiera.
+- **UCC Article 9 (EE.UU.) y la doctrina de *secured transactions*.** El sistema de garantías mobiliarias
+  más influyente; inspiró reformas globales.
+- **Basilea (BCBS) y doctrina de regulación bancaria.** Los estándares de capital y liquidez que rigen a
+  los bancos.
+- **Doctrina de finanzas corporativas (estructura de capital — Modigliani-Miller, y sus matizaciones).**
+  La base económica de la decisión deuda/equity (conecta con el Nivel V).
+
+## 28. Opiniones críticas (postura del Consejo Editorial)
+
+**Primero: el financiamiento es la "otra mitad" indispensable del M&A.** Sostenemos que la mayor carencia
+de muchos abogados de M&A es **no entender la deuda**. Quien domina el SPA pero no el *facilities
+agreement*, el *intercreditor* y las garantías, ve solo la mitad del deal. Para tu perfil, este libro **no
+es accesorio**: es columna vertebral.
+
+**Segundo: una garantía vale lo que vale su ejecución.** Insistimos: el error del novato es enamorarse de
+garantías "bonitas" en el papel sin pensar en **cómo y qué tan rápido** se ejecutan. El auge del
+**fideicomiso de garantía** sobre la hipoteca es la prueba: la **ejecutabilidad** manda. Piensa siempre
+**desde el final**.
+
+**Tercero: los covenants no son formalismo, son el sistema de alerta.** Criticamos la cultura
+**covenant-lite** de los mercados eufóricos: prestar con pocos covenants traslada el riesgo al acreedor y
+le quita las **alertas tempranas**. Cuando el ciclo se voltea, los covenants son lo que separa al acreedor
+que reacciona a tiempo del que se entera cuando ya no hay nada que rescatar.
+
+**Cuarto: el apalancamiento es poder y es peligro.** El LBO crea enorme valor, pero la misma palanca que
+multiplica ganancias **quiebra** empresas cuando el flujo no alcanza. El abogado responsable estructura el
+apalancamiento con realismo (no sobre proyecciones heroicas) y respeta los **límites de asistencia
+financiera** y de protección de acreedores —que no son trabas, sino salvaguardas del sistema—.
+
+**Quinto: dominar los estándares globales (LMA/LSTA) y el inglés del financiamiento.** Como en el M&A, el
+financiamiento de élite es global. El abogado mexicano que aspira a operaciones complejas debe manejar
+estos estándares con fluidez.
+
+## 29. Debate doctrinal
+
+- **¿Covenant-lite sí o no?** ¿Conviene la deuda con pocos covenants (más flexible para el deudor) o con
+  covenants estrictos (más protección para el acreedor)? *Postura del Consejo:* depende del poder de
+  negociación y del ciclo; pero advertimos que el *covenant-lite* **traslada riesgo** al acreedor y le
+  quita alertas tempranas —prudencia en los mercados eufóricos—.
+- **¿Hasta dónde llega la asistencia financiera prohibida?** ¿Cuándo un LBO cruza la línea de hacer que la
+  *target* financie su propia compra? *Postura del Consejo:* la línea protege a los **acreedores y
+  minoritarios** de la target; la fusión apalancada es legítima si se respetan la oposición de acreedores,
+  la capitalización y el interés social —no es un mero tecnicismo a sortear—.
+- **¿Fideicomiso de garantía vs. garantías tradicionales?** ¿Es sano que el fideicomiso (ejecución
+  extrajudicial ágil) desplace a la hipoteca? *Postura del Consejo:* la **agilidad de ejecución** es
+  valiosa (abarata el crédito), pero debe equilibrarse con la **protección del deudor** frente a
+  ejecuciones abusivas (debido proceso, valuación justa).
+- **Intereses: libertad contractual vs. usura.** ¿Deben los jueces poder **reducir** intereses pactados
+  libremente? *Postura del Consejo:* la doctrina de la SCJN sobre usura es un **equilibrio correcto**: la
+  libertad contractual no ampara intereses **notoriamente excesivos** que conviertan el crédito en despojo;
+  pero la intervención judicial debe ser **excepcional** para no ahuyentar el crédito.
+- **Banco vs. mercado (crédito vs. bonos): ¿qué es mejor para la empresa?** *Postura del Consejo:* no hay
+  respuesta única —el crédito da **flexibilidad** (renegociable); el bono da **plazo, monto y liquidez**
+  pero es **rígido**—. La empresa sofisticada **combina** ambos según necesidad.
