@@ -916,3 +916,153 @@ fiscales (y los estándares BEPS de la OCDE) han endurecido la exigencia de que 
 mexicano de élite:* diseñar estructuras que resistan el escrutinio antiabuso **mexicano e internacional**,
 con sustancia y documentación de su propósito, es hoy parte esencial del oficio. La era de los "esquemas"
 artificiales terminó; la del **diseño con sustancia** es la norma.
+
+## 22. Derecho comparado
+
+Las estructuras de reorganización existen en todos los sistemas, pero con diferencias relevantes en su
+regulación y en las protecciones. Tabla comparada para el abogado de M&A:
+
+| Jurisdicción / sistema | Tratamiento de las estructuras (fusión, escisión, adquisiciones) |
+|---|---|
+| **México (Civil Law)** | Fusión y escisión reguladas en la **LGSM** (arts. 222-226 y 228 Bis); protección de acreedores por **oposición** (3 meses fusión / 45 días escisión) y **responsabilidad solidaria** (escisión); **derecho de separación** del socio disidente; neutralidad fiscal condicionada (LISR/CFF). Share/asset deal por derecho común + LGSM. |
+| **EE.UU. (Common Law)** | Régimen **estatal** (cada estado su ley societaria). La **fusión** es muy flexible (incluye la *triangular merger* —fusión a través de una subsidiaria— y la *reverse triangular merger*, muy usadas en M&A). Fuerte desarrollo de los ***appraisal rights*** (derecho de separación) y de los deberes fiduciarios. |
+| **Delaware** | El estándar de referencia: **DGCL** muy sofisticada en fusiones (incluida la *short-form merger* de matriz-subsidiaria y, hoy, la fusión sin nuevo voto tras una OPA exitosa). *Case law* riquísimo sobre **appraisal** y deberes del consejo. La "lengua franca" de las estructuras de M&A. |
+| **España (Civil Law)** | **Ley de Modificaciones Estructurales** regula con detalle fusión, escisión, cesión global de activo/pasivo y traslado de domicilio; fuerte protección de acreedores y socios; armonización con directivas de la UE. |
+| **Reino Unido (Common Law)** | Las adquisiciones de sociedades cotizadas se rigen por el **Takeover Code**; las reorganizaciones suelen hacerse vía ***scheme of arrangement*** (un mecanismo aprobado por la corte, muy usado para adquisiciones y reestructuras). |
+| **Unión Europea** | **Directivas** que armonizan fusiones (incluidas las **transfronterizas**), escisiones y movilidad de sociedades, con protecciones comunes a acreedores y trabajadores. |
+| **UNIDROIT / soft law** | Principios sobre contratos comerciales que rigen los **acuerdos de adquisición** internacionales (buena fe, interpretación), supletorios del diseño contractual de la operación. |
+| **Civil Law vs. Common Law (síntesis)** | El **civil law** regula la fusión/escisión como **modificaciones estructurales** tasadas, con protección legal de acreedores (oposición) y socios (separación). El **common law** ofrece más **flexibilidad de ingeniería** (triangular mergers, schemes) y confía en *appraisal* y deberes fiduciarios. En M&A transfronterizo, conviven ambas lógicas. |
+
+**Lección comparada:** dos figuras del common law que el abogado mexicano debe conocer aunque no existan
+idénticas aquí: la ***reverse triangular merger*** (el comprador crea una subsidiaria que se fusiona con
+la *target*, sobreviviendo la *target* como filial del comprador —preserva los contratos de la *target* y
+evita votos individuales—) y el ***scheme of arrangement*** británico. Aparecen constantemente en deals
+internacionales y en la estructura de adquisiciones de empresas con presencia en EE.UU. o Reino Unido.
+
+## 23. Derecho mexicano
+
+El régimen mexicano de las estructuras se concentra en la **LGSM** y se complementa con la legislación
+fiscal, laboral y de competencia:
+
+- **Fusión (LGSM, arts. 222-226):** acuerdo en asamblea extraordinaria de **cada** sociedad; inscripción
+  en el RPC y publicación; **efectos a los 3 meses** salvo pago/garantía/consentimiento de acreedores;
+  **derecho de oposición** judicial de los acreedores (suspende la fusión); transmisión universal del
+  patrimonio a la fusionante o nueva sociedad; extinción de las fusionadas sin liquidación.
+- **Escisión (LGSM, art. 228 Bis):** acuerdo en asamblea extraordinaria con **mayoría reforzada**;
+  contenido obligatorio de la resolución (reparto de activos, pasivos y capital; estados financieros);
+  publicación e inscripción; **derecho de oposición** de acreedores (**45 días naturales**);
+  **responsabilidad solidaria** de las beneficiarias (y escindente en la parcial) frente a acreedores
+  durante el plazo legal; reparto de acciones entre los socios; **derecho de separación** del disidente.
+- **Compraventa de acciones (share deal):** Código de Comercio y supletoriamente Código Civil; transmisión
+  por **endoso** e inscripción en el **libro de registro de accionistas** (acciones nominativas); régimen
+  especial para emisoras (LMV). Documentada en un **SPA**.
+- **Compraventa de activos (asset deal):** reglas de compraventa y **cesión** de cada bien/derecho;
+  inmuebles ante notario e inscripción; cesión de contratos con consentimiento cuando se requiera; cesión
+  de créditos con notificación al deudor; transmisión de PI ante el IMPI. Documentada en un **APA**.
+- **Régimen fiscal (LISR, CFF):** requisitos de **neutralidad** para fusiones y escisiones (permanencia
+  accionaria, continuidad, avisos; ciertas reorganizaciones requieren **autorización**); reglas **antiabuso**
+  (norma general antiabuso del CFF: exigencia de **razón de negocio**).
+- **Materia laboral (LFT):** **sustitución patronal** —continuidad de las relaciones laborales y de los
+  derechos de los trabajadores cuando cambia el titular de la empresa o del establecimiento—.
+- **Competencia (LFCE):** notificación de **concentraciones** a la COFECE y prohibición de *gun jumping*.
+
+> **Nota de método:** verifica el texto vigente de la LGSM y de la legislación fiscal antes de aplicar
+> plazos, mayorías y requisitos en un caso real (Manifiesto XI.5).
+
+## 24. Jurisprudencia relevante
+
+> *Nota de método: verifica vigencia y datos de identificación antes de citar.*
+
+Los criterios mexicanos relevantes giran en torno a las **protecciones** de las reorganizaciones:
+- **Derecho de oposición de los acreedores** en fusión y escisión: criterios sobre quién tiene interés
+  jurídico, el efecto suspensivo de la oposición y su tramitación.
+- **Responsabilidad solidaria en la escisión:** alcance y temporalidad de la responsabilidad de las
+  beneficiarias frente a los acreedores de la escindente.
+- **Derecho de separación del socio:** supuestos y forma de ejercerlo y de valuar las acciones a
+  reembolsar.
+- **Sustitución patronal (materia laboral):** criterios sobre la continuidad de los derechos de los
+  trabajadores y la responsabilidad del patrón sustituto y sustituido durante el periodo legal.
+- **Materia fiscal:** criterios sobre los requisitos de neutralidad de fusiones y escisiones y sobre la
+  recaracterización por **falta de razón de negocio**.
+
+En el ámbito **anglosajón** (de gran influencia práctica), el *case law* de **Delaware** sobre *appraisal
+rights* (valuación de las acciones del disidente) y sobre los deberes del consejo en fusiones es estudio
+constante para el diseño de operaciones internacionales.
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **SCJN / tribunales:** criterios sobre el **derecho de oposición**, la **responsabilidad solidaria** en
+  escisión, el **derecho de separación** y la **sustitución patronal**, que delinean las protecciones de
+  acreedores, socios y trabajadores en las reorganizaciones.
+- **COFECE:** guías y resoluciones sobre **concentraciones** (cuándo una fusión/adquisición es notificable,
+  umbrales, *gun jumping*).
+- **SAT:** criterios sobre los requisitos de **neutralidad fiscal** de fusiones y escisiones y sobre la
+  **norma general antiabuso** (razón de negocio); reglas sobre avisos y autorizaciones de reorganización.
+- **CNBV (emisoras):** régimen de fusiones y reorganizaciones de sociedades públicas y su interacción con
+  OPAs e información al mercado.
+
+## 26. Doctrina nacional
+
+La doctrina mexicana sobre fusión y escisión proviene del **derecho societario y mercantil**: los autores
+clásicos de sociedades mercantiles (que analizan la fusión como modificación estructural y la escisión
+desde su incorporación en 1992), complementados por la doctrina **fiscal** (sobre la neutralidad y el
+antiabuso de las reorganizaciones) y la **laboral** (sustitución patronal). La práctica de los grandes
+despachos corporativos ha desarrollado, además, un cuerpo de **know-how transaccional** (cómo combinar
+escisiones, fusiones y share deals para reorganizaciones eficientes) que vive más en los precedentes y en
+la formación interna que en los tratados académicos.
+
+## 27. Doctrina internacional
+
+- **Derecho societario de Delaware y EE.UU. (DGCL, tratados de *corporations*):** referencia sobre fusiones
+  (incluidas las triangulares), *appraisal rights* y deberes del consejo en operaciones estructurales.
+- **Literatura de M&A y *deal structuring* (manuales de los grandes despachos, Practical Law):** el "cómo"
+  práctico de estructurar adquisiciones, carve-outs y reorganizaciones.
+- **OCDE — BEPS y sustancia económica:** el marco internacional **antiabuso** que condiciona el diseño
+  fiscal de las reorganizaciones transfronterizas.
+- **Directivas de la UE sobre modificaciones estructurales:** el modelo armonizado de fusión/escisión
+  (incluidas las transfronterizas) en el civil law europeo.
+- **Doctrina de finanzas corporativas (para LBO y fusión apalancada):** conecta la estructura con el
+  financiamiento y la valuación (anticipa los Libros 5 y el Nivel V).
+
+## 28. Opiniones críticas (postura del Consejo Editorial)
+
+**Primero: la estructura crea (o destruye) más valor que muchas cláusulas.** Sostenemos que la elección de
+estructura es **subvalorada** por el abogado novel, que se concentra en redactar cláusulas y descuida el
+diseño. Una estructura mal elegida puede costar millones en impuestos o en pasivos heredados que ninguna
+cláusula repara. El abogado de élite **piensa la estructura primero**.
+
+**Segundo: ninguna estructura es buena o mala en abstracto.** Criticamos el dogmatismo ("el asset deal
+siempre es mejor para el comprador", "la fusión siempre es neutral"). La respuesta correcta es **siempre**
+el equilibrio de los cuatro ejes para el caso concreto. El buen abogado razona, no aplica recetas.
+
+**Tercero: la sustancia por encima del esquema.** Advertimos con firmeza contra las reorganizaciones
+**artificiales** diseñadas solo para eludir impuestos. Además del riesgo legal (recaracterización
+antiabuso), hay una cuestión **ética y de criterio profesional**: el abogado serio diseña con **razón de
+negocio** real y documenta su propósito. La era de los "esquemas" terminó.
+
+**Cuarto: la estructura debe servir al negocio, no al revés.** Criticamos las reorganizaciones que
+complican tanto la estructura (decenas de sociedades, cadenas interminables) que el grupo se vuelve
+ingobernable y costoso de administrar. La **elegancia** —la estructura más simple que logra el objetivo—
+es una virtud, no un lujo.
+
+## 29. Debate doctrinal
+
+- **Share deal vs. asset deal: ¿quién soporta los pasivos "que siguen al negocio"?** Debate sobre el
+  alcance de las excepciones (laboral, fiscal, ambiental) que pegan ciertos pasivos al activo/negocio
+  aunque se pacte lo contrario. *Postura del Consejo:* el comprador de un asset deal debe **mapear** estas
+  excepciones en la DD y **no** confiar en que "el asset deal lo aísla de todo"; muchas veces necesita,
+  además, reps e indemnización del vendedor.
+- **¿La escisión perjudica a los acreedores?** Tensión entre la **libertad de reorganización** de la
+  empresa y la **protección del acreedor** cuyo deudor reparte su patrimonio. *Postura del Consejo:* la
+  **responsabilidad solidaria** y el **derecho de oposición** equilibran bien la tensión; el problema real
+  son las escisiones diseñadas para **defraudar** acreedores (dejar las deudas en una sociedad vacía), que
+  deben combatirse con la acción de fraude y la responsabilidad solidaria.
+- **Neutralidad fiscal vs. antiabuso: ¿dónde está la línea?** ¿Cuándo una reorganización tiene "razón de
+  negocio" legítima y cuándo es un abuso? *Postura del Consejo:* la línea está en la **sustancia económica
+  real**; una reorganización con propósito de negocio genuino (separar riesgos, preparar una venta,
+  ordenar la sucesión) que **además** sea eficiente fiscalmente es legítima; una que **solo** busque el
+  beneficio fiscal, sin sustancia, no.
+- **Flexibilidad anglosajona vs. tipicidad del civil law.** ¿Es mejor la libertad de ingeniería del common
+  law (triangular mergers, schemes) o la seguridad de las figuras tasadas del civil law? *Postura del
+  Consejo:* cada sistema tiene su virtud; el abogado mexicano de élite debe **conocer ambos** porque opera
+  en deals transfronterizos donde conviven.
