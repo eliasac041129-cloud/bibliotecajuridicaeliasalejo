@@ -48,7 +48,7 @@ integridad. Este archivo es el tablero de control.
 | 3 | Títulos y operaciones de crédito (LGTOC) | ✅ | 4–5 sem |
 | 4 | Contratos mercantiles | ✅ | 4–5 sem |
 | 5 | Mercado de valores (LMV) | ✅ | 5–6 sem |
-| 6 | Concurso mercantil | ⬜ | 4 sem |
+| 6 | Concurso mercantil | ✅ | 4 sem |
 | 7 | Gobierno corporativo (mercantil) | ⬜ | 4 sem |
 
 ## Nivel IV · Corporate Law — (estándar V3)
