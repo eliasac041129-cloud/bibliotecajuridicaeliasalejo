@@ -600,3 +600,192 @@ Régimen en el CCF (verificar versión vigente y código local):
   disuasiva" del daño moral es suficiente y más respetuosa de la naturaleza compensatoria?
 - **Límites a la autonomía contractual:** ¿hasta dónde pueden las partes limitar/excluir la
   responsabilidad sin vulnerar el orden público y la protección del débil?
+
+
+## 30. Errores comunes
+
+- **Confundir responsabilidad contractual y extracontractual** (y elegir mal la acción): cambian la
+  prueba, la prescripción y la extensión del daño.
+- **No probar el nexo causal.** El error más frecuente: hay daño y hay hecho, pero no se demuestra
+  que **uno causó el otro** (consecuencia inmediata y directa, art. 2110).
+- **Reclamar daños remotos o hipotéticos.** El lucro cesante debe ser **razonablemente cierto**;
+  los daños indirectos suelen estar **excluidos** por contrato.
+- **Olvidar el deber de mitigar.** No tomar medidas razonables para reducir el daño puede recortar
+  la indemnización.
+- **Pretender excluir el dolo por contrato.** Nulo (art. 2106): los *caps* y exclusiones no cubren
+  el fraude.
+- **Ignorar la responsabilidad objetiva (art. 1913).** Creer que sin culpa no se responde, cuando
+  la actividad es peligrosa por su naturaleza.
+- **Confundir daño moral con daño patrimonial** y no fundamentar su cuantificación.
+
+## 31. Mitos frecuentes
+
+- *"Si no hubo culpa, no hay responsabilidad."* **Falso:** existe la responsabilidad **objetiva**
+  por riesgo creado (art. 1913).
+- *"El daño moral no se paga en México."* **Falso:** se indemniza (art. 1916), con función incluso
+  disuasiva.
+- *"Con un *cap* me blindo de todo."* **Falso:** el *cap* no cubre el **dolo/fraude** ni daños a la
+  vida/integridad.
+- *"En México existen los daños punitivos."* **Inexacto:** no como tales; existe la **función
+  disuasiva** del daño moral.
+- *"La empresa no responde por lo que haga su empleado."* **Falso:** responde por hechos de sus
+  **dependientes** en funciones (art. 1924).
+
+## 32. Preguntas difíciles
+
+1. ¿Debe responder el desarrollador de una **IA** por los daños que esta cause: bajo culpa, bajo
+   riesgo creado (art. 1913), o se necesita un régimen nuevo?
+2. ¿Hasta dónde puede un SPA excluir el **lucro cesante** y los **consequential damages** sin dejar
+   al comprador sin remedio efectivo?
+3. ¿La "función disuasiva" del daño moral encubre, de facto, daños punitivos prohibidos? ¿Es
+   legítima?
+4. Cuando un hecho es **incumplimiento e ilícito** a la vez, ¿puede la víctima elegir el régimen
+   que más le conviene (opción) o acumular ambos?
+5. ¿Debería el deber de **mitigar** estar expresamente regulado en el CCF, como en la CISG?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**P1.** *Distinga responsabilidad contractual y extracontractual.* **R.** La contractual surge del
+**incumplimiento** de una obligación previa entre las partes (arts. 2104 y ss.); la
+extracontractual, de un **hecho ilícito** sin relación previa (arts. 1910 y ss.). Difieren en
+carga de la prueba, prescripción, extensión del daño y posibilidad de pactar límites.
+
+**P2.** *¿Qué es la responsabilidad objetiva y en qué artículo se funda?* **R.** La obligación de
+reparar **sin culpa**, por el uso de cosas o actividades **peligrosas por su naturaleza**;
+art. 1913 CCF. El demandado solo se libera probando culpa/negligencia inexcusable de la víctima o
+caso fortuito.
+
+**P3.** *Enumere los elementos de la responsabilidad civil.* **R.** Hecho generador (culpa/dolo o
+riesgo; en la contractual, incumplimiento), daño (cierto, personal, directo), nexo causal y
+antijuridicidad (ausencia de causa de justificación).
+
+**P4.** *¿Hasta dónde se responde de los daños (límites de cuantía)?* **R.** Consecuencia
+**inmediata y directa** (art. 2110), **previsibilidad** (en la contractual), **deber de mitigar** y
+**concurrencia de culpas** (reducción). No se responde de daños remotos.
+
+**P5.** *¿Puede excluirse por contrato la responsabilidad por dolo?* **R.** No: el art. 2106
+prohíbe la renuncia anticipada a la responsabilidad por **dolo**; sería nula.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** asociado de litigio/transaccional. **Cliente:** comprador de una empresa química.
+> **Hechos:** 14 meses después del cierre, una planta de la *target* sufre un derrame que daña a
+> vecinos y al ambiente. La autoridad ambiental impone remediación; los vecinos demandan daños
+> (materiales y morales). El SPA tenía: *reps* ambientales, una **indemnidad específica** por
+> pasivos ambientales (sin cap), *survival* de 3 años, y exclusión de *consequential damages*.
+>
+> **Tarea:** elabora una **estrategia integral** que cubra: (1) la **responsabilidad frente a
+> terceros** (vecinos): ¿objetiva por actividad peligrosa (art. 1913)?, ¿daño material y moral?,
+> ¿defensa y mitigación?; (2) la **responsabilidad ambiental** (remediación) y su régimen; (3) el
+> **recobro contra el vendedor** vía la **indemnidad específica** del SPA (¿aplica?, ¿dentro del
+> *survival*?, ¿se excluye por *consequential*?); (4) el papel del **seguro** (responsabilidad
+> ambiental / de producto); (5) la cuantificación (daño emergente, lucro cesante, daño moral,
+> límites de causalidad). Concluye con la **asignación final del costo**: quién paga qué y por qué.
+
+*(Pista de evaluación: la mejor respuesta distingue la responsabilidad **frente a terceros**
+—objetiva, no limitable por el SPA, que no obliga a los vecinos— del **recobro contractual** contra
+el vendedor —regido por el SPA: indemnidad específica, survival, exclusiones—, y articula el
+**seguro** como tercera capa.)*
+
+## 35. Flashcards
+
+- **¿Tres pilares de la responsabilidad?** → Hecho generador, daño, nexo causal (+ incumplimiento
+  en la contractual).
+- **¿Responsabilidad objetiva (art. 1913)?** → Reparar sin culpa por actividad/cosa peligrosa.
+- **¿Principio general (art. 1910)?** → Quien obra ilícitamente y causa daño debe repararlo.
+- **¿Daño emergente vs. lucro cesante?** → Pérdida sufrida vs. ganancia dejada de obtener.
+- **¿Daño moral (art. 1916)?** → Afectación a bienes extrapatrimoniales (honor, sentimientos,
+  dignidad).
+- **¿Límite causal?** → Consecuencia inmediata y directa (art. 2110).
+- **¿Se puede excluir el dolo por contrato?** → No (art. 2106).
+- **¿Quién responde por los empleados?** → El patrón, por hechos en funciones (art. 1924).
+- **¿Eximentes?** → Caso fortuito, culpa de la víctima, hecho de tercero.
+- **¿Daños punitivos en México?** → No como tales; sí "función disuasiva" del daño moral.
+- **¿Reparación integral?** → Material + moral + proyecto de vida (restitutio in integrum).
+- **¿Cap / basket / survival?** → Tope / umbral / plazo de la indemnización contractual.
+
+## 36. Mapas mentales
+
+```
+RESPONSABILIDAD CIVIL
+├── CLASES
+│   ├── Contractual (incumplimiento; arts. 2104+)
+│   └── Extracontractual: subjetiva (culpa, 1910) · OBJETIVA (riesgo, 1913)
+├── ELEMENTOS
+│   ├── Hecho generador (culpa/dolo o riesgo / incumplimiento)
+│   ├── Daño (cierto, personal, directo)
+│   ├── Nexo causal (inmediata y directa, 2110)
+│   └── Antijuridicidad (sin causa de justificación)
+├── DAÑO
+│   ├── Patrimonial: emergente + lucro cesante
+│   ├── MORAL (1916): honor, dignidad, sentimientos
+│   └── Reparación integral (restitutio in integrum)
+├── LÍMITES
+│   └── Causalidad directa · previsibilidad · deber de mitigar · concurrencia de culpas
+├── EXIMENTES
+│   └── Caso fortuito · culpa de la víctima · hecho de tercero · justificación
+└── ASIGNACIÓN CONTRACTUAL (puente con SPA)
+    └── Indemnity · CAP · basket · exclusión de consecuenciales · survival · seguros (D&O, R&W)
+        └── Límite: NO se excluye el DOLO (2106)
+```
+
+## 37. Cuadros comparativos
+
+**Contractual vs. extracontractual**
+
+| | Contractual | Extracontractual |
+|---|---|---|
+| Origen | Incumplimiento de contrato | Hecho ilícito (sin contrato) |
+| Culpa | Se presume tras el incumplimiento | Debe probarse (salvo objetiva) |
+| Extensión del daño | Limitada por previsibilidad | Más amplia (daño directo) |
+| Pactar límites | Amplio (caps, exclusiones) | Restringido |
+
+**Subjetiva vs. objetiva**
+
+| | Subjetiva (culpa) | Objetiva (riesgo) |
+|---|---|---|
+| Fundamento | Culpa/dolo | Crear y aprovechar un riesgo |
+| Prueba | Víctima prueba la culpa | Se presume; demandado prueba eximente |
+| Ejemplos | Negligencia común | Producto, ambiental, actividades peligrosas |
+
+**Tipos de daño**
+
+| Daño | Qué repara | Ejemplo |
+|---|---|---|
+| Emergente | Pérdida sufrida | Reparación de un bien |
+| Lucro cesante | Ganancia no obtenida | Negocio perdido |
+| Moral | Afectación extrapatrimonial | Honor, sufrimiento |
+
+## 38. Diagramas
+
+**Árbol de la reclamación de daños:**
+```
+¿Hay hecho generador imputable? (culpa / riesgo / incumplimiento)
+        │ sí
+        ▼
+¿Hay daño cierto y probado? ──no──► sin responsabilidad
+        │ sí
+        ▼
+¿Hay nexo causal directo (2110)? ──no──► sin responsabilidad
+        │ sí
+        ▼
+¿Alguna eximente? (caso fortuito / culpa víctima / tercero) ──sí──► excluye o reduce
+        │ no
+        ▼
+RESPONSABILIDAD → cuantificar (emergente + lucro cesante + moral) − límites (mitigar, cap)
+```
+
+**Tres capas de gestión del riesgo en la empresa:**
+```
+PREVENCIÓN (compliance, calidad) → TRANSFERENCIA CONTRACTUAL (indemnity, cap, hold harmless)
+→ SEGURO (D&O, producto, ambiental, R&W)
+```
+
+## 39. Mnemotecnias
+
+- **Elementos:** *"Hecho + Daño + Causa"* (HDC), y en contractual, "+ incumplimiento".
+- **Objetiva:** *"juegas con fuego, pagas el incendio (1913), aunque seas cuidadoso"*.
+- **Límite del dolo:** *"el cap frena la culpa, no el fraude (2106)"*.
+- **Cuantía:** *"directo, previsible, mitigado"* (los tres filtros del daño).
+- **Daño:** *"lo que perdí (emergente) + lo que no gané (cesante) + lo que sufrí (moral)"*.
+- **Gestión del riesgo:** *"Prevén, Transfiere, Asegura"* (PTA).
