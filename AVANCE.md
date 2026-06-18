@@ -35,7 +35,7 @@ integridad. Este archivo es el tablero de control.
 | # | Tratado | Estado | ⏱ Dominio |
 |---|---------|--------|-----------|
 | 1 | Teoría general de las obligaciones (profundización) | ✅ | 3–4 sem |
-| 2 | Contratos civiles en particular | ⬜ | 5–6 sem |
+| 2 | Contratos civiles en particular | ✅ | 5–6 sem |
 | 3 | Responsabilidad civil | ⬜ | 3–4 sem |
 | 4 | Garantías y derechos reales de garantía | ⬜ | 3–4 sem |
 
