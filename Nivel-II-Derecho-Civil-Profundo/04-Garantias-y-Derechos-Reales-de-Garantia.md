@@ -263,3 +263,140 @@ prioridad) y **se puede cobrar rápido** (ejecutable).
 - **Cross-collateralization:** un mismo paquete de garantías respalda **varios** créditos.
 - **Intercreditor agreement:** acuerdo entre varios acreedores que regula la **prelación** y la
   **subordinación** de sus garantías y créditos (deuda *senior* vs. *mezzanine*).
+
+
+## 14. Desarrollo absoluto
+
+Estudiamos cada garantía por su **ciclo de vida**: **constitución → perfeccionamiento → prioridad →
+ejecución**, más la **accesoriedad** transversal. Cerramos con el ensamblaje del **security
+package** y la prelación en concurso.
+
+### 14.A · Las garantías personales (fianza, aval, garantía corporativa)
+
+**Fianza.** Contrato accesorio por el que el fiador **paga por el deudor** si este no lo hace
+(art. 2794). Ciclo de vida:
+- **Constitución:** por contrato; debe ser **expresa** y no se presume; no puede exceder ni ser más
+  onerosa que la obligación principal (accesoriedad).
+- **Beneficios de orden y excusión (arts. 2814 y ss.):** el fiador puede exigir que se demande y se
+  persigan **primero** los bienes del deudor. **En la práctica comercial se renuncian**, volviendo
+  al fiador un obligado de **cobro inmediato** (casi solidario).
+- **Extinción:** se extingue con el crédito principal; la **novación** o la **prórroga** concedida
+  al deudor sin consentimiento del fiador lo **liberan** (arts. 2220-2222). *Trampa:* todo garante
+  debe **ratificar** cualquier modificación/novación.
+
+**Aval** (título de crédito, LGTOC — se profundiza en Nivel III): garantía **autónoma y solidaria**
+del pago de un título; a diferencia de la fianza, el avalista responde **aunque la obligación
+garantizada sea nula por vicio de forma** (autonomía cambiaria).
+
+**Garantía corporativa (*parent/affiliate guarantee*):** una sociedad del grupo garantiza la deuda
+de otra. Límites: el **interés social** (la filial que garantiza a la matriz sin beneficio propio
+puede incurrir en fraude de acreedores o violar deberes de sus administradores) y la **fianza
+mercantil** de afianzadoras (regulada).
+
+### 14.B · La prenda (garantía real sobre muebles)
+
+**Prenda con desplazamiento (clásica, CCF).** El deudor **entrega** la cosa mueble al acreedor (o a
+un tercero). Ciclo:
+- **Constitución:** contrato; la **entrega** (desplazamiento de la posesión) es esencial para su
+  perfeccionamiento frente a terceros.
+- **Prioridad:** la posesión del acreedor publicita la prenda.
+- **Ejecución:** ante incumplimiento, **venta/remate** (no apropiación: pacto comisorio **prohibido**,
+  art. 2887); el acreedor cobra con **preferencia** sobre el producto.
+
+**Prenda sin transmisión de posesión (LGTOC, la moderna y más usada en empresa).** El deudor
+**conserva y usa** el bien (inventario, maquinaria, materias primas, equipo). Ciclo:
+- **Constitución:** contrato con requisitos de la LGTOC; puede recaer sobre bienes **presentes y
+  futuros** y sobre **universalidades** (todo el inventario rotativo).
+- **Perfeccionamiento:** **inscripción en el RUG** (Registro Único de Garantías Mobiliarias).
+- **Prioridad:** la **fecha de inscripción** en el RUG fija la prelación (*prior in tempore*).
+- **Ejecución:** procedimiento previsto en la LGTOC; posibilidad de ejecución ágil.
+
+**Prenda sobre acciones (clave en M&A).** Las acciones son **muebles** (Libro 6): se dan en
+**prenda**, no en hipoteca. Se constituye por **endoso en garantía** del título accionario y
+**anotación en el libro de registro de accionistas** de la sociedad (y, según el caso, inscripción).
+Es la **garantía estrella del *acquisition finance***: si el comprador no paga el crédito que
+financió la compra, el banco se queda con (o realiza) **las acciones de la *target***.
+
+### 14.C · La hipoteca (garantía real sobre inmuebles)
+
+Ciclo de vida:
+- **Constitución:** sobre bienes **inmuebles** (y ciertos derechos, p. ej. una concesión); requiere
+  **escritura pública** (art. 2917). El deudor **conserva la posesión y el uso** (sigue operando la
+  planta hipotecada).
+- **Perfeccionamiento:** **inscripción en el Registro Público de la Propiedad**; sin inscripción,
+  no es oponible a terceros.
+- **Prioridad:** por **fecha de inscripción**; pueden existir **varias hipotecas** sobre el mismo
+  inmueble en distinto grado (primera, segunda hipoteca).
+- **Ejecución:** **juicio hipotecario** (vía especial), con **remate** del inmueble; pago
+  preferente con el producto. Pacto comisorio **prohibido**.
+
+### 14.D · El fideicomiso de garantía (la garantía más versátil y de ejecución ágil)
+
+El deudor (fideicomitente) **transmite** bienes (inmuebles, muebles, **flujos**, cuentas, acciones)
+a una **fiduciaria** (institución financiera) que los mantiene afectos a garantizar la obligación
+en favor del acreedor (fideicomisario). Ventajas:
+- **Ejecución ágil:** el contrato puede prever la **realización extrajudicial** de los bienes,
+  evitando el largo juicio hipotecario — su gran atractivo.
+- **Versatilidad:** afecta **cualquier** tipo de bien y **flujos futuros** (peajes, rentas, cuentas
+  por cobrar) — base del **project finance**.
+- **Patrimonio autónomo:** los bienes salen del patrimonio del deudor y quedan "blindados" en el
+  fideicomiso (con límites frente al fraude de acreedores y el concurso).
+*Conexión M&A/financiamiento:* fideicomisos de **acciones**, de **flujos** y de **administración y
+fuente de pago** son piezas centrales de los financiamientos estructurados.
+
+### 14.E · La accesoriedad y sus trampas (transversal)
+
+Las garantías (salvo las autónomas) son **accesorias**: siguen al crédito. Consecuencias críticas:
+- Si el crédito **se extingue** (pago, prescripción), la garantía **se extingue**.
+- Si el crédito **se nova** sin **reserva expresa**, las garantías accesorias **se extinguen**
+  (art. 2220) y los garantes terceros solo subsisten si **consienten**. *El error más caro de las
+  reestructuras* (visto en el Libro 1).
+- Si el crédito **se cede**, la garantía **se transmite con él** (art. 2032) — pero conviene
+  **reinscribir** a nombre del cesionario para su oponibilidad.
+
+Frente a ello, las **garantías autónomas / a primera demanda** (independientes del crédito
+principal, pagaderas al requerimiento) ofrecen al acreedor una protección **desvinculada** de las
+vicisitudes del contrato subyacente; muy usadas internacionalmente (*standby letters of credit*,
+*first demand guarantees*).
+
+### 14.F · Ensamblaje: el *security package* y la prelación
+
+**Diseño del paquete (cómo razona un socio).** *"Frente a un crédito corporativo, mapeo los activos
+del deudor y a cada uno le asigno su garantía idónea: inmuebles → **hipoteca**; maquinaria e
+inventario → **prenda sin transmisión** (RUG); **acciones** de la target → **prenda**; cuentas y
+flujos → **prenda** o **fideicomiso**; y, encima, **garantías corporativas** del grupo
+(personales). Luego me obsesiono con tres cosas: **perfeccionar e inscribir** cada garantía para
+ganar **prioridad**, coordinar la **inscripción simultánea** el día del cierre, y blindar con
+**negative pledge** para que el deudor no grave a otros. Finalmente, si hay varios acreedores
+(senior/mezzanine), regulo la prelación con un **intercreditor agreement**."*
+
+**Prelación en el concurso mercantil (anticipo del Nivel III).** Cuando el deudor cae en concurso,
+las garantías reales dan a sus titulares la categoría de **acreedores con garantía real**, que
+cobran con **preferencia** sobre el bien gravado, **después** de ciertos créditos
+**singularmente privilegiados** (laborales por salarios y ciertos gastos) y con reglas especiales
+para los **fiscales**. El concurso puede **suspender** las ejecuciones individuales e integrar los
+bienes a la masa con reglas propias. *Lección:* la garantía real es lo que **separa al acreedor que
+recupera del que mira cómo otros cobran**; pero su eficacia depende de haber sido **bien
+perfeccionada antes** del concurso (las constituidas en el "periodo de retroacción" pueden ser
+impugnadas).
+
+## 15. Explicación intuitiva
+
+Piensa en las garantías como las **medidas de seguridad de un préstamo**, en capas:
+- La **garantía personal** (fianza/aval/garantía corporativa) es como pedir un **codeudor**: si el
+  principal no paga, **tocas la puerta de otro bolsillo**. Cuantos más avalistas solventes, más
+  seguro el cobro.
+- La **garantía real** (prenda/hipoteca/fideicomiso) es poner un **candado sobre un bien
+  específico**: ese bien queda "marcado" para pagarte a ti **primero** (preferencia) y te sigue
+  aunque cambie de dueño (persecución).
+- El **registro** (Registro Público / RUG) es la **placa visible** del candado: hace que **todos**
+  sepan que el bien ya está comprometido y fija **quién llegó primero** (prioridad). Un candado sin
+  placa (garantía sin registrar) puede no valer frente a terceros.
+- La **ejecución** es **abrir el candado y cobrarte con el bien** cuando no te pagan; el derecho
+  exige hacerlo por **remate** (no quedártelo sin más: pacto comisorio prohibido), salvo los
+  mecanismos ágiles del **fideicomiso**.
+
+El abogado de financiamiento es el **cerrajero experto**: elige el candado adecuado para cada bien,
+lo instala bien (perfecciona), pone la placa (registra) para llegar **primero**, y se asegura de
+que se pueda **abrir rápido** el día del impago. Un *deal* de crédito, desarmado, es un **conjunto
+de candados** bien puestos sobre el patrimonio del deudor.
