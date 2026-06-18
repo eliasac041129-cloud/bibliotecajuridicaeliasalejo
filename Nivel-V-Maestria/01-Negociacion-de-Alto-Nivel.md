@@ -275,3 +275,139 @@ diferencia entre el abogado que **ejecuta** lo que otros decidieron y el que **d
 asesor estratégico que las empresas más valoran—. Por eso la negociación abre el Nivel V: es la primera y
 más universal de las herramientas que convierten al jurista en **arquitecto de acuerdos y asesor de
 negocios**.
+
+## 10. Definiciones doctrinales
+
+La doctrina de la negociación (sobre todo la escuela de Harvard) define los conceptos centrales así:
+
+- **Negociación:** proceso de **comunicación** entre dos o más partes con intereses parcialmente comunes y
+  parcialmente contrapuestos, dirigido a alcanzar un **acuerdo** sobre cómo actuar o repartir algo. La
+  doctrina la define como **toma de decisiones conjunta** bajo interdependencia.
+- **Posiciones vs. intereses:** la **posición** es lo que una parte **dice que quiere** (su demanda
+  concreta: "quiero $100"); los **intereses** son las **necesidades, deseos y preocupaciones subyacentes**
+  que explican esa posición ("necesito liquidez", "quiero seguridad", "busco reconocimiento"). La clave de
+  Harvard: negociar sobre **intereses**, no sobre posiciones, porque varias soluciones pueden satisfacer un
+  interés.
+- **BATNA (*Best Alternative To a Negotiated Agreement*):** la **mejor alternativa** que tienes **si no hay
+  acuerdo** —qué harás si te levantas de la mesa—. Es la **fuente real de tu poder** de negociación y el
+  estándar contra el cual mides cualquier oferta (no aceptes nada peor que tu BATNA).
+- **Punto de reserva (*reservation value* / *walk-away*):** el **peor acuerdo** que aceptarías —el punto a
+  partir del cual prefieres tu BATNA—. Deriva del BATNA. Por debajo (o por encima, según el lado), te
+  retiras.
+- **ZOPA (*Zone Of Possible Agreement* / zona de posible acuerdo):** el **rango** de acuerdos que dejan a
+  **ambas** partes mejor que su punto de reserva. Existe acuerdo posible **solo si** los puntos de reserva
+  se **solapan** (hay ZOPA); si no, no hay trato posible.
+- **Negociación distributiva (reclamar valor / "suma cero"):** la dimensión en la que se **reparte** un
+  valor fijo (el pastel dado): lo que uno gana, el otro lo pierde. Su herramienta central es el **anclaje**
+  y el manejo de concesiones.
+- **Negociación integradora (crear valor / "suma positiva"):** la dimensión en la que se **agranda el
+  pastel** encontrando intercambios que benefician a ambos (porque valoran las cosas de forma distinta).
+  Su herramienta es explorar **intereses** y generar **opciones**.
+- **El dilema del negociador:** la **tensión** entre crear valor (requiere apertura, compartir información,
+  confianza) y reclamar valor (favorece la reserva, el ocultamiento, la dureza). El arte está en
+  **manejar ambas** sin que la de reclamar destruya la de crear.
+- **Principled negotiation (negociación por principios / por méritos):** el método de Harvard: separar
+  personas y problema, intereses sobre posiciones, opciones de beneficio mutuo, criterios objetivos.
+
+## 11. Definiciones legales y marco normativo
+
+La negociación es una **actividad** más que una institución jurídica, pero el derecho la **enmarca**:
+
+- **Buena fe precontractual (Código Civil / Código de Comercio).** Las partes deben negociar de **buena
+  fe**; aunque hay **libertad** para negociar y no concluir, romper de **mala fe** una negociación avanzada
+  (creando confianza legítima y luego frustrándola sin causa) puede generar **responsabilidad
+  precontractual** (*culpa in contrahendo*).
+- **Vicios del consentimiento (CCF).** El **dolo** (engaño para inducir a contratar), el **error** y la
+  **violencia** vician el consentimiento y pueden anular el contrato. El negociador puede **persuadir y no
+  revelar**, pero **no engañar**: la frontera entre la astucia legítima y el dolo ilícito es jurídica.
+- **Deberes de información.** En ciertos contratos y relaciones existe un **deber de informar** (revelar
+  información relevante); su omisión (**reticencia dolosa**) puede viciar el acuerdo. (Conecta con las reps
+  y los *disclosure schedules* del SPA.)
+- **Documentos preliminares (MOU, term sheet, carta de intención).** El derecho distingue lo **vinculante**
+  de lo **no vinculante** en estos documentos; mal redactados, pueden generar obligación o responsabilidad
+  (Nivel IV).
+- **Confidencialidad (NDA).** Las negociaciones serias se amparan en acuerdos de confidencialidad que
+  protegen la información intercambiada.
+- **Límites de competencia y orden público.** Las negociaciones no pueden derivar en acuerdos **ilícitos**
+  (colusión, fraude) ni violar normas imperativas.
+- **Ética profesional del abogado.** Los códigos deontológicos imponen al abogado negociar sin engaño
+  desleal, con respeto a terceros y manejando los conflictos de interés.
+
+> **Nota de método:** la negociación no tiene una "ley" propia; se rige por el derecho de los **contratos y
+> obligaciones** (buena fe, dolo, responsabilidad precontractual) y por la **ética profesional**. Verifica
+> el marco aplicable al negociar (Manifiesto XI.5).
+
+## 12. Definición sencilla
+
+Imagina que tú y tu hermano quieren **la única naranja** que queda en la casa. La forma **tonta** de
+negociar (posicional) es pelear: "¡yo la quiero!" "¡no, yo!", y terminar **partiéndola por la mitad** —cada
+uno se queda con media naranja—. Parece justo, ¿no? Pero un buen negociador hace una pregunta mágica:
+**"¿para qué la quieres?"** (explorar **intereses**). Y descubre que tú quieres la naranja para **comerte
+la pulpa** (tienes hambre), y tu hermano la quiere para **rallar la cáscara** (está horneando un pastel).
+¡Entonces no hace falta partirla! Tú te quedas con **toda la pulpa** y él con **toda la cáscara**: ambos
+obtienen el **100%** de lo que querían, en vez del 50%. Eso es **crear valor** (agrandar el pastel) en
+lugar de solo **repartirlo**: la lección central de la negociación experta.
+
+Ahora, las otras piezas, con el mismo ejemplo:
+- **Posición vs. interés:** la posición de ambos era "quiero la naranja"; el interés era "comer pulpa" /
+  "rallar cáscara". Negociar sobre intereses abrió la solución.
+- **BATNA:** ¿qué harías si **no** llegas a un acuerdo con tu hermano? Si hay **otra naranja** en la tienda
+  de al lado (buen BATNA), no necesitas pelear tanto; si es la **única** en kilómetros (mal BATNA),
+  dependes del acuerdo. Tu poder depende de tu **alternativa**.
+- **ZOPA:** existe acuerdo posible porque hay una solución que deja a **ambos** mejor que su alternativa
+  (pelear o quedarse sin nada).
+- **Reclamar valor:** incluso tras crear valor (pulpa/cáscara), si quedara algo por repartir (digamos, el
+  jugo extra), habría que negociar **quién se lo lleva** —ahí entra el regateo—.
+
+La idea sencilla: **negociar bien no es ganarle al otro partiendo la naranja a la fuerza; es preguntar "¿para
+qué la quieres?", agrandar el pastel, y luego repartir con criterio justo.** El mal negociador pelea por
+media naranja; el experto consigue toda la pulpa **y** mantiene la relación con su hermano.
+
+## 13. Conceptos fundamentales
+
+Fija este vocabulario; es el de la negociación profesional:
+
+**El marco analítico (la "geometría" de la negociación):**
+- **Intereses vs. posiciones:** lo que **necesitas** vs. lo que **pides**. Negocia sobre intereses.
+- **BATNA:** tu mejor alternativa sin acuerdo = tu **poder** y tu estándar de decisión.
+- **Punto de reserva (*walk-away*):** el peor acuerdo que aceptarías (deriva del BATNA).
+- **ZOPA:** el rango donde hay acuerdo posible (los puntos de reserva se solapan).
+- **Valor de reserva del otro:** lo que **intentas estimar** (no lo conoces) sobre el límite de la
+  contraparte.
+
+**Las dos tareas (y su tensión):**
+- **Crear valor (integrativo):** agrandar el pastel con **intercambios** (dar lo que a ti te cuesta poco y
+  al otro le vale mucho, y viceversa); explorar intereses y **opciones**.
+- **Reclamar valor (distributivo):** capturar la mayor parte del pastel; **anclaje**, concesiones,
+  paciencia.
+- **El dilema del negociador:** crear valor pide apertura; reclamar pide reserva. Manejar ambas sin que la
+  segunda mate a la primera.
+
+**El método de Harvard (*principled negotiation*):**
+1. **Separar a las personas del problema** (ser duro con el problema, suave con la persona).
+2. **Centrarse en los intereses**, no en las posiciones.
+3. **Generar opciones** de beneficio mutuo (antes de decidir).
+4. **Insistir en criterios objetivos** (estándares justos e independientes de la voluntad: precio de
+   mercado, peritaje, precedentes) para legitimar el reparto.
+
+**Las herramientas tácticas:**
+- **Anclaje (*anchoring*):** la primera oferta **ancla** la negociación (potente sesgo cognitivo); quién y
+  cómo ancla importa.
+- **Concesiones:** cómo y cuándo ceder (en pequeños pasos, con reciprocidad, señalando que cuesta).
+- **Sesgos cognitivos:** **anclaje**, **aversión a la pérdida** (tememos más perder que lo que valoramos
+  ganar), **exceso de confianza**, **sesgo de confirmación**, **escalada del compromiso**. Conocerlos te
+  defiende y te orienta.
+- **Emociones y relación:** manejar las propias y las del otro; el **respeto** y el **trato justo**.
+- **El proceso (*setup*):** quién está en la mesa, la secuencia, el lugar, el tiempo, los plazos.
+- **Tácticas duras (y defensas):** *good cop/bad cop*, ultimátums, presión de tiempo, *nibbling* (pedir un
+  extra al final), amenazas; cómo **reconocerlas y neutralizarlas**.
+
+**Conceptos avanzados:**
+- **Negociación como agente:** negociar **por** otro (el abogado por su cliente) —con el problema de
+  alinear incentivos y manejar las instrucciones—.
+- **Negociación multipartes y en equipo:** coaliciones, roles, coordinación interna.
+- **Negociación transfronterzia / intercultural:** las diferencias culturales en estilo, ritmo y normas.
+- **El cierre:** superar los últimos obstáculos; diseñar el acuerdo para que se **cumpla** (no solo se
+  firme).
+
+Con este vocabulario, entramos al **desarrollo absoluto**.
