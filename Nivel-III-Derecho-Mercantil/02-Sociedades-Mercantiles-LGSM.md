@@ -900,3 +900,130 @@ ASSET DEAL  → se transmiten ACTIVOS/negocio → la sociedad queda con el vende
 - **Minorías:** *"33 convoca, 25 nombra y demanda"*.
 - **S.A.P.I.:** *"la S.A. con traje a la medida: series, vetos, tag y drag"*.
 - **Preferencia:** *"aumentan capital, suscribo mi parte o me diluyo"*.
+
+
+## 40. Resumen ejecutivo
+
+La sociedad mercantil es el **cuerpo jurídico de la empresa** y el corazón del derecho corporativo.
+Es a la vez **contrato** (entre socios) e **institución/persona jurídica** (sujeto con patrimonio,
+órganos y vida propia). La **sociedad anónima** —sociedad de **capitales**, con capital dividido en
+**acciones** y **responsabilidad limitada** a la aportación— resolvió el problema histórico de
+**reunir gran capital limitando el riesgo**, haciendo posible el capitalismo de inversión. Sus
+piezas clave: el **capital social** (garantía de acreedores y medida de derechos; fijo o variable),
+las **acciones** (parte del capital + conjunto de derechos + título negociable; ordinarias o
+preferentes; transmisibles por endoso + **libro de registro**), y los **órganos** —**asamblea**
+(suprema; ordinaria y extraordinaria, esta con quórum del 75%/50%), **administración** (consejo, con
+deberes fiduciarios) y **vigilancia** (comisario)—. El accionista tiene derechos **patrimoniales**
+(dividendo, cuota de liquidación, **preferencia** anti-dilución) y **corporativos** (voto,
+información, impugnación, **derechos de minoría**).
+
+Para el abogado corporativo, este libro es el más cercano al objetivo: lo que se **compra y vende**
+en un M&A es una sociedad (sus **acciones**, *share deal*) o su empresa (sus **activos**, *asset
+deal*); las estructuras (NewCo, holdings, joint ventures) son sociedades; y el VC/PE se construye
+sobre la **S.A.P.I.** —la S.A. flexibilizada (LMV) que permite series de acciones, preferencias,
+anti-dilución, vetos sobre *reserved matters*, *tag/drag along* y minorías reforzadas—. La lección
+estratégica: **el poder se diseña** (gobierno, mayorías, vetos), no solo se compra con porcentaje; y
+el **libro de registro de acciones** es el documento más crítico de la higiene corporativa. Con
+esto, el lector empieza a dominar el objeto mismo del derecho corporativo.
+
+## 41. Checklist
+
+**Constitución / elección de estructura:**
+- [ ] ¿Tipo idóneo (S.A. / S. de R.L. / **S.A.P.I.**) según socios, inversión y planes de salida?
+- [ ] ¿Capital fijo o **variable** (para rondas ágiles)?
+- [ ] ¿Estatutos completos (objeto, capital, órganos, transmisión, gobierno)?
+
+**Capital y acciones:**
+- [ ] ¿Capital suscrito y **exhibido** correctamente? ¿Avalúo de aportaciones en especie?
+- [ ] ¿**Series** y tipos de acciones (ordinarias, preferentes) bien definidos?
+- [ ] ¿**Libro de registro de acciones** actualizado? ¿Gravámenes (prenda) anotados?
+
+**Gobierno y derechos:**
+- [ ] ¿Quórums y mayorías (ordinaria/extraordinaria; reforzadas)? ¿**Reserved matters** y vetos?
+- [ ] ¿Composición del consejo y comités? ¿Consejeros independientes?
+- [ ] ¿Derechos de minoría / del inversionista (preferencia, anti-dilución, tag/drag, información)?
+- [ ] ¿Qué va a **estatutos** (oponible) y qué a **convenio entre accionistas**?
+
+**Vicisitudes / M&A:**
+- [ ] ¿Aumentos/reducciones con derecho de preferencia respetado?
+- [ ] ¿Fusión/escisión con quórum correcto y derecho de oposición de acreedores?
+- [ ] ¿La operación es **share** o **asset deal**? ¿Qué pasivos se heredan?
+
+## 42. Bibliografía comentada
+
+- **Rodríguez Rodríguez, J., *Tratado de Sociedades Mercantiles* (Porrúa).** La obra mexicana
+  exhaustiva; consulta obligada para profundizar cualquier punto de la LGSM.
+- **Mantilla Molina, R., *Derecho Mercantil*.** Base conceptual clara y ordenada.
+- **Barrera Graf, J., *Instituciones de Derecho Mercantil*.** Visión moderna de la empresa y las
+  sociedades; conecta con el gobierno corporativo.
+- **Frisch Philipp, W., *La Sociedad Anónima Mexicana*.** Monografía especializada en la S.A.
+- **Kraakman, Hansmann et al., *The Anatomy of Corporate Law*.** **Lectura imprescindible**:
+  análisis funcional y comparado del derecho societario; enseña a pensar las sociedades como sistema
+  global (agencia, protección de inversores, control).
+- **Ley del Mercado de Valores (S.A.P.I. y S.A.B.) y LGSM.** El derecho positivo; estúdialo con el
+  texto vigente a la mano.
+
+## 43. Ruta hacia el siguiente libro
+
+Lo que acabas de aprender —la sociedad, sus acciones, sus órganos y los derechos de los socios— será
+**indispensable para comprender** los **títulos y operaciones de crédito**: la acción es, ella misma,
+un título, y la empresa se financia y opera emitiendo y usando títulos de crédito (pagarés, cheques)
+y celebrando operaciones de crédito.
+
+- **Siguiente libro:** *[Nivel III · Libro 3] Títulos y Operaciones de Crédito (LGTOC)* — letra de
+  cambio, pagaré, cheque, su autonomía y circulación; y las operaciones de crédito (apertura de
+  crédito, descuento, fideicomiso, crédito refaccionario y de habilitación).
+- **Conexión de largo alcance:** todo lo de este libro reaparece, con plena potencia, en el **Nivel
+  IV** (M&A, VC y PE): las **series de acciones**, las **preferencias**, el **tag/drag**, los
+  **reserved matters** y el gobierno son el lenguaje diario del *deal*. Vuelve a las secciones 14.D,
+  14.E y 34 cuando llegues allí.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque **la sociedad es el objeto y el vehículo de todo lo que hace un abogado de negocios**. Lo que
+se compra y se vende en un M&A es una sociedad (acciones) o su empresa (activos); las estructuras de
+adquisición, los holdings y las joint ventures son sociedades; el VC y el PE se construyen sobre la
+S.A.P.I.; y el gobierno corporativo es derecho societario en acción. Dominar el capital, las
+acciones, los órganos, las mayorías y los derechos de minoría es dominar el **tablero** sobre el que
+se juega toda la práctica corporativa. El abogado que entiende que **el poder se diseña** (vetos,
+reserved matters, consejo) y no solo se compra, y que cuida el **libro de registro de acciones**, es
+el que estructura operaciones sólidas y protege a su cliente.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+> *"Cuando estructuro una inversión o una compra, no pienso primero en el porcentaje, sino en el
+> **gobierno**: ¿quién decide qué, con qué mayorías, con qué vetos? Convierto la empresa en
+> **S.A.P.I.** para tener la flexibilidad de Delaware, diseño **series** de acciones con sus
+> preferencias y anti-dilución, defino los ***reserved matters*** que requieren el voto del
+> inversionista, integro el consejo y blindo la salida con **tag y drag along**. Separo lo que va a
+> **estatutos** (oponible erga omnes) de lo que va al **convenio entre accionistas**. Y antes de
+> firmar nada, reviso el **libro de registro de acciones**: si no está limpio, no sé de verdad quién
+> es dueño de qué. El derecho societario es el lienzo; mi trabajo es pintar en él un deal que
+> proteja a mi cliente y resista el peor escenario."*
+
+## ✦ Errores que cuestan millones
+
+1. **Libro de registro de acciones desordenado o inexistente.** Sin él, no se puede acreditar quién
+   es dueño; arruina una due diligence, retrasa o tumba un cierre y genera litigios de propiedad.
+   *Prevención:* mantenerlo impecable y actualizado, con anotación de gravámenes.
+2. **Usar una S.A. rígida para un deal de VC/PE.** Meter preferencias, anti-dilución y *drag along*
+   en una S.A. tradicional produce pactos **inoponibles** o **nulos**; cuando llega el conflicto, el
+   inversionista descubre que sus protecciones no valían. *Prevención:* **S.A.P.I.** y pactos
+   estatutarios.
+3. **Aprobar una operación estructural con el quórum equivocado.** Una fusión o reforma de estatutos
+   aprobada con el quórum de la ordinaria (en vez de la extraordinaria 75%/50%) es **nula** y puede
+   echar abajo todo un M&A. *Prevención:* verificar quórums y convocatoria.
+4. **Diluir a un inversionista ignorando su derecho de preferencia o anti-dilución.** Genera
+   impugnaciones y responsabilidad. *Prevención:* respetar el art. 132 y las cláusulas pactadas.
+5. **No prever el *deadlock* en una sociedad 50/50.** La parálisis destruye valor; *prevención:*
+   cláusulas de desempate, *buy-sell* o salida.
+
+---
+
+> *Cierre del Libro.* Has llegado al **corazón del derecho corporativo**: la sociedad, sus acciones,
+> sus órganos y el reparto del poder entre mayorías y minorías. Tienes ya lo que se **compra, vende y
+> gobierna** en una empresa. En el siguiente libro estudiaremos cómo esa empresa **mueve el crédito y
+> el pago** —los títulos y operaciones de crédito—, y más adelante, en el Nivel IV, juntaremos todo
+> para comprar y vender empresas. El M&A está a la vuelta.
