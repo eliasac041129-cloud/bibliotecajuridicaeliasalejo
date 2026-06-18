@@ -1066,3 +1066,240 @@ es una virtud, no un lujo.
   law (triangular mergers, schemes) o la seguridad de las figuras tasadas del civil law? *Postura del
   Consejo:* cada sistema tiene su virtud; el abogado mexicano de élite debe **conocer ambos** porque opera
   en deals transfronterizos donde conviven.
+
+## 30. Errores comunes
+
+- **Elegir la estructura por costumbre, no por análisis.** "Siempre hacemos share deal" → se heredan
+  pasivos evitables o se pagan impuestos de más. *Corrección:* aplica los **cuatro ejes** a cada caso.
+- **Creer que el asset deal aísla de TODO.** Olvidar que los pasivos **laborales, fiscales y ambientales**
+  pueden seguir al negocio por mandato legal. *Corrección:* mapea las excepciones y refuerza con reps e
+  indemnización.
+- **Olvidar el *change of control* en el share deal.** Suponer que la continuidad es automática cuando un
+  contrato clave permite terminar por cambio de dueño. *Corrección:* identifícalo en la DD y vuélvelo
+  condición al closing.
+- **Diseñar sin el asesor fiscal.** Elegir estructura ignorando la fiscalidad —el eje que a menudo
+  decide—. *Corrección:* integra al fiscalista desde el **diseño**, no al final.
+- **Ignorar la protección de acreedores.** No prever el derecho de oposición (plazos de 3 meses / 45 días)
+  ni la responsabilidad solidaria → calendario irreal o impugnaciones. *Corrección:* planea los plazos y
+  el pago/garantía a acreedores.
+- **Reorganizaciones sin razón de negocio.** Esquemas artificiales solo por la ventaja fiscal →
+  recaracterización antiabuso. *Corrección:* sustancia económica real y propósito documentado.
+- **Sobre-complicar la estructura.** Crear decenas de sociedades difíciles de administrar. *Corrección:*
+  la estructura más **simple** que logra el objetivo.
+- **No documentar el reparto en la escisión.** Ambigüedad sobre qué activo/pasivo fue a cada beneficiaria
+  → conflictos. *Corrección:* descripción precisa y exhaustiva en el proyecto.
+
+## 31. Mitos frecuentes
+
+- **"El asset deal siempre conviene al comprador."** **Falso.** Conviene cuando el riesgo de pasivos es
+  alto; pero puede disparar impuestos, hacer perder contratos/permisos y exigir cientos de cesiones. Es un
+  cálculo de los cuatro ejes.
+- **"La fusión y la escisión siempre son neutrales fiscalmente."** **Falso.** Solo si **cumplen los
+  requisitos** de la ley (permanencia, continuidad, avisos, a veces autorización). Mal hechas, gatillan
+  impuestos.
+- **"En el share deal hay que ceder los contratos uno por uno."** **Falso.** En el share deal la sociedad
+  no cambia: los contratos **continúan** automáticamente (salvo *change of control*). La cesión individual
+  es del **asset deal**.
+- **"La escisión sirve solo para dividir empresas en problemas."** **Falso.** Es una herramienta
+  estratégica para **crear valor**: carve-outs, blindaje de activos, preparación de ventas, sucesión
+  familiar.
+- **"La fusión combina dos negocios, así que siempre crea valor."** **Falso.** La estructura jurídica no
+  garantiza el éxito; el valor depende de la **integración real** (Daimler-Chrysler). 
+- **"Una holding sirve solo para evadir impuestos."** **Falso.** Sirve para separar riesgo, organizar el
+  control, blindar activos y ordenar la sucesión; la eficiencia fiscal **legítima** es un beneficio
+  adicional, no su única razón.
+
+## 32. Preguntas difíciles
+
+1. **¿Por qué a veces conviene escindir y *luego* vender acciones, en vez de hacer un asset deal directo?**
+   Porque la **escisión** transmite el negocio en **bloque** (sucesión universal: los contratos y permisos
+   pasan sin cesión individual ni, en principio, consentimientos), puede ser **fiscalmente neutral**, y
+   deja el negocio "envuelto" en una sociedad limpia cuyas **acciones** se venden con un SPA. Combina lo
+   mejor del aislamiento con la continuidad.
+2. **¿Cómo se protege al acreedor cuya deudora se escinde y "se lleva" los activos a otra sociedad?** Con
+   el **derecho de oposición** (puede oponerse judicialmente en 45 días) y, sobre todo, con la
+   **responsabilidad solidaria** de las beneficiarias (y la escindente) frente a los acreedores durante el
+   plazo legal: la división del patrimonio **no** lo desampara.
+3. **¿Qué es una *reverse triangular merger* y por qué se usa tanto en EE.UU.?** El comprador crea una
+   subsidiaria que **se fusiona con la *target***, **sobreviviendo la *target*** como filial del comprador.
+   Se usa porque **preserva** la *target* (y sus contratos y permisos, evitando muchos consentimientos) y
+   permite adquirir el 100% sin negociar con cada accionista individualmente.
+4. **Si la fusión hereda todos los pasivos igual que el share deal, ¿qué la distingue?** Que la fusión
+   **combina** patrimonios y sociedades (los socios de ambas se integran; una sociedad puede extinguirse),
+   mientras que el share deal solo cambia al dueño de las acciones. La fusión es **integración**; el share
+   deal, **cambio de control**. Se usan en momentos distintos (a menudo: share deal para adquirir, fusión
+   para integrar después).
+5. **¿Cuándo una reorganización "fiscalmente eficiente" cruza la línea del abuso?** Cuando carece de
+   **razón de negocio** y **sustancia económica** real, y su **único** propósito es el beneficio fiscal.
+   La línea está en la sustancia: separar riesgos, preparar una venta u ordenar la sucesión son razones
+   legítimas; un rodeo artificial sin sustancia, no.
+
+## 33. Casos de examen (con respuesta modelo)
+
+**Caso A.** *Tu cliente quiere comprar una empresa cuyo principal valor es una concesión gubernamental
+intransferible, pero cuya due diligence revela una contingencia fiscal grande e incierta. ¿Qué estructura
+recomiendas?*
+**Respuesta modelo:** Tensión entre dos ejes. La **continuidad** exige **share deal** (la concesión, al
+ser intransferible, solo sobrevive si la sociedad titular no cambia → un asset deal la perdería). Pero el
+**riesgo** fiscal empuja a aislar. *Solución:* **share deal** (para conservar la concesión) **blindado**
+con una **indemnización especial** por la contingencia fiscal (al 100%, sin tope), **escrow** por el plazo
+de prescripción, y rep fiscal robusta. Es decir: se conserva la estructura que da continuidad y el riesgo
+se neutraliza por **contrato**, no por estructura. Razonar el equilibrio de ejes.
+
+**Caso B.** *Un grupo quiere vender una de sus divisiones, que comparte sociedad con su negocio principal.
+Quiere rapidez, conservar los contratos de la división y eficiencia fiscal. ¿Cómo lo estructuras?*
+**Respuesta modelo:** **Escisión** de la división a una **NewCo** (sucesión universal → contratos pasan en
+bloque sin cesión individual; busca **neutralidad fiscal** cumpliendo requisitos), seguida de **venta de
+las acciones** de la NewCo (share deal con SPA, reps, indemnización). Mencionar: planear el **derecho de
+oposición** de acreedores (45 días) y verificar **razón de negocio**. Combina continuidad + aislamiento +
+eficiencia.
+
+**Caso C.** *Comprador y target son competidores; la fusión resultante tendría alta cuota de mercado.
+¿Qué consideración estructural domina?*
+**Respuesta modelo:** Domina el **eje de autorizaciones**: la operación es una **concentración
+notificable** a la **COFECE**; hay que evaluar el riesgo de objeción/condiciones, **no consumar** antes de
+la autorización (*gun jumping*), y manejar la información sensible con **clean teams** durante la DD. El
+calendario y la certeza regulatoria pueden incluso decidir si la operación es viable.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Instrucciones:** eres asociado de M&A. Tu cliente, un fondo de PE, quiere adquirir la **división de
+> autopartes** de *Industrias Vega, S.A.* (que también tiene una división de bienes raíces que el fondo
+> NO quiere), financiando 50% con deuda. Diseña la estructura antes de leer la guía.
+
+1. **Objetivo de negocio:** enúncialo en una frase.
+2. **Hallazgos relevantes de la DD (supuestos):** la división inmobiliaria tiene pasivos ambientales; la
+   de autopartes tiene contratos clave con grandes armadoras (algunos con *change of control*); hay una
+   contingencia fiscal menor y acotable.
+3. **Aplica los cuatro ejes:** riesgo, continuidad, fiscalidad, autorizaciones. ¿Hacia qué empuja cada uno?
+4. **Diseña la arquitectura** (combinando figuras).
+5. **Indica los documentos** que se necesitarán (Libro 4).
+
+> **Guía de solución (resumen).** **(1)** Adquirir la división de autopartes **aislada** de los pasivos
+> inmobiliarios, conservando sus contratos, con eficiencia fiscal y apalancamiento. **(3)** *Riesgo:* alto
+> en inmobiliaria → **aislar** (no comprar esa división). *Continuidad:* contratos con armadoras valiosos
+> → favorece transmisión en bloque (escisión) y/o share deal; cuidar *change of control* (consentimientos
+> como condición). *Fiscalidad:* buscar **neutralidad** de la escisión + *step-up*/deducción de intereses
+> del apalancamiento (con fiscalista). *Autorizaciones:* posible notificación a **COFECE**. **(4)
+> Arquitectura:** (i) Industrias Vega **escinde** la división de autopartes a una **NewCo limpia**
+> (sucesión universal de contratos; neutralidad fiscal); (ii) el fondo crea un **vehículo de adquisición**
+> con capital + deuda; (iii) el vehículo **compra las acciones** de la NewCo (share deal); (iv) posible
+> **fusión** vehículo-NewCo (fusión apalancada); (v) **consentimientos** de armadoras con *change of
+> control* como **condición al closing**; verificar **razón de negocio**. **(5) Documentos:** proyecto/
+> acuerdo de **escisión**, **SPA** de las acciones de NewCo (reps, indemnización, escrow), contratos de
+> **financiamiento**, acuerdos de la **fusión**, consentimientos de terceros.
+
+## 35. Flashcards
+
+- **¿Share deal vs. asset deal en una frase?** Acciones (la sociedad entera, con todos sus pasivos) vs.
+  activos seleccionados (se eligen activos y pasivos, con excepciones legales).
+- **¿Qué pasivos siguen al negocio aun en un asset deal?** Laborales, fiscales y ambientales (por mandato
+  legal).
+- **¿Fusión por absorción vs. por integración?** Una subsiste y absorbe / todas se extinguen y nace una
+  nueva.
+- **¿Escisión total vs. parcial?** La escindente desaparece y reparte todo / subsiste y segrega una parte.
+- **¿Qué es la sucesión universal?** Transmisión en bloque y automática del patrimonio (fusión y escisión).
+- **¿Plazo de oposición de acreedores?** Fusión: **3 meses**; escisión: **45 días naturales**.
+- **¿Qué es la responsabilidad solidaria en la escisión?** Las beneficiarias (y escindente) responden
+  solidariamente ante acreedores durante el plazo legal.
+- **¿Qué es el derecho de separación?** El socio disidente puede salirse y exigir el reembolso de sus
+  acciones.
+- **¿Qué es la neutralidad fiscal?** Que la fusión/escisión no se grave como enajenación si cumple
+  requisitos.
+- **¿Los cuatro ejes de elección?** Riesgo · Continuidad · Fiscalidad · Autorizaciones.
+- **¿Qué es una reverse triangular merger?** Una subsidiaria del comprador se fusiona con la target, que
+  sobrevive como filial (preserva contratos, evita consentimientos).
+- **¿Carve-out clásico?** Escindir el negocio a una NewCo y luego vender sus acciones (share deal).
+
+## 36. Mapas mentales
+
+```
+                        ESTRUCTURAS DE LA OPERACIÓN
+                                   |
+   ┌───────────────┬──────────────┼───────────────┬──────────────────┐
+ ADQUIRIR        ADQUIRIR        COMBINAR         SEPARAR          ORGANIZAR
+ (acciones)      (activos)       (fusión)         (escisión)       (holding/NewCo)
+ SHARE DEAL      ASSET DEAL      absorción /      total /          grupo, blindaje,
+ hereda todo     elige activos   integración      parcial          vehículo de
+ los pasivos     y pasivos       sucesión         sucesión          adquisición
+ continuidad     sucesión        universal        universal parcial
+ automática      PARTICULAR      (todo en bloque) (bloque segregado)
+```
+
+```
+              ¿QUÉ ESTRUCTURA? → LOS CUATRO EJES
+   RIESGO (pasivos) ─────────► alto → asset/escindir | bajo → share/fusión
+   CONTINUIDAD (contratos) ──► crítica → share/fusión | poca → asset
+   FISCALIDAD ───────────────► neutralidad? step-up? (¡con fiscalista!)
+   AUTORIZACIONES/TIEMPO ────► COFECE, sectorial, fiscal, plazos de oposición
+            ⇒ ÓPTIMA = equilibrio de los cuatro (no un extremo)
+```
+
+## 37. Cuadros comparativos
+
+**Las cuatro estructuras de un vistazo**
+
+| | Share deal | Asset deal | Fusión | Escisión |
+|---|---|---|---|---|
+| Qué se mueve | Acciones | Activos selectos | Patrimonios completos | Patrimonio dividido |
+| Pasivos | Todos | Seleccionados (+ excepciones) | Todos (en bloque) | Repartidos (solidaria) |
+| Transmisión | — | Particular (bien por bien) | Universal | Universal (del bloque) |
+| Continuidad contratos | Automática* | Cesión individual | Automática* | Automática* (del bloque) |
+| Protección acreedores | (la del contrato) | (cesión/consentimiento) | Oposición 3 meses | Oposición 45 días + solidaria |
+| Documento típico | SPA | APA | Convenio de fusión | Proyecto/acuerdo de escisión |
+
+*salvo cláusulas de *change of control*.
+
+**Quién prefiere qué (share vs. asset)**
+
+| | Prefiere share deal | Prefiere asset deal |
+|---|---|---|
+| Vendedor | ✔ (vende todo, se libra de pasivos) | |
+| Comprador | | ✔ (elige activos, aísla pasivos, step-up) |
+| Razón fiscal | Un hecho gravable | Step-up de base, pero más gravámenes |
+
+## 38. Diagramas
+
+**Carve-out (escisión + venta de acciones):**
+```
+[Grupo: división A + división B (a vender)]
+        │  ESCISIÓN de la división B
+        ▼
+[Grupo conserva A]      [NewCo limpia con B] ──VENTA DE ACCIONES (SPA)──► [Comprador]
+   (sucesión universal: contratos/permisos de B pasan en bloque a NewCo)
+```
+
+**LBO / fusión apalancada (anticipo Libro 5):**
+```
+Fondo PE → crea NEWCO → NewCo recibe CAPITAL + DEUDA
+   → NewCo COMPRA acciones de TARGET
+   → NewCo se FUSIONA con Target (absorción)
+   ⇒ deuda y flujos quedan en la misma sociedad: el flujo de Target sirve la deuda
+```
+
+**Decisión de estructura (árbol):**
+```
+¿Riesgo de pasivos ocultos alto e inacotable? ── sí ─► asset deal / escindir lo sano
+        │ no
+        ▼
+¿Continuidad de contratos/permisos crítica y difícil de ceder? ── sí ─► share deal / fusión
+        │ no
+        ▼
+¿Qué minimiza impuestos? (con fiscalista) ──► neutralidad (fusión/escisión) o step-up (asset)
+        │
+        ▼
+¿Qué autorizaciones y plazos? (COFECE, sectorial, oposición) ──► ajusta calendario y viabilidad
+        ⇒ estructura ÓPTIMA (a menudo COMBINADA)
+```
+
+## 39. Mnemotecnias
+
+- **Las cuatro estructuras (AAFE):** **A**cciones (share) · **A**ctivos (asset) · **F**usión · **E**scisión.
+- **Share deal:** *"compro la sociedad con TODO su pasado"* → due diligence + reps fuertes.
+- **Asset deal:** *"elijo lo bueno y dejo lo malo... pero lo laboral, fiscal y ambiental me persigue"*.
+- **Fusión:** *"dos se hacen uno; todo pasa en bloque"* (sucesión universal).
+- **Escisión:** *"uno se hace dos; reparto en bloque, respondo solidario"*.
+- **Los cuatro ejes (RCFA):** **R**iesgo · **C**ontinuidad · **F**iscalidad · **A**utorizaciones.
+- **Oposición de acreedores:** *"Fusión, 3 meses; Escisión, 45 días"*.
+- **Regla de oro:** *"no hay estructura mejor; hay estructura óptima para cada caso"*.
+- **Antiabuso:** *"sin razón de negocio, no hay estructura que aguante"*.
