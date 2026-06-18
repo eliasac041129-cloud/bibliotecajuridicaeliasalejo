@@ -183,3 +183,108 @@ El abogado corporativo **diseña, opera y transforma** sociedades durante toda s
 el vehículo idóneo, redactar estatutos y convenios, gobernar las asambleas y el consejo, estructurar
 rondas de inversión y, finalmente, comprar y vender la sociedad. Este libro es, por eso, el más
 cercano al corazón del objetivo.
+
+
+## 10. Definiciones doctrinales
+
+- **Sociedad mercantil (Mantilla Molina):** persona moral, creada por contrato, mediante la cual dos
+  o más personas aportan bienes o servicios para la realización de un fin común de carácter
+  económico, con ánimo de lucro, adoptando uno de los tipos previstos por la LGSM.
+- **Doble naturaleza (contrato e institución):** la sociedad es a la vez un **contrato**
+  (plurilateral, de organización, entre los socios) y una **persona jurídica/institución** (un
+  sujeto con vida propia, distinta de los socios). Esta dualidad —contrato vs. institución— es el
+  gran debate doctrinal (sección 29).
+- **Sociedad anónima (Garrigues):** sociedad de **capitales** (no de personas) cuyo capital está
+  dividido en **acciones** y en la que los socios **no responden** personalmente de las deudas
+  sociales (responsabilidad limitada a su aportación).
+- **Acción (doctrina):** triple noción —(i) **parte del capital** social; (ii) **conjunto de
+  derechos** del accionista (el *status* de socio); (iii) **título o valor** que documenta y permite
+  circular esa participación—.
+
+> **Lectura del Consejo:** retén la **doble naturaleza** (contrato + institución) y la **triple
+> noción de acción** (capital + derechos + título). De ahí se deduce casi todo: por ser
+> *institución* tiene órganos y personalidad; por ser *contrato* los socios pueden **pactar** (más
+> en la S.A.P.I.); y por ser la acción un *título de derechos negociable*, la empresa se puede
+> **comprar y vender** transfiriendo acciones (el M&A como *share deal*).
+
+## 11. Definiciones legales (LGSM y LMV — verificar versión vigente)
+
+- **Tipos de sociedad — art. 1 LGSM:** la ley reconoce: (I) Sociedad en Nombre Colectivo; (II)
+  Sociedad en Comandita Simple; (III) Sociedad de Responsabilidad Limitada (**S. de R.L.**); (IV)
+  **Sociedad Anónima** (**S.A.**); (V) Sociedad en Comandita por Acciones; (VI) Sociedad Cooperativa.
+  Cualquiera (salvo la cooperativa) puede ser de **capital variable**.
+- **Sociedad Anónima — art. 87 LGSM:** "Sociedad anónima es la que existe bajo una denominación y se
+  compone exclusivamente de socios cuya **obligación se limita al pago de sus acciones**."
+- **Requisitos de constitución de la S.A. — art. 89 LGSM:** dos o más socios (cada uno suscriba al
+  menos una acción); capital suscrito íntegramente; exhibición mínima del 20% en aportaciones en
+  efectivo; íntegra en aportaciones en especie.
+- **S. de R.L. — art. 58 LGSM:** capital dividido en **partes sociales** (no acciones), socios de
+  responsabilidad limitada; número máximo de socios (50).
+- **S.A.P.I. — Ley del Mercado de Valores (arts. 12 y ss.):** modalidad de S.A. con **mayor
+  flexibilidad** estatutaria (acciones de voto limitado/restringido, restricciones a la transmisión,
+  exclusión de socios, derechos de minoría reforzados, *drag/tag along* estatutarios), pensada para
+  recibir inversión (VC/PE) y transitar eventualmente al mercado de valores.
+- **Asambleas — arts. 178 y ss. LGSM:** la asamblea de accionistas es el **órgano supremo**;
+  ordinarias y extraordinarias, con quórums y mayorías distintos. **Administración — arts. 142 y
+  ss.** (consejo o administrador único). **Vigilancia — arts. 164 y ss.** (comisario).
+
+## 12. Definición sencilla
+
+Una **sociedad mercantil** es una "persona artificial" que crean dos o más personas (los socios)
+juntando dinero o bienes para hacer negocios y repartirse las ganancias. La estrella es la
+**sociedad anónima (S.A.)**: su capital se divide en **acciones** (como rebanadas de un pastel) que
+los socios poseen y pueden **vender**; los socios solo arriesgan lo que pusieron (**responsabilidad
+limitada**); y la sociedad se gobierna por una **asamblea** (los dueños deciden lo importante) y un
+**consejo de administración** (los administradores dirigen el día a día). Comprar una empresa suele
+ser, simplemente, **comprar sus acciones**.
+
+## 13. Conceptos fundamentales
+
+- **Sociedad de personas vs. de capitales:** en las **de personas** (S. en N.C., comandita simple)
+  importa **quién** es el socio (responsabilidad ilimitada de algunos, intuitu personae); en las
+  **de capitales** (S.A.) importa el **capital aportado**, no la identidad del socio
+  (responsabilidad limitada, acciones libremente transmisibles). La **S. de R.L.** es mixta (de
+  capitales pero con rasgos personales).
+- **Affectio societatis:** la voluntad de los socios de **colaborar** en un fin común (elemento del
+  contrato de sociedad).
+- **Capital social:** cifra estatutaria que representa la suma de las aportaciones; es **garantía**
+  de los acreedores y base de los derechos de los socios. Distinto del **patrimonio** (activos
+  reales, que varían — Libro 5, Nivel I).
+- **Capital fijo y variable:** el **fijo** requiere reforma estatutaria para modificarse; el
+  **variable** permite aumentar/disminuir dentro de un mínimo y máximo **sin** reforma (de ahí "S.A.
+  de C.V."): da flexibilidad para rondas de inversión.
+- **Acción:** parte alícuota del capital + conjunto de derechos del socio + título negociable.
+- **Tipos de acciones:** **ordinarias** (plenos derechos) y **preferentes/de voto limitado**
+  (privilegios económicos a cambio de menos voto); **series** (A, B…) con distintos derechos; de
+  **goce**, de **tesorería**, etc.
+- **Aportación:** lo que el socio aporta (dinero, bienes en especie —con avalúo—, o, en sociedades
+  de personas, trabajo/industria). En la S.A., no se admite aportación de **industria**.
+- **Suscripción y exhibición:** **suscribir** = comprometerse a aportar (tomar acciones);
+  **exhibir** = pagar efectivamente la aportación. Las acciones no pagadas son **acciones
+  pagadoras**.
+- **Órganos sociales:** **Asamblea** (órgano supremo: forma la voluntad social), **Administración**
+  (consejo de administración o administrador único: gestión y representación), **Vigilancia**
+  (comisario / auditoría: fiscaliza).
+- **Asamblea ordinaria vs. extraordinaria:** la **ordinaria** trata asuntos del giro normal
+  (aprobar estados financieros, nombrar consejo, decretar dividendos); la **extraordinaria**, los
+  asuntos graves que modifican la estructura (reforma de estatutos, aumento/reducción de capital,
+  fusión, escisión, disolución) —con quórums y mayorías **más altos**—.
+- **Quórum de instalación vs. de votación:** el primero, asistencia mínima para sesionar; el
+  segundo, votos mínimos para aprobar.
+- **Derechos del accionista — patrimoniales:** **dividendo** (participación en las utilidades),
+  **cuota de liquidación**, **derecho de preferencia** (suscribir nuevas acciones en aumentos para
+  no diluirse).
+- **Derechos del accionista — corporativos:** **voto**, **información**, impugnación de acuerdos,
+  y los **derechos de minoría** (convocar asamblea, nombrar consejero, aplazar votación, ejercer la
+  acción de responsabilidad) que protegen a quien no controla.
+- **Responsabilidad limitada:** el socio de la S.A./S. de R.L. solo arriesga su aportación; el
+  patrimonio social responde de las deudas sociales (con la excepción del **levantamiento del velo**
+  — Libro 5, Nivel I).
+- **Administradores y deberes fiduciarios:** los consejeros deben actuar con **diligencia** (deber
+  de cuidado) y **lealtad** (anteponer el interés social); su incumplimiento genera responsabilidad
+  (base del gobierno corporativo, Nivel IV).
+- **Convenio entre accionistas (*shareholders agreement*):** acuerdo (a veces parasocial) que regula
+  las relaciones entre socios (voto, transmisión, *drag/tag along*, *deadlock*); en la S.A.P.I.
+  muchos de sus pactos pueden llevarse a **estatutos** y ser oponibles.
+- **S.A.P.I.:** S.A. flexible (LMV) que permite pactar lo que la S.A. tradicional prohibía;
+  vehículo predilecto de VC/PE y antesala del mercado de valores (S.A.B.).
