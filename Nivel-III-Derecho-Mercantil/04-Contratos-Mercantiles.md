@@ -164,3 +164,96 @@ El abogado corporativo **redacta, negocia, revisa y litiga** estos contratos dur
 en M&A, los **revisa masivamente** en due diligence (¿hay *change of control*?, ¿son cedibles?, ¿qué
 ingresos dependen de ellos?) y gestiona su **transmisión** o **consentimiento**. Son el contenido
 vivo de la empresa que se compra y se vende.
+
+
+## 10. Definiciones doctrinales
+
+- **Contrato mercantil (doctrina):** contrato regido por el derecho mercantil, sea por su
+  **naturaleza** (acto de comercio, art. 75 C. Com.), por la **calidad** de las partes
+  (comerciantes/empresas) o por su **objeto** (operaciones de empresa). Se rige por la voluntad de las
+  partes y, supletoriamente, por el Código de Comercio y el derecho civil.
+- **Contrato de empresa (doctrina moderna):** contratos cuya función es **organizar la actividad
+  empresarial** (suministro, distribución, franquicia, factoraje, leasing); reflejan el tránsito del
+  "acto de comercio" al "derecho de la empresa" (Libro 1, Nivel III).
+- **Contrato atípico (doctrina):** el no regulado específicamente por la ley; válido por la
+  **autonomía de la voluntad** (art. 78 C. Com.); se integra por lo pactado + analogía con figuras
+  típicas afines + usos + buena fe.
+- **Contratos relacionales (Macneil):** los de **larga duración** y cooperación continua
+  (distribución, franquicia, suministro), donde importa más la **relación** que el intercambio
+  puntual.
+
+> **Lectura del Consejo:** la clave moderna es la **atipicidad**. Leasing, factoraje, franquicia,
+> *joint venture* y *outsourcing* **no** están (o están parcialmente) regulados: se construyen con la
+> **autonomía de la voluntad** y se "rellenan" con analogía y usos. Por eso el abogado mercantil es,
+> ante todo, un **diseñador de contratos a la medida**, no un mero aplicador de tipos legales.
+
+## 11. Definiciones legales (verificar versión vigente)
+
+- **Mercantilidad del contrato — arts. 75 y 78 C. Com.:** son mercantiles los contratos que recaen
+  sobre actos de comercio; y "en las convenciones mercantiles cada uno se obliga **en la manera y
+  términos en que quiso obligarse**" (art. 78: autonomía y libertad de forma).
+- **Compraventa mercantil — arts. 371-387 C. Com.:** compraventa hecha con propósito de
+  **especulación comercial** (reventa con lucro); reglas propias de **mora** (en obligaciones a día
+  cierto, sin interpelación), entrega, riesgos e intereses; supletoriamente, la compraventa civil
+  (Libro 2 Nivel II).
+- **Comisión mercantil — arts. 273-308 C. Com.:** mandato aplicado a actos de comercio; el comisionista
+  actúa por cuenta del comitente (con o sin representación).
+- **Factoraje financiero y arrendamiento financiero — LGTOC (arts. 408 y ss. factoraje; 408 y ss.
+  arrendamiento financiero, tras su incorporación a la LGTOC).** Operaciones reguladas; pueden
+  realizarlas entidades financieras (SOFOMES, bancos).
+- **Franquicia — Ley Federal de Protección a la Propiedad Industrial (antes LPI):** licencia de uso de
+  marca + transmisión de **conocimientos técnicos / asistencia** para producir o vender bienes o
+  servicios de manera uniforme; obligación de entregar la **Circular de Oferta de Franquicia (COF)**
+  con información precontractual.
+- **Contratos atípicos — art. 78 C. Com. + supletoriedad civil:** validez por la autonomía de la
+  voluntad; integración por analogía, usos y buena fe.
+- **Comercio electrónico — Código de Comercio (Título II, "Del comercio electrónico"):** mensajes de
+  datos, **firma electrónica**, validez de la contratación electrónica.
+
+## 12. Definición sencilla
+
+Los **contratos mercantiles** son los contratos "de negocios": las versiones rápidas y profesionales
+de los contratos, que usan las empresas para **vender** (compraventa mercantil), **vender a través de
+otros** (comisión, distribución, franquicia), **financiarse** (factoraje, leasing) y **organizarse**.
+Muchos son **atípicos**: no están en un código, sino que las partes los **inventan** según lo que
+necesitan, con la libertad que el derecho mercantil les da (art. 78). En una compra de empresa, estos
+contratos son los **activos** que generan los ingresos —y hay que revisar si se pueden **transmitir**
+y si la otra parte puede **cancelarlos** porque cambió el dueño—.
+
+## 13. Conceptos fundamentales
+
+- **Contrato típico vs. atípico:** regulado por la ley (compraventa, comisión) vs. creado por las
+  partes (leasing, factoraje, franquicia, *joint venture*).
+- **Compraventa mercantil:** compraventa con **propósito de especulación** (reventa con lucro) o entre
+  empresas; reglas propias (mora sin interpelación a día cierto, transmisión del riesgo, intereses).
+- **Comisión mercantil:** mandato mercantil; el **comisionista** ejecuta por cuenta del **comitente**
+  actos de comercio (con representación —en nombre del comitente— o sin ella —en nombre propio—).
+- **Agencia mercantil:** un agente promueve de forma estable negocios por cuenta de un empresario, a
+  cambio de comisión (atípico en México; muy regulado en la UE, con indemnización por clientela).
+- **Distribución:** el distribuidor **compra para revender** los productos del fabricante en un
+  territorio (a diferencia del agente, que no compra: solo promueve). Suele incluir **exclusividad** y
+  metas; atípico.
+- **Suministro:** una parte se obliga a entregar **prestaciones periódicas o continuadas** de bienes
+  (insumos, energía) a cambio de un precio; asegura la cadena de suministro a largo plazo.
+- **Franquicia:** el franquiciante licencia su **marca** y transmite **conocimientos técnicos /
+  asistencia** (el "saber hacer", *know-how*) para que el franquiciatario opere un negocio **uniforme**;
+  exige entregar la **COF** (información precontractual) y suele incluir regalías, exclusividad,
+  estándares y control.
+- **Factoraje financiero:** el factorante **adquiere** los **derechos de crédito** (cuentas por cobrar)
+  de una empresa (cliente/cedente), adelantándole liquidez; puede ser **con recurso** (el cedente
+  responde si el deudor no paga — *pro solvendo*) o **sin recurso** (no responde — *pro soluto*).
+  Conexión: cesión de créditos (Libro 1 Nivel II) + descuento (Libro 3).
+- **Arrendamiento financiero (leasing):** la arrendadora **adquiere** un bien elegido por el cliente y
+  se lo **arrienda** a cambio de pagos; al final, el cliente puede **comprarlo** por un valor residual,
+  prorrogar o que se venda. Función económica: **financiar la adquisición** de activos sin desembolso
+  inicial. (Distinto del arrendamiento puro: el financiero busca la **adquisición**.)
+- **Reporto, apertura de crédito, carta de crédito:** operaciones de crédito (Libro 3) que se insertan
+  en las relaciones mercantiles.
+- **Joint venture (contrato de coinversión):** dos o más empresas **colaboran** en un proyecto común,
+  contractualmente (*contractual JV*) o creando una **sociedad** conjunta (*equity JV* — S.A.P.I.).
+  Antesala del Nivel IV.
+- **Outsourcing / prestación de servicios:** contratación de servicios o procesos a terceros (con
+  límites por la reforma de subcontratación laboral en México).
+- **Cláusulas mercantiles clave:** **exclusividad**, **no competencia**, **metas/objetivos**,
+  **confidencialidad**, **propiedad intelectual**, **change of control**, **cesión**,
+  **terminación** e **indemnización** (estas últimas, decisivas en M&A — Libro 3 Nivel II).
