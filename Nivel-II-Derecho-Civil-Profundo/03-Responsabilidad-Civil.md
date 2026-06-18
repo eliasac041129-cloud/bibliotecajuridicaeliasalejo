@@ -254,3 +254,151 @@ valga el daño (lo que perdió + lo que dejó de ganar + el sufrimiento, si apli
   puede tener una **función disuasiva** (caso *Mayan Palace*).
 - **Responsabilidad solidaria por daño:** si varios causan el daño, responden **solidariamente**
   frente a la víctima (art. 1917).
+
+
+## 14. Desarrollo absoluto
+
+Lo organizamos en: (A) los elementos comunes; (B) responsabilidad **contractual**; (C)
+**extracontractual** y **objetiva**; (D) el **daño** y su **cuantificación**; (E) las eximentes;
+(F) la **asignación contractual** de la responsabilidad (el puente con el SPA).
+
+### 14.A · Los elementos de la responsabilidad (la lista de cotejo)
+
+Toda reclamación se construye —y se desmonta— verificando estos elementos:
+1. **Hecho generador:** una **conducta** (acción u omisión) antijurídica con **culpa o dolo**
+   (responsabilidad subjetiva), o una **actividad/cosa peligrosa** (responsabilidad objetiva, sin
+   culpa). En la **contractual**, el hecho generador es el **incumplimiento** de una obligación.
+2. **Daño:** debe ser **cierto** (real, no hipotético), **personal** (lo sufre quien reclama) y,
+   por regla, **directo**. Puede ser patrimonial (daño emergente, lucro cesante) o moral.
+3. **Nexo causal:** que el daño sea **consecuencia** del hecho (causalidad **adecuada**;
+   consecuencia **inmediata y directa**, art. 2110).
+4. **Antijuridicidad / ausencia de causa de justificación:** que no exista legítima defensa,
+   estado de necesidad, ejercicio de un derecho o consentimiento que justifique el daño.
+
+**Cómo razona un experto:** ante cualquier reclamación de daños, recorre la lista: *¿hay hecho
+generador imputable (culpa/riesgo/incumplimiento)? → ¿hay daño cierto y probado? → ¿hay nexo
+causal directo? → ¿alguna eximente?*. Si falla un eslabón, la reclamación **cae**. El abogado del
+demandado ataca el eslabón más débil (casi siempre **causalidad** o **cuantía del daño**).
+
+### 14.B · Responsabilidad contractual
+
+Surge del **incumplimiento** de un contrato (obligación previa entre las partes). Régimen (arts.
+2104 y ss.):
+- **Presupuesto:** existencia de obligación válida + incumplimiento (total, parcial, defectuoso o
+  tardío) + **mora** (Libro 1) cuando se requiere.
+- **Graduación:** se responde por **dolo** (siempre, no se puede condonar anticipadamente) y por
+  **culpa** (negligencia). El caso fortuito libera (salvo pacto, mora o culpa).
+- **Daños indemnizables:** daño emergente + lucro cesante, **consecuencia inmediata y directa**
+  (art. 2110). La doctrina (Pothier) y el common law (*Hadley v. Baxendale*) limitan, además, a lo
+  **previsible** al contratar.
+- **Remedios (recuerda Libro 1):** cumplimiento forzoso, **resolución** (art. 1949) y/o **daños**;
+  **cláusula penal** (1840) que fija o limita la indemnización.
+
+### 14.C · Responsabilidad extracontractual y objetiva
+
+**Extracontractual subjetiva (por culpa, art. 1910):** el que obrando **ilícitamente** o contra
+las buenas costumbres causa un daño debe repararlo. Requiere **culpa o dolo** del agente. Ejemplo:
+un conductor distraído atropella a un peatón.
+
+**Objetiva (por riesgo creado, art. 1913):** quien usa cosas o realiza actividades **peligrosas
+por su naturaleza** (vehículos, maquinaria, sustancias, energía) responde del daño **aunque no
+haya culpa**, salvo que pruebe **culpa o negligencia inexcusable de la víctima**. La razón: quien
+crea el riesgo y se beneficia de él debe soportar sus costos (internalización de la externalidad).
+Ejemplos modernos: responsabilidad de **producto**, **ambiental**, por actividades industriales.
+
+**Responsabilidad por hecho ajeno y por cosas (arts. 1919-1932):** los **patrones** responden de
+los daños causados por sus **trabajadores** en el ejercicio de sus funciones (clave para la
+empresa); los padres por los hijos; los dueños de animales y edificios. Es responsabilidad
+**indirecta** o **refleja**.
+
+> **Contractual vs. extracontractual: por qué importa la distinción.** Cambian: (i) la **carga de
+> la prueba** (en la contractual, probado el incumplimiento, se presume cierta responsabilidad; en
+> la extracontractual subjetiva, hay que probar la **culpa**, salvo objetiva); (ii) la
+> **prescripción** (plazos distintos); (iii) la **extensión** de los daños (la previsibilidad
+> limita más la contractual); (iv) la posibilidad de **pactar** límites (más amplia en la
+> contractual). La **opción** o **concurrencia** (cuando un mismo hecho es incumplimiento *y*
+> ilícito) es un debate clásico.
+
+### 14.D · El daño y su cuantificación (la parte más rentable)
+
+Aquí se decide **cuánto** se paga. Categorías:
+- **Daño emergente:** la pérdida concreta (reparaciones, gastos, valor de lo destruido). Se prueba
+  con facturas, peritajes.
+- **Lucro cesante:** la ganancia dejada de obtener. Difícil de probar; exige acreditar que la
+  ganancia era **razonablemente cierta** (no meramente hipotética) y **directa** (art. 2110).
+- **Daño moral (art. 1916):** afectación extrapatrimonial. Su cuantificación es **prudencial**: el
+  juez pondera el tipo de derecho lesionado, el grado de responsabilidad, la situación económica
+  del responsable y de la víctima, y las circunstancias. La SCJN ha desarrollado parámetros para
+  evitar la arbitrariedad y ha reconocido su **función disuasiva**.
+- **Reparación integral:** la jurisprudencia constitucional (influida por la Corte IDH) exige que
+  la reparación sea **justa e integral**, comprendiendo el daño material, el moral y, en su caso, el
+  **proyecto de vida**.
+
+**Límites a la cuantía:** (i) **causalidad inmediata y directa** (art. 2110) —no se responde de
+daños remotos—; (ii) **previsibilidad** (lo previsible al contratar, en la contractual); (iii)
+**deber de mitigar** (la víctima no puede agravar el daño y debe tomar medidas razonables para
+reducirlo —principio creciente, expreso en CISG y en cláusulas contractuales—); (iv) **concurrencia
+de culpas** (se reduce por la culpa de la víctima).
+
+**Cómo razona un socio (cuantificación e indemnización en M&A):** *"En un claim post-closing, la
+pelea casi nunca es '¿hubo incumplimiento?', sino **'¿de cuánto es el daño y es indemnizable?'**.
+Ataco tres frentes: causalidad (¿el daño viene **directamente** del breach o de otra causa?),
+categoría (¿es daño **directo** o **consecuencial/indirecto** —excluido por el SPA—?) y mitigación
+(¿el comprador hizo lo razonable para reducirlo?). Y siempre aplico el **cap** y el **basket**: el
+límite contractual de la responsabilidad. Cuantificar es donde se gana o se pierde el dinero."*
+
+### 14.E · Las eximentes y atenuantes
+
+- **Caso fortuito / fuerza mayor:** hecho ajeno, imprevisible o inevitable; libera (salvo pacto de
+  asunción, mora previa o culpa).
+- **Culpa de la víctima:** excluye (si es la causa exclusiva) o reduce (concurrencia) la
+  responsabilidad.
+- **Hecho de un tercero:** rompe el nexo causal respecto del demandado.
+- **Causas de justificación:** legítima defensa, estado de necesidad, ejercicio de un derecho,
+  consentimiento del ofendido (con límites: no para daños a derechos indisponibles).
+
+### 14.F · La asignación contractual de la responsabilidad (el puente con el SPA)
+
+Las partes pueden **modular** la responsabilidad por contrato, dentro de los límites del orden
+público (no se puede condonar anticipadamente el **dolo**, art. 2106). Herramientas:
+- **Cláusula de indemnización (*indemnity*):** define **qué daños** se reparan y por **qué
+  supuestos** (incumplimiento de reps, contingencias específicas).
+- **Limitación de responsabilidad (*cap*):** **tope máximo** de lo que se responde (p. ej., un % del
+  precio).
+- **Umbral (*basket* / *de minimis*):** mínimo a partir del cual se responde (filtra reclamaciones
+  pequeñas).
+- **Exclusión de daños indirectos / consecuenciales (*consequential damages*):** se limita a daños
+  **directos**.
+- **Supervivencia (*survival*):** plazo durante el cual subsisten las reps y la posibilidad de
+  reclamar (la prescripción pactada).
+- **Cláusula penal (art. 1840):** fija anticipadamente la indemnización o una pena (moderable por
+  desproporción).
+- **Hold harmless / defensa:** una parte se obliga a **defender e indemnizar** a la otra frente a
+  terceros.
+- **Seguros:** transferencia del riesgo a una aseguradora (D&O, responsabilidad de producto, R&W
+  insurance en M&A).
+
+> **Límite imperativo:** no se puede **renunciar anticipadamente** a la responsabilidad por
+> **dolo** (art. 2106), ni excluir la responsabilidad por daños a la **vida o integridad** o que
+> contraríe el orden público. El *cap* y las exclusiones operan para la culpa y el riesgo, no para
+> el fraude.
+
+## 15. Explicación intuitiva
+
+Piensa en la responsabilidad civil como el **sistema de seguros y frenos** de la vida jurídica.
+Cuando ocurre un "choque" (un daño), el derecho hace tres preguntas, como un perito de seguros:
+*(1) ¿De dónde vino el golpe?* (hecho generador: ¿culpa, riesgo, incumplimiento?). *(2) ¿Cuánto se
+dañó?* (daño: lo roto + lo que se dejó de ganar + el sufrimiento). *(3) ¿El golpe causó realmente
+ese daño?* (nexo causal). Si las tres respuestas existen y no hay una excusa válida (eximente),
+**alguien paga**.
+
+La gran distinción —**contractual vs. extracontractual**— es como tener o no tener una **póliza
+previa**: si había un **contrato** (la "póliza"), las reglas son las pactadas + el régimen
+contractual; si **no** había relación previa (un extraño te daña), aplican las reglas generales del
+"no dañar a nadie". Y la **responsabilidad objetiva** es el reconocimiento de que **algunas
+actividades son tan peligrosas** que quien las realiza paga los daños **aunque maneje con
+cuidado**: el precio de jugar con fuego.
+
+Para el abogado de negocios, el truco es que **gran parte de la responsabilidad se puede
+**repartir por contrato** (indemnity, caps, exclusiones, seguros): negociar un SPA es, en buena
+medida, **decidir por anticipado quién paga si algo sale mal**.
