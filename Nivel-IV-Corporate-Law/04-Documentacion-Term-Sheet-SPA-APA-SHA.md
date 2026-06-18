@@ -676,3 +676,83 @@ due diligence**. Si la DD reveló pasivos ocultos graves → estructura *asset d
 **APA** con perímetro y pasivos cuidadosamente delimitados. Si la prioridad era continuidad → *share deal*
 → **SPA** con reps fuertes y consentimientos por *change of control* como condiciones. **Investigar →
 estructurar → documentar**: la cadena completa del M&A, ahora visible de principio a fin.
+
+### 14.E · El SHA (convenio entre accionistas): gobierno, capital y salidas
+
+El **SPA/APA** consuma la **compra**; el **SHA** (*Shareholders Agreement* / convenio entre accionistas)
+gobierna la **convivencia posterior** entre los socios. Es el contrato clave cuando, tras la operación,
+**varios socios** quedan juntos: fundadores e inversionistas (VC/PE), familia y fondo, socio estratégico y
+control. Para un fondo, el SHA es **tan importante como el precio**, porque define su **poder**, su
+**protección económica** y su **salida**. Es también el instrumento del **gobierno corporativo
+contractual** —tu área de interés—. Sus cláusulas se agrupan en tres familias:
+
+**1) Gobierno (¿quién decide?).**
+- **Composición del consejo:** cuántos asientos tiene cada socio (el inversionista suele negociar uno o
+  más, y a veces un **observador**). Define el equilibrio de poder en la administración.
+- **Reserved matters / vetos (materias reservadas):** la lista de **decisiones importantes** que requieren
+  el **consentimiento** del inversionista/minoría, aunque no controle el consejo: endeudarse por encima de
+  X, emitir acciones, vender activos clave, cambiar el giro, aprobar el presupuesto, contratar/remover al
+  CEO, hacer otra adquisición, repartir dividendos. Es la **principal protección de poder** del minoritario:
+  no gobierna el día a día, pero **bloquea** lo que le importa.
+- **Información:** derecho a recibir estados financieros, reportes e información de gestión (*information
+  rights*).
+- **Resolución de bloqueos (*deadlock*):** qué pasa cuando los socios **no se ponen de acuerdo** en una
+  decisión clave y se **paraliza** la empresa. Mecanismos: escalamiento a los directivos/accionistas
+  principales, mediación, y —si no hay solución— mecanismos de **compra-venta forzosa**: ***buy-sell* /
+  "ruleta rusa"** (un socio pone un precio; el otro elige si **compra** o **vende** a ese precio),
+  ***Texas shoot-out*** (ofertas selladas al alza), o la **disolución**. Son cláusulas delicadas: mal
+  diseñadas, favorecen a quien tiene más dinero para comprar.
+
+**2) Capital y economía (¿quién pone y quién cobra cuánto?).**
+- **Preferencia de liquidación (*liquidation preference*):** derecho del inversionista a **cobrar primero**
+  en una venta o liquidación, normalmente un **múltiplo** de su inversión (1x, a veces más), antes de que
+  los fundadores reciban nada. Puede ser ***non-participating*** (cobra su preferencia **o** convierte a
+  ordinario, lo que más le convenga) o ***participating*** (cobra su preferencia **y además** participa
+  como ordinario —más agresiva—). Es la protección económica **central** del VC/PE.
+- **Antidilución:** protege al inversionista si la empresa emite acciones nuevas a un **precio menor** que
+  el que él pagó (*down round*). Modalidades: ***full ratchet*** (muy agresiva: ajusta su precio al nuevo,
+  más bajo) y ***weighted average*** (promedio ponderado, la estándar y más equilibrada).
+- **Derechos de preferencia (*preemptive rights / pro rata*):** derecho a **suscribir** acciones en
+  emisiones futuras para **mantener su porcentaje** (no diluirse).
+- **Compromisos de aportación / *pay-to-play*:** reglas sobre futuras rondas y consecuencias de no
+  participar.
+
+**3) Transmisión y salida (¿cómo entro y, sobre todo, cómo salgo?).** Esta es la familia **más
+característica** del SHA, porque diseña las **salidas** —lo que más importa a un inversionista—:
+- **Lock-up:** prohibición temporal de **vender** acciones (típico para fundadores: que no se vayan
+  pronto).
+- **ROFR / ROFO (derecho del tanto / de primera oferta):** antes de vender a un tercero, el socio debe
+  **ofrecer** primero a los demás (ROFR: igualar la oferta de un tercero; ROFO: ofrecer antes de buscar
+  tercero). Evita la entrada de extraños no deseados.
+- **Tag along (derecho de acompañamiento):** si el socio mayoritario vende, el **minoritario puede
+  sumarse** y vender su parte **en las mismas condiciones**. Es **protección del minoritario**: que no lo
+  dejen "atrapado" con un nuevo socio de control que no eligió.
+- **Drag along (derecho de arrastre):** si una mayoría (o el inversionista) decide vender el 100%, puede
+  **obligar** a los demás socios a **vender también** en las mismas condiciones. Es **clave para el
+  inversionista/PE**: garantiza que podrá vender la empresa **entera** (que es lo que un comprador quiere)
+  sin que un minoritario lo bloquee. La tensión **drag (mayoría) vs. tag (minoría)** es el corazón de la
+  negociación de salidas.
+- **Put / Call options:** **put** (el socio puede **obligar** a que le **compren** su parte, p. ej., el
+  inversionista si no hay salida en X años) y **call** (puede **obligar** a que le **vendan**, p. ej., la
+  empresa recompra al fundador que se va). Definen salidas "forzadas" bajo ciertos disparadores.
+- **Cláusulas de salida del inversionista:** compromisos de buscar un **exit** (venta o IPO) en cierto
+  horizonte, derechos de **registro** (para vender en bolsa), y *redemption* (rescate).
+- **Bad leaver / good leaver:** para fundadores/ejecutivos accionistas: el que se va "mal" (incumpliendo,
+  por causa) pierde o vende barato sus acciones no consolidadas; el que se va "bien" conserva más. Alinea
+  el incentivo de permanencia.
+
+**Cómo se relaciona el SHA con los estatutos.** El SHA es un **contrato entre los socios** (eficacia
+**inter partes**); los **estatutos** son la "constitución" de la sociedad (eficacia **frente a todos**).
+Lo ideal es que las cláusulas del SHA que se pueda **se reflejen en los estatutos** (para oponerlas a
+terceros y a la sociedad), pero algunas, por su naturaleza, viven solo en el SHA. En México, la
+**S.A.P.I.** (regulada por la LMV) fue diseñada precisamente para **dar validez societaria** a muchas de
+estas cláusulas (restricciones a la transmisión, vetos, drag/tag, opciones), por lo que es el **vehículo
+preferido** para operaciones con inversionistas (VC/PE) —conexión directa con el Libro 7 (PE y VC) y con
+Gobierno Corporativo—.
+
+**Idea integradora del SHA.** Mientras el SPA mira al **momento de la compra** (asignar el riesgo del
+pasado), el SHA mira a la **vida futura** de la sociedad: cómo se **decide** (gobierno), cómo se **reparte
+el dinero** (capital) y cómo se **entra y sale** (transmisión). Diseñar un buen SHA es **anticipar el
+conflicto** entre socios y resolverlo por escrito **antes** de que ocurra —el verdadero "acuerdo
+prenupcial" empresarial—. Para el abogado que quiere especializarse en **gobierno corporativo y operaciones
+complejas**, dominar el SHA es dominar el **instrumento donde se diseña el poder corporativo**.
