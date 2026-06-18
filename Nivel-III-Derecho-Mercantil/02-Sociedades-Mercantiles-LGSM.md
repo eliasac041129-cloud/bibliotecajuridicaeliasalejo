@@ -400,3 +400,109 @@ modelo del comisario único evoluciona hacia órganos de vigilancia más robusto
 > requieren mayoría calificada o veto del inversionista (*reserved matters*), cómo se integra el
 > consejo, qué protege a la minoría. El control no es solo tener acciones: es **diseñar las reglas de
 > decisión**."*
+
+
+### 14.D · Los derechos del accionista (mayorías y minorías)
+
+El *status* de accionista confiere dos clases de derechos:
+
+**Derechos patrimoniales (económicos):**
+- **Dividendo:** participación en las utilidades, cuando la asamblea lo decreta y hay utilidades
+  **reales** (no se reparten dividendos ficticios; primero se constituye la **reserva legal** —5% de
+  las utilidades hasta alcanzar el 20% del capital, art. 20—).
+- **Cuota de liquidación:** lo que corresponde al socio al disolverse y liquidarse la sociedad,
+  tras pagar a los acreedores.
+- **Derecho de preferencia (suscripción preferente, art. 132):** en los **aumentos de capital**, el
+  accionista tiene preferencia para suscribir las nuevas acciones **en proporción** a las que posee,
+  para **no diluirse**. Es el derecho que protege contra la **dilución** —tema central en las rondas
+  de inversión de VC—.
+
+**Derechos corporativos (de consecución / políticos):**
+- **Voto:** participar y votar en las asambleas (regla: un voto por acción ordinaria; las de voto
+  limitado, restringido).
+- **Información:** acceder a la información social (estados financieros, informe del consejo; art.
+  186-187).
+- **Impugnación:** demandar la **nulidad** de acuerdos de asamblea contrarios a la ley o los
+  estatutos (art. 188 y ss.).
+- **Derechos de minoría (protección del que no controla):** la LGSM otorga a minorías que reúnan
+  ciertos porcentajes herramientas defensivas:
+  - **Convocar asamblea** (titulares del **33%**, o 25% en ciertos casos; en S.A.P.I./bursátil,
+    porcentajes menores).
+  - **Nombrar un consejero** (minoría del **25%**, art. 144; en bursátil, 10%).
+  - **Aplazar la votación** de un asunto no suficientemente informado (33%, art. 199).
+  - **Oponerse judicialmente** a las resoluciones y ejercer la **acción de responsabilidad** contra
+    administradores (minoría del **25%**, art. 163).
+  - **Derecho de retiro/separación** en ciertos supuestos (cambio de objeto, nacionalidad,
+    transformación).
+
+> *Mayorías y minorías = el reparto del poder.* Quien tiene **>50%** controla la asamblea ordinaria
+> (gestión, consejo, dividendos); quien tiene **≥75%** controla incluso la extraordinaria (reformar
+> estatutos, fusionar). Por eso, en una inversión, el porcentaje no lo es todo: importan los
+> **derechos pactados** (vetos, *reserved matters*, asientos en el consejo). La **S.A.P.I.** permite
+> blindar a la minoría mucho más que la S.A. tradicional.
+
+### 14.E · La S.A.P.I. y las vicisitudes societarias
+
+**La S.A.P.I. (Sociedad Anónima Promotora de Inversión).** Es una S.A. regida por la LGSM **más** un
+régimen especial de la **LMV** que **flexibiliza** su organización para recibir inversión. Permite,
+en estatutos (lo que la S.A. tradicional limita):
+- **Restricciones a la transmisión** de acciones (derechos de preferencia, *lock-up*, autorización).
+- **Acciones de voto limitado, restringido o sin voto**, y acciones con **derechos especiales**
+  (veto, dividendos preferentes).
+- **Cláusulas de *drag along*** (arrastre: el mayoritario obliga a la minoría a vender en un cambio
+  de control) y ***tag along*** (acompañamiento: la minoría tiene derecho a vender en las mismas
+  condiciones que el mayoritario).
+- **Exclusión** de accionistas y mecanismos de **separación** y de **resolución de conflictos**
+  (deadlock).
+- **Derechos de minoría reforzados** y limitación de responsabilidad de consejeros.
+Por todo ello, es el **vehículo predilecto de VC y PE** (donde estos pactos son esenciales) y la
+**antesala del mercado de valores** (S.A.P.I.B. → S.A.B.). *El derecho societario "a la Delaware",
+dentro de México.*
+
+**Las vicisitudes (modificaciones estructurales).** Requieren **asamblea extraordinaria**:
+- **Aumento de capital:** por nuevas aportaciones (rondas de inversión), por capitalización de
+  utilidades/pasivos, o por revaluación. Activa el **derecho de preferencia** (anti-dilución).
+- **Reducción de capital:** por reembolso a socios o por absorción de pérdidas; protege a
+  acreedores (derecho de oposición, publicidad).
+- **Transformación:** cambiar de tipo social (p. ej., S. de R.L. → S.A. o S.A.P.I.) conservando la
+  personalidad.
+- **Fusión (arts. 222 y ss.):** dos o más sociedades se **unen** —por incorporación (una absorbe a
+  otra) o por integración (nace una nueva)—; transmisión universal de patrimonio; protección de
+  acreedores (derecho de oposición; efectos a los 3 meses salvo pago/garantía). *Base del M&A por
+  fusión (Nivel IV).*
+- **Escisión (art. 228 bis):** una sociedad **divide** su patrimonio, transmitiéndolo a una o varias
+  sociedades nuevas o existentes. *Clave en reestructuras y carve-outs (Nivel IV).*
+- **Disolución y liquidación (arts. 229 y ss.):** causas de disolución (vencimiento del plazo,
+  imposibilidad del objeto, acuerdo, pérdida de 2/3 del capital, reducción de socios); seguida de la
+  **liquidación** (realizar activos, pagar pasivos, repartir el remanente) por los liquidadores.
+
+> **Cómo razona un socio (S.A.P.I. y rondas).** *"Cuando un fondo de VC invierte en una startup,
+> exijo convertirla en **S.A.P.I.** y montar una arquitectura de **series** de acciones: la serie del
+> fondo lleva **dividendo/liquidación preferente**, **anti-dilución**, **veto** sobre *reserved
+> matters*, asiento en el consejo, *tag* y *drag along*, y derechos de información. Todo eso vive en
+> los **estatutos** (oponibles) y en el **convenio entre accionistas**. El derecho societario es el
+> **lienzo**; la S.A.P.I., los pinceles que permiten pintar el deal de inversión."*
+
+## 15. Explicación intuitiva
+
+Piensa en una **sociedad anónima** como un **edificio de departamentos** que varias personas
+construyen juntas:
+- El **capital social** es el dinero que pusieron para construirlo; las **acciones** son las
+  **escrituras** de cada departamento (cada quien tiene tantos departamentos como dinero puso), y se
+  pueden **vender** a otros.
+- La **responsabilidad limitada** significa que, si el edificio se endeuda y quiebra, cada dueño solo
+  pierde **su departamento** (su aportación), no el resto de su patrimonio.
+- La **asamblea** es la **junta de condóminos**: los dueños se reúnen para decidir lo importante
+  (cambiar el reglamento del edificio = reformar estatutos, ampliar el edificio = aumentar capital).
+  Las decisiones se toman por **mayoría** (de departamentos/acciones): quien tiene más, manda más.
+- El **consejo de administración** es el **comité que administra** el edificio día a día (contrata al
+  conserje, paga los servicios); el **comisario** es el **auditor** que revisa las cuentas.
+- Las **minorías** (los dueños de pocos departamentos) tienen **derechos defensivos** para que la
+  mayoría no abuse (pedir información, convocar junta, impugnar acuerdos ilegales).
+- La **S.A.P.I.** es un edificio con un **reglamento a la medida**: permite pactar reglas especiales
+  (quién puede vender y a quién, vetos para ciertas decisiones, que si la mayoría vende todos
+  vendan), ideal cuando entran **inversionistas** que exigen protecciones.
+
+Y el **M&A** es, en el fondo, **comprar el edificio**: o comprando **todas las escrituras**
+(acciones = *share deal*) o comprando el **inmueble y su operación** (activos = *asset deal*). Todo
+lo que estudiamos aquí es lo que se negocia y se transfiere ese día.
