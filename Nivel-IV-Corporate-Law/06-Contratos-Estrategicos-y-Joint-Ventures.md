@@ -517,3 +517,109 @@ y contratos** en un solo sistema.
 conflicto: un socio puede querer **dividendos** y el otro **reinvertir** para crecer), y cómo se
 **financia** la JV (capital adicional de los socios vs. deuda de la JV co —conecta con el Libro 5—). La
 **política de dividendos vs. reinversión** debe pactarse, porque enfrenta intereses legítimos distintos.
+
+### 14.C · El contrato de JV, parte II (deadlock y salida: los mecanismos más difíciles)
+
+Aquí está lo **más difícil y característico** de la JV: qué hacer cuando los socios **no se ponen de
+acuerdo** (deadlock) y cómo permite la **salida** de un socio. Son los mecanismos que **previenen que un
+conflicto destruya el valor** —y los que más distinguen a un abogado experto—. Reutilizan y profundizan lo
+que aprendiste en el SHA (Libro 4).
+
+**El deadlock (bloqueo): el problema de la JV 50/50.** Cuando dos socios tienen el mismo poder (gobierno
+paritario) y **no logran acordar** una decisión clave, el negocio se **paraliza**. El contrato debe prever
+un **camino de salida del bloqueo**, escalando de lo suave a lo drástico:
+- **Escalamiento y *cooling-off*:** primero, la decisión "sube" a los **directivos máximos** o a los
+  **presidentes** de cada socio (que negocien al más alto nivel), con un periodo de enfriamiento. Muchos
+  bloqueos se resuelven aquí.
+- **Mediación / experto independiente:** un tercero ayuda a destrabar (mediación) o decide un punto técnico
+  (experto).
+- **Mecanismos de compra-venta forzosa (si nada funciona):** los más drásticos, diseñados para que el
+  bloqueo **no eternice** la parálisis, forzando que **uno compre al otro**:
+  - ***Ruleta rusa* (*Russian roulette*):** un socio (A) fija un **precio por acción** y le da a B la
+    opción de **comprar** la parte de A **o vender** la suya a A, **a ese precio**. Como A no sabe qué hará
+    B, tiene incentivo a fijar un **precio justo** (si lo pone muy bajo, B le compra barato; si muy alto, B
+    le vende caro). Resuelve el bloqueo separando a los socios.
+  - ***Texas / Mexican shoot-out*:** ambos socios presentan **ofertas selladas** para comprar al otro; gana
+    (compra) **el que ofrece más**. Empuja a ofrecer el precio real.
+  - ***Multiple choice / put-call*:** variantes con opciones de venta (put) y compra (call) bajo
+    disparadores.
+  > **Advertencia de criterio (igual que en el SHA):** estos mecanismos **favorecen a quien tiene más
+  > dinero** (el socio con más caja puede comprar; el que no la tiene, se ve forzado a vender). El abogado
+  > del socio **más débil financieramente** debe negociarlos con cuidado (valuación independiente, plazos,
+  > excepciones) para que no se conviertan en una expropiación encubierta.
+- **Disolución (la opción nuclear):** si el bloqueo es irresoluble, la JV se **disuelve y liquida**
+  (se reparten activos, se terminan los contratos). Es el "divorcio total"; costoso, pero a veces la única
+  salida.
+
+**Las cláusulas de salida (*exit*): cómo entra y sale un socio.** Como la JV es de largo plazo, debe prever
+cómo un socio **transmite su participación** o **abandona**. Reutiliza el arsenal del SHA:
+- **Lock-up:** prohibición de vender durante un periodo inicial (que los socios se comprometan).
+- **ROFR / ROFO (derecho del tanto / de primera oferta):** antes de vender a un tercero, ofrecer al otro
+  socio (para que no entre un extraño no deseado al "matrimonio").
+- **Tag along:** si un socio vende, el otro puede **sumarse** a la venta (protección).
+- **Drag along:** un socio (o mayoría) que vende puede **arrastrar** al otro a vender el 100% (clave si se
+  quiere vender la JV entera a un tercero).
+- **Put / Call options:** **put** (un socio obliga al otro a **comprarle** su parte ante ciertos
+  disparadores: incumplimiento, deadlock, cambio de control del socio) y **call** (obliga a que le
+  **vendan**). Muy usadas para estructurar salidas pactadas (p. ej., un socio extranjero con opción de
+  comprar la parte del local en X años).
+- **Cambio de control del socio:** ¿qué pasa si **el socio** (no la JV) es adquirido por un tercero
+  —quizá un competidor—? Suele pactarse un derecho del otro socio a **comprar** o a **terminar** (no quiere
+  quedar "casado" con un competidor que compró a su socio).
+- **Incumplimiento y *default*:** consecuencias si un socio incumple (no aporta, viola la exclusividad):
+  desde indemnización hasta opción de compra forzosa de su parte (a descuento).
+
+**La propiedad intelectual al salir (punto crítico en JV tecnológicas).** ¿De quién es la **PI aportada**
+(vuelve a su dueño) y la **PI creada** por la JV (¿se reparte?, ¿se licencia a los socios?, ¿se queda quien
+opera?)? Y al terminar: ¿pueden los socios **usar** lo aprendido y desarrollado, o hay restricciones? Mal
+resuelto, esto genera litigios feroces (un socio acusa al otro de "robarse" la tecnología de la JV). Debe
+pactarse **desde el inicio**.
+
+**La gran lección de la JV.** A diferencia del M&A (donde uno manda y la relación termina), la JV es una
+**relación de poder compartido y de largo plazo**, y por eso el abogado debe **diseñar el divorcio antes de
+la boda**. Las cláusulas de deadlock y salida no son pesimismo: son **realismo**. La mayoría del valor que
+un abogado de JV agrega está en **anticipar el conflicto** y darle una salida ordenada por escrito, para
+que, si la relación se agria, el valor creado **no se destruya** en una guerra. Quien domina esto domina el
+arte de estructurar **relaciones de poder compartido** —una habilidad transferible a todo el gobierno
+corporativo—.
+
+### 14.D · Contratos de distribución y suministro estratégicos
+
+Bajando en intensidad de colaboración, llegamos a los **contratos estratégicos comerciales** de largo
+plazo, que estructuran relaciones sin crear una sociedad común. Son omnipresentes y, bien negociados,
+**estratégicos** (aseguran mercados, insumos o canales).
+
+**El contrato de distribución.** El **distribuidor** se obliga a **comprar** los productos del
+**proveedor/fabricante** y **revenderlos** en un territorio, **por su cuenta y riesgo** (gana en el margen
+de reventa). Es clave **distinguirlo** de figuras parecidas:
+- **vs. Agencia (comisión mercantil):** el **agente** promueve y vende **por cuenta del principal** (no
+  compra para revender; gana una **comisión**). El riesgo y la propiedad de la mercancía no pasan al agente.
+- **vs. Franquicia:** el **franquiciatario** opera un **modelo de negocio completo** (marca, know-how,
+  sistemas) bajo licencia del franquiciante, pagando regalías; está fuertemente regulada (Ley de la
+  Propiedad Industrial).
+Cláusulas clave del contrato de distribución: **territorio** y **exclusividad** (¿el distribuidor es el
+único en la zona?, ¿puede vender productos de competidores?), **objetivos/mínimos de compra**, **precios**
+(¡cuidado!: fijar el **precio de reventa** puede ser una práctica monopólica), **plazo y renovación**,
+**terminación** y —muy litigado— las **consecuencias de la terminación** (¿indemnización al distribuidor
+por la clientela generada?, manejo del inventario). El derecho de la **competencia** vigila las
+restricciones (exclusividades, territorios, precios).
+
+**El contrato de suministro.** El **proveedor** se obliga a **entregar bienes de forma continuada o
+periódica** al **adquirente** durante un plazo. Asegura el **abasto** de un insumo crítico (para el
+comprador) o la **colocación** de una producción (para el proveedor). Cláusulas clave:
+- **Volumen:** cantidades, mínimos y máximos; cláusula ***take-or-pay*** (el comprador paga aunque **no**
+  tome el producto —común en energía y commodities: garantiza ingresos al proveedor que invirtió en
+  capacidad—).
+- **Precio:** fijo, **indexado** (a un índice o commodity), con fórmulas de revisión; protege contra la
+  volatilidad de largo plazo.
+- **Exclusividad:** ¿el comprador debe comprarle **solo** a este proveedor?, ¿el proveedor le vende **solo**
+  a este comprador? (otra vez, ojo con la competencia).
+- **Calidad, entrega y *force majeure*:** estándares, plazos, y qué pasa ante eventos de fuerza mayor
+  (relevante para cadenas de suministro —lección de las disrupciones recientes—).
+- **Plazo, terminación e incumplimiento.**
+
+**La dimensión estratégica.** Estos contratos no son "papeleo comercial": un contrato de suministro de
+largo plazo puede ser la **columna vertebral** de un negocio (asegura el insumo sin el cual no opera), y un
+contrato de distribución define el **acceso al mercado**. En la **due diligence** (Libro 2), estos son
+precisamente los **contratos materiales** que se revisan con lupa (y donde se buscan las cláusulas de
+*change of control*). El abogado que los redacta bien **protege el corazón operativo** de la empresa.
