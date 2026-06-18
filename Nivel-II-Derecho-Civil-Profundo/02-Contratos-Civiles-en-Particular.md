@@ -164,3 +164,97 @@ Para la empresa, los contratos típicos son su **operación diaria** y su **estr
 El director jurídico **vive** negociando y administrando estos contratos. Y en M&A, el contrato
 estrella —el SPA— es una **compraventa** elevada a su máxima sofisticación. Por eso este libro es
 el puente: del contrato civil típico al contrato corporativo.
+
+
+## 10. Definiciones doctrinales
+
+- **Compraventa (Sánchez Medal, Rojina Villegas):** contrato por el que uno de los contratantes
+  (vendedor) se obliga a **transferir la propiedad** de una cosa o de un derecho, y el otro
+  (comprador) a **pagar por ellos un precio cierto y en dinero**. Es bilateral, oneroso,
+  conmutativo (por regla) y **consensual** para bienes muebles, **formal** para inmuebles.
+- **Mutuo (doctrina civil):** contrato por el que el mutuante **transfiere la propiedad** de una
+  suma de dinero u otras cosas **fungibles** al mutuatario, quien se obliga a **devolver otro
+  tanto** de la misma especie y calidad. Si hay interés, es **mutuo con interés**.
+- **Mandato (Borja Soriano):** contrato por el que el mandatario se obliga a **ejecutar por cuenta
+  del mandante** los actos jurídicos que este le encarga. Puede ser **con representación** (el
+  mandatario actúa en nombre del mandante) o **sin representación** (actúa en nombre propio).
+- **Fianza:** contrato por el que un tercero (fiador) se obliga a **pagar por el deudor** si este
+  no lo hace; es una **garantía personal y accesoria**.
+- **Arrendamiento:** contrato por el que una parte concede a otra el **uso o goce temporal** de una
+  cosa, a cambio de un precio cierto (renta).
+
+> **Lectura del Consejo:** observa el patrón. En cada definición late una **plantilla de
+> obligaciones** del Libro 1: la compraventa genera obligaciones de **dar** (transmitir, pagar) +
+> garantía (saneamiento); el mutuo, de **dar** (restituir) + accesoria (intereses); el mandato, de
+> **hacer** (gestionar) + deberes de lealtad; la fianza, de **dar** subsidiaria (responsabilidad
+> por deuda ajena — Schuld/Haftung del Libro 1).
+
+## 11. Definiciones legales (CCF — verificar versión vigente y código local)
+
+- **Compraventa — art. 2248:** "Habrá compraventa cuando uno de los contratantes se obliga a
+  transferir la propiedad de una cosa o de un derecho, y el otro a su vez se obliga a pagar por
+  ellos un precio cierto y en dinero."
+- **Transmisión de propiedad — art. 2014:** la propiedad de cosa **cierta y determinada** se
+  transmite por **mero efecto del contrato** (consensualismo), sin dependencia de la entrega
+  (salvo pacto o casos especiales). **Oponibilidad** frente a terceros: inscripción (inmuebles).
+- **Saneamiento por evicción — arts. 2119 y ss.** y **por vicios ocultos — arts. 2142 y ss.**
+- **Mutuo — art. 2384:** "El mutuo es un contrato por el cual el mutuante se obliga a transferir
+  la propiedad de una suma de dinero o de otras cosas fungibles al mutuatario, quien se obliga a
+  devolver otro tanto de la misma especie y calidad." **Interés — arts. 2393-2397.**
+- **Mandato — art. 2546:** "El mandato es un contrato por el que el mandatario se obliga a ejecutar
+  por cuenta del mandante los actos jurídicos que éste le encarga." **Poderes y representación —
+  arts. 2554 y ss.** (la célebre redacción de los poderes para **pleitos y cobranzas**, **actos de
+  administración** y **actos de dominio**).
+- **Fianza — art. 2794:** "La fianza es un contrato por el cual una persona se compromete con el
+  acreedor a pagar por el deudor, si éste no lo hace." **Beneficios de orden y excusión — arts.
+  2814 y ss.**
+- **Arrendamiento — art. 2398;** **prenda — art. 2856; hipoteca — art. 2893** (vistos en Bienes,
+  Libro 6).
+
+## 12. Definición sencilla
+
+- **Compraventa:** "te doy la propiedad de algo, tú me das dinero." Y si lo que vendí sale defectuoso
+  o no era mío, **respondo** (saneamiento).
+- **Mutuo:** "te presto dinero (o cosas que se consumen); me devuelves otro tanto, quizá con
+  intereses."
+- **Mandato:** "te encargo que hagas algo jurídico por mí; tú lo haces con lealtad y me rindes
+  cuentas."
+- **Fianza:** "si el deudor no paga, **yo pago por él**."
+- **Arrendamiento:** "te dejo usar mi cosa por un tiempo; tú me pagas renta."
+
+## 13. Conceptos fundamentales
+
+- **Cosa y precio (compraventa):** el **precio** debe ser **cierto** (determinado o determinable)
+  y **en dinero** (si es en especie, es permuta; si es mixto, prevalece lo que predomine). La
+  **cosa** debe existir o poder existir, estar en el comercio y ser determinada.
+- **Saneamiento por evicción:** obligación del vendedor de responder si el comprador es **privado**
+  de la cosa por sentencia firme que reconoce un mejor derecho de un tercero (la cosa "no era del
+  todo del vendedor"). Antecedente de las *title warranties*.
+- **Saneamiento por vicios ocultos:** responsabilidad del vendedor por **defectos ocultos** que
+  hacen la cosa impropia para su uso o disminuyen su valor; el comprador tiene la **acción
+  redhibitoria** (rescindir) o la **estimatoria/quanti minoris** (reducción del precio). Antecedente
+  de las *reps* sobre el estado del negocio + indemnización.
+- **Mutuo simple vs. con interés:** con interés se paga un **rédito**; el **interés legal** y el
+  **convencional** tienen límites (usura). **Interés ordinario** (precio del dinero) vs.
+  **moratorio** (sanción del retraso).
+- **Usura:** interés **excesivo**; sujeto a moderación judicial de oficio (SCJN, art. 21.3 CADH —
+  visto en el Libro 1).
+- **Mandato con/sin representación:** **con** representación, los efectos recaen **directamente** en
+  el mandante (actúa "en su nombre"); **sin** representación, el mandatario se obliga frente al
+  tercero y luego traslada los efectos al mandante. Crucial para entender la **comisión mercantil**
+  y los vehículos de adquisición.
+- **Poder (apoderamiento):** acto unilateral que **faculta** a otro para representar; el art. 2554
+  CCF gradúa los **tres grandes poderes**: (i) **pleitos y cobranzas** (litigio), (ii) **actos de
+  administración** (operar) y (iii) **actos de dominio** (disponer/gravar). **Auditar facultades =
+  verificar qué poder tiene quien firma.**
+- **Beneficios de orden y excusión (fianza):** el **orden** exige al acreedor demandar primero al
+  deudor; la **excusión** exige perseguir primero los bienes del deudor antes que los del fiador.
+  Suelen **renunciarse** en las fianzas comerciales, convirtiendo al fiador en obligado casi
+  solidario.
+- **Accesoriedad de la fianza:** sigue la suerte del crédito principal (si se extingue o nova el
+  principal, la fianza se afecta — conexión con el art. 2220 del Libro 1).
+- **Contrato de transacción:** acuerdo por el que las partes, **haciéndose concesiones recíprocas**,
+  evitan o terminan un litigio (art. 2944 CCF). Tiene fuerza de **cosa juzgada** entre las partes;
+  herramienta clave para cerrar disputas (y *claims* post-closing en M&A).
+- **Permuta, donación, depósito, comodato:** intercambio de cosa por cosa; transmisión gratuita;
+  guarda de cosa ajena; préstamo de uso gratuito, respectivamente.
