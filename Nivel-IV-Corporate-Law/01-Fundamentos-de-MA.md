@@ -848,3 +848,150 @@ ESTRATEGIA → NDA → IM/ofertas → LOI (no vinculante) → DUE DILIGENCE
 - **Signing ≠ Closing:** *"firmar no es cerrar; faltan los permisos"*.
 - **Gun jumping:** *"no cierres antes de COFECE"*.
 - **Valor:** *"las sinergias se prometen, la integración se sufre"* (cuidado con destruir valor).
+
+## 40. Resumen ejecutivo
+
+**M&A** (*Mergers & Acquisitions*) es el campo del derecho corporativo que estudia las operaciones por
+las cuales una empresa **cambia de dueño, se combina con otra o se reorganiza**. No es una rama
+autónoma del derecho: es un **punto de convergencia** donde se aplican, al mismo tiempo y bajo presión,
+el derecho de sociedades, de obligaciones y contratos, de competencia económica, fiscal, laboral y de
+mercado de valores. Su unidad la da una **lógica económica** —comprar el control de un negocio para
+crear valor (sinergias, crecimiento, acceso a mercados)— y una **lógica jurídica**: la **asignación
+racional del riesgo** entre comprador y vendedor.
+
+El abogado de M&A trabaja sobre tres ejes. **Primero, la estructura:** decidir si la operación es un
+**share deal** (se compran las acciones y se adquiere la sociedad con todo su pasado, conocido u
+oculto), un **asset deal** (se compran activos seleccionados, aislando pasivos) o una **fusión**
+(combinación corporativa); la elección depende del equilibrio entre riesgo de pasivos, transferibilidad
+de contratos y permisos, eficiencia fiscal y autorizaciones necesarias. **Segundo, las fases:** de la
+estrategia al **NDA**, a la **LOI/term sheet** (mayormente no vinculante), a la **due diligence** (la
+investigación que revela qué se compra), a la negociación del **SPA**, al **signing** y, cumplidas las
+condiciones (COFECE, consentimientos, ausencia de un cambio adverso relevante o **MAC**), al
+**closing** y al **post-closing** (integración, ajustes de precio, *earn-outs*, reclamaciones).
+**Tercero, la asignación de riesgo:** la **due diligence** investiga, las **representations &
+warranties** distribuyen el riesgo de lo desconocido, las **indemnizaciones**, el **escrow** y los
+**MAC** lo aseguran y lo administran en el tiempo.
+
+Para el lector, este libro **abre el Nivel IV** y, con él, el verdadero objetivo de toda la biblioteca.
+Todo lo aprendido converge aquí: las **sociedades** (lo que se compra), los **contratos** (el SPA es el
+contrato definitivo), el **gobierno corporativo** (los deberes del consejo al vender —Revlon— y al
+defenderse —Unocal—), el **mercado de valores** (OPAs), la **economía** (sinergias, valuación) y la
+**argumentación** (negociar y redactar cláusulas). El M&A es el oficio donde el abogado corporativo de
+élite demuestra todo lo que sabe.
+
+## 41. Checklist
+
+**Planeación y estructura de la operación:**
+- [ ] ¿Cuál es la **racionalidad económica** del deal (sinergias, crecimiento, exit)? ¿Es real o es una
+  ilusión de sobreprecio?
+- [ ] ¿**Share deal, asset deal o fusión**? ¿Se ponderaron los cuatro ejes (pasivos ocultos,
+  transferibilidad de contratos/permisos, fiscal, autorizaciones)?
+- [ ] ¿Quiénes son los **actores** (comprador, vendedor, target, asesores, financiadores, reguladores)
+  y cuál es el rol del abogado?
+
+**Proceso y documentos:**
+- [ ] ¿Hay **NDA** firmado antes de revelar información sensible?
+- [ ] ¿La **LOI/term sheet** distingue con claridad lo **vinculante** (exclusividad, confidencialidad,
+  ley aplicable) de lo **no vinculante** (precio, estructura)?
+- [ ] ¿Se planeó una **due diligence** proporcional al riesgo y al tamaño del deal?
+- [ ] ¿El **SPA** contiene reps & warranties, covenants, condiciones, MAC, indemnización y mecanismos de
+  precio (ajustes, *earn-out*, escrow) bien calibrados?
+
+**Cierre y riesgo:**
+- [ ] ¿Se identificaron las **condiciones al closing** (COFECE/competencia, consentimientos por *change
+  of control*, autorizaciones sectoriales)? ¿Hay riesgo de **gun jumping**?
+- [ ] ¿Cómo se asigna el riesgo del **período entre signing y closing** (covenants de operación
+  ordinaria, MAC)?
+- [ ] ¿Está prevista la **integración post-closing** (la fase donde se gana o se destruye el valor)?
+
+## 42. Bibliografía comentada
+
+- **Sebenius / Subramanian — negociación y deal-making (Harvard).** Para entender el M&A como un
+  proceso de **negociación y diseño de transacciones**, no solo de redacción de contratos.
+- **American Bar Association, *Model Stock Purchase Agreement with Commentary*.** **Lectura
+  imprescindible** para quien quiera dominar el **SPA**: cláusula por cláusula, con comentario sobre por
+  qué existe y cómo se negocia cada una.
+- **Jurisprudencia de Delaware (Revlon, Unocal, Smith v. Van Gorkom, las MAC en *Akorn v. Fresenius*).**
+  El marco de los **deberes del consejo** en una venta y la interpretación de las cláusulas MAC; estudio
+  obligado.
+- **Ley Federal de Competencia Económica (LFCE) y guías de la COFECE.** El régimen mexicano de
+  **concentraciones** (notificación, umbrales, gun jumping).
+- **Doctrina mercantil mexicana (LGSM —fusión y escisión—; LMV —OPAs).** El derecho positivo que da
+  forma a las estructuras en México.
+- **Manuales de M&A de despachos y *PLC/Practical Law*.** Para los **estándares de mercado** de cada
+  cláusula y los *precedents* que usa la práctica internacional.
+
+## 43. Ruta hacia el siguiente libro
+
+Ya tienes el **mapa completo del M&A**: por qué existe, cómo se estructura, sus fases, sus actores y su
+lógica de riesgo. Pero hay una fase de la que depende **todo** lo demás —el precio, las reps, las
+indemnizaciones, incluso la decisión de seguir o abandonar el deal—: la **investigación de lo que
+realmente se está comprando**.
+
+- **Siguiente libro:** *[Libro 2 · Due Diligence](./02-Due-Diligence.md)* — cómo se planea, organiza y
+  ejecuta la **debida diligencia** (legal, fiscal, laboral, regulatoria, ambiental), cómo se construye y
+  usa el **data room**, cómo se redacta el **DD report** y los *red flags*, y cómo los hallazgos se
+  traducen en **cláusulas del SPA** (reps específicas, indemnizaciones especiales, ajustes de precio,
+  condiciones al closing).
+- **Conexión inmediata:** en este libro vimos que la **due diligence investiga y las reps reparten el
+  riesgo**; el Libro 2 abre la caja negra de **cómo se investiga de verdad** y cómo cada hallazgo se
+  convierte en protección contractual. Es la habilidad que distingue al abogado de M&A competente del
+  excepcional.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque el **M&A es la cumbre del derecho corporativo**: la operación donde se concentran el mayor valor,
+el mayor riesgo y la mayor visibilidad profesional. Cuando una empresa se compra, se vende o se fusiona,
+**todo el derecho privado se activa a la vez** —sociedades, contratos, competencia, fiscal, laboral,
+valores— y alguien tiene que orquestarlo bajo presión de tiempo y dinero: ese alguien es el abogado de
+M&A. Dominar esta materia significa entender no solo cláusulas, sino la **arquitectura completa de una
+transacción**: por qué se elige una estructura, cómo se asigna el riesgo de lo desconocido, qué puede
+hacer fracasar un cierre. Es el oficio mejor pagado y más estratégico de la profesión, y el rol desde el
+cual un abogado se convierte en **asesor de confianza** de empresarios, fondos y consejos. Quien domina
+el M&A domina el lenguaje en el que se toman las grandes decisiones empresariales.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+> *"Cuando me llega un deal, antes de pensar en cláusulas pienso en **riesgo y estructura**. Primero:
+> ¿qué está comprando realmente mi cliente —una sociedad con todo su pasado (share deal) o activos
+> limpios (asset deal)? Esa sola decisión reordena la operación: en un share deal, la due diligence y
+> las reps son mi muralla contra los pasivos ocultos; en un asset deal, negocio qué se queda fuera.
+> Segundo, pienso en el **calendario de riesgo**: entre el signing y el closing pueden caerse las
+> autorizaciones (COFECE), perderse contratos clave por *change of control*, o aparecer un cambio
+> adverso relevante —por eso peleo la cláusula MAC palabra por palabra—. Tercero, **asigno el riesgo de
+> lo desconocido**: la due diligence me dice lo que sé, las reps & warranties me cubren lo que no, y el
+> escrow y las indemnizaciones me dan con qué cobrar si algo sale mal. Y nunca olvido que el deal no
+> termina en el closing: el valor se gana o se pierde en la **integración**. Mi trabajo no es 'redactar
+> el contrato'; es **diseñar una transacción que proteja a mi cliente y se cierre**."*
+
+## ✦ Errores que cuestan millones
+
+1. **Confundir signing con closing y caer en *gun jumping*.** Empezar a operar la target o coordinar
+   precios **antes** de la autorización de competencia es ilegal y se sanciona con multas enormes y
+   hasta la nulidad. *Prevención:* respetar el calendario; nada de control antes del closing y de la
+   COFECE.
+2. **Due diligence superficial.** Lo que no se investiga, no se cubre con reps; un pasivo fiscal,
+   laboral o ambiental oculto puede valer más que la empresa. *Prevención:* DD proporcional al riesgo y
+   traducir cada *red flag* en una protección contractual (rep, indemnización especial, ajuste).
+3. **Reps & warranties y MAC mal calibradas.** Reps demasiado generales o una MAC ambigua dejan al
+   comprador sin defensa o atrapan al vendedor en una obligación infinita. *Prevención:* redactar con
+   *materiality*, *knowledge qualifiers*, topes (*caps*) y plazos de supervivencia bien negociados.
+4. **Ignorar los consentimientos por *change of control*.** Contratos clave, permisos o financiamientos
+   que se cancelan al cambiar el dueño pueden vaciar de valor a la target. *Prevención:* mapearlos en la
+   DD y volverlos condición al closing.
+5. **Pagar de más por sinergias imaginarias.** La mayoría de los deals que destruyen valor lo hacen por
+   sobreprecio y por integración fallida, no por mala redacción. *Prevención:* disciplina en la
+   valuación y un plan de integración **antes** de firmar.
+
+---
+
+> *Cierre del Libro 1 y apertura del Nivel IV.* Has cruzado el umbral del verdadero objetivo: el
+> **Corporate Law**. Ya tienes el mapa completo del **M&A** —por qué existe, sus estructuras (share,
+> asset, fusión), sus fases (NDA, LOI, due diligence, SPA, signing, closing, post-closing), sus actores
+> y, sobre todo, su **lógica de asignación de riesgo**—. Todo lo que aprendiste en los Niveles I a III
+> converge aquí: sociedades, contratos, gobierno corporativo, valores y economía se vuelven las piezas
+> de una sola partida. En el **Libro 2 · Due Diligence** abriremos la caja negra de la operación: cómo
+> se investiga de verdad lo que se compra y cómo cada hallazgo se convierte en protección contractual.
+> El abogado corporativo de élite ya no es una meta lejana: es el camino que estás recorriendo.
