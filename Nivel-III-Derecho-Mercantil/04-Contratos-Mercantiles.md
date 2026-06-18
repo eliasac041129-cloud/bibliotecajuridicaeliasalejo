@@ -584,3 +584,180 @@ due diligence— del abogado de negocios.
 - **Contratos relacionales y buena fe:** en contratos de larga duración (distribución, franquicia,
   suministro), ¿exige la buena fe deberes de **cooperación, renegociación y preaviso** más intensos
   que en un intercambio puntual?
+
+
+## 30. Errores comunes
+
+- **Redactar contratos atípicos de forma escueta** confiando en que "la ley los completará": no lo
+  hará. Hay que **detallar** todo (terminación, IP, no competencia, indemnización).
+- **No detectar cláusulas de *change of control*** en due diligence: pueden hacer que contraparte
+  termine contratos clave tras el *deal*.
+- **Asumir que los contratos son cedibles** sin verificar la cláusula de cesión y la relatividad
+  (consentimientos).
+- **Confundir distribución con agencia.** El **distribuidor compra y revende** (asume riesgo); el
+  **agente** solo promueve (no compra). Cambia el régimen, la fiscalidad y las protecciones.
+- **Confundir leasing financiero con arrendamiento puro** (uno busca adquirir; el otro, solo usar):
+  distinto tratamiento fiscal, contable y concursal.
+- **Diseñar exclusividades y no competencias sin atender la competencia económica** (riesgo de
+  práctica monopólica relativa).
+- **Omitir la COF en franquicia:** habilita la nulidad del contrato.
+
+## 31. Mitos frecuentes
+
+- *"Si no está en un código, el contrato no vale."* **Falso:** los atípicos valen por la **autonomía
+  de la voluntad** (art. 78).
+- *"El distribuidor y el agente son lo mismo."* **No:** el distribuidor compra para revender; el
+  agente solo promueve.
+- *"El leasing es solo una renta."* **Falso:** es **financiamiento para adquirir** (con opción de
+  compra), no mero uso.
+- *"Puedo ceder cualquier contrato al comprar la empresa."* **Depende:** la **relatividad** y las
+  cláusulas de cesión/*change of control* pueden exigir consentimiento.
+- *"La exclusividad siempre es válida."* **No:** puede ser **anticompetitiva** según su alcance y
+  duración.
+
+## 32. Preguntas difíciles
+
+1. ¿Debería México proteger por ley al **distribuidor/agente/franquiciado** (indemnización por
+   clientela), como la UE, o basta la libertad contractual?
+2. ¿Hasta dónde puede llegar la **exclusividad** y la **no competencia** en distribución/franquicia
+   sin violar la competencia económica?
+3. ¿El **leasing** es arrendamiento, compraventa financiada o un contrato *sui generis*? ¿Qué
+   implicaciones fiscales/concursales tiene cada caracterización?
+4. En un *deal*, ¿qué hacer si un contrato clave con *change of control* tiene una contraparte que se
+   niega a consentir? (Reestructurar, indemnizar, ajustar precio, *carve-out*.)
+5. ¿Los contratos relacionales (franquicia, distribución de larga duración) imponen deberes de
+   **renegociación y preaviso** por buena fe más allá de lo pactado?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**P1.** *¿Qué distingue al contrato mercantil del civil?* **R.** El régimen mercantil (Código de
+Comercio + leyes especiales + usos), aplicable por la **mercantilidad** (art. 75/78); difiere en
+onerosidad presunta, mora (sin interpelación a día cierto), prescripción, libertad de forma y
+relevancia de los usos. El civil es **supletorio**.
+
+**P2.** *Distinga distribución y agencia.* **R.** El **distribuidor compra para revender** en un
+territorio, asumiendo el riesgo de reventa; el **agente** solo **promueve** negocios por cuenta del
+empresario, sin comprar, a cambio de comisión.
+
+**P3.** *¿Qué es el factoraje y sus modalidades?* **R.** Operación por la que el factorante **adquiere
+las cuentas por cobrar** de una empresa, adelantándole liquidez. **Con recurso** (el cedente responde
+del impago) o **sin recurso** (el factorante asume el riesgo de solvencia).
+
+**P4.** *¿Qué caracteriza al arrendamiento financiero (leasing)?* **R.** La arrendadora **adquiere** un
+bien elegido por el cliente y se lo **arrienda**; al final el cliente puede **comprarlo** por un valor
+residual, prorrogar o participar de su venta. Su función es **financiar la adquisición** de activos.
+
+**P5.** *¿Qué es la COF en la franquicia?* **R.** La **Circular de Oferta de Franquicia**: información
+precontractual que el franquiciante debe entregar (sobre el negocio, costos, obligaciones); su omisión
+o defecto puede dar lugar a la **nulidad** del contrato a elección del franquiciatario (LFPPI).
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** asociado corporativo. **Cliente:** una cadena de restaurantes (S.A.P.I.) muy exitosa que
+> quiere (a) **expandirse por franquicia** en México y abrir una **master franchise** en Centroamérica;
+> (b) financiar la apertura de locales propios con **leasing** de equipo; (c) obtener **liquidez**
+> factorizando las cuentas de sus proveedores corporativos; y en 3 años, **venderse** a un fondo.
+>
+> **Tarea:** elabora una **nota de estructura contractual** que cubra: (1) el **paquete de
+> franquicia** (COF, licencia de marca —IMPI—, manual de operaciones, regalías, estándares, no
+> competencia, territorio) y la **master franchise** internacional (adaptación por país); (2) el
+> **leasing** del equipo (estructura, opción de compra, tratamiento); (3) el **factoraje** (con/sin
+> recurso, notificación); (4) cuidado con la **competencia económica** (exclusividades, no fijar
+> precios de reventa); (5) cómo preparar los **contratos para la venta futura**: evitar/gestionar
+> cláusulas de *change of control*, asegurar **cedibilidad**, proteger marca y *know-how*. Concluye con
+> los **3 riesgos** principales y su mitigación.
+
+*(Pista de evaluación: la mejor respuesta integra franquicia (con COF y marca), leasing y factoraje;
+cuida la competencia económica; y **prepara los contratos para el M&A futuro** —cedibilidad, change of
+control, IP—, conectando con la due diligence del comprador.)*
+
+## 35. Flashcards
+
+- **¿Mercantilidad del contrato?** → Por acto de comercio (art. 75) / partes comerciantes / objeto de
+  empresa; rige el derecho mercantil (civil supletorio).
+- **¿Compraventa mercantil?** → Con propósito de especulación; mora sin interpelación a día cierto.
+- **¿Comisión?** → Mandato mercantil (por cuenta del comitente, con/sin representación).
+- **¿Distribución vs. agencia?** → Comprar y revender vs. solo promover.
+- **¿Franquicia?** → Licencia de marca + know-how + uniformidad; requiere **COF**.
+- **¿Factoraje con/sin recurso?** → El cedente responde del impago / no responde (riesgo del
+  factorante).
+- **¿Leasing?** → Adquirir un bien y arrendarlo con **opción de compra** (financia la adquisición).
+- **¿Contrato atípico?** → No regulado; válido por autonomía (art. 78); se integra por analogía/usos.
+- **¿Joint venture?** → Coinversión: contractual o vía sociedad (equity JV, S.A.P.I.).
+- **¿Change of control?** → Cláusula que permite terminar/consentir si cambia el dueño (clave en M&A).
+- **¿Cesión de contrato?** → Requiere, por la relatividad, el consentimiento de la contraparte.
+- **¿Riesgo competencia?** → Exclusividad, no competencia y fijación de precios de reventa pueden ser
+  anticompetitivas.
+
+## 36. Mapas mentales
+
+```
+CONTRATOS MERCANTILES (contratos de empresa)
+├── BASE: parte general (Nivel I) + contratos civiles (Nivel II) + autonomía (art. 78) + usos
+├── TRASLATIVOS
+│   └── Compraventa mercantil (especulación; mora sin interpelación) → SPA / asset deal
+├── COLABORACIÓN Y DISTRIBUCIÓN
+│   ├── Comisión (mandato mercantil) · Agencia (promueve, no compra)
+│   ├── Distribución (compra y revende; exclusividad)
+│   └── FRANQUICIA (marca + know-how + uniformidad; COF)  ── ⚠ competencia económica
+├── FINANCIAMIENTO
+│   ├── FACTORAJE (cuentas por cobrar; con/sin recurso) [cesión + descuento]
+│   └── LEASING (adquirir + arrendar + opción de compra)
+├── ATÍPICOS Y COLABORATIVOS
+│   └── Joint venture (contractual / equity JV-S.A.P.I.) · outsourcing · know-how
+└── CLÁUSULAS CLAVE (M&A)
+    └── CHANGE OF CONTROL · cesión · exclusividad/no competencia · terminación · IP · indemnización
+```
+
+## 37. Cuadros comparativos
+
+**Distribución vs. agencia vs. comisión**
+
+| | Distribución | Agencia | Comisión |
+|---|---|---|---|
+| ¿Compra el producto? | Sí (revende) | No (promueve) | No (actúa por cuenta) |
+| Riesgo de reventa | Del distribuidor | Del empresario | Del comitente |
+| Remuneración | Margen de reventa | Comisión | Comisión |
+| Estabilidad | Relacional | Estable | Puntual o estable |
+
+**Factoraje vs. leasing**
+
+| | Factoraje | Leasing |
+|---|---|---|
+| Qué financia | Cuentas por cobrar (liquidez) | Adquisición de activos |
+| Mecanismo | Cesión de créditos | Arrendar + opción de compra |
+| Riesgo | Con/sin recurso | Valor residual / opción |
+
+**Típico vs. atípico**
+
+| | Típico | Atípico |
+|---|---|---|
+| Regulación | Ley específica | Autonomía (art. 78) |
+| Integración | Norma supletoria | Analogía + usos + buena fe |
+| Ejemplos | Compraventa, comisión | Leasing, factoraje, franquicia, JV |
+
+## 38. Diagramas
+
+**Matriz de contratos materiales en due diligence (M&A):**
+```
+Para CADA contrato clave:
+  ¿Ingresos que aporta? → ¿Change of control? → ¿Cedible? → ¿Exclusividad/no competencia?
+       → ¿Plazo/terminación? → ¿Consentimiento necesario?
+  ⇒ Lista de CONSENTIMIENTOS a obtener antes del closing
+```
+
+**Leasing (flujo):**
+```
+Cliente elige el bien → ARRENDADORA lo compra → lo arrienda al cliente (pagos)
+   → fin del plazo: OPCIÓN de compra (valor residual) / prórroga / venta a 3º
+```
+
+## 39. Mnemotecnias
+
+- **Mercantil:** *"rápido, oneroso y con usos; el civil solo si calla"*.
+- **Distribución vs. agencia:** *"el distribuidor COMPRA y revende; el agente solo PROMUEVE"*.
+- **Factoraje:** *"vendo lo que me deben para cobrar hoy"* (con recurso = aún respondo).
+- **Leasing:** *"alquilo con opción de quedármelo"* (financia el activo).
+- **Franquicia:** *"marca + know-how + COF + uniformidad"*.
+- **M&A:** *"primero busca el CHANGE OF CONTROL"* (la cláusula que traba el deal).
+- **Atípico:** *"si la ley no lo tiene, lo coso yo (art. 78)"*.
