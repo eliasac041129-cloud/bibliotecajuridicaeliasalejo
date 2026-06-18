@@ -421,3 +421,74 @@ Fija este vocabulario; integra y eleva lo que viste en Gobierno Corporativo (Niv
 - **Stakeholder vs. shareholder:** el debate sobre a quién sirve la empresa.
 
 Con este vocabulario, entramos al **desarrollo absoluto**.
+
+## 14. Desarrollo absoluto
+
+Esta es la sección central. La desarrollamos en cinco bloques: **(A)** el **gobierno corporativo avanzado**
+(el consejo sofisticado y sus comités); **(B)** los **deberes fiduciarios en operaciones** (diligencia y
+lealtad reforzados en M&A y conflictos —los estándares de Delaware—); **(C)** el **compliance** (el
+programa, anticorrupción, lavado); **(D)** el **ESG** (los tres pilares, materialidad, finanzas
+sostenibles); y **(E)** la **integración** (gobierno + compliance + ESG como un solo sistema en cada
+operación). Estúdialos en orden: del órgano que decide, a sus deberes, a los sistemas que lo protegen, a
+los criterios que lo condicionan, y a su integración.
+
+### 14.A · El gobierno corporativo avanzado (el consejo sofisticado y sus comités)
+
+En el Nivel III conociste los fundamentos del gobierno corporativo (el problema de agencia, el consejo, los
+deberes fiduciarios). Aquí lo llevamos al **nivel avanzado**: cómo opera un **consejo sofisticado** en una
+empresa pública o participada por fondos, y cómo se diseña para **decidir bien y proteger valor**.
+
+**El consejo de administración: composición y equilibrio de poder.** El consejo es el **órgano que dirige
+y supervisa** la empresa (define la estrategia, vigila a la dirección, aprueba lo relevante). Su
+**composición** define el equilibrio de poder y su calidad:
+- **Consejeros ejecutivos / patrimoniales / independientes.** Los **independientes** son la pieza clave del
+  gobierno avanzado: sin vínculos con el control ni la administración, aportan **objetividad** y protegen a
+  las **minorías**. La LMV exige un **mínimo de independientes** en las emisoras (al menos el 25%). La
+  **independencia real** (no de membrete) es lo que distingue al buen gobierno.
+- **El tamaño y la diversidad del consejo:** ni tan pequeño que concentre, ni tan grande que diluya
+  responsabilidad; con **diversidad** de perfiles (financiero, operativo, legal, sectorial) y, cada vez
+  más, de género y origen (dimensión ESG).
+- **La separación de roles:** la tendencia de buen gobierno separa al **presidente del consejo** del
+  **director general (CEO)** —para que quien preside la supervisión no sea el mismo que dirige la
+  operación—; o, si se combinan, nombrar un **consejero independiente líder** (*lead director*) como
+  contrapeso.
+
+**Los comités del consejo (donde está la profundidad del gobierno).** El consejo no puede analizar todo a
+fondo en sesión plenaria; delega en **comités especializados** (integrados —o presididos— por
+**independientes**), que son el **corazón operativo** del gobierno avanzado:
+- **Comité de auditoría:** vigila la **integridad financiera** (estados financieros, controles internos,
+  auditor externo), la gestión de riesgos y —clave para el compliance— el funcionamiento del **canal de
+  denuncias** y las investigaciones. Es el comité más importante; la LMV lo exige en las S.A.B. integrado
+  **solo por independientes**.
+- **Comité de prácticas societarias:** vigila las **operaciones con partes relacionadas (OPR)**, la
+  **compensación** de los directivos, y las prácticas de gobierno. Protege contra el abuso del control.
+- **Comité de riesgos:** identifica y vigila los riesgos materiales (financieros, operativos, de
+  cumplimiento, ESG).
+- **Comité de nominaciones / gobierno / sostenibilidad:** propone consejeros, evalúa el desempeño del
+  consejo, y (cada vez más) supervisa la estrategia **ESG**.
+
+**Las dinámicas del buen gobierno (lo que lo hace funcionar de verdad).**
+- **Información de calidad y a tiempo:** el consejo solo decide bien si recibe **información completa,
+  clara y oportuna** (no a última hora ni incompleta). El derecho a información es base del deber de
+  diligencia.
+- **Cultura de cuestionamiento (*challenge*):** un buen consejo **cuestiona** a la dirección (no es un
+  sello de goma); los independientes hacen las preguntas incómodas.
+- **Evaluación y rendición de cuentas:** el consejo se **autoevalúa**, mide su desempeño y el de la
+  dirección, y responde por sus decisiones.
+- **Gestión de conflictos:** los consejeros con conflicto en un asunto se **abstienen**; las decisiones
+  sensibles (OPR, operaciones con el control) pasan por **independientes**.
+
+**El gobierno según el tipo de empresa (tu perfil).**
+- **Empresa pública (S.A.B. / LMV):** gobierno **robusto y regulado** (independientes, comités de auditoría
+  y prácticas societarias obligatorios, revelación, protección de minorías —OPAs—).
+- **Empresa familiar:** el reto es **profesionalizar** el gobierno (consejo con independientes, separar la
+  familia de la gestión, un **protocolo familiar** y reglas de sucesión) para que sobreviva a las
+  generaciones —conecta con tu interés y con el Libro 6—.
+- **Empresa participada por un fondo (PE/VC):** el fondo **instala** gobierno profesional (asientos en el
+  consejo, vetos, métricas, incentivos a la dirección —Libro 7—). Los fondos son hoy de los mayores
+  **impulsores del buen gobierno**.
+
+**Por qué importa.** Un consejo bien diseñado y que funciona **decide mejor, protege a las minorías,
+detecta los riesgos a tiempo (incluido el de compliance) y crea valor**. El abogado que asesora al consejo
+—diseñando su estructura, sus comités y sus procesos, y guiándolo en sus deberes— ocupa el rol de **mayor
+confianza** del derecho corporativo. Es la práctica que corona tu perfil de gobierno corporativo.
