@@ -643,3 +643,194 @@ los débiles.
   autonomía, o son sorteables por el socio de control?
 - **ESG: ¿obligación fiduciaria o distracción?** ¿Integrar criterios ambientales y sociales es parte
   del deber del consejo (largo plazo, riesgo) o una desviación del interés de los accionistas?
+
+
+## 30. Errores comunes
+
+- **Confundir el deber de diligencia con el de lealtad.** La **diligencia** (hacerlo bien, informado)
+  está protegida por la **business judgment rule**; la **lealtad** (sin conflicto) **no**: un conflicto
+  no revelado no se salva con "fue una decisión de negocio".
+- **Independientes "de membrete".** Nombrar como "independientes" a personas vinculadas al control:
+  destruye el propósito y expone a la empresa.
+- **Operaciones con partes relacionadas sin proceso.** Aprobarlas sin revelación, sin precio de
+  mercado y sin independientes: principal canal de abuso (*tunneling*).
+- **Consejo que solo ratifica.** Un consejo que no delibera ni se informa incumple el deber de
+  diligencia (lección de *Smith v. Van Gorkom*).
+- **No documentar el proceso de decisión.** En un M&A o decisión relevante, la falta de actas,
+  información y *fairness opinion* debilita la protección del consejo.
+- **Empresa familiar sin gobierno ni sucesión.** Receta para el conflicto y la destrucción de valor.
+- **Ignorar los deberes reforzados del consejo en una venta** (Revlon) o ante una OPA (Unocal).
+
+## 31. Mitos frecuentes
+
+- *"Si la empresa va bien, el gobierno corporativo no importa."* **Falso:** el buen gobierno **previene**
+  la crisis y **crea valor**; cuando la crisis llega, ya es tarde para instalarlo.
+- *"Los consejeros responden por cualquier mala decisión."* **Falso:** la **business judgment rule** los
+  protege si decidieron informados, de buena fe y sin conflicto.
+- *"El gobierno corporativo es solo para empresas que cotizan."* **Falso:** crea valor en cualquier
+  empresa (privada, familiar) y la prepara para crecer/vender.
+- *"El consejero independiente es un adorno."* **Falso:** es la principal defensa de los minoritarios y
+  del interés social.
+- *"Maximizar el valor del accionista significa ignorar todo lo demás."* **Matiz:** la visión moderna
+  (ESG, largo plazo) integra a los stakeholders sin abandonar el deber fiduciario.
+
+## 32. Preguntas difíciles
+
+1. ¿Debe el consejo maximizar el valor del **accionista** o atender a los **stakeholders** (ESG)?
+   ¿Cambia eso sus deberes fiduciarios?
+2. ¿Cómo lograr **independencia real** (no formal) de los consejeros cuando hay un socio de control
+   dominante (caso típico mexicano)?
+3. ¿Las **defensas anti-OPA** protegen a los accionistas o atrincheran a los directivos? ¿Deberían
+   permitirse en México (Unocal)?
+4. ¿La **compensación** ligada a acciones alinea incentivos o fomenta el cortoplacismo y la extracción
+   de valor?
+5. ¿Hasta dónde llega el deber de **supervisión** (*Caremark*) del consejo sobre el cumplimiento
+   (compliance) y los riesgos?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**P1.** *¿Qué problema resuelve el gobierno corporativo?* **R.** El **problema de agencia**: el
+conflicto entre el principal (accionistas) y el agente (administradores), alineando incentivos y
+controlando para que el poder se ejerza en **interés de la sociedad** y no del administrador.
+
+**P2.** *Distinga el deber de diligencia y el de lealtad.* **R.** **Diligencia/cuidado:** actuar
+informadamente, de buena fe, como un buen administrador (protegido por la **business judgment rule**).
+**Lealtad:** anteponer el interés social al propio (no conflictos, no oportunidades societarias, no uso
+de información; OPR a precio de mercado). El conflicto de interés **no** está protegido por la business
+judgment rule.
+
+**P3.** *¿Qué es la regla de juicio de negocio?* **R.** La presunción de que los administradores
+actuaron correctamente si decidieron **informados, de buena fe y sin conflicto**; los protege de ser
+responsabilizados por el **resultado** de decisiones de negocio razonables que salgan mal.
+
+**P4.** *¿Por qué son importantes los consejeros independientes?* **R.** Aportan **objetividad**;
+vigilan a la administración y al socio de control en beneficio de **todos** los accionistas
+(especialmente las minorías) y aprueban las operaciones con partes relacionadas.
+
+**P5.** *¿Qué deberes tiene el consejo cuando se vende la empresa (control)?* **R.** Deberes
+**reforzados**: **maximizar el valor para los accionistas** (estándar Revlon), con proceso competitivo,
+información y *fairness opinion*, manejando los conflictos (no favorecer al postor que conserva el
+puesto a los directivos).
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** asesor del consejo de administración. **Cliente:** el consejo de "Grupo Industrial del
+> Norte, S.A.B.", una emisora con un **socio de control** (familia, 55%) y minoritarios (incluidas
+> Afores). Se presentan **dos asuntos** en la misma sesión: (1) el socio de control propone que la
+> empresa **compre** una planta **propiedad de otra empresa de la familia** (operación con parte
+> relacionada); (2) un fondo extranjero lanza una **oferta de compra (OPA)** por el control.
+>
+> **Tarea:** asesora al consejo para que cumpla sus **deberes fiduciarios**: (1) para la **OPR**:
+> ¿quién debe aprobarla (comité de **prácticas societarias**, independientes), con qué requisitos
+> (**revelación**, **precio de mercado**/avalúo, **abstención** del conflictuado)? ¿Riesgo de
+> *tunneling* y de daño a minoritarios?; (2) para la **OPA**: ¿qué deberes tiene el consejo
+> (maximizar valor para los accionistas, **fairness opinion**, proceso, no atrincherarse)? ¿Puede
+> defenderse si el precio es inadecuado (proporcionalidad —Unocal)?; (3) ¿cómo se protege a los
+> **minoritarios** (incluida la OPA obligatoria por trato igualitario —LMV, Libro 5)?; (4) ¿cómo
+> documentar el proceso para que la **business judgment rule** proteja al consejo? Concluye con las
+> recomendaciones y los **3 riesgos** principales.
+
+*(Pista de evaluación: la mejor respuesta separa los dos asuntos; en la **OPR**, exige comité de
+independientes, precio de mercado y abstención del control; en la **OPA**, recuerda los deberes
+reforzados del consejo —maximizar valor, fairness opinion, no atrincherarse— y la protección de
+minoritarios; y subraya la **documentación del proceso** para activar la business judgment rule.)*
+
+## 35. Flashcards
+
+- **¿Problema que resuelve el gobierno corporativo?** → El problema de agencia (principal vs. agente).
+- **¿Dos deberes fiduciarios?** → Diligencia/cuidado y lealtad.
+- **¿Business judgment rule?** → Protege decisiones informadas, de buena fe y sin conflicto.
+- **¿El conflicto de interés está protegido por la BJR?** → No (es deber de lealtad).
+- **¿Consejero independiente?** → Sin vínculos que comprometan su juicio; protege a minorías e interés
+  social (S.A.B.: ≥25%).
+- **¿Comité de auditoría?** → Vigila información financiera, control interno, auditor, riesgos.
+- **¿Comité de prácticas societarias?** → Vigila OPR, compensaciones, conflictos.
+- **¿Operación con parte relacionada (control)?** → Revelación + precio de mercado + aprobación
+  independiente + abstención.
+- **¿Tunneling?** → Extracción indebida de valor por el socio de control.
+- **¿Acción social de responsabilidad?** → Exigir a administradores reparar el daño (sociedad o minoría
+  25%).
+- **¿Revlon / Unocal?** → Deberes del consejo en venta de control / defensas anti-OPA (Nivel IV).
+- **¿Shareholder vs. stakeholder?** → Maximizar valor del accionista vs. atender a todos los grupos
+  (ESG).
+
+## 36. Mapas mentales
+
+```
+GOBIERNO CORPORATIVO
+├── PROBLEMA: agencia (propiedad ≠ control) → costos de agencia
+├── ÓRGANOS (pesos y contrapesos)
+│   ├── Asamblea (dueños; lo estructural)
+│   ├── CONSEJO DE ADMINISTRACIÓN (estrategia + supervisión)
+│   │   └── ejecutivos · patrimoniales · INDEPENDIENTES (≥25% en S.A.B.)
+│   ├── Dirección general (operación)
+│   └── Comités (auditoría, prácticas societarias) + vigilancia
+├── DEBERES FIDUCIARIOS
+│   ├── DILIGENCIA/cuidado → protegido por BUSINESS JUDGMENT RULE
+│   └── LEALTAD → conflictos · oportunidades societarias · OPR (no protegido por BJR)
+├── CONTROL
+│   ├── Comité de auditoría (info financiera, riesgos)
+│   ├── Comité de prácticas societarias (OPR, compensaciones)
+│   └── Compliance + auditoría
+├── PROTECCIÓN DE MINORÍAS
+│   └── derechos (convocar, designar, info, impugnar, acción de responsabilidad) + control de OPR (anti-tunneling)
+└── DEBATES / M&A
+    └── shareholder vs. stakeholder (ESG) · Revlon (venta) · Unocal (defensas) [Nivel IV]
+```
+
+## 37. Cuadros comparativos
+
+**Deber de diligencia vs. deber de lealtad**
+
+| | Diligencia/cuidado | Lealtad |
+|---|---|---|
+| Qué exige | Decidir informado, con esfuerzo | Anteponer el interés social (sin conflicto) |
+| Protección | **Business judgment rule** | **No** protegido por BJR |
+| Violación típica | Negligencia, no informarse | Conflicto de interés, OPR abusiva, tunneling |
+
+**Tipos de consejeros**
+
+| Tipo | Quién | Función |
+|---|---|---|
+| Ejecutivo/interno | Dirige la empresa | Conocimiento operativo |
+| Patrimonial | Representa accionistas | Voz de los dueños |
+| **Independiente** | Sin vínculos | Objetividad; protege minorías/interés social |
+
+**Shareholder vs. stakeholder**
+
+| | Shareholder primacy | Stakeholder / ESG |
+|---|---|---|
+| Objetivo | Valor del accionista | Todos los grupos de interés + sostenibilidad |
+| Representante | Friedman / Delaware clásico | Visión moderna / ESG |
+| Horizonte | Puede ser cortoplacista | Largo plazo |
+
+## 38. Diagramas
+
+**¿Está protegido el administrador? (deberes y BJR):**
+```
+¿Hubo CONFLICTO DE INTERÉS (deslealtad)?
+   │ sí → NO protegido (deber de lealtad) → posible responsabilidad
+   │ no
+   ▼
+¿Decidió INFORMADO y de BUENA FE (diligencia)?
+   │ sí → BUSINESS JUDGMENT RULE → protegido (aunque salga mal)
+   │ no → posible responsabilidad por negligencia
+```
+
+**Aprobación de una operación con parte relacionada (OPR):**
+```
+OPR detectada → REVELAR el conflicto → conflictuado se ABSTIENE
+   → comité de PRÁCTICAS SOCIETARIAS (independientes) evalúa: ¿PRECIO DE MERCADO?
+   → aprobación por INDEPENDIENTES → operación válida (anti-tunneling)
+```
+
+## 39. Mnemotecnias
+
+- **Problema central:** *"propiedad sin control = el agente puede traicionar al principal"*.
+- **Deberes:** *"Diligencia = hazlo BIEN; Lealtad = hazlo HONESTO (sin conflicto)"*.
+- **BJR:** *"informado + buena fe + sin conflicto = no respondes por el resultado"*.
+- **Independiente:** *"el que no tiene perro en la pelea vigila por todos"*.
+- **OPR:** *"revela, abstente, precio de mercado, aprueban los independientes"*.
+- **M&A:** *"al vender, el consejo subasta para los accionistas (Revlon); al defender, proporcional
+  (Unocal)"*.
+- **Valor:** *"buen gobierno = más valor, menos costo de capital"*.
