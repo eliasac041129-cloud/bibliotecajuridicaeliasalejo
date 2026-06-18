@@ -15,7 +15,13 @@
 Etiquetas: materia · subárea · conexión con M&A
 Prerrequisitos: [libros previos]
 Estándar: V3 (43 secciones)
+⏱ Tiempo estimado de dominio: [rango en semanas y horas de estudio activo] · Lectura de
+   reconocimiento: [horas]
 ```
+
+> El **tiempo estimado de dominio** es obligatorio: distingue (a) *lectura de reconocimiento*
+> —entender el libro una vez— de (b) *dominio* —poder aplicarlo, resolver casos y retenerlo a
+> largo plazo con repaso espaciado—. Se calibra al lector (estudiante de alto rendimiento).
 
 > **Aviso de método (incluir al inicio):** una línea recordando que el libro se construye con
 > profundidad de tratado, ejemplos trabajados, "cómo razona un socio" y ejercicios, no como
