@@ -662,3 +662,189 @@ El M&A en México **integra** múltiples cuerpos (no hay "ley de M&A"):
   rigurosa del comprador?
 - **Control de concentraciones:** ¿hasta dónde debe la autoridad bloquear/condicionar fusiones
   eficientes por proteger la competencia? (eficiencia vs. poder de mercado — Libro 9 Nivel I).
+
+
+## 30. Errores comunes
+
+- **Elegir mal la estructura** (share/asset/fusión) sin analizar pasivos, contratos, fiscal y
+  regulatorio: arrastra problemas todo el *deal*.
+- **Due diligence deficiente.** No detectar pasivos ocultos, contratos con *change of control* o
+  problemas de titularidad lleva a pagar de más o heredar bombas (especialmente en *share deals*).
+- **Reps & indemnización mal calibradas.** Cap demasiado bajo, survival corto o exclusiones amplias
+  dejan al comprador sin protección; lo contrario impide el *clean exit* del vendedor.
+- **Cerrar antes de las autorizaciones (*gun jumping*).** Consumar una concentración antes de la
+  autorización de COFECE es **sancionable**.
+- **Ignorar el *change of control*** en contratos clave: la contraparte puede terminarlos tras el
+  *deal*.
+- **Sobreestimar las sinergias** y descuidar la **integración** (post-closing): la causa #1 de
+  fusiones que destruyen valor.
+- **No documentar el proceso del consejo** (deberes fiduciarios): expone a los administradores
+  (Revlon/Van Gorkom).
+
+## 31. Mitos frecuentes
+
+- *"M&A es solo redactar un contrato."* **Falso:** es **dirigir un proceso** complejo por fases
+  (estrategia, due diligence, negociación, autorizaciones, signing, closing, integración).
+- *"El share deal siempre es mejor (o el asset deal)."* **Falso:** depende del caso (pasivos,
+  contratos, fiscal, regulatorio).
+- *"Con el SPA firmado, el deal está hecho."* **Falso:** entre signing y closing hay que cumplir
+  **condiciones** (autorizaciones); puede no cerrarse (MAC, falta de aprobación).
+- *"Las reps & warranties son relleno."* **Falso:** son el **mecanismo de reparto de riesgo**; deciden
+  quién paga los pasivos ocultos.
+- *"Toda fusión crea valor."* **Falso:** muchas lo **destruyen** (sinergias sobreestimadas, mala
+  integración).
+
+## 32. Preguntas difíciles
+
+1. ¿Cuándo conviene **share deal**, **asset deal** o **fusión**? ¿Cómo se decide cruzando pasivos,
+   contratos, fiscal y regulatorio?
+2. ¿Cómo se **reparte el riesgo** de lo desconocido entre comprador y vendedor, y qué palancas mueve
+   cada uno (reps, cap, basket, survival, escrow, R&W insurance)?
+3. ¿Qué deberes tiene el **consejo** del vendedor en una subasta (Revlon) y del comprador al aprobar la
+   compra?
+4. ¿Cómo se gestiona el **calendario** cuando hay autorizaciones de competencia que tardan meses
+   (interim covenants, MAC, *gun jumping*)?
+5. ¿Por qué tantas fusiones **destruyen valor** y qué puede hacer el abogado para mitigarlo (due
+   diligence, asignación realista de riesgo)?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**P1.** *¿Qué es M&A y cuáles son sus estructuras básicas?* **R.** El conjunto de operaciones que
+transfieren la **propiedad o el control** de una empresa: **share deal** (compra de acciones —se hereda
+la sociedad con sus pasivos—), **asset deal** (compra de activos seleccionados —se aíslan pasivos pero
+hay que ceder cada activo/contrato—) y **fusión** (combinación societaria).
+
+**P2.** *Distinga share deal y asset deal.* **R.** En el **share deal** se compran las **acciones** (el
+comprador hereda **todos** los activos y pasivos, incluidos ocultos; más simple); en el **asset deal**
+se compran **activos/pasivos seleccionados** (se aíslan pasivos no deseados, pero hay que **transmitir
+cada activo** y **ceder cada contrato** con consentimientos, con efectos fiscales y laborales).
+
+**P3.** *¿Cuáles son las fases de una operación de M&A?* **R.** Originación → NDA → IM/ofertas → **LOI/
+Term Sheet** → **due diligence** → negociación y redacción del SPA → **signing** → cumplimiento de
+condiciones (autorizaciones) → **closing** → **post-closing** (integración, ajustes, earn-out,
+indemnización).
+
+**P4.** *¿Cómo se reparte el riesgo entre comprador y vendedor?* **R.** Con la **due diligence** (reduce
+asimetría), las **reps & warranties** (el vendedor garantiza hechos), las **disclosure schedules**
+(revelan excepciones), la **indemnización** (cap, basket, survival), el **escrow** y las
+**condiciones/MAC**; opcionalmente, **R&W Insurance**.
+
+**P5.** *¿Por qué se separan signing y closing?* **R.** Porque suelen existir **condiciones**
+(autorizaciones de COFECE/CNBV/sectoriales, consentimientos, veracidad de reps al cierre); el cierre se
+difiere hasta cumplirlas. Si no hay condiciones, signing y closing son **simultáneos**.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** asociado de M&A en un despacho de élite. **Cliente:** un **fondo de private equity** que
+> quiere adquirir "Alimentos Selectos, S.A." (empresa familiar, líder regional, 1,200 empleados, una
+> planta, marcas valiosas, contratos de distribución clave, y rumores de una **contingencia
+> ambiental**). El fondo financiará parte con **deuda**. La familia vendedora quiere un *clean exit*.
+>
+> **Tarea:** elabora una **nota estratégica del deal** que cubra: (1) **estructura** (¿share deal vía
+> NewCo + fusión para el LBO?, ¿asset deal para aislar el pasivo ambiental?) y su justificación
+> (pasivos, contratos, fiscal, regulatorio); (2) **plan de due diligence** (focos: ambiental, laboral,
+> fiscal, contratos con *change of control*, titularidad de marcas); (3) **reparto de riesgo** en el
+> SPA (reps & warranties, **indemnidad específica** por lo ambiental, cap/basket/survival, **escrow**,
+> y posible **R&W Insurance** para el clean exit que pide la familia); (4) **financiamiento** y
+> *security package* (Libros 3 y 4 Nivel II/III); (5) **autorizaciones** (¿COFECE?, sectoriales,
+> inversión extranjera); (6) **calendario** (signing → condiciones → closing) y **deberes del consejo**
+> del vendedor. Concluye con los **3 riesgos** principales y cómo mitigarlos.
+
+*(Pista de evaluación: la mejor respuesta conecta **cada pieza con su libro** —estructura/LGSM,
+financiamiento/garantías, reps/responsabilidad, competencia/Libro 3 Nivel I—; resuelve la tensión
+entre el *clean exit* de la familia (R&W insurance) y la protección del fondo (indemnidad específica
+ambiental); y trata el M&A como un **proceso dirigido**, no como un contrato suelto.)*
+
+## 35. Flashcards
+
+- **¿Qué es M&A?** → Comprar, vender o fusionar empresas (transferir propiedad/control).
+- **¿Tres estructuras?** → Share deal (acciones), asset deal (activos), fusión.
+- **¿Share deal: qué se hereda?** → La sociedad completa, con **todos** sus pasivos (incluidos
+  ocultos).
+- **¿Asset deal: ventaja/desventaja?** → Aísla pasivos / hay que ceder cada activo y contrato
+  (consentimientos).
+- **¿Comprador estratégico vs. financiero?** → Empresa (sinergias) vs. fondo PE/VC (desarrollar y
+  vender).
+- **¿LOI/Term Sheet vincula?** → Mayormente **no** (salvo confidencialidad, exclusividad, ley
+  aplicable).
+- **¿Signing vs. closing?** → Firma vs. cierre (pago + transferencia); se separan si hay condiciones.
+- **¿Reps & warranties?** → Declaraciones del vendedor; su falsedad activa la **indemnización**.
+- **¿Cap / basket / survival?** → Tope / umbral / plazo de la indemnización.
+- **¿Escrow?** → Retención del precio para garantizar la indemnización.
+- **¿MAC?** → Cláusula para no cerrar si hay cambio adverso relevante.
+- **¿Gun jumping?** → Consumar una concentración antes de la autorización de COFECE (prohibido).
+
+## 36. Mapas mentales
+
+```
+M&A (FUNDAMENTOS)
+├── RACIONAL (¿por qué?): sinergias · crecimiento · acceso · consolidación · exit
+├── ESTRUCTURAS (¿cómo?)
+│   ├── SHARE DEAL (acciones) → hereda sociedad + pasivos (ocultos) → reps fuertes
+│   ├── ASSET DEAL (activos) → aísla pasivos / cede cada contrato (change of control)
+│   └── FUSIÓN (LGSM) → combinación societaria
+├── FASES (¿cuándo?)
+│   └── Origen → NDA → IM → LOI → DUE DILIGENCE → SPA → SIGNING → condiciones → CLOSING → post-closing
+├── ACTORES
+│   └── Comprador/vendedor · abogados · banqueros · fiscal · autoridades (COFECE/CNBV) · consejo
+├── REPARTO DE RIESGO (alma del M&A)
+│   └── Due diligence · REPS & WARRANTIES · disclosure · INDEMNIZACIÓN (cap/basket/survival) · ESCROW · MAC · R&W insurance
+└── AUTORIZACIONES / CONDICIONES
+    └── COFECE/IFT (concentración) · inversión extranjera · sectoriales · consentimientos · aprobaciones corporativas
+```
+
+## 37. Cuadros comparativos
+
+**Share deal vs. asset deal vs. fusión**
+
+| | Share deal | Asset deal | Fusión |
+|---|---|---|---|
+| Qué se transfiere | Acciones | Activos/pasivos selectos | Patrimonio universal |
+| Pasivos ocultos | Se heredan | Se pueden aislar | Se asumen (combinación) |
+| Contratos | Continúan (salvo change of control) | Hay que cederlos | Continúan (sucesión universal) |
+| Complejidad | Baja (una transferencia) | Alta (activo por activo) | Media-alta (societaria) |
+| Fiscal/laboral | Menos fricción | Más (IVA, sustitución patronal) | Régimen de fusión |
+
+**Comprador estratégico vs. financiero**
+
+| | Estratégico | Financiero (PE/VC) |
+|---|---|---|
+| Motivo | Sinergias, integración | Rendimiento (comprar-desarrollar-vender) |
+| Horizonte | Permanente | Temporal (exit en años) |
+| Financiamiento | Caja/acciones | Apalancamiento (LBO) |
+
+**Signing vs. closing**
+
+| | Signing | Closing |
+|---|---|---|
+| Qué ocurre | Se firma el SPA | Se paga y se transfiere |
+| Condiciones | Aún pendientes | Cumplidas |
+| Separación | Si hay autorizaciones | — |
+
+## 38. Diagramas
+
+**Línea de tiempo del deal:**
+```
+ESTRATEGIA → NDA → IM/ofertas → LOI (no vinculante) → DUE DILIGENCE
+   → negociación SPA → SIGNING → [condiciones: COFECE, consentimientos, no MAC] → CLOSING
+   → POST-CLOSING (integración · ajuste de precio · earn-out · indemnización/claims)
+```
+
+**Decisión de estructura:**
+```
+¿Riesgo de pasivos ocultos alto? → asset deal (aislar) o share deal con reps+escrow
+¿Contratos/permisos no transferibles o con change of control? → share deal (continúan)
+¿Qué es más eficiente fiscalmente? → (con asesor fiscal)
+¿Menos autorizaciones? → (regulatorio)
+   ⇒ ESTRUCTURA ÓPTIMA = equilibrio de los cuatro ejes
+```
+
+## 39. Mnemotecnias
+
+- **Estructuras:** *"compro la empresa entera (share), o sus pedazos (asset), o las junto (fusión)"*.
+- **Share deal:** *"compras la sociedad con TODO, lo bueno y lo oculto"* → reps fuertes.
+- **Fases:** **"NDA-LOI-DD-SPA-Signing-Closing"** (de conocer a cerrar).
+- **Riesgo:** *"due diligence investiga, reps reparten, escrow asegura"*.
+- **Signing ≠ Closing:** *"firmar no es cerrar; faltan los permisos"*.
+- **Gun jumping:** *"no cierres antes de COFECE"*.
+- **Valor:** *"las sinergias se prometen, la integración se sufre"* (cuidado con destruir valor).
