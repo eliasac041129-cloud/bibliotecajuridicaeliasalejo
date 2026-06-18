@@ -190,3 +190,107 @@ reglamentos de consejo, asesora a consejeros sobre sus deberes, estructura los d
 inversionistas, controla las operaciones con partes relacionadas y guía al consejo en los momentos
 críticos (un M&A, una crisis, una OPA). Es la materia que lo convierte en **asesor del consejo** —el
 rol de mayor responsabilidad y prestigio—.
+
+
+## 10. Definiciones doctrinales
+
+- **Gobierno corporativo (OCDE):** el **sistema** por el cual las sociedades son **dirigidas y
+  controladas**; comprende el conjunto de relaciones entre la administración, el consejo, los
+  accionistas y otros grupos de interés, y la estructura mediante la cual se fijan los objetivos, los
+  medios para alcanzarlos y la forma de **vigilar** el desempeño.
+- **Problema de agencia (Jensen-Meckling):** el conflicto de intereses entre el **principal**
+  (accionistas) y el **agente** (administradores), que actúa por cuenta del primero pero puede
+  perseguir su propio interés; genera **costos de agencia** (monitoreo, garantía, pérdida residual).
+- **Deberes fiduciarios (doctrina anglosajona y LMV):** el **deber de diligencia/cuidado** (actuar
+  informadamente, de buena fe y en el mejor interés de la sociedad) y el **deber de lealtad**
+  (anteponer el interés social al propio: no usar información ni oportunidades de la sociedad, no
+  competir, revelar y abstenerse en conflictos de interés).
+- **Interés social (doctrina):** el "norte" de los administradores; tradicionalmente, el interés común
+  de los **accionistas** (maximizar el valor de la sociedad); en la visión moderna (stakeholder/ESG),
+  también el de los demás **grupos de interés** y la **sostenibilidad**.
+
+> **Lectura del Consejo:** todo el gobierno corporativo gira en torno a una idea: **quien administra
+> dinero ajeno debe servir al interés de la sociedad, no al suyo**. De ahí derivan los dos deberes
+> fiduciarios (diligencia y lealtad), los controles (consejo, comités, auditoría) y la protección de
+> los que no controlan (minorías). Memoriza el binomio **diligencia (hacerlo bien) / lealtad (hacerlo
+> honestamente, sin conflicto)**: es el corazón de la materia.
+
+## 11. Definiciones legales (LGSM y LMV — verificar versión vigente)
+
+- **Administración (LGSM, arts. 142 y ss.):** la sociedad se administra por uno o varios mandatarios
+  (administrador único o **consejo de administración**); representan a la sociedad y ejecutan la
+  voluntad social.
+- **Responsabilidad de los administradores (LGSM, arts. 157-163):** los administradores son
+  **solidariamente responsables** frente a la sociedad por el cumplimiento de sus obligaciones; la
+  **acción social de responsabilidad** puede ejercerla la sociedad (asamblea) o una **minoría del
+  25%** (art. 163).
+- **Vigilancia (LGSM, arts. 164-171):** el **comisario** fiscaliza la gestión.
+- **Gobierno corporativo de la emisora (LMV, arts. 22 y ss.):** para la **S.A.B.**:
+  - **Consejo de administración** con **consejeros independientes** (al menos el **25%**).
+  - **Deberes de diligencia y lealtad** de consejeros y director general **codificados** (arts. 30-37),
+    con la **regla de juicio de negocio** (no se les responsabiliza por decisiones de negocio tomadas
+    informadamente y de buena fe, aunque resulten desfavorables).
+  - **Comités** de **auditoría** y de **prácticas societarias**, integrados por independientes.
+  - **Director general** con funciones y responsabilidad propias.
+  - Régimen de **operaciones con partes relacionadas** (revelación, aprobación reforzada).
+- **S.A.P.I. (LMV):** permite pactar gobierno corporativo a la medida (derechos de minoría reforzados,
+  vetos, asientos en el consejo) — el vehículo del VC/PE (Libro 2 Nivel III).
+
+## 12. Definición sencilla
+
+El **gobierno corporativo** es "el sistema de **frenos y contrapesos** de una empresa": las reglas que
+deciden **quién manda** (la asamblea de dueños, el consejo, el director general), **cómo se vigila** a
+los que administran (comités, auditoría, consejeros **independientes**) y **qué deberes** tienen
+(hacerlo **bien** —diligencia— y **honestamente, sin conflictos** —lealtad—). Su objetivo es que
+quienes manejan el dinero de la empresa lo hagan **en interés de la empresa**, no en el suyo, y que los
+**accionistas pequeños** (minorías) y los terceros estén protegidos. Una empresa con **buen gobierno**
+vale más, atrae inversión y resiste crisis; una con **mal gobierno** termina en fraudes, abusos o
+ruina.
+
+## 13. Conceptos fundamentales
+
+- **Separación de propiedad y control:** los accionistas (dueños) no administran; lo hacen el consejo y
+  la dirección (origen del problema de agencia).
+- **Problema de agencia y costos de agencia:** el conflicto principal-agente y el costo de
+  controlarlo.
+- **Órganos de gobierno:** **asamblea** (dueños; decide lo estructural), **consejo de administración**
+  (estrategia y vigilancia de la gestión), **dirección general** (operación diaria), **comités**
+  (auditoría, prácticas societarias, riesgos), **vigilancia** (comisario / auditoría).
+- **Consejo de administración:** órgano colegiado de **estrategia y supervisión**; sus miembros
+  (consejeros) tienen deberes fiduciarios.
+- **Tipos de consejeros:** **ejecutivos/internos** (también dirigen), **patrimoniales** (representan a
+  accionistas), e **independientes** (sin vínculos que comprometan su objetividad; protegen a las
+  minorías y al interés social).
+- **Consejero independiente:** clave del gobierno moderno; aporta **objetividad** y vigila a la
+  administración y a los socios de control en beneficio de **todos** los accionistas.
+- **Deber de diligencia (cuidado):** actuar **informadamente**, con la diligencia de un buen
+  administrador; protegido por la **regla de juicio de negocio** (*business judgment rule*): no se
+  responsabiliza por decisiones de negocio razonables, informadas y de buena fe, aunque salgan mal.
+- **Deber de lealtad:** anteponer el **interés social** al propio: **no** aprovechar información u
+  **oportunidades** de la sociedad, **no** competir, **revelar** los conflictos de interés y
+  **abstenerse** de votar/decidir en ellos, y tratar las **operaciones con partes relacionadas** a
+  precio de mercado y con aprobación independiente.
+- **Conflicto de interés:** cuando el interés personal del administrador choca con el de la sociedad;
+  detonante del deber de lealtad.
+- **Oportunidad societaria (*corporate opportunity*):** negocio que corresponde a la sociedad y que el
+  administrador **no** puede tomar para sí.
+- **Operaciones con partes relacionadas (OPR):** transacciones entre la sociedad y sus
+  administradores, socios de control o sus parientes/empresas; zona de **máximo riesgo de abuso**;
+  exigen **revelación**, **precio de mercado** y **aprobación** por independientes (comité de prácticas
+  societarias en la S.A.B.).
+- **Comité de auditoría:** vigila la información financiera, el control interno, el auditor externo y
+  los riesgos (integrado por independientes).
+- **Comité de prácticas societarias:** vigila las OPR, las compensaciones y los conflictos de interés.
+- **Acción social de responsabilidad:** la vía para exigir a los administradores que **reparen** el
+  daño causado a la sociedad por violar sus deberes (sociedad o minoría del 25%, LGSM art. 163).
+- **Regla de juicio de negocio (*business judgment rule*):** protege a los administradores diligentes
+  de ser segundo-adivinados por los tribunales; presume que actuaron bien si decidieron informados, de
+  buena fe y sin conflicto.
+- **Protección de minorías:** derechos defensivos (Libro 2 Nivel III): convocar, designar consejero,
+  información, impugnar, acción de responsabilidad; reforzados en la S.A.B. y la S.A.P.I.
+- **Shareholder vs. stakeholder primacy:** ¿la empresa sirve solo a los accionistas (Friedman) o a
+  todos los grupos de interés (ESG)?
+- **ESG (Environmental, Social, Governance):** marco de sostenibilidad y responsabilidad que integra
+  criterios ambientales, sociales y de gobierno (Nivel IV).
+- **Compliance:** programas internos para asegurar el cumplimiento de la ley (anticorrupción,
+  competencia, lavado, datos); conectado con la responsabilidad de la persona moral (Libro 5 Nivel I).
