@@ -523,3 +523,86 @@ presente** (cómo es la empresa). Los **covenants** miran al **periodo intermedi
 y cierre). Las **condiciones** son la **puerta del cierre**. Y la **indemnización** (14.C) mira al
 **futuro** (qué pasa si algo de lo garantizado resulta falso). Cuatro piezas, cuatro momentos: pasado,
 intermedio, cierre, futuro. Entender esa **línea de tiempo** es entender el SPA.
+
+### 14.C · Anatomía del SPA, parte II (indemnización, MAC, disclosure schedules, sandbagging)
+
+Aquí están las cláusulas donde se libra la **batalla más dura** de la negociación, porque definen **cuánto
+y cómo paga el vendedor** si algo sale mal. Domínalas: son las que más distinguen al abogado experto.
+
+**La indemnización (*indemnification*): el mecanismo de cobro.** Si una rep resulta falsa o se materializa
+un riesgo cubierto, el vendedor debe **resarcir** al comprador por las **pérdidas** ("Losses", término
+cuya definición se negocia: ¿incluye daño indirecto, lucro cesante, multiplicadores?). Pero esa obligación
+viene **modulada** por una serie de límites que son, en el fondo, un **reparto económico del riesgo
+residual**:
+- **Cap (tope):** el monto **máximo** que el vendedor pagará. Suele expresarse como un **% del precio**
+  (las reps del negocio a menudo se topan en un porcentaje; las **fundamentales**, hasta el 100% del
+  precio o sin tope). Cuanto más alto el cap, más riesgo retiene el vendedor → es **negociación de precio
+  encubierta**.
+- **Basket (cesta) / deducible:** un **umbral mínimo** de pérdidas **acumuladas** que deben superarse antes
+  de poder reclamar. Dos modalidades: ***tipping basket*** (superado el umbral, se cobra **todo** desde el
+  primer peso) y ***true deductible*** (solo se cobra **el exceso** sobre el umbral, como el deducible de
+  un seguro). Evita litigios por minucias.
+- **De minimis:** un monto **mínimo por reclamación individual** para que cuente hacia el basket (filtra
+  reclamaciones triviales).
+- **Survival (supervivencia):** el **plazo** durante el cual cada rep sigue "viva" y reclamable tras el
+  cierre (típicamente 12-24 meses para las del negocio; **más largo o indefinido** para las fundamentales,
+  fiscales y ambientales, que suelen seguir su propia prescripción legal).
+- **Special / specific indemnity (indemnización especial):** para un riesgo **concreto y conocido** de la
+  due diligence (Libro 2), se pacta una indemnización **específica**, normalmente **fuera de caps y
+  baskets** y **al 100%** —porque no es un riesgo "desconocido" que la rep general deba cubrir, sino uno
+  **identificado** que el vendedor debe asumir nominalmente—.
+- **Recuperación y *mitigation*:** reglas sobre cómo se calcula la pérdida (descontando seguros, beneficios
+  fiscales) y el deber del comprador de **mitigar** el daño.
+- **Garantía del cobro:** **escrow/holdback** (retención de parte del precio) o, cada vez más, **seguro de
+  W&I** (la aseguradora cubre el incumplimiento de las reps).
+
+> **El "paquete de indemnización" es, en realidad, una negociación de cuánto riesgo retiene cada parte.**
+> Comprador quiere: caps altos, baskets bajos, supervivencia larga, reps sin *knowledge qualifier*,
+> *pro-sandbagging*, escrow grande. Vendedor quiere lo contrario y un "corte limpio". El punto de
+> equilibrio refleja el **poder de negociación** y el **precio**.
+
+**La cláusula MAC / MAE (*Material Adverse Change/Effect*): la válvula de escape.** Permite al comprador
+**no cerrar** (o renegociar) si, entre la firma y el cierre, ocurre un **cambio sustancialmente adverso** en
+la *target*. Es de las cláusulas **más negociadas y litigadas**, porque define **quién soporta el riesgo de
+que el mundo cambie** entre firma y cierre. Claves de su redacción:
+- **Definición de "material" y "adverso":** ¿qué tan grave y duradero debe ser el cambio? Los tribunales
+  (Delaware, *Akorn v. Fresenius* —Libro 2—) exigen un umbral **muy alto**: un golpe **sustancial y
+  duradero** al poder de generar ganancias de la empresa, no un mal trimestre.
+- **Las *carve-outs* (exclusiones):** el vendedor pelea por **excluir** de la MAC los riesgos
+  **sistémicos** (crisis económicas, pandemias, guerras, cambios de ley, condiciones de la industria)
+  —porque no son culpa de la empresa—; el comprador acepta excluirlos **salvo** que afecten a la *target*
+  **desproporcionadamente** respecto de su industria. La redacción de estas exclusiones es donde se gana o
+  se pierde la cláusula.
+- **Función:** rara vez se invoca con éxito (el umbral es altísimo), pero su valor está en la **amenaza**:
+  da al comprador poder para **renegociar** si las cosas empeoran de verdad antes del cierre.
+
+**Los *disclosure schedules* (anexos de revelación): la otra cara de las reps.** Son los anexos donde el
+vendedor **revela las excepciones** a sus reps. Si la rep dice "no hay litigios", el *disclosure schedule*
+lista los litigios que **sí** existen; con eso, la rep se entiende **cierta salvo por lo revelado**.
+Función doble:
+- **Para el vendedor, son su escudo:** lo que **revela** aquí deja de ser un incumplimiento de la rep
+  (ya lo dijo). Por eso el vendedor tiene incentivo a **revelar mucho** (vacunarse). Conecta directamente
+  con la due diligence: lo que el comprador descubrió y el vendedor reveló, queda "fuera" de la garantía.
+- **Para el comprador, son información y delimitación:** le dicen exactamente **qué excepciones** está
+  aceptando. El comprador debe **leerlos con lupa**: una revelación amplia o ambigua puede vaciar una rep.
+  Se negocian reglas sobre si una revelación en una sección "cuenta" para las demás (*general disclosure*).
+
+**El *sandbagging* (¿puede reclamar el que ya sabía?).** Pregunta fina y muy práctica: si el comprador,
+**por la due diligence, sabía** que una rep era falsa, y **aun así cierra**, ¿puede luego **reclamar** la
+indemnización?
+- ***Pro-sandbagging* (a favor del comprador):** sí puede reclamar, **aunque supiera**; lo que importa es
+  lo que dice el contrato, no lo que el comprador conocía. El comprador prefiere esta cláusula.
+- ***Anti-sandbagging* (a favor del vendedor):** no puede reclamar por algo que **conocía** al cerrar
+  (sería de mala fe cobrar por un riesgo que aceptaste con conocimiento). El vendedor prefiere esta.
+- **Se pacta expresamente** en el SPA; si el contrato calla, la respuesta depende del derecho aplicable
+  (en algunos sistemas se presume una, en otros la otra). En México, el silencio lleva a discutir buena fe
+  y dolo —por eso conviene **pactarlo claramente**—. Este es el punto exacto donde la **due diligence
+  (Libro 2) y el contrato se cruzan**: lo que descubriste investigando puede ayudarte o perjudicarte según
+  esta cláusula.
+
+**Cómo encaja todo (del hallazgo de la DD a la cláusula).** Cierra el círculo de los Libros 2 y 3: un
+**riesgo desconocido** se cubre con **reps generales + indemnización (con caps/baskets)**; un **riesgo
+concreto y conocido**, con **indemnización especial** (sin tope, fuera de cesta); un **riesgo subsanable
+antes de cerrar**, con **condición al cierre**; el **riesgo de que el mundo cambie** entre firma y cierre,
+con la **MAC**; y lo que el vendedor **revela**, sale de la garantía vía **disclosure schedules**. El SPA
+es, literalmente, la **due diligence convertida en cláusulas**.
