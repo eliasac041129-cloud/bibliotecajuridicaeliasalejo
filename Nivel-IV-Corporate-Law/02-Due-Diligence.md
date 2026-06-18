@@ -1279,3 +1279,142 @@ Hallazgos MATERIALES
   especial"*.
 - **Competidores:** *"entre competidores, clean team o gun jumping"*.
 - **El gran error:** *"hallazgo sin cláusula = trabajo perdido"*.
+
+## 40. Resumen ejecutivo
+
+La **due diligence** es la investigación previa y sistemática mediante la cual el comprador descubre
+**qué está comprando realmente**: cuánto vale la *target* y qué riesgos esconde. Nació como una **defensa
+de responsabilidad** en el derecho bursátil estadounidense (Securities Act de 1933) y se transformó en la
+**herramienta central de gestión de riesgo** del M&A moderno. Es multidisciplinaria —corporativa,
+contractual, fiscal, financiera (con la *Quality of Earnings*), laboral, regulatoria, de competencia,
+ambiental, de PI, de tecnología y datos, de compliance y de litigios— y la coordina el abogado de M&A,
+que **integra** los hallazgos en una visión de riesgo única.
+
+Su proceso es ordenado e iterativo: definir el **alcance y la materialidad**, emitir la **request list**,
+poblar y revisar el **data room** (hoy virtual, con su dinámica de **Q&A**), levantar y **jerarquizar los
+*red flags*** (deal breaker / mayor / menor, según una matriz de probabilidad × impacto), consolidarlos en
+un **DD report** ejecutivo y orientado a la decisión, y —la lección capital del libro— **traducir cada
+hallazgo en una protección contractual**: ajuste de precio, *representation* específica, indemnización
+especial, *escrow*, condición al *closing*, exclusión del perímetro o, en el extremo, el *walk away*. La
+due diligence que no se traduce al SPA es trabajo perdido.
+
+Para el lector, este libro es la **competencia operativa** que más temprano se le exigirá y la que más
+acelera una carrera en M&A. Conecta hacia atrás con **todo** el programa (sociedades, contratos,
+responsabilidad, garantías, gobierno corporativo, competencia, fiscal, laboral) y hacia adelante con la
+**documentación** (Libro 4: el SPA y sus reps, indemnización y *disclosure schedules*) y con las
+**estructuras** (Libro 3: cómo un hallazgo empuja de *share* a *asset deal*). Dominar la due diligence es
+empezar a **pensar como un abogado de transacciones**: no describir documentos, sino **buscar el riesgo,
+valorarlo y asignarlo**.
+
+## 41. Checklist
+
+**Antes de abrir el data room (scoping):**
+- [ ] ¿Está definido el **alcance** por áreas y la **materialidad** (cuantitativa y cualitativa)?
+- [ ] ¿La DD es **proporcional** al tamaño y al riesgo del deal y a la **tesis** del comprador?
+- [ ] ¿Hay **equipo, calendario y presupuesto** y una *request list* adaptada al deal?
+
+**Durante la revisión:**
+- [ ] **Titularidad:** ¿el vendedor es realmente dueño de las acciones/activos? ¿Las acciones están bien
+  emitidas y pagadas?
+- [ ] **Change of control:** ¿qué contratos clave se caen o renegocian al cambiar el dueño?
+- [ ] **QoE:** ¿las utilidades son **recurrentes y reales**? ¿Hay deuda oculta o pasivos contingentes?
+- [ ] **Fiscal/laboral/ambiental:** ¿contingencias materiales (EFOS, subcontratación, contaminación)?
+- [ ] **Permisos:** ¿vigentes y **transferibles**? ¿La operación requiere autorización (COFECE/sectorial)?
+- [ ] **Compliance:** ¿exposición a corrupción/lavado? (riesgo de responsabilidad heredada)
+- [ ] ¿Leíste las **ausencias** y las aclaraste por **Q&A**? ¿Cuidaste **privilegio** y *clean teams*?
+
+**Al cerrar la DD:**
+- [ ] ¿El **DD report** está jerarquizado (deal breaker / mayor / menor) y orientado a la decisión?
+- [ ] Para cada *red flag* mayor: ¿definiste la **herramienta** (precio, rep, indemnización, escrow,
+  condición, exclusión)?
+- [ ] ¿Previste la **DD confirmatoria** entre *signing* y *closing* (bring-down + MAC)?
+
+## 42. Bibliografía comentada
+
+- **American Bar Association, *Model Stock Purchase Agreement with Commentary*.** **Imprescindible** para
+  ver cómo los hallazgos de la DD se convierten en reps, indemnización y *disclosure schedules*.
+- **Securities Act de 1933 (EE.UU.), §11 — la *due diligence defense*.** La fuente histórica del concepto:
+  la investigación razonable como eximente de responsabilidad.
+- **FCPA Resource Guide (DOJ/SEC).** El estándar global sobre **DD anticorrupción** en adquisiciones y la
+  sucesión de responsabilidad. Lectura obligada para compliance.
+- **Jurisprudencia de Delaware (*Akorn v. Fresenius* —MAC—; *Smith v. Van Gorkom* —deber de informarse—).**
+  Cómo la DD se conecta con el derecho del consejo y con la salida del deal.
+- **Ley Federal de Competencia Económica y guías de la COFECE.** Concentraciones, *gun jumping* y manejo
+  de información sensible (clean teams) durante la DD.
+- **Código Fiscal de la Federación, art. 69-B (operaciones simuladas).** El núcleo del riesgo de la DD
+  fiscal en México.
+- **Doctrina civil sobre buena fe, dolo y saneamiento (CCF).** La red de seguridad que el derecho
+  mexicano añade a las protecciones contractuales.
+- **Practical Law / PLC y manuales de DD de los grandes despachos.** Los *checklists* y *precedents* de
+  mercado, herramienta de trabajo diario.
+
+## 43. Ruta hacia el siguiente libro
+
+Ya sabes **investigar lo que se compra** y **traducir el riesgo en protección**. El siguiente paso es
+entender en detalle las **arquitecturas jurídicas** mediante las cuales se ejecuta la transacción: cómo,
+exactamente, se compra y se combina una empresa.
+
+- **Siguiente libro:** *[Libro 3 · Estructuras: fusiones, escisiones y adquisiciones](./03-Estructuras-Fusiones-Escisiones-Adquisiciones.md)* —
+  el desarrollo a fondo del *share deal*, el *asset deal*, la **fusión** (por absorción y por integración),
+  la **escisión**, y las reestructuras; sus requisitos corporativos (LGSM), efectos, derechos de los
+  acreedores y de las minorías, y consecuencias fiscales. Es el "cómo" jurídico de lo que en el Libro 1
+  viste como mapa.
+- **Conexión inmediata:** en este Libro 2 aprendiste que un **hallazgo de la DD empuja la elección de
+  estructura** (un riesgo alto de pasivos ocultos favorece el *asset deal*; la necesidad de continuidad
+  de contratos y permisos favorece el *share deal* o la fusión). El Libro 3 te dará el dominio técnico de
+  cada estructura para tomar —y ejecutar— esa decisión con maestría.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque la due diligence es la **primera competencia real** que un despacho de M&A le exige a un abogado, y
+la que **más valor medible** aporta al cliente. Cada riesgo que el abogado detecta y traduce en protección
+contractual es dinero ahorrado; cada riesgo que se le escapa, una pérdida que el cliente sufrirá después
+del *closing*, cuando ya no hay remedio fácil. Un solo pasivo fiscal o ambiental no detectado puede valer
+más que la empresa entera. Además, la DD es **transversal**: la misma habilidad se usa en una adquisición,
+una venta, un financiamiento, una inversión de VC/PE, una salida a bolsa y un programa de compliance.
+Quien domina la due diligence tiene una herramienta que usará toda su carrera y desarrolla, de paso, el
+músculo mental que define al gran abogado de transacciones: **ver el riesgo donde otros ven papeles**.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+> *"Cuando dirijo una due diligence, no busco 'revisar todo' —eso es imposible y nadie lo paga—. Busco
+> **el riesgo que mueve la aguja**. Lo primero que pregunto a mi equipo es: '¿qué tres cosas, si están
+> mal, hacen que mi cliente NO compre o pague mucho menos?' Eso ordena el trabajo. Vivo obsesionado con
+> tres áreas: la **titularidad** (¿de verdad es dueño de lo que vende?), la **calidad de las utilidades**
+> (¿estos números son reales y recurrentes, o están maquillados?) y el ***change of control*** (¿el
+> activo se evapora justo cuando compramos?). Y exijo a cada asociado la misma disciplina: no quiero un
+> reporte de 300 páginas con todo lo que encontraron; quiero **tres niveles** —lo que mata el deal, lo
+> que repreciamos o blindamos, y lo que solo documentamos— y, para cada riesgo mayor, **la cláusula**
+> que lo resuelve. Un hallazgo sin cláusula es trabajo perdido. La due diligence no termina cuando
+> entiendo el riesgo; termina cuando lo **traduje** en una protección que mi cliente pueda cobrar."*
+
+## ✦ Errores que cuestan millones
+
+1. **DD financiera superficial (el síndrome HP-Autonomy).** Pagar un múltiplo alto sin verificar la
+   *Quality of Earnings* y descubrir después que los ingresos estaban inflados. *Prevención:* QoE
+   rigurosa; ninguna prisa por cerrar justifica no verificar los números.
+2. **Ignorar el *change of control*.** No detectar que los contratos o permisos clave se cancelan al
+   cambiar el dueño, y comprar una empresa que se vacía de valor el día del *closing*. *Prevención:*
+   mapearlos y volverlos **condición al *closing*** (consentimientos).
+3. **DD de compliance ausente.** No investigar la corrupción y **heredar** responsabilidad penal y
+   regulatoria (FCPA). *Prevención:* DD anticorrupción rigurosa y remediación documentada; "no investigué"
+   agrava la sanción.
+4. **No traducir los hallazgos al contrato.** Detectar el riesgo y no convertirlo en rep, indemnización
+   especial, *escrow* o condición: el comprador termina pagando un riesgo que **sí** se había visto.
+   *Prevención:* para cada *red flag* mayor, define la herramienta de la sección 14.E.
+5. **Intercambiar información sensible entre competidores sin *clean team*.** Revisar precios y clientes
+   del competidor antes de la autorización y caer en *gun jumping* informativo (multas de competencia).
+   *Prevención:* *clean teams* y conclusiones agregadas hasta el *closing*.
+
+---
+
+> *Cierre del Libro 2.* Has aprendido a **mirar antes de comprar**: a investigar la empresa por dentro,
+> jerarquizar el riesgo y —lo esencial— **traducir cada hallazgo en una protección contractual**. La due
+> diligence es la bisagra entre conocer la realidad de la *target* y plasmarla en el contrato; conecta
+> todo lo que estudiaste (sociedades, contratos, responsabilidad, gobierno, competencia, fiscal, laboral)
+> en una sola habilidad práctica de élite. Con el mapa del M&A (Libro 1) y el arte de la due diligence
+> (Libro 2) en tu poder, estás listo para dominar las **arquitecturas de la transacción**. Avanzamos al
+> **Libro 3 · Estructuras: fusiones, escisiones y adquisiciones**, donde aprenderás, con precisión
+> técnica, **cómo** se compra y se combina una empresa.
