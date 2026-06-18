@@ -479,3 +479,108 @@ due diligence— del abogado de negocios.
   (distribución, agencia, compraventa) que estandarizan la práctica global.
 - **Factoraje internacional (Convención UNIDROIT de Ottawa sobre factoring y UNCITRAL sobre cesión):**
   marco para la cesión transfronteriza de créditos comerciales.
+
+
+## 22. Derecho comparado
+
+| Sistema | Rasgos de los contratos mercantiles |
+|---|---|
+| **México** | Código de Comercio (compraventa, comisión, transporte, seguro) + LGTOC (factoraje, leasing) + LFPPI (franquicia); muchos **atípicos** (distribución, agencia, JV) regidos por la autonomía (art. 78). |
+| **España** | Código de Comercio + leyes especiales; **Ley del Contrato de Agencia** (protege al agente, indemnización por clientela); franquicia regulada. |
+| **Estados Unidos** | **UCC** (venta de bienes —Art. 2—, leasing —Art. 2A—, factoring vía Art. 9); franquicia regulada por la **FTC Franchise Rule** (disclosure) y leyes estatales; distribución/agencia por *common law* y antitrust. |
+| **Delaware/EE. UU.** | Amplia libertad contractual; *joint ventures* y contratos complejos muy desarrollados; fuerte rol del antitrust en restricciones verticales. |
+| **Unión Europea** | **Directiva de Agencia Comercial** (indemnización por clientela); **Reglamento de restricciones verticales** (exenciones por categorías a acuerdos de distribución/franquicia); protección del franquiciado. |
+| **UNIDROIT** | **Guía sobre acuerdos de franquicia principal internacional**; Principios de contratos comerciales; Convención de Ottawa sobre **factoring** y leasing internacional. |
+| **UNCITRAL** | Convención sobre **cesión de créditos**; ley modelo de comercio electrónico (contratación electrónica). |
+| **CISG** | Régimen uniforme de la **compraventa internacional de mercaderías** (núcleo del comercio de bienes). |
+| **Common Law** | Contratos de distribución/franquicia muy desarrollados por la práctica; *franchise disclosure* (FTC); fuerte control antitrust de restricciones verticales. |
+| **Civil Law** | Codificación de contratos mercantiles típicos + atipicidad creciente; protección variable de la parte débil (agente, distribuidor, franquiciado). |
+
+> **Convergencia/divergencia clave:** la **compraventa** (CISG) y los **Incoterms** son globales. La
+> gran diferencia está en la **protección de la parte débil**: la **UE** protege fuertemente al
+> **agente** (indemnización por clientela) y al **franquiciado**; **México** y **EE. UU.** confían más
+> en la libertad contractual (con control **antitrust** de las restricciones verticales). El abogado
+> de distribución/franquicia internacional debe conocer esas asimetrías.
+
+## 23. Derecho mexicano
+
+- **Código de Comercio:** mercantilidad (arts. 75, 78); compraventa mercantil (371-387); comisión
+  (273-308); transporte; depósito mercantil; comercio electrónico (Título II); vía ejecutiva y
+  juicios mercantiles.
+- **LGTOC:** **factoraje financiero** y **arrendamiento financiero** (incorporados a la LGTOC);
+  operaciones de crédito conexas (Libro 3).
+- **Ley Federal de Protección a la Propiedad Industrial (LFPPI):** **franquicia** (definición, COF —
+  Circular de Oferta de Franquicia—, licencia de marca).
+- **Ley Federal de Competencia Económica:** control de **restricciones verticales** (exclusividad, no
+  competencia, fijación de precios de reventa) como prácticas monopólicas relativas.
+- **LFPC (consumidor):** contratos de adhesión y cláusulas abusivas en relaciones con consumidores.
+- **Atípicos:** distribución, agencia, *joint venture*, *outsourcing* (con la reforma de
+  subcontratación) — regidos por la autonomía de la voluntad y la supletoriedad civil.
+
+## 24. Jurisprudencia relevante
+
+> Verificar vigencia antes de citar.
+- **Compraventa mercantil:** mora sin interpelación a día cierto; transmisión del riesgo.
+- **Franquicia:** efectos de la omisión de la **COF**; naturaleza de la relación y obligaciones de
+  asistencia.
+- **Factoraje:** oponibilidad de la cesión por notificación; alcance del recurso/sin recurso.
+- **Contratos atípicos:** validez por autonomía e integración por analogía y usos.
+- **Restricciones verticales:** criterios de la COFECE y tribunales sobre prácticas monopólicas
+  relativas en distribución.
+
+## 25. Criterios de la Suprema Corte
+
+- **Autonomía de la voluntad y contratos atípicos:** reconocimiento de su validez y de la integración
+  por analogía/usos.
+- **Protección al consumidor:** control de cláusulas abusivas en contratos de adhesión (en conexión
+  con la LFPC).
+- **Franquicia y propiedad industrial:** criterios sobre la licencia de marca y la información
+  precontractual.
+- **Competencia económica:** estándares sobre restricciones verticales y su sanción.
+
+## 26. Doctrina nacional
+
+- **Óscar Vásquez del Mercado, *Contratos Mercantiles* (Porrúa):** manual de referencia en la materia.
+- **Arturo Díaz Bravo, *Contratos Mercantiles*:** claro y práctico, con los contratos modernos.
+- **Jorge Barrera Graf / Roberto Mantilla Molina:** marco general y contratos de empresa.
+- Doctrina especializada en **franquicia**, **factoraje** y **arrendamiento financiero** (por su
+  actualidad y uso práctico).
+
+## 27. Doctrina internacional
+
+- **Schlechtriem & Schwenzer, *Commentary on the CISG*:** referencia mundial de la compraventa
+  internacional.
+- **UNIDROIT, *Guía sobre franquicia principal internacional*** y **Principios de contratos
+  comerciales internacionales.**
+- **Reglas de la CCI (Incoterms, contratos modelo de distribución/agencia).**
+- **Doctrina del UCC (White & Summers)** para venta, leasing y garantías en EE. UU.
+
+## 28. Opiniones críticas (postura del Consejo)
+
+1. **Los contratos atípicos exigen redacción exhaustiva.** Como la ley no los "rellena", el Consejo
+   insiste en redactar leasing, factoraje, distribución, franquicia y *joint venture* con **máximo
+   detalle** (definiciones, supuestos de terminación, propiedad intelectual, no competencia),
+   anticipando que el juez tendrá poco texto legal supletorio.
+2. **El *change of control* es la cláusula que más *deals* traba.** El Consejo lo eleva a prioridad de
+   due diligence: una empresa cuyos contratos clave pueden terminarse al cambiar de dueño vale menos y
+   es más riesgosa; hay que mapearlos y planear los consentimientos desde el inicio.
+3. **México protege poco a la parte débil (agente, distribuidor, franquiciado).** A diferencia de la
+   UE, hay escasa protección legal; el Consejo recomienda que la parte débil **negocie por contrato**
+   sus protecciones (indemnización, preaviso, compensación de inventario) y que el abogado de la parte
+   fuerte cuide la competencia económica.
+
+## 29. Debate doctrinal
+
+- **¿Hasta dónde llega la atipicidad?** ¿Pueden las partes crear cualquier contrato, o hay límites
+  (orden público, normas imperativas, protección del débil) que la autonomía no puede traspasar?
+- **Protección de la parte débil:** ¿debe México adoptar protecciones al **agente/distribuidor/
+  franquiciado** (como la UE), o la libertad contractual y la competencia bastan?
+- **Restricciones verticales:** ¿son las exclusividades y no competencias en distribución/franquicia
+  **proeficiencia** (organizan la distribución) o **anticompetitivas** (cierran el mercado)? El
+  análisis económico (regla de la razón) frente a la prohibición *per se*.
+- **Naturaleza del leasing:** ¿es arrendamiento, compraventa a plazos con reserva de dominio, o un
+  contrato **financiero** *sui generis*? El debate tiene consecuencias fiscales, contables y
+  concursales.
+- **Contratos relacionales y buena fe:** en contratos de larga duración (distribución, franquicia,
+  suministro), ¿exige la buena fe deberes de **cooperación, renegociación y preaviso** más intensos
+  que en un intercambio puntual?
