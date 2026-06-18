@@ -637,3 +637,196 @@ naufragio —y a prepararse para él **antes** de que ocurra—.
 - **Insolvencia transfronteriza: ¿universalismo o territorialismo?** ¿Un solo procedimiento global
   (universalismo, COMI) o procedimientos locales coordinados (territorialismo)? La Ley Modelo UNCITRAL
   adopta un universalismo **modificado**.
+
+
+## 30. Errores comunes
+
+- **Tomar garantías tarde (en la víspera de la crisis).** Pueden ser **impugnadas** por retroacción y
+  anuladas; la garantía debe tomarse **al originar** el crédito.
+- **Confiar en cobrar por fuera tras el concurso.** Declarado el concurso, las **ejecuciones
+  individuales se suspenden**; hay que cobrar **dentro**.
+- **Subestimar las preferencias laboral y fiscal.** Pueden anteponerse a las garantías reales en la
+  prelación.
+- **Creer que el quirografario cobra parejo con el garantizado.** No: el garantizado cobra **antes**
+  sobre su bien; el común, al final y a prorrata (casi nada).
+- **Pensar que el concurso es solo liquidación.** La **prioridad** es la **conciliación**
+  (reestructurar y salvar).
+- **Bloquear una reestructura siendo minoría (en concurso).** El ***cram down*** vincula a los
+  disidentes; el *holdout* solo funciona en *workouts* extrajudiciales.
+- **Ignorar la insolvencia transfronteriza** en grupos multinacionales (COMI, reconocimiento).
+
+## 31. Mitos frecuentes
+
+- *"La quiebra es un castigo/delito."* **Falso (hoy):** el fracaso honesto se gestiona; solo el
+  **fraude** se castiga.
+- *"En el concurso, el más rápido en embargar gana."* **Falso:** se **suspenden** las ejecuciones; rige
+  el principio **colectivo**.
+- *"Tener una garantía garantiza cobrar todo."* **Matiz:** cobras con preferencia **sobre tu bien**,
+  pero después de laborales/fiscales aplicables, y solo si la garantía fue **bien tomada y a tiempo**.
+- *"El concurso siempre destruye la empresa."* **Falso:** la **conciliación** busca **salvarla** (y la
+  venta como unidad conserva la operación).
+- *"Comprar una empresa en concurso es comprar sus problemas."* **No necesariamente:** el *distressed
+  M&A* puede adquirir activos/empresa "**limpios**" de pasivos.
+
+## 32. Preguntas difíciles
+
+1. ¿Hasta cuándo conviene **mantener viva** una empresa en concurso? ¿Cómo se mide su **viabilidad**?
+2. ¿Es justo que los **créditos laborales y fiscales** se antepongan a las **garantías reales**? ¿Cuál
+   es el costo macroeconómico de debilitar las garantías?
+3. ¿El ***cram down*** (vincular a disidentes) respeta los derechos de los acreedores minoritarios?
+   ¿Qué protecciones lo legitiman (*best interest test*)?
+4. ¿Debería México facilitar más los **workouts** y los **planes prepactados** para ganar velocidad,
+   reduciendo el papel del tribunal?
+5. ¿Qué deberes tienen los **administradores** en la "zona de insolvencia": seguir maximizando para los
+   accionistas o proteger a los acreedores?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**P1.** *¿Cuál es el presupuesto del concurso mercantil?* **R.** El **incumplimiento generalizado** de
+pagos (a dos o más acreedores) que rebase los umbrales del art. 10 LCM (vencidas ≥35% del total, o sin
+activos para cubrir el 80% de las vencidas). No basta un solo impago.
+
+**P2.** *¿Cuáles son las dos etapas y sus finalidades?* **R.** La **conciliación** (finalidad:
+**conservar** la empresa mediante convenio con los acreedores) y, en su defecto, la **quiebra**
+(finalidad: **liquidar** y pagar conforme a la prelación).
+
+**P3.** *Explique la prelación de acreedores.* **R.** Orden de pago: singularmente privilegiados →
+(con preferencia destacada, **laborales** del último año) → **con garantía real** (sobre su bien) →
+**fiscales** → con privilegio especial → **comunes** (a prorrata). Los gastos del concurso se pagan con
+prioridad.
+
+**P4.** *¿Qué es la retroacción y para qué sirve?* **R.** El periodo previo a la sentencia en que los
+actos del deudor **en fraude de la masa** (garantías por deudas previas, pagos preferentes, ventas a
+bajo precio) pueden declararse **ineficaces**, para proteger la igualdad de los acreedores.
+
+**P5.** *¿Qué es el cram down?* **R.** El mecanismo por el que el convenio concursal, aprobado por las
+**mayorías** legales y **homologado**, **vincula incluso a los acreedores disidentes**, evitando que
+una minoría bloquee la reestructura (con protección de que reciban al menos lo que obtendrían en
+liquidación).
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** asociado de reestructuración. **Cliente:** un **banco** acreedor de "Manufacturas del
+> Bajío, S.A." por $300M, **garantizado** con hipoteca (planta) y prenda (maquinaria), **bien
+> inscritas hace 4 años**. La empresa entró en concurso; debe también $80M a proveedores
+> (quirografarios), $40M de salarios e indemnizaciones del último año, y $30M al SAT. El conciliador
+> propone una reestructura (quita del 25%, espera de 4 años). Un fondo de *distressed* compró $50M de
+> deuda quirografaria y quiere bloquear el convenio.
+>
+> **Tarea:** asesora al banco: (1) ¿en qué **rango de la prelación** cobra y qué tan protegidas están
+> sus garantías (laborales y fiscales primero)?; (2) ¿le conviene **apoyar la conciliación** (quita/
+> espera) o empujar a la **quiebra** (liquidar y cobrar sobre sus bienes)? Compara la recuperación
+> esperada en cada escenario; (3) ¿pueden anularse sus garantías por **retroacción** (se tomaron hace
+> 4 años: ¿están a salvo?)?; (4) ¿puede el fondo *distressed* **bloquear** el convenio o lo vincula el
+> ***cram down***?; (5) propón la estrategia (votar el convenio, negociar mejores términos, ejecutar
+> garantías). Concluye con la recomendación y su fundamento.
+
+*(Pista de evaluación: la mejor respuesta ubica al banco como **acreedor con garantía real** (cobra
+sobre sus bienes, tras laborales/fiscales aplicables); nota que las garantías de **hace 4 años** están
+**fuera** del periodo de retroacción (a salvo); explica que el fondo disidente queda vinculado por el
+**cram down**; y compara recuperación en conciliación vs. quiebra para decidir el voto.)*
+
+## 35. Flashcards
+
+- **¿Presupuesto del concurso?** → Incumplimiento **generalizado** (umbrales del art. 10).
+- **¿Dos etapas?** → Conciliación (salvar) → Quiebra (liquidar).
+- **¿Finalidad prioritaria?** → **Conservar** la empresa.
+- **¿Quién media en la conciliación / quién liquida?** → Conciliador / síndico (designados por el
+  IFECOM).
+- **¿Prelación (orden)?** → Singularmente privilegiados → laborales → garantía real → fiscales →
+  privilegio especial → comunes.
+- **¿Dónde cobra el acreedor con garantía real?** → Con preferencia **sobre su bien** (tras laborales/
+  fiscales aplicables).
+- **¿Qué es la retroacción?** → Anular actos en fraude de la masa previos a la sentencia.
+- **¿Cram down?** → El convenio vincula a los disidentes.
+- **¿Suspensión de ejecuciones?** → Declarado el concurso, se cobra **dentro** (principio colectivo).
+- **¿Convenio concursal?** → Acuerdo de reestructura (quita/espera/conversión) homologado.
+- **¿Distressed M&A?** → Comprar empresa/activos en concurso (a precio de crisis, "limpios").
+- **¿COMI?** → Centro de intereses principales (insolvencia transfronteriza).
+
+## 36. Mapas mentales
+
+```
+CONCURSO MERCANTIL (LCM)
+├── PRESUPUESTO: incumplimiento generalizado (art. 10) + comerciante
+├── APERTURA: solicitud/demanda → visitador → SENTENCIA de concurso
+├── EFECTOS
+│   ├── Suspensión de ejecuciones (principio colectivo)
+│   ├── Reconocimiento, graduación y PRELACIÓN de créditos
+│   ├── Administración (deudor en conciliación / síndico en quiebra)
+│   └── Separación de bienes · contratos pendientes
+├── ETAPA 1: CONCILIACIÓN (salvar)
+│   └── Conciliador → CONVENIO (quita/espera/conversión) → homologación + CRAM DOWN
+├── ETAPA 2: QUIEBRA (liquidar)
+│   ├── Síndico → vende (idealmente empresa como UNIDAD)
+│   └── PRELACIÓN: singular. priv. → LABORALES → garantía REAL → fiscales → priv. especial → comunes
+├── RETROACCIÓN: anular actos en fraude de la masa (⚠ garantías tardías)
+└── REESTRUCTURACIÓN MODERNA
+    └── Pre-pack · workout extrajudicial · distressed M&A / debt · insolvencia transfronteriza (COMI)
+```
+
+## 37. Cuadros comparativos
+
+**Conciliación vs. quiebra**
+
+| | Conciliación | Quiebra |
+|---|---|---|
+| Finalidad | Conservar (reestructurar) | Liquidar |
+| Instrumento | Convenio concursal | Venta de bienes |
+| Administración | Deudor (con vigilancia) | Síndico |
+| Resultado | Empresa sobrevive | Empresa se liquida |
+
+**Prelación (orden de pago)**
+
+| Rango | Acreedores | Cobran |
+|---|---|---|
+| 1 | Singularmente privilegiados | Primero (montos menores) |
+| — | **Laborales** (último año) | Preferencia destacada |
+| 2 | **Con garantía real** | Sobre el bien gravado |
+| — | Fiscales | Preferencia especial |
+| 3 | Con privilegio especial | Sobre ciertos bienes |
+| 4 | **Comunes** (quirografarios) | Al final, a prorrata |
+
+**Workout vs. concurso**
+
+| | Workout (extrajudicial) | Concurso (judicial) |
+|---|---|---|
+| Tribunal | No | Sí |
+| Velocidad | Rápido | Más lento |
+| Vincula a disidentes | No (riesgo de *holdout*) | Sí (cram down) |
+| Confidencialidad | Alta | Pública |
+
+## 38. Diagramas
+
+**Flujo del concurso:**
+```
+Incumplimiento generalizado → solicitud/demanda → VISITADOR → sentencia de concurso
+   → CONCILIACIÓN (convenio + cram down) ──éxito──► empresa sobrevive
+                         │ fracaso/plazo
+                         ▼
+                      QUIEBRA → síndico vende → PAGO según PRELACIÓN
+```
+
+**¿Mi garantía sobrevive al concurso?**
+```
+¿Garantía real bien constituida, perfeccionada e INSCRITA? 
+   │ no → quirografario (cobro a prorrata)
+   │ sí
+   ▼
+¿Se tomó FUERA del periodo de retroacción (a tiempo, no en la víspera)?
+   │ no → impugnable (ineficaz) → quirografario
+   │ sí
+   ▼
+Cobro con PREFERENCIA sobre el bien (tras laborales/fiscales aplicables) ✔
+```
+
+## 39. Mnemotecnias
+
+- **Finalidades (en orden):** *"primero SALVAR (conciliación), luego LIQUIDAR (quiebra)"*.
+- **Prelación:** **"La-Ga-Fi-Co"** → **La**borales, **Ga**rantía real, **Fi**scales, **Co**munes (con
+  los singularmente privilegiados al frente).
+- **Garantía:** *"a tiempo y bien inscrita, o en el concurso no sirve"* (retroacción).
+- **Cram down:** *"la mayoría arrastra al que dijo que no"*.
+- **Colectivo:** *"declarado el concurso, nadie cobra por fuera"*.
+- **Conservación:** *"la empresa viva vale más que sus pedazos"*.
+- **Distressed:** *"comprar barato en la crisis, a veces limpio de pasivos"*.
