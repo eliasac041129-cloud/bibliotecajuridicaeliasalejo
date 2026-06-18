@@ -288,3 +288,115 @@ ser, simplemente, **comprar sus acciones**.
   muchos de sus pactos pueden llevarse a **estatutos** y ser oponibles.
 - **S.A.P.I.:** S.A. flexible (LMV) que permite pactar lo que la S.A. tradicional prohibía;
   vehículo predilecto de VC/PE y antesala del mercado de valores (S.A.B.).
+
+
+## 14. Desarrollo absoluto
+
+Lo organizamos en cinco bloques: (A) los **tipos** societarios y cómo elegir; (B) la **S.A.**:
+constitución, **capital** y **acciones**; (C) los **órganos** sociales; (D) los **derechos del
+accionista** (mayorías y minorías); (E) la **S.A.P.I.** y las **vicisitudes** (aumentos,
+reducciones, fusión, escisión, disolución).
+
+### 14.A · Los tipos de sociedad y cómo elegir
+
+La LGSM ofrece seis tipos; en la práctica corporativa importan, sobre todo, tres:
+- **Sociedad Anónima (S.A.):** sociedad de **capitales**; capital en **acciones**; responsabilidad
+  **limitada**; acciones **libremente transmisibles** (salvo pacto). El vehículo por excelencia de
+  la empresa mediana y grande y de la que cotiza en bolsa (S.A.B.).
+- **Sociedad de Responsabilidad Limitada (S. de R.L.):** capital en **partes sociales** (no
+  acciones); máximo **50 socios**; responsabilidad limitada; transmisión de partes **restringida**
+  (requiere consentimiento de la mayoría/socios). Más "cerrada" y personal; muy usada por su
+  **tratamiento fiscal** en estructuras con inversión de EE. UU. (puede ser *check-the-box* como
+  entidad transparente).
+- **S.A.P.I. (Sociedad Anónima Promotora de Inversión, LMV):** una S.A. **flexibilizada**; permite
+  pactar restricciones a la transmisión, acciones de voto limitado, derechos de minoría reforzados,
+  *drag/tag along*, exclusión de socios. El **vehículo predilecto de VC y PE** y antesala del
+  mercado (puede ser S.A.P.I.B. y luego S.A.B.).
+- **Tipos menores:** **S. en Nombre Colectivo** y **Comandita** (responsabilidad ilimitada de
+  algunos socios; casi en desuso); **Cooperativa** (régimen especial); **S.A.S.** (Sociedad por
+  Acciones Simplificada, para microempresas, constitución en línea, un solo accionista).
+
+**Cómo razona un socio (elección del tipo).** *"Elegir el tipo es la primera decisión de estructura.
+Pregunto: ¿cuántos socios y qué tan 'cerrada' es la sociedad? ¿se busca inversión de fondos
+(VC/PE)? ¿hay inversionistas de EE. UU. (tema fiscal)? ¿se planea salir a bolsa? Para una empresa
+con planes de levantar capital y M&A, casi siempre recomiendo **S.A.P.I.**: tiene la flexibilidad de
+Delaware dentro del derecho mexicano. Para estructuras con inversión estadounidense, evalúo la
+**S. de R.L.** por su tratamiento fiscal."*
+
+### 14.B · La Sociedad Anónima: constitución, capital y acciones
+
+**Constitución.** Por **contrato social** (acta constitutiva) ante **fedatario público** (notario o
+corredor), con los requisitos del art. 89 (dos o más socios, capital suscrito, exhibición mínima del
+20% en efectivo, íntegra en especie) y los estatutos del art. 6 (denominación, objeto, duración,
+capital, domicilio, órganos, reglas de reparto). Se **inscribe** en el Registro Público de Comercio
+para que la sociedad tenga personalidad **plena** frente a terceros (antes, sociedad irregular).
+
+**El capital social.** Cifra que representa la suma de las aportaciones; cumple tres funciones:
+(i) **garantía** de los acreedores (cifra de retención: no se reparte como dividendo lo que erosione
+el capital); (ii) **medida** de los derechos del socio (proporción de voto y dividendo); (iii)
+**base de productividad** (fondo para operar). Se distingue:
+- **Capital suscrito** (comprometido) vs. **exhibido** (efectivamente pagado).
+- **Capital fijo** (mínimo, requiere reforma para variar) vs. **variable** (parte que sube/baja sin
+  reforma estatutaria, entre un mínimo y un máximo: "S.A. de C.V."). El **capital variable** es
+  clave para **rondas de inversión** ágiles.
+- **Principios de integridad y realidad del capital:** el capital debe ser real (aportaciones
+  efectivas, avalúo de las en especie) y mantenerse (prohibición de repartir dividendos ficticios).
+
+**Las acciones.** Representan el capital y el *status* de socio. Clasificaciones clave:
+- **Por sus derechos:** **ordinarias** (plenos derechos de voto y dividendo) y **preferentes / de
+  voto limitado** (privilegio económico —dividendo preferente— a cambio de voto restringido; art.
+  113 LGSM). En **series** (A, B, C…) con derechos distintos.
+- **Por su exhibición:** **liberadas** (pagadas) y **pagadoras** (pendientes de pago).
+- **Por su circulación:** la regla en la S.A. es la **libre transmisibilidad**; los estatutos
+  pueden establecer que la transmisión requiera **autorización del consejo** (art. 130 LGSM) —y la
+  S.A.P.I. permite restricciones más amplias (derechos de preferencia, *lock-up*, *tag/drag*)—.
+- **Documentación y registro:** las acciones se documentan en **títulos** (o se mantienen de forma
+  desmaterializada) y la titularidad se acredita por la inscripción en el **libro de registro de
+  acciones** (art. 128 LGSM): *quien aparece en el libro es el accionista frente a la sociedad*.
+  **Punto crítico de due diligence y de la prenda de acciones.**
+
+**Transmisión de acciones.** Por **endoso** del título + **inscripción en el libro de registro**.
+La sociedad reconoce como accionista a quien está inscrito en el libro. *Conexión M&A:* la
+transmisión de acciones (con endoso y registro) es, técnicamente, el **cierre de un share deal**;
+verificar el libro de registro es esencial para confirmar quién es dueño de qué.
+
+### 14.C · Los órganos sociales
+
+La S.A. actúa por sus órganos (teoría del órgano — Libro 5, Nivel I):
+
+**1) La Asamblea de Accionistas (órgano supremo).** Forma la voluntad social. Tipos:
+- **Ordinaria (art. 181):** se reúne al menos una vez al año; aprueba el **informe** y los **estados
+  financieros**, decreta **dividendos**, nombra y remueve al **consejo** y al **comisario**, fija
+  sus emolumentos. *Quórum:* instalación, mayoría de las acciones (50%+); votación, mayoría de los
+  presentes. En **segunda convocatoria**, se resuelve con cualquier número de acciones.
+- **Extraordinaria (art. 182):** para los asuntos **graves** que modifican la estructura: reforma
+  de estatutos, **aumento o reducción de capital** (en la parte fija), **cambio de objeto o de
+  nacionalidad**, **transformación, fusión, escisión**, **disolución**, emisión de acciones
+  privilegiadas. *Quórum:* instalación, **75%** de las acciones (en primera convocatoria); votación,
+  voto de acciones que representen el **50%** del capital (mínimos legales; los estatutos pueden
+  exigir **más**, no menos).
+- **Convocatoria, orden del día y formalidades:** vicios en la convocatoria o el quórum pueden
+  **anular** los acuerdos (impugnación, art. 188 y ss.).
+
+**2) La Administración (consejo de administración o administrador único, arts. 142 y ss.).** Órgano
+de **gestión y representación**. Puede ser **unipersonal** (administrador único) o **colegiado**
+(consejo de administración). Funciones: dirigir el negocio, ejecutar los acuerdos de la asamblea,
+representar a la sociedad (otorgar poderes — Libro 2, Nivel II). **Deberes fiduciarios** (deber de
+**diligencia/cuidado** y de **lealtad**), cuya violación genera **responsabilidad** (acción social
+de responsabilidad, art. 161; reforzada en LMV para sociedades bursátiles — Nivel IV). El consejo
+suele apoyarse en **comités** (auditoría, prácticas societarias) y en un **director general**.
+
+**3) La Vigilancia (comisario, arts. 164 y ss.).** Órgano fiscalizador, designado por la asamblea;
+vigila la gestión, revisa los estados financieros y rinde dictamen. En sociedades bursátiles, esta
+función se moderniza con el **comité de auditoría** y el **auditor externo** (LMV). *Tendencia:* el
+modelo del comisario único evoluciona hacia órganos de vigilancia más robustos y profesionales
+(gobierno corporativo).
+
+> **Cómo razona un socio (gobierno y poder).** *"En toda sociedad pregunto: ¿**quién decide qué**?
+> La asamblea decide lo estructural (estatutos, capital, fusión); el consejo, la gestión; el director
+> general, el día a día. Y ¿con qué **mayorías**? Ahí está el poder real: quien controla el 75% domina
+> hasta lo extraordinario; quien tiene 50%+ controla lo ordinario; y las **minorías** tienen
+> herramientas defensivas. Cuando estructuro una inversión, **diseño el gobierno**: qué decisiones
+> requieren mayoría calificada o veto del inversionista (*reserved matters*), cómo se integra el
+> consejo, qué protege a la minoría. El control no es solo tener acciones: es **diseñar las reglas de
+> decisión**."*
