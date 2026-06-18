@@ -176,3 +176,116 @@ El abogado corporativo y bancario **estructura, documenta y litiga** estos instr
 pagarés y contratos de crédito, diseña fideicomisos, ejecuta garantías y defiende o ataca títulos en
 juicio. Es una de las áreas más técnicas y mejor pagadas, especialmente en **banca** y
 **financiamiento**.
+
+
+## 10. Definiciones doctrinales
+
+- **Título de crédito (Cesare Vivante, definición clásica):** "el documento **necesario** para
+  ejercer el derecho **literal** y **autónomo** que en él se menciona". Cada palabra cuenta:
+  *necesario* (incorporación: sin el documento no se ejerce el derecho), *literal* (el derecho es el
+  que dice el texto, ni más ni menos), *autónomo* (cada adquirente tiene un derecho propio,
+  independiente del de los anteriores).
+- **Tena / Cervantes Ahumada (doctrina mexicana):** desarrollan la teoría sobre la LGTOC,
+  destacando la **incorporación**, la **literalidad**, la **autonomía** y la **legitimación** (quien
+  posee el título conforme a su ley de circulación está legitimado para ejercer el derecho).
+- **Garrigues (España):** subraya la función económica de **circulación** y la protección del
+  **tráfico** (seguridad del tercer adquirente de buena fe).
+- **Operación de crédito (doctrina):** negocio por el que una parte concede a otra el uso de un
+  capital (o de crédito) por un tiempo, a cambio de su restitución y, normalmente, de un interés;
+  incluye operaciones **activas** (el banco presta), **pasivas** (el banco capta) y **neutras**
+  (servicios).
+
+> **Lectura del Consejo:** memoriza la definición de **Vivante** como un mantra; de ella se deducen
+> todos los efectos prácticos. *Necesario* → hay que tener el papel para cobrar y para la vía
+> ejecutiva. *Literal* → vale lo escrito (cuidado con lo que se firma). *Autónomo* → el tenedor de
+> buena fe cobra **limpio**, sin que le opongan los líos entre los anteriores. Esa autonomía es
+> **toda** la magia del título.
+
+## 11. Definiciones legales (LGTOC — verificar versión vigente)
+
+- **Título de crédito — art. 5 LGTOC:** "Son títulos de crédito los **documentos necesarios** para
+  ejercitar el derecho **literal** que en ellos se consigna." (La autonomía se desarrolla en otros
+  artículos.)
+- **Autonomía — art. 8 (excepciones):** enumera las **excepciones** que se pueden oponer contra la
+  acción derivada de un título de crédito; las **no** enumeradas no son oponibles (protección del
+  tenedor). Eje de la autonomía.
+- **Literalidad — art. 5 y concordantes:** el derecho se mide por el **texto** del documento.
+- **Letra de cambio — arts. 76 y ss.;** **pagaré — arts. 170 y ss.;** **cheque — arts. 175 y ss.**
+- **Endoso — arts. 26 y ss.:** forma de transmisión de los títulos "a la orden"; tipos: en
+  **propiedad**, en **procuración** (para cobro) y en **garantía** (prenda).
+- **Aval — arts. 109-116:** garantía del pago del título; el avalista se obliga **autónomamente**
+  (su obligación es válida aun si la garantizada es nula por vicio de forma; art. 114).
+- **Protesto — arts. 139 y ss.;** **acciones cambiarias** (directa y de regreso) **— arts. 150 y ss.**
+- **Operaciones de crédito:** reporto (arts. 259-261), depósito (267 y ss.), descuento de créditos en
+  libros (288 y ss.), apertura de crédito (291 y ss.), cuenta corriente (302 y ss.), créditos
+  **refaccionario y de habilitación o avío** (321 y ss.), carta de crédito (311 y ss.), **fideicomiso**
+  (381 y ss.), prenda sin transmisión de posesión (346 y ss.).
+
+## 12. Definición sencilla
+
+Un **título de crédito** es un "papel que vale por sí mismo": un documento que **contiene** un
+derecho a cobrar dinero, de modo que **quien tiene el papel tiene el derecho**, puede **pasárselo a
+otro** (endoso) como si fuera dinero, y si no le pagan, lo cobra **rápido** en un juicio especial
+(vía ejecutiva). El pagaré, el cheque y la letra de cambio son los más comunes. Las **operaciones de
+crédito** son las distintas formas en que los bancos y las empresas **prestan, descuentan, garantizan
+y estructuran** el crédito (líneas de crédito, descuento de facturas, cartas de crédito,
+fideicomisos).
+
+## 13. Conceptos fundamentales
+
+**Principios del título de crédito (los cuatro pilares):**
+- **Incorporación:** el derecho está "metido" en el documento; sin el documento no se ejerce ni se
+  transmite el derecho. *(Tener el papel = tener el derecho.)*
+- **Literalidad:** el derecho es **exactamente** el que dice el texto del título (su contenido,
+  monto, plazo, condiciones). No vale lo que no está escrito ni se puede contradecir con pactos
+  externos frente al tenedor de buena fe.
+- **Autonomía:** cada nuevo adquirente del título adquiere un derecho **propio y originario**, no
+  derivado del anterior; por eso **no** se le pueden oponer las excepciones personales que existían
+  contra los tenedores previos (protección del tercero de buena fe).
+- **Legitimación:** quien posee el título conforme a su **ley de circulación** (endoso para los "a
+  la orden") está legitimado para ejercer el derecho **sin probar** que es el verdadero titular
+  (legitimación activa) y el deudor que paga a quien aparece legitimado se libera (legitimación
+  pasiva).
+
+**Abstracción:** muchos títulos son **abstractos** (se desligan de la **causa** o negocio
+subyacente): el deudor debe pagar el título aunque el negocio que lo originó haya fallado, frente al
+tenedor de buena fe (con el límite del enriquecimiento injusto y de las excepciones del art. 8).
+
+**Clasificación de los títulos:**
+- **Por la ley de circulación:** **nominativos** (a nombre de persona determinada, se transmiten por
+  endoso + registro), **a la orden** (por **endoso** + entrega) y **al portador** (por simple
+  **entrega**).
+- **Por el derecho incorporado:** de **pago** (letra, pagaré, cheque), de **participación**
+  (acciones), **representativos de mercancías** (conocimiento de embarque, certificado de depósito).
+- **Por su causa:** **causales** (ligados a su causa, como la acción) vs. **abstractos** (desligados,
+  como el pagaré).
+
+**Figuras cambiarias:**
+- **Girador, girado/aceptante, beneficiario, tenedor, endosante, endosatario, avalista.**
+- **Aceptación:** acto por el que el girado (en la letra) se obliga a pagar.
+- **Endoso:** transmisión del título "a la orden"; en **propiedad** (transmite todos los derechos),
+  en **procuración** (solo para cobrar/gestionar) o en **garantía** (constituye prenda).
+- **Aval:** garantía **autónoma** del pago del título (distinta de la fianza: el aval subsiste aunque
+  la obligación avalada sea nula por vicio de forma, art. 114).
+- **Protesto:** acto formal que acredita la falta de aceptación o de pago (a veces dispensado por la
+  cláusula "sin protesto").
+- **Acción cambiaria:** la acción para cobrar el título; **directa** (contra el aceptante/suscriptor
+  y su avalista) y **de regreso** (contra endosantes y sus avalistas). Da acceso a la **vía
+  ejecutiva mercantil**.
+
+**Operaciones de crédito clave:**
+- **Apertura de crédito (línea de crédito):** el acreditante pone a disposición del acreditado una
+  suma o crédito que este dispone y restituye con intereses (revolvente o simple).
+- **Descuento:** el banco adquiere un crédito (pagaré, factura) **antes de su vencimiento**,
+  pagando su valor menos un descuento (da liquidez al titular).
+- **Reporto:** transferencia temporal de títulos con pacto de recompra (instrumento de liquidez y de
+  mercado de dinero).
+- **Carta de crédito:** instrumento (muy usado en comercio exterior) por el que un banco se obliga a
+  pagar al beneficiario contra la presentación de documentos (UCP 600).
+- **Crédito refaccionario:** crédito destinado a adquirir **activos fijos** (maquinaria, inmuebles
+  productivos), garantizado con lo adquirido.
+- **Crédito de habilitación o avío:** crédito destinado a **insumos y capital de trabajo** (materias
+  primas, salarios), garantizado con lo producido.
+- **Fideicomiso:** negocio por el que el fideicomitente transmite bienes a una **fiduciaria** para un
+  fin lícito determinado, en beneficio de un fideicomisario; versátil (garantía, administración,
+  fuente de pago, inversión) — Libro 4 Nivel II.
