@@ -621,3 +621,76 @@ empresa **y** a sus consejeros.
 una **licencia para operar**: muchas grandes empresas y fondos **no contratan ni invierten** con quien no
 tiene compliance; permite operar en mercados regulados y con socios exigentes; y es un **diferenciador
 reputacional**. El compliance bien entendido **habilita** el negocio.
+
+### 14.D · El ESG (los tres pilares, materialidad y finanzas sostenibles)
+
+El **ESG** (*Environmental, Social, Governance*) es el marco de criterios de **sostenibilidad** que hoy
+**condiciona** la inversión, el financiamiento y la reputación de las empresas. Es la dimensión más
+**reciente y dinámica** —en plena formación regulatoria—, y la frontera actual del derecho corporativo.
+
+**Los tres pilares.**
+- **E — Ambiental (*Environmental*):** el impacto de la empresa en el medio ambiente: **emisiones** de
+  carbono (y el camino a la descarbonización —*net zero*—), uso de **energía** y **agua**, **residuos** y
+  contaminación, **biodiversidad**, y la exposición de la empresa a los **riesgos climáticos** (físicos
+  —inundaciones, sequías— y de transición —cambios regulatorios y de mercado hacia una economía baja en
+  carbono—). Es el pilar más desarrollado y el motor del ESG.
+- **S — Social:** la relación de la empresa con las **personas**: **trabajadores** (condiciones laborales,
+  seguridad, diversidad e inclusión), **derechos humanos** (en la empresa y en su **cadena de suministro**
+  —trabajo forzado, infantil—), **comunidades** donde opera, y **clientes** (seguridad de productos,
+  privacidad). Es el pilar más difuso de medir, pero de creciente relevancia.
+- **G — Gobernanza (*Governance*):** **es el gobierno corporativo** que estudiaste (14.A-B): consejo,
+  independientes, deberes fiduciarios, ética, transparencia, control de la corrupción, derechos de los
+  accionistas. El "**G**" conecta el ESG con todo lo anterior —y es, en muchos sentidos, el **fundamento**:
+  sin buena gobernanza, los compromisos E y S no se cumplen—.
+
+**La materialidad ESG (qué temas importan).** No todos los temas ESG son relevantes para toda empresa: una
+minera tiene riesgos ambientales enormes; una tecnológica, riesgos sociales (datos, talento). La
+**materialidad** identifica los temas ESG **relevantes** para cada empresa. Dos conceptos:
+- **Materialidad financiera:** cómo los factores ESG afectan el **valor** de la empresa (un riesgo
+  climático, una multa ambiental, un conflicto social que paraliza una operación). Es la lógica del
+  "**riesgo del negocio**".
+- **Doble materialidad (concepto europeo):** además de lo anterior, cómo la empresa **impacta** al medio
+  ambiente y la sociedad (no solo cómo el ESG la afecta a ella, sino cómo ella afecta al mundo). La
+  **CSRD** europea adopta la doble materialidad.
+
+**El reporting y los estándares (el ESG se mide y se revela).** El ESG dejó de ser un relato voluntario
+para volverse **medible y reportable**, con estándares en consolidación:
+- **ISSB / IFRS S1-S2:** el estándar global emergente de revelación de sostenibilidad y clima (busca
+  unificar el campo).
+- **GRI (*Global Reporting Initiative*):** estándar de reporte de impacto (orientado a *stakeholders*).
+- **TCFD:** marco de revelación de **riesgos climáticos** (muy influyente).
+- **UE — CSRD (reporte de sostenibilidad), SFDR (productos financieros) y taxonomía verde:** la regulación
+  **más avanzada y obligatoria** del mundo en ESG.
+- **México:** requerimientos crecientes de la **bolsa (BMV/BIVA)** y guías de finanzas sostenibles; marco
+  aún en formación.
+
+**Las finanzas sostenibles (la conexión con el financiamiento — Libro 5).** El ESG se ha integrado al
+financiamiento:
+- **Bonos verdes / sociales / sostenibles:** deuda cuyos recursos se destinan a proyectos
+  ambientales/sociales, con verificación del uso.
+- **Créditos vinculados a la sostenibilidad (*sustainability-linked loans*):** créditos cuya **tasa de
+  interés** sube o baja según el cumplimiento de **metas ESG** del deudor (vistos en el Libro 5). Alinean
+  el costo del capital con el desempeño sostenible.
+- **El capital ESG:** los grandes inversionistas (fondos, afores, LPs —Libro 7—) **canalizan** capital
+  hacia empresas con buen ESG y lo **retiran** de las que no; el ESG afecta el **acceso y el costo del
+  capital**.
+
+**El riesgo del greenwashing.** El ***greenwashing*** —**aparentar** un compromiso sostenible **mayor** que
+el real— es un riesgo creciente, **legal y reputacional**: las autoridades y los reguladores
+(especialmente en la UE y EE.UU.) sancionan las declaraciones ESG **falsas o engañosas**, y los
+inversionistas castigan el engaño. *Lección para el abogado:* las afirmaciones ESG de una empresa (en sus
+reportes, bonos verdes, marketing) deben ser **veraces, sustentadas y verificables** —no un relato—.
+
+**El debate sobre el ESG (postura realista).** El ESG es un campo **debatido**: hay críticas legítimas
+(falta de estándares consistentes, *greenwashing*, uso político del término, dudas sobre si todo el ESG
+crea valor financiero). El abogado serio adopta una postura **realista**: el ESG **genuino** —gestionar los
+riesgos ambientales y sociales **materiales** como riesgos del negocio, con transparencia y sustancia— es
+**creación de valor y gestión de riesgo de largo plazo**, y una **condición de acceso al capital**; el ESG
+**de relato** (greenwashing) es un riesgo. El valor está en la **sustancia**, no en la etiqueta.
+
+**Por qué importa para el abogado.** El ESG ya **condiciona** las operaciones que estudiaste: la **due
+diligence** incluye ESG (Libro 2); el **financiamiento** se vincula a metas ESG (Libro 5); los **fondos**
+exigen ESG a sus empresas (Libro 7); las **emisoras** deben revelarlo (LMV). El abogado moderno debe
+entender el ESG para asesorar en todas ellas, asegurar el cumplimiento de la regulación emergente, y
+**proteger** a la empresa del riesgo de greenwashing. Es la frontera —y el futuro— de la práctica
+corporativa.
