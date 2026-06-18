@@ -557,3 +557,67 @@ control—); **(4)** en una venta, demostrar que se **maximizó el valor** (*Rev
 **todo** en actas. Este "**proceso fiduciario impecable**" es lo que protege al consejo (y a la operación)
 de impugnaciones y responsabilidad. Dominar esto es lo que convierte al abogado de M&A en **asesor del
 consejo** —el rol de mayor responsabilidad—.
+
+### 14.C · El compliance (el programa, anticorrupción y prevención de lavado)
+
+El **compliance** es la función que asegura que la empresa y sus directivos **operen dentro de la ley**.
+Nació ligado a la **anticorrupción** (FCPA, 1977) y, con *Caremark*, se volvió un **deber del consejo**.
+Domina su lógica: es lo que **protege** a la empresa y a quienes la dirigen de pérdidas catastróficas
+(multas, responsabilidad penal, inhabilitación, daño reputacional).
+
+**Los elementos de un programa de compliance efectivo.** Las autoridades (el DOJ de EE.UU., y en México la
+LGRA con su "política de integridad") evalúan si un programa es **real y funciona**, no si existe en papel.
+Sus elementos esenciales:
+1. **Tone at the top (compromiso de la alta dirección):** el **elemento más importante**. Sin un compromiso
+   **genuino** del consejo y la dirección con la integridad, ningún programa funciona (es papel). La cultura
+   se construye desde arriba.
+2. **Evaluación de riesgos (*risk assessment*):** identificar los **riesgos propios** del negocio (¿opera
+   en países o sectores de riesgo?, ¿hace negocios con el gobierno?, ¿usa intermediarios?). El programa
+   debe ser **proporcional al riesgo**.
+3. **Políticas y procedimientos:** las reglas claras (código de ética, política anticorrupción, de
+   regalos, de conflictos de interés, de terceros).
+4. **Capacitación y comunicación:** que la gente **conozca y entienda** las reglas (capacitación periódica,
+   adaptada a los roles de riesgo).
+5. **Canal de denuncias (*whistleblowing* / línea ética):** un mecanismo **anónimo y sin represalias** para
+   reportar conductas indebidas. Es una de las herramientas más efectivas (la mayoría de los fraudes se
+   detectan por denuncias). El comité de auditoría lo supervisa.
+6. **Investigaciones internas:** cómo se **investiga** una denuncia o sospecha (con independencia,
+   confidencialidad, debido proceso) y cómo se **corrige** (sanciones, remediación).
+7. **Debida diligencia de terceros (*third-party due diligence*):** **crucial en anticorrupción**, porque
+   el riesgo suele venir por **intermediarios** (agentes, distribuidores, consultores que pagan sobornos
+   "por cuenta" de la empresa). Hay que **investigar y vigilar** a los terceros.
+8. **Monitoreo, auditoría y mejora continua:** el programa debe **medirse, auditarse y evolucionar** (no
+   ser estático). Las autoridades premian los programas que **mejoran** tras detectar fallas.
+
+**El compliance anticorrupción (el núcleo).** Las leyes anticorrupción son el corazón del compliance
+moderno:
+- **FCPA (EE.UU.) y UK Bribery Act:** prohíben **sobornar a funcionarios** (la FCPA, a funcionarios
+  **extranjeros**; la UK Bribery Act, también el soborno **privado**), con **alcance extraterritorial** (un
+  nexo mínimo con EE.UU./RU basta para aplicarlas). Sanciones **enormes** (miles de millones en los grandes
+  casos). La FCPA también exige **controles contables** (que los libros reflejen la realidad —no "cajas
+  negras" para sobornos—).
+- **México — Ley General de Responsabilidades Administrativas (LGRA) y Sistema Nacional Anticorrupción:**
+  sancionan el cohecho y prevén la **responsabilidad de las personas morales**; clave: tener una **"política
+  de integridad"** (programa de compliance) es un **atenuante** expreso de la sanción. El **Código Penal**
+  también prevé responsabilidad penal de las personas jurídicas, con el compliance como factor.
+- **La sucesión de responsabilidad en M&A (conexión con el Libro 2):** quien **compra** una empresa que
+  incurrió en corrupción puede **heredar** la responsabilidad —por eso la **due diligence de compliance**
+  (Libro 2) es esencial, y por eso "no investigué" agrava la posición—.
+
+**La prevención de lavado de dinero (PLD/AML).** La otra gran rama: evitar que la empresa sea usada para
+**lavar** recursos de procedencia ilícita. Sus pilares: **KYC** (*Know Your Customer* —identificar y
+conocer al cliente—), monitoreo de operaciones, **reporte** de operaciones inusuales o relevantes a las
+autoridades, y controles. En México, la **LFPIORPI** (ley antilavado) impone obligaciones a actividades
+"vulnerables" y al sistema financiero.
+
+**Por qué el compliance es deber del consejo (Caremark).** Recuerda *Caremark* (14.B): los consejeros
+tienen el **deber de supervisión** —asegurar que exista un programa de compliance efectivo y atender las
+señales de alarma—. Un consejo que **ignora** el compliance puede ser **responsable**. Por eso el compliance
+no es solo cosa de un "oficial de cumplimiento": es una **responsabilidad de gobierno** que llega hasta el
+consejo. El abogado que diseña el programa y asesora al consejo sobre su deber de supervisión protege a la
+empresa **y** a sus consejeros.
+
+**El compliance como facilitador (no solo escudo).** Más allá de evitar sanciones, un buen compliance es
+una **licencia para operar**: muchas grandes empresas y fondos **no contratan ni invierten** con quien no
+tiene compliance; permite operar en mercados regulados y con socios exigentes; y es un **diferenciador
+reputacional**. El compliance bien entendido **habilita** el negocio.
