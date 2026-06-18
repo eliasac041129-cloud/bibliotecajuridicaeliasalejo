@@ -521,3 +521,67 @@ empresa a bolsa). Toda la operación —desde la compra— se diseña pensando e
 salida** en el horizonte del fondo. El abogado que entiende esto estructura **desde el inicio** pensando en
 **cómo se venderá** (que la empresa sea "vendible": gobierno limpio, contratos en orden, sin contingencias
 —la due diligence inversa—).
+
+### 14.C · El venture capital y las rondas (etapas, valuación, dilución, instrumentos)
+
+El **venture capital** invierte en empresas **jóvenes de alto crecimiento** (*startups*) tomando
+participaciones **minoritarias** en sucesivas **rondas**. Su lógica es radicalmente distinta a la del PE:
+no compra control ni usa deuda (las *startups* no tienen flujo ni activos), sino que **apuesta al
+crecimiento exponencial** de unas pocas, sabiendo que muchas fracasarán (*power law*). Domina su
+mecánica:
+
+**Las etapas (rondas) de financiación.** Una *startup* exitosa pasa por rondas sucesivas, cada una con más
+capital y (si crece) mayor valuación:
+- **Pre-seed / Semilla (*seed*):** el primer capital, para validar la idea y construir el producto. Montos
+  pequeños; inversionistas ángeles, fondos *seed*, aceleradoras. Alto riesgo, alta participación potencial.
+- **Serie A:** cuando la *startup* tiene tracción (usuarios, ingresos iniciales) y necesita capital para
+  **escalar** el modelo. Entran fondos de VC institucionales. Aquí se "profesionaliza" la estructura (term
+  sheet completo, SHA, consejo).
+- **Serie B, C, D...:** rondas sucesivas para **acelerar el crecimiento** (expandir geografías, productos,
+  equipo). Montos crecientes, valuaciones crecientes (si todo va bien), y entrada de fondos más grandes.
+- **Late stage / pre-IPO:** rondas grandes antes de una eventual salida a bolsa o venta.
+
+**La valuación: pre-money y post-money.** Concepto **fundamental** que el abogado debe dominar:
+- **Pre-money:** cuánto vale la empresa **antes** de la nueva inversión.
+- **Post-money = Pre-money + inversión.**
+- **El porcentaje del inversionista = inversión / post-money.**
+- *Ejemplo:* si una *startup* tiene un *pre-money* de 8 y el VC invierte 2, el *post-money* es 10, y el VC
+  se queda con **20%** (2/10). Los fundadores, que tenían el 100%, pasan a tener el **80%** —se
+  **diluyeron**—.
+
+**La dilución (el corazón de la matemática del cap table).** Cada vez que la empresa **emite acciones
+nuevas** (en cada ronda, o al crear el pool de opciones), los socios existentes **reducen su porcentaje**
+(aunque el **valor** de su parte puede subir si la valuación crece). Entender y proyectar la dilución a lo
+largo de las rondas es esencial: un fundador puede pasar del 100% al 20-30% tras varias rondas —pero de un
+pastel mucho más grande—. El abogado del fundador cuida que la dilución sea **razonable** y que el fundador
+conserve incentivo y (idealmente) cierto control.
+
+**El pool de opciones (ESOP).** Las *startups* reservan un porcentaje del capital (un *pool*, típicamente
+10-20%) para **incentivar a empleados** clave con opciones sobre acciones (*stock options*). Punto fino de
+negociación: el pool suele crearse (o ampliarse) **antes** de la ronda, lo que hace que **los fundadores**
+(no el nuevo inversionista) absorban su dilución (el *option pool shuffle*) —un detalle que mueve
+porcentajes y que el abogado debe vigilar—.
+
+**Los instrumentos de inversión rápida (semilla): nota convertible y SAFE.** En etapas tempranas, negociar
+una valuación es difícil (la empresa es muy incipiente). Por eso se usan instrumentos que **posponen** la
+valuación a la siguiente ronda:
+- **Nota convertible:** es **deuda** que, en lugar de pagarse, **convierte en acciones** en la siguiente
+  ronda (la Serie A), normalmente con un **descuento** (premio por entrar antes) y/o un **valuation cap**
+  (techo de valuación a la que convierte, para premiar al inversionista temprano). Devenga interés y tiene
+  vencimiento (es deuda).
+- **SAFE (*Simple Agreement for Future Equity*):** creado por Y Combinator; **no es deuda ni equity** hasta
+  que convierte; más simple que la nota (sin interés ni vencimiento). También usa **descuento** y/o **cap**.
+  Se ha vuelto el instrumento estándar de las rondas semilla (adaptado al derecho mexicano con cuidado).
+- *Por qué se usan:* permiten **invertir rápido y barato** sin pelear la valuación, dejándola para cuando
+  la empresa esté más madura (la Serie A). El abogado debe entender la **mecánica de conversión** (cómo y a
+  qué precio se vuelven acciones), que afecta el cap table.
+
+**El power law y su efecto en la negociación.** Como el VC sabe que **la mayoría de sus inversiones
+fracasarán** y que el retorno vendrá de **una o dos** que exploten, estructura sus protecciones
+(preferencias, antidilución) para los escenarios **intermedios y malos** (recuperar algo si la empresa se
+vende barato), mientras que en el escenario **bueno** (la estrella) todos ganan tanto que las protecciones
+importan menos. Esta lógica explica por qué el VC insiste en la **preferencia de liquidación** (su red de
+seguridad para los casos regulares) y por qué, a la vez, **apuesta al upside** ilimitado. El fundador y su
+abogado deben entender esta lógica para negociar: ceder lo que protege al VC en los malos escenarios (donde
+de todas formas hay poco) y pelear lo que importa en los buenos (control, dilución razonable, vesting
+justo).
