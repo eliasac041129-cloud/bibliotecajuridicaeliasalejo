@@ -437,3 +437,96 @@ y **(2)** si quieres un **bote reservado** (garantía real), debes **reservarlo 
 (perfeccionarlo e inscribirlo cuando das el crédito), porque si lo reservas cuando el barco ya se
 hunde (periodo de **retroacción**), el capitán te lo **quita**. Todo este libro enseña a navegar ese
 naufragio —y a prepararse para él **antes** de que ocurra—.
+
+
+## 16. Ejemplos simples
+
+1. **Incumplimiento generalizado.** Una empresa deja de pagar a varios proveedores y al banco; sus
+   obligaciones vencidas superan el 35% del total. Se actualiza el **presupuesto** del concurso.
+2. **Conciliación exitosa.** En el concurso, el deudor y sus acreedores acuerdan una **quita del 30%**
+   y una **espera de 3 años**; la mayoría aprueba el convenio, el juez lo **homologa** y la empresa
+   **sobrevive** (todos cobran más que si se hubiera liquidado).
+3. **Prelación.** En la quiebra, tras vender los bienes, se paga **primero** a los trabajadores
+   (salarios del último año), luego al **banco hipotecario** (sobre el inmueble hipotecado), y al
+   final, lo que sobra, a los **proveedores comunes** a prorrata.
+4. **Garantía que sí sirve.** Un banco con **hipoteca inscrita** sobre la planta cobra con
+   **preferencia** sobre el producto de su venta; un proveedor sin garantía cobra al final, casi nada.
+5. **Suspensión de ejecuciones.** Declarado el concurso, un acreedor que iba a embargar **debe
+   detenerse** y cobrar **dentro** del concurso (principio colectivo).
+
+## 17. Ejemplos complejos
+
+1. **Garantía anulada por retroacción.** Un banco, viendo a su cliente en problemas, le exige
+   **constituir una hipoteca** por un crédito que ya existía sin garantía, poco antes del concurso.
+   El conciliador/acreedores **impugnan** ese acto: constituir garantía por una deuda preexistente en
+   el **periodo de retroacción** es un acto en **fraude de la masa**; la hipoteca se declara
+   **ineficaz** y el banco baja a **quirografario**. Lección: las garantías se toman **al otorgar el
+   crédito**, no cuando el deudor ya se hunde.
+2. **Cram down (convenio que vincula a disidentes).** Un convenio de reestructura es aprobado por la
+   mayoría de los acreedores, pero un fondo (que compró deuda con descuento) **vota en contra** para
+   bloquearlo y exigir más. Aprobado por las mayorías legales y **homologado**, el convenio **vincula
+   también al fondo disidente** (*cram down*). Lección: el concurso evita que un *holdout* secuestre la
+   salvación de la empresa (a diferencia del *workout* extrajudicial, donde el disidente sí puede
+   bloquear).
+3. **Distressed M&A (compra de la empresa en concurso).** Un fondo de PE compra la **empresa como
+   unidad** dentro del concurso, "limpia" de buena parte de sus pasivos (que quedan en la masa para
+   pagarse con el precio), conservando la operación, la marca y los empleos. Lección: el concurso puede
+   ser una **oportunidad** de adquisición a precio de crisis y con activos saneados.
+4. **Conflicto laboral vs. garantía real.** El banco hipotecario y los trabajadores reclaman sobre el
+   mismo patrimonio. Los **créditos laborales** (salarios del último año) tienen **preferencia
+   destacada**; el banco cobra sobre el bien hipotecado pero **después** de la preferencia laboral
+   aplicable. Lección: la prelación no es solo "garantía real primero"; los laborales y fiscales
+   pueden anteponerse.
+
+## 18. Casos reales (jurisprudencia y operaciones estilizadas)
+
+- **Grandes concursos mexicanos (estilizados):** reestructuras de grandes corporativos (vía concurso o
+  *workout*) han mostrado el uso de la conciliación, los planes prepactados y el financiamiento durante
+  el concurso para preservar empresas viables y miles de empleos.
+- **Chapter 11 (EE. UU.) como referente:** reorganizaciones célebres (aerolíneas, automotrices) bajo
+  Chapter 11 ilustran el modelo *debtor in possession* y el *DIP financing* que inspiraron las reformas
+  mexicanas.
+- **Retroacción y actos en fraude:** criterios sobre la **ineficacia** de garantías y pagos
+  preferentes realizados en el periodo de retroacción.
+- **Preferencia laboral:** criterios que confirman la **preferencia** de los créditos laborales
+  (salarios e indemnizaciones) en el concurso.
+
+> *Nota de método (Manifiesto XI.5):* verificar la vigencia y los datos de los casos y normas antes de
+> invocarlos; se exponen por su valor formativo.
+
+## 19. Casos empresariales
+
+- **Reestructura para sobrevivir:** una empresa con un buen negocio pero **sobreendeudada** usa la
+  conciliación (o un *workout*) para reducir y reprogramar su deuda y seguir operando.
+- **Financiamiento de la operación durante el concurso:** la empresa obtiene crédito (con preferencia)
+  para seguir produciendo mientras se reestructura, evitando que se "muera" en el proceso.
+- **Protección preventiva del acreedor:** un banco diseña su crédito con **garantías reales
+  perfeccionadas y oportunas** (no en la víspera de la crisis) para asegurar su prelación si el deudor
+  cae en concurso.
+
+## 20. Casos corporativos (en transacciones)
+
+- **Distressed M&A:** comprar activos o la empresa en concurso, "limpios" de pasivos, a precio de
+  crisis (estrategia de PE/special situations — Nivel IV).
+- **Loan-to-own (distressed debt):** un fondo compra la **deuda** con descuento, vota en la
+  reestructura, **convierte deuda en capital** y se queda con el control de la empresa.
+- **Due diligence de riesgo concursal:** evaluar la salud financiera de la *target* y de sus
+  contrapartes clave, y el riesgo de que actos previos (garantías, transmisiones) sean impugnables por
+  retroacción.
+- **Cláusulas de protección:** en contratos y financiamientos, prever el escenario de insolvencia de la
+  contraparte (garantías, *set-off*, *ipso facto clauses* —con sus límites—, *change of control*).
+
+## 21. Casos internacionales
+
+- **Insolvencia transfronteriza (Ley Modelo UNCITRAL):** cuando una multinacional quiebra en varios
+  países, se coordinan los procedimientos: se reconoce el procedimiento **principal** (donde el deudor
+  tiene su centro de intereses principales —**COMI**—) y se coopera con los **secundarios**. México
+  incorporó la Ley Modelo en la LCM.
+- **Chapter 11 vs. concurso mexicano:** el Chapter 11 (EE. UU.) es el referente del concurso
+  reorganizativo (*debtor in possession*, *DIP financing*, *cram down*); el concurso mexicano comparte
+  su filosofía conservativa.
+- **Reestructuras cross-border:** las grandes reestructuras de deuda internacional combinan
+  procedimientos en varias jurisdicciones, acuerdos entre acreedores (*intercreditor*) y, a veces,
+  *schemes of arrangement* (Reino Unido) o Chapter 11.
+- **Forum shopping concursal:** las empresas a veces eligen la jurisdicción de reestructura más
+  favorable (Reino Unido, EE. UU.) —fenómeno que la cooperación internacional busca ordenar—.
