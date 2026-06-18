@@ -58,7 +58,7 @@ integridad. Este archivo es el tablero de control.
 | 1 | Fundamentos de M&A | ✅ | 5–6 sem |
 | 2 | Due Diligence | ✅ | 4–5 sem |
 | 3 | Estructuras: fusiones, escisiones, adquisiciones | ✅ | 5–6 sem |
-| 4 | Documentación: Term Sheet, SPA, APA, SHA | ⬜ | 6–8 sem |
+| 4 | Documentación: Term Sheet, SPA, APA, SHA | ✅ | 6–8 sem |
 | 5 | Derecho Bancario y Financiamiento Corporativo | ⬜ | 6–7 sem |
 | 6 | Contratos Estratégicos y Joint Ventures | ⬜ | 4–5 sem |
 | 7 | Private Equity y Venture Capital | ⬜ | 6–8 sem |
