@@ -403,3 +403,86 @@ Fija este vocabulario; es el idioma del financiamiento y dialoga con el del M&A 
   **trustee/representante común**, **covenants** del bono.
 
 Con este vocabulario, entramos al **desarrollo absoluto**.
+
+## 14. Desarrollo absoluto
+
+Esta es la sección central. La desarrollamos en cinco bloques: **(A)** el **contrato de crédito** —su
+anatomía, reps, covenants y eventos de incumplimiento—; **(B)** las **garantías** —reales y personales— y
+el **paquete de garantías**; **(C)** el **crédito sindicado** —cómo prestan muchos bancos juntos—; **(D)**
+el **project finance y el acquisition finance/LBO** —las dos grandes estructuras—; y **(E)** los **bonos y
+el mercado de deuda**. Estúdialos en orden: primero el contrato base, luego cómo se asegura (garantías),
+después cómo se reparte (sindicación), las estructuras avanzadas, y al final la deuda de mercado.
+
+### 14.A · El contrato de crédito (el *facilities agreement* por dentro)
+
+El contrato de crédito —en su versión sofisticada, el ***facilities agreement***— es al financiamiento lo
+que el SPA es al M&A: el documento rey. Si dominaste el SPA (Libro 4), reconocerás su arquitectura, porque
+ambos son **sistemas de asignación de riesgo en el tiempo**. Sus piezas:
+
+**1) Las definiciones y la facilidad.** Define el **tipo y monto** del crédito y cómo funciona:
+- ***Term loan* (a plazo):** se dispone (una o varias veces) y se **amortiza** según un calendario (en
+  cuotas o *bullet* —todo al vencimiento—). Típico para inversión (CapEx) y adquisiciones.
+- ***Revolving* (revolvente):** una línea de la que el deudor **dispone, paga y vuelve a disponer** hasta
+  un límite. Típico para capital de trabajo.
+- ***Bridge* (puente):** financiamiento **temporal** que se repaga con un financiamiento permanente
+  posterior (p. ej., un *bridge* para cerrar rápido una adquisición, refinanciado luego con bonos).
+- **Tramos (*tranches*):** un mismo contrato puede tener varios (un *term* para la adquisición, un
+  *revolving* para operación).
+
+**2) Las disposiciones, intereses y pagos.** Cómo se toma y se devuelve el dinero:
+- **Disposición (*drawdown*):** condiciones y mecánica para tomar el crédito.
+- **Interés:** **tasa de referencia** (TIIE en México, SOFR en USD) **+ *spread*** (el margen según el
+  riesgo del deudor; a veces el spread **baja** si mejoran los ratios —*margin ratchet*—).
+- **Amortización y prepago:** calendario de pago; reglas de **prepago voluntario** (a veces con
+  penalización —*make-whole*—) y **prepago obligatorio** (con ciertos eventos: venta de activos, exceso de
+  caja, emisión de deuda nueva —*mandatory prepayment*—).
+- **Comisiones:** apertura, disponibilidad (*commitment fee* sobre lo no dispuesto), agencia.
+
+**3) Las representations & warranties del deudor.** Igual que en el SPA: declaraciones sobre su existencia
+legal, capacidad, que no hay litigios ni incumplimientos ocultos, que su información financiera es veraz,
+que no está en insolvencia. Su falsedad es un **evento de incumplimiento**.
+
+**4) Los covenants (el corazón del control del acreedor).** Aquí está la mayor diferencia de énfasis con el
+SPA: en el crédito, los covenants son **intensísimos** porque el acreedor vigila al deudor durante **toda
+la vida** del préstamo. Tres familias:
+- **Afirmativos (obligaciones de hacer):** entregar **estados financieros** y reportes de cumplimiento
+  periódicos, mantener su existencia, **seguros**, licencias y permisos, pagar impuestos, permitir
+  inspecciones, dar aviso de problemas.
+- **Negativos (prohibiciones):** **no endeudarse más** allá de ciertos límites, **no otorgar garantías** a
+  otros acreedores (***negative pledge***: "no le des a otro una garantía mejor que la mía"), **no vender**
+  activos clave, **no fusionarse ni reestructurarse** sin consentimiento, **no repartir dividendos** por
+  encima de límites, **no cambiar el giro**, no hacer adquisiciones o inversiones grandes.
+- **Financieros (*financial covenants*): los más característicos.** Obligan a mantener **ratios** que
+  miden la salud financiera, calculados periódicamente:
+  - **Apalancamiento (*Leverage*: Deuda/EBITDA):** la deuda no debe exceder X veces la utilidad operativa.
+  - **Cobertura de intereses (*Interest Coverage*: EBITDA/Intereses):** la utilidad debe cubrir los
+    intereses al menos X veces.
+  - **Cobertura del servicio de deuda (*DSCR*):** el flujo debe cubrir el servicio total (principal +
+    intereses) —clave en *project finance*—.
+  - A veces capital de trabajo mínimo, deuda neta máxima, *gearing*, etc.
+  > Los covenants financieros son el **tablero de salud** del deudor: si los rompe (un *breach*), el
+  > acreedor tiene una **alerta temprana** y puede actuar **antes** de que el deudor caiga en impago. Son
+  > la diferencia entre un acreedor que reacciona a tiempo y uno que se entera cuando ya no hay nada que
+  > rescatar.
+
+**5) Los events of default (eventos de incumplimiento) y la aceleración.** La pieza de cierre: los hechos
+que permiten al acreedor **acelerar** (declarar exigible **toda** la deuda de inmediato) y **ejecutar
+garantías**:
+- **No pago** (de principal o intereses).
+- **Incumplimiento de covenants** (especialmente los financieros).
+- **Falsedad de una rep.**
+- ***Cross-default* / *cross-acceleration*:** si el deudor incumple **otra** deuda, también incumple esta
+  (para que un acreedor no se quede atrás mientras otros aceleran).
+- **Insolvencia / concurso** del deudor.
+- ***Material Adverse Change*** (cambio adverso relevante) y **cambio de control** (*change of control*:
+  si el deudor cambia de dueño, el acreedor puede exigir el pago —eco directo del Libro 2—).
+
+**6) El *boilerplate*:** ley aplicable, **arbitraje/jurisdicción**, agente, cesión de la participación
+(los bancos pueden **vender** su parte del crédito en el mercado secundario), notificaciones.
+
+**Idea integradora:** observa el paralelismo con el SPA y la diferencia de énfasis. El SPA asigna el riesgo
+del **pasado** de la empresa (reps fuertes, indemnización). El contrato de crédito asigna el riesgo del
+**futuro** del deudor (covenants intensos, monitoreo continuo, aceleración). El SPA mira hacia atrás; el
+crédito, hacia adelante. Pero ambos usan la **misma gramática**: reps, covenants, condiciones, eventos de
+incumplimiento. Dominada una, la otra se aprende rápido —y juntas te dan la visión completa de la
+operación—.
