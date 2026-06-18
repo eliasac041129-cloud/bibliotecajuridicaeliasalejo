@@ -52,15 +52,17 @@ integridad. Este archivo es el tablero de control.
 | 7 | Gobierno corporativo (mercantil) | ✅ | 4 sem |
 
 ## Nivel IV · Corporate Law — (estándar V3)
-**⏱ Dominio del nivel: ~8–10 meses** (el corazón del objetivo)
+**⏱ Dominio del nivel: ~11–14 meses** (el corazón del objetivo — ampliado al perfil del lector: estructuración de operaciones complejas, M&A, gobierno corporativo, financiamiento empresarial y contratos estratégicos)
 | # | Tratado | Estado | ⏱ Dominio |
 |---|---------|--------|-----------|
 | 1 | Fundamentos de M&A | ✅ | 5–6 sem |
 | 2 | Due Diligence | ✅ | 4–5 sem |
 | 3 | Estructuras: fusiones, escisiones, adquisiciones | ✅ | 5–6 sem |
 | 4 | Documentación: Term Sheet, SPA, APA, SHA | ⬜ | 6–8 sem |
-| 5 | Private Equity y Venture Capital | ⬜ | 6–8 sem |
-| 6 | Gobierno corporativo avanzado, Compliance y ESG | ⬜ | 5–6 sem |
+| 5 | Derecho Bancario y Financiamiento Corporativo | ⬜ | 6–7 sem |
+| 6 | Contratos Estratégicos y Joint Ventures | ⬜ | 4–5 sem |
+| 7 | Private Equity y Venture Capital | ⬜ | 6–8 sem |
+| 8 | Gobierno corporativo avanzado, Compliance y ESG | ⬜ | 5–6 sem |
 
 ## Nivel V · Maestría — (estándar V3)
 **⏱ Dominio del nivel: ~6–8 meses**
