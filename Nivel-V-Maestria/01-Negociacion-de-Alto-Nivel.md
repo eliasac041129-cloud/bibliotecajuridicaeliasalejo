@@ -1280,3 +1280,149 @@ PREPARAR (intereses, BATNAs, ZOPA, opciones, criterios, setup)
 - **El cierre:** *"no busques firmar, busca que se cumpla"*.
 - **Regla de oro:** *"el mejor negociador no es el más duro: es el más preparado y el que mejor entiende los
   intereses —y tiene el mejor BATNA"*.
+
+## 40. Resumen ejecutivo
+
+La **negociación** es el proceso de comunicación por el cual partes con intereses parcialmente comunes y
+parcialmente opuestos buscan un acuerdo —y es la habilidad **transversal por excelencia** del abogado de
+negocios, porque **toda** operación, contrato y conflicto se negocia—. Su **geometría** se compone de:
+**intereses** (lo que se necesita, frente a las **posiciones** —lo que se pide—), el **BATNA** (la mejor
+alternativa sin acuerdo, que es la **fuente real del poder** y el estándar de decisión), el **punto de
+reserva** (el peor acuerdo aceptable) y la **ZOPA** (el rango donde hay acuerdo posible). La negociación
+tiene **dos tareas** en tensión (el **dilema del negociador**): **crear valor** (agrandar el pastel con
+intercambios basados en intereses y diferencias) y **reclamar valor** (repartirlo con anclaje, concesiones y
+criterios). El método de **Harvard** (*principled negotiation*) la conduce: **separar a las personas del
+problema, centrarse en intereses, generar opciones de beneficio mutuo e insistir en criterios objetivos**.
+A esto se suman el dominio del **poder** (BATNA, información, tiempo), la **psicología** (anclaje, aversión
+a la pérdida y demás sesgos; las emociones), las **tácticas** (y sus defensas), y el ***deal-making***
+(*setup*, *deal design* y táctica) —incluida la peculiaridad de negociar como **agente** (el abogado por su
+cliente)—.
+
+Las lecciones rectoras: **la negociación se gana en la preparación**; el **poder viene del BATNA** (mejóralo
+antes de sentarte); **crea valor antes de reclamar** (pero sabe reclamar tu parte justa); negocia con
+**firmeza e integridad** (la reputación es un activo estratégico); **no cierres** un acuerdo peor que tu
+BATNA; y **domina la negociación practicando** (es habilidad, no talento innato). Para el abogado
+corporativo, la negociación es lo que **pone en movimiento** todo el conocimiento jurídico: convierte el
+derecho y la estructura del Nivel IV en **acuerdos reales que crean valor para el cliente**. El que solo
+redacta es escribano; el que **negocia** es arquitecto de acuerdos. Por eso abre el Nivel V —la maestría—:
+porque transforma al técnico jurídico en **asesor estratégico de negocios**.
+
+## 41. Checklist
+
+**Preparación (antes de negociar):**
+- [ ] ¿Identifiqué los **intereses** reales de mi cliente (y estimé los del otro)?
+- [ ] ¿Cuál es **mi BATNA**? ¿Lo puedo **mejorar**? ¿Cuál estimo que es el **BATNA del otro**?
+- [ ] ¿Cuál es mi **punto de reserva** (*walk-away*)? ¿Hay **ZOPA**? ¿Dónde?
+- [ ] ¿Qué **intercambios** podrían **crear valor** (prioridades, valoraciones, riesgo, tiempo,
+  expectativas)?
+- [ ] ¿Qué **criterios objetivos** legitiman mi posición?
+- [ ] ¿Cómo diseño el ***setup*** (quién, secuencia, lugar, plazos) y mi **primera oferta/concesiones**?
+- [ ] (Como agente) ¿Tengo claras las **instrucciones, prioridades y autoridad** de mi cliente?
+
+**En la mesa:**
+- [ ] ¿Estoy negociando **intereses** (no posiciones)? ¿Separo **persona y problema**?
+- [ ] ¿**Creo valor** (opciones, intercambios) antes de pelear el reparto? ¿Manejo el **dilema** (apertura
+  recíproca, protejo mi reserva)?
+- [ ] ¿**Reclamo** con criterios objetivos y manejo de concesiones?
+- [ ] ¿Reconozco y **neutralizo** tácticas duras (anclas extremas, ultimátums, *nibbling*)?
+- [ ] ¿Manejo las **emociones** (las mías y las del otro) y cuido el "rostro"?
+
+**Cierre:**
+- [ ] ¿La oferta supera mi **BATNA**? (si no, **me retiro**)
+- [ ] ¿Diseñé el acuerdo para que se **cumpla** (no solo se firme) y **documenté** con precisión?
+- [ ] ¿Preservé la **relación** y mi **reputación**?
+- [ ] ¿**Reflexioné** después (qué aprendí para la próxima)?
+
+## 42. Bibliografía comentada
+
+- **Fisher, Ury & Patton, *Getting to Yes* (Sí... ¡de acuerdo!).** **Imprescindible y punto de partida:**
+  la *principled negotiation* (intereses, opciones, criterios, BATNA). El libro de negociación más
+  influyente.
+- **William Ury, *Getting Past No* (Supere el no).** Negociar con contrapartes difíciles, tácticas duras y
+  mala fe.
+- **Subramanian, *Dealmaking*.** El *deal-making* en operaciones complejas (setup, deal design, táctica);
+  muy relevante para M&A y tu perfil.
+- **Lax & Sebenius, *3-D Negotiation* / *The Manager as Negotiator*.** Las tres dimensiones y el manejo del
+  dilema crear/reclamar valor.
+- **Kahneman, *Thinking, Fast and Slow*.** Los sesgos cognitivos que afectan la negociación (anclaje,
+  aversión a la pérdida).
+- **Bazerman & Neale, *Negotiating Rationally*.** La psicología y los errores de juicio en la negociación.
+- **Voss, *Never Split the Difference*.** Perspectiva táctica/emocional; complemento práctico.
+- **Doctrina civil sobre buena fe precontractual, dolo y responsabilidad precontractual.** El marco
+  **jurídico** mexicano de la negociación.
+
+## 43. Ruta hacia el siguiente libro
+
+Ya dominas el **arte de llegar al acuerdo**. Pero para negociar bien una operación, hay que **saber cuánto
+vale** lo que se negocia y **entender los números** del negocio —el lenguaje en que piensan los empresarios,
+los banqueros y los fondos—. Ese es el siguiente paso de la maestría.
+
+- **Siguiente libro:** *[Libro 2 · Finanzas y Contabilidad para Abogados](./02-Finanzas-y-Contabilidad-para-Abogados.md)* —
+  cómo leer **estados financieros** (balance, resultados, flujo de efectivo), los conceptos clave de
+  finanzas (valor del dinero en el tiempo, riesgo y rendimiento, costo de capital, EBITDA, deuda neta,
+  capital de trabajo), y cómo "**hablar el idioma de los números**" para dialogar de igual a igual con CFOs,
+  banqueros y fondos. Es la base para la **valuación** (Libro 3) y para entender el fondo económico de cada
+  operación.
+- **Conexión inmediata:** en la negociación viste que el poder depende del **valor** (¿cuánto vale
+  realmente lo que se compra/vende?) y que los **criterios objetivos** de precio (comparables, múltiplos)
+  son clave; el Libro 2 te da las **herramientas** para entender y calcular ese valor —y para no negociar a
+  ciegas sobre números que no comprendes—.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque la negociación es lo que **convierte el conocimiento jurídico en resultados**: el abogado que domina
+la ley y la redacción pero **no sabe negociar** es un técnico que ejecuta lo que otros deciden; el que
+**negocia** da forma al acuerdo y captura valor para su cliente. Es una habilidad **transversal y permanente**
+—la usarás en cada deal, cada contrato, cada disputa y cada relación profesional, toda tu carrera— y es
+**valor medible**: en una operación de cientos de millones, negociar mejor significa millones para el
+cliente. Para tu perfil (operaciones complejas, M&A, financiamiento, contratos estratégicos), la negociación
+es **omnipresente**: cada cláusula del Nivel IV —el precio, las reps, los vetos, las salidas, los covenants—
+se **negocia**. El abogado que la domina **lidera** la mesa, dialoga de igual a igual con banqueros, fondos
+y CEOs, y es buscado para las operaciones más complejas. Y desarrolla las habilidades del **socio de un
+despacho internacional**: empatía, comunicación, estrategia, autocontrol y criterio —las que distinguen al
+asesor de confianza del simple técnico—.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+> *"Antes de cualquier negociación importante, hago dos cosas que el abogado junior subestima. Primero,
+> **preparo obsesivamente**: escribo los intereses de mi cliente y los que imagino del otro, calculo
+> **mi BATNA y el suyo** (porque ahí está el poder real —no en quién grita más—), defino el **punto de
+> reserva** y busco dónde **crear valor** (¿qué le importa al otro que a mí me cuesta poco, y viceversa?).
+> El que llega con esto hecho **conduce** la negociación; el que improvisa, reacciona. Segundo, pienso en
+> el ***setup***: a veces gano el deal **antes** de negociar el fondo —montando una subasta en vez de una
+> bilateral, o eligiendo con quién y en qué orden hablo—. En la mesa, mi regla es **'duro con el problema,
+> suave con la persona'**: peleo cada punto con firmeza, pero jamás humillo a la contraparte, porque el
+> mundo es pequeño y mañana negocio otra vez con esa persona. **Creo valor primero** (agrando el pastel con
+> intercambios) y **reclamo después** (con criterios objetivos, no a la fuerza). Y nunca, **nunca**, cierro
+> un acuerdo peor que el BATNA de mi cliente por la euforia de 'cerrar algo'. Lo último: negocio con
+> **integridad absoluta** —puedo no revelar, pero no miento—, porque mi reputación de palabra cumplida es
+> el activo más valioso que tengo. Un engaño gana una negociación y pierde una carrera."*
+
+## ✦ Errores que cuestan millones
+
+1. **No prepararse.** Llegar a negociar sin conocer intereses, BATNAs y ZOPA → ceder de más, perderse la
+   creación de valor, no saber cuándo irse. *Prevención:* preparación rigurosa y escrita.
+2. **Ver todo como suma cero.** Solo regatear el precio, sin crear valor → dejar dinero sobre la mesa y
+   dañar la relación. *Prevención:* explorar intereses e intercambios antes de repartir.
+3. **Negociar sin BATNA (o sin conocer el del otro).** Negociar "de rodillas" por necesidad, o no saber
+   cuándo levantarse. *Prevención:* identificar y **mejorar** el BATNA antes de sentarse.
+4. **Cerrar por escalada del compromiso.** Aceptar un mal acuerdo "porque ya invertí mucho" o por la euforia
+   del cierre. *Prevención:* respetar el *walk-away*; no casarse con cerrar.
+5. **Ganar la negociación y perder la relación o la reputación.** Aplastar o engañar al otro → incumplimiento,
+   represalias, mala fama que te persigue. *Prevención:* firmeza con integridad; deja al otro una salida
+   digna.
+
+---
+
+> *Cierre del Libro 1 y apertura del Nivel V.* Has dado el primer paso de la **maestría**: dominar el arte
+> de **llegar al acuerdo**. Ya no eres solo quien conoce la ley y redacta el contrato; eres quien sabe
+> **negociarlo** —preparar, crear y reclamar valor, manejar el poder y la psicología, y cerrar acuerdos que
+> perduran—. La negociación es la habilidad que **pone en movimiento** todo lo que aprendiste en cuatro
+> niveles: convierte el conocimiento en **influencia y resultados** para tu cliente. Pero para negociar bien
+> una operación hay que **entender sus números** y **saber cuánto vale** lo que está en juego. Por eso
+> avanzamos al **Libro 2 · Finanzas y Contabilidad para Abogados**, donde aprenderás a leer estados
+> financieros y a hablar el idioma de los números —la base para dialogar de igual a igual con CFOs,
+> banqueros y fondos, y para no negociar nunca a ciegas—. El asesor estratégico de negocios que quieres ser
+> está tomando forma.
