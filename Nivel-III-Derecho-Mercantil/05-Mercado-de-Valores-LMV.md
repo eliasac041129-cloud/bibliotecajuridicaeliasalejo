@@ -282,3 +282,143 @@ consigue mucho capital, pero a cambio debe ser **transparente** y tener **buen g
 - **OPA (Oferta Pública de Adquisición):** oferta dirigida a los accionistas de una emisora para
   **adquirir** sus acciones (típicamente para tomar el **control**); puede ser **voluntaria** u
   **obligatoria** (al rebasar ciertos umbrales de control), y **amistosa** u **hostil**.
+
+
+## 14. Desarrollo absoluto
+
+Lo organizamos en: (A) la estructura del mercado y sus participantes; (B) los instrumentos; (C) la
+oferta pública y la **IPO** (paso a paso); (D) la **S.A.B.** y su gobierno corporativo reforzado; (E)
+el régimen de **información y conducta** (disclosure, insider trading, manipulación); (F) el **M&A
+público**: la **OPA**.
+
+### 14.A · La estructura del mercado y sus participantes
+
+- **Emisoras:** las empresas (S.A.B.) o entidades (gobierno, fideicomisos) que **emiten** valores.
+- **Inversionistas:** desde el pequeño ahorrador hasta los **institucionales** (Afores, fondos,
+  aseguradoras) e **inversionistas calificados** (con cierto patrimonio/sofisticación, sujetos a menos
+  protección).
+- **Intermediarios:** las **casas de bolsa** (ejecutan operaciones, asesoran, colocan) y los **bancos
+  de inversión** (estructuran IPOs, emisiones, M&A).
+- **Bolsas:** **BMV** y **BIVA** (mercados organizados donde se negocian los valores).
+- **Indeval (S.D. Indeval):** la institución para el **depósito, custodia, administración y
+  liquidación** de valores; hace posible la **desmaterialización** (los valores son anotaciones en
+  cuenta, no papeles —conexión con el Libro 3—).
+- **CNBV:** el **regulador y supervisor** (autoriza ofertas, inscribe en el RNV, supervisa, sanciona).
+- **Banxico y SHCP:** política monetaria, sistemas de pago y rectoría financiera.
+
+### 14.B · Los instrumentos (qué se emite y negocia)
+
+- **Capital — acciones:** representan participación en la S.A.B.; el inversionista es **socio** (con
+  derechos del Libro 2 Nivel III, adaptados al entorno bursátil).
+- **Deuda — certificados bursátiles (CEBURES) y obligaciones:** la emisora pide prestado al público;
+  el inversionista es **acreedor** (cobra intereses). Alternativa al crédito bancario, a menudo más
+  barata para grandes emisores.
+- **Estructurados y vehículos de inversión:**
+  - **FIBRAS** (Fideicomisos de Inversión en Bienes Raíces): bursatilizan **rentas inmobiliarias**;
+    el inversionista recibe la renta de un portafolio de inmuebles (análogo a los REITs).
+  - **CKDs / CERPIs** (Certificados de Capital de Desarrollo / de Proyectos de Inversión): vehículos
+    para canalizar capital —incluidas las **Afores**— hacia **private equity**, infraestructura y
+    proyectos de largo plazo. (Conexión directa con el Nivel IV: PE.)
+- **Derivados:** futuros, opciones, swaps (cobertura y especulación; mercado especializado —MexDer—).
+
+### 14.C · La oferta pública y la IPO (paso a paso)
+
+La **IPO** (salida a bolsa) es una de las operaciones más complejas del derecho corporativo. Fases:
+1. **Decisión y preparación:** la empresa decide salir a bolsa; se **reorganiza** (suele convertirse
+   primero en **S.A.P.I.B.** y luego **S.A.B.**), adopta gobierno corporativo y limpia su estructura.
+2. **Due diligence:** los intermediarios y abogados revisan **a fondo** la empresa (legal, financiera,
+   fiscal) para sustentar el prospecto —la veracidad del *disclosure* depende de esto—.
+3. **Prospecto de colocación:** se redacta el documento que describe la empresa, su negocio, sus
+   **factores de riesgo** y la oferta. Es el corazón del *disclosure*.
+4. **Inscripción en el RNV y autorización de la CNBV:** la CNBV revisa y autoriza la oferta; se
+   gestiona el **listado** en la bolsa (BMV/BIVA).
+5. **Underwriting (colocación):** los intermediarios colocan las acciones entre los inversionistas;
+   *roadshow*, formación del libro (*book-building*) y fijación del **precio**.
+6. **Listado y mercado secundario:** las acciones empiezan a cotizar; la empresa queda sujeta al
+   *disclosure* continuo y al escrutinio del mercado.
+
+> **Cómo razona un socio (IPO).** *"Una IPO es 30% finanzas y 70% **disclosure y gobierno
+> corporativo**. Mi trabajo es: (i) reorganizar a la empresa en una **S.A.B.** con gobierno
+> impecable (consejo, independientes, comités); (ii) dirigir una due diligence brutal, porque el
+> **prospecto** debe ser veraz —si oculta un riesgo material, hay responsabilidad civil y penal—;
+> (iii) redactar los **factores de riesgo** con honestidad quirúrgica; y (iv) preparar a la empresa
+> para vivir bajo el escrutinio permanente del mercado. El día del listado, la empresa cambia de
+> naturaleza: pasa a ser **pública**, y eso es irreversible en su cultura."*
+
+### 14.D · La S.A.B. y el gobierno corporativo reforzado
+
+Ser pública impone un **gobierno corporativo robusto** (LMV, arts. 22 y ss.), mucho más exigente que
+el de la S.A. privada (Libro 2 Nivel III):
+- **Consejo de administración** con un mínimo de **consejeros independientes** (al menos el 25%): la
+  independencia busca proteger a los **minoritarios** y resolver el problema de agencia.
+- **Comité de auditoría** (integrado por independientes): vigila la información financiera, el control
+  interno y la auditoría externa.
+- **Comité de prácticas societarias** (independientes): vigila operaciones con partes relacionadas,
+  compensaciones y conflictos de interés.
+- **Director general** con deberes y responsabilidad propios.
+- **Deberes fiduciarios agravados:** deber de **diligencia** (actuar informadamente, de buena fe, en
+  el interés social — protegido por la **regla de juicio de negocio**/*business judgment rule*) y
+  deber de **lealtad** (evitar conflictos, no usar información ni oportunidades de la sociedad, no
+  favorecerse en operaciones con partes relacionadas). Su incumplimiento genera **responsabilidad**.
+- **Operaciones con partes relacionadas:** sujetas a revelación, aprobación reforzada y revisión del
+  comité de prácticas societarias (zona de máximo riesgo de abuso).
+
+### 14.E · El régimen de información y conducta (el corazón del derecho bursátil)
+
+- **Disclosure inicial y continuo:** el prospecto (inicial) y la **revelación de eventos relevantes**
+  (continua): la emisora debe informar, veraz y oportunamente, todo hecho que pueda **influir en el
+  precio** del valor (resultados, contratos relevantes, cambios de control, litigios, M&A).
+- **Información privilegiada (*insider trading*):** está **prohibido** operar valores (o recomendar
+  hacerlo) usando información **relevante y no pública**. Es **delito** y falta administrativa.
+  Ejemplo: un directivo que compra acciones sabiendo de una fusión no anunciada.
+- **Manipulación de mercado:** operaciones simuladas, información falsa o esquemas para alterar
+  artificialmente el precio o el volumen; **prohibida** y sancionada.
+- **Deber de los intermediarios:** conocer al cliente, idoneidad de las recomendaciones, prevención de
+  conflictos y de lavado de dinero.
+*Por qué es el corazón:* el mercado vive de la **confianza**, y la confianza vive de la
+**información veraz** y de la **igualdad** entre inversionistas (nadie con ventaja indebida). Por eso
+el *disclosure*, el *insider trading* y la manipulación son las materias de **máximo riesgo** —civil,
+administrativo y penal— y el centro del **compliance** financiero.
+
+### 14.F · El M&A público: la Oferta Pública de Adquisición (OPA)
+
+Cuando se quiere **adquirir el control** de una emisora (sociedad pública), no se negocia solo con un
+vendedor: hay que dirigirse a **todos los accionistas** mediante una **OPA** (arts. 92 y ss. LMV):
+- **OPA voluntaria:** quien quiere comprar lanza una oferta a los accionistas.
+- **OPA obligatoria (*forzosa*):** al pretender rebasar ciertos **umbrales de control** (típicamente
+  el 30% o la toma de control), la ley **obliga** a lanzar una OPA por un porcentaje significativo (a
+  menudo el 100% o un mínimo), para que **los minoritarios** puedan **salir** en las mismas
+  condiciones que el adquirente (protección de minorías; *equal treatment*).
+- **OPA amistosa vs. hostil:** con el acuerdo del consejo de la *target* (amistosa) o contra su
+  voluntad (**hostil**, dirigida directamente a los accionistas).
+- **Defensas y deberes del consejo:** ante una OPA hostil, el consejo de la *target* debe actuar en el
+  **interés social** y de los accionistas (no atrincherarse para conservar su puesto); emite una
+  **opinión** sobre la oferta (a veces con *fairness opinion*). (Las defensas anti-OPA y los
+  estándares de revisión —Revlon, Unocal— se profundizan en el Nivel IV.)
+
+> **Conexión con el Nivel IV:** la OPA es el **M&A de empresas públicas**. Las tomas de control, las
+> fusiones de emisoras y las defensas anti-adquisición son de las operaciones más sofisticadas y
+> mediáticas, y se rigen por la LMV + el derecho societario + el de competencia. Aquí confluyen todos
+> los libros previos.
+
+## 15. Explicación intuitiva
+
+Imagina que tu empresa es un restaurante muy exitoso y quieres abrir **cien sucursales**, pero
+necesitas una fortuna que ningún banco te presta. Solución: **vender pedacitos del restaurante al
+público**. Eso es **salir a bolsa (IPO)**: divides la empresa en **acciones** y las ofreces a miles de
+personas; a cambio de su dinero, se vuelven **dueños de un pedacito** y pueden **revender** su pedacito
+a otros en un "mercado" (la **bolsa**).
+
+Pero hay un problema: esas miles de personas **no conocen** tu restaurante. ¿Cómo confían? La ley
+resuelve con tres reglas de oro: **(1)** debes **decir toda la verdad** en un documento llamado
+**prospecto** (cómo va el negocio, cuánto ganas, qué riesgos hay); **(2)** está **prohibido hacer
+trampa** con información secreta (si sabes que vas a anunciar algo bueno y compras acciones antes, eso
+es ***insider trading***, delito) o inflar el precio artificialmente; y **(3)** un **árbitro** (la
+**CNBV**) vigila todo. A cambio del dinero del público, tu restaurante deja de ser "tuyo y privado":
+se vuelve una **S.A.B.**, con un **consejo** que incluye **personas independientes**, **comités** que
+vigilan, y la obligación de **informar siempre** al mercado.
+
+Y si alguien quiere **comprar todo tu restaurante** cuando ya es público, no puede negociar solo
+contigo: debe ofrecer comprar a **todos los dueñitos** en las mismas condiciones (eso es la **OPA**).
+Todo este libro trata de cómo funciona esa "feria del dinero" y cómo el derecho la mantiene
+**confiable** con información, vigilancia y buen gobierno.
