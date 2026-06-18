@@ -447,3 +447,96 @@ El abogado corporativo es quien **combina** estas herramientas: una adquisición
 **compraventa** (de acciones) financiada con un **mutuo/crédito**, firmada mediante **poderes** de
 dominio, y **garantizada** con prenda sobre las acciones e hipoteca sobre los inmuebles. Todo el
 *deal*, desarmado, son **contratos típicos** ensamblados con maestría.
+
+
+## 16. Ejemplos simples
+
+1. **Compraventa con consensualismo.** A vende a B su automóvil; acuerdan cosa y precio. Aunque B
+   no haya pagado ni recibido el coche, **la propiedad ya es de B** (art. 2014), salvo pacto en
+   contrario. Si un tercero choca el coche, el riesgo lo corre B (es dueño).
+2. **Saneamiento por vicios ocultos.** B compra una maquinaria que, semanas después, resulta tener
+   un defecto de fábrica oculto que la inutiliza. B puede **rescindir** (devolver y recuperar el
+   precio) o pedir **reducción** del precio.
+3. **Mutuo con interés.** Banco presta $100,000 a 12% anual; el cliente devuelve el capital más los
+   intereses. Si la tasa fuera, por ejemplo, del 200% anual, un juez podría **reducirla** por
+   usura.
+4. **Poder insuficiente.** Un apoderado con poder solo para **administración** firma la **venta**
+   de un inmueble de la empresa. El acto es **ineficaz** frente a la sociedad (faltó poder de
+   **dominio**), salvo ratificación.
+5. **Fianza.** El padre **afianza** el crédito de su hijo. Si el hijo no paga y el padre renunció a
+   los beneficios de orden y excusión, el acreedor puede cobrarle **directamente** al padre.
+
+## 17. Ejemplos complejos
+
+1. **Reserva de dominio en venta a plazos.** Una distribuidora vende maquinaria "con **reserva de
+   dominio** hasta el pago total". El comprador la usa pero no es dueño aún; si no paga, la
+   vendedora **recupera** el bien (la reserva funciona como garantía). Pero si el comprador, antes
+   de pagar, la revende a un tercero de buena fe… surge un conflicto entre la reserva inscrita y la
+   protección del tercero (importancia del **registro** de la reserva).
+2. **Mandato sin representación como vehículo.** Un inversionista quiere adquirir un inmueble
+   estratégico sin revelar su identidad (para no inflar el precio). Usa un **mandatario sin
+   representación** que compra **en nombre propio** y luego le traslada la propiedad. Hay que cuidar
+   el **doble traslado** (costos fiscales) y la **fiducia** entre mandante y mandatario.
+3. **Saneamiento y reps en un share deal.** El vendedor declara que las acciones están **libres de
+   gravámenes** (title warranty = saneamiento por evicción). Tras el cierre aparece una **prenda**
+   previa sobre esas acciones. El comprador activa la **indemnización** (versión contractual del
+   saneamiento). Si el SPA limita con un *cap*, la recuperación se topa ahí.
+4. **Fianza y novación que la libera.** Un fiador garantizó un crédito de $5M. El acreedor y el
+   deudor **novan** el crédito (nuevo monto y plazo) **sin** que el fiador consienta. La fianza, por
+   accesoria, se **extingue** (art. 2220 + 2220-2221): el fiador queda liberado. *Lección:* todo
+   garante debe **ratificar** cualquier novación.
+
+## 18. Casos reales (jurisprudencia y operaciones estilizadas)
+
+- **Saneamiento por evicción (criterios civiles):** los tribunales reiteran que, declarada la
+  evicción, el vendedor de buena fe responde del precio y gastos, y el de mala fe, además, de daños
+  y perjuicios; el comprador debe **denunciar el pleito** al vendedor (llamarlo a juicio) para
+  conservar la acción.
+- **Usura en mutuos (SCJN):** análisis oficioso y reducción de intereses excesivos (línea de la
+  Primera Sala, art. 21.3 CADH) — aplica a mutuos civiles y, con sus reglas, a operaciones de
+  crédito.
+- **Poderes y suscripción de títulos:** la jurisprudencia exige **poder especial** (o cláusula
+  expresa, art. 9 LGTOC) para suscribir títulos de crédito a nombre de otro; un poder general de
+  administración **no** basta.
+
+> *Nota de método (Manifiesto XI.5):* verificar la vigencia de los criterios en el Semanario
+> Judicial antes de invocarlos; se exponen por su valor formativo.
+
+## 19. Casos empresariales
+
+- **Compraventa de activos operativos:** una empresa vende una línea de producción (activos); se
+  pactan saneamiento, entrega y, a veces, **reserva de dominio** o garantías por el precio
+  diferido.
+- **Crédito garantizado para capital de trabajo:** mutuo/crédito bancario con **prenda** sobre
+  inventario y cuentas, e **hipoteca** sobre la planta.
+- **Poderes corporativos:** la empresa otorga poderes graduados (pleitos y cobranzas a sus
+  abogados; administración a directivos; dominio, solo al consejo o a apoderados específicos), con
+  registro de su otorgamiento y **revocación**.
+
+## 20. Casos corporativos (en transacciones)
+
+- **SPA como compraventa de acciones:** cosa = acciones; precio = fijo + ajustes + earn-out;
+  saneamiento = reps & warranties + indemnización; transmisión = endoso/inscripción en el libro de
+  registro (título y modo).
+- **Acquisition finance:** mutuo/crédito sindicado para pagar el precio, garantizado con **prenda
+  sobre las acciones** adquiridas, hipoteca sobre inmuebles y fideicomiso sobre flujos.
+- **Garantía corporativa (parent guarantee):** la matriz **afianza/garantiza** las obligaciones de
+  la filial adquirente frente a los bancos.
+- **Stock-for-stock (permuta de acciones):** en ciertas fusiones, los accionistas reciben acciones
+  de la adquirente en vez de efectivo (permuta), con reglas de la compraventa aplicables.
+
+## 21. Casos internacionales
+
+- **CISG vs. compraventa civil mexicana:** en compraventa internacional de mercaderías, la CISG
+  regula formación, obligaciones del vendedor/comprador, conformidad (≈ vicios) y remedios
+  (incumplimiento esencial, resolución, deber de mitigar), desplazando el CCF salvo exclusión
+  pactada.
+- **Garantías cross-border:** una prenda sobre acciones de una *holding* extranjera se rige por su
+  *lex rei sitae*/ley societaria; la hipoteca del inmueble mexicano, por ley mexicana — el paquete
+  de garantías se coordina entre jurisdicciones.
+- **Mandato y agencia internacional:** los contratos de agencia/distribución cross-border combinan
+  mandato/comisión con normas imperativas locales de protección al agente (indemnización por
+  clientela en varias jurisdicciones).
+- **Reserva de dominio internacional (Romalpa clauses):** las cláusulas de reserva de dominio en
+  ventas internacionales (*retention of title*) tienen eficacia variable según la ley del lugar de
+  los bienes y del concurso del comprador.
