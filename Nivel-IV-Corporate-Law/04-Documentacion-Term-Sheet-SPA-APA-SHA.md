@@ -247,3 +247,157 @@ En suma: el abogado que domina estos documentos no solo "redacta"; **diseña la 
 gobierno y las salidas** de la operación. Conversa con el negocio (¿qué te preocupa?, ¿qué riesgo no
 quieres?, ¿cómo y cuándo quieres salir?) y traduce esas respuestas en cláusulas. Esa es la diferencia
 entre un mecanógrafo de contratos y un **arquitecto de operaciones**.
+
+## 10. Definiciones doctrinales
+
+La doctrina transaccional define los documentos y conceptos centrales así:
+
+- **Term Sheet / Hoja de términos:** documento que resume las **condiciones económicas y estructurales
+  esenciales** de una operación propuesta, generalmente **no vinculante** en cuanto al fondo, que sirve de
+  base para negociar el contrato definitivo. La doctrina lo describe como la "**columna vertebral
+  comercial**" del deal.
+- **Letter of Intent (LOI) / Carta de Intención:** comunicación formal por la que una parte expresa su
+  **intención** de realizar la operación bajo ciertos términos. Funcionalmente se solapa con el Term Sheet;
+  suele incorporar **algunas cláusulas vinculantes** (exclusividad, confidencialidad, gastos).
+- **SPA (*Share Purchase Agreement*) / Contrato de compraventa de acciones:** contrato **definitivo y
+  vinculante** por el cual el vendedor transmite al comprador las **acciones o partes sociales** de la
+  *target* a cambio de un precio, regulando exhaustivamente la asignación del riesgo (reps, covenants,
+  condiciones, indemnización). Es el documento central del *share deal*.
+- **APA (*Asset Purchase Agreement*) / Contrato de compraventa de activos:** contrato definitivo por el
+  cual el vendedor transmite **activos (y, en su caso, pasivos) determinados** al comprador. Es el
+  documento central del *asset deal*; su rasgo distintivo es la **descripción precisa del perímetro**
+  (qué activos y pasivos se incluyen y cuáles se excluyen).
+- **SHA (*Shareholders Agreement*) / Convenio entre accionistas:** contrato entre los socios de una
+  sociedad (y a veces la sociedad misma) que regula sus **relaciones internas**: gobierno (cómo se decide),
+  capital (preferencias, dilución) y transmisión/salida (cómo entran y salen socios). Complementa —y a
+  veces "blinda"— los estatutos sociales.
+- **Representations & warranties (declaraciones y garantías / manifestaciones):** afirmaciones de hecho
+  que una parte (típicamente el vendedor) hace sobre sí misma y sobre la *target* a una fecha determinada,
+  y de cuya **falsedad** responde. La doctrina las define como el mecanismo de **asignación contractual del
+  riesgo informativo**.
+- **Covenants (obligaciones de hacer / no hacer):** compromisos de conducta de las partes, especialmente
+  **entre la firma (*signing*) y el cierre (*closing*)** —p. ej., operar el negocio en el curso ordinario,
+  no repartir dividendos extraordinarios— y, a veces, posteriores al cierre (no competencia, no
+  captación).
+- **Conditions precedent (CP) / condiciones suspensivas:** hechos que deben **cumplirse** para que nazca la
+  obligación de cerrar (autorizaciones, consentimientos, veracidad de las reps a la fecha de cierre).
+- **Indemnification / indemnización:** mecanismo por el cual una parte se obliga a **resarcir** a la otra
+  por las pérdidas derivadas del incumplimiento de reps/covenants o de contingencias identificadas.
+- **MAC / MAE (*Material Adverse Change / Effect*):** cláusula que permite al comprador **no cerrar** (o
+  renegociar) si entre la firma y el cierre ocurre un **cambio sustancialmente adverso** en la *target*.
+
+## 11. Definiciones legales y marco normativo
+
+Estos contratos son, en esencia, **creación de la autonomía de la voluntad**, pero se asientan en el marco
+legal mexicano:
+
+- **Libertad contractual y obligatoriedad (CCF y Código de Comercio).** El principio *pacta sunt servanda*
+  (los contratos legalmente celebrados obligan a las partes) y la **autonomía de la voluntad** son la base
+  legal: las partes pueden diseñar libremente las cláusulas (reps, indemnización, MAC) **dentro de los
+  límites** de la ley, el orden público y las buenas costumbres.
+- **Compraventa (CCF / Código de Comercio).** El SPA y el APA son, en su núcleo, **compraventas** (de
+  acciones o de activos), reguladas supletoriamente por las reglas de la compraventa: cosa, precio,
+  obligaciones de transmitir y de pagar, **saneamiento** por vicios ocultos y por evicción —que las reps e
+  indemnización **complementan y modulan** contractualmente—.
+- **Transmisión de acciones (LGSM / LMV).** La transmisión de acciones nominativas opera por **endoso** e
+  inscripción en el **libro de registro de accionistas**; el SPA documenta la obligación, pero la
+  transmisión societaria se perfecciona conforme a la LGSM (o la LMV para emisoras).
+- **Cesión de derechos y de deudas (CCF).** En el APA, la transmisión de contratos y créditos se rige por
+  las reglas de la **cesión de derechos** (notificación al deudor) y de la **asunción de deudas**
+  (consentimiento del acreedor cuando se requiera).
+- **Vicios del consentimiento (CCF).** El **dolo**, el **error** y la **mala fe** pueden viciar el contrato;
+  esto sustenta la responsabilidad del vendedor que **mintió** en sus reps más allá de lo pactado.
+- **Convenios entre accionistas (LGSM / LMV).** El derecho mexicano **reconoce y da eficacia** a los
+  convenios entre accionistas (particularmente en la **S.A.P.I.** conforme a la LMV, que valida cláusulas
+  como restricciones a la transmisión, derechos de veto, *drag/tag along*, opciones), lo que dio base legal
+  sólida al **SHA** en México.
+- **Condición y término (CCF).** Las **condiciones suspensivas** (CP del *closing*) y los **plazos** se
+  rigen por la teoría general de las obligaciones (que estudiaste en Nivel I-II).
+
+> **Nota de método:** la eficacia de ciertas cláusulas "importadas" del common law (p. ej., *sandbagging*,
+> ciertos límites de indemnización) depende de su **compatibilidad** con el derecho mexicano; el abogado
+> debe redactarlas con anclaje en figuras locales (renuncias, penas convencionales, condiciones) para que
+> sean exigibles. Verifica siempre la ley vigente (Manifiesto XI.5).
+
+## 12. Definición sencilla
+
+Piensa en comprar una empresa como en **un matrimonio con acuerdo prenupcial muy detallado**.
+
+- El **Term Sheet / LOI** es el **noviazgo formal**: "queremos casarnos bajo estas condiciones generales,
+  y mientras tanto prometemos no salir con nadie más (exclusividad) y no contar nuestros secretos
+  (confidencialidad)". Casi nada es obligatorio todavía, salvo esas dos promesas.
+- El **SPA** es el **contrato de matrimonio**: lo dice todo. Qué aportas, qué me aseguras que es verdad de
+  ti ("no tengo deudas ocultas" = reps), qué prometes hacer hasta la boda ("no gastarás el dinero común" =
+  covenants), qué tiene que pasar para casarnos ("que tus papás autoricen" = condiciones), y **qué pasa si
+  me mentiste** ("me compensas" = indemnización). Incluso prevé qué ocurre si justo antes de la boda
+  descubrimos un desastre (MAC = me puedo echar para atrás).
+- El **APA** es como decir: "no me caso contigo entero; me quedo **solo con tu casa y tu coche**, no con
+  tus deudas ni con tu suegra". Compras piezas, no a la persona completa.
+- El **SHA** es el **reglamento de convivencia** para cuando ya vivimos juntos (varios socios): quién
+  decide qué, quién pone cuánto, y —clave— **cómo nos divorciamos** sin destruirnos (cómo y cuándo puede
+  irse cada quien, y a qué precio).
+
+La pregunta de fondo en todos: *¿qué me aseguras?, ¿qué pasa si sale mal?, ¿cómo entro y cómo salgo?* Todo
+el libro responde, cláusula por cláusula, esas tres preguntas.
+
+## 13. Conceptos fundamentales
+
+Fija este vocabulario; es el idioma del M&A y lo usarás en cada operación de tu carrera:
+
+**Documentos y fases:**
+- **Term Sheet / LOI / MOU:** acuerdos **preliminares** (bases de la negociación), mayormente no
+  vinculantes salvo cláusulas específicas.
+- **SPA / APA:** contratos **definitivos** de compraventa (acciones / activos).
+- **SHA:** convenio que **gobierna** la relación entre socios.
+- **Signing vs. Closing:** la **firma** del contrato vs. el **cierre** (pago y transmisión); entre ambos se
+  cumplen las condiciones (Libro 1).
+
+**El núcleo del SPA:**
+- **Representations & warranties (reps):** declaraciones de hecho garantizadas (sobre el título de las
+  acciones, estados financieros, contratos, litigios, impuestos, cumplimiento, etc.).
+- **Fundamental reps:** las reps "esenciales" (título de las acciones, capacidad, autoridad) que reciben
+  protección reforzada (sin tope, plazo largo).
+- **Covenants:** obligaciones de hacer/no hacer, pre-cierre (operación ordinaria) y post-cierre (no
+  competencia, no captación).
+- **Conditions precedent (CP):** condiciones para cerrar (autorizaciones, consentimientos, veracidad de
+  reps —*bring-down*—, ausencia de MAC).
+- **Indemnification:** la obligación de resarcir; viene modulada por:
+  - **Cap (tope):** monto máximo de responsabilidad (a menudo un % del precio).
+  - **Basket / deducible:** umbral mínimo de pérdidas acumuladas antes de poder reclamar (tipo *tipping* o
+    *true deductible*).
+  - **De minimis:** monto mínimo por reclamación individual para que cuente.
+  - **Survival (supervivencia):** plazo durante el cual las reps siguen vivas y reclamables.
+  - **Special / specific indemnity:** indemnización específica por un riesgo **concreto y conocido** (de la
+    due diligence), normalmente **fuera** de caps y baskets.
+- **MAC / MAE:** cláusula de cambio adverso relevante (derecho a no cerrar).
+- **Disclosure schedules:** anexos donde el vendedor **revela excepciones** a sus reps (lo revelado deja de
+  estar garantizado).
+- **Sandbagging:** si el comprador que **sabía** que una rep era falsa puede igual reclamar
+  (*pro-sandbagging*) o no (*anti-sandbagging*); se pacta expresamente.
+
+**Mecanismos de precio:**
+- **Locked box:** precio fijo basado en un balance de referencia pasado, sin ajuste posterior (el riesgo/
+  beneficio pasa al comprador desde la fecha del *box*).
+- **Completion accounts:** ajuste del precio según el balance al cierre (capital de trabajo, deuda neta,
+  caja).
+- **Earn-out:** parte del precio **diferida y condicionada** a resultados futuros de la *target*.
+- **Escrow / holdback:** retención de parte del precio en garantía de indemnizaciones.
+
+**El núcleo del SHA:**
+- **Drag along (derecho de arrastre):** la mayoría que vende puede **obligar** a la minoría a vender en las
+  mismas condiciones.
+- **Tag along (derecho de acompañamiento):** la minoría puede **sumarse** a la venta de la mayoría en las
+  mismas condiciones (protección).
+- **ROFR / ROFO (derecho del tanto / de primera oferta):** derechos preferentes de los socios para adquirir
+  antes que un tercero.
+- **Lock-up:** prohibición temporal de transmitir acciones.
+- **Preferencia de liquidación:** derecho del inversionista a cobrar primero (un múltiplo de su inversión)
+  en una venta o liquidación.
+- **Antidilución:** protección del inversionista frente a emisiones futuras a menor precio (*down round*).
+- **Vetos / reserved matters:** decisiones que requieren el consentimiento del inversionista/minoría.
+- **Deadlock:** mecanismo para resolver **empates/bloqueos** en la toma de decisiones (p. ej., *buy-sell* o
+  "ruleta rusa").
+- **Put / Call options:** opciones de **venta** (put, el socio obliga a que le compren) y de **compra**
+  (call, obliga a que le vendan) bajo ciertas condiciones.
+
+Con este vocabulario, entramos al **desarrollo absoluto**, donde diseccionamos cada documento por dentro.
