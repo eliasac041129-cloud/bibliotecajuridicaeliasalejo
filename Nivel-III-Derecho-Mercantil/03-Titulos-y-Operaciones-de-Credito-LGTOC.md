@@ -543,3 +543,111 @@ la economía.
 - **Desmaterialización y mercado de valores:** los **valores** internacionales se manejan
   desmaterializados (anotaciones en cuenta, depositarios centrales como Indeval/DTC): la lógica del
   título de crédito aplicada a escala masiva y electrónica (antesala de la LMV, Libro 5).
+
+
+## 22. Derecho comparado
+
+| Sistema | Rasgos de títulos y operaciones de crédito |
+|---|---|
+| **México** | LGTOC (1932, influencia italiana/Vivante): letra, pagaré, cheque; principios de incorporación, literalidad, autonomía; fideicomiso y operaciones de crédito; vía ejecutiva. |
+| **España** | Ley Cambiaria y del Cheque (1985, sobre la Ley Uniforme de Ginebra); régimen cambiario afín; juicio cambiario. |
+| **Estados Unidos** | **UCC Article 3** (*Negotiable Instruments*): *notes* y *drafts*; figura del *holder in due course* (tenedor de buena fe que cobra limpio = autonomía); **Article 4** (bank deposits/cheques); **Article 5** (cartas de crédito). |
+| **Delaware/EE. UU.** | Operaciones de crédito y *secured lending* (UCC Art. 9); fideicomisos (*trusts*) muy desarrollados; *security trustee*. |
+| **Unión Europea** | Derecho cambiario nacional (Ley Uniforme de Ginebra en la mayoría); regulación armonizada de pagos y servicios financieros. |
+| **UNIDROIT** | Principios y trabajos sobre instrumentos financieros y garantías. |
+| **UNCITRAL** | Convención sobre **letras de cambio y pagarés internacionales**; ley modelo sobre comercio electrónico (títulos electrónicos transferibles). |
+| **CISG** | No regula títulos (es compraventa de mercaderías), pero el pago internacional suele instrumentarse con cartas de crédito. |
+| **Common Law** | *Negotiable instruments* con el *holder in due course* (equivalente funcional de la autonomía); *bills of exchange* (Bills of Exchange Act 1882, Reino Unido). |
+| **Civil Law** | Ley Uniforme de Ginebra como base; principios cambiarios (incorporación, literalidad, autonomía) compartidos. |
+
+> **Convergencia clave:** el principio de **autonomía / *holder in due course*** existe en todos
+> los sistemas: el adquirente de buena fe cobra **limpio**. Las **cartas de crédito** (UCP 600) y
+> las **garantías a demanda** (URDG) son verdaderamente **globales**. El abogado de comercio exterior
+> y de banca opera con estos estándares internacionales a diario.
+
+## 23. Derecho mexicano
+
+- **LGTOC (1932, reformada):** teoría general (arts. 1-22), endoso (26 y ss.), aval (109-116), letra
+  (76 y ss.), pagaré (170 y ss.), cheque (175 y ss.), protesto (139 y ss.), acciones cambiarias
+  (150 y ss.); operaciones: reporto (259), descuento (288), apertura de crédito (291), cuenta
+  corriente (302), carta de crédito (311), créditos refaccionario y de avío (321), **fideicomiso**
+  (381), prenda sin transmisión (346).
+- **Código de Comercio:** vía **ejecutiva mercantil** (arts. 1391 y ss.) y juicios mercantiles.
+- **Ley de Instituciones de Crédito y normas de la CNBV/Banxico:** regulación bancaria de las
+  operaciones de crédito y sistemas de pago.
+- **Control de usura:** criterios de la SCJN (art. 21.3 CADH) aplicables a intereses en títulos.
+
+## 24. Jurisprudencia relevante
+
+> Verificar vigencia antes de citar.
+- **Excepciones del art. 8:** carácter **taxativo**; no se opone el negocio causal al tenedor de
+  buena fe.
+- **Usura en pagarés (SCJN, Primera Sala):** análisis oficioso y reducción de intereses notoriamente
+  excesivos, incluso en la vía ejecutiva.
+- **Requisitos esenciales del título:** consecuencias de su falta (el documento puede no valer como
+  título de crédito).
+- **Pagaré en blanco:** validez del llenado conforme a lo pactado; límites al abuso.
+- **Aval vs. fianza:** autonomía del aval (art. 114) frente a la accesoriedad de la fianza.
+
+## 25. Criterios de la Suprema Corte
+
+- **Usura como cuestión de orden público:** la SCJN constitucionalizó el control de intereses en
+  títulos de crédito (deber del juez de analizarla de oficio y moderar tasas excesivas).
+- **Protección del tenedor de buena fe:** confirmación del régimen de autonomía y de la limitación de
+  excepciones.
+- **Debido proceso en la vía ejecutiva:** estándares sobre la oposición de excepciones y la prueba.
+- **Fideicomiso de garantía:** validez de la ejecución conforme a lo pactado, con protección de los
+  derechos del fideicomitente y terceros.
+
+## 26. Doctrina nacional
+
+- **Raúl Cervantes Ahumada, *Títulos y Operaciones de Crédito* (Porrúa):** la obra mexicana de
+  referencia; clara y completa. **Empieza aquí.**
+- **Felipe de Jesús Tena, *Derecho Mercantil Mexicano*:** clásico, gran rigor en la teoría
+  cambiaria.
+- **Roberto Mantilla Molina, *Títulos de Crédito*:** base conceptual sólida.
+- **Joaquín Rodríguez Rodríguez:** operaciones de crédito y banca.
+- Doctrina contemporánea sobre **fideicomiso** y financiamiento estructurado.
+
+## 27. Doctrina internacional
+
+- **Cesare Vivante, *Trattato di diritto commerciale*:** el origen de la teoría general del título
+  de crédito (incorporación, literalidad, autonomía); influencia directa en la LGTOC.
+- **Tullio Ascarelli, *Teoría general de los títulos de crédito*:** profundización italiana
+  imprescindible.
+- **Joaquín Garrigues (España):** derecho cambiario y bancario.
+- **UCC Article 3, 4 y 5 + comentarios (White & Summers):** para el derecho estadounidense de
+  instrumentos negociables y cartas de crédito.
+- **Reglas de la CCI (UCP 600, URDG 758):** estándar global de cartas de crédito y garantías a
+  demanda.
+
+## 28. Opiniones críticas (postura del Consejo)
+
+1. **El pagaré bien documentado es la mejor herramienta del acreedor**, por la vía ejecutiva y la
+   autonomía. El Consejo recomienda documentar **todo** crédito relevante con un pagaré redactado con
+   precisión (literalidad), cuidando los requisitos del art. 170 para que no degenere en simple
+   prueba de un crédito ordinario.
+2. **El control de usura, siendo justo, exige redactar tasas defendibles.** Tras la jurisprudencia
+   de la SCJN, una tasa excesiva en un pagaré puede ser **moderada de oficio**; el Consejo
+   recomienda tasas de mercado, documentadas y proporcionales.
+3. **El fideicomiso es la herramienta de estructuración más poderosa del derecho mexicano.** Para
+   garantía, fuente de pago y administración de flujos, supera muchas veces a la hipoteca y la prenda
+   por su **ejecución ágil** y su **patrimonio autónomo**; el Consejo lo considera de estudio
+   prioritario para el financiamiento.
+
+## 29. Debate doctrinal
+
+- **¿Causalidad o abstracción?** Grado en que los títulos se desligan de su causa: el pagaré tiende a
+  la **abstracción** (protege la circulación) pero con límites (enriquecimiento injusto, excepciones
+  personales entre partes directas). ¿Hasta dónde debe llegar la abstracción frente al deudor que
+  firma sin entender?
+- **Desmaterialización:** ¿sigue teniendo sentido la "incorporación en un papel" cuando los valores
+  se manejan por **anotaciones en cuenta** y surgen títulos **electrónicos**? La teoría se adapta:
+  la "posesión del documento" se vuelve "registro/anotación", manteniendo literalidad y autonomía.
+- **Naturaleza del fideicomiso:** ¿es un **mandato irrevocable**, una **transmisión de propiedad**
+  afectada a un fin, o un **patrimonio de afectación** autónomo? El debate (Libro 5, Nivel I:
+  teorías de la persona moral y del patrimonio de afectación) tiene consecuencias prácticas en
+  garantías y concurso.
+- **Protección del deudor vs. seguridad de la circulación:** la tensión permanente entre proteger al
+  tenedor de buena fe (autonomía, vía ejecutiva) y proteger al firmante (control de usura, pagaré en
+  blanco, defensa frente a abusos).
