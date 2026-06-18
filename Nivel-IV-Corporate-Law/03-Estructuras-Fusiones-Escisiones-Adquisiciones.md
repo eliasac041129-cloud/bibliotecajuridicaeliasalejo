@@ -741,3 +741,178 @@ operación**, que resulta de equilibrar riesgo, continuidad, fiscalidad y autori
 objetivo de negocio. El abogado que domina ese equilibrio —y que sabe **combinar** las figuras para
 construir la arquitectura precisa— es quien de verdad **arma deals**, y no solo los documenta. Ese es el
 salto de calidad que persigue este libro.
+
+## 15. Explicación intuitiva
+
+Tres imágenes para fijar las estructuras y no olvidarlas nunca.
+
+**La metáfora de la casa con inquilinos y deudas.** Comprar una empresa por **share deal** es como comprar
+una casa **con todo dentro**: los muebles, pero también el inquilino moroso, la hipoteca y la demanda del
+vecino. Te quedas con la casa y **todos** sus enredos, porque compraste la **escritura**. El **asset deal**
+es como decirle al dueño: "no quiero tu casa con sus líos; véndeme **solo** el comedor, el refrigerador y
+el jardín". Te llevas lo bueno y dejas atrás la hipoteca y el inquilino —aunque, ojo, hay líos que **la
+ley pega al mueble** (como ciertos impuestos o derechos de los trabajadores que vienen con el negocio)—.
+La **fusión** es **tirar la barda** entre dos casas vecinas para hacer una sola casa más grande, y que los
+dos dueños sean ahora **codueños**. La **escisión** es **partir** una casa enorme en dos casas
+independientes, una para cada cosa.
+
+**La metáfora del trasplante vs. la mudanza.** La **fusión** y la **escisión** funcionan como un
+**trasplante en bloque**: el patrimonio pasa entero, "conectado", de una sociedad a otra
+**automáticamente** (sucesión universal) —como mover un órgano completo con sus venas ya conectadas—. El
+**asset deal** funciona como una **mudanza pieza por pieza**: hay que **empacar y trasladar cada cosa**
+(cada activo, cada contrato), y para algunas necesitas **permiso** (el consentimiento de la contraparte).
+Por eso la fusión/escisión preserva la continuidad casi sin esfuerzo, y el asset deal es laborioso pero
+permite **dejar cosas atrás**.
+
+**La metáfora del cirujano.** El abogado de estructuras es un **cirujano de empresas**: con el bisturí de
+la **escisión** separa un órgano enfermo (un negocio contaminado) del cuerpo sano; con la **fusión** une
+dos cuerpos; con la **holding** organiza el esqueleto del grupo; y elige siempre la técnica que cause
+**menos hemorragia** (riesgo), deje **menos cicatriz fiscal** y **conserve la función** (continuidad). No
+opera por costumbre: estudia la radiografía (la due diligence) y elige la técnica óptima para **ese**
+paciente.
+
+La intuición central: **la estructura es la decisión de "cómo" se mueve la propiedad y el riesgo**. Dos
+operaciones con el mismo precio y la misma empresa pueden tener resultados **radicalmente distintos** según
+la estructura: una deja al comprador con un pasivo oculto devastador, otra lo aísla; una paga el doble de
+impuestos que la otra; una conserva el contrato clave, otra lo pierde. Elegir bien la estructura **crea o
+destruye más valor** que casi cualquier cláusula del contrato.
+
+## 16. Ejemplos simples
+
+**Ejemplo 1 — El pasivo que decide la estructura.** Una empresa tiene una contingencia ambiental enorme y
+difícil de cuantificar en una de sus plantas. El comprador solo quiere la **otra** planta y la marca.
+*Solución:* **asset deal** —compra solo la planta sana y la marca, deja la planta contaminada (y su
+pasivo) en la sociedad vendedora—. Si fuera share deal, heredaría el pasivo ambiental.
+
+**Ejemplo 2 — El permiso intransferible.** Una empresa opera con una **concesión** que, por ley, no puede
+cederse, pero que **sobrevive** si la sociedad titular sigue siendo la misma. *Solución:* **share deal**
+(comprar las acciones) —la sociedad, y por tanto la concesión, continúan; un asset deal perdería la
+concesión—.
+
+**Ejemplo 3 — Combinar dos iguales.** Dos despachos/empresas de tamaño similar quieren unirse creando una
+marca nueva, sin que una "absorba" a la otra. *Solución:* **fusión por integración** —ambas se extinguen y
+nace una sociedad nueva de la que ambos grupos son codueños—.
+
+**Ejemplo 4 — Separar para vender.** Un grupo con tres negocios quiere **vender solo uno**. *Solución:*
+**escisión** del negocio a vender a una nueva sociedad, y luego **venta de las acciones** de esa sociedad
+(share deal). El comprador recibe un negocio limpio y aislado.
+
+## 17. Ejemplos complejos
+
+**Ejemplo complejo 1 — El carve-out fiscalmente eficiente.** Un conglomerado quiere vender su división de
+alimentos (que comparte sociedad con la división de bebidas, su joya). Un *asset deal* obligaría a
+transferir cientos de activos y contratos individualmente (lento, con riesgo de perder contratos por falta
+de consentimiento) y podría disparar impuestos. *Solución diseñada:* **(1)** escisión parcial de la
+división de alimentos a una **NewCo** (sucesión universal: los contratos pasan en bloque, sin cesión
+individual), buscando **neutralidad fiscal** de la escisión; **(2)** venta de las **acciones** de la NewCo
+(share deal) al comprador, con su SPA, reps e indemnización. Resultado: el comprador recibe un negocio
+aislado y "envuelto" en una sociedad limpia; el vendedor conserva bebidas; y la carga fiscal se minimiza.
+Ilustra cómo **combinar escisión + share deal** supera a un asset deal directo.
+
+**Ejemplo complejo 2 — La fusión apalancada (anticipo del LBO).** Un fondo de PE quiere comprar
+*Target, S.A.* por 1,000, financiando 600 con deuda. *Solución:* el fondo crea **NewCo**, le aporta 400 de
+capital y NewCo contrata **600 de deuda**; NewCo **compra** las acciones de Target; luego NewCo **se
+fusiona** con Target (fusión por absorción), de modo que la deuda y los activos/flujos de Target queden en
+la **misma** sociedad y el flujo operativo **sirva la deuda**. Aquí la fusión no busca "combinar dos
+negocios", sino **colocar la deuda sobre los activos** que la pagarán. *Complejidad:* hay que cuidar la
+protección de acreedores de la fusión, las reglas fiscales (deducibilidad de intereses, neutralidad) y los
+límites a la asistencia financiera. (Detalle en el Libro 5.)
+
+**Ejemplo complejo 3 — El change of control que rompe la continuidad del share deal.** Una empresa de
+distribución se compra por **share deal** (para conservar sus 200 contratos sin cederlos uno por uno).
+Pero la due diligence revela que su contrato más rentable —con un proveedor extranjero— tiene una cláusula
+de ***change of control*** que permite al proveedor **terminarlo** si cambia el dueño. *Problema:* la gran
+ventaja del share deal (continuidad automática) **no aplica** a ese contrato. *Solución:* volver el
+**consentimiento** del proveedor una **condición al closing** (Libro 2); si no se obtiene, ajustar precio o
+prever un derecho de salida. Muestra que la estructura interactúa con los hallazgos de la DD y con el
+contrato.
+
+## 18. Casos reales (operaciones estilizadas y referentes)
+
+> *Nota de método (Manifiesto XI.5): casos estilizados con fines didácticos; verifica los detalles antes
+> de citarlos profesionalmente.*
+
+**Las grandes fusiones "entre iguales" y sus riesgos (Daimler-Chrysler, 1998).** La unión de Daimler-Benz
+y Chrysler se presentó como una "fusión entre iguales", pero terminó (años después) en una **separación**
+que destruyó enorme valor. *Lección:* la estructura jurídica (fusión por integración) no garantiza el
+éxito si la **integración real** —culturas, operaciones, gobierno— falla. La estructura es condición
+necesaria, no suficiente; el valor se gana o se pierde en la integración (eco del Libro 1).
+
+**Los grandes *spin-offs* (escisiones) para "desbloquear valor".** Numerosos conglomerados se han
+**escindido** en empresas independientes bajo la tesis de que "la suma de las partes vale más que el todo"
+(el mercado valora mejor empresas enfocadas que conglomerados difíciles de analizar). Ejemplos repetidos
+en industria, energía y consumo a nivel global. *Lección:* la **escisión** es una herramienta estratégica
+para **crear valor** separando negocios, no solo un tecnicismo societario.
+
+**Asset deals en adquisiciones de empresas en problemas (distressed M&A).** Cuando se compra una empresa
+en crisis o en concurso, el comprador suele preferir un **asset deal** (o una venta de activos dentro del
+procedimiento concursal) precisamente para **adquirir los activos sanos sin heredar** la maraña de
+pasivos. *Lección:* la estructura **asset deal** es la herramienta natural para aislar valor en
+situaciones de riesgo de pasivos elevado (conecta con el libro de Concurso Mercantil del Nivel III).
+
+## 19. Casos empresariales
+
+**El grupo familiar que se reorganiza antes de crecer.** Una familia tiene, en **una sola sociedad**, una
+fábrica, los inmuebles donde opera y una pequeña distribuidora. Quiere: proteger los inmuebles del riesgo
+de la fábrica, profesionalizar, y dejar la distribuidora lista para una eventual venta. *Solución
+empresarial:* **escindir** en tres —una patrimonial con los inmuebles (que los arrienda a la fábrica), la
+operativa fabril, y la distribuidora— y colocar las tres bajo una **holding** familiar. Resultado: riesgo
+separado, activos blindados, y la distribuidora "empaquetada" para vender sus acciones cuando convenga.
+Una sola decisión estructural resuelve tres objetivos de negocio.
+
+**El comprador estratégico que integra tras comprar.** Una empresa compra a una competidora (share deal,
+para conservar sus contratos y permisos) y, una vez cerrada la compra y obtenidas las autorizaciones,
+**fusiona** la adquirida con su propia operación para integrar equipos, eliminar duplicidades y capturar
+sinergias. *Lección:* en la práctica, **share deal + fusión posterior** es una secuencia clásica: primero
+adquirir (con continuidad), luego integrar (con simplificación).
+
+## 20. Casos corporativos (la conexión integral)
+
+Integremos todo el programa en un caso. *Inversiones Cima* (un fondo de PE) quiere adquirir la **división
+industrial** de *Grupo Río, S.A.* —una sociedad que también tiene una división inmobiliaria que Cima no
+quiere—, financiando parte con deuda.
+
+- **Nivel I-II (Obligaciones, Garantías, Responsabilidad):** se analizan las obligaciones y garantías que
+  acompañan a los activos de la división industrial y los pasivos contingentes (responsabilidad civil).
+- **Nivel III (Sociedades/LGSM, Gobierno Corporativo):** la **escisión** y la eventual **fusión** se rigen
+  por la LGSM (asambleas extraordinarias, oposición de acreedores, responsabilidad solidaria); los
+  **deberes del consejo** de Grupo Río al aprobar la reorganización y la venta (Revlon, *fairness
+  opinion*) son clave.
+- **Libro 1 (Fundamentos de M&A):** la operación se mapea (estructura, fases, asignación de riesgo).
+- **Libro 2 (Due Diligence):** la DD revela que la división inmobiliaria tiene pasivos ambientales y
+  fiscales que Cima **no** quiere heredar → empuja a **aislar** la industrial.
+- **Libro 3 (este):** se diseña la arquitectura: **(1)** Grupo Río **escinde** la división industrial a una
+  **NewCo limpia** (sucesión universal: contratos y permisos pasan en bloque, con neutralidad fiscal);
+  **(2)** Cima crea su **vehículo de adquisición** con capital + deuda; **(3)** el vehículo **compra las
+  acciones** de la NewCo (share deal, con SPA, reps, indemnización, escrow); **(4)** posible **fusión**
+  posterior del vehículo con la NewCo (fusión apalancada). Todo verificando **razón de negocio**
+  (antiabuso) y **autorizaciones** (COFECE).
+- **Libro 4 (siguiente):** la estructura se documenta (convenio/proyecto de escisión, SPA, contratos de
+  financiamiento, acuerdos de la fusión).
+
+*Moraleja:* la elección de estructura es el **punto donde el abogado corporativo demuestra su maestría
+integradora**: combina figuras societarias (escisión, fusión, NewCo, share deal) para servir un objetivo
+de negocio, aislando el riesgo detectado en la DD, optimizando la fiscalidad y respetando las
+autorizaciones. No es un tecnicismo: es **ingeniería jurídica de creación de valor**.
+
+## 21. Casos internacionales
+
+**Las directivas europeas sobre fusiones y escisiones.** La Unión Europea ha **armonizado** el régimen de
+las fusiones y escisiones (y de las fusiones **transfronterizas**) entre sus Estados miembros, facilitando
+las reorganizaciones de grupos paneuropeos con protecciones comunes a acreedores y socios. *Lección:* la
+lógica de la sucesión universal y de la protección de acreedores/minorías es **universal** en el civil
+law; cambian los detalles, no la arquitectura conceptual.
+
+**Las reorganizaciones transfronterizas y el *forum shopping* estructural.** En operaciones
+multinacionales, la estructura debe coordinar **varias jurisdicciones** a la vez: una fusión puede ser
+neutral fiscalmente en un país y gravada en otro; una escisión válida en México puede requerir pasos
+adicionales para sus efectos en el extranjero. Los grupos eligen, dentro de la legalidad, las
+jurisdicciones y vehículos (holdings en ciertos países) que optimizan fiscalidad y certeza —siempre bajo
+la lupa de las reglas **antiabuso** internacionales (BEPS, sustancia económica)—.
+
+**El estándar internacional de "razón de negocio" (sustancia económica).** A nivel global, las autoridades
+fiscales (y los estándares BEPS de la OCDE) han endurecido la exigencia de que las reorganizaciones tengan
+**sustancia económica** y **propósito de negocio** real, no solo ventaja fiscal. *Lección para el abogado
+mexicano de élite:* diseñar estructuras que resistan el escrutinio antiabuso **mexicano e internacional**,
+con sustancia y documentación de su propósito, es hoy parte esencial del oficio. La era de los "esquemas"
+artificiales terminó; la del **diseño con sustancia** es la norma.
