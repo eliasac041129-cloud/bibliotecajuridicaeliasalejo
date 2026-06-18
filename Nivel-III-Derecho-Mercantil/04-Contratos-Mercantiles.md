@@ -384,3 +384,98 @@ una compra de empresa, estos contratos son los **órganos vitales** que se trans
 que **funcionen tras el trasplante** (que sean cedibles, que la otra parte no los cancele por el cambio
 de dueño). Por eso, leer y gestionar contratos mercantiles es buena parte del trabajo diario —y de la
 due diligence— del abogado de negocios.
+
+
+## 16. Ejemplos simples
+
+1. **Compraventa mercantil y mora.** Un mayorista debe entregar mercancía el 1 de marzo (día cierto).
+   No entrega. Incurre en **mora sin necesidad de interpelación** (regla mercantil), y debe daños.
+2. **Factoraje.** Una empresa tiene $1M en facturas a 90 días. Las cede a una factorante, que le
+   adelanta $950,000 hoy. Si es **sin recurso**, la factorante asume el impago; si es **con recurso**,
+   la empresa responde si el cliente no paga.
+3. **Leasing.** Una constructora necesita una excavadora de $3M. En vez de comprarla, una arrendadora
+   la adquiere y se la **arrienda** 4 años; al final, la constructora la **compra** por un valor
+   residual. Financió el activo sin desembolso inicial.
+4. **Franquicia.** Un emprendedor abre una cafetería bajo una marca conocida: paga cuota inicial y
+   regalías, usa la **marca** y el ***know-how***, y opera según los **estándares** del franquiciante.
+5. **Distribución con exclusividad.** Un fabricante nombra a un distribuidor **exclusivo** en el
+   noreste; el distribuidor compra para revender y se compromete a metas de venta.
+
+## 17. Ejemplos complejos
+
+1. **Change of control que traba un M&A.** Una empresa objetivo tiene su **contrato de distribución
+   más rentable** (40% de sus ingresos) con una cláusula de *change of control* que permite al
+   proveedor **terminarlo** si cambia el dueño. El comprador condiciona el cierre a obtener el
+   **consentimiento** del proveedor; si no lo da, el valor de la empresa cae. Lección: la matriz de
+   contratos materiales y los consentimientos son críticos en M&A.
+2. **Franquicia sin COF.** Un franquiciante no entregó la **Circular de Oferta de Franquicia** con la
+   anticipación debida. El franquiciatario, tras un mal negocio, pide la **nulidad** del contrato por
+   esa omisión (LFPPI). Lección: la información precontractual de la franquicia es obligatoria y su
+   omisión es sancionable.
+3. **Factoraje sin recurso y riesgo de crédito.** Un banco compra **sin recurso** la cartera de una
+   empresa; uno de los deudores resulta insolvente. El banco **no puede** reclamar al cedente (asumió
+   el riesgo); pero si la cuenta era **inexistente o estaba viciada** (el cedente respondió de su
+   existencia y legitimidad, no de la solvencia — Libro 1 Nivel II), sí reclama. Lección: distinguir
+   riesgo de **existencia/legitimidad** (siempre del cedente) del de **solvencia** (según con/sin
+   recurso).
+4. **Distribución exclusiva y competencia económica.** Un fabricante impone a sus distribuidores
+   **precios de reventa fijos** y reparto de mercados. La COFECE investiga: la **fijación de precios de
+   reventa** y el reparto de mercados son **prácticas monopólicas relativas** (verticales)
+   sancionables. Lección: las cláusulas de distribución/franquicia deben diseñarse dentro de la ley de
+   competencia.
+
+## 18. Casos reales (jurisprudencia y operaciones estilizadas)
+
+- **Compraventa mercantil y mora:** criterios que confirman la mora **sin interpelación** en
+  obligaciones a día cierto (régimen mercantil).
+- **Franquicia y COF:** la omisión o defecto de la **Circular de Oferta de Franquicia** habilita al
+  franquiciatario a demandar la **nulidad** (LFPPI / antes LPI).
+- **Factoraje y notificación:** la **cesión** de los créditos en el factoraje es oponible al deudor
+  desde su **notificación** (Libro 1 Nivel II).
+- **Contratos atípicos:** los tribunales reconocen su validez por la autonomía de la voluntad y los
+  **integran** por analogía y usos.
+- **Restricciones verticales (COFECE):** sanción de la fijación de precios de reventa y otras prácticas
+  monopólicas relativas en distribución/franquicia.
+
+> *Nota de método (Manifiesto XI.5):* verificar la vigencia de los criterios; se exponen por su valor
+> formativo.
+
+## 19. Casos empresariales
+
+- **Expansión por franquicia:** una cadena exitosa diseña su **paquete de franquicia** (COF, manual de
+  operaciones, marca registrada, estándares, regalías) para crecer rápido con capital de terceros.
+- **Liquidez por factoraje:** una empresa con buenas ventas pero plazos largos de cobro **factoriza**
+  su cartera para financiar su crecimiento sin endeudarse formalmente.
+- **Renovación de flota por leasing:** una empresa de logística renueva sus camiones vía **leasing**,
+  optimizando flujo y balance.
+- **Red de distribución:** un fabricante estructura su red de **distribuidores** con territorios, metas
+  y estándares, cuidando la competencia económica.
+
+## 20. Casos corporativos (en transacciones)
+
+- **Matriz de contratos materiales en due diligence:** identificar los contratos clave (clientes,
+  distribución, franquicias, suministro, financiamiento) y revisar **change of control**, cesión,
+  exclusividad, no competencia, plazo y terminación.
+- **Consentimientos (consents) como condición de cierre:** obtener el consentimiento de las
+  contrapartes de contratos con *change of control* o cláusulas de no cesión, antes del closing.
+- **Transmisión de contratos en un asset deal:** ceder cada contrato relevante (con consentimientos);
+  en un *share deal*, los contratos siguen con la sociedad (salvo *change of control*).
+- **Reps & warranties sobre contratos:** el vendedor declara la **vigencia, validez y no
+  incumplimiento** de los contratos materiales, y la ausencia de *change of control* no revelado.
+- **Joint venture como vehículo de adquisición/expansión:** estructurar una coinversión (equity JV vía
+  S.A.P.I.) con convenio entre accionistas (Libro 2 Nivel III) — antesala del Nivel IV.
+
+## 21. Casos internacionales
+
+- **CISG e Incoterms en la compraventa internacional:** la compraventa de mercaderías cross-border se
+  rige por la **CISG** (conformidad, incumplimiento esencial, deber de mitigar) y por los **Incoterms**
+  (asignación de costos y riesgos del transporte: FOB, CIF, EXW…).
+- **Distribución y agencia internacional:** los contratos de distribución/agencia cross-border deben
+  considerar las **normas imperativas locales** (en la UE, **indemnización por clientela** del agente
+  al terminar; en otros países, protecciones al distribuidor).
+- **Franquicia internacional (master franchise):** un **franquiciante master** recibe los derechos para
+  un país/región y subfranquicia; exige adaptar la marca, el *know-how* y la COF a cada jurisdicción.
+- **Contratos modelo de la CCI:** la Cámara de Comercio Internacional publica **contratos modelo**
+  (distribución, agencia, compraventa) que estandarizan la práctica global.
+- **Factoraje internacional (Convención UNIDROIT de Ottawa sobre factoring y UNCITRAL sobre cesión):**
+  marco para la cesión transfronteriza de créditos comerciales.
