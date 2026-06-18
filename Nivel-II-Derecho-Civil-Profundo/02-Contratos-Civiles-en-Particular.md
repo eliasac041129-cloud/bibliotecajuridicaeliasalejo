@@ -645,3 +645,195 @@ Régimen en el CCF, Libro Cuarto, 2ª parte (verificar versión vigente y códig
 - **Fianza vs. garantía autónoma (a primera demanda):** ¿hasta dónde puede pactarse una garantía
   **independiente** del crédito principal (no accesoria), como las *first demand guarantees*
   internacionales, sin desnaturalizar la fianza?
+
+
+## 30. Errores comunes
+
+- **Confundir el poder que tiene quien firma.** Un poder de **administración** no sirve para
+  **vender o gravar** (eso exige **dominio**); firmar un SPA o una hipoteca con poder insuficiente
+  produce un acto **ineficaz**.
+- **Olvidar que la propiedad ya pasó (consensualismo).** Creer que sin entrega/pago no hay
+  transmisión: en cosa cierta, la propiedad —y el **riesgo**— pasan por el solo contrato (art.
+  2014), salvo pacto.
+- **Novar el crédito sin que el fiador/garante consienta.** Libera al garante (accesoriedad +
+  art. 2220).
+- **No denunciar el pleito al vendedor** en un caso de evicción: puede perderse la acción de
+  saneamiento.
+- **Pactar intereses sin atender la usura:** riesgo de moderación judicial.
+- **Renunciar a orden y excusión sin entenderlo:** el fiador queda como obligado casi solidario.
+- **Confundir mutuo (consumo, devuelve "otro tanto") con comodato (uso, devuelve lo mismo)**, o
+  arrendamiento con usufructo.
+
+## 31. Mitos frecuentes
+
+- *"Sin escritura no hay compraventa."* **Falso** para muebles (es consensual); la escritura
+  pública se exige para **inmuebles** y su **oponibilidad/registro**, no para la existencia entre
+  partes en muebles.
+- *"El fiador solo paga si ya embargaron al deudor."* **Depende:** si renunció a orden y excusión,
+  paga **de inmediato**.
+- *"Un poder general sirve para todo."* **Falso:** los actos de **dominio** y la **suscripción de
+  títulos** requieren facultad expresa.
+- *"La reserva de dominio no sirve si el comprador revende."* **Matiz:** protege mejor si está
+  **inscrita**; frente a terceros de buena fe sin registro, puede ceder.
+- *"El saneamiento se puede ignorar si el contrato no lo menciona."* **Falso:** es una **garantía
+  legal** que opera aunque no se pacte (puede ampliarse, limitarse o renunciarse dentro de la ley).
+
+## 32. Preguntas difíciles
+
+1. Si la propiedad pasa por el solo consentimiento (art. 2014), ¿quién soporta el riesgo de pérdida
+   de la cosa entre el contrato y la entrega? ¿Cómo se reparte contractualmente en un SPA
+   (signing/closing)?
+2. ¿Puede una **garantía a primera demanda** (autónoma) sobrevivir en derecho mexicano sin volverse
+   fianza accesoria? ¿Cómo se redacta?
+3. ¿Hasta dónde puede **limitarse o excluirse** el saneamiento en una venta entre empresas
+   sofisticadas (cláusula *as is*)? ¿Y frente a dolo del vendedor?
+4. ¿El mandatario sin representación que compra "en nombre propio" transmite bien al mandante sin
+   doble tributación? ¿Qué estructura lo optimiza?
+5. ¿La cláusula de **interés** de un crédito corporativo entre partes sofisticadas debería estar
+   sujeta al mismo control de usura que un préstamo de consumo?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**P1.** *¿Qué transmite la compraventa en México y desde cuándo?* **R.** La **propiedad** de cosa
+cierta y determinada, **desde el solo consentimiento** (art. 2014), sin necesidad de entrega o
+pago, salvo pacto; frente a terceros, la oponibilidad de inmuebles requiere inscripción.
+
+**P2.** *Explique el saneamiento por evicción y por vicios ocultos.* **R.** Evicción: el vendedor
+responde si el comprador es privado de la cosa por el mejor derecho de un tercero. Vicios ocultos:
+responde por defectos ocultos que la hacen impropia o disminuyen su valor; el comprador tiene la
+acción **redhibitoria** (rescindir) o **quanti minoris** (reducir el precio).
+
+**P3.** *¿Qué facultad necesita un apoderado para vender un inmueble de la sociedad?* **R.** Poder
+para **actos de dominio** (art. 2554); el de administración no basta.
+
+**P4.** *¿Qué efecto tiene sobre la fianza la novación del crédito principal sin consentimiento del
+fiador?* **R.** La **extingue** (accesoriedad; arts. 2220-2221): el fiador queda liberado salvo que
+consienta.
+
+**P5.** *Diferencie mutuo y comodato.* **R.** Mutuo: préstamo de **consumo** de cosas fungibles; se
+transmite la propiedad y se devuelve **otro tanto** (puede haber interés). Comodato: préstamo de
+**uso** gratuito de cosa no fungible; se devuelve **la misma** cosa.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** asociado de M&A. **Cliente:** comprador de "Alimentos del Bajío, S.A." (share deal,
+> precio $500M). **Hechos:** el vendedor es una persona física casada por **sociedad conyugal**;
+> firmará por la sociedad un apoderado; el comprador financiará $300M con crédito bancario.
+>
+> **Tarea:** redacta una **nota de estructura contractual** que: (1) identifique la operación como
+> **compraventa de acciones** y mapee sus elementos (cosa/precio/transmisión); (2) defina las
+> **reps & warranties** clave como **saneamiento** (title warranty = evicción; estado del negocio =
+> vicios) y proponga **cap/basket** e indemnización; (3) verifique las **facultades** del apoderado
+> (¿poder de **dominio**? ¿suscribir títulos por el financiamiento?); (4) atienda el **régimen
+> conyugal** del vendedor persona física (¿consentimiento del cónyuge sobre las acciones?); (5)
+> estructure el **financiamiento** (mutuo/crédito) y su **garantía** (prenda sobre las acciones
+> adquiridas + parent guarantee/fianza); (6) prevea una **transacción** para eventuales claims
+> post-closing. Concluye con los **3 riesgos** principales y cómo mitigarlos.
+
+*(Pista de evaluación: la mejor respuesta conecta cada cláusula del SPA con su **figura civil
+madre**, verifica poderes de dominio, atiende la sociedad conyugal, y estructura prenda sobre
+acciones + garantía corporativa.)*
+
+## 35. Flashcards
+
+- **¿Elementos de la compraventa?** → Consentimiento, cosa, **precio cierto y en dinero**.
+- **¿Desde cuándo se transmite la propiedad (cosa cierta)?** → Desde el consentimiento (art. 2014).
+- **¿Saneamiento por evicción?** → Responder si un tercero priva de la cosa por mejor derecho.
+- **¿Acciones por vicios ocultos?** → Redhibitoria (rescindir) y quanti minoris (reducir precio).
+- **¿Mutuo vs. comodato?** → Consumo (devuelve otro tanto) vs. uso (devuelve la misma cosa).
+- **¿Límite del interés?** → La usura (moderación judicial, SCJN/CADH).
+- **¿Tres poderes del art. 2554?** → Pleitos y cobranzas, administración, dominio.
+- **¿Mandato con vs. sin representación?** → Efectos directos en el mandante vs. el mandatario se
+  obliga y luego traslada.
+- **¿Beneficios de la fianza?** → Orden y excusión (renunciables).
+- **¿La fianza es accesoria?** → Sí: sigue la suerte del crédito principal.
+- **¿Permuta?** → Cosa por cosa (reglas de la compraventa).
+- **¿Transacción?** → Concesiones recíprocas para evitar/terminar litigio (cosa juzgada).
+
+## 36. Mapas mentales
+
+```
+CONTRATOS CIVILES EN PARTICULAR
+├── TRASLATIVOS DE DOMINIO
+│   ├── COMPRAVENTA → matriz del SPA
+│   │   ├── Elementos: consentimiento · cosa · precio (cierto, en dinero)
+│   │   ├── Transmisión: consensualismo (art. 2014) · título y modo
+│   │   └── SANEAMIENTO: evicción (→ title warranty) · vicios (→ reps + indemnity)
+│   ├── Permuta (→ stock-for-stock) · Donación (→ planeación patrimonial)
+├── DE CRÉDITO
+│   └── MUTUO → base del crédito (interés / usura) → crédito bancario / acquisition finance
+├── DE GESTIÓN
+│   └── MANDATO / PODER (art. 2554: pleitos · administración · DOMINIO)
+│       └── con/sin representación → auditoría de facultades
+├── DE GARANTÍA
+│   ├── FIANZA (personal, accesoria; orden y excusión renunciables) → parent guarantee
+│   ├── PRENDA (mueble; acciones) → prenda sobre acciones en M&A
+│   └── HIPOTECA (inmueble) + fideicomiso de garantía
+└── OTROS: arrendamiento (→ leasing) · depósito · comodato · TRANSACCIÓN (→ settlement)
+```
+
+## 37. Cuadros comparativos
+
+**Mutuo vs. comodato vs. arrendamiento**
+
+| | Mutuo | Comodato | Arrendamiento |
+|---|---|---|---|
+| Objeto | Cosas fungibles (dinero) | Cosa no fungible | Cosa (uso/goce) |
+| ¿Transmite propiedad? | Sí | No (solo uso) | No (solo uso/goce) |
+| Devolución | Otro tanto igual | La misma cosa | La misma cosa |
+| Onerosidad | Con o sin interés | Gratuito | Renta |
+
+**Saneamiento civil vs. reps & warranties (SPA)**
+
+| | Saneamiento (civil) | Reps & warranties (SPA) |
+|---|---|---|
+| Naturaleza | Garantía **legal** (opera sin pacto) | Promesa **contractual** |
+| Evicción | Privación por mejor derecho | Title warranty (propiedad, libre de gravámenes) |
+| Vicios | Defectos ocultos | Reps sobre estado del negocio |
+| Remedio | Rescindir / reducir precio / daños | Indemnización (con cap/basket) |
+
+**Los tres poderes (art. 2554)**
+
+| Poder | Alcance | Ejemplo |
+|---|---|---|
+| Pleitos y cobranzas | Litigar, cobrar | Demandar, contestar |
+| Administración | Operar el patrimonio | Contratar, arrendar |
+| Dominio | Disponer y gravar | Vender, hipotecar, prendar |
+
+## 38. Diagramas
+
+**Compraventa → SPA (genealogía):**
+```
+emptio venditio (Roma)
+   │  cosa + precio + consentimiento + SANEAMIENTO
+   ▼
+compraventa CCF (art. 2248; transmisión art. 2014)
+   │  + técnica anglosajona (definiciones, condiciones, indemnity, boilerplate)
+   ▼
+SHARE PURCHASE AGREEMENT
+   ├── cosa = acciones      ├── precio = fijo + ajustes + earn-out
+   ├── transmisión = signing/closing (título/modo)
+   └── saneamiento = REPS & WARRANTIES + INDEMNIZACIÓN (cap/basket)
+```
+
+**Verificación de facultades (poder):**
+```
+¿Qué acto se firma? → ¿Qué poder exige?
+  Demanda/contestación → pleitos y cobranzas
+  Contrato de giro/arrendamiento → administración
+  Venta/hipoteca/prenda/SPA → DOMINIO
+  Pagaré/aval → poder/cláusula especial (art. 9 LGTOC)
+        │
+        ▼
+¿El firmante tiene ese poder y está vigente? → si no: acto INEFICAZ (salvo ratificación)
+```
+
+## 39. Mnemotecnias
+
+- **Compraventa:** *"Cosa + Precio (cierto y en dinero) + Consentimiento = CV"*.
+- **Saneamiento:** *"Evicción = no era tuyo del todo; Vicios = estaba dañado por dentro"*.
+- **Poderes (2554):** *"PA-D"* → **P**leitos, **A**dministración, **D**ominio (de menor a mayor).
+- **Mutuo vs. comodato:** *"Mutuo se consume y se paga otro tanto; comodato se usa y se devuelve
+  igualito"*.
+- **Fianza:** *"orden y excusión... salvo que renuncies (y entonces pagas tú, ya)"*.
+- **Consensualismo:** *"en cosa cierta, el 'sí' ya transmite (art. 2014)"*.
