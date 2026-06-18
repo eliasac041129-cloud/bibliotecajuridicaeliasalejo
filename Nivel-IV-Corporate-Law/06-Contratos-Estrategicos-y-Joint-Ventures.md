@@ -623,3 +623,64 @@ largo plazo puede ser la **columna vertebral** de un negocio (asegura el insumo 
 contrato de distribución define el **acceso al mercado**. En la **due diligence** (Libro 2), estos son
 precisamente los **contratos materiales** que se revisan con lupa (y donde se buscan las cláusulas de
 *change of control*). El abogado que los redacta bien **protege el corazón operativo** de la empresa.
+
+### 14.E · Alianzas, licencias e instrumentos preliminares
+
+Cerramos el espectro de la colaboración con tres familias adicionales que todo abogado de operaciones
+estratégicas debe dominar.
+
+**Las alianzas estratégicas y de I+D.** Más allá de la JV formal, existen **alianzas** de cooperación que
+no llegan a crear una sociedad ni a la intensidad de una equity JV, pero estructuran una colaboración
+estratégica:
+- **Alianzas de I+D (investigación y desarrollo):** dos empresas colaboran para **desarrollar** una
+  tecnología o producto, compartiendo costos, riesgos y —punto crítico— la **propiedad intelectual** de lo
+  desarrollado (¿de quién es?, ¿se licencian mutuamente?, ¿quién explota qué campo?).
+- **Alianzas comerciales y de comercialización:** colaboración para vender productos combinados,
+  *co-branding*, programas conjuntos.
+- **Alianzas estratégicas con participación minoritaria:** una empresa toma una **participación
+  minoritaria** en otra (sin control) como respaldo de una alianza comercial o tecnológica (a medio camino
+  entre el contrato y la JV). Frecuente en tecnología.
+El reto de las alianzas: son **menos estructuradas** que una JV societaria, lo que les da **flexibilidad**
+pero también **ambigüedad** (gobierno difuso, salida poco clara). El abogado debe darles la **estructura
+mínima necesaria** sin sobre-formalizarlas.
+
+**Los contratos de licencia y transferencia de tecnología.** El titular de una **propiedad intelectual**
+(patente, marca, derecho de autor, **know-how**, software) **autoriza** a otro a usarla a cambio de
+**regalías**. Es la herramienta central de las alianzas tecnológicas y de la expansión (licenciar la marca
+o la tecnología a un socio en otro mercado). Cláusulas clave:
+- **Alcance de la licencia:** qué PI, para qué **uso/campo**, en qué **territorio**, **exclusiva** o no.
+- **Regalías:** cómo se calculan (porcentaje de ventas, monto fijo, por unidad) y se pagan/auditan.
+- **Mejoras (*improvements*):** ¿de quién son las **mejoras** que el licenciatario haga a la tecnología?
+  (*grant-back* al licenciante). Punto delicado.
+- **Control de calidad** (esencial en licencias de marca, para no degradarla), **confidencialidad** del
+  know-how, **duración** y qué pasa al terminar (¿puede el licenciatario seguir usando lo aprendido?).
+- **Límites de competencia:** las licencias pueden contener restricciones (territorios, exclusividades) que
+  el derecho de la competencia vigila.
+
+**Los instrumentos preliminares (MOU, cartas de intención, acuerdos marco).** Toda colaboración seria
+empieza con documentos **preliminares**, y aquí se repite — amplificada— la lección del **Term Sheet**
+(Libro 4):
+- **MOU (*Memorandum of Understanding*) / Carta de intención / *Heads of Terms*:** expresan la **intención**
+  de colaborar y las **bases** de la futura alianza. Regla de oro (idéntica al Term Sheet): lo
+  **sustantivo** (los términos de la colaboración) suele ser **no vinculante**, pero ciertas cláusulas
+  (**confidencialidad/NDA**, **exclusividad**, **gastos**, **ley aplicable**) **sí** vinculan. **Cuidado
+  con la trampa:** un MOU mal redactado puede generar obligación o **responsabilidad precontractual** si
+  sugiere un acuerdo cerrado o se rompe de mala fe una negociación avanzada. Debe decir **expresamente** qué
+  obliga y qué no.
+- **Acuerdo marco (*framework / master agreement*):** un contrato "**paraguas**" que fija las **condiciones
+  generales** de una relación de largo plazo, bajo el cual se celebran luego **órdenes o contratos
+  específicos** (*statements of work*, órdenes de compra). Muy usado en suministro, tecnología y servicios:
+  se negocia **una vez** el marco (responsabilidad, propiedad intelectual, confidencialidad, ley aplicable)
+  y se agiliza cada operación concreta. Ordena y da eficiencia a relaciones complejas y repetitivas.
+- **NDA (acuerdo de confidencialidad):** el **primer** documento de casi toda colaboración: protege la
+  información sensible que las partes comparten al **explorar** la alianza (igual que en el M&A —Libro 1—).
+
+**La visión de conjunto del libro.** Observa cómo todo el espectro de la colaboración —del NDA inicial al
+MOU, del contrato de suministro a la alianza, de la JV contractual a la equity JV— es una **graduación de
+compromiso y control compartido**. Y observa cómo la JV, en su forma más completa, **integra todo lo que
+aprendiste**: una **estructura** societaria (Libro 3), un **convenio de socios** tipo SHA con gobierno,
+deadlock y salida (Libro 4), **contratos relacionados** de suministro/distribución/licencia (este libro y
+los anteriores) y, a menudo, **financiamiento** (Libro 5), todo al servicio de una **alianza estratégica**.
+Por eso la JV es la operación que mejor **sintetiza** la formación del abogado corporativo: comprar,
+financiar y colaborar dejan de ser temas aislados y se vuelven **herramientas combinables** de un mismo
+oficio —el de **estructurar operaciones corporativas complejas**, exactamente tu objetivo—.
