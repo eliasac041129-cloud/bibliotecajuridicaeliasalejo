@@ -457,3 +457,100 @@ El gran tema de fondo —como en cualquier compra de algo que no conoces del tod
 las sorpresas desagradables**. Todo el arte del M&A es **investigar bien** (due diligence) y **repartir
 ese riesgo con inteligencia** (reps, indemnización, escrow, condiciones). El abogado de M&A es el
 **arquitecto y director de orquesta** de todo ese proceso.
+
+
+## 16. Ejemplos simples
+
+1. **Share deal.** Un grupo compra el **100% de las acciones** de una embotelladora. Adquiere la
+   sociedad **completa**: sus activos, su marca, sus contratos… y también sus **deudas y contingencias**
+   (fiscales, laborales). Por eso exige *reps* fuertes y escrow.
+2. **Asset deal.** Una empresa compra solo la **línea de producción y la marca** de un competidor en
+   problemas, **sin** asumir sus deudas con bancos. Debe ceder los contratos clave (con consentimientos)
+   y atender la sustitución patronal de los empleados que recibe.
+3. **Fusión.** Dos bancos medianos **se fusionan** en uno: asamblea extraordinaria, autorización de la
+   CNBV y la COFECE, derecho de oposición de acreedores; nace un banco más grande.
+4. **Signing y closing diferidos.** Se firma el SPA en enero, pero el cierre se condiciona a la
+   **autorización de COFECE**, que llega en mayo: se cierra en mayo (no antes —*gun jumping*).
+5. **Earn-out.** El comprador paga $800M al cierre y **$200M más** si la *target* alcanza cierto EBITDA
+   en 2 años: parte del precio queda **condicionada** al desempeño futuro.
+
+## 17. Ejemplos complejos
+
+1. **LBO con estructura de fusión (merger sub).** Un fondo de PE crea una **NewCo** que se **endeuda**
+   (acquisition finance — Libros 3 y 4 Nivel II y III) para comprar la *target*, y luego **se fusiona**
+   con ella, de modo que la deuda quede en la empresa adquirida. Analiza: la estructura (share deal vía
+   NewCo + fusión), el *security package* (prenda sobre acciones, hipoteca, fideicomiso de flujos), el
+   riesgo de **fraude de acreedores** (la *target* "paga su propia compra"), y las autorizaciones.
+   *(Se profundiza en el Libro 5 Nivel IV: PE.)*
+2. **Pasivo oculto descubierto post-closing (share deal).** Tras comprar la sociedad, aparece una
+   **contingencia fiscal** no revelada. El comprador activa la **indemnización**: ¿la *rep* fiscal era
+   amplia?, ¿estaba dentro del **survival**?, ¿supera el **basket** y está bajo el **cap**?, ¿se
+   revisó en *disclosure*? Se cobra contra el **escrow**. Lección: el reparto de riesgo pactado decide
+   quién paga (Libros 3 Nivel II y 12 Nivel I).
+3. **Subasta competitiva (dual track).** Una familia vende su empresa; el banquero corre una **subasta**
+   con varios fondos **y, en paralelo, prepara una IPO** (*dual track*), para elegir la opción de mayor
+   valor. El consejo debe cumplir sus **deberes fiduciarios** (maximizar valor — Revlon, Libro 7 Nivel
+   III). Lección: el proceso competitivo maximiza el precio y disciplina los deberes del consejo.
+4. **Operación frustrada por competencia (remedies).** Dos líderes pactan fusionarse; la **COFECE**
+   determina que crearía poder de mercado y exige **desinversiones** (*remedies*) como condición. Las
+   partes negocian si aceptan los remedios o abandonan (*walk away*). Lección: la competencia define la
+   viabilidad y puede reconfigurar el *deal* (Libros 3 y 9 Nivel I).
+
+## 18. Casos reales (operaciones estilizadas y referentes)
+
+- **RJR Nabisco (1989, *Barbarians at the Gate*):** el LBO más famoso de la historia; ilustra la
+  dinámica de los *leveraged buyouts*, las subastas, los deberes del consejo y el apalancamiento
+  extremo de los años 80.
+- **Megafusiones que destruyeron valor (AOL–Time Warner, Daimler–Chrysler):** ejemplos clásicos de
+  **sinergias sobreestimadas** y **mala integración**: recuerdan que muchas fusiones **destruyen**
+  valor.
+- **Jurisprudencia de Delaware (Revlon, Unocal, Van Gorkom):** define los deberes del consejo en una
+  venta/OPA (Libro 7 Nivel III); derecho vivo del M&A.
+- **M&A en México (estilizado):** consolidaciones en banca, telecom, alimentos y retail; operaciones
+  cross-border con fondos globales; el papel de la COFECE en concentraciones relevantes.
+
+> *Nota de método (Manifiesto XI.5):* los casos se exponen por su valor formativo; verificar datos y
+> jurisprudencia vigente antes de invocarlos.
+
+## 19. Casos empresariales
+
+- **Crecimiento por adquisición (*buy-and-build*):** una empresa (o un fondo) adquiere varios
+  competidores pequeños para **consolidar** un sector fragmentado y ganar escala.
+- **Carve-out:** una corporación **vende una división** no estratégica para enfocarse en su negocio
+  central (y monetizar).
+- **Venta de empresa familiar:** los fundadores **venden** a un estratégico o a un fondo; el abogado
+  combina técnica de M&A con **planeación patrimonial** y manejo de la dimensión familiar/emocional.
+- **Joint venture (equity JV):** dos empresas crean una **sociedad conjunta** (S.A.P.I.) para un
+  proyecto, con SHA que regula gobierno, aportaciones, *deadlock* y salida (Libros 2 y 4 Nivel III).
+
+## 20. Casos corporativos (la conexión integral)
+
+Una operación de M&A **ensambla todos los libros**:
+- **Sociedades (LGSM):** qué se compra (acciones), cómo se transfieren (endoso + libro), las
+  vicisitudes (fusión, escisión).
+- **Contratos (Niveles I y III):** el SPA es un contrato (compraventa); los contratos de la *target* y
+  sus *change of control*.
+- **Obligaciones y Responsabilidad (Nivel II):** el régimen de indemnización (daños, cap, basket).
+- **Garantías (Nivel II) y Títulos/Operaciones de crédito (Nivel III):** el *acquisition finance* y el
+  *security package* (prenda sobre acciones, fideicomiso de flujos).
+- **Mercado de valores (LMV):** si hay emisoras → **OPA** y disclosure.
+- **Concurso:** el *distressed M&A* (comprar en crisis).
+- **Gobierno corporativo:** los **deberes del consejo** (Revlon, Unocal) al aprobar la operación.
+- **Competencia, fiscal, laboral:** las autorizaciones y los efectos.
+*Por eso este es el libro insignia: aquí converge toda la biblioteca.*
+
+## 21. Casos internacionales
+
+- **M&A cross-border:** operaciones que combinan **varias jurisdicciones** (la *target* en México, el
+  comprador extranjero, financiamiento en NY, garantías en varios países): se coordinan equipos
+  locales, ley aplicable (a menudo **NY/inglesa** para el SPA), foros y autorizaciones múltiples
+  (incluido *foreign investment screening* —CFIUS en EE. UU.—).
+- **Documentación anglosajona como estándar global:** el SPA cross-border sigue la **técnica
+  anglosajona** (definiciones, reps & warranties, indemnity, conditions, boilerplate); el abogado debe
+  redactar y negociar en **inglés jurídico**.
+- **R&W Insurance internacional:** mercado maduro en EE. UU./Europa, creciente en México; permite
+  *clean exits* y facilita los procesos competitivos.
+- **Competencia multijurisdiccional:** las grandes concentraciones requieren autorización en **varios
+  países** (COFECE, DOJ/FTC en EE. UU., Comisión Europea), con calendarios y *remedies* coordinados.
+- **Arbitraje internacional:** las disputas post-closing (indemnización, MAC) se resuelven a menudo en
+  **arbitraje** (CCI, LCIA), no en tribunales estatales.
