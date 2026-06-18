@@ -179,3 +179,89 @@ la vida del cliente corporativo:
 
 El abogado corporativo necesita este marco para todo lo demás: no se asesora "un contrato", se
 asesora **una empresa** que opera en el tráfico mercantil.
+
+
+## 10. Definiciones doctrinales
+
+- **Derecho Mercantil (Mantilla Molina):** el conjunto de normas jurídicas que regulan los **actos
+  de comercio** y, modernamente, la **empresa** y la actividad de los **comerciantes**. Es derecho
+  privado **especial**.
+- **Barrera Graf:** subraya el tránsito hacia un **derecho de la empresa**: la materia mercantil
+  moderna gravita en torno a la organización empresarial, no al acto aislado.
+- **Joaquín Rodríguez Rodríguez:** derecho mercantil como derecho profesional de los comerciantes y
+  de los actos de comercio, con fuerte componente de **usos**.
+- **Doctrina italiana (Asquini):** la célebre teoría de los **"perfiles" de la empresa**: la
+  empresa puede verse como **perfil subjetivo** (el empresario), **funcional** (la actividad),
+  **objetivo/patrimonial** (el establecimiento o fondo de comercio) y **corporativo** (la
+  organización de personas). Una de las construcciones más influyentes para entender la empresa.
+
+> **Lectura del Consejo:** la doctrina muestra una **evolución**: del derecho de los *actos de
+> comercio* (objetivo, francés) al derecho de la *empresa* (italiano-alemán). Para el abogado
+> corporativo moderno, **la empresa es el centro**: lo que asesora es una organización que produce
+> e intercambia, no un acto suelto.
+
+## 11. Definiciones legales (Código de Comercio — verificar versión vigente)
+
+- **Comerciantes — art. 3 C. Com.:** se reputan comerciantes (i) las personas que, teniendo
+  capacidad legal para ejercer el comercio, **hacen de él su ocupación ordinaria**; (ii) las
+  **sociedades** constituidas con arreglo a las leyes mercantiles; (iii) las sociedades extranjeras
+  o sus agencias que ejerzan actos de comercio en territorio nacional.
+- **Actos de comercio — art. 75 C. Com.:** enumeración (no taxativa, "enunciativa") de los actos
+  reputados de comercio (adquisiciones para reventa, operaciones de bancos, empresas de diversas
+  clases, títulos de crédito, etc.). La **fracción XXIV** abre la lista: son actos de comercio
+  "cualesquiera otros de naturaleza análoga".
+- **Aplicación supletoria del derecho civil — art. 2 C. Com.:** a falta de disposiciones del Código
+  de Comercio y demás leyes mercantiles, se aplicará el **derecho común** (civil) contenido en el
+  Código Civil Federal.
+- **Libertad de forma — art. 78 C. Com.:** en las convenciones mercantiles, cada uno se obliga
+  **en la manera y términos en que quiso obligarse**, sin que la validez dependa de formalidades
+  determinadas (consensualismo mercantil reforzado).
+- **Obligaciones del comerciante — arts. 16 y ss.:** inscripción en el **Registro Público de
+  Comercio**, llevar **contabilidad** adecuada, conservar la **correspondencia** y la documentación.
+
+## 12. Definición sencilla
+
+El **Derecho Mercantil** es el "derecho de los negocios": las reglas especiales —más rápidas y
+flexibles que las civiles— que rigen a quienes **se dedican al comercio** (los comerciantes y las
+empresas) y a los **actos de comercio** que realizan. Si el derecho civil es el de la vida privada
+ordinaria, el mercantil es el de la **actividad económica profesional**. Y cuando el derecho
+mercantil no tiene una regla, **se llena con el derecho civil** (supletoriedad).
+
+## 13. Conceptos fundamentales
+
+- **Materia mercantil / mercantilidad:** la cualidad de un acto, sujeto o relación de quedar regido
+  por el Derecho Mercantil (y no por el civil). Decide ley aplicable, jurisdicción, prescripción y
+  formalismo.
+- **Acto de comercio:** el acto jurídico (o hecho) que la ley reputa mercantil (art. 75 C. Com.),
+  por su **naturaleza** (intermediación con ánimo de lucro), por la **persona** que lo realiza
+  (comerciante en su giro) o por su **forma/objeto** (títulos de crédito, operaciones bancarias).
+- **Acto absolutamente mercantil:** mercantil siempre, lo realice quien lo realice (p. ej., los
+  actos sobre **títulos de crédito**, las operaciones de las **sociedades** mercantiles).
+- **Acto de comercio por conexión (accesorio):** civil en sí, pero mercantil porque accede a la
+  actividad del comerciante (lo accesorio sigue a lo principal).
+- **Acto mixto o unilateralmente mercantil:** mercantil para una parte y civil para la otra (p. ej.,
+  el consumidor que compra a un comerciante); rige el régimen mercantil con protecciones al no
+  comerciante.
+- **Comerciante:** quien hace del comercio su **ocupación ordinaria** (persona física) o toda
+  **sociedad mercantil** (persona moral, comerciante por su forma).
+- **Empresa:** organización profesional de **capital, trabajo y dirección** para producir o
+  intercambiar bienes o servicios en el mercado. Categoría central del derecho mercantil moderno.
+- **Empresario:** el titular (persona física o moral) que organiza y dirige la empresa, asumiendo
+  el riesgo.
+- **Establecimiento mercantil / fondo de comercio / negociación mercantil:** el conjunto organizado
+  de bienes y derechos (instalaciones, mercancías, **clientela**, nombre comercial, marcas, derechos
+  de arrendamiento) que constituye la empresa **en marcha** y puede transmitirse como **unidad**.
+- **Hacienda mercantil / aviamiento:** el valor que añade la **organización** (el negocio en marcha
+  vale más que la suma de sus activos): es el germen del **goodwill** y de las **sinergias** del
+  M&A.
+- **Fuentes del Derecho Mercantil:** (1) la **legislación mercantil** (Código de Comercio + leyes
+  especiales: LGSM, LGTOC, LMV, etc.); (2) los **usos y prácticas** mercantiles; (3) el **derecho
+  civil** como **supletorio** (art. 2 C. Com.).
+- **Usos mercantiles:** prácticas reiteradas del comercio con valor normativo (mucho más relevantes
+  que en el derecho civil); base de los Incoterms y de las prácticas bancarias y bursátiles.
+- **Registro Público de Comercio:** registro (operado a través del **SIGER** y vinculado al RUG)
+  donde se inscriben comerciantes, sociedades y ciertos actos, dándoles **publicidad** y
+  oponibilidad.
+- **Jurisdicción mercantil:** la competencia para conocer de las controversias mercantiles (juicios
+  mercantiles del Código de Comercio: ordinario, ejecutivo, oral), con reglas propias de prueba y
+  plazos.
