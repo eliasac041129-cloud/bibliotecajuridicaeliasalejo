@@ -535,3 +535,111 @@ los débiles.
   (cumplir o explicar por qué no): autorregulación con disciplina de mercado.
 - **ESG y *stewardship*:** los grandes inversores institucionales globales (fondos de pensiones,
   gestoras) ejercen presión por buen gobierno y sostenibilidad (códigos de *stewardship*).
+
+
+## 22. Derecho comparado
+
+| Sistema | Rasgos del gobierno corporativo |
+|---|---|
+| **México** | LGSM (sociedades en general) + LMV (S.A.B.: independientes ≥25%, comités de auditoría y prácticas societarias, deberes de diligencia y lealtad codificados, business judgment rule); Código de Principios de Gobierno Corporativo (CCE). |
+| **España** | Ley de Sociedades de Capital + Código de Buen Gobierno (CNMV); deberes de diligencia y lealtad detallados; "*comply or explain*". |
+| **Estados Unidos** | *Corporate law* estatal + Sarbanes-Oxley/Dodd-Frank; deberes fiduciarios desarrollados por la jurisprudencia; SEC para emisoras. |
+| **Delaware** | **El referente mundial:** business judgment rule, deberes de **cuidado** y **lealtad**, *Caremark* (supervisión), **Revlon** (venta de control) y **Unocal** (defensas anti-OPA); Court of Chancery. |
+| **Unión Europea** | Directivas (derechos de accionistas, *say on pay*, informe de sostenibilidad —CSRD—); modelos de consejo **monista** (un solo consejo) y **dualista** (consejo de dirección + de vigilancia, Alemania). |
+| **UNIDROIT/OCDE** | **Principios de Gobierno Corporativo de la OCDE/G20:** el estándar internacional (derechos y trato equitativo de accionistas, papel del consejo, transparencia, stakeholders, sostenibilidad). |
+| **UNCITRAL** | Trabajos sobre gobierno de empresas (incl. MSME). |
+| **Common Law** | Deberes fiduciarios de origen jurisprudencial (*duty of care*, *duty of loyalty*, *good faith*); fuerte litigio (class actions, *derivative suits*). |
+| **Civil Law** | Deberes codificados; consejo monista o dualista; convergencia hacia los estándares OCDE y la independencia. |
+
+> **Convergencia clave:** todos los sistemas reconocen los **deberes fiduciarios** (cuidado/diligencia
+> y lealtad), la **independencia** en el consejo, los **comités** (auditoría) y la **protección de
+> minorías**. **Delaware** es el laboratorio mundial de los estándares (Revlon, Unocal, business
+> judgment rule), que el abogado de M&A debe dominar (Nivel IV). La diferencia estructural relevante es
+> el modelo de consejo **monista** (México, EE. UU., España) vs. **dualista** (Alemania).
+
+## 23. Derecho mexicano
+
+- **LGSM (sociedades en general):** administración (142 y ss.), responsabilidad de administradores
+  (157-163), acción social de responsabilidad (163, minoría del 25%), vigilancia (164-171).
+- **LMV (emisoras / S.A.B.):** consejo y **consejeros independientes** (≥25%); **comités de auditoría y
+  de prácticas societarias**; **deberes de diligencia y lealtad** codificados (arts. 30-37) con
+  **business judgment rule**; régimen de **operaciones con partes relacionadas**; **S.A.P.I.** (gobierno
+  pactable).
+- **Código de Principios de Gobierno Corporativo (CCE):** mejores prácticas (recomendatorias) que
+  difunden estándares (consejo, comités, transparencia).
+- **Normas sectoriales:** bancos y entidades financieras con gobierno **reforzado** (CNBV); pronto,
+  estándares de **sostenibilidad/ESG** (disclosure).
+- **Responsabilidad penal de la persona moral (Libro 5 Nivel I):** fundamento de los **programas de
+  compliance**.
+
+## 24. Jurisprudencia relevante
+
+> Verificar vigencia antes de citar.
+- **Responsabilidad de administradores (LGSM):** alcance del deber y de la acción social de
+  responsabilidad.
+- **Deberes de diligencia y lealtad (LMV):** interpretación de su contenido y de la **business judgment
+  rule**.
+- **Operaciones con partes relacionadas:** estándares de revelación, precio de mercado y aprobación
+  independiente.
+- **Protección de minorías:** efectividad de sus derechos (convocar, designar, impugnar).
+- **(Comparado) Delaware:** Revlon, Unocal, Caremark, Smith v. Van Gorkom (deber de informarse) —
+  referencia obligada en M&A (Nivel IV).
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **Protección de minorías y derecho de información:** la SCJN ha reforzado el acceso a la información y
+  el control de los acuerdos sociales.
+- **Responsabilidad de administradores y deberes fiduciarios:** desarrollo del deber de diligencia y
+  lealtad (robusto en emisoras).
+- **Operaciones con partes relacionadas:** sanciones de la CNBV y criterios sobre conflictos de
+  interés.
+- **Levantamiento del velo (Libro 5 Nivel I):** desestimación de la personalidad en fraude/abuso, con
+  cautela.
+
+## 26. Doctrina nacional
+
+- **Doctrina sobre la LMV de 2005** (gobierno corporativo de la S.A.B., deberes fiduciarios): clave por
+  su actualidad.
+- **Código de Principios de Gobierno Corporativo (CCE) y literatura de mejores prácticas.**
+- **Doctrina de empresa familiar** (protocolo familiar, consejo, sucesión): muy relevante en México.
+- **Mantilla Molina / Barrera Graf:** marco societario base (órganos, responsabilidad).
+
+## 27. Doctrina internacional
+
+- **Berle & Means, *The Modern Corporation and Private Property*:** la obra fundacional.
+- **Jensen & Meckling, "Theory of the Firm" (teoría de la agencia).**
+- **Reinier Kraakman et al., *The Anatomy of Corporate Law*:** análisis funcional y comparado del
+  gobierno corporativo (lectura **imprescindible**).
+- **Stephen Bainbridge / Lucian Bebchuk:** debates sobre el poder del consejo vs. accionistas, y sobre
+  la compensación.
+- **Principios de Gobierno Corporativo de la OCDE/G20.**
+
+## 28. Opiniones críticas (postura del Consejo)
+
+1. **El consejero independiente es el alma del buen gobierno —si es de verdad independiente.** El
+   Consejo advierte contra los independientes "de membrete" (designados por el control, sin verdadera
+   autonomía); la independencia **real** (no formal) es lo que protege a los minoritarios.
+2. **Las operaciones con partes relacionadas son el principal canal de abuso (*tunneling*).** El
+   Consejo subraya que su control —revelación, precio de mercado, aprobación independiente— es la
+   prueba más exigente del gobierno corporativo, especialmente en empresas con un socio de control
+   dominante (frecuentes en México).
+3. **El gobierno corporativo crea valor; no es "burocracia".** El Consejo insiste en que las empresas
+   privadas y familiares que adoptan buen gobierno **anticipadamente** (consejo con independientes,
+   comités, deberes claros) **valen más**, atraen mejor inversión y se preparan para una IPO o un M&A.
+
+## 29. Debate doctrinal
+
+- **Shareholder vs. stakeholder primacy:** ¿el consejo debe maximizar el valor del **accionista**
+  (Friedman, Delaware clásico) o atender a todos los **grupos de interés** (stakeholder/ESG)? El gran
+  debate actual del gobierno corporativo.
+- **Poder del consejo vs. de los accionistas:** ¿debe el consejo tener amplia autonomía (Bainbridge,
+  *director primacy*) o deben los accionistas tener más voz (Bebchuk, *shareholder empowerment*: *say
+  on pay*, nominación de consejeros)?
+- **Compensación de directivos:** ¿alinea incentivos (acciones, opciones) o fomenta el cortoplacismo y
+  la extracción de valor? Debate sobre el *say on pay* y los límites a la compensación.
+- **Defensas anti-OPA:** ¿protegen a los accionistas de ofertas inadecuadas o atrincheran a los
+  directivos? (Unocal, poison pills — Nivel IV).
+- **Independencia real vs. formal:** ¿los criterios legales de "independencia" garantizan verdadera
+  autonomía, o son sorteables por el socio de control?
+- **ESG: ¿obligación fiduciaria o distracción?** ¿Integrar criterios ambientales y sociales es parte
+  del deber del consejo (largo plazo, riesgo) o una desviación del interés de los accionistas?
