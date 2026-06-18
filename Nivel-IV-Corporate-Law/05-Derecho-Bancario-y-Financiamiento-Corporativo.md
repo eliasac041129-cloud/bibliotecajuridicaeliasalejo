@@ -1072,3 +1072,229 @@ estos estándares con fluidez.
 - **Banco vs. mercado (crédito vs. bonos): ¿qué es mejor para la empresa?** *Postura del Consejo:* no hay
   respuesta única —el crédito da **flexibilidad** (renegociable); el bono da **plazo, monto y liquidez**
   pero es **rígido**—. La empresa sofisticada **combina** ambos según necesidad.
+
+## 30. Errores comunes
+
+- **Garantía que no se puede ejecutar rápido.** Constituir una hipoteca de ejecución judicial lenta cuando
+  el fideicomiso de garantía (ejecución ágil) era posible. *Corrección:* piensa **desde la ejecución**;
+  elige la garantía por su ejecutabilidad.
+- **No registrar la garantía.** Una prenda sin transmisión de posesión no inscrita en el **RUG** pierde
+  prelación frente a terceros. *Corrección:* registra siempre; la publicidad da prelación.
+- **Covenants laxos (covenant-lite).** Prestar sin covenants financieros adecuados y quedarse sin alertas
+  tempranas. *Corrección:* exige los ratios clave (apalancamiento, cobertura) y reportes periódicos.
+- **Ignorar el negative pledge.** No prohibir que el deudor dé garantías a otros y que aparezcan acreedores
+  con mejor prelación. *Corrección:* negative pledge robusto.
+- **LBO sin cuidar la asistencia financiera.** Usar los activos de la target para su propia compra violando
+  la ley. *Corrección:* estructura vía NewCo + fusión, respetando oposición de acreedores y capitalización.
+- **Olvidar el committed financing.** Firmar un SPA sin certeza de la deuda y no poder cerrar. *Corrección:*
+  asegura *certain funds* (commitment letter) antes de comprometerte.
+- **Descuidar el intercreditor.** Tener deuda senior y subordinada sin un acuerdo claro de prelación y
+  ejecución → caos en la crisis. *Corrección:* negocia el *intercreditor* al inicio, no en el incendio.
+- **Subestimar la prelación en el concurso.** Diseñar garantías sin pensar en cómo se tratarán en una
+  insolvencia. *Corrección:* analiza la prelación de la LCM desde el diseño.
+- **Importar contratos LMA sin anclarlos en derecho mexicano.** Cláusulas inejecutables localmente.
+  *Corrección:* adapta al marco mexicano (garantías, ejecución, usura).
+
+## 31. Mitos frecuentes
+
+- **"La garantía me asegura el cobro."** **Falso/matizado.** Solo si puedes **ejecutarla** rápido y tienes
+  buena prelación. Una garantía no ejecutable o mal registrada vale poco.
+- **"Más deuda siempre es mejor (apalancarse para crecer)."** **Falso.** El apalancamiento amplifica
+  ganancias **y pérdidas**; demasiada deuda lleva a la insolvencia. El nivel óptimo es un equilibrio.
+- **"Los covenants son trámite."** **Falso.** Son el **sistema de alerta** del acreedor; sin ellos, se
+  entera del problema demasiado tarde.
+- **"El project finance no tiene riesgo porque es non-recourse."** **Falso.** El riesgo se concentra en el
+  **proyecto** (¿generará el flujo?); por eso el análisis de viabilidad y de los contratos del proyecto es
+  obsesivo.
+- **"En el LBO, la empresa adquirida puede garantizar libremente su compra."** **Falso.** Hay **límites de
+  asistencia financiera** que proteger; debe estructurarse con cuidado.
+- **"Un bono es igual que un crédito, solo que en el mercado."** **Falso.** El bono es **rígido** (difícil
+  renegociar con miles de tenedores), líquido y público; el crédito es flexible y privado. Sirven a
+  necesidades distintas.
+- **"El derecho bancario es solo regulación aburrida."** **Falso.** Es la base de las operaciones más
+  grandes y mejor pagadas; estructurar deuda es ingeniería de alto nivel.
+
+## 32. Preguntas difíciles
+
+1. **¿Por qué un covenant financiero protege al acreedor *antes* del impago?** Porque mide la **salud** del
+   deudor (ratios) periódicamente; si se deteriora y rompe el covenant, el acreedor tiene una **alerta
+   temprana** y poder para actuar (renegociar, pedir garantías, acelerar) **antes** de que el deudor deje
+   de pagar. Es prevención, no reacción.
+2. **¿Por qué el fideicomiso de garantía le ganó terreno a la hipoteca?** Por la **ejecución**: el
+   fideicomiso permite una venta **extrajudicial** ágil del bien según lo pactado, mientras la hipoteca
+   suele requerir una ejecución **judicial** lenta. La garantía vale lo que vale su ejecución.
+3. **¿Cómo se financia un LBO sin violar la asistencia financiera?** Vía una **NewCo** que toma la deuda y
+   compra la target, seguida de una **fusión** (apalancada) que junta deuda y flujo en una sola sociedad,
+   **respetando** la oposición de acreedores, la capitalización y el interés social. La estructura (Libro
+   3) resuelve el límite legal.
+4. **¿Qué hace el intercreditor agreement y por qué es tan importante?** Ordena la relación entre
+   acreedores **senior** y **subordinados**: prelación de cobro, quién ejecuta y cuándo (*standstill* del
+   subordinado), reparto de lo recuperado. En la crisis, **decide quién manda**; por eso se negocia duro al
+   inicio.
+5. **¿Por qué el committed financing es condición para firmar el SPA?** Porque el comprador no puede
+   comprometerse firmemente a comprar si no tiene **certeza** de que tendrá el dinero al cierre. La
+   *commitment letter* con *certain funds* le da esa certeza, que el vendedor exige. Financiamiento y M&A
+   se entrelazan.
+
+## 33. Casos de examen (con respuesta modelo)
+
+**Caso A.** *Un banco va a prestar 300 millones a una empresa industrial para una nueva planta. ¿Qué
+paquete de garantías y covenants recomiendas?*
+**Respuesta modelo:** **Garantías:** **hipoteca o fideicomiso de garantía** sobre la planta y el terreno;
+**prenda sin transmisión de posesión** sobre la maquinaria, inventarios y cuentas por cobrar (inscritas en
+el RUG); **prenda sobre acciones** de la empresa; eventualmente **garantía corporativa** de la matriz.
+**Covenants:** afirmativos (estados financieros, seguros, permisos), negativos (negative pledge, límites a
+endeudamiento adicional, no vender activos clave, no dividendos por encima de límites) y **financieros**
+(Deuda/EBITDA máximo, cobertura de intereses, DSCR). **Eventos de incumplimiento** con cross-default y
+aceleración. Razonar: cubrir el cobro desde varios ángulos + vigilar la salud + alerta temprana.
+
+**Caso B.** *Un fondo de PE quiere comprar una empresa por 2,000 millones, con 1,200 de deuda, y usar los
+activos de la empresa como garantía. ¿Qué problema hay y cómo lo resuelves?*
+**Respuesta modelo:** El problema es la **asistencia financiera** (la target garantizando su propia
+compra), restringida para proteger a sus acreedores/minoritarios. *Solución:* estructura el LBO vía
+**NewCo** (toma la deuda, compra la target) + **fusión apalancada** posterior, cuidando la **oposición de
+acreedores** (Libro 3), la capitalización y el interés social. Estructurar la deuda en **tramos** (senior +
+mezzanine) con un **intercreditor agreement**, y asegurar **committed financing** para poder firmar el SPA.
+
+**Caso C.** *Una empresa quiere financiar una planta de energía renovable de 500 millones sin endeudar a
+sus accionistas. ¿Qué estructura propones?*
+**Respuesta modelo:** **Project finance**: crear un **SPV** que tome la deuda (recurso limitado a los
+patrocinadores); asegurar el flujo con un **PPA** (contrato de venta de energía) y contratos **EPC** y de
+operación sólidos; constituir un **fideicomiso** con **cascada de pagos** (operación → servicio de deuda →
+reserva DSRA → dividendos) y un paquete de garantías sobre el proyecto; covenants de **DSCR**. Razonar: el
+repago viene del **flujo del proyecto**, encerrado en el SPV.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Instrucciones:** eres asociado de *banking & finance*. Representas a un **sindicato de bancos** que
+> financiará la adquisición de *Alimentos del Bajío, S.A.* por un fondo de PE (deuda de 800 millones).
+> Diseña la operación antes de leer la guía.
+
+1. ¿Qué **estructura de deuda** propones (tramos)?
+2. ¿Qué **paquete de garantías** exiges?
+3. ¿Qué **covenants financieros** pones?
+4. ¿Cómo manejas la **asistencia financiera**?
+5. ¿Qué documentos y roles del **sindicato** se necesitan?
+
+> **Guía de solución (resumen).** **(1)** Deuda **senior** sindicada (la mayor parte) + posible
+> **mezzanine** subordinada, con **intercreditor agreement**. **(2)** Prenda sobre **acciones** de la
+> NewCo/target, **hipoteca/fideicomiso** sobre inmuebles, **prenda sin transmisión** sobre maquinaria/
+> inventarios/cuentas por cobrar, **fideicomiso de flujos** (cuentas controladas), **guarantees** de las
+> filiales. **(3)** Deuda/EBITDA máximo (decreciente en el tiempo), cobertura de intereses, DSCR, límite de
+> CapEx; con *cash sweep* (prepago obligatorio con exceso de caja). **(4)** Estructura **NewCo + fusión
+> apalancada**, cuidando oposición de acreedores, capitalización e interés social. **(5)** *Commitment
+> letter* con *certain funds*; *facilities agreement* estándar **LMA**; roles de **MLA/arranger**,
+> **agent** y **security agent**; *intercreditor agreement*; opiniones legales como CP.
+
+## 35. Flashcards
+
+- **¿Qué es una apertura de crédito?** Contrato por el que el acreditante pone una suma a disposición del
+  acreditado, que dispone y restituye con intereses (simple o revolvente).
+- **¿Tres tipos de covenants?** Afirmativos (hacer), negativos (no hacer), financieros (mantener ratios).
+- **¿Ejemplos de covenant financiero?** Deuda/EBITDA, cobertura de intereses, DSCR.
+- **¿Qué es la aceleración?** Hacer exigible toda la deuda de inmediato ante un evento de incumplimiento.
+- **¿Cross-default?** Incumplir otra deuda dispara el incumplimiento de esta.
+- **¿Garantías reales vs. personales?** Sobre un bien (hipoteca, prenda, fideicomiso) vs. un tercero
+  responde (aval, fianza, obligación solidaria, guarantee).
+- **¿Prenda sin transmisión de posesión?** El deudor conserva y usa el bien (maquinaria, inventarios), pero
+  queda gravado (inscrito en el RUG).
+- **¿Fideicomiso de garantía?** Transmisión de bienes a un fiduciario en garantía, con ejecución
+  extrajudicial ágil.
+- **¿Qué es la sindicación?** Varios bancos prestan juntos bajo un contrato; roles de arranger y agent.
+- **¿Project finance?** Financiar un proyecto por su propio flujo, vía un SPV, con recurso limitado y
+  cascada de pagos.
+- **¿LBO?** Comprar una empresa con mucha deuda, repagada con el flujo de la adquirida.
+- **¿Intercreditor agreement?** Acuerdo que ordena prelación y ejecución entre acreedores senior y
+  subordinados.
+- **¿Asistencia financiera?** Límite a que la target financie/garantice su propia compra.
+- **¿Bono vs. crédito?** Deuda de mercado (rígida, líquida, pública) vs. deuda bancaria (flexible, privada).
+
+## 36. Mapas mentales
+
+```
+                     FINANCIAMIENTO CORPORATIVO
+                              |
+   ┌──────────────┬──────────┼───────────────┬──────────────────┐
+ CONTRATO      GARANTÍAS    SINDICACIÓN     ESTRUCTURAS         MERCADO
+ DE CRÉDITO    reales +     (muchos bancos,  AVANZADAS          bonos /
+ (reps,        personales   un contrato;     project finance    certificados
+ covenants,    + paquete    arranger/agent)  (SPV, flujo,       bursátiles
+ eventos de    (ejecución!)                  cascada) ·         (indenture,
+ default,                                    acquisition/LBO    trustee,
+ aceleración)                                (tramos, inter-    calificación)
+                                             creditor, asist.
+                                             financiera)
+```
+
+```
+              CÓMO PIENSA EL PRESTAMISTA
+   ¿De dónde me PAGAN? ──► flujo del negocio / proyecto (repago)
+   ¿De dónde me COBRO si falla? ──► garantías (¡ejecutables!)
+   ¿Cómo VIGILO? ──► covenants (afirmativos/negativos/financieros)
+   ¿Cuándo REACCIONO? ──► eventos de default → aceleración
+   ¿Quién cobra PRIMERO? ──► prelación / intercreditor / concurso
+```
+
+## 37. Cuadros comparativos
+
+**Garantías reales**
+
+| | Hipoteca | Prenda sin posesión | Fideicomiso de garantía |
+|---|---|---|---|
+| Objeto | Inmuebles | Muebles (maquinaria, inventarios) | Bienes transmitidos al fiduciario |
+| Posesión | Deudor conserva | Deudor conserva y usa | Fiduciario (titular) |
+| Registro | RPP | RUG | Según bienes |
+| Ejecución | Judicial (lenta) | Judicial/pactada | **Extrajudicial ágil** |
+
+**Crédito bancario vs. Bono**
+
+| | Crédito | Bono |
+|---|---|---|
+| Prestamista | Banco(s) | Inversionistas múltiples |
+| Flexibilidad | Alta | Baja |
+| Liquidez | Baja | Alta |
+| Covenants | Intensos | Más ligeros (salvo high-yield) |
+| Revelación | Privada | Pública (prospecto) |
+
+**Tramos de deuda en un LBO**
+
+| Tramo | Riesgo | Tasa | Cobra |
+|---|---|---|---|
+| Senior (garantizada) | Bajo | Baja | Primero |
+| Mezzanine/subordinada | Medio-alto | Alta | Después |
+| Equity (fondo) | Alto | — | Al final (capta upside) |
+
+## 38. Diagramas
+
+**Estructura de un LBO (acquisition finance):**
+```
+FONDO PE ──equity──► NEWCO ◄──deuda (senior + mezzanine)── BANCOS/FONDOS
+                       │  compra acciones
+                       ▼
+                    TARGET  ──(fusión apalancada)──► flujo de la target sirve la deuda
+   [intercreditor agreement ordena senior vs. mezzanine] [cuidar asistencia financiera]
+```
+
+**Cascada de pagos del project finance:**
+```
+INGRESOS DEL PROYECTO (a cuenta controlada / fideicomiso)
+   1) Gastos de operación y mantenimiento
+   2) Impuestos
+   3) Servicio de la deuda (intereses + principal)
+   4) Cuenta de reserva del servicio de deuda (DSRA)
+   5) Cumplimiento del DSCR (si no se cumple → cash trap)
+   6) Dividendos a los patrocinadores (lo que sobra)
+```
+
+## 39. Mnemotecnias
+
+- **Cómo piensa el prestamista (PCVR):** ¿De dónde me **P**agan? · ¿De dónde me **C**obro (garantías)? ·
+  ¿Cómo **V**igilo (covenants)? · ¿Cuándo **R**eacciono (aceleración)?
+- **Tres covenants:** *"hacer (afirmativos), no hacer (negativos), mantenerse sano (financieros)"*.
+- **Garantía:** *"vale lo que vale su ejecución"*.
+- **Fideicomiso de garantía:** *"transmito para ejecutar rápido"*.
+- **Project finance:** *"presto al proyecto, no al dueño; me pago del flujo, no del bolsillo"*.
+- **LBO / palanca:** *"poco equity, mucha deuda: amplifica ganancias... y pérdidas"*.
+- **Asistencia financiera:** *"la comprada no paga su propia compra (sin estructurar bien)"*.
+- **Intercreditor:** *"senior manda, subordinado espera (standstill)"*.
+- **Regla de oro:** *"el financiamiento es confianza con candados, en el tiempo"*.
