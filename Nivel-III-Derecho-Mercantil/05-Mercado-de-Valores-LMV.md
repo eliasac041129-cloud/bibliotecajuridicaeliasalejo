@@ -422,3 +422,99 @@ Y si alguien quiere **comprar todo tu restaurante** cuando ya es público, no pu
 contigo: debe ofrecer comprar a **todos los dueñitos** en las mismas condiciones (eso es la **OPA**).
 Todo este libro trata de cómo funciona esa "feria del dinero" y cómo el derecho la mantiene
 **confiable** con información, vigilancia y buen gobierno.
+
+
+## 16. Ejemplos simples
+
+1. **IPO.** Una empresa de tecnología necesita $5,000M para crecer. Se convierte en **S.A.B.** y
+   **coloca acciones** entre el público (IPO): miles de inversionistas le entregan capital y reciben
+   acciones que cotizarán en la bolsa.
+2. **Certificado bursátil (deuda).** Una empresa, en vez de pedir un crédito bancario, emite
+   **certificados bursátiles** por $2,000M a 5 años: el público le presta y la empresa paga
+   intereses, sin diluir su capital.
+3. **Insider trading.** Un directivo se entera de que su empresa anunciará una fusión que disparará el
+   precio; compra acciones **antes** del anuncio. Es **uso de información privilegiada**: delito y
+   falta administrativa.
+4. **Evento relevante.** Una emisora firma un contrato que duplicará sus ingresos: debe **revelarlo**
+   al mercado como **evento relevante**, de forma veraz y oportuna.
+5. **OPA.** Un inversionista quiere adquirir el control de una emisora; debe lanzar una **oferta
+   pública de adquisición (OPA)** a **todos** los accionistas, no comprar solo a unos cuantos en
+   secreto.
+
+## 17. Ejemplos complejos
+
+1. **IPO y responsabilidad por el prospecto.** Una empresa sale a bolsa; el **prospecto** omitió un
+   **riesgo material** (una contingencia ambiental grave). Tras el listado, el riesgo se materializa y
+   la acción se desploma. Los inversionistas demandan: la emisora y quienes firmaron el prospecto
+   responden por la **información engañosa u omisa**. Lección: la **due diligence** y la veracidad del
+   prospecto son responsabilidad seria (civil, administrativa y penal).
+2. **OPA obligatoria y protección de minoritarios.** Un grupo adquiere sigilosamente acciones hasta
+   rebasar el umbral de **control** sin lanzar OPA. La CNBV interviene: debió lanzar una **OPA
+   forzosa** para que los minoritarios pudieran **salir** en las mismas condiciones (equal treatment).
+   Lección: tomar el control de una pública **dispara** la obligación de OPA; eludirla es sancionable.
+3. **OPA hostil y deberes del consejo.** Un postor lanza una OPA **hostil** (sin acuerdo del consejo
+   de la *target*). El consejo debe actuar en el **interés de los accionistas** (no atrincherarse para
+   conservar su puesto); emite su opinión y, en su caso, busca un **caballero blanco** (otro postor
+   mejor). Lección: ante una OPA, los deberes fiduciarios del consejo se ponen a prueba (Nivel IV:
+   Revlon/Unocal).
+4. **Operación con parte relacionada.** El director general de una S.A.B. quiere que la empresa
+   compre un inmueble a una sociedad de su propiedad. Es una **operación con parte relacionada**: debe
+   revelarse, pasar por el **comité de prácticas societarias** y aprobarse sin su voto, a precio de
+   mercado. Lección: las partes relacionadas son zona de máximo riesgo de conflicto de interés.
+
+## 18. Casos reales (jurisprudencia, regulación y operaciones estilizadas)
+
+- **Securities Act 1933 / Exchange Act 1934 (EE. UU.):** el modelo mundial de *full disclosure* y la
+  creación de la **SEC**; base conceptual de la regulación bursátil (incluida la mexicana).
+- **Sarbanes-Oxley (2002) y los escándalos Enron/WorldCom:** el fraude contable de Enron detonó una
+  reforma global del **gobierno corporativo**, la **auditoría** y la **responsabilidad de
+  directivos** (certificación de estados financieros). Influyó en el reforzamiento del gobierno
+  corporativo en la LMV de 2005.
+- **Insider trading (casos emblemáticos):** sanciones a directivos e inversionistas por operar con
+  información privilegiada (en EE. UU., casos célebres; en México, sanciones de la CNBV).
+- **OPAs en México (operaciones estilizadas):** tomas de control de emisoras vía OPA, con protección
+  de minoritarios y revisión de la CNBV.
+
+> *Nota de método (Manifiesto XI.5):* verificar la vigencia y los datos de los casos y normas antes
+> de invocarlos; se exponen por su valor formativo.
+
+## 19. Casos empresariales
+
+- **Decisión de salir a bolsa (IPO) o permanecer privada:** sopesar el acceso a capital y liquidez vs.
+  el costo de la transparencia, el gobierno corporativo y el escrutinio. Muchas familias eligen seguir
+  **privadas** (o usar **S.A.P.I.**) para conservar el control y la privacidad.
+- **Financiamiento vía deuda bursátil:** una empresa grande emite **certificados bursátiles** para
+  financiarse más barato que con crédito bancario.
+- **FIBRA inmobiliaria:** una empresa con un portafolio de inmuebles los aporta a una **FIBRA** y
+  bursatiliza sus rentas, captando capital y dando liquidez a los inversionistas.
+- **Afores y CKDs:** los fondos de pensiones invierten parte de su portafolio en **CKDs/CERPIs**,
+  canalizando ahorro al **private equity** y la infraestructura (conexión Nivel IV).
+
+## 20. Casos corporativos (en transacciones)
+
+- **IPO como salida (exit) de un fondo de PE/VC:** un fondo que invirtió en una empresa la **lleva a
+  bolsa** para vender su participación con liquidez y a buen precio (uno de los *exits* clásicos del
+  PE/VC — Nivel IV).
+- **OPA como vía de adquisición:** comprar una empresa pública requiere una **OPA** (no un simple
+  SPA); el régimen de la LMV se suma al societario y al de competencia.
+- **Fusión de emisoras:** la fusión de dos sociedades públicas combina derecho societario (LGSM),
+  bursátil (LMV: disclosure, OPA si hay cambio de control) y de competencia (COFECE).
+- **Dual track:** un fondo prepara **simultáneamente** una venta privada (M&A) y una **IPO**, y elige
+  la que dé mejor valor (*dual-track process*).
+- **Gobierno corporativo como valor en M&A:** una emisora con gobierno corporativo robusto es más
+  valiosa y más fácil de adquirir/fusionar.
+
+## 21. Casos internacionales
+
+- **Dual listing / ADRs:** empresas mexicanas que cotizan también en EE. UU. (vía **ADRs** —American
+  Depositary Receipts—) quedan sujetas a la **SEC** y a la regulación estadounidense (incluida
+  Sarbanes-Oxley), además de la mexicana.
+- **Regulación comparada:** la **SEC** (EE. UU.) es el referente; la **UE** armoniza vía reglamentos
+  (Folleto/Prospectus, Abuso de Mercado —MAR—); el Reino Unido (FCA) y otros tienen reguladores
+  potentes. Todos comparten el ADN del *disclosure* y la prohibición del *insider trading*.
+- **Ofertas internacionales (Reg S / Rule 144A):** las emisiones que se colocan también fuera de
+  México usan exenciones de la regulación estadounidense (Reg S para ofertas *offshore*, Rule 144A
+  para inversionistas institucionales calificados —QIBs—).
+- **Estándares de gobierno corporativo (OCDE):** los Principios de Gobierno Corporativo de la OCDE
+  influyen en la regulación de todos los mercados (consejos, independientes, derechos de accionistas,
+  transparencia).
