@@ -625,3 +625,187 @@ Todo este libro trata de cómo funciona esa "feria del dinero" y cómo el derech
   inversionista (Libro 10 Nivel I).
 - **Regulación vs. innovación (fintech, cripto):** cómo regular el *crowdfunding*, los activos
   digitales y las nuevas plataformas sin asfixiar la innovación ni desproteger al inversionista.
+
+
+## 30. Errores comunes
+
+- **Omitir un riesgo material en el prospecto.** Genera **responsabilidad civil, administrativa y
+  penal** de la emisora y los firmantes; el *disclosure* veraz es innegociable.
+- **Operar con información privilegiada.** *Insider trading*: delito y falta administrativa; uno de los
+  mayores riesgos personales de directivos y asesores.
+- **No revelar un evento relevante a tiempo** (o filtrarlo selectivamente): viola el deber de
+  disclosure e igualdad de los inversionistas.
+- **Tomar el control de una emisora sin lanzar la OPA obligatoria:** sancionable; viola la protección
+  de minoritarios.
+- **Confundir oferta pública con privada:** colocar entre el público sin cumplir el régimen de oferta
+  pública (RNV, prospecto, CNBV) es ilegal.
+- **Operaciones con partes relacionadas sin el proceso debido** (revelación, comité, precio de
+  mercado): zona de máximo riesgo de conflicto.
+- **Subestimar el costo de ser pública:** disclosure continuo, gobierno corporativo y responsabilidad
+  agravada.
+
+## 31. Mitos frecuentes
+
+- *"Salir a bolsa es solo conseguir dinero."* **Falso:** implica transparencia permanente, gobierno
+  corporativo reforzado y escrutinio del mercado (cambio cultural irreversible).
+- *"El insider trading es difícil de detectar, así que se puede."* **Falso y peligroso:** los
+  reguladores rastrean operaciones; es delito con consecuencias graves.
+- *"La CNBV garantiza que la inversión es buena."* **Falso:** la CNBV vigila el *disclosure* y la
+  integridad del mercado, **no** la calidad de la inversión (que decide el inversionista informado).
+- *"Comprar acciones en bolsa hasta tener el control no requiere nada especial."* **Falso:** rebasar
+  umbrales de control dispara la **OPA obligatoria**.
+- *"Una S.A.B. y una S.A. privada se gobiernan igual."* **No:** la S.A.B. tiene gobierno reforzado
+  (independientes, comités, deberes agravados).
+
+## 32. Preguntas difíciles
+
+1. ¿Cómo equilibrar el **costo del disclosure** (que desincentiva salir a bolsa) con la **protección
+   del inversionista**? ¿Por qué el mercado mexicano es tan pequeño?
+2. ¿Las **defensas anti-OPA** (poison pills) protegen a los accionistas o atrincheran a los
+   directivos? ¿Deberían permitirse en México?
+3. ¿Debe el *disclosure* incluir obligatoriamente información **ESG** (sostenibilidad), y con qué
+   estándar?
+4. ¿Cómo regular el ***crowdfunding*** y los **activos digitales** (cripto) sin asfixiar la innovación
+   ni desproteger al pequeño inversionista?
+5. ¿La **dualidad de bolsas** (BMV/BIVA) y la competencia mejoran el mercado o lo fragmentan?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**P1.** *¿Cuál es el principio rector de la regulación del mercado de valores?* **R.** El ***full
+disclosure***: proteger al inversionista **obligando a revelar** información veraz, suficiente y
+oportuna (prospecto, eventos relevantes), no prohibiéndole invertir; complementado con la prohibición
+del *insider trading* y la manipulación.
+
+**P2.** *Distinga mercado primario y secundario.* **R.** En el **primario**, la emisora **coloca** los
+valores y recibe el capital (IPO, emisión de deuda); en el **secundario**, los inversionistas los
+negocian entre sí en la bolsa (liquidez y formación de precio; la emisora ya no recibe dinero).
+
+**P3.** *¿Qué es la S.A.B. y qué gobierno corporativo exige?* **R.** Sociedad Anónima Bursátil
+(emisora); requiere consejo con **consejeros independientes** (mín. 25%), **comités de auditoría y de
+prácticas societarias**, y deberes de **diligencia y lealtad** agravados de consejeros y director
+general (LMV).
+
+**P4.** *¿Qué es el insider trading y por qué se prohíbe?* **R.** Operar valores usando información
+**relevante y no pública**; se prohíbe (delito y falta) porque rompe la **igualdad** entre
+inversionistas y destruye la **confianza** en el mercado.
+
+**P5.** *¿Cuándo es obligatoria una OPA?* **R.** Cuando se pretende adquirir el **control** de una
+emisora (rebasar los umbrales legales): la ley obliga a lanzar una **OPA** para que los minoritarios
+puedan **salir** en las mismas condiciones (trato igualitario).
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** asociado de mercados de capitales. **Cliente:** una empresa familiar exitosa (hoy S.A.P.I.)
+> que quiere **salir a bolsa (IPO)** para financiar su expansión y dar liquidez a una rama de la
+> familia que quiere salir.
+>
+> **Tarea:** elabora una **hoja de ruta de la IPO** que cubra: (1) la **reorganización** societaria y
+> de gobierno (de S.A.P.I. a **S.A.P.I.B./S.A.B.**: consejo con **independientes**, comités de
+> auditoría y prácticas societarias, deberes fiduciarios); (2) la **due diligence** y la preparación
+> del **prospecto** (factores de riesgo, información financiera) y su responsabilidad; (3) la
+> **inscripción en el RNV** y autorización de la **CNBV**, y el listado (BMV/BIVA); (4) el
+> **underwriting** (en firme vs. mejores esfuerzos), roadshow y fijación de precio; (5) el régimen
+> **post-IPO** (disclosure continuo, eventos relevantes, ventanas de operación, listas de personas con
+> información privilegiada); (6) cómo la familia conserva control (acciones de voto, estructura) sin
+> violar la protección de minoritarios. Concluye con los **3 riesgos** principales (responsabilidad por
+> el prospecto, insider trading, pérdida de control) y su mitigación.
+
+*(Pista de evaluación: la mejor respuesta trata la IPO como un proyecto de **gobierno corporativo +
+disclosure**, no solo financiero; cuida la veracidad del prospecto, el régimen anti-insider, y diseña
+una estructura que equilibre el control familiar con la protección de minoritarios.)*
+
+## 35. Flashcards
+
+- **¿Principio rector?** → Full disclosure (revelar la verdad para que el inversionista decida).
+- **¿Mercado primario vs. secundario?** → Colocación inicial (emisora recibe capital) vs. negociación
+  entre inversionistas (liquidez/precio).
+- **¿Qué es una IPO?** → Oferta pública inicial: primera colocación de acciones al público (salir a
+  bolsa).
+- **¿Prospecto?** → Documento de disclosure (negocio, riesgos, finanzas, términos de la oferta).
+- **¿Regulador en México?** → La **CNBV**.
+- **¿S.A.B.?** → Sociedad Anónima Bursátil; gobierno corporativo reforzado (independientes, comités).
+- **¿Insider trading?** → Operar con información relevante no pública (prohibido; delito).
+- **¿Manipulación de mercado?** → Alterar artificialmente precio/volumen (prohibida).
+- **¿Evento relevante?** → Hecho que puede influir en el precio; debe revelarse veraz y oportunamente.
+- **¿OPA?** → Oferta pública de adquisición; obligatoria al tomar el control (protege minoritarios).
+- **¿Certificado bursátil?** → Deuda de la emisora colocada en el mercado.
+- **¿FIBRA / CKD?** → Vehículos bursátiles (inmobiliario / capital de desarrollo y proyectos).
+
+## 36. Mapas mentales
+
+```
+MERCADO DE VALORES (LMV)
+├── PARTICIPANTES
+│   ├── Emisoras (S.A.B.) · Inversionistas (incl. Afores, institucionales)
+│   ├── Intermediarios (casas de bolsa, bancos de inversión)
+│   ├── Bolsas (BMV, BIVA) · Indeval (depósito/liquidación)
+│   └── CNBV (regulador) · Banxico/SHCP
+├── INSTRUMENTOS
+│   ├── Capital: ACCIONES
+│   ├── Deuda: certificados bursátiles · obligaciones
+│   └── Vehículos: FIBRAS (inmobiliario) · CKDs/CERPIs (PE/proyectos)
+├── OFERTA PÚBLICA / IPO
+│   └── Reorg → due diligence → PROSPECTO → RNV/CNBV → underwriting → listado
+├── S.A.B. + GOBIERNO CORPORATIVO REFORZADO
+│   └── Consejo + INDEPENDIENTES · comités (auditoría, prácticas societarias) · deberes fiduciarios
+├── INFORMACIÓN Y CONDUCTA
+│   ├── DISCLOSURE (prospecto + eventos relevantes)
+│   ├── Prohibido: INSIDER TRADING · manipulación
+│   └── Partes relacionadas (revelación + comité + precio de mercado)
+└── M&A PÚBLICO
+    └── OPA (voluntaria/obligatoria; amistosa/hostil) → protección de minoritarios
+```
+
+## 37. Cuadros comparativos
+
+**Financiamiento: crédito vs. mercado de valores**
+
+| | Crédito (banca/LGTOC) | Mercado de valores |
+|---|---|---|
+| De quién | De un banco/acreedor | Del público inversionista |
+| Escala | Limitada | Muy grande |
+| Costo de transparencia | Menor | Alto (disclosure, gobierno) |
+| Instrumento | Pagaré, contrato de crédito | Acciones, certificados bursátiles |
+
+**Mercado primario vs. secundario**
+
+| | Primario | Secundario |
+|---|---|---|
+| Qué ocurre | Colocación inicial (IPO/emisión) | Negociación entre inversionistas |
+| ¿La emisora recibe dinero? | Sí | No |
+| Función | Captar capital | Liquidez y formación de precio |
+
+**S.A. privada vs. S.A.B.**
+
+| | S.A. / S.A.P.I. (privada) | S.A.B. (pública) |
+|---|---|---|
+| Acciones | No cotizan | Cotizan en bolsa |
+| Gobierno corporativo | Flexible | Reforzado (independientes, comités) |
+| Disclosure | Mínimo | Continuo (eventos relevantes) |
+| Adquisición | SPA privado | **OPA** |
+
+## 38. Diagramas
+
+**Anatomía de una IPO:**
+```
+Decisión → Reorganización (S.A.B. + gobierno) → DUE DILIGENCE → PROSPECTO
+   → Inscripción RNV + autorización CNBV → Underwriting (roadshow, book-building, precio)
+   → LISTADO (BMV/BIVA) → vida pública: DISCLOSURE continuo
+```
+
+**OPA (toma de control de una emisora):**
+```
+¿Quiero el CONTROL de una pública? → no puedo comprar solo a unos
+   → debo lanzar OPA a TODOS los accionistas (trato igualitario)
+   → ¿amistosa (con el consejo) u hostil? → consejo opina (interés de accionistas)
+```
+
+## 39. Mnemotecnias
+
+- **Principio rector:** *"disclosure: que digan la verdad y el inversionista decida"*.
+- **Mercados:** *"primario = la empresa cobra; secundario = los inversionistas se lo pasan"*.
+- **S.A.B.:** *"pública = independientes + comités + disclosure + responsabilidad"*.
+- **Insider trading:** *"información secreta + operar = delito"*.
+- **OPA:** *"para el control de una pública, ofreces a TODOS por igual"*.
+- **Vehículos:** *"FIBRA = ladrillos (inmuebles); CKD = capital de proyectos/PE"*.
+- **CNBV:** *"vigila la verdad y la integridad, no la calidad de la inversión"*.
