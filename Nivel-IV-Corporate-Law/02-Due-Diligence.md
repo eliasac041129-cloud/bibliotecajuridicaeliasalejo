@@ -371,3 +371,114 @@ cada término con su definición rigurosa; son el vocabulario del oficio.
   financiera, sobre todo para fondos.
 
 Con este vocabulario fijado, ya podemos entrar al **desarrollo absoluto** de la materia.
+
+## 14. Desarrollo absoluto
+
+Esta es la sección central del libro. La desarrollamos en cinco bloques: **(A)** las áreas o tipos de
+due diligence —qué se investiga y qué busca cada especialista—; **(B)** el proceso y sus fases —cómo se
+ejecuta de principio a fin—; **(C)** el data room y la dinámica de Q&A —dónde y cómo se revisa—; **(D)**
+los *red flags* y la materialidad —cómo se jerarquiza el riesgo—; y **(E)** del hallazgo a la cláusula
+—cómo cada riesgo se traduce en protección contractual—. Estúdialos en ese orden: primero qué se busca,
+luego cómo, después cómo se valora y, por último, qué se hace con lo encontrado.
+
+### 14.A · Las áreas de la due diligence (qué se investiga y qué busca cada una)
+
+La due diligence es **multidisciplinaria**: distintos especialistas revisan distintas dimensiones de la
+*target*, coordinados por el abogado de M&A (que suele actuar como director de orquesta del *workstream*
+legal y como punto de integración de los hallazgos). Estas son las áreas principales. Aprende, de cada
+una, **qué busca** y **cuáles son sus *red flags* típicos**.
+
+**1) Due diligence corporativa/societaria.** Es la base. Verifica que la *target* **existe legalmente y
+es lo que dice ser**: acta constitutiva y estatutos vigentes; que las **acciones existen y están
+válidamente emitidas y pagadas**; el **libro de registro de accionistas** (¿quién es realmente dueño de
+qué?); las actas de asambleas y de consejo; los poderes vigentes; y, crucialmente, la **cadena de
+titularidad** (¿el vendedor es de verdad el dueño de las acciones que vende?). *Red flags típicos:*
+acciones mal emitidas, capital no pagado, conflictos entre socios, opciones o convertibles olvidados que
+diluyen, poderes revocados, falta de quórum en decisiones clave. **Sin propiedad clara de las acciones,
+no hay nada que comprar**: esta área es condición de todo lo demás.
+
+**2) Due diligence contractual.** Revisa los **contratos materiales** de la empresa: con clientes,
+proveedores, distribuidores, arrendamientos, financiamientos, licencias. Busca tres cosas sobre todo:
+**(i)** cláusulas de **change of control** (que permiten a la contraparte terminar o renegociar el
+contrato si la *target* cambia de dueño —el riesgo de que el activo se evapore justo al comprar—);
+**(ii)** cláusulas de **exclusividad, no competencia o *most favored nation*** que limiten el negocio; y
+**(iii)** **obligaciones onerosas, penas, garantías o plazos** problemáticos. *Red flags típicos:*
+contratos clave con *change of control*, dependencia de un solo cliente o proveedor, contratos vencidos
+o sin firmar, penalizaciones desproporcionadas.
+
+**3) Due diligence fiscal.** Examina la **situación tributaria**: declaraciones, pago de impuestos,
+créditos fiscales, devoluciones, regímenes especiales, precios de transferencia (operaciones
+intragrupo), y **contingencias fiscales** (impuestos que la autoridad podría reclamar). Es de las áreas
+más delicadas porque los pasivos fiscales **pueden ser enormes y ocultos**, y porque la estructura de la
+operación (share vs. asset) tiene fuertes consecuencias fiscales. *Red flags típicos:* esquemas
+agresivos de elusión, deducciones cuestionables, precios de transferencia sin soporte, créditos fiscales
+inexistentes, omisiones que prescriben pronto, contingencias por operaciones simuladas (en México, el
+temido riesgo de **EFOS/EDOS** —empresas que facturan operaciones simuladas—).
+
+**4) Due diligence financiera y contable (incluye Quality of Earnings).** Verifica que los **estados
+financieros reflejen la realidad** y analiza la **calidad de las utilidades** (QoE): cuánto del
+resultado es **recurrente y sostenible** frente a lo que es extraordinario o "maquillado". Revisa deuda
+(incluida la **deuda oculta** y los pasivos contingentes), capital de trabajo, la caja real, y la base
+sobre la que se calculará el precio. *Red flags típicos:* ingresos inflados o reconocidos antes de
+tiempo, gastos capitalizados indebidamente, deuda no revelada, dependencia de ingresos no recurrentes,
+capital de trabajo deteriorado.
+
+**5) Due diligence laboral y de seguridad social.** Revisa la **relación con los trabajadores**:
+contratos, plantilla, sindicatos y contrato colectivo, prestaciones, planes de pensiones, pasivos por
+despidos, juicios laborales, y el cumplimiento de cuotas de seguridad social (IMSS, INFONAVIT) y de la
+normativa sobre **subcontratación** (en México, la reforma que prohibió la subcontratación de personal,
+con fuertes contingencias para quien la usó mal). *Red flags típicos:* juicios laborales numerosos,
+pasivos por pensiones subvaluados, esquemas de *outsourcing* ilegales, sindicato hostil, pasivos por
+prima de antigüedad.
+
+**6) Due diligence regulatoria y de permisos.** Verifica que la *target* tiene **todos los permisos,
+licencias, concesiones y autorizaciones** que su actividad requiere, que están **vigentes** y que son
+**transferibles** (o que sobreviven al cambio de control). En sectores regulados (banca, energía,
+telecom, salud), evalúa si la operación requiere **autorización del regulador**. *Red flags típicos:*
+operar sin permiso, permisos a punto de vencer o no transferibles, incumplimientos sancionables,
+concesiones con cláusulas de reversión.
+
+**7) Due diligence de competencia económica (antitrust).** Evalúa si la operación es **notificable** a
+la COFECE (o a autoridades extranjeras si hay efectos transfronterizos), el **riesgo de que se objete**
+(por crear poder de mercado) y el calendario que ello impone. Conecta directamente con el *gun jumping*
+del Libro 1. *Red flags típicos:* alta concentración resultante, riesgo de condiciones o de bloqueo,
+operaciones previas no notificadas.
+
+**8) Due diligence ambiental.** Especialmente relevante en industria, energía, minería, inmobiliario y
+manufactura. Revisa permisos ambientales, cumplimiento de la normativa, **pasivos por contaminación**
+(que pueden ser enormes y de largo plazo), estudios de impacto, y responsabilidad por sitios
+contaminados. *Red flags típicos:* suelos o aguas contaminados, falta de autorización de impacto
+ambiental, sanciones de la autoridad ambiental, pasivos de remediación.
+
+**9) Due diligence de propiedad intelectual (PI) y tecnología.** Verifica la **titularidad y vigencia**
+de marcas, patentes, derechos de autor y nombres de dominio; que la PI **clave del negocio sea
+propiedad de la target** (y no de un fundador a título personal, error frecuente en *startups*); las
+licencias (especialmente de software, incluido el riesgo del *open source*); y litigios de
+infracción. *Red flags típicos:* PI registrada a nombre equivocado, marcas no renovadas, licencias de
+software sin pagar, software propio que infringe *open source*, dependencia de PI de terceros.
+
+**10) Due diligence de tecnología, datos y ciberseguridad.** Cada vez más central. Revisa los sistemas,
+la dependencia tecnológica, el cumplimiento de **protección de datos personales** (consentimientos,
+avisos de privacidad, transferencias), y el historial de **incidentes de ciberseguridad** (brechas de
+datos que generan pasivos y daño reputacional). *Red flags típicos:* brechas de datos no reportadas,
+incumplimiento de la normativa de privacidad, sistemas obsoletos, dependencia de un proveedor crítico.
+
+**11) Due diligence de compliance y anticorrupción.** Revisa el **programa de cumplimiento** de la
+*target*, su exposición a **corrupción** (especialmente si hace negocios con el gobierno o en
+jurisdicciones de riesgo), prevención de lavado de dinero, sanciones internacionales, y conflictos de
+interés. Como vimos, aquí "no investigar" es peligrosísimo: el comprador puede **heredar la
+responsabilidad** por actos de corrupción de la *target*. *Red flags típicos:* pagos sospechosos a
+funcionarios o intermediarios, ausencia de programa de compliance, operaciones en países sancionados,
+banderas de lavado.
+
+**12) Due diligence de litigios y contingencias.** Mapea **todos los juicios y procedimientos** en los
+que la *target* es parte (civiles, mercantiles, laborales, fiscales, administrativos, penales) y estima
+su **probabilidad e impacto**. Es transversal a varias áreas. *Red flags típicos:* litigios de alto
+monto, demandas colectivas, investigaciones de autoridades, contingencias mal provisionadas.
+
+**Cómo encaja todo:** el abogado de M&A **coordina** estas áreas, integra los hallazgos en una **visión
+de riesgo única** y los traduce en decisiones de precio, estructura y contrato. No necesita ser experto
+fiscal o ambiental, pero **sí** debe saber qué busca cada área, **leer** sus reportes con criterio
+jurídico y **conectar** los puntos: un *red flag* fiscal puede exigir una indemnización especial; uno de
+*change of control*, una condición al *closing*; uno ambiental grave, un descuento, un *escrow* o el
+abandono del deal.
