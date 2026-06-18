@@ -651,3 +651,199 @@ la economía.
 - **Protección del deudor vs. seguridad de la circulación:** la tensión permanente entre proteger al
   tenedor de buena fe (autonomía, vía ejecutiva) y proteger al firmante (control de usura, pagaré en
   blanco, defensa frente a abusos).
+
+
+## 30. Errores comunes
+
+- **Firmar un pagaré "en blanco" sin entender la literalidad y la autonomía.** Quien lo llene puede
+  fijar monto y fecha; y si circula, el deudor casi no podrá defenderse del negocio de fondo.
+- **Creer que se puede oponer el negocio causal a cualquier tenedor.** Frente al **tercero de buena
+  fe**, solo proceden las excepciones del **art. 8** (autonomía).
+- **Descuidar los requisitos esenciales del título.** Un pagaré sin promesa incondicional, sin firma
+  o sin los datos esenciales (art. 170) puede **no valer** como título (se pierde la vía ejecutiva).
+- **No verificar la cadena de endosos.** Una cadena rota = **falta de legitimación**; el actor no
+  puede cobrar.
+- **Confundir aval (autónomo) con fianza (accesoria).** El aval vale aun si la obligación avalada es
+  nula por vicio de fondo (art. 114); la fianza, no.
+- **Librar cheques sin fondos.** Consecuencias civiles **y penales**.
+- **Pactar intereses usurarios en pagarés.** Riesgo de **moderación judicial** de oficio.
+
+## 31. Mitos frecuentes
+
+- *"Si la mercancía salió mala, no pago el pagaré."* **Falso** frente a un tercero de buena fe
+  (autonomía): pagas y reclamas a tu vendedor.
+- *"El aval es lo mismo que la fianza."* **No:** el aval es **autónomo** (art. 114).
+- *"Un pagaré sin fecha de pago no vale."* **Matiz:** si falta la época de pago, se considera
+  **pagadero a la vista** (regla supletoria), pero faltar requisitos esenciales sí lo invalida como
+  título.
+- *"El cheque es un instrumento de crédito."* **Falso:** es de **pago**, pagadero a la vista;
+  postdatarlo no lo convierte en crédito.
+- *"En la vía ejecutiva no se puede alegar la usura."* **Falso:** la SCJN obliga a analizarla de
+  oficio y permite moderar tasas.
+
+## 32. Preguntas difíciles
+
+1. ¿Hasta dónde debe llegar la **abstracción** del pagaré frente a un firmante que no entendió su
+   alcance, sin destruir la seguridad de la circulación?
+2. Con la **desmaterialización**, ¿sigue siendo necesaria la "posesión del documento", o basta la
+   anotación en cuenta? ¿Cómo se adapta la incorporación?
+3. ¿El **fideicomiso de garantía** elude indebidamente la prohibición del **pacto comisorio**
+   (Libro 4 Nivel II) o es una alternativa legítima de ejecución ágil?
+4. ¿Debería el control de **usura** aplicarse igual a un pagaré entre **empresas sofisticadas** que a
+   uno de un consumidor?
+5. ¿Un **título electrónico** o un pagaré "tokenizado" en blockchain cumple los principios de
+   incorporación, literalidad y autonomía? ¿Qué reformas se requieren?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**P1.** *Defina título de crédito (Vivante) y explique sus principios.* **R.** Documento **necesario**
+para ejercer el derecho **literal** y **autónomo** que en él se menciona. Principios: incorporación
+(el derecho va en el documento), literalidad (vale lo escrito), autonomía (cada adquirente tiene un
+derecho propio) y legitimación (quien lo posee según su ley de circulación puede ejercerlo).
+
+**P2.** *¿Qué excepciones pueden oponerse a la acción cambiaria?* **R.** Solo las **enumeradas en el
+art. 8 LGTOC** (incompetencia, falta de personalidad/legitimación, requisitos del título,
+alteración, prescripción, pago, y las **personales** del demandado **contra el actor**); no las
+derivadas del negocio causal frente al tenedor de buena fe (autonomía).
+
+**P3.** *Distinga aval y fianza.* **R.** El **aval** es garantía **cambiaria autónoma**: vale aun si
+la obligación avalada es nula por vicio de fondo (art. 114). La **fianza** es **accesoria**: sigue la
+suerte de la obligación principal.
+
+**P4.** *¿Qué es la apertura de crédito y para qué sirve?* **R.** Operación por la que el acreditante
+pone a disposición del acreditado una suma o su crédito, que este dispone y restituye con intereses
+(línea de crédito); financia el capital de trabajo (revolvente) o proyectos (simple).
+
+**P5.** *¿Por qué el fideicomiso es tan usado en financiamiento?* **R.** Crea un **patrimonio
+autónomo** afecto a un fin, permite **garantía** y **fuente de pago** con **ejecución ágil** (incluso
+extrajudicial pactada) y blinda flujos —base del financiamiento estructurado y el project finance—.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** asociado de banca y financiamiento. **Cliente:** un banco que otorgará a una empresa
+> agroindustrial un crédito de $200M para (a) capital de trabajo (insumos, salarios) y (b) compra de
+> maquinaria; y la empresa exporta a EE. UU.
+>
+> **Tarea:** estructura la operación: (1) ¿qué **operación de crédito** para cada destino —**avío**
+> (insumos) y **refaccionario** (maquinaria)— y por qué?; (2) cómo **documentar** el crédito para
+> tener vía ejecutiva (**pagaré** con requisitos del art. 170, tasa defendible ante usura); (3) qué
+> **garantías** tomar (prenda sobre maquinaria/RUG, sobre cosechas/productos —avío—, hipoteca,
+> **fideicomiso de fuente de pago** sobre los flujos de exportación); (4) cómo asegurar el cobro de
+> las **exportaciones** (carta de crédito / UCP 600); (5) qué **excepciones** podría oponer la empresa
+> si no paga y cómo blindarse (art. 8). Concluye con el "paquete" de instrumentos y por qué da al
+> banco cobro rápido y seguro.
+
+*(Pista de evaluación: la mejor respuesta combina **avío + refaccionario** según el destino,
+**pagaré** para la vía ejecutiva, **fideicomiso de fuente de pago** sobre los flujos de exportación,
+**carta de crédito** para el cobro internacional, y anticipa el control de **usura** y las
+excepciones del art. 8.)*
+
+## 35. Flashcards
+
+- **¿Definición de Vivante?** → Documento necesario para ejercer el derecho literal y autónomo que en
+  él se menciona.
+- **¿Cuatro principios?** → Incorporación, literalidad, autonomía, legitimación.
+- **¿Excepciones a la acción cambiaria?** → Solo las del **art. 8** (taxativas).
+- **¿Aval vs. fianza?** → Autónomo (art. 114) vs. accesorio.
+- **¿Tipos de endoso?** → En propiedad, en procuración (cobro), en garantía (prenda).
+- **¿Cheque?** → Orden de pago contra un banco, **a la vista** (instrumento de pago, no de crédito).
+- **¿Acción cambiaria directa vs. de regreso?** → Contra aceptante/suscriptor (sin protesto) vs.
+  contra endosantes/girador (con protesto).
+- **¿Vía ejecutiva?** → El título es título ejecutivo: cobro rápido, embargo inicial, debate
+  limitado.
+- **¿Apertura de crédito?** → Línea de crédito: disponer y restituir con intereses.
+- **¿Descuento?** → Adquirir un crédito no vencido pagando su valor menos el descuento (liquidez).
+- **¿Crédito refaccionario vs. avío?** → Activos fijos vs. insumos/capital de trabajo.
+- **¿Fideicomiso?** → Patrimonio autónomo afecto a un fin (garantía, fuente de pago, administración).
+
+## 36. Mapas mentales
+
+```
+TÍTULOS Y OPERACIONES DE CRÉDITO (LGTOC)
+├── TEORÍA GENERAL DEL TÍTULO (Vivante)
+│   └── Incorporación · Literalidad · Autonomía · Legitimación (+ abstracción)
+├── TÍTULOS EN PARTICULAR
+│   ├── Letra de cambio (girador-girado/aceptante-beneficiario)
+│   ├── PAGARÉ (promesa; el más usado; vía ejecutiva)
+│   └── Cheque (orden de pago contra banco, a la vista)
+├── CIRCULACIÓN Y GARANTÍA
+│   ├── Endoso (propiedad / procuración / garantía)
+│   └── AVAL (autónomo, art. 114) ≠ fianza (accesoria)
+├── COBRO
+│   ├── Protesto → acciones cambiarias (directa / de regreso)
+│   ├── VÍA EJECUTIVA mercantil
+│   └── Excepciones: solo art. 8 (protege al tenedor de buena fe)
+├── OPERACIONES DE CRÉDITO
+│   ├── Apertura de crédito (línea) · Descuento · Reporto · Cuenta corriente
+│   ├── Carta de crédito (comercio exterior, UCP 600)
+│   └── Refaccionario (activos fijos) / Avío (insumos)
+└── FIDEICOMISO (patrimonio autónomo)
+    └── Garantía · Fuente de pago / administración (project finance) · inversión (FIBRA/CKD)
+```
+
+## 37. Cuadros comparativos
+
+**Letra vs. pagaré vs. cheque**
+
+| | Letra de cambio | Pagaré | Cheque |
+|---|---|---|---|
+| Naturaleza | Orden de pago | Promesa de pago | Orden de pago contra banco |
+| Partes | 3 (girador, girado, benef.) | 2 (suscriptor, benef.) | Librador, librado (banco), benef. |
+| Función | Crédito/pago a distancia | Crédito (el más usado) | Pago a la vista |
+| Obligado principal | Aceptante | Suscriptor | Librador |
+
+**Aval vs. fianza**
+
+| | Aval | Fianza |
+|---|---|---|
+| Naturaleza | Cambiaria, **autónoma** | Civil/mercantil, **accesoria** |
+| Si la obligación es nula por fondo | El aval **subsiste** (art. 114) | La fianza se afecta |
+| Beneficios de orden/excusión | No | Sí (renunciables) |
+
+**Operaciones de crédito (selección)**
+
+| Operación | Función |
+|---|---|
+| Apertura de crédito | Línea de crédito (capital de trabajo/proyecto) |
+| Descuento | Liquidez (adelantar créditos no vencidos) |
+| Carta de crédito | Pago seguro en comercio exterior |
+| Refaccionario / Avío | Activos fijos / insumos, con garantía |
+| Fideicomiso | Garantía, fuente de pago, administración |
+
+## 38. Diagramas
+
+**Vida de un pagaré:**
+```
+SUSCRIPCIÓN (promesa incondicional, art. 170) → circulación por ENDOSO (+ aval)
+   → vencimiento → ¿pago?
+        sí → se extingue
+        no → acción cambiaria → VÍA EJECUTIVA (excepciones SOLO art. 8)
+```
+
+**Autonomía (por qué circula el crédito):**
+```
+A (vende mal) → pagaré → B → endosa → C (tercero de buena fe)
+   C cobra LIMPIO a A/B: NO se le oponen los líos del negocio A-vendedor (art. 8)
+   → el deudor paga a C y reclama a quien le falló
+```
+
+**Fideicomiso de fuente de pago (project finance):**
+```
+Flujos (peajes/rentas/exportación) → FIDEICOMISO (fiduciaria)
+   → 1º paga servicio de la deuda (bancos) → 2º remanente a la empresa
+   (incumplimiento → ejecución ágil)
+```
+
+## 39. Mnemotecnias
+
+- **Principios del título:** **"ILA-L"** → **I**ncorporación, **L**iteralidad, **A**utonomía,
+  **L**egitimación.
+- **Vivante:** *"documento NECESARIO para un derecho LITERAL y AUTÓNOMO"*.
+- **Excepciones:** *"solo las del art. 8; el negocio de fondo no se le opone al de buena fe"*.
+- **Aval:** *"el aval no se cae aunque el avalado sea nulo (art. 114)"*.
+- **Cheque:** *"pago a la vista, no crédito"*.
+- **Refaccionario vs. avío:** *"Refaccionario = fierros (activos fijos); Avío = avíos (insumos)"*.
+- **Fideicomiso:** *"caja fuerte con dueño nuevo (fiduciaria) y un fin"*.
+
+> Memoriza **"ILA-L"** y la lista del **art. 8**: con eso litigas y estructuras la mayor parte de la
+> práctica cambiaria.
