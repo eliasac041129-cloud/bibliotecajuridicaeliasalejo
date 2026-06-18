@@ -257,3 +257,130 @@ y si la otra parte puede **cancelarlos** porque cambió el dueño—.
 - **Cláusulas mercantiles clave:** **exclusividad**, **no competencia**, **metas/objetivos**,
   **confidencialidad**, **propiedad intelectual**, **change of control**, **cesión**,
   **terminación** e **indemnización** (estas últimas, decisivas en M&A — Libro 3 Nivel II).
+
+
+## 14. Desarrollo absoluto
+
+Lo organizamos por familias: (A) la **compraventa mercantil**; (B) los contratos de **colaboración y
+distribución** (comisión, agencia, distribución, **franquicia**); (C) los de **financiamiento**
+(**factoraje**, **leasing**); (D) los **atípicos** y el **joint venture**; (E) las **cláusulas clave**
+y la perspectiva de M&A.
+
+### 14.A · La compraventa mercantil
+
+Es la compraventa (Libro 2 Nivel II) hecha con **propósito de especulación comercial** (comprar para
+revender con lucro) o entre empresas. Sobre el régimen civil, el Código de Comercio añade reglas de
+**agilidad**:
+- **Mora:** en obligaciones a **día cierto**, el deudor incurre en mora **sin necesidad de
+  interpelación** (a diferencia del civil) — el tiempo es esencial en el comercio.
+- **Transmisión del riesgo y entrega:** reglas propias sobre cuándo pasa el riesgo (relevante en
+  ventas con transporte; conexión con **Incoterms** en lo internacional).
+- **Intereses, prescripción más corta y prueba.**
+- **Saneamiento:** se aplica el régimen civil (evicción, vicios — Libro 2 Nivel II) salvo pacto; en lo
+  internacional, la **CISG** (conformidad de las mercaderías, incumplimiento esencial, deber de
+  mitigar). *Conexión M&A:* la compraventa mercantil es la base de la **compraventa de activos** y, en
+  su versión sofisticada, del **SPA**.
+
+### 14.B · Contratos de colaboración y distribución
+
+Cómo una empresa **lleva sus productos al mercado** sin venderlos ella misma directamente:
+- **Comisión mercantil:** el **comisionista** ejecuta actos de comercio por cuenta del **comitente**
+  (mandato mercantil), cobrando una **comisión**. Con o sin representación.
+- **Agencia:** el **agente** promueve de forma **estable** negocios por cuenta del empresario (no
+  compra; solo promueve), a cambio de comisión. En México es **atípico** (poca protección legal del
+  agente); en la **UE** está muy regulado, con **indemnización por clientela** al terminar.
+- **Distribución:** el **distribuidor compra para revender** en un territorio, asumiendo el riesgo de
+  reventa; suele incluir **exclusividad** territorial, **metas**, estándares y **no competencia**.
+  Atípico; se integra con la compraventa y la práctica.
+- **Franquicia:** el contrato de expansión por excelencia. El **franquiciante** licencia su **marca** y
+  transmite su ***know-how*** y **asistencia técnica** para que el **franquiciatario** opere un negocio
+  **uniforme** (mismos productos, imagen, procesos), a cambio de una **cuota inicial** y **regalías**.
+  Elementos esenciales: (i) licencia de **marca** (propiedad industrial); (ii) transmisión de
+  **conocimientos técnicos / asistencia continua**; (iii) **uniformidad** y control de calidad; (iv)
+  **COF** (Circular de Oferta de Franquicia: información precontractual obligatoria, cuya omisión puede
+  anular el contrato a elección del franquiciatario). Suele incluir exclusividad territorial, no
+  competencia y cláusulas de propiedad intelectual y confidencialidad.
+
+> **Cuidado con la competencia económica (transversal a la distribución y franquicia):** las cláusulas
+> de **exclusividad**, **no competencia**, **fijación de precios de reventa** y reparto de mercados son
+> **restricciones verticales** que pueden ser **anticompetitivas** (Ley Federal de Competencia
+> Económica). El abogado debe diseñarlas dentro de lo permitido (no fijar precios de reventa; limitar
+> la exclusividad y la no competencia en alcance y tiempo razonables).
+
+### 14.C · Contratos de financiamiento empresarial
+
+Cómo la empresa **financia su operación y sus activos** sin un crédito tradicional:
+- **Factoraje financiero:** el **factorante** adquiere las **cuentas por cobrar** de la empresa
+  (cliente/cedente), adelantándole **liquidez** (menos un descuento/comisión). Modalidades:
+  - **Con recurso (*pro solvendo*):** si el deudor de la cuenta no paga, el **cedente responde** (es
+    casi un préstamo garantizado con las cuentas).
+  - **Sin recurso (*pro soluto*):** el factorante **asume el riesgo** de impago (vende de verdad el
+    crédito; mejor para el cedente, más caro).
+  Es **cesión de créditos** (Libro 1 Nivel II) + **descuento** (Libro 3): requiere **notificación** al
+  deudor para oponibilidad.
+- **Arrendamiento financiero (leasing):** la **arrendadora financiera adquiere** un bien **elegido por
+  el cliente** (maquinaria, vehículos, equipo) y se lo **arrienda** por un plazo, a cambio de pagos
+  periódicos que amortizan el costo más un rendimiento. Al final, el cliente tiene **opciones**:
+  comprar el bien por un **valor residual** (simbólico o no), prorrogar el arrendamiento, o participar
+  del precio de su venta a un tercero. Función económica: **financiar la adquisición** de activos sin
+  desembolso inicial (alternativa al crédito refaccionario — Libro 3). Ventajas fiscales y de balance.
+  *Distíngase* del **arrendamiento puro/operativo** (solo uso temporal, sin vocación de adquirir).
+- **Sale and lease-back:** la empresa **vende** un activo a la arrendadora y se lo **arrienda** de
+  vuelta: monetiza el activo (liquidez) sin perder su uso. Combinación de compraventa + leasing.
+
+### 14.D · Contratos atípicos y el joint venture
+
+- **Atípicos en general:** válidos por la **autonomía de la voluntad** (art. 78); se integran con
+  analogía a figuras típicas, usos y buena fe. El abogado debe **redactarlos con detalle** (porque la
+  ley no los "rellena").
+- **Joint venture (coinversión):** dos o más empresas se asocian para un **proyecto común**. Dos
+  modelos:
+  - **Contractual JV:** colaboración por **contrato**, sin crear sociedad (reparto de tareas,
+    resultados, riesgos).
+  - **Equity JV:** crean una **sociedad conjunta** (típicamente **S.A.P.I.** — Libro 2 Nivel III) para
+    el proyecto, con un **convenio entre accionistas** que regula gobierno, aportaciones, *deadlock*,
+    *tag/drag along* y salida. Es la antesala directa del Nivel IV (estructuras de inversión).
+- **Otros atípicos:** *outsourcing* (con límites por la reforma de subcontratación), *management
+  agreement*, *know-how*, licencias de tecnología, contratos de obra industrial "llave en mano".
+
+### 14.E · Cláusulas clave y perspectiva de M&A
+
+Los contratos mercantiles son los **activos contractuales** que se revisan y transmiten en un *deal*.
+Cláusulas decisivas:
+- **Change of control:** permite a la contraparte **terminar** (o exige su consentimiento) si cambia
+  el dueño/control de la empresa. **En due diligence es lo primero que se busca**: un contrato clave
+  con *change of control* puede frustrar el *deal* si la contraparte no consiente.
+- **Cesión (*assignment*):** ¿puede el contrato transmitirse a un tercero (el comprador)? Por la
+  **relatividad** del contrato (Libro 8 Nivel I), suele requerir **consentimiento** de la contraparte.
+- **Exclusividad y no competencia:** valiosas pero con límites de competencia económica.
+- **Plazo y terminación:** duración, renovación, causas de terminación, **indemnización** (Libro 3
+  Nivel II) y penas.
+- **Confidencialidad y propiedad intelectual:** protegen el *know-how*, las marcas y los datos.
+
+**Cómo razona un socio (contratos en due diligence y M&A).** *"Cuando reviso una empresa, sus
+**contratos materiales** son sus arterias: ¿de qué contratos dependen sus ingresos (clientes,
+distribución, franquicias)?, ¿qué pasa si cambia el control (*change of control*)?, ¿son **cedibles**
+o necesito consentimientos?, ¿hay exclusividades o no competencias que aten al comprador?, ¿hay
+cláusulas de terminación que la contraparte pueda usar tras el deal? Hago una **matriz de contratos
+materiales** y una lista de **consentimientos** a obtener antes del cierre. Muchos *deals* se ganan o
+se traban en esa matriz."*
+
+## 15. Explicación intuitiva
+
+Piensa en una empresa como un **cuerpo** y en los contratos mercantiles como sus **sistemas**:
+- La **compraventa mercantil** es la **boca**: por donde entra y sale el producto (compra insumos,
+  vende productos).
+- La **distribución y la franquicia** son los **brazos extendidos**: llegan a mercados lejanos sin que
+  la empresa tenga que estar físicamente en todos lados (el distribuidor compra y revende; el
+  franquiciatario **clona** el negocio con la marca y el *know-how* de la empresa).
+- El **factoraje y el leasing** son el **sistema de financiamiento**: el factoraje convierte en
+  efectivo lo que te deben (cobra hoy lo que cobrarías en 90 días); el leasing te deja **usar**
+  maquinaria cara pagándola poco a poco, con opción de quedártela.
+- El **joint venture** es **darse la mano con otra empresa** para un proyecto que ninguna haría sola.
+
+Y muchos de estos contratos son **trajes a la medida** (atípicos): la ley no los tiene en un cajón,
+así que el abogado los **cose** según lo que el negocio necesita, usando la libertad del art. 78. En
+una compra de empresa, estos contratos son los **órganos vitales** que se transfieren: hay que revisar
+que **funcionen tras el trasplante** (que sean cedibles, que la otra parte no los cancele por el cambio
+de dueño). Por eso, leer y gestionar contratos mercantiles es buena parte del trabajo diario —y de la
+due diligence— del abogado de negocios.
