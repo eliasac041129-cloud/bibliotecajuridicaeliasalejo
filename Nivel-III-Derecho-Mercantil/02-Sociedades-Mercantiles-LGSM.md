@@ -714,3 +714,189 @@ lo que estudiamos aquí es lo que se negocia y se transfiere ese día.
 - **Capital social: ¿garantía real o ficción?** Se debate si el capital social cumple de verdad su
   función de garantía de acreedores o es una cifra formal; algunas jurisdicciones han **eliminado** el
   capital mínimo, confiando más en tests de solvencia.
+
+
+## 30. Errores comunes
+
+- **Confundir capital con patrimonio.** El capital es una cifra estatutaria; el patrimonio son los
+  activos/pasivos reales (que varían). Una sociedad con gran capital social puede estar en quiebra.
+- **Confundir suscripción con exhibición.** Suscribir es comprometerse; exhibir es pagar. Hay
+  acciones suscritas no pagadas (pagadoras).
+- **No actualizar el libro de registro de acciones.** El descuido más caro: sin registro, el
+  endoso no surte efectos frente a la sociedad y la titularidad queda en duda.
+- **Equivocar el quórum/mayoría (ordinaria vs. extraordinaria).** Aprobar una fusión o reforma con
+  el quórum de la ordinaria genera **nulidad** del acuerdo.
+- **Ignorar el derecho de preferencia** en aumentos: diluir a un socio sin respetarlo vicia el
+  aumento.
+- **Creer que el porcentaje lo es todo.** Sin diseñar el gobierno (vetos, reserved matters,
+  consejo), un mayoritario puede quedar atado o un minoritario desprotegido.
+- **Usar la S.A. tradicional cuando se necesita S.A.P.I.** Querer meter pactos de VC/PE en una S.A.
+  rígida produce cláusulas inoponibles o nulas.
+
+## 31. Mitos frecuentes
+
+- *"El socio mayoritario puede hacer lo que quiera."* **Falso:** la extraordinaria exige 75%/50%;
+  las minorías tienen derechos defensivos; y los administradores deben servir al **interés social**.
+- *"Las acciones se transmiten solo con entregar el título."* **Incompleto:** se requiere **endoso +
+  inscripción en el libro de registro** para surtir efectos frente a la sociedad.
+- *"La responsabilidad limitada es absoluta."* **Falso:** cabe el **levantamiento del velo** por
+  fraude/abuso.
+- *"S.A. y S. de R.L. son intercambiables."* **No:** difieren en transmisión (acciones libres vs.
+  partes restringidas), número de socios y tratamiento fiscal.
+- *"La S.A.P.I. es para empresas que cotizan."* **Inexacto:** es para sociedades **privadas** que
+  quieren flexibilidad e inversión; la **S.A.B.** es la bursátil.
+
+## 32. Preguntas difíciles
+
+1. ¿Puede un accionista del 40% controlar efectivamente una sociedad? ¿Cómo se diseña (S.A.P.I.,
+   reserved matters, consejo)?
+2. ¿Hasta dónde pueden los estatutos de una S.A.P.I. restringir la **libre transmisión** de
+   acciones sin desnaturalizar la condición de socio?
+3. ¿La cláusula de **drag along** (forzar a la minoría a vender) es compatible con la protección de
+   minorías? ¿Qué salvaguardas la legitiman?
+4. En un *deadlock* 50/50 sin cláusula de desempate, ¿qué soluciones existen y cuál protege mejor el
+   valor de la empresa?
+5. ¿Debe primar el **interés social** (institución) o la **voluntad de los socios** (contrato)
+   cuando chocan? ¿Y frente al ESG/stakeholders?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**P1.** *¿Qué caracteriza a la sociedad anónima?* **R.** Sociedad de **capitales** bajo
+denominación, con capital dividido en **acciones** y socios cuya **responsabilidad se limita** al
+pago de sus acciones (art. 87 LGSM); acciones, en principio, libremente transmisibles.
+
+**P2.** *Distinga asamblea ordinaria y extraordinaria.* **R.** La **ordinaria** trata asuntos del
+giro (estados financieros, dividendos, nombrar consejo); quórum/mayoría simples. La
+**extraordinaria** trata asuntos estructurales (reforma de estatutos, aumento/reducción de capital,
+fusión, escisión, disolución); quórum del **75%** y votación del **50%** (mínimos legales).
+
+**P3.** *¿Qué es el derecho de preferencia y para qué sirve?* **R.** El derecho del accionista a
+suscribir, en proporción, las acciones de un **aumento de capital** (art. 132), para **no
+diluirse**. Es la protección anti-dilución básica.
+
+**P4.** *Mencione tres derechos de minoría.* **R.** Convocar asamblea (33%), designar un consejero
+(25%, art. 144) y ejercer la acción de responsabilidad contra administradores (25%, art. 163); en
+bursátiles, los porcentajes se reducen.
+
+**P5.** *¿Por qué la S.A.P.I. es el vehículo predilecto de VC/PE?* **R.** Porque flexibiliza la S.A.:
+permite restricciones a la transmisión, acciones de voto limitado y derechos especiales, *drag/tag
+along*, exclusión de socios y minorías reforzadas —los pactos que la inversión de capital exige—,
+oponibles vía estatutos.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** asociado corporativo. **Cliente:** dos fundadores (60%) de una startup de tecnología que
+> recibirá una inversión Serie A de un fondo de VC por el 25% (post-money), y planean futuras rondas
+> y, en 5-7 años, una venta a un estratégico o una salida a bolsa.
+>
+> **Tarea:** diseña la **estructura societaria y de gobierno**: (1) ¿qué **tipo** social
+> (S.A./S.A.P.I.) y por qué?; (2) la **arquitectura de capital**: series de acciones (fundadores vs.
+> Serie A), capital variable, *option pool* para empleados; (3) los **derechos del fondo**:
+> dividendo/liquidación **preferente**, **anti-dilución**, **derecho de preferencia**, **veto** sobre
+> *reserved matters*, asiento(s) en el **consejo**, derechos de información; (4) **transmisión**:
+> *lock-up* de fundadores, *tag along* (minoría), *drag along* (para facilitar una venta futura),
+> derecho de primera oferta; (5) **gobierno**: composición del consejo, quórums y mayorías
+> reforzadas, *deadlock*; (6) qué va a **estatutos** (oponible) y qué a **convenio entre
+> accionistas**. Concluye con un esquema de la *cap table* post-Serie A y cómo protege a cada parte.
+
+*(Pista de evaluación: la mejor respuesta usa **S.A.P.I.**, separa lo estatutario (oponible) de lo
+parasocial, equilibra el control de los fundadores con las protecciones del fondo, y prevé las
+**futuras rondas** y la **salida** con tag/drag y preferencias.)*
+
+## 35. Flashcards
+
+- **¿S.A. (art. 87)?** → Sociedad de capitales, capital en acciones, responsabilidad limitada.
+- **¿Capital vs. patrimonio?** → Cifra estatutaria vs. activos/pasivos reales.
+- **¿Suscribir vs. exhibir?** → Comprometerse vs. pagar la aportación.
+- **¿Cómo se transmiten las acciones?** → Endoso + inscripción en el **libro de registro**.
+- **¿Quórum extraordinaria?** → 75% instalación / 50% votación (mínimos legales).
+- **¿Triple noción de acción?** → Parte del capital + conjunto de derechos + título negociable.
+- **¿Derecho de preferencia?** → Suscribir nuevas acciones en proporción (anti-dilución, art. 132).
+- **¿Tres órganos?** → Asamblea, administración (consejo), vigilancia (comisario).
+- **¿Derechos de minoría?** → Convocar (33%), designar consejero (25%), acción de responsabilidad
+  (25%).
+- **¿Reserva legal?** → 5% de utilidades hasta el 20% del capital (art. 20).
+- **¿S.A.P.I.?** → S.A. flexible (LMV) para VC/PE: restricciones, series, tag/drag, vetos.
+- **¿Fusión vs. escisión?** → Unir sociedades vs. dividir el patrimonio.
+
+## 36. Mapas mentales
+
+```
+SOCIEDADES MERCANTILES (LGSM)
+├── TIPOS
+│   ├── De capitales: S.A. · S.A.P.I. (LMV, flexible)
+│   ├── Mixta: S. de R.L. (partes sociales, máx. 50)
+│   └── De personas: S. en N.C., Comandita · Cooperativa · S.A.S.
+├── SOCIEDAD ANÓNIMA
+│   ├── Constitución (art. 89): fedatario + inscripción RPC
+│   ├── CAPITAL: suscrito/exhibido · fijo/variable · garantía + medida de derechos
+│   └── ACCIONES: ordinarias/preferentes · series · libre transmisión (endoso + LIBRO REGISTRO)
+├── ÓRGANOS
+│   ├── ASAMBLEA (supremo): ordinaria / EXTRAORDINARIA (75%/50%)
+│   ├── ADMINISTRACIÓN: consejo / administrador único (deberes fiduciarios)
+│   └── VIGILANCIA: comisario / comité de auditoría (bursátil)
+├── DERECHOS DEL ACCIONISTA
+│   ├── Patrimoniales: dividendo · cuota de liquidación · PREFERENCIA (anti-dilución)
+│   └── Corporativos: voto · información · impugnación · MINORÍAS (25%/33%)
+├── S.A.P.I. (flexibilidad "a la Delaware")
+│   └── series · voto limitado · tag/drag · vetos · exclusión · minorías reforzadas
+└── VICISITUDES (extraordinaria)
+    └── Aumento/reducción de capital · transformación · FUSIÓN · ESCISIÓN · disolución/liquidación
+```
+
+## 37. Cuadros comparativos
+
+**S.A. vs. S. de R.L. vs. S.A.P.I.**
+
+| | S.A. | S. de R.L. | S.A.P.I. |
+|---|---|---|---|
+| Capital en | Acciones | Partes sociales | Acciones |
+| Socios | Sin límite | Máx. 50 | Sin límite |
+| Transmisión | Libre (salvo pacto) | Restringida (consentimiento) | Restringible ampliamente |
+| Flexibilidad de pactos | Media | Media | **Alta** (LMV) |
+| Uso típico | Empresa general/bursátil | Cerrada / fiscal (LLC) | **VC/PE, M&A** |
+
+**Asamblea ordinaria vs. extraordinaria**
+
+| | Ordinaria | Extraordinaria |
+|---|---|---|
+| Asuntos | Giro normal (dividendos, consejo) | Estructurales (estatutos, fusión, capital) |
+| Quórum instalación | 50%+ | 75% |
+| Votación | Mayoría de presentes | 50% del capital |
+
+**Derechos patrimoniales vs. corporativos**
+
+| Patrimoniales | Corporativos |
+|---|---|
+| Dividendo | Voto |
+| Cuota de liquidación | Información |
+| Preferencia (anti-dilución) | Impugnación / minorías |
+
+## 38. Diagramas
+
+**Estructura de poder por porcentaje:**
+```
+≥75% → controla TODO (ordinaria + extraordinaria: reforma estatutos, fusión)
+50%+ → controla la ordinaria (consejo, dividendos, gestión)
+33%  → puede convocar asamblea / aplazar votación
+25%  → designar 1 consejero / acción de responsabilidad / oposición
+< 25% → derechos individuales (voto, info, preferencia, impugnación)
+   (en S.A.P.I./bursátil: porcentajes menores + derechos PACTADOS = más poder)
+```
+
+**Share deal vs. asset deal (qué se transfiere):**
+```
+SHARE DEAL  → se transmiten ACCIONES (endoso + libro) → comprador hereda activos Y pasivos
+ASSET DEAL  → se transmiten ACTIVOS/negocio → la sociedad queda con el vendedor (aísla pasivos)
+```
+
+## 39. Mnemotecnias
+
+- **S.A.:** *"capital en acciones, responsabilidad limitada, los dueños pueden vender su rebanada"*.
+- **Órganos:** **"A-A-V"** → **A**samblea (decide), **A**dministración (dirige), **V**igilancia
+  (revisa).
+- **Extraordinaria:** *"75 para instalar, 50 para aprobar"* (cosas graves).
+- **Transmisión de acciones:** *"endoso + LIBRO, o no eres socio frente a la sociedad"*.
+- **Minorías:** *"33 convoca, 25 nombra y demanda"*.
+- **S.A.P.I.:** *"la S.A. con traje a la medida: series, vetos, tag y drag"*.
+- **Preferencia:** *"aumentan capital, suscribo mi parte o me diluyo"*.
