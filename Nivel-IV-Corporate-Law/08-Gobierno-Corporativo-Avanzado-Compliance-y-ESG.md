@@ -279,3 +279,145 @@ sino **creadores de valor y protectores** de la empresa. El abogado que ayuda a 
 bien, cumplir la ley y operar de forma sostenible la hace **más valiosa, más financiable y más duradera**
 —y se vuelve un asesor indispensable—. Esta es la culminación de tu formación: del técnico de operaciones
 al **asesor de la empresa como institución**.
+
+## 10. Definiciones doctrinales
+
+La doctrina define los conceptos centrales así:
+
+- **Gobierno corporativo (*corporate governance*):** el **sistema de poder, control y responsabilidad** por
+  el cual se dirige y controla una empresa; el conjunto de relaciones entre la administración, el consejo,
+  los accionistas y demás grupos de interés. La doctrina lo define como el mecanismo que resuelve el
+  **problema de agencia** (alinear a quienes manejan la empresa con el interés de quienes la poseen) y
+  protege a los inversionistas.
+- **Deber fiduciario:** la obligación de los administradores de actuar en el **interés de la sociedad** (no
+  el propio), que se desdobla en el deber de **diligencia/cuidado** (actuar de manera **informada**,
+  prudente y de buena fe) y el deber de **lealtad** (sin conflictos de interés, sin aprovechar
+  oportunidades de la sociedad).
+- **Business Judgment Rule (regla del juicio de negocio):** principio que **protege** a los administradores
+  de responsabilidad por decisiones de negocio que salieron mal, **siempre que** hayan decidido de manera
+  **informada**, **de buena fe** y **sin conflicto de interés**. No protege la deslealtad ni la decisión no
+  informada.
+- **Consejero independiente:** miembro del consejo **sin vínculos** (económicos, familiares, laborales)
+  con la administración o el control que comprometan su juicio; su función es aportar **objetividad** y
+  proteger a las minorías.
+- **Compliance (cumplimiento normativo):** la función y el conjunto de **sistemas** (políticas,
+  procedimientos, controles, cultura) que una organización implementa para **prevenir, detectar y
+  corregir** incumplimientos de la ley y de sus normas internas, especialmente en áreas de alto riesgo
+  (corrupción, lavado, competencia, datos).
+- **Programa de compliance / integridad:** el conjunto estructurado de elementos (evaluación de riesgos,
+  políticas, capacitación, canal de denuncias, investigaciones, monitoreo) que materializa la función de
+  compliance. La ley mexicana lo llama "**política de integridad**".
+- **Corrupción / cohecho:** ofrecer, prometer o dar (o solicitar/recibir) un beneficio indebido para
+  influir en una actuación, especialmente de un **servidor público** (cohecho) —el núcleo de lo que la
+  FCPA y las leyes anticorrupción combaten—.
+- **ESG (*Environmental, Social, Governance*):** marco de criterios **no financieros** (ambientales,
+  sociales y de gobernanza) usado para evaluar la **sostenibilidad** y el impacto de una empresa, y
+  crecientemente integrado en las decisiones de **inversión y financiamiento**.
+- **Materialidad ESG / doble materialidad:** qué temas ESG son **relevantes**. La **materialidad
+  financiera** (cómo el ESG afecta el **valor** de la empresa) y la **doble materialidad** (además, cómo la
+  empresa **impacta** al medio ambiente y la sociedad) —concepto clave del *reporting* europeo—.
+- **Greenwashing:** práctica de **aparentar** un compromiso ambiental/sostenible **mayor** que el real;
+  un fraude reputacional y, crecientemente, una infracción legal.
+
+## 11. Definiciones legales y marco normativo
+
+El marco normativo de las tres dimensiones, en México y con referentes internacionales:
+
+- **Gobierno corporativo:**
+  - **LGSM:** gobierno de las sociedades en general (asamblea, consejo, vigilancia, deberes de los
+    administradores).
+  - **Ley del Mercado de Valores (LMV):** régimen reforzado para las **emisoras (S.A.B.)**: **consejeros
+    independientes**, comités de **auditoría** y de **prácticas societarias**, deberes de **diligencia** y
+    **lealtad** de los consejeros, régimen de **operaciones con partes relacionadas** y de información.
+    También la **S.A.P.I.** (gobierno flexible para empresas con inversionistas).
+  - **Código de Principios de Gobierno Corporativo (CCE)** y **Principios de la OCDE:** mejores prácticas
+    (soft law).
+- **Compliance / anticorrupción / lavado:**
+  - **Ley General de Responsabilidades Administrativas (LGRA)** y el **Sistema Nacional Anticorrupción:**
+    sancionan el cohecho y la corrupción; prevén la **responsabilidad de las personas morales** y reconocen
+    la **"política de integridad"** (programa de compliance) como **atenuante**.
+  - **Código Penal Federal:** delitos de cohecho, y la **responsabilidad penal de las personas jurídicas**
+    (con el compliance como factor atenuante).
+  - **FCPA (EE.UU.)** y **UK Bribery Act:** anticorrupción con **alcance extraterritorial** (aplican a
+    empresas con nexo con esos países).
+  - **LFPIORPI (ley antilavado)** y normativa financiera: prevención de lavado, identificación (**KYC**),
+    reportes.
+- **ESG:**
+  - **Marco emergente:** en la **UE**, la **CSRD** (reporte de sostenibilidad), la **SFDR** (productos
+    financieros) y la **taxonomía** verde; estándares internacionales (**ISSB/IFRS S1-S2**, **GRI**,
+    **TCFD** —riesgos climáticos—); en México, requerimientos crecientes de la **bolsa (BMV/BIVA)** y de
+    reguladores, y guías de finanzas sostenibles. Es el marco **menos consolidado y más cambiante**.
+
+> **Nota de método:** el ESG y el compliance son áreas **en rápida evolución**; verifica el marco vigente
+> (LMV, LGRA, LFPIORPI, normativa ESG aplicable) antes de aplicar, pues cambia con frecuencia (Manifiesto
+> XI.5).
+
+## 12. Definición sencilla
+
+Imagina la empresa como un **país pequeño**, y verás las tres dimensiones con claridad:
+
+- **El gobierno corporativo es la "constitución y los poderes" del país.** Define **quién manda** (la
+  asamblea de accionistas = los ciudadanos; el consejo = el congreso/gobierno; la dirección = los
+  funcionarios que ejecutan), **cómo se toman las decisiones**, y **cómo se controlan los abusos** (los
+  consejeros independientes y los comités = los contrapesos). Un país bien gobernado, con pesos y
+  contrapesos, funciona mejor y no cae en manos de un tirano (el accionista de control que abusa).
+- **El compliance son las "reglas y la policía interna" del país.** Son los sistemas para asegurar que el
+  país (la empresa) y sus funcionarios **no cometan delitos** —que nadie soborne, robe o lave dinero—: las
+  leyes internas (políticas), la capacitación, la **línea de denuncia anónima** (como un "buzón
+  ciudadano"), y las investigaciones cuando algo huele mal. Sin esta "policía interna", el país se corrompe
+  y colapsa (Enron).
+- **El ESG es la "responsabilidad del país con el planeta y su gente."** Mide si el país (la empresa) cuida
+  el **medio ambiente** (E: no contamina, reduce emisiones), trata bien a su **gente y comunidades** (S:
+  trabajadores, derechos humanos, diversidad), y se **gobierna con integridad** (G: buen gobierno
+  corporativo). Hoy, los "inversionistas extranjeros" (los fondos) **solo le prestan o invierten** a los
+  países (empresas) que se portan bien en estos tres frentes.
+
+La idea sencilla: una empresa, como un país, necesita **buen gobierno** (decidir bien y con contrapesos),
+**cumplir la ley** (no corromperse) y **ser responsable** con su entorno (sostenibilidad). Las tres cosas
+juntas la hacen **legítima, confiable y duradera** —y le dan acceso al dinero de los inversionistas serios—.
+
+## 13. Conceptos fundamentales
+
+Fija este vocabulario; integra y eleva lo que viste en Gobierno Corporativo (Nivel III):
+
+**Gobierno corporativo avanzado:**
+- **Consejo de administración:** el órgano que dirige y supervisa; su composición (ejecutivos,
+  patrimoniales, **independientes**) define el equilibrio de poder.
+- **Comités:** **auditoría** (vigila finanzas y controles), **prácticas societarias** (operaciones con
+  partes relacionadas, compensación), **riesgos**, nominaciones. Dan profundidad y objetividad.
+- **Deberes fiduciarios:** **diligencia** (decidir informado —*business judgment rule*—) y **lealtad** (sin
+  conflictos, sin tomar oportunidades societarias).
+- **Operaciones con partes relacionadas (OPR):** transacciones con personas vinculadas al control; deben
+  revelarse, aprobarse por independientes y ser a **precio de mercado** (riesgo de *tunneling*).
+- **Estándares de Delaware (referentes globales):** **Business Judgment Rule**; ***Smith v. Van Gorkom***
+  (decidir informado); ***Revlon*** (deber de maximizar el precio cuando la venta es inevitable);
+  ***Unocal*** (defensas anti-OPA proporcionales); ***Caremark*** (deber de supervisión/vigilancia —base
+  del compliance—).
+
+**Compliance:**
+- **Tone at the top:** el compromiso **genuino** de la alta dirección con la integridad (sin él, el
+  compliance es papel).
+- **Evaluación de riesgos (*risk assessment*):** identificar los riesgos de incumplimiento propios del
+  negocio.
+- **Políticas y procedimientos, capacitación:** las reglas y su difusión.
+- **Canal de denuncias (*whistleblowing* / línea ética):** mecanismo (anónimo, sin represalias) para
+  reportar conductas indebidas.
+- **Investigaciones internas:** cómo se investiga una denuncia o sospecha.
+- **Debida diligencia de terceros:** revisar a socios, distribuidores, proveedores (el riesgo de corrupción
+  suele venir por **intermediarios**).
+- **Monitoreo y mejora continua:** el programa debe **funcionar y evolucionar**, no ser estático.
+- **FCPA / UK Bribery Act / LGRA:** los marcos anticorrupción.
+- **PLD/AML, KYC:** prevención de lavado e identificación del cliente.
+
+**ESG:**
+- **Los tres pilares:** **E** (ambiental: emisiones, energía, agua, residuos, clima); **S** (social:
+  trabajadores, derechos humanos, comunidades, diversidad, clientes); **G** (gobernanza: el gobierno
+  corporativo, ética, transparencia —el "G" **es** el gobierno corporativo—).
+- **Materialidad / doble materialidad:** qué temas ESG importan (financiera + de impacto).
+- **Reporting y estándares:** **ISSB/IFRS S1-S2**, **GRI**, **TCFD**, **CSRD/SFDR** (UE).
+- **Finanzas sostenibles:** **bonos verdes**, **créditos vinculados a sostenibilidad** (*sustainability-
+  linked loans* —cuya tasa depende de metas ESG, Libro 5—).
+- **Greenwashing:** aparentar sostenibilidad sin serlo (riesgo legal y reputacional).
+- **Stakeholder vs. shareholder:** el debate sobre a quién sirve la empresa.
+
+Con este vocabulario, entramos al **desarrollo absoluto**.
