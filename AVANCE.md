@@ -55,7 +55,7 @@ integridad. Este archivo es el tablero de control.
 **⏱ Dominio del nivel: ~8–10 meses** (el corazón del objetivo)
 | # | Tratado | Estado | ⏱ Dominio |
 |---|---------|--------|-----------|
-| 1 | Fundamentos de M&A | ⬜ | 5–6 sem |
+| 1 | Fundamentos de M&A | ✅ | 5–6 sem |
 | 2 | Due Diligence | ⬜ | 4–5 sem |
 | 3 | Estructuras: fusiones, escisiones, adquisiciones | ⬜ | 5–6 sem |
 | 4 | Documentación: Term Sheet, SPA, APA, SHA | ⬜ | 6–8 sem |
