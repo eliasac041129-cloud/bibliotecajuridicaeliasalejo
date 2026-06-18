@@ -622,3 +622,124 @@ un **sindicato** que le da el *committed financing* (el compromiso firme de pres
 certeza son condición para firmar el SPA: el vendedor quiere saber que el comprador **tendrá el dinero**.
 Aquí ves cómo el financiamiento (este libro) y la documentación del M&A (Libro 4) se **entrelazan** en una
 sola operación.
+
+### 14.D · Project finance y acquisition finance / LBO (las dos grandes estructuras)
+
+Aquí están las **dos estructuras estrella** del financiamiento corporativo avanzado, las que más valor
+agregan al abogado de operaciones complejas. Ambas comparten una idea revolucionaria: **financiar contra
+el flujo futuro**, no solo contra activos presentes.
+
+**PROJECT FINANCE (financiar un proyecto por su propio flujo).** Es la técnica para financiar **grandes
+proyectos** —una carretera, un aeropuerto, una planta de energía, una mina— donde el repago de la deuda
+proviene **principalmente del flujo de efectivo que generará el propio proyecto**, y no del balance general
+de los patrocinadores. Sus rasgos:
+- **El SPV (vehículo de propósito específico):** se crea una **sociedad nueva** (*Special Purpose
+  Vehicle*) cuyo **único** objeto es desarrollar y operar el proyecto. La deuda la toma el **SPV**, no los
+  patrocinadores. Esto **aísla** el proyecto (su riesgo no contamina a los patrocinadores, ni viceversa).
+- **Recurso limitado o nulo (*non-recourse / limited recourse*):** si el proyecto fracasa, los
+  prestamistas se cobran de los **activos y flujos del proyecto**, pero **no** (o solo limitadamente)
+  pueden ir contra el patrimonio de los patrocinadores. El riesgo se "encierra" en el SPV. Por eso el
+  análisis del prestamista se centra **obsesivamente** en la **viabilidad del proyecto** (¿generará el
+  flujo prometido?).
+- **El paquete de contratos del proyecto:** como el repago depende del flujo, los prestamistas exigen que
+  ese flujo esté **asegurado por contratos sólidos**: contratos de construcción (*EPC*), de operación, de
+  suministro de insumos, y —crucial— de **venta del producto** (un *offtake agreement* o *PPA* —contrato de
+  compra de energía— que garantice que alguien comprará lo que el proyecto produzca). Los prestamistas
+  analizan **cada** contrato porque de ellos depende su repago.
+- **La cascada de pagos (*cash waterfall*):** todos los ingresos del proyecto entran a **cuentas
+  controladas** (vía fideicomiso) y se distribuyen en un **orden estricto**: primero gastos de operación,
+  luego servicio de la deuda, luego reservas (cuenta de reserva del servicio de deuda —*DSRA*—), y solo al
+  final, lo que sobra, a los patrocinadores (dividendos). Los prestamistas cobran **antes** que los dueños.
+- **El paquete de garantías:** prenda sobre las acciones del SPV, fideicomiso sobre los activos y los
+  flujos, cesión de los contratos del proyecto y de los seguros. Todo amarrado para que, si algo falla, los
+  prestamistas puedan **tomar el control del proyecto**.
+- **Covenants financieros específicos:** el rey es el **DSCR** (*Debt Service Coverage Ratio*: que el flujo
+  cubra el servicio de la deuda X veces).
+
+> El *project finance* es **ingeniería jurídica y financiera pura**: se construye una "mini-economía"
+> (el SPV con sus contratos, cuentas y garantías) diseñada para que la deuda se pague sola con el flujo del
+> proyecto. Es de las prácticas más sofisticadas y demandadas (infraestructura, energía, renovables).
+
+**ACQUISITION FINANCE y LBO (financiar la compra de una empresa).** Es el financiamiento cuyo destino es
+**adquirir** una empresa, y su forma extrema es el **Leveraged Buyout (LBO)** —el motor del *private
+equity* que anticipaste en el Libro 3—. La idea audaz: comprar una empresa **endeudándose**, de modo que la
+deuda se repague, en buena parte, con el **propio flujo de la empresa adquirida**. Sus piezas:
+- **La estructura (recuerda el Libro 3):** el fondo crea una **NewCo**, le aporta **equity** y le consigue
+  **deuda**; la NewCo **compra** la *target*; luego (a menudo) **se fusiona** con ella (fusión apalancada)
+  para que la deuda y el flujo queden en la **misma** sociedad.
+- **Los tramos de deuda (la estructura de capital del LBO):**
+  - **Deuda *senior* (garantizada):** la de menor riesgo y menor tasa; cobra primero; con el paquete de
+    garantías completo. Suele ser sindicada.
+  - **Deuda subordinada / *mezzanine* / *high-yield*:** mayor riesgo, mayor tasa; cobra **después** de la
+    senior; a veces con componentes de equity (*warrants*). Llena el espacio entre la deuda senior y el
+    equity del fondo.
+  - **Equity del fondo:** lo que pone el PE; cobra **al final** (pero captura el *upside*).
+- **El *intercreditor agreement* (acuerdo entre acreedores):** pieza **esencial** cuando hay varios niveles
+  de deuda. Regula la **relación entre los acreedores** *senior* y *subordinados*: el **orden de cobro**
+  (prelación), quién puede **ejecutar** garantías y cuándo (el subordinado normalmente debe "esperar"
+  —*standstill*—), cómo se reparte lo recuperado, y qué pasa en una reestructuración. Es el contrato que
+  **ordena la jerarquía** de la deuda; dominarlo es marca de sofisticación.
+- **El *committed financing* y el *certain funds*:** para poder firmar el SPA y comprometerse a comprar, el
+  comprador necesita **certeza** de que tendrá el dinero al cierre. Por eso negocia una **carta de
+  compromiso** (*commitment letter*) de los bancos con condiciones mínimas (*certain funds*): el banco se
+  obliga a fondear salvo por contadísimas excepciones. Sin esto, el comprador no puede asumir
+  obligaciones firmes frente al vendedor.
+
+**El límite jurídico clave: la asistencia financiera (*financial assistance*).** Aquí una regla que debes
+conocer bien: ¿puede la **empresa adquirida** dar garantías o usar sus activos para financiar **su propia
+compra**? Esto es la "asistencia financiera", y muchos sistemas la **restringen o prohíben** (porque
+perjudica a los acreedores y minoritarios de la *target*: sus activos respaldan una deuda que no la
+benefició a ella, sino a quien la compró). En el LBO, esto es un punto **crítico**: el fondo querría usar
+los activos de la *target* como garantía de la deuda de adquisición, pero hay que estructurarlo
+**cuidadosamente** para no violar las reglas de asistencia financiera, capitalización y protección de
+acreedores. La **fusión** posterior (NewCo + target) es una de las formas de lograr que el flujo y los
+activos de la target sirvan la deuda **dentro** de la legalidad —pero exige cuidar la oposición de
+acreedores y las reglas societarias—. El abogado que estructura un LBO debe **dominar esta frontera**.
+
+### 14.E · Los bonos y el mercado de deuda (financiarse sin banco)
+
+La última gran vía de financiamiento es ir **directamente al mercado**: emitir **bonos** (en México,
+típicamente **certificados bursátiles** u **obligaciones**) que se colocan entre **múltiples
+inversionistas** (fondos, aseguradoras, afores, público). En vez de un banco que presta, **miles de
+inversionistas** compran fracciones de la deuda. Es la **desintermediación**: la empresa se fondea sin (o
+además de) la banca.
+
+**Cómo funciona una emisión de bonos:**
+- **El instrumento:** un **bono** es un título de deuda negociable que promete pagar **intereses** (el
+  **cupón**, periódico) y devolver el **principal** al **vencimiento**. Se compra y vende en el mercado
+  (tiene **liquidez**, a diferencia de un crédito bancario).
+- **El proceso (mercado de valores - LMV):** la empresa (emisora) prepara un **prospecto** (revelación
+  exhaustiva de su situación —conecta con el Libro de Mercado de Valores—), obtiene una **calificación
+  crediticia** (de agencias como S&P, Moody's, Fitch, HR Ratings: la nota que mide el riesgo de impago y
+  determina la tasa), y **coloca** los bonos a través de intermediarios (casas de bolsa), bajo la
+  supervisión de la **CNBV**.
+- **El *indenture* / acta de emisión:** el documento que rige el bono. Contiene —otra vez— **covenants**
+  (afirmativos, negativos y, a veces, financieros), **eventos de incumplimiento** y los términos del pago.
+  Los bonos *high-yield* (de empresas más riesgosas) tienen covenants más estrictos, parecidos a los de un
+  crédito.
+- **El *trustee* / representante común:** como los tenedores son **muchos y dispersos**, se nombra un
+  **representante común** que actúa **en nombre de todos** los tenedores (vigila el cumplimiento, ejerce
+  acciones, coordina decisiones). Es el equivalente al "agente" del sindicato, pero para bonistas.
+
+**Bono vs. crédito bancario (cuándo conviene cada uno):**
+
+| | Crédito bancario | Bono (mercado) |
+|---|---|---|
+| Quién presta | Banco(s) | Múltiples inversionistas |
+| Negociación | Bilateral/sindicato | Términos de mercado, estandarizados |
+| Flexibilidad | Alta (renegociable con el banco) | Baja (difícil renegociar con miles) |
+| Garantías | Frecuentes (paquete) | A veces quirografarios (sin garantía) |
+| Covenants | Intensos, monitoreados | Más ligeros (salvo high-yield) |
+| Liquidez | Baja (aunque hay mercado secundario) | Alta (se negocian en bolsa) |
+| Revelación | Privada | Pública (prospecto, calificación) |
+| Plazo/monto | Flexible | Suele ser mayor plazo y monto |
+
+**La decisión de estructura de capital de deuda.** Una empresa sofisticada combina **ambos**: créditos
+bancarios (revolventes para operación, flexibles) **y** bonos (para deuda de largo plazo y gran monto). El
+abogado, junto con el CFO y los asesores, ayuda a diseñar el **mix óptimo** según costo, plazo,
+flexibilidad y apetito del mercado. En las adquisiciones grandes, es común el patrón **bridge-to-bond**:
+un crédito puente bancario para **cerrar rápido** la compra, **refinanciado** después con una emisión de
+bonos de largo plazo. Aquí ves, una vez más, cómo todas las piezas del financiamiento —crédito, sindicado,
+acquisition finance, bonos— se **combinan** en una sola operación. Y cómo el abogado que las domina **todas**
+puede estructurar el deal **completo**: el equity (Libros 1-4) y la deuda (este libro). Esa es la marca del
+especialista en operaciones corporativas complejas.
