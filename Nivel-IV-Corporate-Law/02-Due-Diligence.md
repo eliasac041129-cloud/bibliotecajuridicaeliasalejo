@@ -482,3 +482,107 @@ fiscal o ambiental, pero **sí** debe saber qué busca cada área, **leer** sus 
 jurídico y **conectar** los puntos: un *red flag* fiscal puede exigir una indemnización especial; uno de
 *change of control*, una condición al *closing*; uno ambiental grave, un descuento, un *escrow* o el
 abandono del deal.
+
+### 14.B · El proceso de due diligence (de principio a fin)
+
+La due diligence no es leer documentos al azar: es un **proceso ordenado** con fases bien definidas.
+Domínalo como un protocolo; así sabrás siempre en qué punto estás y qué falta.
+
+**Fase 0 — Preparación y *scoping* (definir el alcance).** Antes de pedir un solo documento, el equipo
+define el **alcance** (*scope*): ¿qué áreas se revisan?, ¿con qué profundidad?, ¿cuál es el **umbral de
+materialidad** (no revisar contratos por debajo de cierto monto)?, ¿cuál es el calendario y el
+presupuesto? El alcance se fija según el **tamaño y el riesgo** del deal y según la **tesis** del
+comprador (un estratégico mira sinergias e integración; un fondo mira QoE y capacidad de
+apalancamiento). *Error clásico del junior:* lanzarse a revisar sin un *scope* claro y ahogarse en
+documentos irrelevantes. **El alcance bien definido es la mitad del trabajo.**
+
+**Fase 1 — Solicitud de información (*request list* / DDRL).** El comprador entrega al vendedor una
+**lista estructurada** de la información que necesita, organizada por áreas (corporativo, contractual,
+fiscal, laboral, etc.). Las *request lists* suelen partir de un *checklist* maestro del despacho que se
+**adapta** al deal concreto. La calidad de la lista marca el ritmo: pedir de más satura y enoja; pedir
+de menos deja huecos de riesgo. Es habitual hacer **rondas** (una lista inicial y solicitudes
+complementarias según lo que se va encontrando).
+
+**Fase 2 — Apertura y población del data room.** El vendedor **carga** la información solicitada en el
+**Virtual Data Room (VDR)**, organizada en carpetas que normalmente espejan la *request list*. El
+comprador obtiene accesos (con distintos niveles según la sensibilidad). En procesos competitivos
+(subastas), el vendedor controla qué se revela y cuándo (a veces hay información ultrasensible —precios,
+clientes— que solo se abre en fases avanzadas o en un *clean room* para evitar problemas de competencia).
+
+**Fase 3 — Revisión y análisis.** El equipo del comprador **revisa** sistemáticamente, área por área,
+registrando hallazgos. Aquí entran el criterio, la técnica y, hoy, la **tecnología** de revisión asistida
+(para detectar cláusulas tipo en grandes volúmenes de contratos). Cada revisor levanta los **red flags**
+de su área y los documenta con referencia precisa (qué documento, qué cláusula, qué riesgo, qué impacto
+estimado).
+
+**Fase 4 — Q&A (preguntas y respuestas).** Cuando la información del data room es insuficiente, ambigua o
+genera dudas, el comprador formula **preguntas** a través del módulo de Q&A del VDR, y el vendedor
+responde. Este proceso: **(i)** llena los huecos de información; **(ii)** genera un **rastro documental**
+valioso (las respuestas del vendedor pueden ser, en sí mismas, una forma de revelación o de
+*representation* informal); y **(iii)** permite calibrar la **transparencia y cooperación** del vendedor
+(un vendedor evasivo es, en sí mismo, una bandera).
+
+**Fase 5 — Reporte (DD report).** El equipo consolida los hallazgos en el **DD report** (típicamente un
+*red flag report*: solo lo relevante). Aquí la información cruda se convierte en **inteligencia para la
+decisión**: hallazgo → riesgo → impacto → recomendación. Lo veremos a fondo en la sección 14.E y en la
+sección 21.
+
+**Fase 6 — Traducción al contrato y a la negociación.** Los hallazgos **alimentan** la negociación del
+precio y la redacción del SPA: reps específicas, indemnizaciones especiales, ajustes, *escrow*,
+condiciones al *closing*, exclusiones del perímetro. Esta es la fase donde la DD **paga**: un hallazgo
+que no se traduce en protección contractual es trabajo perdido.
+
+**Fase 7 — DD confirmatoria (entre *signing* y *closing*).** Si hay separación entre firma y cierre
+(*gap*), suele hacerse una **due diligence confirmatoria** o de actualización (*bring-down*): verificar
+que nada relevante cambió, que las condiciones se cumplieron y que las reps siguen siendo ciertas a la
+fecha del *closing*. Conecta con los *covenants* de operación ordinaria y con la cláusula MAC del Libro 1.
+
+**Una idea rectora del proceso:** la due diligence es **iterativa**, no lineal. Lo que se encuentra en
+una fase genera nuevas preguntas y nuevas solicitudes en la anterior. El buen abogado **navega** ese
+ciclo con orden, sin perder de vista ni el bosque (la tesis del deal y el riesgo agregado) ni los árboles
+(el hallazgo concreto en la cláusula concreta).
+
+### 14.C · El data room y la dinámica de la información
+
+El **data room** es el escenario físico (hoy virtual) de la due diligence, y entender su dinámica es
+parte del oficio.
+
+**Del cuarto físico al VDR.** Como vimos, antes era un cuarto con cajas de documentos vigilado; hoy es
+una **plataforma en línea segura** (Virtual Data Room). El VDR aporta ventajas decisivas: acceso
+simultáneo de equipos en varias ciudades, **control de permisos** por usuario y por carpeta, **marcas de
+agua** y bloqueo de descarga/impresión para lo sensible, y un **registro de auditoría** (*audit log*)
+que muestra quién vio qué y cuándo —dato relevante si después se discute qué fue revelado—.
+
+**Estructura del data room.** Suele organizarse en carpetas que espejan las áreas de la DD: 1.
+Corporativo; 2. Contratos materiales; 3. Fiscal; 4. Financiero; 5. Laboral; 6. Permisos y regulatorio;
+7. Propiedad intelectual; 8. Litigios; 9. Inmuebles; 10. Seguros; etc. Un data room **bien organizado**
+acelera la revisión; uno caótico (documentos sin nombrar, escaneos ilegibles, faltantes) es, en sí
+mismo, una **señal** sobre la calidad de la gestión de la *target*.
+
+**La dinámica de poder informativo.** El vendedor **controla** qué pone en el data room y cómo lo
+presenta; el comprador busca lo que falta y lo que se esconde. Por eso el abogado del comprador debe leer
+no solo lo que **está**, sino detectar lo que **no está** (¿por qué no hay contrato con el principal
+cliente?, ¿por qué falta el dictamen fiscal de un año?). Las **ausencias** suelen decir tanto como los
+documentos.
+
+**Q&A: el arte de preguntar.** El módulo de Q&A es una herramienta poderosa y delicada. Buenas prácticas:
+**(i)** preguntar de forma **precisa y referenciada** (a qué documento se refiere la pregunta); **(ii)**
+escalar la presión de forma gradual (primero pedir el documento faltante, luego preguntar por su
+ausencia); **(iii)** documentar todo (las respuestas pueden tener valor probatorio o servir de base a una
+*representation*); y **(iv)** cuidar el **tono** (un Q&A agresivo o desmesurado puede deteriorar la
+relación y el deal). Recuerda: lo que el vendedor **responde** o **revela** en el Q&A puede luego limitar
+su responsabilidad (si reveló un problema, difícilmente podrá el comprador reclamar después por algo que
+**sabía**: es el principio anglosajón del *sandbagging*, que se negocia expresamente en el SPA).
+
+**Confidencialidad y privilegio.** Todo el ejercicio se ampara en el **NDA** firmado al inicio (Libro 1).
+Además, el abogado debe cuidar el **secreto profesional / privilegio legal**: ciertos documentos
+(opiniones legales, análisis de litigios) son sensibles, y su manejo en el data room debe proteger el
+privilegio para que no se entienda renunciado. En operaciones transfronterizas, las reglas de privilegio
+varían por jurisdicción —un punto fino que distingue al abogado sofisticado—.
+
+**Información competitivamente sensible y *clean teams*.** Cuando comprador y *target* son competidores,
+revelar precios, clientes o estrategias durante la DD puede violar la **ley de competencia** (intercambio
+de información sensible, *gun jumping* informativo). La solución profesional son los **clean teams**:
+equipos restringidos (a veces asesores externos) que revisan la información ultrasensible **sin**
+trasladarla a quienes toman decisiones comerciales hasta que la operación se autoriza y cierra. Es un
+matiz avanzado, pero crítico en deals entre competidores.
