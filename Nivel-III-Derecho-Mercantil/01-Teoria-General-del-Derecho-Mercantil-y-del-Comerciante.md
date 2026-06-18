@@ -402,3 +402,92 @@ suelto ni un comerciante aislado, sino la **organización en marcha**, cuyo valo
 Nivel III consiste en estudiar las **instituciones de ese distrito de negocios**: sus
 organizaciones (sociedades), su dinero circulante (títulos de crédito), su gran mercado de capital
 (valores) y qué pasa cuando una empresa cae (concurso).
+
+
+## 16. Ejemplos simples
+
+1. **Acto de comercio por su naturaleza.** Una persona compra 100 televisores para **revenderlos**
+   con ganancia: es acto de comercio (adquisición con propósito de especulación, art. 75-I). Si los
+   compra para su casa, es acto **civil**.
+2. **Comerciante por su forma.** Una **S.A.** es comerciante **siempre**, aunque su objeto sea, por
+   ejemplo, tenencia de inmuebles: la sociedad mercantil es comerciante por su tipo (art. 3-II).
+3. **Acto absolutamente mercantil.** Suscribir un **pagaré** es mercantil **siempre**, lo firme un
+   comerciante o un particular (es un título de crédito).
+4. **Supletoriedad.** Una compraventa mercantil no regula un detalle del saneamiento: se aplica el
+   **Código Civil** (art. 2 C. Com.).
+5. **Usos mercantiles.** En una compraventa internacional se pacta "FOB Veracruz" (**Incoterm**):
+   el uso comercial define quién asume el riesgo y los costos del transporte.
+
+## 17. Ejemplos complejos
+
+1. **Acto mixto (mercantil para uno, civil para otro).** Un consumidor compra un refrigerador a una
+   tienda. Para la tienda es **acto de comercio**; para el consumidor, **civil**. Rige el régimen
+   mercantil, pero con las **protecciones** del consumidor (LFPC). ¿Qué prescripción y qué tribunal
+   aplican? La calificación mixta y las normas de protección deciden.
+2. **Mercantilidad por conexión.** Una empresa de transporte arrienda una bodega para guardar
+   mercancía. El arrendamiento es civil en sí, pero al ser **accesorio** a la actividad mercantil de
+   la empresa, se "mercantiliza" por conexión. Importa para la prescripción y la jurisdicción.
+3. **Transmisión del fondo de comercio (asset deal).** Un comprador adquiere "el negocio" de una
+   cadena de restaurantes: instalaciones, marcas, **clientela**, contratos de arrendamiento,
+   personal. Se transmite el **fondo de comercio como unidad**, y buena parte del precio es
+   **goodwill** (aviamiento). Hay que ceder cada contrato (con consentimientos), transmitir marcas
+   (registro IMPI), y manejar la sustitución patronal (laboral). Pura ingeniería de transmisión de
+   empresa.
+4. **Comerciante de hecho y obligaciones.** Una persona realiza actos de comercio de forma habitual
+   pero **no se inscribió** ni lleva contabilidad. ¿Es comerciante? Sí (el estatus deriva de la
+   actividad, no del registro), pero **incumple** sus obligaciones profesionales, con consecuencias
+   (fiscales, probatorias, concursales). En due diligence, una *target* "informal" es una bandera
+   roja.
+
+## 18. Casos reales (jurisprudencia y operaciones estilizadas)
+
+- **Naturaleza enunciativa del art. 75:** los tribunales reiteran que la lista de actos de comercio
+  es **enunciativa, no taxativa**, y que la fracción XXIV permite calificar como mercantiles actos
+  análogos no listados.
+- **Mercantilidad y vía ejecutiva:** criterios sobre cuándo una operación es mercantil para efectos
+  de la **vía ejecutiva mercantil** y de la **prescripción** (plazos mercantiles, a menudo más
+  cortos que los civiles).
+- **Sociedad mercantil como comerciante:** confirmación de que la sociedad mercantil es comerciante
+  por su forma, con las obligaciones inherentes (contabilidad, registro).
+- **Usos mercantiles (Incoterms):** reconocimiento de la fuerza de los usos del comercio
+  internacional incorporados a los contratos.
+
+> *Nota de método (Manifiesto XI.5):* verificar la vigencia y localización de los criterios antes
+> de invocarlos; se exponen por su valor formativo.
+
+## 19. Casos empresariales
+
+- **Constitución de la empresa:** elegir la **forma** (S.A., S. de R.L., S.A.P.I.), inscribirse,
+  montar la contabilidad y el cumplimiento: el "nacimiento" del comerciante persona moral.
+- **Empresa familiar:** el reto de **profesionalizar** una empresa familiar (separar familia,
+  propiedad y gestión), con protocolo familiar, gobierno corporativo y planeación de la sucesión —
+  todo dentro del marco mercantil.
+- **Informalidad y formalización:** muchas PyMEs operan informalmente; formalizarlas (registro,
+  contabilidad, estructura societaria) es un servicio jurídico de alto valor y la base para acceder
+  a financiamiento.
+
+## 20. Casos corporativos (en transacciones)
+
+- **Asset deal = transmisión del fondo de comercio.** Comprar "el negocio" (no las acciones) implica
+  transmitir el fondo de comercio como unidad: activos, contratos (con cesión y consentimientos),
+  marcas, clientela y goodwill. La **mercantilidad** del conjunto y la **sustitución** en contratos
+  y relaciones laborales son centrales.
+- **Due diligence del comerciante:** verificar inscripción en el RPC, **contabilidad** confiable,
+  cumplimiento de obligaciones del comerciante, y la **regularidad** de la empresa como base de la
+  operación.
+- **Valuación y goodwill:** el **aviamiento/goodwill** (valor de la organización y la clientela) es
+  lo que explica que el precio supere el valor contable: la teoría de la empresa de este libro es el
+  sustrato de la valuación del Nivel V.
+
+## 21. Casos internacionales
+
+- **Nueva lex mercatoria:** los contratos internacionales incorporan **Incoterms**, **UCP 600**
+  (créditos documentarios), **URDG** (garantías a demanda) y principios **UNIDROIT**: un derecho de
+  los negocios **transnacional** que recupera la idea medieval de la lex mercatoria.
+- **CISG:** la compraventa internacional de mercaderías se rige por un régimen uniforme, desplazando
+  los derechos nacionales salvo exclusión.
+- **Arbitraje comercial internacional:** la jurisdicción mercantil "natural" del comercio global; los
+  comerciantes prefieren árbitros especializados a tribunales estatales, recuperando el espíritu de
+  los antiguos **tribunales consulares**.
+- **Sociedades y sucursales extranjeras:** las sociedades extranjeras que realizan actos de comercio
+  en México son comerciantes (art. 3-III) y deben cumplir requisitos de establecimiento y registro.
