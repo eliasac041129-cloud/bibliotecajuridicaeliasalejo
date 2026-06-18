@@ -912,3 +912,153 @@ regulación de sostenibilidad más avanzada del mundo, y —por el "**efecto Bru
 (empresas de otros países que operan o se financian en Europa deben cumplirlas). *Lección:* aunque México
 aún esté formando su marco ESG, las empresas mexicanas con operaciones o capital internacional ya enfrentan
 exigencias ESG **europeas**. El abogado debe conocer este marco emergente.
+
+## 22. Derecho comparado
+
+Las tres dimensiones tienen marcos comparados ricos. Tabla:
+
+| Jurisdicción / sistema | Gobierno, compliance y ESG |
+|---|---|
+| **México (Civil Law)** | Gobierno: **LMV** (S.A.B.: independientes, comités de auditoría y prácticas societarias), LGSM, Código del CCE. Compliance: **LGRA**/Sistema Nacional Anticorrupción (política de integridad como atenuante), **LFPIORPI** (antilavado). ESG: marco emergente (BMV/BIVA, finanzas sostenibles). |
+| **EE.UU. (Common Law)** | Gobierno: **Sarbanes-Oxley**, Dodd-Frank, reglas de la SEC/NYSE-Nasdaq; *case law* de **Delaware** (deberes fiduciarios). Compliance: **FCPA** (anticorrupción), guías del **DOJ** sobre programas efectivos. ESG: debatido y politizado; revelación climática de la SEC en disputa. |
+| **Delaware** | El referente mundial de **deberes fiduciarios**: Van Gorkom, Revlon, Unocal, **Caremark** (deber de supervisión = base del compliance), *entire fairness*. Modela el gobierno global. |
+| **Reino Unido (Common Law)** | Gobierno: **UK Corporate Governance Code** ("comply or explain"). Compliance: **UK Bribery Act** (anticorrupción amplia, extraterritorial). ESG: revelación climática obligatoria (TCFD). |
+| **Unión Europea** | Gobierno: directivas de derechos de accionistas. Compliance: marcos anticorrupción y antilavado. **ESG: el marco más avanzado del mundo** —**CSRD** (reporte de sostenibilidad), **SFDR** (productos financieros), **taxonomía** verde, **directiva de debida diligencia en sostenibilidad** (CSDDD)—. |
+| **OCDE / soft law** | **Principios de Gobierno Corporativo de la OCDE** (estándar global), **Convención Anticohecho**, **Líneas Directrices para Empresas Multinacionales** (conducta responsable). |
+| **Estándares ESG globales** | **ISSB/IFRS S1-S2** (revelación de sostenibilidad/clima), **GRI**, **TCFD**, **PRI** (inversión responsable). |
+| **Civil Law vs. Common Law (síntesis)** | El **common law** (Delaware) desarrolló el *case law* de deberes fiduciarios que el mundo cita; el **civil law** (México) los codifica (LMV, LGSM) y adopta los estándares OCDE. En compliance, la **FCPA/UK Bribery Act** marcan el estándar global; en ESG, la **UE** lidera. La práctica converge internacionalmente. |
+
+**Lección comparada:** el gobierno corporativo "habla Delaware" (sus *case law* —Caremark, Revlon— son
+referencia universal); el compliance "habla FCPA" (estándar global anticorrupción); y el ESG "habla
+europeo" (CSRD/SFDR como marco más avanzado). El abogado mexicano de élite debe **conocer los tres
+referentes** porque condicionan a las empresas mexicanas con operaciones o capital internacional.
+
+## 23. Derecho mexicano
+
+El marco mexicano de las tres dimensiones:
+
+- **Gobierno corporativo:**
+  - **LMV:** régimen de las **S.A.B.** (consejeros independientes —mínimo 25%—, comités de **auditoría** y
+    de **prácticas societarias** integrados por independientes, deberes de **diligencia** y **lealtad**,
+    OPR, protección de minorías —OPAs—); la **S.A.P.I.** (gobierno flexible).
+  - **LGSM:** gobierno de las sociedades en general (asamblea, consejo, vigilancia, deberes).
+  - **Código de Principios de Gobierno Corporativo (CCE):** mejores prácticas (soft law).
+- **Compliance / anticorrupción / antilavado:**
+  - **Ley General de Responsabilidades Administrativas (LGRA)** y **Sistema Nacional Anticorrupción:**
+    sancionan el cohecho; **responsabilidad de las personas morales**; la **"política de integridad"**
+    (compliance) como **atenuante**.
+  - **Código Penal Federal:** delitos de cohecho; **responsabilidad penal de las personas jurídicas** (con
+    compliance como factor).
+  - **LFPIORPI (antilavado):** identificación (KYC), reportes, actividades vulnerables.
+- **ESG:** marco **emergente** —requerimientos de la **BMV/BIVA**, guías de finanzas sostenibles, y la
+  influencia de los estándares internacionales (ISSB) y europeos (vía empresas con operaciones/capital
+  internacional)—.
+
+> **Nota de método:** el compliance y, sobre todo, el ESG son áreas **en rápida evolución** en México;
+> verifica el marco vigente antes de aplicar (Manifiesto XI.5).
+
+## 24. Jurisprudencia relevante
+
+> *Nota de método: verifica vigencia y datos de identificación antes de citar.*
+
+Criterios relevantes:
+- **Deberes de los administradores (diligencia y lealtad — LMV/LGSM):** alcance de la responsabilidad de
+  los consejeros y directivos; el deber de actuar de manera **informada** y **leal**.
+- **Operaciones con partes relacionadas:** requisitos de revelación, aprobación por independientes y precio
+  de mercado.
+- **Responsabilidad de las personas morales (LGRA / Código Penal):** alcance y el valor de la **política de
+  integridad** como atenuante.
+- **Antilavado (LFPIORPI):** criterios sobre las obligaciones de identificación y reporte.
+- **Protección de minorías (LMV):** OPAs, derecho de los accionistas minoritarios.
+
+En el ámbito internacional, el ***case law* de Delaware** (Caremark, Revlon, Unocal, Van Gorkom) es
+**estudio obligado** —modela los deberes fiduciarios globalmente—, junto con las **resoluciones FCPA** del
+DOJ/SEC (que orientan el diseño de los programas de compliance).
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **SCJN / tribunales:** criterios sobre **deberes de los administradores**, OPR, y responsabilidad
+  corporativa.
+- **CNBV:** regulación y supervisión del **gobierno de las emisoras** (S.A.B.), revelación, OPAs.
+- **Sistema Nacional Anticorrupción / Secretaría de la Función Pública / Tribunales administrativos:**
+  aplicación de la **LGRA** (sanciones, responsabilidad de personas morales, política de integridad).
+- **UIF (Unidad de Inteligencia Financiera) y CNBV:** aplicación del régimen **antilavado**.
+- **BMV / BIVA y reguladores financieros:** requerimientos y guías **ESG** y de finanzas sostenibles
+  (emergentes).
+
+## 26. Doctrina nacional
+
+La doctrina mexicana sobre gobierno corporativo es **sólida** (a partir de la LMV y de la influencia de la
+OCDE y de Delaware), desarrollada por la academia, los reguladores (CNBV) y organismos como el **Consejo
+Coordinador Empresarial** (autor del Código de Principios de Gobierno Corporativo). En **compliance**, la
+doctrina creció con el Sistema Nacional Anticorrupción (2016) y la práctica de los despachos (programas de
+integridad, anticorrupción, antilavado). En **ESG**, la doctrina es **incipiente** y se nutre sobre todo de
+los estándares internacionales y de la práctica de los despachos y las asociaciones (finanzas sostenibles).
+Es un campo donde el abogado mexicano está **construyendo** la doctrina conforme la regulación madura.
+
+## 27. Doctrina internacional
+
+- **Principios de Gobierno Corporativo de la OCDE.** El estándar global; referencia obligada.
+- **Kraakman, Hansmann et al., *The Anatomy of Corporate Law*.** Análisis funcional y comparado del
+  gobierno corporativo.
+- **Jurisprudencia y doctrina de Delaware (deberes fiduciarios).** Caremark, Revlon, Unocal, Van Gorkom;
+  el marco que modela el gobierno global.
+- **FCPA Resource Guide (DOJ/SEC) y *Evaluation of Corporate Compliance Programs* (DOJ).** Los documentos
+  que definen qué es un **programa de compliance efectivo**; lectura imprescindible.
+- **Principios de Inversión Responsable (PRI) de la ONU, ISSB, GRI, TCFD.** Los estándares del ESG y la
+  inversión responsable.
+- **Berle & Means; Jensen & Meckling.** Las raíces (problema de agencia) del gobierno corporativo.
+- **Doctrina del *stakeholder capitalism* vs. *shareholder primacy* (Friedman; Business Roundtable 2019).**
+  El debate sobre el propósito de la empresa.
+
+## 28. Opiniones críticas (postura del Consejo Editorial)
+
+**Primero: el gobierno, el compliance y el ESG crean valor —no son costos ni trámites.** Sostenemos con
+firmeza que estas tres dimensiones, bien entendidas, **crean y protegen valor**: una empresa bien
+gobernada, limpia y sostenible vale más, accede mejor al capital, resiste las crisis y se vende mejor.
+Tratarlas como "carga regulatoria" es un error de quien no entiende su lógica económica.
+
+**Segundo: la sustancia por encima del papel (en las tres).** El gobierno "de membrete" (independientes
+que no lo son), el compliance "de manual" (programa que nadie vive) y el ESG "de relato" (greenwashing) son
+**peor que nada**: dan falsa seguridad y, cuando estallan, agravan el daño. El valor está en la
+**sustancia**: independientes reales, cultura de integridad genuina, ESG con hechos.
+
+**Tercero: Caremark conecta gobierno y compliance —y eleva la responsabilidad del consejo.** Insistimos en
+que el compliance es un **deber de gobierno**: el consejo debe asegurar que exista un programa efectivo y
+atender las señales de alarma. El abogado que asesora al consejo debe hacerle ver esta responsabilidad —y
+protegerlo cumpliéndola—.
+
+**Cuarto: postura realista sobre el ESG.** Reconocemos el debate (falta de estándares consistentes,
+greenwashing, uso político). Nuestra postura: el ESG **material y genuino** —gestionar los riesgos
+ambientales y sociales relevantes como riesgos del negocio, con transparencia— es **gestión de riesgo y
+acceso al capital**; el ESG **de relato** es un riesgo. El abogado debe perseguir la sustancia y proteger
+del greenwashing, sin caer ni en el cinismo ("todo es moda") ni en la ingenuidad ("todo ESG es bueno").
+
+**Quinto: el abogado como asesor del consejo —el rol de mayor responsabilidad.** Para tu perfil, dominar
+estas tres dimensiones te habilita para el rol más prestigioso del derecho corporativo: **asesor del
+consejo de administración**. Es la culminación de la formación: del técnico de operaciones al consejero de
+la institución.
+
+## 29. Debate doctrinal
+
+- **¿Shareholder primacy o stakeholder capitalism?** ¿La empresa existe para maximizar el valor de los
+  **accionistas** (Friedman) o debe servir a **todos los grupos de interés** (trabajadores, comunidades,
+  medio ambiente)? *Postura del Consejo:* el debate es real y no resuelto; nuestra posición es que, en el
+  **largo plazo**, atender a los *stakeholders* (incluido el ESG) **es** crear valor sostenible para los
+  accionistas —no son objetivos opuestos, salvo en el cortoplacismo—.
+- **¿El ESG crea valor o es una moda costosa?** *Postura del Consejo:* el ESG **material** (riesgos
+  relevantes del negocio) crea valor y es gestión de riesgo; el ESG **inflado o de relato** es costo y
+  riesgo (greenwashing). La clave es la **materialidad y la sustancia**.
+- **¿Funcionan los programas de compliance o son "teatro de cumplimiento"?** *Postura del Consejo:* un
+  programa **de papel** es teatro inútil (y agrava la sanción cuando estalla); un programa **efectivo**
+  (tone at the top genuino, riesgos, canal de denuncias que funciona, mejora continua) **sí** previene y
+  protege. La diferencia es la **cultura**, no el manual.
+- **¿Hasta dónde llega el deber de supervisión del consejo (Caremark)?** ¿Responden los consejeros por
+  **cualquier** fallo de compliance, o solo por la **ausencia total** de supervisión? *Postura del Consejo:*
+  el estándar (Caremark) exige **buena fe** en instalar y vigilar sistemas, no perfección; pero la
+  tendencia es a **endurecer** la responsabilidad del consejo por ignorar señales de alarma —lo que eleva
+  la importancia del abogado asesor—.
+- **¿Independencia real o de membrete?** *Postura del Consejo:* la independencia **formal** (cumplir el
+  requisito) sin independencia **real** (criterio propio, disposición a cuestionar) es un fraude al
+  gobierno; el valor está en independientes que **de verdad** protejan a las minorías y cuestionen a la
+  dirección.
