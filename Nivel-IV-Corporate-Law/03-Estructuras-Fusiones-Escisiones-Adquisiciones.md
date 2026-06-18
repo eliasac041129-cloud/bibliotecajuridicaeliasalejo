@@ -481,3 +481,77 @@ DD reveló que los contratos y permisos clave son intransferibles o tienen *chan
 empuja al **share deal** o la fusión (continuidad). ¿La DD reveló un pasivo concreto y acotable? → puede
 quedarse en *share deal* con **indemnización especial** (no hace falta cambiar de estructura). El abogado
 de élite **conecta** el diagnóstico (DD) con la arquitectura (estructura) y con el blindaje (contrato).
+
+### 14.B · La fusión (concepto, clases, proceso paso a paso y efectos)
+
+La **fusión** es la operación por la cual **dos o más sociedades se integran en una sola**. Es la
+herramienta clásica de la concentración empresarial y una de las figuras más reguladas por la LGSM.
+Disecciónala así:
+
+**Las dos clases de fusión.**
+- **Fusión por absorción (o por incorporación):** una sociedad —la **fusionante**— **subsiste** y absorbe
+  a una o varias —las **fusionadas**—, que **se extinguen** sin liquidarse. El patrimonio de las
+  fusionadas pasa en bloque a la fusionante, y sus socios reciben acciones de la fusionante. Es la forma
+  **más común** (p. ej., la matriz absorbe a su subsidiaria, o la empresa grande absorbe a la que
+  compró).
+- **Fusión por integración (pura o por combinación):** **todas** las sociedades participantes se
+  **extinguen** y nace una **sociedad nueva** que recibe los patrimonios de todas. Se usa cuando se quiere
+  una entidad nueva "de igual a igual" (p. ej., dos empresas de tamaño similar que se combinan creando una
+  marca y entidad nuevas).
+
+**El rasgo jurídico esencial: la sucesión universal.** En ambas clases opera la **transmisión en bloque y
+a título universal** del patrimonio: la sociedad que subsiste (o la nueva) adquiere **automáticamente**
+todos los activos, pasivos, contratos, permisos y relaciones de la(s) extinguida(s), **sin necesidad** de
+transferir cada bien o contrato individualmente. Esta es la **gran ventaja** de la fusión sobre el *asset
+deal*: la continuidad es máxima (con la salvedad, otra vez, de las cláusulas de *change of control* que
+algunos contratos puedan tener). La contracara: como todo pasa en bloque, también pasan **todos los
+pasivos** (igual que en el share deal).
+
+**El proceso de la fusión paso a paso (LGSM, arts. 222-226).** Memoriza esta secuencia; es el esqueleto
+de la ejecución:
+
+1. **Negociación y proyecto/convenio de fusión.** Las sociedades negocian las bases: quién absorbe a
+   quién, la **relación de canje** (cuántas acciones de la fusionante recibe cada socio de la fusionada,
+   según la valuación relativa), el tratamiento de los pasivos, la fecha de efectos. Se redacta el
+   **convenio de fusión**.
+2. **Acuerdo de cada sociedad en asamblea extraordinaria.** **Cada** sociedad participante debe **aprobar
+   la fusión** en asamblea general extraordinaria de accionistas, conforme a sus estatutos y a la LGSM (la
+   fusión modifica sustancialmente la sociedad, de ahí la asamblea extraordinaria).
+3. **Inscripción en el Registro Público de Comercio y publicación.** Los acuerdos de fusión se
+   **inscriben** en el RPC y se **publican** (con el último balance de cada sociedad y el sistema para
+   extinguir el pasivo). La publicidad busca **proteger a los acreedores** (que se enteren y puedan
+   reaccionar).
+4. **Plazo de espera y derecho de oposición de los acreedores (la regla de los 3 meses).** Por regla
+   general (art. 224-225), la fusión surte efectos **tres meses** después de la inscripción. Durante ese
+   plazo, **cualquier acreedor** puede **oponerse judicialmente** a la fusión si considera que perjudica su
+   garantía; la oposición **suspende** la fusión hasta que cause ejecutoria la sentencia que la declare
+   infundada, o hasta que la sociedad pague o garantice el crédito.
+5. **Efectos inmediatos (la excepción).** La fusión puede surtir efectos **de inmediato** (sin esperar los
+   tres meses) si: se **pagan** todas las deudas de las sociedades que se fusionen, o se **deposita** su
+   importe en una institución de crédito, o **consta el consentimiento de todos los acreedores**. En la
+   práctica de grandes grupos con deudas manejables, esta vía acelera la operación.
+6. **Extinción de las fusionadas y transmisión universal.** Cumplido el proceso, las sociedades
+   fusionadas **se extinguen** (sin liquidación, porque su patrimonio no se reparte sino que pasa en
+   bloque) y la fusionante (o la nueva sociedad) las **sucede universalmente**: adquiere su patrimonio y
+   sus socios se integran a ella mediante el canje de acciones.
+
+**Efectos jurídicos de la fusión:**
+- **Patrimonial:** transmisión universal de activos y pasivos a la sociedad subsistente o nueva.
+- **Societario:** extinción de las fusionadas; los socios de estas pasan a ser socios de la fusionante
+  (canje de acciones según la relación de canje).
+- **Frente a acreedores:** continúan siéndolo de la sociedad resultante, protegidos por el derecho de
+  oposición y por la asunción de las deudas.
+- **Laboral:** opera, en principio, la **sustitución patronal**: las relaciones laborales **continúan**
+  con la sociedad resultante, conservándose los derechos de los trabajadores.
+- **Fiscal:** puede gozar de **neutralidad fiscal** (no considerarse enajenación gravada) si cumple los
+  requisitos de la LISR/CFF (permanencia, continuidad del negocio, avisos); de lo contrario, puede generar
+  impuestos. **Siempre con el asesor fiscal.**
+
+**Conexión con M&A:** la fusión se usa muchísimo como **paso de integración** tras una adquisición: el
+comprador primero **compra** la *target* (share deal) y luego la **fusiona** con su propia operación (o
+con una NewCo) para integrar patrimonios, simplificar la estructura y, a veces, lograr eficiencias
+fiscales (la célebre **fusión apalancada** de los LBO, donde la NewCo endeudada se fusiona con la *target*
+para que el flujo de la *target* sirva la deuda —tema del Libro 5—). También es la herramienta para las
+combinaciones "entre iguales" (*merger of equals*). Recuerda, además, los **deberes del consejo** al
+aprobar una fusión (Gobierno Corporativo: decidir informado, *fairness opinion*, manejar conflictos) y el
+**derecho de separación** de los socios disidentes.
