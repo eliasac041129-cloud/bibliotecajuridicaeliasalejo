@@ -486,3 +486,74 @@ del **pasado** de la empresa (reps fuertes, indemnización). El contrato de cré
 crédito, hacia adelante. Pero ambos usan la **misma gramática**: reps, covenants, condiciones, eventos de
 incumplimiento. Dominada una, la otra se aprende rápido —y juntas te dan la visión completa de la
 operación—.
+
+### 14.B · Las garantías y el paquete de garantías (cómo se asegura el cobro)
+
+Si el contrato de crédito es la promesa de pago, las **garantías** son lo que la vuelve **creíble y
+cobrable**. Una garantía es un mecanismo que le da al acreedor un **camino de cobro** si el deudor no paga.
+Es, junto con los covenants, la principal herramienta de **mitigación del riesgo de crédito** —y, por
+tanto, lo que **abarata** la tasa—. Dominar las garantías y su **ejecución** es esencial para tu perfil
+(financiamiento empresarial). Conecta directamente con el libro de **Garantías** del Nivel II.
+
+**Garantías reales (recaen sobre un BIEN).** Le dan al acreedor un **derecho preferente** sobre un bien
+específico: si el deudor no paga, el acreedor **ejecuta** ese bien y se cobra con su producto, **antes** que
+otros acreedores. Las principales en México:
+- **Hipoteca (sobre inmuebles):** el clásico. El inmueble queda gravado (sin entregarse al acreedor); se
+  constituye ante notario e **inscribe** en el Registro Público de la Propiedad. Ventaja: sólida.
+  Desventaja: su **ejecución judicial** puede ser **lenta**.
+- **Prenda (sobre muebles):** sobre bienes muebles, acciones, créditos. Dos modalidades:
+  - **Prenda con transmisión de posesión:** el bien se **entrega** al acreedor (clásica; poco práctica
+    para bienes productivos —no puedes prendar la maquinaria que necesitas usar—).
+  - **Prenda sin transmisión de posesión (LGTOC):** **innovación clave** del derecho mexicano: el deudor
+    **conserva y usa** el bien (maquinaria, inventarios, cuentas por cobrar) pero queda gravado a favor del
+    acreedor, con inscripción en el **RUG** (Registro Único de Garantías Mobiliarias). Permite garantizar
+    con **activos productivos en rotación** (inventario que entra y sale, cuentas que se cobran y renuevan).
+- **Prenda sobre acciones:** muy importante en M&A y LBO: se prendan las **acciones** de la empresa
+  adquirida, de modo que si no se paga el crédito, el acreedor **toma el control** de la empresa.
+- **Fideicomiso de garantía (LGTOC): la estrella del financiamiento moderno.** El deudor (fideicomitente)
+  **transmite** la propiedad de bienes a un **fiduciario** (un banco/institución), que los mantiene en
+  garantía del acreedor (fideicomisario); si el deudor no paga, el fiduciario **ejecuta** según lo pactado
+  (a menudo una **venta extrajudicial**, mucho más **ágil** que la ejecución judicial de una hipoteca). Es
+  el vehículo preferido para garantizar financiamientos complejos porque combina **solidez** y **rapidez de
+  ejecución**, y permite estructurar **cascadas de pago** (típico en project finance).
+
+**Garantías personales (un TERCERO responde con su patrimonio).** Añaden el patrimonio de otra persona como
+respaldo:
+- **Aval:** garantía **cambiaria** (en títulos de crédito, como el pagaré que documenta el crédito); el
+  avalista responde igual que el obligado principal.
+- **Fianza:** un fiador se obliga a pagar si el deudor no lo hace (puede ser **civil** o de una
+  **afianzadora**); típicamente **subsidiaria** (el acreedor primero va contra el deudor) salvo renuncia a
+  los beneficios de orden y excusión.
+- **Obligación solidaria:** un coobligado responde **solidariamente** (el acreedor puede ir directo contra
+  él, sin agotar al deudor). Más fuerte que la fianza.
+- ***Guarantee* / garantía corporativa:** muy común en grupos: la **matriz garantiza** la deuda de la
+  **filial** (*upstream/downstream guarantees*). En financiamientos internacionales, las *guarantees* de
+  las sociedades del grupo son parte central del paquete.
+
+**El *security package* (paquete de garantías): la visión de conjunto.** En una operación seria, el
+acreedor no se conforma con una sola garantía: arma un **paquete** que cubre el crédito desde varios
+ángulos. Un paquete típico de un financiamiento corporativo o de adquisición puede incluir:
+- **Prenda sobre las acciones** de la empresa deudora (y de las filiales clave).
+- **Hipoteca o fideicomiso** sobre los **inmuebles** y activos fijos.
+- **Prenda sin transmisión de posesión** sobre **inventarios y cuentas por cobrar**.
+- **Cesión/fideicomiso de los flujos** (que los ingresos del negocio entren a una cuenta controlada).
+- **Garantías corporativas** de la matriz y las filiales (*guarantees* cruzadas).
+El objetivo: que el acreedor pueda **cobrarse de todo lo relevante** y que ningún activo valioso quede
+fuera de su alcance. El diseño del paquete es **ingeniería jurídica fina** —hay que constituir,
+**registrar** y poder **ejecutar** cada garantía, en cada jurisdicción donde haya activos—.
+
+**La clave que casi nadie entiende al principio: la garantía vale lo que vale su EJECUCIÓN.** Una garantía
+hermosa sobre el papel **no sirve de nada** si no puedes ejecutarla rápido y con certeza cuando el deudor
+no paga. Por eso el abogado de financiamiento piensa siempre **desde el final**: "si esto sale mal, ¿cómo y
+qué tan rápido me cobro?". Esa pregunta explica por qué el **fideicomiso de garantía** (ejecución
+extrajudicial ágil) le ganó terreno a la hipoteca (ejecución judicial lenta), y por qué la **prelación** en
+el concurso (¿cobro antes o después que otros?) condiciona todo el diseño. La garantía es una **opción de
+cobro**, y su valor está en poder **ejercerla**.
+
+**Conexión con el concurso mercantil (Nivel III).** El gran examen de una garantía es la **insolvencia** del
+deudor. En el concurso, los acreedores **con garantía real** (hipotecarios, prendarios, fideicomisarios)
+tienen **prelación**: cobran del producto de su bien **antes** que los acreedores comunes
+(quirografarios). Por eso una garantía real bien constituida es **oro** en una crisis, y por eso el
+*negative pledge* (la prohibición de dar garantías a otros) es tan importante: el acreedor no quiere que
+aparezcan otros con mejor prelación que él. Todo el diseño de garantías es, en el fondo, una **apuesta
+sobre quién cobra primero si todo se derrumba**.
