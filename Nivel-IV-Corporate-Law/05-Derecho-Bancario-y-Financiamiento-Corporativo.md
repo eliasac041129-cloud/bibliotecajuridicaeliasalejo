@@ -1298,3 +1298,149 @@ INGRESOS DEL PROYECTO (a cuenta controlada / fideicomiso)
 - **Asistencia financiera:** *"la comprada no paga su propia compra (sin estructurar bien)"*.
 - **Intercreditor:** *"senior manda, subordinado espera (standstill)"*.
 - **Regla de oro:** *"el financiamiento es confianza con candados, en el tiempo"*.
+
+## 40. Resumen ejecutivo
+
+El **financiamiento corporativo** estudia cómo una empresa obtiene **capital de deuda** y cómo se
+estructura, documenta y garantiza. Su idea rectora: **la deuda es confianza garantizada en el tiempo** —el
+prestamista entrega dinero hoy contra una promesa futura, y todo el derecho del financiamiento existe para
+**proteger esa recuperación**—. El **contrato de crédito** (*facilities agreement*) es el documento rey y,
+como el SPA, un sistema de asignación de riesgo: define la facilidad (a plazo, revolvente, puente), los
+intereses (tasa + *spread*), las **reps**, los **covenants** (afirmativos, negativos y, sobre todo,
+**financieros** —Deuda/EBITDA, cobertura, DSCR—) y los **eventos de incumplimiento** con la **aceleración**.
+Las **garantías** —reales (hipoteca, prenda con/sin posesión, **fideicomiso de garantía**) y personales
+(aval, fianza, obligación solidaria, *guarantee*)— dan el camino de cobro, y la lección capital es que
+**una garantía vale lo que vale su ejecución** (de ahí el auge del fideicomiso de garantía). El **crédito
+sindicado** reparte grandes financiamientos entre muchos bancos (roles de *arranger* y *agent*,
+documentación **LMA/LSTA**). Y las dos estructuras estrella: el **project finance** (financiar un proyecto
+por su propio **flujo**, vía un **SPV** con recurso limitado y **cascada de pagos**) y el **acquisition
+finance/LBO** (financiar una adquisición con tramos de deuda **senior** y **subordinada**, un
+**intercreditor agreement**, y el cuidado de la **asistencia financiera**). Por último, los **bonos**
+permiten financiarse en el **mercado**, sin banco.
+
+La gran lección para tu perfil: el financiamiento es la **otra mitad** de casi todo deal grande. El que
+domina el M&A (Libros 1-4) **y** la deuda (este libro) puede estructurar la **operación completa** —el
+*equity* y la deuda—, dialogar de igual a igual con bancos y fondos, y **liderar** la transacción entera.
+Esa integración es, exactamente, la marca del **especialista en operaciones corporativas complejas y
+financiamiento empresarial** que quieres ser. Y observa el hilo: los contratos de financiamiento usan la
+**misma gramática** del SPA (reps, covenants, condiciones, eventos de incumplimiento), aplicada al riesgo
+**futuro** del deudor; dominada una, la otra se aprende rápido.
+
+## 41. Checklist
+
+**Estructura del financiamiento:**
+- [ ] ¿De dónde vendrá el **repago** (flujo del negocio, del proyecto, de la empresa adquirida)?
+- [ ] ¿Qué **tipo y tramos** de deuda (term, revolvente, puente; senior, mezzanine)?
+- [ ] ¿Crédito **bilateral, sindicado** o **bono** (o una combinación, bridge-to-bond)?
+
+**Protección del acreedor:**
+- [ ] ¿**Reps** del deudor adecuadas? ¿**Covenants** afirmativos, negativos (negative pledge) y
+  **financieros** (ratios) bien calibrados?
+- [ ] ¿**Eventos de incumplimiento** completos (no pago, breach, cross-default, insolvencia, MAC, change of
+  control) con **aceleración**?
+- [ ] ¿**Paquete de garantías** que cubra lo relevante (acciones, inmuebles, muebles, flujos, guarantees)?
+  ¿Están **registradas** (RUG/RPP)?
+- [ ] ¿Las garantías son **ejecutables** rápido (fideicomiso vs. hipoteca)? ¿Buena **prelación** en un
+  concurso?
+
+**Estructuras avanzadas:**
+- [ ] **Project finance:** ¿SPV, contratos del proyecto (EPC, offtake/PPA), cascada de pagos, DSCR, recurso
+  limitado?
+- [ ] **LBO:** ¿tramos + **intercreditor agreement**? ¿**Asistencia financiera** resuelta (NewCo +
+  fusión)? ¿**Committed financing** (*certain funds*) para firmar el SPA?
+- [ ] ¿Documentación **LMA/LSTA** **anclada** en derecho mexicano (garantías, ejecución, usura)?
+
+## 42. Bibliografía comentada
+
+- **Ley General de Títulos y Operaciones de Crédito (LGTOC).** **Imprescindible**: apertura de crédito,
+  prenda (con y sin posesión), fideicomiso de garantía. La base del derecho del crédito mexicano.
+- **Ley de Instituciones de Crédito (LIC) y normativa de la CNBV/Banxico.** El marco de la banca y sus
+  operaciones.
+- **Yescombe, *Principles of Project Finance*.** La obra de referencia mundial sobre la estructura, los
+  contratos y los riesgos del *project finance*.
+- **Documentación LMA / LSTA y guías de *banking & finance* de los grandes despachos.** El estándar global
+  del crédito sindicado y del *acquisition finance*; material de trabajo diario.
+- **Ley del Mercado de Valores (bonos/certificados bursátiles).** El marco de la deuda de mercado.
+- **Ley de Concursos Mercantiles (LCM).** La prelación de acreedores y el tratamiento de las garantías en
+  la insolvencia: el "qué pasa si no se paga".
+- **Doctrina de la SCJN sobre usura.** La facultad judicial de reducir intereses excesivos: doctrina
+  capital del crédito en México.
+- **Doctrina de finanzas corporativas (estructura de capital).** La base económica de la decisión
+  deuda/equity (conecta con el Nivel V).
+
+## 43. Ruta hacia el siguiente libro
+
+Ya dominas **cómo se paga** una operación: la deuda, las garantías, el crédito sindicado, el project y el
+acquisition finance, y los bonos. Tienes ahora las **dos mitades** del deal: el *equity* (Libros 1-4) y la
+deuda (este libro). El siguiente paso —según la ampliación para tu perfil— es la otra gran familia de
+contratos: los **acuerdos estratégicos** que no son ni una compraventa ni un financiamiento, sino
+**alianzas** para crear valor juntos.
+
+- **Siguiente libro:** *[Libro 6 · Contratos Estratégicos y Joint Ventures](./06-Contratos-Estrategicos-y-Joint-Ventures.md)* —
+  las **joint ventures** (sociedades conjuntas y JV contractuales), las alianzas estratégicas, los acuerdos
+  de **suministro y distribución** de largo plazo, los acuerdos marco, los MOU, y los **contratos
+  estratégicos** que estructuran la colaboración entre empresas. Es la familia contractual que completa tu
+  perfil (operaciones complejas + contratos estratégicos).
+- **Conexión inmediata:** las **joint ventures** combinan lo que ya sabes —una estructura societaria
+  (Libro 3), un acuerdo de socios tipo SHA (Libro 4) y, a menudo, financiamiento (este libro)— al servicio
+  de una **colaboración**. Y muchos contratos estratégicos (suministro, distribución) son los **contratos
+  materiales** que revisaste en la due diligence (Libro 2) y que sostienen el valor de las empresas.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque casi **ningún deal grande se paga solo con caja**: detrás de cada adquisición, expansión o proyecto
+hay **deuda**, y estructurarla es una de las prácticas más técnicas, demandadas y mejor pagadas del derecho
+corporativo. Para tu perfil —financiamiento empresarial y operaciones complejas— este libro es **columna
+vertebral**: el abogado que domina el M&A pero no la deuda ve **la mitad** del deal y depende de otro para
+fondear la operación; el que domina **ambos** —equity y deuda— estructura la transacción **completa**,
+dialoga de igual a igual con bancos y fondos, y **lidera**. Además, el financiamiento es **anticíclico**:
+cuando el M&A se enfría, florece la **reestructuración** de deuda, de modo que esta competencia te da
+trabajo en todos los climas. Y desarrolla una habilidad mental valiosísima —**pensar como el que pone el
+dinero**: ¿de dónde me pagan?, ¿de dónde me cobro si falla?, ¿cómo vigilo?, ¿cuándo reacciono?— que te hace
+un negociador y un estructurador mucho más completo.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+> *"Cuando estructuro un financiamiento, pienso como el que va a **recuperar** el dinero, no como el que lo
+> presta sin más. Me hago cuatro preguntas en orden. Primero: **¿de dónde sale el repago?** —el flujo del
+> negocio, del proyecto, de la empresa adquirida—; si esa fuente no es sólida, ninguna garantía me salva.
+> Segundo: **¿de dónde me cobro si falla?** —y aquí mi obsesión no es tener garantías 'bonitas', sino
+> garantías que pueda **ejecutar rápido y con certeza**; por eso prefiero un fideicomiso de garantía a una
+> hipoteca de ejecución eterna, y por eso reviso la **prelación** en un concurso desde el día uno—.
+> Tercero: **¿cómo vigilo al deudor?** —covenants financieros que me den **alertas tempranas** antes de que
+> deje de pagar; el covenant-lite de los mercados eufóricos me parece un regalo peligroso al deudor—.
+> Cuarto: **¿cuándo y cómo reacciono?** —eventos de incumplimiento claros, cross-default, y un botón de
+> aceleración que funcione—. Y en un LBO, mi cuidado extra es la **asistencia financiera** y el
+> **intercreditor**: que la estructura sea legal y que, si todo se incendia, esté clarísimo quién manda y
+> quién espera. El abogado que entiende esto no solo documenta deuda: **diseña cómo se recupera el
+> capital**, que es lo que de verdad importa."*
+
+## ✦ Errores que cuestan millones
+
+1. **Garantía inejecutable o mal registrada.** Una hipoteca de ejecución lentísima o una prenda no inscrita
+   en el RUG dejan al acreedor sin cobro real o sin prelación. *Prevención:* elegir garantías por su
+   **ejecutabilidad** y **registrarlas** siempre.
+2. **Covenant-lite (sin alertas).** Prestar sin covenants financieros y enterarse del deterioro cuando ya
+   no hay nada que rescatar. *Prevención:* ratios clave + reportes periódicos.
+3. **LBO que viola la asistencia financiera.** Usar los activos de la target para su propia compra sin
+   estructurar, exponiendo la operación a nulidad y responsabilidad. *Prevención:* NewCo + fusión
+   apalancada, respetando oposición de acreedores y capitalización.
+4. **Firmar el SPA sin committed financing.** Comprometerse a comprar sin certeza de la deuda y no poder
+   cerrar (incumpliendo frente al vendedor). *Prevención:* *certain funds* (commitment letter) antes de
+   obligarse.
+5. **Ignorar el intercreditor.** Tener deuda senior y subordinada sin reglas claras de prelación y
+   ejecución, y desatar el caos en la crisis. *Prevención:* negociar el *intercreditor agreement* al
+   inicio, no en el incendio.
+
+---
+
+> *Cierre del Libro 5.* Has aprendido **cómo se financia** una empresa y una operación: el contrato de
+> crédito y sus covenants, las garantías y la obsesión por su ejecución, el crédito sindicado, el project
+> finance, el acquisition finance/LBO con su intercreditor y sus límites, y los bonos. Con esto tienes ya
+> las **dos mitades** del deal —el *equity* (Libros 1-4) y la **deuda** (este libro)— y puedes pensar como
+> el que pone el dinero, no solo como el que estructura la compra. Eres, en formación, un abogado capaz de
+> orquestar la **operación completa**. Ahora cerramos la familia contractual de tu perfil: en el **Libro 6
+> · Contratos Estratégicos y Joint Ventures** aprenderás a estructurar la **colaboración** entre empresas
+> —las alianzas que crean valor sin comprar ni prestar, sino **uniendo fuerzas**—.
