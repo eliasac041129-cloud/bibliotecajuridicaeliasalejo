@@ -492,3 +492,68 @@ fondo en sesión plenaria; delega en **comités especializados** (integrados —
 detecta los riesgos a tiempo (incluido el de compliance) y crea valor**. El abogado que asesora al consejo
 —diseñando su estructura, sus comités y sus procesos, y guiándolo en sus deberes— ocupa el rol de **mayor
 confianza** del derecho corporativo. Es la práctica que corona tu perfil de gobierno corporativo.
+
+### 14.B · Los deberes fiduciarios en operaciones (diligencia, lealtad y los estándares de Delaware)
+
+Aquí el gobierno corporativo se conecta directamente con **cada operación** que estudiaste: cuando una
+empresa vende, compra, se endeuda o hace una operación con su control, los **administradores** deben
+cumplir sus **deberes fiduciarios** —y el abogado que los asesora debe asegurar que el **proceso** los
+proteja—. Los estándares de **Delaware** (la jurisdicción de referencia mundial) modelan cómo se aplican,
+y todo abogado de M&A debe dominarlos.
+
+**Los dos deberes fundamentales (repaso y profundización).**
+- **Deber de diligencia / cuidado:** decidir de manera **informada**, prudente y de buena fe. No exige
+  acertar (las decisiones de negocio pueden salir mal), sino **decidir bien el proceso**: con información
+  completa, asesores, tiempo y deliberación.
+- **Deber de lealtad:** anteponer el **interés de la sociedad** al propio; no tener conflictos no
+  revelados, no aprovechar **oportunidades de la sociedad**, no extraer valor (OPR a precio no de mercado,
+  *tunneling*). La deslealtad es lo **más grave** y **no** está protegida por la *business judgment rule*.
+
+**La Business Judgment Rule (el escudo del consejo).** Es el principio que **protege** a los
+administradores de responsabilidad por una decisión de negocio que salió mal, **siempre que** hayan
+decidido de forma **informada, de buena fe y sin conflicto**. Su efecto práctico es enorme: si el consejo
+siguió un **buen proceso**, los tribunales **no sustituyen** su juicio de negocio (aunque el resultado haya
+sido malo). Por eso el abogado se obsesiona con el **proceso**: información, asesores, *fairness opinion*,
+deliberación documentada en actas. **El proceso impecable es la mejor defensa.**
+
+**Los estándares de Delaware (referentes globales que debes conocer).**
+- ***Smith v. Van Gorkom* (1985) — el deber de informarse.** El consejo aprobó la venta de la empresa
+  **sin** información ni análisis adecuados (en una sola reunión apresurada). Delaware lo encontró
+  **responsable** por violar el deber de **diligencia** (no se informó). *Lección capital:* decidir **sin
+  informarse** rompe la business judgment rule y genera responsabilidad. El abogado debe asegurar
+  información, asesores y *fairness opinion*.
+- ***Revlon* (1986) — el deber de maximizar el precio.** Cuando la **venta o el cambio de control de la
+  empresa es inevitable**, el deber del consejo cambia: ya no es preservar la empresa, sino **obtener el
+  mejor precio** para los accionistas (el consejo se vuelve "**subastador**"). *Lección:* en una venta de
+  control, el consejo debe demostrar que buscó **maximizar el valor** (proceso competitivo, *market
+  check*). Aplica directamente al M&A (Libros 1-4).
+- ***Unocal* (1985) — las defensas anti-OPA proporcionales.** Ante una **oferta hostil**, el consejo puede
+  **defenderse**, pero sus defensas deben ser **proporcionales** a la amenaza y en interés de los
+  **accionistas** (no para **atrincherarse** y conservar su puesto). *Lección:* las defensas anti-toma de
+  control tienen límites; no pueden servir al interés personal de los administradores.
+- ***Caremark* (1996) — el deber de supervisión (la base del compliance).** Los consejeros tienen el deber
+  de **vigilar** que la empresa tenga **sistemas de cumplimiento** adecuados; la **ausencia total** de
+  supervisión (no instalar controles, ignorar señales de alarma) genera responsabilidad. *Lección capital:*
+  **Caremark es el puente entre el gobierno corporativo y el compliance** —el consejo debe asegurar que
+  exista un programa de compliance efectivo, o responde—.
+
+**Las situaciones de conflicto (donde los deberes se ponen a prueba).** Los deberes fiduciarios se
+tensionan al máximo cuando hay **conflicto de interés**:
+- **Operaciones con partes relacionadas (OPR):** transacciones con el control o personas vinculadas. Deben
+  **revelarse**, aprobarse por **independientes** (un **comité especial**), y ser a **precio de mercado**.
+  Sin esto, se presume deslealtad.
+- **Management Buyout (MBO):** cuando la **propia dirección** compra la empresa (conflicto evidente: están
+  a ambos lados de la mesa). Exige un **comité especial independiente** que negocie de verdad, *fairness
+  opinion*, y a veces aprobación de la **mayoría de la minoría**.
+- **Operaciones con el accionista de control:** sujetas al escrutinio más estricto (*entire fairness*:
+  precio justo + proceso justo), salvo que se usen las protecciones (comité independiente + voto de la
+  minoría) que pueden restaurar la business judgment rule.
+
+**La aplicación práctica para el abogado.** En **cada** operación del Nivel IV, el abogado que asesora al
+consejo debe asegurar que se cumplan estos deberes mediante el **proceso**: **(1)** información completa y
+asesores (diligencia —Van Gorkom—); **(2)** *fairness opinion* de un banco en operaciones relevantes;
+**(3)** manejo de conflictos (revelar, abstenerse, **comité especial** de independientes —en MBO o con el
+control—); **(4)** en una venta, demostrar que se **maximizó el valor** (*Revlon*); **(5)** documentar
+**todo** en actas. Este "**proceso fiduciario impecable**" es lo que protege al consejo (y a la operación)
+de impugnaciones y responsabilidad. Dominar esto es lo que convierte al abogado de M&A en **asesor del
+consejo** —el rol de mayor responsabilidad—.
