@@ -258,3 +258,84 @@ el puente: del contrato civil típico al contrato corporativo.
   herramienta clave para cerrar disputas (y *claims* post-closing en M&A).
 - **Permuta, donación, depósito, comodato:** intercambio de cosa por cosa; transmisión gratuita;
   guarda de cosa ajena; préstamo de uso gratuito, respectivamente.
+
+
+## 14. Desarrollo absoluto
+
+Estudiamos los contratos por **familias funcionales**: (A) traslativos de dominio —compraventa—;
+(B) de crédito —mutuo—; (C) de gestión —mandato y representación—; (D) de garantía —fianza, prenda,
+hipoteca—; y (E) otros relevantes. En cada uno: régimen, puntos finos y **conexión con M&A**.
+
+### 14.A · La compraventa (la matriz del SPA)
+
+**Naturaleza y elementos.** Es bilateral, oneroso, conmutativo y **traslativo de dominio**. Tres
+elementos esenciales: (i) **consentimiento** sobre cosa y precio; (ii) **cosa** (existente o
+futura, en el comercio, determinada o determinable); (iii) **precio** (cierto y **en dinero**;
+si es en especie, es permuta). En México rige el **consensualismo** (art. 2014): la propiedad de
+cosa cierta se transmite **por el solo consentimiento**, aunque no se haya entregado ni pagado
+(salvo pacto en contrario). La **oponibilidad** a terceros, en inmuebles, requiere **escritura
+pública e inscripción** en el Registro Público de la Propiedad.
+
+**Obligaciones del vendedor:** (1) **transmitir la propiedad**; (2) **entregar** la cosa
+(material, jurídica o virtualmente); (3) **garantizar** —el **saneamiento**, que es el corazón
+corporativo—.
+
+**Obligaciones del comprador:** (1) **pagar el precio** en el tiempo y lugar pactados; (2) recibir
+la cosa; (3) pagar intereses si se pactó precio a plazo.
+
+**El saneamiento (la raíz de las *reps & warranties*).**
+- **Por evicción (arts. 2119 y ss.):** si el comprador es **privado** de la cosa (total o
+  parcialmente) por sentencia firme que reconoce el mejor derecho de un tercero, el vendedor
+  responde: debe devolver el precio, gastos, e incluso daños si hubo mala fe. *Traducción
+  corporativa:* la **title warranty** del SPA (el vendedor declara que **es dueño** de las acciones
+  y que están **libres de gravámenes**) es saneamiento por evicción contractualizado.
+- **Por vicios ocultos (arts. 2142 y ss.):** defectos **ocultos** que hacen la cosa impropia para
+  su uso o disminuyen su valor. El comprador puede: **rescindir** (acción redhibitoria) o pedir
+  **reducción del precio** (acción quanti minoris). *Traducción corporativa:* las *reps* sobre el
+  **estado del negocio** (pasivos, contingencias, cumplimiento) + la **indemnización** son
+  saneamiento por vicios ocultos elevado a la enésima potencia. La **disclosure** sirve, como en el
+  saneamiento, para **excluir** la responsabilidad de lo revelado.
+
+**Modalidades y pactos típicos de la compraventa:** venta **con reserva de dominio** (la propiedad
+se transmite hasta el pago total — garantía para el vendedor); venta **a plazos**; **derecho del
+tanto** y **por el tanto** (preferencia para adquirir); **pacto de preferencia**; venta de **cosa
+futura** (emptio rei speratae) y de **esperanza** (emptio spei, aleatoria); arras.
+
+**Cómo razona un socio (compraventa → SPA).** *"Cuando leo un Share Purchase Agreement, lo
+descompongo en su esqueleto civil: ¿qué se vende (acciones/activos = la 'cosa')?, ¿a qué precio
+(fijo, ajustable, earn-out)?, ¿cómo se transmite (signing/closing = título/modo)?, y sobre todo,
+¿qué garantiza el vendedor (las reps = saneamiento)? El régimen de **indemnización** es la versión
+contractual del saneamiento por vicios; los **caps y baskets** son el límite negociado de esa
+responsabilidad. Negociar un SPA es negociar un saneamiento sofisticado."*
+
+### 14.B · El mutuo (la base del crédito)
+
+**Naturaleza.** Préstamo de **consumo**: el mutuante **transfiere la propiedad** de dinero o cosas
+**fungibles**, y el mutuatario debe **devolver otro tanto** de la misma especie y calidad (art.
+2384). Por ser fungibles, el mutuatario se hace **dueño** (puede consumirlas) — a diferencia del
+**comodato**, préstamo de **uso** de cosa no fungible que debe devolverse **idéntica**.
+
+**Mutuo simple vs. con interés.** El **interés** es el precio del dinero en el tiempo (Libro 10,
+Nivel I). Distingue:
+- **Interés ordinario:** rédito por el uso del capital durante el plazo.
+- **Interés moratorio:** sanción por el retraso (corre desde la mora — Libro 1, Nivel II).
+- **Interés legal vs. convencional** (arts. 2393-2395): el legal suple cuando no se pacta; el
+  convencional lo fijan las partes, **con límite en la usura**.
+
+**El control de la usura (decisivo).** El interés convencional **no puede ser excesivo**. La SCJN
+(Primera Sala, a la luz del art. 21.3 CADH) facultó a los jueces para **analizar de oficio** y
+**reducir** prudencialmente los intereses notoriamente usurarios. *Práctica:* pactar tasas
+documentadas, de mercado y proporcionales; en lo mercantil/bancario, observar las reglas
+específicas (LGTOC, leyes financieras).
+
+**Del mutuo civil al crédito bancario.** El **contrato de apertura de crédito** (LGTOC, Nivel III)
+y los **créditos bancarios** son la evolución mercantil del mutuo: el banco pone a disposición una
+suma, el acreditado dispone y restituye con intereses y comisiones, casi siempre **garantizado**
+(prenda, hipoteca, fideicomiso — Libro 6 y 14.D de este libro). *Conexión M&A:* el
+**financiamiento de adquisición** (acquisition finance, LBO) es, en su núcleo, un mutuo/crédito
+masivo y garantizado.
+
+> **¿Por qué importa para un abogado corporativo? (mutuo).** Porque **todo financiamiento es, en
+> el fondo, un mutuo**: una entrega de capital a cambio de su devolución con interés y garantías.
+> Entender el régimen civil del mutuo —propiedad de lo prestado, intereses, usura, mora— es la base
+> para leer y negociar un contrato de crédito de cientos de millones.
