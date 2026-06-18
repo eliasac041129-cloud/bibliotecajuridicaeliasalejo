@@ -1005,3 +1005,238 @@ recomienda el **mínimo de integración** que cumple el objetivo —ni más (rig
   alianza **crea eficiencias reales** (sinergias, nuevos productos, ahorros que benefician al mercado) o si
   **solo sirve para reducir la competencia** (coordinar precios, repartir mercados). Lo primero es legítimo;
   lo segundo, gravísimo. El abogado debe asegurar que la JV esté del lado correcto —y poder **demostrarlo**—.
+
+## 30. Errores comunes
+
+- **No diseñar la salida.** Crear una JV sin mecanismos de **deadlock** y **exit** claros: cuando surge el
+  conflicto, los socios quedan atrapados y el valor se destruye. *Corrección:* pacta deadlock, put/call,
+  drag/tag y disolución **desde el inicio**.
+- **Gobierno paritario sin desempate.** Una JV 50/50 con consejo paritario y sin mecanismo de deadlock se
+  **paraliza** ante el primer desacuerdo. *Corrección:* prevé escalamiento, experto y compra-venta forzosa.
+- **Ignorar el derecho de la competencia.** Estructurar una JV o exclusividad entre competidores sin
+  análisis de la LFCE → riesgo de concentración no notificada o, peor, **colusión**. *Corrección:* acota el
+  *scope*, levanta murallas de información, notifica si procede.
+- **PI mal pactada.** No definir de quién es la PI aportada, creada y las mejoras → guerra al separarse.
+  *Corrección:* cláusula de PI precisa desde el inicio.
+- **Descuidar los contratos relacionados.** Olvidar que los contratos entre la JV y los socios (licencia,
+  suministro) deben ser a **precio de mercado** → un socio extrae valor del otro. *Corrección:* *arm's
+  length* y aprobación por el socio no interesado.
+- **Sobre-integrar o sub-integrar.** Crear una equity JV pesada cuando bastaba un contrato de suministro
+  (rigidez innecesaria), o una alianza informal cuando se necesitaba una sociedad (ambigüedad). *Corrección:*
+  elige el **grado de integración** adecuado al objetivo.
+- **MOU que obliga sin querer.** Redactar una carta de intención que parezca un acuerdo cerrado.
+  *Corrección:* cláusula expresa de "no vinculante" salvo confidencialidad/exclusividad (eco del Term
+  Sheet).
+- **Subestimar el factor cultural.** Confiar solo en el contrato e ignorar el choque de culturas de gestión
+  (causa frecuente de fracaso en JV internacionales). *Corrección:* gobierno claro + mecanismos de
+  resolución + realismo sobre la relación.
+
+## 31. Mitos frecuentes
+
+- **"Una JV es solo una sociedad más."** **Falso.** Es una **relación de poder compartido y de largo
+  plazo**; su dificultad está en el gobierno y, sobre todo, en las salidas —no en constituir la sociedad—.
+- **"Si confiamos el uno en el otro, no hace falta pactar las salidas."** **Falso/peligroso.** La confianza
+  no basta: las JV se tensionan, y el que no diseñó el divorcio termina en guerra. Diseñar la salida
+  **protege** la relación.
+- **"Colaborar siempre es mejor que ir solo."** **Falso.** Colaborar tiene costos (coordinación,
+  conflictos, oportunismo); conviene solo cuando combinar recursos crea más valor que esos costos.
+- **"Distribución, agencia y franquicia son lo mismo."** **Falso.** El distribuidor compra para revender
+  (riesgo propio); el agente vende por cuenta del principal (comisión); el franquiciatario opera un modelo
+  bajo licencia. Son figuras distintas con consecuencias distintas.
+- **"La JV entre competidores no tiene problema si es para un fin legítimo."** **Falso/matizado.** Aun con
+  fin legítimo, puede ser concentración notificable y, si facilita intercambio de información sensible o
+  coordinación, derivar en colusión. Hay que estructurarla con cuidado.
+- **"Un MOU no obliga a nada."** **Falso.** Sus cláusulas de confidencialidad y exclusividad **sí**
+  vinculan, y uno mal redactado puede generar responsabilidad precontractual.
+
+## 32. Preguntas difíciles
+
+1. **¿Por qué la JV es más difícil de estructurar que una adquisición?** Porque en el M&A **uno manda** (el
+   comprador controla) y la **relación termina** (el vendedor se va); en la JV el **control es compartido**
+   y la relación es de **largo plazo**, así que los conflictos no los resuelve un jefe, sino que hay que
+   **anticiparlos y regularlos por contrato** (gobierno, deadlock, salida).
+2. **¿Cómo evitar que una JV entre competidores se vuelva colusión?** Acotando el ***scope*** estrictamente
+   al objeto de la JV; levantando **murallas de información** (que los datos sensibles de la JV no fluyan a
+   las áreas comerciales que compiten); notificando a la COFECE si es concentración; y vigilando que la JV
+   no sea un foro para coordinar precios o repartir mercados.
+3. **¿Por qué la ruleta rusa incentiva un precio justo?** Porque el socio que **fija** el precio no sabe si
+   el otro **comprará** o **venderá** a ese precio: si lo pone muy bajo, el otro le compra barato (pierde);
+   si muy alto, el otro le vende caro (paga de más). El equilibrio es un **precio justo**.
+4. **¿Equity JV o contractual JV para un consorcio que va a una licitación de obra?** Normalmente
+   **contractual** (consorcio / A en P): es una colaboración **acotada al proyecto y temporal**; crear una
+   sociedad sería costoso y rígido para algo con fin y plazo definidos.
+5. **¿Por qué la PI es el punto más litigado al disolver una JV tecnológica?** Porque la JV genera **valor
+   intangible** (mejoras, desarrollos, know-how conjunto) cuya **titularidad y uso futuro**, si no se
+   pactaron con precisión, ambos socios reclaman. Resolver la PI **al inicio** (aportada, creada, mejoras,
+   licencias de salida) evita la guerra.
+
+## 33. Casos de examen (con respuesta modelo)
+
+**Caso A.** *Una empresa extranjera quiere entrar a México aliándose con un socio local 50/50. Te piden
+estructurar la JV. ¿Qué es lo más importante que debes resolver?*
+**Respuesta modelo:** Tres ejes. **(1) Vehículo:** una **S.A.P.I.** (por la validez que da a las cláusulas
+de socios) o S. de R.L. **(2) Gobierno:** consejo **paritario** con **materias reservadas/vetos** claras y,
+crucial, un **mecanismo de deadlock** (escalamiento → experto → ruleta rusa) para la parálisis 50/50. **(3)
+Salida:** lock-up, ROFR, tag/drag, **put/call** (típico: el extranjero con opción de comprar al local en X
+años). Más: **contratos relacionados** (licencia/suministro) a precio de mercado, **PI** bien pactada, y
+revisión de **inversión extranjera** y **competencia**. Razonar: el control compartido y la salida son lo
+crítico.
+
+**Caso B.** *Dos competidores quieren crear una JV para producir juntos un insumo común. ¿Qué riesgo
+dominante hay y cómo lo manejas?*
+**Respuesta modelo:** El riesgo dominante es de **competencia económica**: (i) la JV puede ser una
+**concentración notificable** a la COFECE; (ii) más grave, al colaborar, los competidores podrían
+**intercambiar información sensible** y **coludirse** en el mercado donde compiten (práctica monopólica
+absoluta, gravísima). *Manejo:* limitar el ***scope*** estrictamente al insumo; **murallas de información**;
+notificar a la COFECE; asesoría de competencia continua. La colaboración debe crear **eficiencias reales**,
+no reducir la competencia.
+
+**Caso C.** *Un fabricante quiere asegurar la venta de su producción a un gran comprador por 10 años. ¿Qué
+contrato propones y qué cláusulas son clave?*
+**Respuesta modelo:** Un **contrato de suministro** de largo plazo. Cláusulas clave: **volumen** (mínimos,
+posible **take-or-pay** que garantice ingresos y haga **bancable** la inversión del fabricante), **precio**
+(fórmula **indexada** para la volatilidad de 10 años), **exclusividad** (con cuidado de competencia),
+**calidad/entrega**, **fuerza mayor**, y **terminación/incumplimiento**. Conectar: un suministro
+take-or-pay puede respaldar el **financiamiento** (Libro 5) de la planta.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Instrucciones:** eres asociado. Tu cliente, una empresa **mexicana de tecnología**, quiere aliarse con
+> una **multinacional** para desarrollar y vender un producto en México: la multinacional aporta capital y
+> tecnología base; tu cliente, conocimiento del mercado y desarrollo local. Estructura la colaboración
+> antes de leer la guía.
+
+1. ¿**Colaborar o vender**? ¿Qué grado de integración propones?
+2. ¿Qué **vehículo** (equity vs. contractual; qué tipo de sociedad)?
+3. ¿Cómo diseñas el **gobierno** y el **deadlock**?
+4. ¿Cómo resuelves la **propiedad intelectual** (aportada, creada, mejoras, al salir)?
+5. ¿Qué **límites regulatorios** revisas?
+
+> **Guía de solución (resumen).** **(1)** Colaborar (no vender: el cliente quiere participar del upinside y
+> conservar su desarrollo); **equity JV** (duradera, con activos y financiamiento). **(2)** **S.A.P.I.**
+> (valida vetos, drag/tag, put/call). **(3)** Consejo **paritario** o según aportaciones; **vetos** sobre
+> decisiones clave; **deadlock**: escalamiento → mediación/experto → ruleta rusa; **salida**: lock-up,
+> ROFR, tag/drag, put/call. **(4)** **PI aportada** vuelve a su dueño; **PI creada** por la JV → de la JV,
+> con **licencias de salida** a ambos socios; **mejoras** → reglas de *grant-back*; todo pactado al inicio.
+> **(5)** **Inversión extranjera** (participación del socio extranjero), **competencia** (si compiten en
+> algo, scope acotado + murallas), **PI/IMPI** (registro de licencias), y **fiscal** (con el fiscalista).
+
+## 35. Flashcards
+
+- **¿Tres caminos de crecimiento?** Comprar (M&A), construir (orgánico + deuda), colaborar (JV/contratos
+  estratégicos).
+- **¿Equity JV vs. contractual JV?** Crean una sociedad (accionistas) vs. colaboran solo por contrato (A en
+  P/consorcio, sin sociedad).
+- **¿Por qué la JV es difícil?** Control **compartido** + relación de **largo plazo** → hay que anticipar el
+  conflicto por contrato.
+- **¿Qué es el deadlock y cómo se resuelve?** Bloqueo en la decisión (50/50); se resuelve con escalamiento,
+  experto y compra-venta forzosa (ruleta rusa, Texas shoot-out).
+- **¿Por qué la ruleta rusa da precio justo?** El que fija el precio no sabe si comprará o venderá a ese
+  precio → incentivo a ser justo.
+- **¿Materias reservadas/vetos?** Decisiones que requieren acuerdo de ambos socios (protección del que no
+  controla el día a día).
+- **¿Distribución vs. agencia vs. franquicia?** Compra para revender (riesgo propio) / vende por cuenta del
+  principal (comisión) / opera un modelo bajo licencia.
+- **¿Take-or-pay?** El comprador paga un mínimo aunque no tome el producto (garantiza ingresos al
+  proveedor).
+- **¿Asociación en participación?** JV contractual sin personalidad: asociante (opera) + asociado (aporta,
+  oculto).
+- **¿Cuál es el límite regulatorio clave de las JV?** El **derecho de la competencia** (concentraciones y
+  colusión entre competidores).
+- **¿Qué es un MOU?** Documento preliminar de colaboración, no vinculante salvo confidencialidad/
+  exclusividad.
+- **¿Qué integra una JV completa?** Estructura (L3) + SHA/gobierno (L4) + contratos relacionados + a veces
+  financiamiento (L5).
+
+## 36. Mapas mentales
+
+```
+                    COLABORACIÓN EMPRESARIAL (espectro)
+   MENOS integración ◄──────────────────────────────────► MÁS integración
+   Suministro/        Alianza/        JV contractual     JV societaria
+   Distribución       licencia/I+D    (A en P,           (equity JV:
+   (comercial)        (cooperación)   consorcio)         sociedad común)
+        │                                                      │
+        └──── colaboración ligera ──────── colaboración profunda ─────┘
+```
+
+```
+                        LA JOINT VENTURE
+                              |
+   ┌──────────────┬──────────┼───────────────┬──────────────────┐
+ APORTACIONES   GOBIERNO    DEADLOCK         SALIDA              RELACIONADOS
+ (capital,      (consejo,   (escalamiento→   (lock-up, ROFR,     (licencia,
+ activos, PI,   vetos,      experto→ruleta   tag/drag,           suministro,
+ mercado)       dirección)  rusa→disolución) put/call,           distribución
+                                             disolución)         a precio de mercado)
+              [todo esto ES un SHA especializado — Libro 4]
+```
+
+## 37. Cuadros comparativos
+
+**Comprar vs. Colaborar**
+
+| | Comprar (M&A) | Colaborar (JV) |
+|---|---|---|
+| Control | Total (uno manda) | Compartido |
+| Relación | Termina (el vendedor se va) | Largo plazo |
+| Conflictos | Los resuelve el dueño | Se anticipan por contrato |
+| Documento | SPA/APA | Convenio de JV (≈ SHA) |
+| Dificultad de estructura | Alta | **Mayor** (gobierno + salida) |
+
+**Equity JV vs. Contractual JV**
+
+| | Equity JV | Contractual JV |
+|---|---|---|
+| Crea sociedad | Sí (JV co) | No |
+| Personalidad jurídica | Sí | No |
+| Responsabilidad | Limitada al capital | Directa/solidaria |
+| Vehículo MX | S. de R.L./S.A./S.A.P.I. | A en P / consorcio |
+| Mejor para | Largo plazo, gran escala | Proyecto acotado, temporal |
+
+**Distribución vs. Agencia vs. Franquicia**
+
+| | Distribución | Agencia | Franquicia |
+|---|---|---|---|
+| Actúa | Por cuenta propia | Por cuenta del principal | Bajo modelo licenciado |
+| Compra para revender | Sí | No | Opera el negocio |
+| Gana | Margen de reventa | Comisión | Utilidad (paga regalías) |
+
+## 38. Diagramas
+
+**Decisión: ¿comprar, construir o colaborar?**
+```
+¿Quiero control total y el otro se vende? ── sí ─► COMPRAR (M&A)
+        │ no
+        ▼
+¿Puedo lograrlo solo (tiempo + capital/deuda)? ── sí ─► CONSTRUIR (orgánico + L5)
+        │ no
+        ▼
+¿Necesito combinar recursos / compartir riesgo / no puedo comprar? ── sí ─► COLABORAR
+        ▼
+   ¿Cuánto? ── ligero ─► contrato (suministro/distribución/alianza)
+            └─ profundo ─► JV (contractual si es acotada; equity si es duradera)
+```
+
+**La JV integra todo el Nivel IV:**
+```
+JOINT VENTURE = ESTRUCTURA (L3, el vehículo)
+              + SHA/GOBIERNO+SALIDA (L4, el convenio de socios)
+              + CONTRATOS RELACIONADOS (licencia/suministro/distribución)
+              + FINANCIAMIENTO (L5, la JV co toma deuda)
+              ──────────────────────────────────────────────
+              al servicio de una ALIANZA ESTRATÉGICA
+```
+
+## 39. Mnemotecnias
+
+- **Tres caminos (CCC):** **C**omprar · **C**onstruir · **C**olaborar.
+- **La JV es un matrimonio:** *"diseña el matrimonio Y el divorcio, antes de la boda"*.
+- **Lo difícil de la JV:** *"control compartido + largo plazo = anticipa el conflicto"*.
+- **Deadlock (escala):** *"hablar (escalamiento) → un tercero (experto/mediación) → separarse (ruleta
+  rusa) → disolver"*.
+- **Ruleta rusa:** *"el que pone el precio no sabe si compra o vende: por eso es justo"*.
+- **Distribución:** *"compro para revender (riesgo mío), no vendo por cuenta ajena (agente)"*.
+- **Competidores en JV:** *"colaborar sí, coludir no: scope acotado y murallas de información"*.
+- **MOU:** *"lo sustantivo no obliga; confidencialidad y exclusividad sí"*.
+- **Regla de oro:** *"colaborar es más difícil que comprar; el valor está en prever la salida"*.
