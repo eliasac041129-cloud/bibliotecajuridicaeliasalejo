@@ -500,3 +500,110 @@ de candados** bien puestos sobre el patrimonio del deudor.
 - **Insolvencia transfronteriza:** la ejecución de una garantía puede chocar con un concurso en
   otra jurisdicción (Ley Modelo UNCITRAL sobre insolvencia transfronteriza); la prelación se decide
   conforme a la ley aplicable y al reconocimiento del procedimiento extranjero.
+
+
+## 22. Derecho comparado
+
+| Sistema | Rasgos en materia de garantías |
+|---|---|
+| **México** | Fianza, prenda e hipoteca (CCF); **prenda sin transmisión** y **fideicomiso de garantía** (LGTOC); **RUG** para muebles; prohibición del **pacto comisorio**. |
+| **España** | Hipoteca y prenda (CC); hipoteca mobiliaria y prenda sin desplazamiento (ley especial); fuerte sistema registral; prohibición del pacto comisorio. |
+| **Estados Unidos** | **Article 9 UCC**: sistema unificado de *security interests* sobre muebles (constitución=*attachment*, perfeccionamiento=*perfection* por *filing*, prioridad por orden de *filing*); *mortgage* para inmuebles. **Modelo mundial.** |
+| **Delaware** | *Secured transactions* bajo UCC; eficacia robusta de garantías y *intercreditor agreements*; relevante en *acquisition finance* y *leveraged finance*. |
+| **Unión Europea** | Diversidad nacional (hipoteca alemana *Grundschuld* abstracta y muy flexible; *floating charge* en Reino Unido —pre-Brexit influyente—); **Directiva de garantías financieras** (colateral sobre efectivo y valores con ejecución expedita). |
+| **UNIDROIT** | **Convenio de Ciudad del Cabo** (garantías internacionales sobre bienes de equipo móvil: aeronaves, ferrocarril, satélites) — registro internacional y ejecución uniforme. |
+| **UNCITRAL** | **Ley Modelo sobre Garantías Mobiliarias** y guía legislativa; promueve sistemas unificados de garantías sobre muebles (México y la región se inspiran en ella vía la Ley Modelo OEA). |
+| **CISG** | No regula garantías (es compraventa); pero la **reserva de dominio** funciona como garantía del vendedor internacional. |
+| **Common Law** | *Mortgage*, *charge* (fixed/floating), *pledge*, *lien*; *floating charge* sobre activos cambiantes; *security trustee* (paralelo del fiduciario). |
+| **Civil Law** | Garantías típicas codificadas (prenda, hipoteca, fianza) con accesoriedad; modernización hacia garantías mobiliarias unificadas y registros electrónicos. |
+
+> **Convergencia clave:** todos los sistemas buscan lo mismo —dar al acreedor **prioridad** sobre un
+> bien con **publicidad**—. La gran tendencia global (Article 9, Ley Modelo UNCITRAL/OEA) es
+> **unificar** las garantías mobiliarias en un registro electrónico (en México, el **RUG**). El
+> abogado de financiamiento internacional debe dominar tanto el RUG como el Article 9.
+
+## 23. Derecho mexicano
+
+- **Fianza:** arts. 2794-2855 CCF (beneficios de orden y excusión 2814 y ss.; liberación del
+  fiador 2846-2849). Fianza de empresa: regulada (afianzadoras).
+- **Prenda (con desplazamiento):** arts. 2856-2892 CCF; **pacto comisorio prohibido** (2887).
+- **Hipoteca:** arts. 2893-2943 CCF; escritura pública (2917); inscripción en el Registro Público
+  de la Propiedad; grados hipotecarios.
+- **Prenda sin transmisión de posesión:** arts. 346-380 LGTOC; **RUG** (Código de Comercio).
+- **Fideicomiso de garantía:** arts. 395-414 LGTOC; reglas de ejecución.
+- **Aval:** arts. 109-116 LGTOC (garantía cambiaria autónoma — Nivel III).
+- **Prelación en concurso:** Ley de Concursos Mercantiles (acreedores con garantía real,
+  singularmente privilegiados, con privilegio especial, comunes; periodo de retroacción).
+- **Ejecución:** juicio hipotecario y vía ejecutiva mercantil (Código de Comercio); ejecución de
+  prenda y fideicomiso (LGTOC).
+
+## 24. Jurisprudencia relevante
+
+> Verificar vigencia antes de citar.
+- **Pacto comisorio:** nulidad del pacto de apropiación sin remate (prenda e hipoteca).
+- **Prelación registral:** prioridad por **fecha de inscripción** (hipotecas y RUG).
+- **Liberación del fiador:** por prórroga o novación sin su consentimiento.
+- **Fideicomiso de garantía:** validez de la ejecución conforme a lo pactado; límites frente al
+  fraude y al concurso.
+- **Acciones en prenda:** requisitos de constitución (endoso en garantía y anotación en el libro de
+  registro) para su oponibilidad.
+
+## 25. Criterios de la Suprema Corte
+
+- **Protección del deudor frente a ejecuciones abusivas:** confirmación de la prohibición del pacto
+  comisorio y exigencia de **remate** con formalidades.
+- **Garantías y debido proceso en la ejecución:** estándares del juicio hipotecario y ejecutivo.
+- **Fideicomiso de garantía:** reconocimiento de su validez y de la ejecución pactada, con respeto a
+  los derechos del fideicomitente y de terceros.
+- **Prelación en concurso:** interpretación de la categoría de **acreedor con garantía real** y su
+  preferencia frente a otros acreedores (con las excepciones de laborales y fiscales).
+
+## 26. Doctrina nacional
+
+- **Joaquín Rodríguez Rodríguez / Roberto Mantilla Molina, *Derecho Mercantil*** — garantías
+  mercantiles, aval, prenda mercantil.
+- **Jorge Barrera Graf, *Instituciones de Derecho Mercantil*** — operaciones de crédito y garantías.
+- **Ernesto Gutiérrez y González / Rafael Rojina Villegas** — fianza, prenda e hipoteca civiles.
+- Doctrina especializada sobre **fideicomiso** y sobre la **reforma de garantías mobiliarias** (RUG,
+  prenda sin transmisión) — clave por su novedad y uso práctico.
+
+## 27. Doctrina internacional
+
+- **Article 9 UCC y sus comentarios (Gilmore, *Security Interests in Personal Property*)** — la
+  obra de referencia sobre garantías mobiliarias modernas.
+- **Goode, *Legal Problems of Credit and Security*** — garantías en el derecho inglés (fixed/floating
+  charge), referencia mundial.
+- **Convenio de Ciudad del Cabo (UNIDROIT) y Ley Modelo UNCITRAL** — garantías internacionales y
+  mobiliarias.
+- Doctrina comparada sobre **security trustee**, **intercreditor agreements** y **leveraged
+  finance**.
+
+## 28. Opiniones críticas (postura del Consejo)
+
+1. **El perfeccionamiento y el registro no son "trámite": son la garantía misma.** El Consejo
+   insiste en que una garantía no inscrita (o mal inscrita) puede ser **inoponible** y perder
+   prioridad; el día del impago, la diferencia entre cobrar y no cobrar suele estar en la **fecha de
+   inscripción**.
+2. **El fideicomiso de garantía es, hoy, superior a la hipoteca para muchos casos** por su
+   **ejecución ágil**; pero su uso debe cuidar el **fraude de acreedores** y el **concurso** (los
+   bienes "blindados" pueden ser atacados si la afectación fue tardía o fraudulenta).
+3. **La accesoriedad es una virtud y una trampa.** Protege al garante (si el crédito se extingue,
+   se libera), pero **destruye garantías** en novaciones descuidadas (art. 2220). El Consejo
+   recomienda **garantías autónomas** cuando el acreedor necesite blindaje frente a las vicisitudes
+   del crédito, y **reserva expresa + ratificación de garantes** en toda novación.
+
+## 29. Debate doctrinal
+
+- **Accesoriedad vs. autonomía:** ¿hasta dónde puede pactarse una garantía **independiente** del
+  crédito (a primera demanda) sin desnaturalizar la fianza/garantía y sin abrir la puerta a abusos
+  contra el deudor?
+- **Pacto comisorio: ¿prohibición absoluta o flexibilización?** La prohibición protege al deudor,
+  pero encarece y ralentiza la ejecución; el debate moderno (y el éxito del **fideicomiso de
+  garantía**, que permite realización ágil) cuestiona la rigidez del modelo clásico.
+- **Unificación de las garantías mobiliarias:** ¿debe México completar la migración hacia un sistema
+  único estilo Article 9/UNCITRAL, superando la dispersión entre prenda civil, prenda sin
+  transmisión y fideicomiso?
+- **Garantías sobre activos nuevos:** ¿cómo constituir y perfeccionar garantías sobre **criptoactivos,
+  datos, créditos de carbono** y otros activos intangibles emergentes?
+- **Límites de las garantías intragrupo:** ¿cuándo una garantía *upstream* (filial garantiza a la
+  matriz) sin beneficio propio viola el interés social o constituye fraude de acreedores?
