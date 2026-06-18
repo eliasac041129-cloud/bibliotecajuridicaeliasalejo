@@ -604,3 +604,113 @@ lo que estudiamos aquí es lo que se negocia y se transfiere ese día.
 - **Gobierno corporativo global:** códigos de mejores prácticas (OCDE, Código de Principios de
   Gobierno Corporativo en México) que elevan estándares de consejos, comités e independientes,
   especialmente en sociedades bursátiles.
+
+
+## 22. Derecho comparado
+
+| Sistema | Rasgos del derecho societario |
+|---|---|
+| **México** | LGSM (tipos: S.A., S. de R.L., etc.) + LMV (**S.A.P.I.**, S.A.B.); responsabilidad limitada; tendencia a la flexibilización (S.A.P.I., S.A.S.). |
+| **España** | Ley de Sociedades de Capital (SA y **SL**); régimen detallado de capital, órganos y minorías; fuerte protección de socios. |
+| **Estados Unidos** | *Corporation* (regida por *corporate law* estatal) y **LLC** (híbrido flexible y fiscalmente transparente); *shareholders agreements* muy desarrollados. |
+| **Delaware** | **El referente mundial**: máxima flexibilidad estatutaria, *business judgment rule*, Court of Chancery, jurisprudencia predecible; sede de la mayoría de las grandes corporaciones y de los vehículos de PE/VC. |
+| **Unión Europea** | Armonización por directivas (capital, fusiones, OPAs); **AG** y **GmbH** (Alemania), **SA** y **SARL** (Francia); Sociedad Anónima Europea (SE). |
+| **UNIDROIT** | No regula sociedades directamente, pero sus principios influyen en contratos parasociales internacionales. |
+| **UNCITRAL** | Trabajos sobre empresas (MSME — micro, pequeña y mediana empresa) y formas societarias simplificadas. |
+| **CISG** | No aplica (es compraventa de mercaderías), pero la compraventa de **activos** societarios se relaciona. |
+| **Common Law** | *Corporation* con *board of directors*, *fiduciary duties* (*duty of care* y *duty of loyalty*), *business judgment rule*; fuerte rol del precedente. |
+| **Civil Law** | Tipos societarios codificados; órganos (asamblea, administración, vigilancia); responsabilidad de administradores; tendencia a flexibilizar. |
+
+> **Convergencia clave para M&A:** todas las jurisdicciones reconocen la **sociedad de capitales
+> con responsabilidad limitada** y un **órgano de administración con deberes fiduciarios**. Las
+> diferencias están en la **flexibilidad** (Delaware/S.A.P.I. al máximo) y en la **protección de
+> minorías**. El abogado de M&A cross-border "traduce" estructuras: una S.A.P.I. mexicana es
+> funcionalmente cercana a una *Delaware corporation* con *shareholders agreement*.
+
+## 23. Derecho mexicano
+
+- **LGSM (1934, reformada):** tipos (art. 1), constitución y estatutos (arts. 5-6, 89), capital y
+  acciones (arts. 87, 111-141), asambleas (arts. 178-206), administración (arts. 142-163), vigilancia
+  (arts. 164-171), derechos de minoría (arts. 144, 163, 199, 201), reserva legal (art. 20), fusión
+  (222-226), escisión (228 bis), disolución y liquidación (229-249), capital variable (213-221).
+- **Ley del Mercado de Valores (LMV):** **S.A.P.I.** (arts. 12-37) y **S.A.B.** (sociedad anónima
+  bursátil), con gobierno corporativo reforzado (consejo, comités de auditoría y de prácticas
+  societarias, consejeros independientes, deberes de diligencia y lealtad).
+- **Código de Comercio:** Registro Público de Comercio; supletoriedad.
+- **S.A.S.:** régimen simplificado para microempresas (constitución en línea).
+- **Normas conexas:** inversión extranjera (límites por sector — Libro 3 y 5, Nivel I), competencia
+  (concentraciones), fiscal (régimen de la sociedad y de los socios).
+
+## 24. Jurisprudencia relevante
+
+> Verificar vigencia antes de citar.
+- **Nulidad de acuerdos de asamblea:** por vicios de convocatoria, quórum o materia (arts. 188-191).
+- **Acción de responsabilidad contra administradores:** procedencia y legitimación (mayoría y
+  minoría del 25%, arts. 161-163).
+- **Derechos de minoría:** alcance de las facultades para convocar, designar consejero y aplazar.
+- **Libro de registro de acciones:** valor probatorio de la inscripción para acreditar la calidad de
+  accionista frente a la sociedad (art. 128-129).
+- **Capital variable:** efectos de los aumentos y reducciones en la parte variable sin reforma
+  estatutaria.
+
+## 25. Criterios de la Suprema Corte
+
+- **Protección de minorías y derecho de información:** la SCJN ha reforzado el acceso de los
+  accionistas a la información y el control de los acuerdos sociales.
+- **Levantamiento del velo corporativo:** criterios que admiten desestimar la personalidad en casos
+  de fraude/abuso (Libro 5, Nivel I), con cautela para no erosionar la responsabilidad limitada.
+- **Responsabilidad de administradores y deberes fiduciarios:** desarrollo del deber de diligencia y
+  lealtad, especialmente robusto en sociedades **bursátiles** (LMV).
+- **Validez de pactos estatutarios en S.A.P.I.:** reconocimiento de la flexibilidad para pactar
+  restricciones a la transmisión, vetos y derechos especiales.
+
+## 26. Doctrina nacional
+
+- **Roberto Mantilla Molina, *Derecho Mercantil*** — base clásica de sociedades.
+- **Joaquín Rodríguez Rodríguez, *Tratado de Sociedades Mercantiles*** — la obra mexicana de
+  referencia, exhaustiva.
+- **Jorge Barrera Graf, *Instituciones de Derecho Mercantil*** — visión moderna, empresa y
+  sociedades.
+- **Walter Frisch Philipp, *Sociedad Anónima Mexicana*** — monografía especializada en la S.A.
+- Doctrina contemporánea sobre **S.A.P.I.**, gobierno corporativo y LMV (clave por su actualidad y
+  uso práctico).
+
+## 27. Doctrina internacional
+
+- **Garrigues / Uría, *Curso de Derecho Mercantil* (España)** — sociedades de capital.
+- **Reinier Kraakman et al., *The Anatomy of Corporate Law*** — análisis funcional y comparado del
+  derecho societario; **lectura imprescindible** para pensar las sociedades como sistema global.
+- **Robert Clark, *Corporate Law*; Stephen Bainbridge** (EE. UU.) — *corporate law* y gobierno.
+- **Jurisprudencia de Delaware (Court of Chancery)** — *business judgment rule*, deberes fiduciarios,
+  estándares de revisión (Revlon, Unocal — se profundizan en Nivel IV).
+
+## 28. Opiniones críticas (postura del Consejo)
+
+1. **La S.A. tradicional de la LGSM se quedó rígida; la S.A.P.I. es el futuro.** El Consejo
+   recomienda, para casi cualquier empresa con planes de crecer, levantar capital o vender, adoptar
+   la **S.A.P.I.**: ofrece la flexibilidad que el VC, el PE y el M&A exigen, dentro del derecho
+   mexicano.
+2. **El verdadero poder está en el diseño del gobierno, no solo en el porcentaje.** El Consejo
+   insiste: estructurar **reserved matters**, vetos, integración del consejo y derechos de minoría es
+   tan importante como el porcentaje accionario. Un 40% bien diseñado puede controlar más que un 60%
+   mal estructurado.
+3. **El libro de registro de acciones es el documento más subestimado y más crítico.** Es la prueba
+   de quién es dueño; su descuido (no actualizarlo, perderlo) genera litigios y arruina due
+   diligences. El Consejo lo eleva a prioridad absoluta de la higiene corporativa.
+
+## 29. Debate doctrinal
+
+- **¿Contrato o institución?** El gran debate sobre la naturaleza de la sociedad: la teoría
+  **contractualista** (la sociedad es un contrato entre socios; permite flexibilidad y pactos) vs.
+  la **institucionalista** (la sociedad es una institución con interés propio —el "interés social"—
+  por encima de los socios). La tendencia moderna (y la S.A.P.I.) se inclina al contractualismo, pero
+  el "interés social" sigue siendo el faro de los deberes de los administradores.
+- **¿Shareholder vs. stakeholder primacy?** ¿La sociedad debe maximizar el valor del **accionista**
+  (Friedman) o atender a todos los **grupos de interés** (empleados, comunidad, ambiente — ESG)?
+  Debate central del gobierno corporativo moderno (Nivel IV).
+- **Límites de la flexibilidad (S.A.P.I.):** ¿hasta dónde puede pactarse en estatutos sin vulnerar
+  normas imperativas o desproteger a terceros y minorías? La libertad "a la Delaware" tiene límites
+  de orden público.
+- **Capital social: ¿garantía real o ficción?** Se debate si el capital social cumple de verdad su
+  función de garantía de acreedores o es una cifra formal; algunas jurisdicciones han **eliminado** el
+  capital mínimo, confiando más en tests de solvencia.
