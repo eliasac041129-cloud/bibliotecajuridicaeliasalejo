@@ -607,3 +607,188 @@ de candados** bien puestos sobre el patrimonio del deudor.
   datos, créditos de carbono** y otros activos intangibles emergentes?
 - **Límites de las garantías intragrupo:** ¿cuándo una garantía *upstream* (filial garantiza a la
   matriz) sin beneficio propio viola el interés social o constituye fraude de acreedores?
+
+
+## 30. Errores comunes
+
+- **No perfeccionar/inscribir la garantía.** Una garantía no registrada puede ser **inoponible** a
+  terceros y perder prioridad. El error más caro del financiamiento.
+- **Confundir el bien con su garantía.** Inmueble → **hipoteca**; mueble (incluidas **acciones**) →
+  **prenda**. Querer "hipotecar" acciones o "prendar" un edificio es un error de base.
+- **Novar el crédito sin reservar garantías ni que los garantes consientan** (art. 2220): se
+  **extinguen** (visto en Libros 1 y 3).
+- **Pactar pacto comisorio.** Nulo: la garantía se ejecuta por **remate**, no por apropiación.
+- **Confiar en el *negative pledge* como si fuera garantía real.** Solo da acción por
+  incumplimiento; **no** confiere prioridad sobre el bien.
+- **Tomar garantías tarde (cerca de la insolvencia).** Pueden ser **impugnadas** en el concurso
+  (periodo de retroacción).
+- **Olvidar la liberación (*release*)** de garantías al pagar: deja gravámenes "fantasma" que
+  estorban futuras operaciones.
+
+## 31. Mitos frecuentes
+
+- *"Con la garantía firmada ya estoy protegido."* **Falso:** falta **perfeccionar e inscribir**;
+  sin eso, no hay oponibilidad ni prioridad.
+- *"El acreedor con prenda puede quedarse con el bien si no le pagan."* **Falso:** pacto comisorio
+  **prohibido**; debe **rematar**.
+- *"El fideicomiso de garantía 'blinda' los bienes pase lo que pase."* **Matiz:** puede ser atacado
+  por **fraude de acreedores** o en el concurso si se constituyó tardíamente.
+- *"La fianza es lo mismo que el aval."* **No:** la fianza es **accesoria**; el aval es **autónomo**
+  (cambiario) y subsiste aunque la obligación garantizada sea nula por vicio de forma.
+- *"Quien presta primero cobra primero."* **Inexacto:** cobra primero quien **inscribió** primero su
+  garantía real (*prior in tempore* **registral**), no quien prestó antes.
+
+## 32. Preguntas difíciles
+
+1. ¿Conviene **hipoteca** o **fideicomiso de garantía** sobre un inmueble industrial? (Pista:
+   compara costo de constitución vs. **rapidez de ejecución**.)
+2. ¿Una garantía **a primera demanda** sobre obligaciones de un consumidor sería válida, o el orden
+   público la limitaría?
+3. ¿Cómo se perfecciona y prioriza una garantía sobre **cuentas por cobrar futuras** o sobre un
+   **inventario rotativo** (universalidad)?
+4. En un LBO, ¿puede la **target** garantizar (con sus activos) la deuda que se usó para
+   **comprarla a ella misma**? ¿Hay *financial assistance* prohibida o fraude de acreedores?
+5. ¿Qué pasa con la prioridad de una garantía **inscrita en México** sobre acciones de una sociedad
+   **extranjera**? ¿Qué ley rige?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**P1.** *Distinga garantía personal y real.* **R.** La **personal** (fianza, aval) añade un
+patrimonio responsable; la **real** (prenda, hipoteca, fideicomiso) afecta un bien concreto y
+confiere **persecución** y **preferencia**.
+
+**P2.** *¿Qué es el perfeccionamiento y por qué importa?* **R.** Los actos que hacen la garantía
+**oponible a terceros** (entrega en la prenda clásica; **inscripción** en el Registro Público —
+hipoteca— o en el **RUG** —prenda sin transmisión—). Sin él, la garantía puede no valer frente a
+terceros ni dar prioridad.
+
+**P3.** *¿Por qué las acciones se dan en prenda y no en hipoteca?* **R.** Porque las acciones son
+**bienes muebles**; la hipoteca recae sobre inmuebles. La garantía sobre acciones es la **prenda**
+(endoso en garantía + anotación en el libro de registro).
+
+**P4.** *¿Qué es el pacto comisorio y cuál es su régimen?* **R.** El pacto que permite al acreedor
+**apropiarse** del bien dado en garantía sin remate; es **nulo** (art. 2887). La garantía se ejecuta
+por **venta/remate**.
+
+**P5.** *¿Qué ventaja tiene el fideicomiso de garantía frente a la hipoteca?* **R.** Permite una
+**ejecución más ágil** (incluso extrajudicial pactada), evitando el largo juicio hipotecario;
+además afecta cualquier tipo de bien y flujos futuros.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** asociado de *banking & finance*. **Cliente:** banco que financiará con $400M la
+> adquisición (LBO) de "Manufacturas del Centro, S.A." por un fondo de PE. **Activos de la
+> target:** una planta (inmueble), maquinaria, inventario rotativo, cuentas por cobrar, marcas y
+> cuentas bancarias; el fondo adquiere **las acciones** vía una NewCo que se fusionará con la
+> target. Hay también deuda **mezzanine** por $100M de otro acreedor.
+>
+> **Tarea:** diseña el **security package**: (1) qué garantía sobre cada activo (planta→hipoteca o
+> **fideicomiso**; maquinaria/inventario→**prenda sin transmisión**/RUG; **acciones**→prenda;
+> cuentas/flujos→prenda o **fideicomiso de fuente de pago**; marcas→prenda/IP); (2) cómo
+> **perfeccionar e inscribir** cada una y dónde (Registro Público / RUG / libro de accionistas);
+> (3) cómo coordinar la **inscripción simultánea** al cierre y el **payoff & release** de garantías
+> previas; (4) cómo regular la prelación senior vs. mezzanine con un **intercreditor agreement**;
+> (5) riesgos de **fraude de acreedores / financial assistance** por garantizar con la target la
+> deuda que la compró; (6) cláusula de **negative pledge** y garantía corporativa (parent
+> guarantee) del fondo/NewCo. Concluye con los **3 riesgos** principales y su mitigación.
+
+*(Pista de evaluación: la mejor respuesta asigna a cada activo su garantía idónea, prioriza el
+**perfeccionamiento/registro** y el cierre coordinado, usa **fideicomiso** para flujos y
+ejecución ágil, regula la prelación con intercreditor, y aborda el riesgo de la fusión apalancada.)*
+
+## 35. Flashcards
+
+- **¿Personal vs. real?** → Patrimonio adicional vs. bien con persecución y preferencia.
+- **¿Perfeccionamiento de la hipoteca?** → Escritura pública + **inscripción** en el Registro
+  Público de la Propiedad.
+- **¿Dónde se inscribe la prenda sin transmisión?** → En el **RUG**.
+- **¿Garantía sobre acciones?** → **Prenda** (endoso en garantía + anotación en el libro de
+  accionistas).
+- **¿Pacto comisorio?** → Nulo (apropiarse sin remate); se ejecuta por venta/remate.
+- **¿Prioridad?** → *Prior in tempore, potior in iure*: quien **inscribe** primero, gana.
+- **¿Accesoriedad?** → La garantía sigue al crédito (novación sin reserva la extingue, 2220).
+- **¿Ventaja del fideicomiso de garantía?** → Ejecución ágil; afecta cualquier bien y flujos.
+- **¿Fianza vs. aval?** → Accesoria vs. autónoma (cambiaria).
+- **¿Negative pledge?** → Compromiso de no gravar; **no** crea garantía real.
+- **¿Persecución / preferencia?** → Perseguir el bien aunque se venda / cobrar antes que los comunes.
+- **¿Periodo de retroacción?** → Lapso previo al concurso en que las garantías tardías pueden
+  impugnarse.
+
+## 36. Mapas mentales
+
+```
+GARANTÍAS
+├── PERSONALES (otro patrimonio responde)
+│   ├── Fianza (accesoria; orden y excusión renunciables)
+│   ├── Aval (autónoma, cambiaria)
+│   └── Garantía corporativa / parent guarantee
+├── REALES (bien concreto: persecución + preferencia)
+│   ├── PRENDA (muebles)
+│   │   ├── Con desplazamiento (CCF)
+│   │   ├── Sin transmisión de posesión (LGTOC → RUG)
+│   │   └── Sobre ACCIONES (endoso en garantía + libro) → acquisition finance
+│   ├── HIPOTECA (inmuebles; escritura + Registro Público; grados)
+│   └── FIDEICOMISO DE GARANTÍA (transmisión fiduciaria; ejecución ágil; flujos)
+├── CICLO DE VIDA
+│   └── Constitución → PERFECCIONAMIENTO → PRIORIDAD (registro) → EJECUCIÓN (remate; no comisorio)
+├── ACCESORIEDAD (sigue al crédito; novación → cuidado 2220) vs. AUTÓNOMA (a primera demanda)
+└── ENSAMBLAJE
+    └── Security package + negative pledge + intercreditor (senior/mezzanine) + prelación concursal
+```
+
+## 37. Cuadros comparativos
+
+**Prenda vs. hipoteca vs. fideicomiso de garantía**
+
+| | Prenda | Hipoteca | Fideicomiso de garantía |
+|---|---|---|---|
+| Bien | Muebles (incl. acciones) | Inmuebles (y ciertos derechos) | Cualquier bien y flujos |
+| Posesión | Con o sin transmisión | Sin desplazamiento | Transmitida a fiduciaria |
+| Perfeccionamiento | Entrega / RUG | Escritura + Registro Público | Contrato de fideicomiso |
+| Ejecución | Remate | Juicio hipotecario | A menudo extrajudicial (ágil) |
+
+**Personal vs. real**
+
+| | Personal (fianza/aval) | Real (prenda/hipoteca/fideicomiso) |
+|---|---|---|
+| Qué añade | Otro patrimonio responsable | Un bien afectado |
+| Poderes | Acción contra el garante | Persecución + preferencia |
+| Frente a terceros | Personal (inter partes) | Oponible (con registro) |
+
+**Fianza vs. aval**
+
+| | Fianza | Aval |
+|---|---|---|
+| Naturaleza | Accesoria (sigue al crédito) | Autónoma (cambiaria) |
+| Si la obligación es nula por forma | Se afecta | El aval subsiste |
+| Beneficios de orden/excusión | Sí (renunciables) | No |
+
+## 38. Diagramas
+
+**Ciclo de vida de una garantía real:**
+```
+CONSTITUCIÓN (forma correcta) → PERFECCIONAMIENTO (entrega/inscripción)
+      → PRIORIDAD (fecha de registro: prior in tempore) → EJECUCIÓN (remate / fideicomiso)
+                                                                   │
+                                            pacto comisorio = NULO ⚠️ (no apropiación)
+```
+
+**Diseño del security package (por activo):**
+```
+Inmuebles        → Hipoteca / Fideicomiso       (Registro Público)
+Maquinaria       → Prenda sin transmisión        (RUG)
+Inventario       → Prenda sin transmisión (univ.) (RUG)
+Acciones target  → Prenda                         (endoso + libro de accionistas)
+Cuentas/flujos   → Prenda / Fideicomiso de fuente de pago
++ Garantía corporativa (parent guarantee) + Negative pledge + Intercreditor (senior/mezz)
+```
+
+## 39. Mnemotecnias
+
+- **Poderes de la garantía real:** *"PP"* → **P**ersecución y **P**referencia.
+- **Bien y garantía:** *"mueble→prenda; inmueble→hipoteca; lo complejo y los flujos→fideicomiso"*.
+- **Ciclo de vida:** *"Constituye, Perfecciona, Prioriza, Ejecuta"* (CPPE).
+- **Prioridad:** *prior in tempore, potior in iure* — "el que inscribe primero, cobra primero".
+- **Pacto comisorio:** *"no te quedas con la cosa; la rematas"*.
+- **Accesoriedad:** *"si nova sin reservar, la garantía a volar (2220)"*.
+- **Acciones:** *"la acción es mueble: se PRENDA"*.
