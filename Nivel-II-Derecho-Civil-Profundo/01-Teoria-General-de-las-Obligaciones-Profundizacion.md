@@ -355,3 +355,118 @@ Las modalidades (recuerda el Libro 4) **modulan** la existencia o exigibilidad d
 > (suspensivas) y **plazos**; el *earn-out* es una obligación a **plazo/condición** con
 > prestación determinable; las cláusulas de *acceleration* son la pérdida del **beneficio del
 > plazo**. Sin dominar modalidades, no se redacta un calendario transaccional.
+
+
+### 14.C · La transmisión de las obligaciones (el crédito como activo que circula)
+
+Aquí está una de las ideas más potentes para el abogado de negocios: la obligación **no es un
+vínculo congelado entre dos personas**, sino un **activo que puede circular**. Tres mecanismos:
+
+**1) Cesión de créditos (transmisión del lado activo).** El acreedor (cedente) transmite a un
+tercero (cesionario) su derecho a cobrar (art. 2029 y ss. CCF).
+- *Requisitos y efectos:* la cesión transmite el crédito **con sus accesorios y garantías**
+  (art. 2032). Es **oponible al deudor** desde que se le **notifica** (art. 2036): mientras no se
+  le notifique, el deudor se libera pagando al cedente original. El cedente responde de la
+  **existencia y legitimidad** del crédito, no de la **solvencia** del deudor, salvo pacto
+  (art. 2042-2043) —distinción clave en la venta de cartera—.
+- *Aplicación corporativa:* el **factoraje** (cesión de cuentas por cobrar para obtener
+  liquidez), la **venta de cartera** de bancos, la **titulización/securitización** (ceder un
+  paquete de créditos a un vehículo que emite valores respaldados por ellos) son **cesión de
+  créditos a escala industrial**. La cláusula "pro soluto" (sin responsabilidad por solvencia)
+  vs. "pro solvendo" (con ella) decide quién carga el riesgo de impago.
+
+**2) Subrogación (cambio de acreedor por pago de un tercero).** Quien paga una deuda ajena,
+teniendo interés jurídico (o por pacto/ley), se **subroga** en los derechos del acreedor
+(art. 2058 y ss.): se queda con el crédito **y sus garantías**. *Aplicación:* el
+**refinanciamiento** —un nuevo banco paga al anterior y se subroga en sus garantías— y el pago
+por el fiador que se subroga contra el deudor principal.
+
+**3) Asunción de deuda (transmisión del lado pasivo).** Un tercero **asume** la deuda en lugar
+del deudor original. Como al acreedor le importa la **solvencia** de su deudor, requiere el
+**consentimiento del acreedor** (art. 2051 y ss.). *Aplicación:* en M&A, cuando el comprador
+asume pasivos de la *target*; en reestructuras, cuando una entidad del grupo asume la deuda de
+otra. **Efecto sobre garantías:** las otorgadas por terceros pueden extinguirse si no consienten
+la asunción.
+
+> **Cómo piensa un socio de un despacho internacional (transversal).** "El crédito es
+> **inventario negociable**. En una venta de cartera reviso: ¿la cesión transmite las garantías
+> (art. 2032)?, ¿está bien la **notificación** al deudor para que me sea oponible?, ¿es *pro
+> soluto* o *pro solvendo* (quién carga la insolvencia)?, ¿hay prohibiciones de cesión en los
+> contratos subyacentes? En un refinanciamiento, exijo **subrogación** para no perder el rango
+> de las garantías existentes. En una asunción de deuda, **consentimiento del acreedor** y
+> **ratificación de garantes**, o la garantía se cae."
+
+### 14.D · La extinción de las obligaciones (con la suerte de las garantías)
+
+El **pago** es el modo natural; los demás son modos **anormales** o sustitutivos. En cada uno,
+la pregunta del experto es: *¿qué pasa con las garantías?*
+
+**1) Pago (cumplimiento).** Reglas finas (art. 2062 y ss.): debe ser **idéntico** (lo mismo
+debido), **íntegro** (todo) e **indivisible** (de una vez, salvo pacto). Importan **quién** paga
+(deudor o tercero, con o sin interés —el tercero con interés se subroga—), **a quién** (al
+acreedor o a su representante legitimado; el pago al acreedor aparente de buena fe puede
+liberar), **dónde**, **cuándo** e **imputación** (a qué deuda se aplica si hay varias —arts.
+2092-2094). El **ofrecimiento de pago y la consignación** (art. 2097 y ss.) permiten al deudor
+liberarse si el acreedor se niega a recibir (*mora accipiendi*).
+
+**2) Dación en pago (*datio in solutum*).** El acreedor acepta recibir una prestación **distinta**
+de la debida (p. ej., un inmueble en vez de dinero). Extingue la obligación. *Uso en reestructura:*
+entregar activos para saldar deuda; cuidado con el saneamiento por evicción de lo dado.
+
+**3) Compensación (art. 2185 y ss.).** Cuando dos personas son **recíprocamente** deudoras y
+acreedoras, las deudas se extinguen hasta el importe menor. La **compensación legal** exige que
+ambas sean **líquidas y exigibles** (art. 2188). *Aplicación:* las cláusulas de *set-off* en
+contratos financieros y de M&A (compensar la indemnización contra el precio diferido o el
+*earn-out*); el **netting** en mercados financieros es compensación a gran escala (vital en
+ISDA/derivados).
+
+**4) Novación (art. 2213 y ss.).** Se **extingue** una obligación creando una **nueva** que la
+sustituye (cambiando objeto, deudor o acreedor). **Punto crítico para garantías (art. 2220):**
+la novación **extingue las obligaciones accesorias** (prendas, hipotecas, fianzas) **salvo
+reserva expresa**, y las de terceros solo subsisten si **consienten**. *Errores que cuestan
+millones (anticipo):* reestructurar un crédito mediante novación **sin reservar** las garantías
+= el banco pierde sus prendas e hipotecas y queda como acreedor **quirografario**. La novación
+**no se presume** (art. 2215): debe constar la voluntad inequívoca de novar (de lo contrario,
+hay mera **modificación** que conserva las garantías).
+
+**5) Confusión (art. 2206).** Se reúnen en una sola persona las calidades de acreedor y deudor
+(p. ej., por **fusión** de sociedades o por herencia): la obligación se extingue. *Aplicación en
+M&A:* al **fusionar** acreedora y deudora, los créditos intercompañía se **confunden** y
+extinguen —hay que anticipar el efecto contable y fiscal—.
+
+**6) Remisión o condonación (art. 2209 y ss.).** El acreedor **perdona** la deuda (total o
+parcial). *Uso en reestructura:* la **quita** es una remisión parcial; su tratamiento **fiscal**
+(ingreso por condonación de deuda) debe preverse.
+
+**7) Imposibilidad sobrevenida no imputable.** Si la prestación se vuelve imposible por caso
+fortuito/fuerza mayor sin culpa ni mora del deudor, la obligación se extingue (en las de cuerpo
+cierto; recuerda *genus nunquam perit* en las genéricas).
+
+**8) Prescripción liberatoria (art. 1135 y ss.).** El transcurso del tiempo **extingue la
+acción** (no necesariamente el débito: lo pagado tras prescribir no se repite —obligación
+natural—). Debe **oponerse** como excepción; el juez no la declara de oficio. Vigilar los plazos
+es deber profesional.
+
+> **Síntesis operativa de 14.D:** ante cualquier "salida" de una obligación, el experto pregunta
+> tres cosas: (i) *¿se extingue de verdad o solo se modifica?* (novación vs. modificación); (ii)
+> *¿qué pasa con las garantías?* (¿se reservaron?, ¿consintieron los terceros?); (iii) *¿qué
+> efectos fiscales y contables dispara?* (quita = ingreso; confusión = baja de cuentas
+> intercompañía). Estas tres preguntas separan al abogado que "sabe los modos de extinción" del
+> que **estructura una reestructura sin destruir valor**.
+
+## 15. Explicación intuitiva
+
+Imagina la obligación como un **contrato de plomería del dinero**: hay tuberías (vínculos) que
+conectan bolsillos. Las **clasificaciones** son los tipos de tubería (una sola dirección o
+varias; una que se divide o una que aguanta todo el flujo en un punto —solidaridad—). Las
+**modalidades** son las **válvulas**: la *condición* es una válvula que no abre hasta que pase
+algo incierto; el *plazo*, un temporizador. La **transmisión** es **reconectar la tubería a otro
+bolsillo** (cesión: cambio el extremo que cobra; asunción: cambio el extremo que paga). La
+**extinción** es **cerrar la tubería**: por pago (fluyó lo debido), por compensación (dos
+tuberías opuestas se anulan), por novación (se reemplaza la tubería por una nueva —¡y se caen
+las llaves de paso/garantías si no las reinstalas!—), por remisión (se tapa por decisión del
+acreedor) o por prescripción (se oxida por falta de uso).
+
+Quédate con esta imagen: en finanzas, **los créditos son tuberías negociables**; el abogado de
+negocios es el **ingeniero hidráulico** que las diseña, las reconecta y las cierra sin que se
+inunde el patrimonio de su cliente.
