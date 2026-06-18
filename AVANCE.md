@@ -39,7 +39,7 @@ integridad. Este archivo es el tablero de control.
 | 3 | Responsabilidad civil | ✅ | 3–4 sem |
 | 4 | Garantías y derechos reales de garantía | ✅ | 3–4 sem |
 
-## Nivel III · Derecho Mercantil — (estándar V3)
+## Nivel III · Derecho Mercantil — ✅ COMPLETO (estándar V3)
 **⏱ Dominio del nivel: ~6–8 meses**
 | # | Tratado | Estado | ⏱ Dominio |
 |---|---------|--------|-----------|
@@ -49,7 +49,7 @@ integridad. Este archivo es el tablero de control.
 | 4 | Contratos mercantiles | ✅ | 4–5 sem |
 | 5 | Mercado de valores (LMV) | ✅ | 5–6 sem |
 | 6 | Concurso mercantil | ✅ | 4 sem |
-| 7 | Gobierno corporativo (mercantil) | ⬜ | 4 sem |
+| 7 | Gobierno corporativo (mercantil) | ✅ | 4 sem |
 
 ## Nivel IV · Corporate Law — (estándar V3)
 **⏱ Dominio del nivel: ~8–10 meses** (el corazón del objetivo)
