@@ -927,3 +927,162 @@ que sean **exigibles** aquí.
 (sin escrow ni responsabilidad prolongada) y agilizando el deal. Reconfigura la negociación de la
 indemnización (el comprador reclama a la **aseguradora**, no al vendedor). *Lección:* las aseguradoras
 **exigen** una due diligence sólida para emitir la póliza —otra vez, la DD (Libro 2) es la base de todo—.
+
+## 22. Derecho comparado
+
+Los contratos del M&A son globales en su **forma**, pero su **interpretación y exigibilidad** varían según
+la tradición jurídica. Tabla comparada esencial para el abogado de M&A:
+
+| Jurisdicción / sistema | Tratamiento de la documentación del M&A |
+|---|---|
+| **México (Civil Law)** | SPA/APA/SHA por **autonomía de la voluntad** sobre la base de la compraventa y el saneamiento (CCF/CCom). La **S.A.P.I.** (LMV) da validez societaria al SHA (vetos, drag/tag, opciones). Interpretación por **buena fe** e intención; normas imperativas modulan cláusulas importadas (sandbagging, ciertas renuncias). |
+| **EE.UU. (Common Law)** | Cuna del SPA moderno. Predomina la **literalidad** del texto y la **autonomía contractual**: el contrato lo define todo (de ahí su extensión). Régimen estatal; *case law* abundante sobre reps, indemnización y MAC. |
+| **Delaware** | El estándar de referencia mundial. *Case law* decisivo sobre **MAC** (Akorn, Tyson), interpretación de reps e *indemnification*, y *sandbagging* (Delaware tiende a ser **pro-sandbagging** salvo pacto). La "lengua franca" del M&A. |
+| **Reino Unido (Common Law)** | *Caveat emptor* fuerte; el comprador se protege con **warranties** y el vendedor con la **disclosure** (*disclosure letter*). Tiende a ser **anti-sandbagging** (no se reclama por lo conocido). Cláusulas algo más "ligeras" que las de EE.UU. |
+| **España (Civil Law)** | *Manifestaciones y garantías* (las reps) sobre la base de la compraventa y el saneamiento por vicios ocultos del Código Civil; fuerte influencia anglosajona vía despachos internacionales. |
+| **Unión Europea** | Sin contrato único, pero con impacto del derecho de **competencia** (cláusulas de no competencia razonables; gun jumping) y de **protección de datos** en la documentación. |
+| **UNIDROIT (Principios)** | Marco supletorio para contratos internacionales: **buena fe**, deberes de información, **responsabilidad precontractual** (relevante para el Term Sheet/LOI) e interpretación. |
+| **CISG** | Aunque regula mercaderías (no acciones), su lógica de **conformidad** y de **deberes de examen/notificación** ilumina la racionalidad de reps y saneamiento. |
+| **Civil Law vs. Common Law (síntesis)** | **Common law:** literalidad, autonomía, contratos exhaustivos, tendencia pro-sandbagging (EE.UU.). **Civil law:** buena fe, intención, normas imperativas, saneamiento legal como red de seguridad. En M&A transfronterizo **conviven**: forma anglosajona, ejecución local. |
+
+**Lección comparada clave:** el abogado mexicano de élite redacta cláusulas **anglosajonas** (porque son
+el estándar global) pero las **ancla en el derecho mexicano** (penas convencionales, condiciones,
+renuncias válidas, definición de pérdidas compatible con el CCF) para que sean **exigibles aquí**. Importar
+una cláusula sin adaptarla es un error de novato que puede volverla **inejecutable**.
+
+## 23. Derecho mexicano
+
+La documentación del M&A se asienta en estos pilares del derecho mexicano:
+
+- **Autonomía de la voluntad y *pacta sunt servanda* (CCF, CCom).** La base que permite diseñar libremente
+  reps, indemnización, MAC, vetos, drag/tag —dentro de los límites de la ley, el orden público y las buenas
+  costumbres—.
+- **Compraventa y saneamiento (CCF / CCom).** El SPA y el APA son compraventas; el **saneamiento por vicios
+  ocultos y por evicción** es la red de seguridad legal que las reps e indemnización **complementan y
+  modulan**. Un comprador puede tener acción por saneamiento **además** de la contractual.
+- **Vicios del consentimiento (CCF).** **Dolo** y **mala fe** del vendedor (mentir u ocultar) pueden generar
+  **nulidad** y responsabilidad **más allá** de los límites contractuales (caps, baskets) —un argumento
+  poderoso del comprador engañado—.
+- **Transmisión de acciones (LGSM / LMV).** Endoso e inscripción en el libro de registro; régimen especial
+  de la S.A.B.; la **S.A.P.I.** como vehículo que valida las cláusulas del SHA.
+- **Cesión de derechos y asunción de deudas (CCF).** Base del APA (cesión de contratos y créditos;
+  consentimiento del acreedor para asumir deudas).
+- **Penas convencionales y condiciones (CCF).** Figuras locales en las que se **anclan** cláusulas como el
+  *break-up fee*, ciertos *earn-outs* y mecanismos de indemnización para que sean exigibles.
+- **Cláusulas de no competencia:** válidas si son **razonables** en tiempo, territorio y objeto (límite del
+  derecho de competencia y de la libertad de trabajo/comercio).
+- **Arbitraje (CCom / convenciones internacionales).** El M&A mexicano usa intensamente el **arbitraje**
+  (confidencial, especializado, ejecutable internacionalmente) como foro de resolución de disputas; la
+  cláusula arbitral es *boilerplate* crítico.
+
+> **Nota de método:** verifica la compatibilidad y la redacción exigible de cada cláusula importada con el
+> derecho mexicano vigente antes de usarla (Manifiesto XI.5). La forma anglosajona **no** garantiza
+> eficacia local.
+
+## 24. Jurisprudencia relevante
+
+> *Nota de método: verifica vigencia y datos de identificación antes de citar.*
+
+En México, los criterios relevantes giran en torno a las **figuras que sostienen** la documentación:
+- **Saneamiento por vicios ocultos y por evicción:** alcance de la responsabilidad del vendedor por
+  defectos no aparentes; relación con las garantías contractuales (reps).
+- **Dolo, mala fe y vicios del consentimiento:** cuándo la ocultación de información vicia el contrato y
+  permite reclamar más allá de lo pactado.
+- **Interpretación de los contratos (intención de las partes, buena fe — CCF):** clave para interpretar
+  reps, indemnización, MAC y disclosure schedules.
+- **Penas convencionales:** su validez y la facultad de los jueces de moderarlas (relevante para break-up
+  fees y mecanismos indemnizatorios).
+- **Validez de convenios entre accionistas (S.A.P.I. / LMV):** reconocimiento de la eficacia de vetos,
+  restricciones a la transmisión y drag/tag.
+- **Arbitraje:** criterios sobre validez de la cláusula arbitral, arbitrabilidad y reconocimiento/
+  ejecución de laudos.
+
+En el ámbito **anglosajón** (de gran influencia práctica), el *case law* de **Delaware** sobre **MAC**
+(Akorn, Tyson, Genesco), **sandbagging** e interpretación de reps/indemnización es **estudio obligado**,
+porque modela cómo se redactan e interpretan estas cláusulas en todo el mundo.
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **SCJN / tribunales:** criterios sobre **interpretación contractual**, **buena fe**, **dolo**,
+  **saneamiento** y **penas convencionales**, que delimitan la eficacia y los límites de las cláusulas del
+  SPA/APA/SHA en México.
+- **COFECE:** criterios sobre **cláusulas de no competencia** (razonabilidad) y sobre el respeto al
+  calendario regulatorio (gun jumping) que condicionan covenants y condiciones del SPA.
+- **CNBV (emisoras):** régimen de revelación y de OPAs que afecta la documentación cuando la *target* es
+  pública.
+- **Tribunales arbitrales (CANACO, ICC):** aunque sus laudos son confidenciales, la práctica arbitral
+  mexicana e internacional ha desarrollado criterios sobre interpretación de SPAs (reps, earn-outs, MAC)
+  que nutren la redacción contractual.
+
+## 26. Doctrina nacional
+
+La doctrina mexicana sobre la documentación del M&A proviene de **dos vertientes**: la **civil/mercantil**
+clásica (compraventa, saneamiento, vicios del consentimiento, interpretación de contratos, obligaciones),
+que da el marco de fondo; y el **know-how transaccional** de los grandes despachos corporativos, que ha
+adaptado las cláusulas anglosajonas (reps, indemnización, MAC, drag/tag) al derecho mexicano y vive más en
+los *precedents*, los seminarios especializados y la formación interna que en tratados académicos. La
+**S.A.P.I.** y la doctrina de la LMV aportaron el sustento societario del SHA.
+
+## 27. Doctrina internacional
+
+- **American Bar Association — *Model Stock Purchase Agreement with Commentary* y *Model Asset Purchase
+  Agreement*.** **Lectura imprescindible**: el SPA y el APA cláusula por cláusula, con comentario sobre por
+  qué existe y cómo se negocia cada una. El mejor material del mundo para dominar la documentación.
+- **Doctrina de Delaware y tratados de M&A (EE.UU.).** Interpretación de reps, indemnización, MAC y
+  sandbagging; el *case law* que modela la práctica.
+- **Practical Law / PLC y *precedents* de los grandes despachos.** Los **estándares de mercado** de cada
+  cláusula (qué cap, qué basket, qué supervivencia son "de mercado").
+- **Doctrina de *deal-making* y negociación (Harvard — Subramanian, *Dealmaking*).** El contrato como
+  resultado de una negociación estratégica.
+- **Materiales sobre W&I insurance.** La práctica del seguro de reps & warranties y su efecto en la
+  negociación de la indemnización.
+- **UNIDROIT — Principios de los Contratos Comerciales Internacionales.** Buena fe, responsabilidad
+  precontractual e interpretación en operaciones transfronterizas.
+
+## 28. Opiniones críticas (postura del Consejo Editorial)
+
+**Primero: entender la lógica, no memorizar el formulario.** Sostenemos que el peor error en la formación
+del abogado de M&A es aprender los contratos como **plantillas**. Una cláusula copiada sin entender **por
+qué existe, a quién protege y qué pasa si falla** es una bomba de tiempo. Este libro enseña la **gramática
+del riesgo**, no un formulario.
+
+**Segundo: la negociación de la indemnización ES negociación de precio.** Criticamos que se traten los
+*caps*, *baskets* y la MAC como "cláusulas técnicas" separadas del precio. Son **reparto económico del
+riesgo**: cada concesión en indemnización tiene un valor monetario. El abogado que las negocia sin hablar
+con el cliente sobre el **precio** y el **riesgo** que está dispuesto a asumir, negocia a ciegas.
+
+**Tercero: nada en un SPA es *boilerplate*.** La pandemia y los casos de MAC demostraron que las cláusulas
+"de relleno" (exclusiones de la MAC, ley aplicable, definiciones) pueden valer cientos de millones.
+Despreciamos la actitud de "esto es estándar, no lo leas". **Todo** se lee y se entiende.
+
+**Cuarto: el SHA es subestimado y decisivo.** Advertimos que muchos abogados ponen toda la energía en el
+SPA (la compra) y descuidan el SHA (la convivencia). Pero para el inversionista, el SHA —gobierno y
+salida— vale tanto como el precio. Y para la empresa familiar, es lo que la **salva o la destruye** en la
+siguiente generación.
+
+**Quinto: adaptar, no copiar, las cláusulas anglosajonas.** Importar un SPA de Nueva York sin anclarlo en
+el derecho mexicano produce cláusulas **inejecutables**. El abogado de élite domina **ambos** mundos.
+
+## 29. Debate doctrinal
+
+- **¿*Pro-sandbagging* o *anti-sandbagging*?** ¿Debe poder reclamar el comprador que **sabía** que la rep
+  era falsa? *Postura del Consejo:* en el plano de la **autonomía**, lo que las partes pacten; pero
+  recomendamos **pactarlo expresamente** (no dejarlo al silencio) y, en México, ser consciente de que la
+  **buena fe** y el **dolo** del CCF pueden modular el resultado. El comprador debe preferir
+  *pro-sandbagging* explícito; el vendedor, *anti*.
+- **¿Locked box o completion accounts?** ¿Certeza (precio fijo) o exactitud (ajuste al cierre)? *Postura
+  del Consejo:* depende del deal —*locked box* da certeza y evita disputas (ideal con DD financiera sólida
+  y vendedor confiable); *completion accounts* da precisión (mejor cuando el capital de trabajo es volátil
+  o hay desconfianza)—. No hay respuesta única.
+- **¿Hasta dónde llega la MAC?** ¿Quién soporta el riesgo de que "el mundo cambie" entre firma y cierre?
+  *Postura del Consejo:* el equilibrio razonable es que el **comprador** asuma los riesgos **sistémicos**
+  (no son culpa de nadie) y el **vendedor** responda por lo **específico de la target** y por el impacto
+  **desproporcionado**. La pelea está en las *carve-outs*, y ahí se gana o se pierde.
+- **¿El seguro de W&I diluye el cuidado en la due diligence?** *Postura del Consejo:* no debería —la
+  aseguradora **exige** DD rigurosa para emitir la póliza—; el seguro **complementa**, no sustituye, ni la
+  due diligence ni el criterio.
+- **Drag along vs. tag along: ¿de quién es la operación?** Tensión entre el poder de la **mayoría/
+  inversionista** de vender todo (drag) y la protección de la **minoría** de no quedar atrapada (tag).
+  *Postura del Consejo:* ambos son legítimos y deben **coexistir** con salvaguardas (precio mínimo, mismas
+  condiciones, umbrales); el abogado de la minoría debe **pelear el tag** y acotar el drag (precio justo,
+  no por debajo de la inversión).
