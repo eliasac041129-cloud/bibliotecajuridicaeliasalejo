@@ -1086,3 +1086,234 @@ el derecho mexicano produce cláusulas **inejecutables**. El abogado de élite d
   *Postura del Consejo:* ambos son legítimos y deben **coexistir** con salvaguardas (precio mínimo, mismas
   condiciones, umbrales); el abogado de la minoría debe **pelear el tag** y acotar el drag (precio justo,
   no por debajo de la inversión).
+
+## 30. Errores comunes
+
+- **Tratar el Term Sheet como inofensivo.** Redactarlo sin la cláusula clara de "no vinculante" y quedar
+  atrapado en un compromiso o en responsabilidad precontractual. *Corrección:* distingue expresamente lo
+  vinculante (exclusividad, confidencialidad) de lo no vinculante (precio, estructura).
+- **Copiar cláusulas sin entenderlas.** Usar un SPA "plantilla" sin saber por qué existe cada cláusula ni
+  a quién protege. *Corrección:* domina la **lógica** de cada cláusula antes de redactarla.
+- **Descuidar las definiciones.** Subestimar el glosario ("Pérdidas", "Conocimiento", "Deuda"): una
+  definición floja vacía o dispara una cláusula. *Corrección:* negocia las definiciones con la misma
+  seriedad que el clausulado.
+- **Negociar la indemnización sin pensar en el precio.** Tratar caps/baskets/MAC como tecnicismos
+  separados del valor. *Corrección:* recuerda que son **reparto económico del riesgo** = precio encubierto.
+- **Redactar mal las *carve-outs* de la MAC.** Dejar ambiguo quién soporta los riesgos sistémicos.
+  *Corrección:* redacta con precisión las exclusiones y la regla del impacto desproporcionado.
+- **Confiar en reclamar después en vez de revelar/cubrir.** Detectar algo en la DD y no exigir
+  indemnización especial ni cláusula pro-sandbagging. *Corrección:* traduce el hallazgo en cláusula
+  **antes** de cerrar.
+- **Descuidar el SHA.** Poner toda la energía en el SPA y dejar el SHA (gobierno, salida) como un anexo.
+  *Corrección:* para el inversionista y la empresa familiar, el SHA es **decisivo**.
+- **Importar cláusulas anglosajonas sin anclarlas en derecho mexicano.** Volverlas inejecutables.
+  *Corrección:* ancla en penas convencionales, condiciones y renuncias válidas del CCF.
+- ***Earn-out* mal redactado.** Métricas ambiguas y sin covenants de gestión → litigio asegurado.
+  *Corrección:* métricas objetivas, reglas de gestión y mecanismo de resolución.
+
+## 31. Mitos frecuentes
+
+- **"El Term Sheet no obliga a nada."** **Falso.** Sus cláusulas de exclusividad, confidencialidad y
+  gastos **sí** obligan, y un mal redactado puede generar responsabilidad precontractual.
+- **"Las reps son relleno; lo que importa es el precio."** **Falso.** Las reps **son** parte del precio:
+  asignan el riesgo del pasado y determinan cuánto puede reclamar el comprador.
+- **"La cláusula MAC me deja salir si el negocio empeora."** **Falso (casi siempre).** El umbral es
+  altísimo (sustancial y duradero) y las exclusiones suelen cubrir los riesgos sistémicos. Es más amenaza
+  para renegociar que botón de escape.
+- **"El asset deal me aísla de todos los pasivos, y el APA lo garantiza."** **Falso.** Los pasivos
+  laborales, fiscales y ambientales pueden seguir al negocio pese al APA.
+- **"Si lo descubrí en la due diligence, igual puedo reclamar después."** **Depende.** Solo con cláusula
+  *pro-sandbagging*; con *anti-sandbagging*, no. Mejor revelar y cubrir con indemnización especial.
+- **"El SHA es un trámite posterior."** **Falso.** Para el inversionista vale tanto como el precio
+  (gobierno + salida); para la familia, decide la supervivencia del negocio.
+- **"Un SPA de Nueva York funciona igual en México."** **Falso.** La forma es global; la **exigibilidad**
+  es local. Hay que adaptarlo.
+
+## 32. Preguntas difíciles
+
+1. **¿Por qué lo que el vendedor revela en el *disclosure schedule* lo protege a él?** Porque la rep se
+   entiende cierta "**salvo lo revelado**": al revelar una excepción, el vendedor **ya no incumple** la rep
+   respecto de eso (el comprador lo aceptó con conocimiento). Por eso el vendedor tiene incentivo a revelar
+   mucho (vacunarse) y el comprador a leer los schedules con lupa.
+2. **¿Cómo se conecta la due diligence (Libro 2) con el SPA?** Directamente: riesgo **desconocido** → reps
+   + indemnización (con caps/baskets); riesgo **concreto conocido** → indemnización **especial** (sin tope);
+   riesgo **subsanable** → condición al cierre; riesgo de **cambio** entre firma y cierre → MAC; lo
+   **revelado** → sale por disclosure schedules. El SPA es la DD hecha cláusulas.
+3. **¿Por qué un fondo pelea el *drag along*?** Porque su negocio es **comprar y vender** (exit); el drag
+   le garantiza poder vender la **empresa entera** (lo que un comprador quiere) sin que un minoritario lo
+   bloquee. Sin drag, su salida queda a merced de terceros.
+4. **¿Locked box o completion accounts para una empresa con capital de trabajo muy volátil?** Tiende a
+   convenir **completion accounts** (ajuste al cierre), porque captura las variaciones reales; el *locked
+   box* (precio fijo) dejaría el riesgo de esa volatilidad al comprador desde la fecha del box.
+5. **¿Qué diferencia a una rep "fundamental" de una "del negocio", y por qué importa?** Las fundamentales
+   (título de acciones, capacidad, autoridad) tocan la **esencia** de lo que se compra; por eso reciben
+   protección **reforzada** (sin tope, supervivencia larga/indefinida). Las del negocio se topan y caducan
+   antes. La distinción define **cuánto y por cuánto tiempo** responde el vendedor.
+
+## 33. Casos de examen (con respuesta modelo)
+
+**Caso A.** *En la due diligence detectaste un litigio fiscal concreto de 5 millones, probable pero no
+seguro. El vendedor se niega a bajar el precio. ¿Cómo lo proteges en el SPA?*
+**Respuesta modelo:** Como es un riesgo **concreto y conocido**, no basta la rep general: se pacta una
+**indemnización especial** por ese litigio específico, **al 100% y fuera de caps y baskets**, respaldada
+por un **escrow** suficiente por el plazo de resolución, con **control de la defensa** del litigio
+definido. Alternativamente, un **ajuste/retención** de precio por el monto en riesgo. Razonar: riesgo
+conocido → indemnización específica, no rep general.
+
+**Caso B.** *Firmas un SPA en enero con cierre en mayo (pendiente COFECE). En marzo, una recesión golpea a
+toda la industria y la target pierde 30% de ventas. Tu cliente comprador quiere salir. ¿Puede invocar la
+MAC?*
+**Respuesta modelo:** Depende de las ***carve-outs*** de la MAC. Si excluye los **eventos sistémicos**
+(recesiones, condiciones de la industria) —lo habitual—, el comprador **no** puede salir, **salvo** que la
+target esté afectada **desproporcionadamente** frente a sus competidores. Además, el umbral exige un
+impacto **sustancial y duradero**, no un mal trimestre. Probablemente **no** procede la salida; sí puede
+servir como palanca de **renegociación**. Citar la lógica de Akorn/Tyson.
+
+**Caso C.** *Un fondo invierte 40% en una empresa familiar y quiere asegurar su salida en 6 años. ¿Qué
+cláusulas del SHA son imprescindibles?*
+**Respuesta modelo:** **Drag along** (para vender el 100% sin bloqueo de la familia), **derechos de
+registro/compromiso de exit** (venta o IPO en el horizonte), **preferencia de liquidación** (cobrar
+primero), **vetos** sobre decisiones que afecten su salida, y **tag along** (por si la familia vende
+antes). Sin drag y sin compromiso de exit, su salida queda atrapada. Conectar: para el inversionista, la
+**salida** es lo central del SHA.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Instrucciones:** eres asociado de M&A. Representas al **comprador** (un fondo) en la adquisición del
+> 100% de *Distribuidora Sol, S.A.* La DD reveló: (i) un contrato clave con *change of control*; (ii) una
+> contingencia fiscal concreta de 8M; (iii) capital de trabajo estacional muy volátil; (iv) la PI de la
+> marca a nombre de un accionista. Diseña la **protección documental** antes de leer la guía.
+
+1. ¿Qué mecanismo de **precio** propones, dada la volatilidad del capital de trabajo?
+2. ¿Cómo proteges la **contingencia fiscal concreta**?
+3. ¿Cómo aseguras la **continuidad del contrato clave** con *change of control*?
+4. ¿Cómo resuelves la **PI a nombre del accionista**?
+5. ¿Qué pides en **indemnización** (cap, basket, supervivencia, sandbagging) como comprador?
+
+> **Guía de solución (resumen).** **(1)** **Completion accounts** (ajuste por capital de trabajo, deuda
+> neta y caja al cierre), por la volatilidad estacional; alternativamente locked box con un *target* de
+> capital de trabajo bien calibrado. **(2)** **Indemnización especial** por la contingencia fiscal (100%,
+> fuera de cap/basket) + **escrow** por el plazo de prescripción + control de la defensa. **(3)**
+> **Consentimiento** de la contraparte como **condición al cierre** (CP); si no se obtiene, derecho a no
+> cerrar o ajustar precio. **(4)** **Condición al cierre** de **transferir la PI** a la sociedad + rep
+> específica + indemnización por titularidad. **(5)** Como comprador: **cap alto** (o 100% para
+> fundamentales/fiscales), **basket bajo** (idealmente *tipping*), **supervivencia larga** (fiscales/
+> fundamentales hasta su prescripción), reps **sin** *knowledge qualifier* donde se pueda, y cláusula
+> **pro-sandbagging**. Y **escrow** o **W&I insurance** para asegurar el cobro.
+
+## 35. Flashcards
+
+- **¿Qué es vinculante en un Term Sheet?** Lo procesal (exclusividad, confidencialidad, gastos, ley
+  aplicable); lo sustantivo (precio, estructura), normalmente NO.
+- **¿Las cuatro piezas del SPA en el tiempo?** Reps (pasado) · Covenants (interino) · Conditions (cierre) ·
+  Indemnización (futuro).
+- **¿Qué son las reps & warranties?** Afirmaciones de hecho garantizadas; si son falsas → indemnización.
+- **¿Cap, basket, de minimis, survival?** Tope máximo · umbral mínimo acumulado · mínimo por reclamación ·
+  plazo de vigencia de la rep.
+- **¿Indemnización especial?** Para riesgo concreto y conocido (de la DD), normalmente sin tope y fuera de
+  cesta.
+- **¿Qué es la MAC?** Cláusula que permite no cerrar ante un cambio adverso sustancial y duradero; umbral
+  altísimo.
+- **¿Qué son los disclosure schedules?** Anexos donde el vendedor revela excepciones a sus reps (lo
+  revelado deja de estar garantizado).
+- **¿Sandbagging?** Si el comprador que sabía puede reclamar (pro) o no (anti); se pacta expresamente.
+- **¿Locked box vs. completion accounts?** Precio fijo sobre balance pasado / ajuste según balance al
+  cierre.
+- **¿Earn-out?** Parte del precio diferida y condicionada a resultados futuros.
+- **¿Drag vs. tag along?** La mayoría obliga a vender (drag) / la minoría puede sumarse a la venta (tag).
+- **¿Preferencia de liquidación?** Derecho del inversionista a cobrar primero (un múltiplo) en venta/
+  liquidación.
+- **¿SPA vs. APA?** Compra de acciones (sociedad entera) / compra de activos (perímetro descrito).
+
+## 36. Mapas mentales
+
+```
+                     DOCUMENTACIÓN DEL M&A
+                              |
+   ┌──────────────┬──────────┼───────────────┬──────────────────┐
+ TERM SHEET/LOI    SPA           APA            SHA
+ (bases;        (share deal;  (asset deal;   (gobierno + capital
+  exclusividad   reps,         perímetro,      + salida:
+  vinculante;    covenants,    cesiones,       vetos, preferencias,
+  resto NO)      conditions,   pasivos         drag/tag, deadlock,
+                 indemnización, asumidos)      put/call)
+                 MAC, schedules)
+```
+
+```
+              EL SPA EN EL TIEMPO (4 actos)
+  PASADO ───────► REPS & WARRANTIES (cómo es la empresa)
+  INTERINO ─────► COVENANTS (qué se hace entre signing y closing)
+  CIERRE ───────► CONDITIONS PRECEDENT (puerta del closing)
+  FUTURO ───────► INDEMNIFICATION (si algo era falso) + MAC (si todo cambió)
+```
+
+## 37. Cuadros comparativos
+
+**Los cuatro documentos**
+
+| | Term Sheet/LOI | SPA | APA | SHA |
+|---|---|---|---|---|
+| Función | Bases del deal | Comprar acciones | Comprar activos | Gobernar a los socios |
+| Vinculante | Parcial | Total | Total | Total |
+| Momento | Inicio | Firma/cierre | Firma/cierre | Tras la inversión |
+| Núcleo | Exclusividad, precio | Reps, indemnización, MAC | Perímetro, pasivos | Vetos, drag/tag, salida |
+
+**Qué quiere cada parte en la indemnización**
+
+| Variable | Comprador quiere | Vendedor quiere |
+|---|---|---|
+| Cap (tope) | Alto | Bajo |
+| Basket (umbral) | Bajo | Alto |
+| Supervivencia | Larga | Corta |
+| Knowledge qualifier | Sin él (objetivo) | Con él |
+| Sandbagging | Pro | Anti |
+| Escrow | Grande | Pequeño / W&I |
+
+**Drag vs. Tag (la tensión de la salida)**
+
+| | Drag along | Tag along |
+|---|---|---|
+| A favor de | Mayoría / inversionista | Minoría |
+| Efecto | Obliga a la minoría a vender | Permite a la minoría sumarse |
+| Objetivo | Vender el 100% sin bloqueo | No quedar atrapado con nuevo control |
+
+## 38. Diagramas
+
+**Del hallazgo (DD) a la cláusula (SPA):**
+```
+Riesgo DESCONOCIDO ─────────► rep general + indemnización (cap/basket)
+Riesgo CONCRETO y CONOCIDO ─► indemnización ESPECIAL (sin tope, fuera de cesta)
+Riesgo SUBSANABLE ──────────► condición al cierre (CP)
+Riesgo de CAMBIO (firma→cierre) ► cláusula MAC
+Lo que el vendedor REVELA ──► disclosure schedules (sale de la garantía)
+```
+
+**Anatomía del SPA (mapa de secciones):**
+```
+1. Definiciones  → 2. Objeto y Precio  → 3. Reps & Warranties
+→ 4. Covenants  → 5. Conditions Precedent  → 6. Indemnification
+→ 7. Terminación / MAC  → 8. Boilerplate (ley, arbitraje)  → 9. Anexos (disclosure schedules)
+```
+
+**El SHA (tres familias):**
+```
+GOBIERNO            CAPITAL                 SALIDA
+consejo, vetos,     preferencia liq.,       lock-up, ROFR/ROFO,
+información,         antidilución,           tag along, drag along,
+deadlock            preemptive rights       put/call, exit/IPO, leaver
+```
+
+## 39. Mnemotecnias
+
+- **SPA en el tiempo (RCCI):** **R**eps (pasado) · **C**ovenants (interino) · **C**onditions (cierre) ·
+  **I**ndemnización (futuro).
+- **Term Sheet:** *"lo sustantivo no obliga; lo procesal sí"* (exclusividad y confidencialidad vinculan).
+- **Indemnización:** *"cap arriba, basket abajo, survival el reloj"*.
+- **Riesgo conocido vs. desconocido:** *"lo desconocido → rep general; lo conocido → indemnización
+  especial"*.
+- **MAC:** *"firmar no es cerrar; pero salir por MAC casi nunca"* (umbral altísimo).
+- **Disclosure:** *"lo que revelo, ya no lo garantizo"*.
+- **Sandbagging:** *"pro = el comprador cobra aunque supiera; anti = no"*.
+- **Salidas del SHA:** *"drag arrastra (mayoría), tag acompaña (minoría)"*.
+- **Regla de oro:** *"no copies cláusulas; entiende qué riesgo reparte cada una"*.
