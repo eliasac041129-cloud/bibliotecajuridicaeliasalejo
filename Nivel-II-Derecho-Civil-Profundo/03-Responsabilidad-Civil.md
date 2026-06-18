@@ -168,3 +168,89 @@ Para la empresa, la responsabilidad civil es **gestión de riesgo** en estado pu
 La empresa la administra con un triángulo: **prevención** (compliance, control de calidad),
 **transferencia contractual** (indemnización, *caps*, *hold harmless*) y **seguros**. El abogado
 corporativo diseña ese triángulo.
+
+
+## 10. Definiciones doctrinales
+
+- **Responsabilidad civil (Bejarano Sánchez):** la obligación de **reparar el daño** causado a
+  otro, sea por incumplimiento de un deber contractual (contractual) o por la violación del deber
+  general de no dañar (extracontractual).
+- **Gutiérrez y González:** distingue con rigor el **hecho ilícito** y la **responsabilidad
+  objetiva**; subraya que la reparación tiende a **restituir** a la víctima al estado anterior al
+  daño (*restitutio in integrum*).
+- **Doctrina francesa (Mazeaud, Viney):** la responsabilidad civil descansa en tres pilares —
+  **un daño, un hecho generador (culpa o riesgo) y un nexo causal**— y cumple funciones de
+  reparación y prevención.
+- **Doctrina del *Law & Economics* (Calabresi):** la responsabilidad es un mecanismo para
+  **minimizar el costo social de los accidentes** (costo de los daños + costo de prevenirlos),
+  asignando el riesgo al *cheapest cost avoider*.
+
+> **Lectura del Consejo:** todas convergen en los **tres pilares** —daño, hecho generador
+> (culpa/riesgo), nexo causal— a los que se suma, en la contractual, el **incumplimiento de una
+> obligación previa**. Memoriza esos pilares: son la **lista de cotejo** de toda reclamación.
+
+## 11. Definiciones legales (CCF — verificar versión vigente y código local)
+
+- **Principio general (hecho ilícito) — art. 1910:** "El que obrando ilícitamente o contra las
+  buenas costumbres cause daño a otro, está obligado a repararlo, a menos que demuestre que el
+  daño se produjo como consecuencia de culpa o negligencia inexcusable de la víctima."
+- **Responsabilidad objetiva (riesgo creado) — art. 1913:** quien usa **mecanismos, instrumentos,
+  aparatos o sustancias peligrosas** por sí mismos, responde del daño que causen, **aunque no obre
+  ilícitamente**, a no ser que demuestre que el daño se produjo por culpa o negligencia inexcusable
+  de la víctima.
+- **Daño y perjuicio — arts. 2108-2109:** **daño** = pérdida o menoscabo en el patrimonio;
+  **perjuicio** = privación de cualquier ganancia lícita que debiera haberse obtenido.
+- **Reparación — art. 1915:** la reparación debe consistir, a elección del ofendido, en el
+  **restablecimiento** de la situación anterior (cuando sea posible) o en el **pago de daños y
+  perjuicios**.
+- **Daño moral — art. 1916:** afectación que una persona sufre en sus **sentimientos, afectos,
+  creencias, decoro, honor, reputación, vida privada, aspecto físico, o en la consideración que de
+  sí misma tienen los demás**; se repara con una **indemnización** en dinero, con independencia del
+  daño material.
+- **Responsabilidad contractual — arts. 2104-2118:** daños y perjuicios por incumplimiento;
+  consecuencia **inmediata y directa** (art. 2110); responsabilidad por dolo y por culpa.
+- **Responsabilidad por hechos de terceros y de cosas — arts. 1919-1932:** de los padres, tutores,
+  patrones (por sus dependientes), dueños de animales, propietarios de edificios, etc.
+
+## 12. Definición sencilla
+
+La responsabilidad civil es la **regla de "quien rompe, paga"**. Si dañas a alguien —rompiendo un
+contrato o cometiendo un acto ilícito (o incluso, en ciertos casos peligrosos, **sin culpa**)—,
+debes **reparar** ese daño: devolver las cosas a como estaban o, si no se puede, **pagar** lo que
+valga el daño (lo que perdió + lo que dejó de ganar + el sufrimiento, si aplica).
+
+## 13. Conceptos fundamentales
+
+- **Responsabilidad contractual:** surge del **incumplimiento de un contrato** (una obligación
+  preexistente entre las partes). Régimen: arts. 2104 y ss.
+- **Responsabilidad extracontractual (aquiliana):** surge de un **hecho ilícito** sin contrato
+  previo (atropellar a un peatón, difamar). Régimen: arts. 1910 y ss.
+- **Los tres pilares (+ uno):** **(1) hecho generador** (conducta antijurídica con culpa, o
+  actividad riesgosa); **(2) daño**; **(3) nexo causal** entre ambos; **(+ en la contractual) un
+  incumplimiento** de obligación previa.
+- **Culpa (responsabilidad subjetiva):** negligencia, imprudencia o impericia; se responde porque
+  se obró mal (sin la diligencia debida). Incluye el **dolo** (intención de dañar).
+- **Riesgo creado (responsabilidad objetiva):** se responde **sin culpa**, por crear y
+  aprovecharse de una actividad o cosa peligrosa (art. 1913).
+- **Antijuridicidad:** que la conducta sea contraria a derecho; se excluye por **causas de
+  justificación** (legítima defensa, estado de necesidad, ejercicio de un derecho, consentimiento
+  del ofendido).
+- **Daño emergente:** la **pérdida** efectivamente sufrida (lo que salió del patrimonio o se
+  destruyó).
+- **Lucro cesante (perjuicio):** la **ganancia lícita** que se dejó de obtener.
+- **Daño moral:** afectación a bienes **extrapatrimoniales** (sentimientos, honor, dignidad,
+  proyecto de vida); art. 1916.
+- **Nexo causal:** relación de causa-efecto entre el hecho y el daño. Límite: **consecuencia
+  inmediata y directa** (art. 2110); teorías de la causalidad **adecuada** (solo se responde de las
+  consecuencias normales/previsibles).
+- **Reparación integral (*restitutio in integrum*):** devolver a la víctima, en lo posible, al
+  estado anterior al daño; principio reforzado por la jurisprudencia constitucional.
+- **Eximentes / causas de exclusión:** **caso fortuito o fuerza mayor**, **culpa de la víctima**,
+  **hecho de un tercero**; reducen o excluyen la responsabilidad.
+- **Concurrencia de culpas:** si la víctima también fue negligente, la indemnización se **reduce**
+  proporcionalmente.
+- **Daños punitivos:** suma adicional para **castigar y disuadir** (propia del common law);
+  en México no existen como tales, pero la SCJN ha admitido que la indemnización del daño moral
+  puede tener una **función disuasiva** (caso *Mayan Palace*).
+- **Responsabilidad solidaria por daño:** si varios causan el daño, responden **solidariamente**
+  frente a la víctima (art. 1917).
