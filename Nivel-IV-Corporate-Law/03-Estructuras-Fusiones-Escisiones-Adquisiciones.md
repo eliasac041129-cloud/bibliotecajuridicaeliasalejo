@@ -555,3 +555,83 @@ para que el flujo de la *target* sirva la deuda —tema del Libro 5—). Tambié
 combinaciones "entre iguales" (*merger of equals*). Recuerda, además, los **deberes del consejo** al
 aprobar una fusión (Gobierno Corporativo: decidir informado, *fairness opinion*, manejar conflictos) y el
 **derecho de separación** de los socios disidentes.
+
+### 14.C · La escisión (concepto, clases, proceso paso a paso y efectos)
+
+La **escisión** es la operación **inversa** a la fusión: en lugar de combinar sociedades, **divide** una.
+Una sociedad (**escindente**) segrega la totalidad o parte de su patrimonio y lo transmite en bloque a una
+o más sociedades (**escindidas o beneficiarias**), nuevas o existentes. Es la herramienta de la
+**desconcentración, la especialización y la preparación de ventas** (*carve-outs*).
+
+**Las dos clases de escisión.**
+- **Escisión total:** la sociedad escindente **desaparece** (se extingue sin liquidarse) y **todo** su
+  patrimonio se reparte en bloque entre **dos o más** sociedades beneficiarias. La empresa original deja
+  de existir, transformada en varias.
+- **Escisión parcial:** la escindente **subsiste** y solo **segrega una parte** de su patrimonio
+  (típicamente una unidad de negocio, una planta, un conjunto de activos) que transmite a una o varias
+  beneficiarias. La empresa original sigue viva, más "ligera".
+
+**El rasgo jurídico esencial: la sucesión universal parcial.** Como en la fusión, en la escisión la
+transmisión del patrimonio segregado es **en bloque** (sucesión universal respecto del bloque transmitido):
+los activos, pasivos y contratos que integran la porción escindida pasan **automáticamente** a la
+beneficiaria, sin necesidad de cederlos individualmente. Esto distingue la escisión del *asset deal*: en
+la escisión, segregar un negocio **no** exige transferir activo por activo ni (en principio) pedir
+consentimiento contrato por contrato —lo que la hace una herramienta poderosísima para los *carve-outs*—.
+
+**El proceso de la escisión paso a paso (LGSM, art. 228 Bis).** Memoriza la secuencia:
+
+1. **Proyecto de escisión.** Se diseña **cómo se divide** el patrimonio: qué activos, pasivos y capital
+   van a cada beneficiaria, la forma del reparto, los estados financieros base, y las acciones que
+   recibirán los socios en las beneficiarias. Este diseño es el corazón técnico de la escisión.
+2. **Acuerdo en asamblea extraordinaria con mayoría reforzada.** La escisión debe aprobarse en asamblea
+   general **extraordinaria**, con la **mayoría exigida para modificar el contrato social** (mayoría
+   reforzada). La resolución debe contener los elementos que exige el art. 228 Bis (la descripción de la
+   forma en que se segregan activos, pasivos y capital; los estados financieros; la forma de reparto de
+   las acciones; etc.).
+3. **Protección de los socios.** Como regla, las acciones de las beneficiarias se reparten entre los
+   **mismos socios** de la escindente, en la **misma proporción** que tenían (escisión "proporcional"),
+   salvo acuerdo distinto. El socio que **vote en contra** tiene **derecho de separación** (a salirse y
+   que le reembolsen sus acciones), protección frente a una decisión estructural que no comparte.
+4. **Publicación y resoluciones.** La resolución de escisión se **inscribe** en el RPC y se **publica**
+   (con un extracto y el señalamiento de que el texto completo queda a disposición), para conocimiento de
+   socios y acreedores.
+5. **Derecho de oposición de los acreedores (plazo de 45 días).** Durante los **45 días naturales**
+   siguientes a la última publicación/inscripción, **cualquier acreedor** con interés jurídico puede
+   **oponerse judicialmente** a la escisión; la oposición **suspende** la escisión hasta que cause
+   ejecutoria la sentencia que la declare infundada (o se pague/garantice el crédito). Es el equivalente
+   al derecho de oposición de la fusión, calibrado para la escisión.
+6. **Surtimiento de efectos y responsabilidad solidaria.** Transcurrido el plazo sin oposición (o resuelta
+   esta), la escisión surte efectos. **Clave protectora:** durante el plazo legal, las sociedades
+   beneficiarias (y, en la escisión parcial, la escindente) **responden solidariamente** frente a los
+   acreedores por las obligaciones de la escindente, de modo que la división del patrimonio **no
+   perjudique** a quienes prestaron antes de la escisión. Esta responsabilidad solidaria es el gran
+   contrapeso a la libertad de repartir activos y pasivos.
+
+**Efectos jurídicos de la escisión:**
+- **Patrimonial:** transmisión en bloque del patrimonio segregado a la(s) beneficiaria(s).
+- **Societario:** nacimiento de las beneficiarias (o aumento de capital de las existentes); en la escisión
+  total, extinción de la escindente; reparto de acciones a los socios.
+- **Frente a acreedores:** protegidos por el derecho de oposición y por la **responsabilidad solidaria**.
+- **Laboral:** continuidad de las relaciones laborales con la sociedad a la que se asigne cada centro de
+  trabajo (sustitución patronal).
+- **Fiscal:** puede gozar de **neutralidad fiscal** si cumple los requisitos de la LISR/CFF (en particular,
+  reglas de **permanencia accionaria** —que los socios mantengan cierta participación durante un periodo—
+  y de continuidad); de lo contrario, puede gatillar impuestos. La fiscalidad de la escisión es delicada y
+  exige **asesor fiscal** desde el diseño.
+
+**Usos en M&A y reorganización.** La escisión es la herramienta estrella para:
+- **Carve-outs:** separar una unidad de negocio para **venderla** (se escinde el negocio a una nueva
+  sociedad cuyas acciones luego se venden) sin arrastrar el resto del grupo.
+- **Resolver conflictos entre socios:** dividir la empresa para que cada grupo de socios se quede con una
+  parte ("divorcio societario").
+- **Especializar y desconcentrar:** separar negocios distintos que estaban en una misma sociedad para
+  gestionarlos o financiarlos por separado.
+- **Blindar activos:** segregar activos valiosos (inmuebles, marcas) en una sociedad distinta de la
+  operativa, para protegerlos del riesgo del negocio.
+- **Planeación patrimonial familiar:** repartir el patrimonio empresarial entre ramas de la familia.
+
+**Conexión con la due diligence y el contrato.** Cuando la DD revela que solo interesa **una parte** de
+una empresa, o que hay un activo/negocio "contaminado" que conviene aislar, la **escisión** permite
+**separar** lo deseable de lo indeseable antes de la operación (a veces el vendedor escinde y luego vende
+solo la parte sana). Combinada con un *share deal* sobre la sociedad escindida, logra un resultado limpio
+y fiscalmente eficiente que un *asset deal* no siempre puede igualar.
