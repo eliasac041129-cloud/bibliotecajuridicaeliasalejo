@@ -851,3 +851,157 @@ competidores **no se conviertan en colusión**. Las JV grandes a menudo requiere
 jurisdicciones** a la vez. *Lección:* estructurar una alianza internacional entre competidores exige
 coordinar el análisis de competencia **multijurisdiccional** —una capa de complejidad que distingue al
 abogado sofisticado—.
+
+## 22. Derecho comparado
+
+Las estructuras de colaboración existen en todos los sistemas; cambian los vehículos típicos y el rigor del
+control de competencia. Tabla comparada:
+
+| Jurisdicción / sistema | Tratamiento de JV y contratos estratégicos |
+|---|---|
+| **México (Civil Law)** | JV como **operación** (no contrato típico único): se usa **S. de R.L./S.A./S.A.P.I.** (equity JV) o **asociación en participación**/consorcio (contractual JV). Convenio de socios validado por la **S.A.P.I. (LMV)**. Distribución/suministro mayormente **atípicos** (autonomía de la voluntad); franquicia regulada (LPI). Control de competencia: **LFCE/COFECE**. |
+| **EE.UU. (Common Law)** | JV vía **LLC** (muy flexible, el vehículo preferido) o *partnership*/*corporation*; *operating agreement* detalladísimo. Distribución/franquicia con regulación estatal y federal; fuerte **antitrust** (Sherman Act) sobre JV entre competidores y restricciones verticales. |
+| **Reino Unido (Common Law)** | JV vía *limited company* o *LLP*; *shareholders'/JV agreement* muy desarrollado; régimen de competencia (CMA) y de la UE históricamente influyente. |
+| **España / UE (Civil Law)** | JV vía sociedades (S.L./S.A.) o **UTE** (Unión Temporal de Empresas, para obras/proyectos —análoga al consorcio—); fuerte control de **concentraciones** y de acuerdos restrictivos (Comisión Europea); reglamentos de exención por categorías para acuerdos verticales y de I+D. |
+| **Unión Europea** | Marco robusto: control de **concentraciones** (las *full-function JV* se notifican), y **reglamentos de exención** (vertical, I+D, especialización) que dan "puerto seguro" a ciertas alianzas; doctrina muy desarrollada sobre cooperación entre competidores. |
+| **UNIDROIT / soft law** | Principios sobre contratos comerciales internacionales (buena fe, interpretación) aplicables a JV y alianzas transfronterizas; guías sobre contratos de largo plazo. |
+| **Civil Law vs. Common Law (síntesis)** | El **common law** ofrece vehículos flexibilísimos (LLC, LLP) y una cultura contractual exhaustiva; el **civil law** usa sus sociedades y figuras como la A en P / UTE. En ambos, el **derecho de la competencia** es el límite clave, y la documentación de JV internacional converge (en inglés, con arbitraje). |
+
+**Lección comparada:** dos vehículos que el abogado mexicano debe conocer: la **LLC** estadounidense (el
+vehículo de JV más flexible del mundo —su *operating agreement* inspira la práctica) y la **UTE** española
+(para colaboraciones temporales en obras, análoga a nuestro consorcio). Y la constante global: la JV entre
+competidores y las cláusulas de exclusividad están **siempre** bajo la lupa del derecho de la competencia.
+
+## 23. Derecho mexicano
+
+En México, las estructuras de colaboración se arman combinando estas fuentes:
+
+- **Autonomía de la voluntad (CCF, Código de Comercio):** base de la JV contractual y de los contratos
+  estratégicos atípicos (distribución, suministro, alianzas).
+- **LGSM:** para la **equity JV**, se constituye una sociedad (**S. de R.L.** —flexible, ideal para JV;
+  ventajas fiscales para socios de EE.UU.—, **S.A.** o **S.A.P.I.**); el convenio de socios funciona como
+  **SHA**.
+- **Asociación en Participación (LGSM):** vehículo de la **JV contractual** sin personalidad jurídica
+  (asociante + asociados).
+- **Contratos mercantiles (Código de Comercio y leyes especiales):** la **comisión** (agencia), el
+  **suministro** y la **distribución** (atípicos, regidos por la voluntad y por analogía); la **franquicia**
+  (Ley Federal de Protección a la Propiedad Industrial).
+- **Propiedad intelectual (LFPPI, Ley Federal del Derecho de Autor):** licencias y transferencia de
+  tecnología, marcas, patentes.
+- **Ley Federal de Competencia Económica (LFCE):** **concentraciones** (JV notificables), **prácticas
+  monopólicas absolutas** (colusión entre competidores —gravísima—) y **relativas** (restricciones
+  verticales: exclusividad, fijación de precio de reventa, ventas atadas).
+- **Ley de Inversión Extranjera:** límites y condiciones a la participación de socios extranjeros en la JV.
+- **Ley de Adquisiciones y Ley de Obras Públicas:** para **consorcios** que participan en licitaciones
+  públicas.
+
+> **Nota de método:** la JV es una **operación a la medida**; verifica el texto vigente de la LGSM, la LFCE,
+> la LFPPI y la Ley de Inversión Extranjera, y estructura **con el fiscalista**, antes de aplicar
+> (Manifiesto XI.5).
+
+## 24. Jurisprudencia relevante
+
+> *Nota de método: verifica vigencia y datos de identificación antes de citar.*
+
+Criterios mexicanos relevantes (en las figuras que sostienen la colaboración):
+- **Asociación en participación:** naturaleza, efectos frente a terceros y entre las partes, y su
+  tratamiento (incluido el fiscal).
+- **Contratos atípicos (distribución, suministro):** criterios sobre su validez, interpretación
+  (integración por la buena fe y los usos) y las **consecuencias de la terminación** (indemnización al
+  distribuidor por clientela, preavisos razonables).
+- **Convenios entre accionistas (S.A.P.I. / LMV):** validez de las cláusulas de gobierno, vetos y
+  transmisión que rigen la equity JV.
+- **Prácticas monopólicas (LFCE):** criterios de la COFECE y de los tribunales sobre concentraciones,
+  colusión entre competidores y restricciones verticales (cuándo una exclusividad o una fijación de precios
+  daña la competencia).
+- **Cláusula compromisoria / arbitraje:** validez y alcance del arbitraje en disputas de JV y contratos
+  estratégicos (foro habitual de estos conflictos).
+
+En el ámbito internacional, la práctica de los **JV agreements** (LLC operating agreements, shareholders'
+agreements) y la doctrina de competencia de la UE y EE.UU. sobre cooperación entre competidores son
+referencia obligada.
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **SCJN / tribunales:** criterios sobre **contratos atípicos** (distribución, suministro), **asociación en
+  participación**, interpretación contractual y consecuencias de la terminación de relaciones de largo
+  plazo.
+- **COFECE (el regulador clave):** guías y resoluciones sobre **concentraciones** (cuándo una JV es
+  notificable), **prácticas monopólicas absolutas** (colusión disfrazada de colaboración) y **relativas**
+  (restricciones verticales en distribución/suministro). Su criterio **condiciona el diseño** de toda
+  alianza entre competidores.
+- **IMPI:** registro y disputas de **licencias** de marcas y patentes y de **franquicias**.
+- **Comisión de competencia / reguladores sectoriales:** en energía, telecom, etc., autorizaciones de
+  consorcios y JV.
+
+## 26. Doctrina nacional
+
+La doctrina mexicana sobre JV y contratos estratégicos proviene del **derecho mercantil y societario** (la
+sociedad como vehículo de la equity JV, la asociación en participación), del **derecho de contratos** (los
+atípicos: distribución, suministro, las reglas de integración e interpretación) y, crecientemente, del
+**derecho de la competencia** (el análisis de concentraciones y restricciones). A esto se suma el **know-how
+transaccional** de los despachos corporativos, que han adaptado los *JV agreements* internacionales al
+marco mexicano y desarrollado la práctica de estructurar coinversiones (especialmente de inversión
+extranjera). La doctrina de **propiedad intelectual** aporta el tratamiento de las licencias y la
+transferencia de tecnología.
+
+## 27. Doctrina internacional
+
+- **Doctrina y modelos de *JV agreements* (LLC operating agreements, shareholders' agreements).** El "cómo"
+  práctico de estructurar el gobierno, el deadlock y la salida de una JV; material de los grandes despachos.
+- **Doctrina de derecho de la competencia (UE — directrices sobre acuerdos de cooperación horizontal;
+  EE.UU. — *antitrust guidelines for collaborations among competitors*).** El marco para estructurar
+  alianzas entre competidores sin violar la competencia.
+- **Doctrina de *alliance management* y *strategy* (Harvard, INSEAD).** Por qué las alianzas crean valor y
+  por qué fracasan (la dimensión estratégica y cultural, más allá de lo jurídico).
+- **Doctrina de contratos internacionales (UNIDROIT, ICC —contratos modelo de distribución, agencia,
+  JV—).** Modelos y principios para la colaboración transfronteriza.
+- **Doctrina de propiedad intelectual y licencias.** El tratamiento de la PI aportada, creada y las mejoras
+  en alianzas tecnológicas.
+
+## 28. Opiniones críticas (postura del Consejo Editorial)
+
+**Primero: colaborar es más difícil de estructurar que comprar, y se subestima.** Sostenemos que muchos
+abogados tratan la JV como "una sociedad más" y descuidan lo esencial: el **gobierno compartido** y, sobre
+todo, las **salidas**. Una JV sin mecanismos de deadlock y salida bien diseñados es una **bomba de tiempo**.
+
+**Segundo: diseña el divorcio antes de la boda.** Insistimos: el mayor valor del abogado de JV está en
+**anticipar el conflicto**. No es pesimismo: es realismo. La mayoría de las JV atraviesan tensiones; las
+que sobreviven (o se separan sin destruir valor) son las que **pactaron las salidas desde el inicio**.
+
+**Tercero: cuidado con la línea de la competencia.** Advertimos con firmeza: la colaboración entre
+**competidores** camina por una línea fina. Una JV legítima puede degenerar en un **canal de colusión**
+(intercambio de información sensible, coordinación de precios). El abogado debe acotar el *scope*, levantar
+**murallas de información** y vigilar el cumplimiento de la LFCE —porque las prácticas monopólicas absolutas
+son de las infracciones **más graves** (sanciones enormes, incluso penales)—.
+
+**Cuarto: la PI y los contratos relacionados valen tanto como el convenio de JV.** Criticamos que se ponga
+toda la atención en el convenio principal y se descuiden los *ancillary agreements* (licencia, suministro,
+distribución entre la JV y los socios) y la **propiedad intelectual** (aportada, creada, mejoras). Ahí se
+extrae —o se destruye— valor, y ahí nacen los litigios al separarse.
+
+**Quinto: elige bien el grado de integración.** No toda colaboración debe ser una equity JV. A veces un
+**contrato de suministro o una alianza** logra el objetivo con menos costo y rigidez. El abogado sofisticado
+recomienda el **mínimo de integración** que cumple el objetivo —ni más (rigidez) ni menos (ambigüedad)—.
+
+## 29. Debate doctrinal
+
+- **¿Equity JV o contractual JV?** ¿Crear una sociedad (institucional, sólida, rígida) o colaborar solo por
+  contrato (flexible, pero sin personalidad ni separación patrimonial clara)? *Postura del Consejo:* depende
+  de la **duración, escala y necesidad de financiarse y de activos propios**: equity JV para lo duradero y
+  grande; contractual (A en P/consorcio) para lo acotado y temporal.
+- **¿Cómo diseñar el deadlock sin favorecer al más rico?** Los mecanismos de compra-venta forzosa (ruleta
+  rusa) **favorecen a quien tiene más caja**. *Postura del Consejo:* deben calibrarse con **valuación
+  independiente**, plazos y excepciones para proteger al socio financieramente más débil; o preferir
+  mecanismos menos brutales (mediación, experto) antes de la opción nuclear.
+- **¿Hasta dónde la exclusividad y la no competencia?** Las cláusulas que canalizan negocio a la JV y
+  prohíben competir con ella crean valor, pero **restringen la competencia**. *Postura del Consejo:* deben
+  ser **razonables y proporcionales** (en objeto, tiempo, territorio) para no caer en práctica monopólica;
+  acotadas a lo necesario para proteger la JV.
+- **¿De quién es la PI creada por la JV?** *Postura del Consejo:* no hay respuesta única (puede ser de la JV,
+  repartida, o licenciada a los socios), pero **debe pactarse con precisión desde el inicio** —incluido qué
+  pasa con las **mejoras** y al **terminar**—; la ambigüedad es la causa número uno de litigios al salir.
+- **Colaboración vs. colusión: ¿dónde está la línea?** *Postura del Consejo:* la línea está en si la
+  alianza **crea eficiencias reales** (sinergias, nuevos productos, ahorros que benefician al mercado) o si
+  **solo sirve para reducir la competencia** (coordinar precios, repartir mercados). Lo primero es legítimo;
+  lo segundo, gravísimo. El abogado debe asegurar que la JV esté del lado correcto —y poder **demostrarlo**—.
