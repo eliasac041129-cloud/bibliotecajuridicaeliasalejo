@@ -470,3 +470,98 @@ acreedor) o por prescripción (se oxida por falta de uso).
 Quédate con esta imagen: en finanzas, **los créditos son tuberías negociables**; el abogado de
 negocios es el **ingeniero hidráulico** que las diseña, las reconecta y las cierra sin que se
 inunde el patrimonio de su cliente.
+
+
+## 16. Ejemplos simples
+
+1. **Solidaridad.** Tres amigos piden juntos $300,000 a un banco "solidariamente". El banco puede
+   exigir los $300,000 **completos** a cualquiera de los tres; quien pague repite contra los otros
+   dos por $100,000 cada uno. Si fuera mancomunada, el banco solo podría exigir $100,000 a cada
+   uno y absorbería la insolvencia de uno.
+2. **Medios vs. resultado.** Un abogado se obliga a "defender el caso con diligencia" (medios):
+   no incumple por perder, solo si fue negligente. Un constructor se obliga a "entregar la casa"
+   (resultado): incumple si no la entrega, aunque haya sido diligente.
+3. **Condición suspensiva.** "Te compro el terreno **si** se aprueba el cambio de uso de suelo."
+   No hay obligación de comprar hasta que la condición se cumpla.
+4. **Cesión de crédito.** Una empresa que tiene $1,000,000 por cobrar a 90 días lo **cede** hoy a
+   una factorera por $950,000: obtiene liquidez inmediata; la factorera cobrará al deudor (a quien
+   se le **notifica** la cesión).
+5. **Compensación.** A le debe $50,000 a B, y B le debe $30,000 a A; siendo deudas líquidas y
+   exigibles, se **compensan** hasta $30,000: A solo debe $20,000.
+
+## 17. Ejemplos complejos
+
+1. **Novación que destruye garantías.** Un banco tiene un crédito de $10M garantizado con
+   **hipoteca**. En una reestructura, firma un "nuevo contrato de crédito" que sustituye al
+   anterior (cambio de objeto: nuevo monto, plazo, tasa), **sin reservar** la hipoteca. Resultado:
+   por el art. 2220, la novación **extinguió** la garantía accesoria; el banco quedó
+   **quirografario**. *Solución correcta:* o bien **modificar** (no novar) conservando el crédito
+   original, o novar **reservando expresamente** la hipoteca y reinscribiéndola.
+2. **Cadena de cesiones y oponibilidad.** Un crédito se cede de A a B y luego de B a C, pero **no
+   se notifica** al deudor, que paga de buena fe a A. El pago **libera** al deudor (art. 2036);
+   C debe reclamar a B, y B a A. *Lección:* la **notificación** es el acto que hace oponible la
+   cesión; sin ella, la cadena se rompe.
+3. **Solidaridad y acción de regreso con insolvencia.** Tres codeudores solidarios de $900,000;
+   el banco cobra el total a X. Y es insolvente. ¿Cuánto recupera X de Z? La cuota del insolvente
+   (Y) se **distribuye** entre los solventes (art. 1999): X y Z absorben $150,000 cada uno además
+   de su parte; X recupera de Z $450,000 (su parte $300,000 + la mitad de la de Y, $150,000).
+4. **Compensación en M&A (set-off contra earn-out).** El comprador descubre, tras el cierre, una
+   contingencia indemnizable de $5M; debe aún $8M de *earn-out*. Si el SPA pactó **compensación**,
+   el comprador **retiene** (set-off) los $5M del earn-out. *Sin* cláusula de set-off y sin
+   liquidez/exigibilidad de la indemnización, la compensación legal podría no operar y tendría que
+   demandar.
+
+## 18. Casos reales (jurisprudencia y operaciones estilizadas)
+
+- **Usura e intereses (criterio SCJN).** La Primera Sala de la SCJN estableció que los jueces
+  deben analizar **de oficio** la posible usura en intereses (a la luz del art. 21.3 de la
+  Convención Americana sobre Derechos Humanos), pudiendo **reducir** prudencialmente la tasa si
+  resulta notoriamente excesiva (jurisprudencia derivada de la contradicción de tesis 350/2013).
+  *Implicación:* las tasas moratorias de un contrato pueden ser **moderadas judicialmente**;
+  redactar tasas "de mercado" y documentadas es prudente.
+- **Cesión y notificación.** La jurisprudencia mexicana reitera que la cesión es **oponible al
+  deudor desde su notificación**; antes de ella, el pago al cedente libera. (Criterios de
+  tribunales colegiados en materia civil/mercantil.)
+- **Operación estilizada de titulización.** Una arrendadora cede un paquete de cuentas por cobrar
+  a un **fideicomiso** que emite certificados bursátiles respaldados por esos flujos: la cesión
+  de créditos a escala convierte cartera ilíquida en valores colocables en el mercado (conexión
+  con LMV, Nivel III).
+
+> *Nota de método (Manifiesto, sección XI.5):* los criterios jurisprudenciales citados deben
+> verificarse en su **vigencia** en el Semanario Judicial de la Federación antes de invocarlos en
+> un escrito; aquí se exponen por su valor formativo y de criterio.
+
+## 19. Casos empresariales
+
+- **Capital de trabajo.** Una empresa con problemas de liquidez **cede** (factoraje) sus cuentas
+  por cobrar para financiarse sin endeudarse formalmente. Decisión: ¿*pro soluto* (transfiere el
+  riesgo de impago, menor precio) o *pro solvendo* (conserva el riesgo, mejor precio)?
+- **Garantías intragrupo.** La matriz se obliga **solidariamente** (o avala) la deuda de una
+  filial para que esta obtenga mejor tasa; el banco concentra el cobro en el patrimonio del grupo.
+- **Set-off operativo.** Proveedor y cliente que son recíprocamente acreedores pactan
+  **compensación** periódica de saldos para reducir transferencias y riesgo de crédito.
+
+## 20. Casos corporativos (en transacciones)
+
+- **Asunción de deuda en una adquisición.** En un *asset deal*, el comprador **asume** ciertos
+  pasivos del vendedor; se requiere **consentimiento de los acreedores** y **ratificación de
+  garantes**, o las garantías se extinguen.
+- **Earn-out como obligación condicional.** Parte del precio se paga **si** la *target* alcanza
+  cierto EBITDA (condición) **en** un plazo (término): obligación modal con prestación
+  determinable; su redacción (métrica, protecciones contra manipulación) es crítica.
+- **Reestructura como ingeniería de obligaciones.** Quita (remisión) + espera (modificación de
+  plazo) + conversión de deuda en capital + cesión de tramos a un fondo de *distressed debt*:
+  todo el toolkit del Libro, orquestado, **cuidando no novar** sin reservar garantías.
+
+## 21. Casos internacionales
+
+- **Netting bajo ISDA.** En derivados financieros internacionales, el *close-out netting* del
+  contrato marco ISDA **compensa** todas las posiciones recíprocas a una sola cifra neta ante un
+  *default*: compensación contractual a gran escala, cuya eficacia frente a la insolvencia se
+  examina bajo la ley aplicable y la ley concursal del deudor.
+- **Cesión transfronteriza de cartera.** Un banco cede cartera a un fondo extranjero; se analiza
+  la **ley aplicable a la cesión** (a menudo la del crédito cedido), la **notificación** a deudores
+  en distintas jurisdicciones y la transmisión de **garantías** locales (*lex rei sitae*).
+- **CISG y obligaciones del vendedor.** En compraventa internacional de mercaderías regida por la
+  **CISG**, el régimen de incumplimiento (incumplimiento esencial, derecho a resolver, deber de
+  **mitigar**) modula las obligaciones de las partes de forma distinta al derecho mexicano puro.
