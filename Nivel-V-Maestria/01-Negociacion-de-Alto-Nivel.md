@@ -918,3 +918,146 @@ ventaja enorme, y cuando se usa intérprete, hay que cuidar la precisión de lo 
 deal-making, la documentación estándar). *Lección:* el negociador de élite combina los **principios
 universales** (intereses, BATNA, crear/reclamar valor) con la **sensibilidad cultural** local —lo universal
 y lo particular—.
+
+## 22. Derecho comparado
+
+La negociación es universal, pero su estilo y su marco legal varían. Tabla:
+
+| Jurisdicción / sistema | Estilo de negociación y marco |
+|---|---|
+| **México (Civil Law)** | Estilo relacional (la confianza y el trato personal pesan); el derecho exige **buena fe** y sanciona el **dolo**; **responsabilidad precontractual** por ruptura de mala fe. Influencia creciente del *deal-making* anglosajón en M&A. |
+| **EE.UU. (Common Law)** | Estilo **directo y transaccional** ("al grano"); cultura de negociación muy desarrollada (Harvard); el contrato escrito es la "verdad final"; menor deber general de revelar (*caveat emptor*). Cuna de la *principled negotiation* y el *deal-making*. |
+| **Reino Unido** | Directo, pero algo más formal; *caveat emptor* fuerte; tradición de negociación comercial sofisticada. |
+| **Civil Law (Europa continental)** | Mayor peso de la **buena fe** y de los **deberes de información** precontractuales; la negociación opera bajo un marco legal más protector. |
+| **Culturas asiáticas (China, Japón)** | Énfasis en la **relación de largo plazo** y la **confianza** antes del negocio; comunicación **indirecta** (evitar el "no" directo); paciencia; la **jerarquía** importa (quién decide). El contrato como inicio (no fin) de la relación. |
+| **América Latina / Medio Oriente** | Alta importancia de la **relación personal** y la confianza; ritmo más pausado; lo relacional precede a lo transaccional. |
+| **UNIDROIT / soft law** | Principios sobre **buena fe en la negociación**, deberes de confidencialidad y **responsabilidad por negociación de mala fe** en contratos internacionales. |
+| **Síntesis** | Los **principios** de la negociación (intereses, BATNA, crear/reclamar valor) son **universales**; el **estilo** (directo vs. relacional, ritmo, indirección) es **cultural**. El negociador de élite combina ambos: principios universales + sensibilidad cultural. |
+
+**Lección comparada:** no existe "una" forma correcta de negociar globalmente. Los **marcos analíticos**
+(Harvard, BATNA) aplican en todas partes, pero el **estilo** debe adaptarse a la cultura de la contraparte.
+Y el **marco legal** varía: el civil law (México) protege más con la buena fe y los deberes de información;
+el common law confía más en el contrato y la autonomía. El abogado debe conocer **ambos** planos.
+
+## 23. Derecho mexicano
+
+En México, la negociación se enmarca en el derecho de obligaciones y contratos:
+- **Buena fe (CCF, Código de Comercio):** las negociaciones deben conducirse de buena fe; aunque hay
+  **libertad de no concluir**, romper de **mala fe** una negociación avanzada (que generó confianza
+  legítima) puede generar **responsabilidad precontractual**.
+- **Dolo y vicios del consentimiento (CCF):** el **engaño** (dolo) para inducir a contratar vicia el
+  consentimiento y permite la **nulidad** y la indemnización. Frontera clave: persuadir y no revelar
+  (lícito) vs. **engañar** (ilícito).
+- **Deberes de información y reticencia:** en ciertos contextos, callar lo que se debía revelar
+  (**reticencia dolosa**) vicia el acuerdo (conecta con las reps y *disclosure schedules* del SPA).
+- **Documentos preliminares (MOU, term sheet, LOI):** el derecho distingue lo vinculante de lo no
+  vinculante; mal redactados, generan obligación o responsabilidad.
+- **Confidencialidad (NDA) y penas convencionales:** protegen la información y los compromisos de la
+  negociación.
+- **Ética profesional del abogado (códigos de ética, ley de profesiones):** negociar sin engaño desleal,
+  con lealtad al cliente y manejo de conflictos.
+
+> **Nota de método:** la negociación se rige por el derecho de **obligaciones y contratos** y por la
+> **ética**, no por una ley propia; verifica el marco aplicable al caso (Manifiesto XI.5).
+
+## 24. Jurisprudencia relevante
+
+> *Nota de método: verifica vigencia y datos de identificación antes de citar.*
+
+Criterios mexicanos relevantes (en las figuras que enmarcan la negociación):
+- **Buena fe y responsabilidad precontractual:** criterios sobre la ruptura de mala fe de negociaciones y
+  los deberes de conducta en la etapa previa al contrato.
+- **Dolo y vicios del consentimiento:** cuándo el engaño en la negociación vicia el contrato y genera
+  responsabilidad.
+- **Reticencia / deber de información:** la omisión dolosa de información relevante.
+- **Interpretación de documentos preliminares:** cuándo un MOU/term sheet obliga.
+- **Penas convencionales y confidencialidad:** validez de los compromisos asumidos en la negociación.
+
+En el plano académico-internacional, la doctrina de Harvard (*Getting to Yes*) y la *negotiation analysis*
+son la referencia obligada, más que la jurisprudencia (la negociación es habilidad, no rama jurídica).
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **SCJN / tribunales:** criterios sobre **buena fe contractual**, **dolo**, **responsabilidad
+  precontractual** y **deberes de información**, que delimitan lo permitido en la negociación.
+- **PROFECO / CONDUSEF:** en negociaciones de consumo y financieras, protección contra prácticas engañosas
+  (menos relevante en negociación corporativa, pero presente).
+- **COFECE:** límites a las negociaciones **entre competidores** (no deben derivar en colusión ni
+  intercambio indebido de información sensible).
+
+## 26. Doctrina nacional
+
+La doctrina mexicana sobre negociación como **disciplina** es relativamente escasa (el tema se ha
+desarrollado más en escuelas de negocios e internacionalmente); lo que sí es sólido es la doctrina **civil**
+sobre la **buena fe precontractual**, el **dolo** y la **responsabilidad precontractual**, que da el marco
+jurídico. En la práctica, los despachos y las escuelas mexicanas han **adoptado** los marcos
+internacionales (Harvard, *deal-making*) y los aplican en la formación y la práctica. Es un área donde el
+abogado mexicano se nutre principalmente de la **doctrina internacional** y la **práctica deliberada**.
+
+## 27. Doctrina internacional
+
+- **Fisher, Ury & Patton, *Getting to Yes* (Sí... ¡de acuerdo!).** **Lectura imprescindible:** el libro
+  fundacional de la *principled negotiation* (intereses, opciones, criterios, BATNA). El punto de partida.
+- **William Ury, *Getting Past No* (Supere el no).** Cómo negociar con contrapartes difíciles, tácticas
+  duras y mala fe; la "negociación de penetración".
+- **Subramanian, *Dealmaking* y *Negotiation* (Harvard).** El *deal-making*: *setup*, *deal design* y
+  táctica en operaciones complejas (M&A). Muy relevante para tu perfil.
+- **Sebenius / Lax, *3-D Negotiation* y *The Manager as Negotiator*.** Las tres dimensiones (setup, deal
+  design, táctica) y el manejo del dilema crear/reclamar valor.
+- **Kahneman, *Thinking, Fast and Slow* (Pensar rápido, pensar despacio).** Los **sesgos cognitivos** que
+  afectan la negociación (anclaje, aversión a la pérdida); base del *behavioral*.
+- **Bazerman & Neale, *Negotiating Rationally*.** La psicología de la negociación y cómo evitar los errores
+  de juicio.
+- **Voss, *Never Split the Difference* (Rompe la barrera del no).** Perspectiva táctica/emocional (de un
+  negociador del FBI); complemento práctico a Harvard.
+
+## 28. Opiniones críticas (postura del Consejo Editorial)
+
+**Primero: la negociación se gana en la preparación.** Sostenemos que el factor que más distingue al
+negociador profesional del amateur **no** es el talento ni la labia, sino la **preparación rigurosa**
+(intereses, BATNAs, ZOPA, opciones, criterios). El que llega preparado **conduce**; el que improvisa,
+reacciona y pierde.
+
+**Segundo: crear valor antes que reclamar (pero saber reclamar).** Criticamos la visión —común entre
+abogados— de que negociar es solo "regatear duro" (suma cero). La mayoría de las negociaciones tienen
+potencial de **crear valor**, y dejarlo sobre la mesa es un error. Pero también criticamos la ingenuidad de
+"crear valor" sin **reclamar** la parte justa para el cliente. El experto hace **ambas**: agranda el pastel
+**y** se lleva una buena porción.
+
+**Tercero: la integridad es estrategia, no solo ética.** En un mundo profesional **pequeño** (donde todos
+se conocen y las relaciones se repiten), la reputación de **íntegro** es un **activo** de negociación (la
+gente confía, comparte información, hace mejores deals contigo); la de **tramposo** es un pasivo que te
+persigue. El engaño puede ganar una negociación y **perder** la carrera. Negocia con firmeza **e
+integridad**.
+
+**Cuarto: el BATNA es el rey.** Insistimos en que el **poder** de negociación viene, sobre todo, del
+**BATNA**. La mejor inversión antes de negociar es **mejorar tu alternativa** (conseguir otras opciones).
+El que negocia sin alternativa, negocia de rodillas.
+
+**Quinto: la negociación se domina practicando.** Advertimos que **leer** sobre negociación no basta: es
+una habilidad que se afina con **práctica deliberada** (simular, negociar de verdad, **reflexionar** sobre
+cada negociación: ¿qué hice bien?, ¿qué haría distinto?). El abogado debe buscar oportunidades de practicar
+y analizar —como un atleta entrena—.
+
+## 29. Debate doctrinal
+
+- **¿Negociación dura o por principios?** ¿Conviene ser **duro** (posicional, competitivo) o usar la
+  **negociación por principios** (Harvard, colaborativa)? *Postura del Consejo:* la *principled negotiation*
+  es la **estrategia base superior** (crea valor, preserva la relación, reclama con legitimidad), **pero**
+  el negociador completo debe saber **reclamar con firmeza** y **defenderse** de tácticas duras —no es
+  blando, es eficaz—. La dureza ciega deja valor sobre la mesa y daña relaciones; la blandura regala valor.
+- **¿Hacer la primera oferta o esperar?** *Postura del Consejo:* **anclar** (hacer la primera oferta) suele
+  convenir **si tienes buena información** del valor (el ancla mueve el resultado a tu favor); **esperar**
+  conviene si tienes **mucha menos información** (el ancla del otro te informa y evitas anclar contra ti).
+  Depende de la asimetría de información.
+- **¿Cuánta información revelar?** El dilema crear/reclamar. *Postura del Consejo:* comparte **de forma
+  recíproca y gradual** lo necesario para **crear valor** (intereses, prioridades), pero **protege** tu
+  punto de reserva y tu información más sensible. Ni transparencia total (te explotan) ni hermetismo total
+  (matas la creación de valor).
+- **¿Es ético "farolear" o no revelar?** *Postura del Consejo:* **no revelar** (omitir, ser reservado sobre
+  tu punto de reserva) es **legítimo**; **mentir** (afirmar falsedades, dolo) es **ilícito y poco ético** —y
+  estratégicamente peligroso (la reputación)—. La línea está entre la **reserva** (lícita) y el **engaño**
+  (ilícito).
+- **¿La negociación es talento innato o habilidad aprendible?** *Postura del Consejo:* el talento ayuda,
+  pero la negociación es, sobre todo, una **habilidad aprendible** con marco y **práctica deliberada**. El
+  preparado y entrenado vence al "talentoso" improvisado.
