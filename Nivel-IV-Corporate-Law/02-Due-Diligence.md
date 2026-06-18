@@ -878,3 +878,168 @@ revisión laboral fina (incluido el régimen de subcontratación), y exigencias 
 de élite debe operar con **estándares plenamente internacionales**, hablar el lenguaje de los fondos y
 entender sus *checklists* y sus prioridades. Esa es, precisamente, la formación que persigue esta
 biblioteca.
+
+## 22. Derecho comparado
+
+La due diligence es una práctica **global**, pero el marco jurídico que la rodea —y, sobre todo, la regla
+sobre **quién soporta el riesgo de lo que no se reveló**— varía según la tradición jurídica. Esta es la
+tabla comparada que todo abogado de M&A debe tener en la cabeza:
+
+| Jurisdicción / sistema | Cómo trata la due diligence y la asignación de riesgo informativo |
+|---|---|
+| **México (Civil Law)** | DD como práctica contractual; el Código de Comercio y el Civil imponen **buena fe** y deberes de información precontractual; el riesgo se asigna por **reps & warranties** e indemnización en el SPA (importadas del common law). El **dolo/reticencia** del vendedor puede generar nulidad o responsabilidad. |
+| **EE.UU. (Common Law)** | Origen de la práctica moderna. Predomina el principio de ***caveat emptor*** (el comprador se cuida) atenuado: lo que importa es lo **pactado** en el SPA (reps, indemnización, *sandbagging*). El sistema confía en la **autonomía contractual** y en una DD exhaustiva. |
+| **Delaware** | El estándar de referencia mundial en M&A. Jurisprudencia riquísima sobre **deberes del consejo** (decidir informado: la DD como parte del deber de diligencia), interpretación de **MAC** y de reps. El *case law* de Delaware es la "lengua franca" del M&A. |
+| **España (Civil Law)** | DD muy extendida (influencia anglosajona vía despachos internacionales); el Código Civil aporta el **saneamiento por vicios ocultos** y la responsabilidad por dolo; el riesgo se pacta en *manifestaciones y garantías* (las reps en español). |
+| **Reino Unido (Common Law)** | *Caveat emptor* fuerte: el vendedor **no** tiene un deber general de revelar; el comprador se protege con **warranties** y con la **disclosure** del vendedor (los *disclosure letters*). La DD es esencial porque "lo que no preguntas/garantizas, lo pierdes". |
+| **Unión Europea** | Sin un régimen único de DD privada, pero con **fuerte impacto** del derecho de **competencia** (control de concentraciones), **protección de datos (GDPR)** —que condiciona el manejo de datos en la DD— y, crecientemente, normas de **due diligence en sostenibilidad y derechos humanos** (cadenas de suministro). |
+| **UNIDROIT (Principios)** | Aportan los **deberes de buena fe y de información** en la negociación y la doctrina de la **responsabilidad precontractual** (*culpa in contrahendo*), marco supletorio útil en contratos internacionales. |
+| **CISG (Compraventa internacional)** | Regula la conformidad de las mercancías y los deberes de examen del comprador; aunque pensada para mercaderías, su **lógica** (examinar y notificar defectos) ilumina la racionalidad de la DD. |
+| **Civil Law vs. Common Law (síntesis)** | El **civil law** tiende a proteger al comprador con **deberes legales de información y saneamiento**; el **common law** confía en la **autonomía contractual** (reps, warranties, disclosure). En la práctica del M&A global, **gana el modelo common law**: el SPA con reps e indemnización es el estándar **aunque la ley aplicable sea civil**. |
+
+**La gran lección comparada:** sin importar la jurisdicción, el M&A internacional se documenta con el
+**aparato contractual del common law** (reps & warranties, indemnización, disclosure schedules,
+sandbagging, MAC). Por eso un abogado mexicano de M&A debe dominar ese aparato **tanto** como su propio
+Código Civil: la operación se rige por derecho mexicano, pero **habla inglés contractual**.
+
+## 23. Derecho mexicano
+
+En México, la due diligence se asienta sobre varios pilares del ordenamiento, aunque ninguno la regule
+de forma autónoma:
+
+- **Buena fe y deberes precontractuales (Código Civil Federal y locales; Código de Comercio).** La
+  negociación debe conducirse de buena fe; el **dolo** (maquinaciones para engañar) y la **mala fe**
+  (incluida la **reticencia** —callar lo que se debía decir—) vician el consentimiento y pueden generar
+  **nulidad** y **responsabilidad por daños**. Este es el respaldo civil de la DD y de las reps: si el
+  vendedor ocultó dolosamente un pasivo, el comprador tiene acción aun más allá del contrato.
+- **Saneamiento por vicios ocultos y por evicción (CCF).** El régimen civil de la compraventa obliga al
+  vendedor a responder por los **defectos ocultos** de la cosa y por la **evicción** (que un tercero
+  prive al comprador de lo adquirido). En M&A, este régimen se **complementa y desplaza** contractualmente
+  con reps e indemnización a la medida.
+- **Deber de diligencia de los administradores (LGSM; LMV para emisoras).** Los administradores deben
+  obrar como un **administrador prudente** y de manera **informada**. Aprobar una adquisición relevante
+  sin DD adecuada puede comprometer su responsabilidad: la DD es parte del **proceso informado** que
+  exige el deber fiduciario (conecta con Gobierno Corporativo y con *Van Gorkom*).
+- **Ley Federal de Competencia Económica (LFCE).** Régimen de **concentraciones**: notificación a la
+  **COFECE** según umbrales, prohibición de consumar antes de la autorización (*gun jumping*), y reglas
+  sobre el intercambio de información sensible entre competidores durante la DD (*clean teams*).
+- **Régimen fiscal (CFF) y el riesgo EFOS/EDOS.** El **artículo 69-B del Código Fiscal** y el régimen de
+  operaciones simuladas hacen de la DD fiscal un área de altísima sensibilidad: comprar una empresa que
+  facturó o dedujo operaciones simuladas puede heredar contingencias graves.
+- **Materia laboral (LFT) y subcontratación.** La reforma que **prohibió la subcontratación de personal**
+  (permitiendo solo servicios especializados registrados —REPSE) volvió crítica la DD laboral: esquemas
+  de *outsourcing* mal estructurados generan pasivos y responsabilidad solidaria.
+- **Protección de datos (LFPDPPP).** Condiciona el tratamiento y la transferencia de datos personales
+  durante la DD y vuelve relevante la DD de privacidad.
+
+**En suma:** el derecho mexicano **no impone** la due diligence con un mandato expreso, pero la **exige
+de hecho** por la convergencia del deber fiduciario, la buena fe, el saneamiento, y los regímenes de
+competencia, fiscal y laboral. Omitirla es, a la vez, una imprudencia de negocio y una posible
+**infracción de deberes**.
+
+## 24. Jurisprudencia relevante
+
+> *Nota de método: verifica la vigencia y los datos de identificación de los criterios antes de citarlos
+> en un escrito profesional.*
+
+En México, no existe una línea jurisprudencial abundante y específica sobre "due diligence" como tal
+(por ser práctica contractual), pero sí criterios relevantes en las **instituciones que la sostienen**:
+
+- **Sobre dolo, mala fe y reticencia en los contratos:** criterios que desarrollan cuándo el silencio o
+  la ocultación de información relevante vicia el consentimiento y genera nulidad o responsabilidad
+  —fundamento para reclamar cuando el vendedor ocultó pasivos que una DD habría detectado—.
+- **Sobre el saneamiento por vicios ocultos:** criterios sobre el alcance de la responsabilidad del
+  vendedor por defectos no aparentes y la carga de la prueba.
+- **Sobre buena fe contractual y responsabilidad precontractual:** criterios que reconocen deberes de
+  conducta en la etapa de negociación.
+- **Sobre interpretación de los contratos conforme a la intención de las partes (CCF):** clave para
+  interpretar reps, indemnizaciones y *disclosure schedules*.
+
+En el ámbito **anglosajón** (de altísima influencia práctica), la "jurisprudencia" relevante es el
+*case law* de **Delaware**, que sí es abundante y determinante: la doctrina sobre **MAC** (*Akorn v.
+Fresenius*), sobre el **deber de informarse** del consejo (*Smith v. Van Gorkom*) y sobre la
+interpretación de reps y de *indemnification*. Para el abogado de M&A, este *case law* es **estudio
+obligado**, porque modela cómo se redactan e interpretan las cláusulas en todo el mundo.
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **SCJN:** sus criterios sobre **buena fe, dolo y vicios del consentimiento** en materia contractual, y
+  sobre **interpretación de los contratos**, son el telón de fondo que da fuerza a las reclamaciones
+  derivadas de información ocultada en una operación.
+- **COFECE:** sus **guías y resoluciones** sobre concentraciones definen umbrales de notificación,
+  plazos, el tratamiento del **gun jumping** y el manejo de información sensible entre competidores
+  durante la DD (relevante para diseñar *clean teams*).
+- **SAT:** sus criterios y el régimen del **art. 69-B CFF** (operaciones simuladas) marcan el riesgo
+  central de la DD fiscal en México.
+- **CNBV (para emisoras):** en operaciones sobre empresas públicas, el régimen de la LMV (revelación,
+  OPAs, información privilegiada) condiciona qué y cómo se revela en la DD.
+
+## 26. Doctrina nacional
+
+La doctrina mexicana sobre due diligence se ha desarrollado principalmente desde la **práctica de los
+despachos corporativos** y desde la doctrina mercantil y de competencia, más que desde tratados
+académicos clásicos. Las fuentes útiles son: la doctrina civil sobre **buena fe, vicios del consentimiento
+y saneamiento** (que da el marco de fondo), la doctrina mercantil y societaria (LGSM, gobierno
+corporativo) y la doctrina de **competencia económica** (concentraciones, gun jumping). El abogado
+mexicano completa esta base con la **literatura transaccional internacional**, que es donde la DD está
+más desarrollada técnicamente.
+
+## 27. Doctrina internacional
+
+La doctrina internacional sobre due diligence es vasta y eminentemente **práctica**:
+
+- **Literatura transaccional de los grandes despachos y *Practical Law / PLC*:** guías cláusula por
+  cláusula, *checklists* de DD por área e industria, y *precedents* de mercado. Es el material de trabajo
+  diario del abogado de M&A.
+- **American Bar Association — *Model Stock Purchase Agreement* y materiales de DD:** referencia sobre
+  cómo los hallazgos de la DD se reflejan en reps, indemnización y *disclosure schedules*.
+- **Doctrina de negociación y *deal-making* (Harvard — Sebenius, Subramanian):** entiende la DD como parte
+  del **diseño de la transacción** y de la dinámica de información entre las partes.
+- **Doctrina de compliance y anticorrupción (FCPA Resource Guide del DOJ/SEC):** estándar sobre la DD
+  anticorrupción en adquisiciones y la sucesión de responsabilidad.
+- **Doctrina de valuación y finanzas (para la QoE):** conecta la DD financiera con la valuación
+  (anticipa el Nivel V).
+
+## 28. Opiniones críticas (postura del Consejo Editorial)
+
+Nuestra postura, como Consejo, sobre la due diligence:
+
+**Primero: la DD vale por lo que se traduce, no por lo que se revisa.** Criticamos la cultura del
+"revisar todo" y del DD report de 400 páginas que nadie lee. Una DD excelente es **selectiva,
+jerarquizada y orientada a la decisión**. El mejor due diligence report cabe, en su parte ejecutiva, en
+pocas páginas: los *deal breakers*, los riesgos mayores y su traducción contractual. Lo demás es anexo.
+
+**Segundo: el riesgo de la DD defensiva.** Advertimos contra el abogado que reporta todo con tono
+alarmante para "cubrirse". Esa práctica **destruye valor**: enturbia la decisión, dispara honorarios y
+mina la credibilidad del asesor. El cliente no paga por una lista de defectos; paga por **criterio**.
+
+**Tercero: la tecnología es palanca, no sustituto del juicio.** La revisión asistida por IA acelera la
+detección de cláusulas tipo, pero la **valoración del riesgo** y su **traducción contractual** siguen
+siendo humanas. El abogado que solo "corre la herramienta" sin entender lo que encuentra no agrega valor;
+el que usa la herramienta para liberar tiempo y concentrarse en el criterio, **multiplica** su valor.
+
+**Cuarto: la DD es una habilidad de carrera, no una tarea de novatos.** Aunque el junior la ejecuta,
+dominarla con criterio es lo que forma al socio. Quien aprende a **ver el riesgo y a traducirlo** temprano,
+acelera su carrera más que quien solo "redacta contratos".
+
+## 29. Debate doctrinal
+
+- **¿*Caveat emptor* o deber de revelar? (common law vs. civil law).** El common law parte de que el
+  comprador debe cuidarse (de ahí la DD exhaustiva); el civil law impone deberes de información y
+  saneamiento al vendedor. *Postura del Consejo:* en el M&A moderno **gana la lógica contractual** —lo
+  que importa es lo pactado (reps, disclosure)— pero el abogado mexicano debe recordar que su derecho
+  ofrece **una red de seguridad adicional** (dolo, saneamiento) que el common law puro no tiene.
+- **¿*Sandbagging* sí o no?** Debate clásico: si el comprador **sabía** (por la DD) que una rep era falsa
+  y aun así cierra, ¿puede luego reclamar la indemnización (*pro-sandbagging*) o no (*anti-sandbagging*)?
+  Se resuelve **expresamente** en el SPA. *Postura del Consejo:* el comprador prefiere cláusula
+  *pro-sandbagging* (puede reclamar aunque supiera); el vendedor, lo contrario; quien tiene más poder de
+  negociación impone su preferencia. Es un punto donde la DD y el contrato se cruzan de forma fascinante.
+- **¿Hasta dónde llega la DD razonable?** ¿Cuánto es suficiente? El debate sobre el **alcance óptimo**
+  enfrenta la exhaustividad (más seguridad) contra el costo y el tiempo (más fricción). *Postura del
+  Consejo:* la respuesta es la **proporcionalidad al riesgo** (la matriz probabilidad × impacto), no un
+  estándar fijo.
+- **DD vs. seguros de reps & warranties (*W&I insurance*).** Tendencia creciente: trasladar el riesgo de
+  las reps a un **seguro** (*Warranty & Indemnity insurance*) en vez de a un *escrow*. *Debate:* ¿el
+  seguro reduce el incentivo a hacer una DD rigurosa? *Postura del Consejo:* no debería —las aseguradoras
+  **exigen** una DD sólida para emitir la póliza—; el seguro **complementa**, no sustituye, a la due
+  diligence.
