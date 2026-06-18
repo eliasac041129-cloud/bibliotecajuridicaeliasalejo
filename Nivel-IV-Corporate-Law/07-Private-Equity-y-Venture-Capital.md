@@ -407,3 +407,117 @@ Fija este vocabulario; es el idioma del capital privado y reúne términos del S
 - **Redemption / recompra:** que la empresa o los socios recompren la participación del fondo.
 
 Con este vocabulario, entramos al **desarrollo absoluto**.
+
+## 14. Desarrollo absoluto
+
+Esta es la sección central. La desarrollamos en cinco bloques: **(A)** la **estructura del fondo** (GP/LP,
+comisiones, ciclo de vida); **(B)** el **private equity y el LBO** (la tesis, la creación de valor, el
+apalancamiento); **(C)** el **venture capital y las rondas** (etapas, valuación, dilución, instrumentos);
+**(D)** el **term sheet de inversión y el SHA** (preferencias, antidilución, vetos, vesting —el corazón
+documental—); y **(E)** el **cap table y las salidas** (cómo se reparte la propiedad y cómo sale el fondo).
+Estúdialos en orden: primero cómo se organiza el dinero (el fondo), luego cómo invierte (PE y VC), después
+cómo se documenta y protege (term sheet/SHA), y al final cómo se realiza el retorno (cap table y exit).
+
+### 14.A · La estructura del fondo (GP / LP, comisiones, ciclo de vida)
+
+Antes de invertir en una sola empresa, hay que entender **cómo se organiza el dinero del inversionista
+profesional**: el **fondo**. Un fondo de PE/VC no es una empresa que invierte su propio dinero; es un
+**vehículo** que reúne capital de terceros para invertirlo según una estrategia.
+
+**La relación GP / LP (la arquitectura básica).**
+- Los **LPs (*Limited Partners* / inversionistas)** son quienes **ponen el capital**: afores, aseguradoras,
+  fondos de pensiones, *endowments*, family offices, fondos soberanos. Son **pasivos** (no gestionan) y su
+  responsabilidad se **limita** a su aportación. Buscan retornos superiores a cambio de iliquidez y riesgo.
+- El **GP (*General Partner* / gestor)** es quien **gestiona** el fondo: define la estrategia, busca las
+  inversiones, las ejecuta, las administra y las vende. Toma las decisiones y **responde** por ellas. El GP
+  aporta normalmente una pequeña parte del capital (*GP commitment*, para "tener piel en el juego") y se
+  lleva las comisiones.
+- El **contrato que los une** es el ***LPA (Limited Partnership Agreement)*** —en vehículos extranjeros— o
+  las reglas del vehículo mexicano (CKD/CERPI). Regula: la estrategia, los compromisos de capital, las
+  comisiones, la gobernanza, los conflictos de interés, y la distribución de las ganancias.
+
+**Las comisiones: el "2 y 20".** El modelo de negocio del GP:
+- **Management fee (~2% anual):** comisión sobre el capital comprometido/gestionado, que paga los gastos
+  operativos del GP (equipo, oficina). Es ingreso **fijo**.
+- **Carried interest / carry (~20%):** la **participación en las ganancias** del fondo, por encima de un
+  **hurdle rate** (rendimiento mínimo garantizado a los LPs, p. ej., 8%). Es el **gran incentivo**: el GP
+  gana de verdad cuando el fondo genera retornos. Alinea al GP con los LPs (ambos ganan si las inversiones
+  van bien). El *carry* suele estar sujeto a *vesting* y a mecanismos de **clawback** (devolver si al final
+  el fondo no alcanzó el hurdle).
+
+**El ciclo de vida del fondo (típicamente ~10 años).**
+1. **Fundraising (captación):** el GP **levanta** el fondo, convenciendo a los LPs de comprometer capital.
+   Define el tamaño objetivo, la estrategia y los términos (LPA).
+2. **Periodo de inversión (~años 1-5):** el GP **invierte** el capital en empresas (las *portfolio
+   companies*), haciendo *capital calls* (llamadas de capital a los LPs) conforme cierra cada inversión.
+3. **Gestión / creación de valor (~años 3-8):** el GP **trabaja** las empresas del portafolio
+   (profesionaliza, hace crecer, add-ons), buscando aumentar su valor.
+4. **Desinversión / exit (~años 5-10):** el GP **vende** las empresas (trade sale, secondary, IPO) y
+   **distribuye** las ganancias a los LPs (devolviendo primero su capital + hurdle, luego repartiendo el
+   resto 80/20).
+5. **Liquidación:** el fondo se cierra. Mientras tanto, el GP suele estar **levantando el siguiente fondo**.
+
+**Los vehículos en México.** Para que las **afores** (la gran bolsa de capital institucional mexicano)
+puedan invertir en capital privado, se crearon vehículos bursátiles: los **CKDs** (Certificados de Capital
+de Desarrollo) y **CERPIs** (Certificados de Proyectos de Inversión), regulados por la LMV y la CNBV. Estos
+vehículos cotizan en bolsa pero invierten en activos privados, conectando el ahorro para el retiro con el
+capital privado. Muchos fondos usan además estructuras *offshore* (Delaware, Cayman) por eficiencia fiscal
+y familiaridad de los inversionistas globales. El abogado de fondos estructura estos vehículos —una práctica
+especializada y muy técnica—.
+
+**Por qué importa para el abogado de la operación.** Aunque tú asesores la **inversión concreta** (la
+compra de una empresa por el fondo), entender la **estructura del fondo** explica el **comportamiento** del
+cliente: por qué tiene **prisa por invertir** (el periodo de inversión corre), por qué **debe vender** (el
+fondo tiene fecha de cierre), por qué le obsesiona el **retorno y el exit** (de ahí su *carry*), y por qué
+negocia tan duro las protecciones (responde ante sus LPs). El fondo no es un dueño cualquiera: es un
+**gestor de dinero ajeno con una fecha de salida y un incentivo de retorno**. Eso explica todo lo demás.
+
+### 14.B · El private equity y el LBO (comprar, mejorar, vender — con apalancamiento)
+
+El **private equity** invierte en empresas **maduras**, normalmente **comprando el control**. Su modelo,
+en una frase: **comprar bien, crear valor, vender mejor** —y amplificar el retorno con **deuda** (el LBO)—.
+
+**La tesis de inversión.** Antes de comprar, el fondo define una **tesis**: por qué esta empresa, a este
+precio, puede valer mucho más en 5 años. Las palancas de creación de valor:
+- **Mejora operativa:** profesionalizar la gestión, optimizar costos y márgenes, mejorar la estrategia
+  comercial. Crear valor **operando mejor**.
+- **Crecimiento:** expansión orgánica + **buy-and-build** (adquirir empresas complementarias —*add-ons*—
+  para crecer por consolidación, comprando a múltiplos bajos y vendiendo el conjunto a un múltiplo mayor).
+- **Apalancamiento (el LBO):** usar **deuda** para financiar la compra, de modo que **poco equity** controle
+  un activo grande, **amplificando** el retorno sobre el equity (Libro 5).
+- **Multiple expansion:** vender a un **múltiplo mayor** que el de compra (comprar barato en un momento o
+  sector poco valorado, vender caro cuando mejora).
+
+**El LBO en detalle (reuniendo Libros 3 y 5).** El *leveraged buyout* es la técnica característica del PE.
+Recordando y profundizando:
+- **La estructura (Libro 3):** el fondo crea una **NewCo**, le aporta **equity** (su capital) y le consigue
+  **deuda** (de bancos/fondos); la NewCo **compra** la *target*; luego (a menudo) **se fusiona** con ella
+  (fusión apalancada), de modo que el **flujo de la target sirva la deuda**.
+- **El financiamiento (Libro 5):** la deuda se estructura en **tramos** (senior + mezzanine), con un
+  **intercreditor agreement**, cuidando la **asistencia financiera**, y con **garantías** sobre los activos
+  y acciones de la target. El fondo asegura el ***committed financing*** para poder cerrar.
+- **La matemática de la palanca:** si el fondo compra una empresa por 100 (40 de equity + 60 de deuda) y la
+  vende en 5 años por 160, tras pagar la deuda (que se redujo con el flujo, digamos a 30), el equity recibe
+  130 —**más de 3x** sobre los 40 invertidos—. La deuda **amplificó** el retorno. Pero si la empresa va mal
+  y vale 70, tras pagar la deuda (60) el equity recibe solo 10 —**una pérdida brutal**—. La palanca
+  amplifica en **ambas** direcciones; por eso el LBO es poderoso y peligroso.
+
+**La creación de valor operativa (el PE maduro).** El PE moderno no vive solo del apalancamiento: crea
+valor **mejorando la empresa**. El fondo instala gobierno corporativo profesional (consejo, métricas,
+incentivos a la dirección), define un **plan de 100 días** y un **plan de creación de valor**, hace
+adquisiciones complementarias, y prepara la empresa para una **venta atractiva**. El abogado acompaña todo:
+la adquisición inicial, las adquisiciones *add-on*, la gobernanza (el SHA con la dirección), y —al final—
+la **preparación y ejecución de la salida**.
+
+**El gobierno de la empresa adquirida.** Cuando el PE compra el control, instala su gobierno vía un **SHA**
+(Libro 4) con los **co-inversionistas** y la **dirección** (a la que suele dar equity con *vesting* e
+incentivos —*management equity plan*—, para alinearla con la creación de valor y la salida). Aquí ves cómo
+el PE reúne **M&A + estructura + financiamiento + SHA + gobierno corporativo** en una sola operación —la
+síntesis de todo el Nivel IV—.
+
+**El exit (la razón de ser).** El PE compra **para vender**. Las salidas típicas: **trade sale** (vender a
+un comprador estratégico del sector), **secondary buyout** (vender a otro fondo de PE), o **IPO** (sacar la
+empresa a bolsa). Toda la operación —desde la compra— se diseña pensando en **maximizar el valor de la
+salida** en el horizonte del fondo. El abogado que entiende esto estructura **desde el inicio** pensando en
+**cómo se venderá** (que la empresa sea "vendible": gobierno limpio, contratos en orden, sin contingencias
+—la due diligence inversa—).
