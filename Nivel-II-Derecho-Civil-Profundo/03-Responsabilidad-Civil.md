@@ -494,3 +494,109 @@ medida, **decidir por anticipado quién paga si algo sale mal**.
 - **Responsabilidad de producto internacional:** las cadenas globales de suministro distribuyen la
   responsabilidad de producto entre fabricante, importador y distribuidor mediante **indemnidades**
   y seguros, con foros y leyes pactados.
+
+
+## 22. Derecho comparado
+
+| Sistema | Rasgos de la responsabilidad civil |
+|---|---|
+| **México** | Principio general por culpa (art. 1910) + **responsabilidad objetiva** temprana (art. 1913); daño moral amplio (1916); reparación integral (influencia Corte IDH). |
+| **España** | Art. 1902 CC (culpa aquiliana) y 1101 (contractual); objetivación jurisprudencial en actividades de riesgo; baremos para daños corporales. |
+| **Estados Unidos** | *Tort law* desarrollado: *negligence*, *strict liability* (responsabilidad de producto), **punitive damages**; *duty to mitigate*; *contributory/comparative negligence*. |
+| **Delaware** | Relevante en responsabilidad de **administradores**: *business judgment rule*, *duty of care* y *duty of loyalty*; estándares de revisión (Revlon, Unocal) y *exculpation* (§102(b)(7)). |
+| **Unión Europea** | Directiva de **responsabilidad por productos defectuosos** (objetiva); directiva de **daño ambiental**; tendencias de armonización (PETL — Principles of European Tort Law). |
+| **UNIDROIT** | Principios sobre contratos internacionales: daños por incumplimiento, **previsibilidad**, deber de **mitigar**, certeza del daño. |
+| **UNCITRAL / CISG** | CISG: daños por incumplimiento limitados a lo **previsible**; deber de **mitigar** expreso (art. 77); no cubre daño a la persona. |
+| **Common Law** | Distingue *contract* (expectation damages, previsibilidad de *Hadley*, mitigación) y *tort* (negligence, strict liability, punitive damages). |
+| **Civil Law** | Responsabilidad por culpa como regla, objetiva como excepción creciente; reparación integral; daño moral reconocido. |
+
+> **Convergencia/divergencia clave para M&A:** la mayor diferencia es el **daño punitivo**
+> (existe en EE. UU., no en México/civil law) y la amplitud del **lucro cesante/consequential
+> damages**. Por eso los SPA cross-border **definen y limitan** expresamente los daños
+> indemnizables, sin dejarlos a la ley supletoria.
+
+## 23. Derecho mexicano
+
+Régimen en el CCF (verificar versión vigente y código local):
+- **Extracontractual:** arts. 1910 (hecho ilícito), 1913 (objetiva), 1915 (formas de reparación),
+  1916 (daño moral), 1917 (solidaridad de coautores), 1919-1932 (responsabilidad por hecho ajeno y
+  por cosas/animales/edificios).
+- **Contractual:** arts. 2104-2118 (daños y perjuicios), 2106 (no se condona anticipadamente el
+  dolo), 2110 (consecuencia inmediata y directa); cláusula penal 1840-1850; resolución 1949.
+- **Sectorial:** responsabilidad ambiental (Ley Federal de Responsabilidad Ambiental, régimen de
+  reparación del daño ambiental); responsabilidad de administradores (LGSM, LMV — Nivel III/IV);
+  protección al consumidor (LFPC); responsabilidad patrimonial del Estado (art. 113 const. y ley
+  reglamentaria).
+
+## 24. Jurisprudencia relevante
+
+> Verificar vigencia antes de citar.
+- **Daño moral:** parámetros de cuantificación y **función disuasiva** (Primera Sala, SCJN).
+- **Reparación integral:** estándar de reparación justa e integral (material + moral + proyecto de
+  vida), de raíz convencional (Corte IDH) recibido por la SCJN.
+- **Responsabilidad objetiva (art. 1913):** inversión de la carga; el demandado debe probar la
+  eximente (culpa inexcusable de la víctima, caso fortuito).
+- **Concurrencia de responsabilidad contractual y extracontractual:** criterios sobre la opción o
+  acumulación de acciones cuando un hecho es a la vez incumplimiento e ilícito.
+- **Cláusula penal:** posibilidad de **moderación** judicial por desproporción o cumplimiento
+  parcial (art. 1844).
+
+## 25. Criterios de la Suprema Corte
+
+- **Constitucionalización de la reparación:** la SCJN ha vinculado la responsabilidad civil con el
+  **derecho a la reparación integral** (art. 1º), elevando su rango y ampliando su contenido.
+- **Daño moral y libertad de expresión:** ponderación entre la reparación del honor/vida privada y
+  la libertad de expresión e información (estándares de "real malicia" para figuras públicas).
+- **Función disuasiva del daño moral:** aproximación funcional a los daños punitivos, manteniendo
+  la naturaleza compensatoria.
+- **Responsabilidad patrimonial del Estado:** régimen **objetivo y directo** por la actividad
+  administrativa irregular (art. 113 const.).
+
+## 26. Doctrina nacional
+
+- **Manuel Bejarano Sánchez, *Obligaciones Civiles* (Oxford)** — excelente tratamiento de la
+  responsabilidad civil contractual y extracontractual; claro y actualizado.
+- **Ernesto Gutiérrez y González, *Derecho de las Obligaciones* (Porrúa)** — profundo en hecho
+  ilícito, responsabilidad objetiva y reparación.
+- **Rafael Rojina Villegas, *Derecho Civil Mexicano*** — sistemático en daños y responsabilidad.
+- Doctrina contemporánea sobre **daño moral**, **reparación integral** y **responsabilidad del
+  Estado** (artículos del IIJ-UNAM y de la SCJN).
+
+## 27. Doctrina internacional
+
+- **Mazeaud / Tunc, *Tratado de la responsabilidad civil*** — referencia clásica francesa.
+- **Geneviève Viney, *Les obligations. La responsabilité*** — doctrina francesa contemporánea.
+- **Guido Calabresi, *The Costs of Accidents*** — análisis económico de la responsabilidad.
+- **Christian von Bar, *The Common European Law of Torts*; PETL** — comparado europeo.
+- **Prosser & Keeton, *On Torts*; Restatement (Third) of Torts (EE. UU.)** — *tort law*
+  estadounidense.
+
+## 28. Opiniones críticas (postura del Consejo)
+
+1. **La expansión del daño moral y la "función disuasiva" introduce incertidumbre cuantificadora.**
+   Reparar la dignidad es justo, pero la falta de baremos claros genera indemnizaciones
+   impredecibles; el Consejo aboga por **parámetros transparentes** que equilibren reparación,
+   disuasión y previsibilidad (clave para asegurar y para valuar contingencias en M&A).
+2. **La asignación contractual de la responsabilidad debe respetar el límite del dolo.** Los *caps*
+   y exclusiones son legítimos para la culpa y el riesgo, pero **no** pueden blindar el **fraude**
+   (art. 2106). El Consejo advierte contra cláusulas que pretendan excluir la responsabilidad por
+   dolo: son nulas.
+3. **México hace bien en no adoptar los daños punitivos puros**, pero la "función disuasiva" del
+   daño moral debe usarse con **mesura** para no convertir la reparación en lotería ni en
+   instrumento de presión.
+
+## 29. Debate doctrinal
+
+- **¿Culpa o riesgo como fundamento?** El paso del modelo **subjetivo** (culpa) al **objetivo**
+  (riesgo) sigue en tensión: ¿hasta dónde extender la responsabilidad sin culpa (IA, datos, nuevas
+  tecnologías)?
+- **Unidad o dualidad de la responsabilidad:** ¿debe mantenerse la distinción
+  contractual/extracontractual o unificarse el régimen de daños? Tendencia doctrinal hacia la
+  **unificación** de la reparación.
+- **Opción o acumulación de acciones:** cuando un hecho es a la vez incumplimiento e ilícito,
+  ¿puede la víctima **elegir** el régimen más favorable o acumular? Debate clásico con
+  consecuencias prácticas (prueba, prescripción, extensión del daño).
+- **Daños punitivos:** ¿debe México adoptarlos para disuadir conductas graves, o la "función
+  disuasiva" del daño moral es suficiente y más respetuosa de la naturaleza compensatoria?
+- **Límites a la autonomía contractual:** ¿hasta dónde pueden las partes limitar/excluir la
+  responsabilidad sin vulnerar el orden público y la protección del débil?
