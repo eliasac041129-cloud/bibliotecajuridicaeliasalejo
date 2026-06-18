@@ -43,7 +43,7 @@ integridad. Este archivo es el tablero de control.
 **⏱ Dominio del nivel: ~6–8 meses**
 | # | Tratado | Estado | ⏱ Dominio |
 |---|---------|--------|-----------|
-| 1 | Teoría general del Derecho Mercantil y del comerciante | ⬜ | 2–3 sem |
+| 1 | Teoría general del Derecho Mercantil y del comerciante | ✅ | 2–3 sem |
 | 2 | Sociedades mercantiles (LGSM) | ⬜ | 5–6 sem |
 | 3 | Títulos y operaciones de crédito (LGTOC) | ⬜ | 4–5 sem |
 | 4 | Contratos mercantiles | ⬜ | 4–5 sem |
