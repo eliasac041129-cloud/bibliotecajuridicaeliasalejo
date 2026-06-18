@@ -887,3 +887,131 @@ Cesión A→B   →   ¿Notificada al deudor?
 - **Género:** *genus nunquam perit* — "el dinero nunca se pierde por caso fortuito".
 - **Subrogación:** *"el que paga con interés, se queda con las llaves (garantías)"*.
 - **Transmisión:** *"cedo el crédito notificando; asumo la deuda con permiso del acreedor"*.
+
+
+## 40. Resumen ejecutivo
+
+La teoría profunda de las obligaciones es el **idioma operativo del crédito**. Sobre la base del
+Nivel I, este libro afina las distinciones que tienen **consecuencias patrimoniales directas**:
+*medios vs. resultado* (decide la carga de la prueba y el sentido de "esfuerzos" en un contrato),
+*mancomunada vs. solidaria* (decide si el acreedor cobra el todo o una fracción —y **no se
+presume**, art. 1988), *principal vs. accesoria* (decide la suerte de las garantías), *líquida vs.
+ilíquida* (decide la compensación y los intereses). Las **modalidades** (condición, plazo, modo)
+son el esqueleto temporal de toda operación: las *conditions precedent* y el *acceleration* son
+modalidades disfrazadas de inglés.
+
+El corazón práctico es la **circulación y extinción** del crédito. La **cesión** (oponible por
+notificación, transmite garantías), la **subrogación** (el que paga con interés conserva las
+garantías) y la **asunción de deuda** (requiere consentimiento del acreedor) convierten al crédito
+en un **activo negociable** —base del factoraje, la venta de cartera y la titulización—. En la
+**extinción**, la regla de oro es preguntar siempre *¿qué pasa con las garantías?*: la **novación**
+las **extingue salvo reserva expresa** (art. 2220) y **no se presume** (art. 2215), por lo que en
+reestructuras suele ser preferible **modificar** que novar. La **compensación/netting**, la
+**confusión** (en fusiones), la **remisión** (quita, con su costo fiscal) y la **prescripción**
+completan el toolkit. Todo, hoy, leído también en clave **constitucional** (control de usura por la
+SCJN). Dominar esto es manejar el crédito como un activo y estructurar reestructuras sin destruir
+valor: una de las destrezas mejor pagadas del derecho de los negocios.
+
+## 41. Checklist
+
+**Al crear obligaciones (contrato/crédito):**
+- [ ] ¿Pacté **expresamente** la solidaridad (si la quiero) y la renuncia a orden y excusión?
+- [ ] ¿Definí los **estándares** (medios/resultado; "esfuerzos") para no dejarlos al juez?
+- [ ] ¿Las **garantías** están bien constituidas, perfeccionadas e inscritas (Libro 6, Nivel I)?
+- [ ] ¿Incluí **pérdida del beneficio del plazo** / *acceleration* y **set-off**?
+
+**Al transmitir un crédito (factoraje/venta de cartera):**
+- [ ] ¿La cesión transmite **garantías** (art. 2032)? ¿*Pro soluto* o *pro solvendo*?
+- [ ] ¿**Notifiqué** al deudor para hacerla oponible? ¿Hay prohibición de cesión en el contrato?
+- [ ] ¿Reinscribí las garantías a nombre del cesionario?
+
+**Al reestructurar:**
+- [ ] ¿Documento como **modificación** (conserva garantías) o **novación**?
+- [ ] Si novo: ¿**reservé expresamente** las garantías y obtuve el **consentimiento de los
+  garantes** (art. 2220)?
+- [ ] ¿La **asunción** de deuda cuenta con el **consentimiento del acreedor**?
+- [ ] ¿Previne los efectos **fiscales** (quita = ingreso) y **contables** (confusión)?
+
+## 42. Bibliografía comentada
+
+- **Borja Soriano, M., *Teoría General de las Obligaciones* (Porrúa).** La obra fundacional en
+  México; imprescindible para la dogmática de fuentes, incumplimiento y daños.
+- **Rojina Villegas, R., *Derecho Civil Mexicano*, t. III (Porrúa).** La exposición más completa y
+  didáctica; ideal para sistematizar clasificaciones y extinción.
+- **Gutiérrez y González, E., *Derecho de las Obligaciones* (Porrúa).** Crítico y profundo;
+  insuperable en débito/responsabilidad y en el análisis del patrimonio. Leer para **criterio**.
+- **Bejarano Sánchez, M., *Obligaciones Civiles* (Oxford).** Manual moderno, claro y actualizado;
+  excelente para el primer recorrido sistemático.
+- **Pothier, R. J., *Tratado de las Obligaciones*.** Para entender el **origen** del régimen
+  mexicano de daños (consecuencia directa y previsible). Lectura de raíces.
+- **Larenz, K., *Derecho de Obligaciones*.** Para profundizar la dogmática alemana (Schuld/Haftung)
+  que ilumina garantías y circulación del crédito.
+- **Zimmermann, R., *The Law of Obligations*.** Historia y derecho comparado; perspectiva global
+  indispensable para el abogado transnacional.
+
+## 43. Ruta hacia el siguiente libro
+
+Lo que acabas de aprender —cómo nacen, se clasifican, circulan y se extinguen las obligaciones—
+será **indispensable para comprender** los **contratos civiles en particular**, donde cada figura
+típica (compraventa, mutuo, mandato, fianza, prenda, hipoteca, arrendamiento) es una **fábrica de
+obligaciones** con su propio régimen.
+
+- **Siguiente libro:** *[Nivel II · Libro 2] Contratos civiles en particular* — la compraventa
+  como matriz del **SPA**, el mutuo como base del **crédito**, el mandato como raíz de la
+  **representación** y los poderes, la fianza/prenda/hipoteca como **garantías** del financiamiento.
+- **Conexión de largo alcance:** la **transmisión** y **extinción** que dominaste aquí son la
+  espina dorsal del **financiamiento corporativo** y la **reestructuración** (Nivel IV). Vuelve a
+  las secciones 14.C, 14.D y 34 cuando estructures un crédito sindicado o una reestructura.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque **el crédito es la materia prima de las finanzas corporativas**, y el crédito es, en
+derecho, una **obligación**. Cada financiamiento (sindicado, bonos, *project finance*), cada venta
+de cartera o titulización, cada reestructura, cada cláusula de *set-off*, *acceleration* o
+*earn-out* es teoría de las obligaciones aplicada. El abogado que distingue solidaridad de
+mancomunidad, que sabe que una novación mal hecha **destruye garantías**, y que entiende la cesión
+como **transmisión de un activo con sus accesorios**, es el que estructura operaciones que
+**resisten** y protege el patrimonio del cliente. Sin esta profundidad, se redactan créditos
+frágiles y se destruye valor en las reestructuras.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+> *"Cuando reviso un financiamiento o una reestructura, mis reflejos son tres. Primero,
+> **garantías**: ¿están bien tomadas, perfeccionadas, inscritas, y se **conservan** si modificamos
+> o novamos? El art. 2220 me obsesiona: una novación descuidada deja a mi cliente quirografario.
+> Segundo, **solidaridad y avales**: concentro el riesgo de cobro: solidaridad expresa, renuncia a
+> beneficios de orden y excusión, garantes que ratifican toda modificación. Tercero,
+> **circulación**: si voy a vender o ceder el crédito, cuido la notificación, la transmisión de
+> garantías y si es pro soluto o pro solvendo. En un *deal* cross-border, además pienso en el
+> **netting** (ISDA), la ley aplicable a la cesión y la eficacia de la compensación en concurso.
+> El crédito, para mí, es inventario: lo creo sólido, lo muevo limpio y lo cierro sin perder las
+> llaves."*
+
+## ✦ Errores que cuestan millones
+
+1. **Novar sin reservar garantías (art. 2220).** El error clásico de la reestructura: documentar
+   un "nuevo crédito" que sustituye al anterior, sin reservar la hipoteca/prenda. La garantía se
+   **extingue** y el acreedor pasa de privilegiado a **quirografario**. Pérdida potencial: el 100%
+   del colateral. *Prevención:* modificar en vez de novar, o novar con **reserva expresa y
+   reinscripción**, y consentimiento de garantes.
+2. **Omitir "solidariamente".** Un crédito a varios deudores sin pacto expreso de solidaridad es
+   **mancomunado**: si uno es insolvente, el acreedor **pierde** esa fracción. *Prevención:*
+   cláusula de solidaridad visible y específica.
+3. **No notificar la cesión.** El cesionario que no notifica al deudor descubre que este pagó
+   válidamente al cedente: el activo "comprado" se evapora. *Prevención:* notificación fehaciente
+   inmediata.
+4. **Asumir deuda sin consentimiento de garantes.** En un *asset deal*, asumir pasivos sin que los
+   fiadores/garantes ratifiquen extingue esas garantías; el comprador hereda deuda **sin
+   colateral**. *Prevención:* obtener consentimientos y ratificaciones como condición de cierre.
+5. **Tasas que detonan el control de usura.** Pactar intereses moratorios excesivos puede llevar a
+   su **moderación judicial** de oficio (SCJN), reduciendo la recuperación esperada. *Prevención:*
+   tasas documentadas, de mercado y proporcionales.
+
+---
+
+> *Cierre del Libro.* Has convertido la obligación de un concepto en una **herramienta de
+> ingeniería financiera**. En el siguiente libro veremos esas obligaciones **encarnadas** en los
+> contratos civiles típicos —empezando por la compraventa, madre del *Share Purchase Agreement*—.
+> El camino al M&A pasa por aquí.
