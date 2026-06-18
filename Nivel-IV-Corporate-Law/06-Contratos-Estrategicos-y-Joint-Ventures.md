@@ -399,3 +399,121 @@ SHA—:
   alianza.
 
 Con este vocabulario, entramos al **desarrollo absoluto**.
+
+## 14. Desarrollo absoluto
+
+Esta es la sección central. La desarrollamos en cinco bloques: **(A)** la **decisión de colaborar** y los
+**tipos de JV** (societaria vs. contractual); **(B)** el **contrato de JV, parte I** —aportaciones,
+gobierno compartido y operación—; **(C)** el **contrato de JV, parte II** —deadlock y salida, los
+mecanismos más difíciles—; **(D)** los **contratos de distribución y suministro** estratégicos; y **(E)**
+las **alianzas, licencias e instrumentos preliminares** (MOU, acuerdos marco). Estúdialos en orden:
+primero cuándo y cómo colaborar, luego la JV por dentro (gobierno y salida), y después los contratos
+estratégicos de menor intensidad.
+
+### 14.A · La decisión de colaborar y los tipos de joint venture
+
+**La decisión: ¿comprar, construir o colaborar?** Antes de estructurar nada, el abogado ayuda al cliente a
+elegir el **camino**. La pregunta clave: ¿qué quiere lograr y con qué grado de control y compromiso?
+- Si quiere **control total** y la otra empresa puede venderse → **comprar (M&A)**.
+- Si puede lograrlo **solo** (con tiempo y capital/deuda) → **construir** (orgánico + financiamiento).
+- Si necesita **combinar recursos** con otro (que aporta lo que a él le falta), o **compartir el riesgo**,
+  o **no puede/no quiere comprar** (costo, regulación, que el otro no se vende) → **colaborar**.
+
+Y si decide colaborar, hay un **espectro de intensidad**:
+```
+MENOS intenso ◄─────────────────────────────────────────► MÁS intenso
+Contrato de        Alianza/        JV contractual      JV societaria
+suministro o       acuerdo de      (consorcio, A en P; (equity JV: crean
+distribución       cooperación     sin sociedad)       una sociedad)
+(colaboración      (I+D, licencias)
+puntual/comercial)
+```
+Cuanto más a la derecha, **más profunda** la colaboración (más recursos comprometidos, más control
+compartido, más largo plazo) y **más compleja** la estructura jurídica. La JV societaria es casi un
+"mini-M&A compartido"; el contrato de suministro es colaboración comercial ligera.
+
+**Los dos grandes tipos de JV:**
+
+**1) Equity JV (JV societaria / de capital).** Los socios **constituyen una sociedad nueva** (la *JV co*)
+de la que son accionistas, y a ella aportan capital y recursos. Es la forma **más institucional y
+duradera**.
+- *Ventajas:* **personalidad jurídica propia** (la JV contrata, contrata personal, es dueña de activos en
+  su nombre); **limitación de responsabilidad** (el riesgo se acota al capital de la JV co, protegiendo a
+  los socios); claridad de **gobierno** (consejo, asambleas); facilidad para **financiarse** (la JV co toma
+  deuda) y para **transmitir** participaciones (vender acciones).
+- *Desventajas:* más **costosa y rígida** de constituir y operar; exige acuerdos societarios detallados;
+  disolverla es más complejo.
+- *Vehículo típico en México:* **S. de R.L.** (flexible, ideal para pocos socios, ventajas fiscales para
+  socios extranjeros), **S.A.** o, cada vez más, **S.A.P.I.** (por la validez que da a las cláusulas de
+  socios —vetos, drag/tag—). El **convenio entre los socios de la JV** funciona como un **SHA** (Libro 4).
+
+**2) Contractual JV (JV contractual / sin sociedad).** Los socios colaboran **solo por contrato**, **sin**
+crear una sociedad. Cada uno conserva su personalidad y patrimonio, y se obligan a coordinar conductas,
+aportar recursos y repartir resultados.
+- *Ventajas:* **flexible, rápida y barata** de montar; ideal para colaboraciones **acotadas en el tiempo o
+  el objeto** (un proyecto, una obra, una licitación); evita los costos de constituir y operar una
+  sociedad.
+- *Desventajas:* **no hay personalidad jurídica** (la "JV" no puede contratar ni ser dueña en su nombre; lo
+  hacen los socios o el líder del consorcio); la **responsabilidad** puede ser directa (a veces solidaria
+  frente a terceros); el gobierno y la separación de patrimonios son más difusos.
+- *Vehículos típicos en México:* la **asociación en participación (A en P)** —asociante + asociado(s), sin
+  personalidad ni aparición de los asociados frente a terceros— y el **consorcio contractual** (típico para
+  obras y licitaciones).
+
+**¿Cuál elegir?** Regla práctica: para una colaboración **duradera, de gran escala, con activos y personal
+propios y necesidad de financiarse** → **equity JV** (sociedad). Para una colaboración **acotada (un
+proyecto, una obra), temporal y donde no conviene crear una sociedad** → **contractual JV** (A en P /
+consorcio). La fiscalidad, la regulación (inversión extranjera) y la responsabilidad frente a terceros
+también pesan en la decisión —y, como en el Libro 3, casi siempre se decide **con el fiscalista**—.
+
+### 14.B · El contrato de JV, parte I (aportaciones, gobierno y operación)
+
+El **contrato de JV** (en la equity JV, el *Joint Venture Agreement* + los estatutos de la JV co; es, en
+esencia, un **SHA especializado** —Libro 4—) regula la vida de la colaboración. Sus piezas, parte I:
+
+**1) El propósito y el alcance (*scope*).** Define **para qué** existe la JV y qué puede (y no puede)
+hacer. Es más importante de lo que parece: delimita el **negocio común** y, con ello, qué actividades los
+socios canalizan a la JV y cuáles conservan para sí (la frontera con la **exclusividad** y la **no
+competencia**). Un *scope* mal definido genera conflictos sobre qué oportunidades "pertenecen" a la JV.
+
+**2) Las aportaciones (*contributions*).** Lo que cada socio **pone**, que rara vez es solo dinero:
+- **Capital** (efectivo).
+- **Activos** (inmuebles, plantas, equipos).
+- **Intangibles** (tecnología, **propiedad intelectual**, marcas, know-how).
+- **Acceso al mercado** (red de clientes, canales de distribución, licencias regulatorias).
+- **Personal y gestión** (ejecutivos, capacidad operativa).
+El reto: **valuar** aportaciones heterogéneas (¿cuánto "vale" la tecnología de uno frente al capital del
+otro?) para definir el **porcentaje** de cada socio. Esta valuación, y el equilibrio de poder que define,
+es de las negociaciones más delicadas. También se pactan las **aportaciones futuras** (¿qué pasa si la JV
+necesita más capital? —*capital calls*— y qué le ocurre al socio que **no** aporta —dilución, *default*—).
+
+**3) El gobierno compartido (el corazón de la JV).** Aquí está la **diferencia esencial** con una empresa
+de un solo dueño: en la JV **el control se comparte**, y diseñar ese reparto es el arte central. Piezas:
+- **El consejo de administración:** su **composición** refleja el poder pactado. En una JV **50/50**, suele
+  ser **paritario** (igual número de consejeros por socio) —lo que crea el riesgo de **empate/deadlock**—.
+  En una JV con un socio mayoritario, este controla el consejo, pero el minoritario se protege con vetos.
+- **Las materias reservadas / vetos (*reserved matters*):** la lista de **decisiones importantes** que
+  requieren el **acuerdo de ambos socios** (o del minoritario), aunque uno controle el consejo: cambiar el
+  *scope*, endeudarse, hacer inversiones grandes, aprobar el presupuesto, nombrar/remover al director
+  general, repartir o no utilidades, admitir nuevos socios, modificar estatutos. Es la **principal
+  protección** del socio que no controla el día a día. Negociar **qué** entra en esta lista (y con qué
+  mayoría) es una batalla central.
+- **La dirección y la operación:** quién nombra al **CEO/director general** y al equipo clave; cómo se
+  toman las decisiones operativas del día a día (que **no** pueden requerir consenso para todo, o la JV se
+  paraliza). El equilibrio: el socio operador gestiona con agilidad, pero rinde cuentas y respeta los
+  vetos.
+- **La información y la transparencia:** derecho de cada socio a recibir información financiera y de
+  gestión, auditar, y supervisar (especialmente el socio no operador).
+
+**4) La operación y las relaciones con los socios.** Una JV rara vez opera aislada: típicamente hay
+**contratos entre la JV y sus socios** (un socio le **suministra** insumos, otro le **licencia**
+tecnología, otro le **distribuye** el producto). Estos **contratos relacionados** (*ancillary agreements*)
+son tan importantes como el contrato de JV, y deben pactarse **a precio de mercado** (*arm's length*) para
+que un socio no extraiga valor en perjuicio del otro (un riesgo análogo a las **operaciones con partes
+relacionadas** del gobierno corporativo —Nivel III—). Aquí se ve cómo la JV combina **estructura, gobierno
+y contratos** en un solo sistema.
+
+**5) Utilidades, reinversión y financiamiento.** Cómo y cuándo se **reparten** las ganancias (un foco de
+conflicto: un socio puede querer **dividendos** y el otro **reinvertir** para crecer), y cómo se
+**financia** la JV (capital adicional de los socios vs. deuda de la JV co —conecta con el Libro 5—). La
+**política de dividendos vs. reinversión** debe pactarse, porque enfrenta intereses legítimos distintos.
