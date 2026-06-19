@@ -534,3 +534,72 @@ entrada, reduce el poder de un proveedor)? ¿**Refuerza** la estrategia genéric
 liderazgo en costos, más capacidades para la diferenciación)? ¿Genera **sinergias** reales en la cadena de
 valor? El abogado que se hace estas preguntas **asesora sobre el sentido estratégico** del deal —no solo lo
 ejecuta—. Esa es la diferencia entre el técnico y el consejero.
+
+### 14.C · La estrategia corporativa (en qué negocios estar; el M&A como herramienta estratégica)
+
+La estrategia **competitiva** (14.B) pregunta "¿cómo ganar **en un negocio**?"; la estrategia
+**corporativa** —a nivel del **grupo** o de la matriz— pregunta algo distinto: **"¿en qué negocios debemos
+estar, y cómo el conjunto crea más valor que las partes por separado?"**. Es la estrategia de los **grupos
+diversificados** y de los **holdings**, y donde el **M&A** se vuelve la herramienta central —directamente
+relevante para tu perfil—.
+
+**Las preguntas de la estrategia corporativa.**
+- **¿En qué negocios estar (diversificación vs. enfoque)?** ¿Debe la empresa concentrarse en un solo
+  negocio (enfoque —hacer una cosa excelentemente—) o diversificarse en varios (diversificación)? El debate
+  clásico: la **diversificación relacionada** (negocios que comparten capacidades, sinergias —tiene sentido—)
+  vs. la **no relacionada** (conglomerados de negocios sin relación —a menudo destruye valor: el "descuento
+  de conglomerado", porque el mercado valora menos lo que no entiende y porque la matriz no agrega valor—).
+  La tendencia moderna favorece el **enfoque** (los conglomerados se han desmantelado vía *spin-offs*
+  —Libro 3 del Nivel IV—).
+- **¿La matriz agrega valor (*parenting advantage*)?** Una matriz que controla varios negocios solo
+  justifica su existencia si **agrega valor** a esos negocios (capital, gestión, sinergias, gobierno) más
+  de lo que cuesta. Si solo los "administra" sin agregar valor, **destruye** valor (sería mejor que cada
+  negocio fuera independiente). Pregunta clave: *¿por qué estos negocios valen más juntos que separados?*
+- **¿Cómo crecer (orgánico vs. inorgánico)?** Crecer **construyendo** (orgánico: desarrollar nuevos
+  productos, mercados —más lento, menos riesgo—) vs. **comprando** (inorgánico: M&A —más rápido, más
+  riesgo—). La elección depende de la velocidad necesaria, el costo, el riesgo y la disponibilidad de
+  objetivos.
+
+**El M&A como herramienta estratégica (la conexión central con todo tu programa).** El M&A no es un fin en
+sí mismo: es una **herramienta** para ejecutar una estrategia corporativa. Las **lógicas estratégicas**
+legítimas de una adquisición:
+- **Ganar escala** (economías de escala → liderazgo en costos).
+- **Adquirir capacidades/tecnología** (comprar lo que sería lento o caro desarrollar).
+- **Entrar a un mercado** (geográfico o de producto) rápidamente.
+- **Integración vertical** (comprar un proveedor o un cliente para asegurar la cadena o capturar margen).
+- **Consolidación** (comprar competidores para reducir la rivalidad —cuidando la competencia económica—).
+- **Eliminar un competidor** o adquirir un disruptor antes de que crezca.
+- **Diversificación relacionada** (entrar a un negocio adyacente con sinergias).
+
+**La advertencia estratégica crucial: la mayoría de los M&A destruyen valor.** Un dato que el abogado de
+M&A debe conocer (y que lo vuelve un mejor asesor): los estudios muestran que **la mayoría de las
+adquisiciones destruyen valor** para el comprador (no para el vendedor, que cobra la prima). ¿Por qué?
+- **Sobrepago:** pagar de más (sobre todo en subastas competitivas —"la maldición del ganador"— o por
+  exceso de confianza del CEO).
+- **Sinergias ilusorias:** prometer sinergias que no se materializan (más fáciles de prometer que de
+  capturar).
+- **Integración fallida:** la dificultad de **integrar** dos organizaciones (culturas, sistemas, personas)
+  —donde se gana o se pierde el valor—.
+- **"Construcción de imperios" (*empire building*):** CEOs que adquieren por **ego o poder** (una empresa
+  más grande, más prestigio, más sueldo), no por lógica estratégica —un problema de **agencia** (gobierno
+  corporativo —Libro 8—)—.
+*Para el abogado:* esto es **oro** para asesorar. El abogado que entiende la estrategia puede hacer la
+pregunta que protege al cliente (y al consejo): **"¿este deal de verdad crea valor (hay lógica estratégica
+y sinergias reales), o estamos sobrepagando por un deal que destruirá valor?"**. Y el consejo, por sus
+deberes fiduciarios, **debe** hacerse esa pregunta (decidir informado —no por construcción de imperios—).
+El abogado-estratega aporta esa **disciplina**.
+
+**Cómo se evalúa estratégicamente un M&A (las preguntas del socio-estratega).** Ante una adquisición
+propuesta, el abogado que piensa estratégicamente pregunta:
+1. **¿Cuál es la lógica estratégica?** ¿Qué ventaja competitiva crea o defiende? (escala, capacidades,
+   mercado, integración).
+2. **¿Las sinergias son reales y capturables?** (no ilusorias; ¿cómo y cuándo se materializan?).
+3. **¿El precio es razonable?** (¿se paga de más? —conexión con la valuación, Libro 3—; ¿la prima se
+   justifica con las sinergias?).
+4. **¿Se puede integrar?** (el valor se gana en la integración —¿hay un plan?, ¿son compatibles las
+   culturas?).
+5. **¿Es la mejor forma de lograr el objetivo?** (¿comprar, construir o aliarse? —Libro 6 del Nivel IV—).
+6. **¿Es estrategia o ego?** (¿hay lógica de negocio o "construcción de imperio"?).
+*Estas preguntas* convierten al abogado de "ejecutor del deal" en "asesor de la decisión" —el rol de mayor
+valor—. Conectan toda tu formación: la estrategia (este libro), la valuación (Libro 3), las finanzas (Libro
+2), la negociación (Libro 1), la estructura (Nivel IV) y el gobierno (¿el consejo decide informado?).
