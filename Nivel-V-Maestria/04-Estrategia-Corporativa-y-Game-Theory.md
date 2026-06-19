@@ -289,3 +289,133 @@ la formación del abogado corporativo de élite: no solo dominar el derecho, las
 negociación, sino **pensar estratégicamente** —ver el tablero completo, entender el porqué, y anticipar los
 movimientos de los demás—. El **socio-estratega** que las empresas y los fondos buscan como **asesor de
 confianza**.
+
+## 10. Definiciones doctrinales
+
+La doctrina de la estrategia y la teoría de juegos define los conceptos centrales así:
+
+- **Estrategia:** el conjunto de **decisiones integradas** sobre **dónde competir y cómo ganar**, dirigidas
+  a lograr una **ventaja competitiva sostenible**. Porter la define por el **posicionamiento** (elegir una
+  posición única y defendible) y por lo que se decide **no hacer** (la estrategia es elección y renuncia).
+- **Ventaja competitiva:** la capacidad de una empresa de generar **valor superior** (rentabilidad por
+  encima de sus rivales y de su costo de capital) de forma **sostenida**. Sus fuentes: menor costo o mayor
+  diferenciación, protegidas por **barreras** (*moats*).
+- **Las cinco fuerzas (Porter):** los cinco factores que determinan la **rentabilidad** de una industria:
+  rivalidad entre competidores, amenaza de **nuevos entrantes**, poder de negociación de **proveedores**,
+  poder de **clientes**, y amenaza de **productos sustitutos**.
+- **Estrategias genéricas (Porter):** las tres formas de competir: **liderazgo en costos** (ser el más
+  barato), **diferenciación** (ofrecer algo único por lo que se paga más), y **enfoque** (especializarse en
+  un nicho).
+- **Cadena de valor (Porter):** el conjunto de actividades de una empresa (de aprovisionamiento a
+  posventa); la ventaja viene de realizar algunas mejor o distinto que los rivales.
+- ***Moat* (foso / barrera):** la "muralla" que protege la ventaja competitiva de la imitación (economías
+  de escala, marca, efectos de red, costos de cambio, patentes) —término de Buffett—.
+- **Estrategia corporativa (vs. competitiva):** la **competitiva** es cómo ganar **en un negocio**; la
+  **corporativa** es **en qué negocios estar** y cómo el conjunto (el grupo) crea más valor que las partes
+  por separado.
+- **Teoría de juegos:** el estudio matemático de la **decisión estratégica interdependiente** —cómo decidir
+  cuando el resultado depende de las decisiones de **otros** que también deciden estratégicamente—.
+- **Equilibrio de Nash:** una situación en la que **ningún jugador** puede mejorar su resultado **cambiando
+  unilateralmente** su estrategia (dado lo que hacen los demás). El concepto central de la teoría de juegos.
+- **Dilema del prisionero:** el juego clásico donde la **racionalidad individual** lleva a un resultado
+  **peor para todos** (ambos "traicionan" cuando cooperar los beneficiaría) —explica las guerras de precios
+  y la dificultad de cooperar—.
+
+## 11. Definiciones legales y marco normativo
+
+La estrategia y la teoría de juegos no son ramas jurídicas, pero el **derecho enmarca y limita** la
+estrategia competitiva:
+
+- **Derecho de la competencia (LFCE / antitrust — el límite central):** prohíbe las formas **ilegítimas**
+  de ventaja: **prácticas monopólicas absolutas** (colusión entre competidores —fijar precios, repartir
+  mercados—, gravísimas), **prácticas monopólicas relativas** (abuso de poder de mercado: exclusión,
+  ventas atadas, depredación), y las **concentraciones** que reduzcan la competencia. Marca la frontera
+  entre competir por **mérito** (legítimo) y por **exclusión/colusión** (ilegítimo).
+- **Propiedad intelectual (LFPPI, derechos de autor):** **patentes**, **marcas** y **secretos** como
+  fuentes de ventaja competitiva **protegidas por el derecho** (barreras de entrada legales).
+- **Regulación sectorial y concesiones:** licencias, concesiones y autorizaciones como barreras de entrada
+  reguladas (quien las tiene, tiene ventaja).
+- **Gobierno corporativo (LMV/LGSM):** el **consejo** aprueba la estrategia y las grandes operaciones; los
+  **deberes fiduciarios** exigen que las decisiones estratégicas se tomen **informadas** y en interés de la
+  sociedad (Libro 8 del Nivel IV).
+- **Contratación y regulación como "jugadas":** los contratos (exclusividades, no competencia
+  —razonables—), la regulación y los litigios son **movimientos estratégicos** sujetos al derecho.
+
+> **Nota de método:** la estrategia busca ventaja; el **derecho de la competencia** marca el límite de
+> cómo obtenerla lícitamente. El abogado de operaciones estratégicas debe conocer esa frontera (Manifiesto
+> XI.5). La teoría de juegos **explica** conductas (como la colusión), pero el derecho determina cuáles son
+> **lícitas**.
+
+## 12. Definición sencilla
+
+**La estrategia, con el ajedrez.** Jugar a los negocios es como jugar **ajedrez**: no basta saber **cómo se
+mueven las piezas** (el derecho, las finanzas —lo que ya aprendiste—); hay que tener un **plan para ganar**
+(la estrategia) y **anticipar las jugadas del rival** (la teoría de juegos). El mal jugador mira solo la
+jugada inmediata ("me como este peón"); el **maestro** ve el **tablero completo** y piensa **varios
+movimientos adelante** ("si muevo aquí, él responderá allá, y entonces yo..."). La **estrategia** es tu
+plan para lograr una posición ganadora **sostenible** (una ventaja que el rival no pueda quitarte); la
+**teoría de juegos** es anticipar y responder a lo que hará el otro.
+
+**Las cinco fuerzas, con un restaurante.** ¿Por qué un restaurante gana mucho dinero y otro apenas
+sobrevive? No solo por cómo cocina, sino por su **entorno competitivo** (las cinco fuerzas): ¿hay **muchos
+restaurantes** iguales compitiendo (rivalidad alta → precios bajos)? ¿Es **fácil** que abra uno nuevo
+enfrente (entrantes)? ¿El **proveedor** de ingredientes es único y caro (proveedor poderoso)? ¿Los
+**clientes** comparan y exigen (cliente poderoso)? ¿La gente puede **comer en casa o pedir a domicilio**
+(sustitutos)? Un restaurante en un lugar único, sin competencia cerca, con clientes fieles y proveedores
+baratos, **gana mucho**; uno rodeado de competidores idénticos, **apenas sobrevive**. La estrategia es
+elegir y crear un entorno **favorable** y una **ventaja** que los demás no puedan copiar.
+
+**El dilema del prisionero, con dos gasolineras.** Dos gasolineras frente a frente. Si **ambas** mantienen
+precios altos, **ambas** ganan bien. Pero cada una piensa: "si **yo bajo** el precio y el otro no, le robo
+todos los clientes". Así que **ambas bajan** el precio (racionalidad individual) → y **ambas ganan menos**
+(el peor resultado para las dos). Eso es el **dilema del prisionero**: la lógica individual lleva a un
+resultado **peor para todos**; cooperar (mantener precios) los beneficiaría, pero la desconfianza y el
+incentivo a "traicionar" lo impiden. Explica las **guerras de precios** —y por qué coludirse para evitarlas
+es tentador (pero **ilegal**)—.
+
+La idea sencilla: pensar estratégicamente es **ver el tablero completo y anticipar al rival** (no solo la
+jugada inmediata), buscar una **ventaja que los demás no puedan copiar**, y entender que en los negocios —
+como en el ajedrez— **tu mejor jugada depende de lo que hará el otro**.
+
+## 13. Conceptos fundamentales
+
+Fija este vocabulario; integra la estrategia y la teoría de juegos:
+
+**Estrategia competitiva (Porter):**
+- **Ventaja competitiva (sostenible):** rentabilidad superior y duradera; protegida por **barreras/moats**.
+- **Las cinco fuerzas:** rivalidad, entrantes, proveedores, clientes, sustitutos (determinan la
+  rentabilidad de la industria).
+- **Estrategias genéricas:** liderazgo en **costos**, **diferenciación**, **enfoque** (nicho).
+- **Cadena de valor:** las actividades de la empresa; la ventaja viene de hacerlas mejor o distinto.
+- ***Moats* (fuentes de ventaja sostenible):** economías de **escala**, **marca**, **efectos de red**
+  (cuanto más usuarios, más valor —plataformas—), **costos de cambio** (es caro cambiarse), **patentes/
+  regulación** (barreras legales), **ventaja de costos** (acceso a insumos, curva de experiencia).
+
+**Estrategia corporativa (a nivel del grupo):**
+- **Diversificación vs. enfoque:** ¿en cuántos/qué negocios estar?
+- **Crecimiento orgánico vs. inorgánico (M&A):** crecer construyendo vs. comprando.
+- **El M&A como herramienta estratégica:** ¿el deal crea ventaja/sinergias reales o destruye valor
+  (sobrepago, "imperio")? (la mayoría de los M&A destruyen valor —disciplina estratégica—).
+- ***Parenting advantage*:** ¿la matriz **agrega valor** a sus negocios (o solo los administra)?
+
+**Teoría de juegos:**
+- **Jugadores, estrategias, pagos (*payoffs*):** los elementos de un juego.
+- **Equilibrio de Nash:** nadie mejora cambiando unilateralmente su estrategia.
+- **Juegos clásicos:** **dilema del prisionero** (cooperar vs. traicionar —guerras de precios—); **juego de
+  la gallina** (*chicken* —quién cede primero—); **juegos de coordinación** (todos ganan si coordinan).
+- **Juegos de suma cero vs. suma positiva:** lo que uno gana el otro lo pierde, vs. ambos pueden ganar
+  (crear valor —eco de la negociación, Libro 1—).
+- **Juegos secuenciales y la inducción hacia atrás:** anticipar los movimientos futuros razonando "desde el
+  final" (¿qué hará el otro si yo hago esto?).
+- **Credibilidad, compromiso y amenazas:** una amenaza/promesa solo influye si es **creíble** (Schelling);
+  el **compromiso** creíble (quemar las naves) puede ganar.
+- **Juegos repetidos y la cooperación:** en interacciones repetidas, **cooperar** puede ser racional (la
+  traición se castiga en el futuro —fundamento "de juego" de la **reputación** y la **integridad**—).
+- ***Co-opetition*:** competir y cooperar a la vez (Brandenburger & Nalebuff).
+
+**La integración:**
+- **El "por qué" estratégico** detrás de cada operación (Nivel IV).
+- **Pensar interactivamente:** anticipar a competidores, contrapartes y reguladores.
+- **Ver el tablero completo:** varios movimientos adelante, no solo la jugada inmediata.
+
+Con este vocabulario, entramos al **desarrollo absoluto**.
