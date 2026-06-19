@@ -70,7 +70,7 @@ integridad. Este archivo es el tablero de control.
 |---|---------|--------|-----------|
 | 1 | Negociación de alto nivel | ✅ | 4–5 sem |
 | 2 | Finanzas y contabilidad para abogados | ✅ | 5–6 sem |
-| 3 | Valuación de empresas | ⬜ | 5–6 sem |
+| 3 | Valuación de empresas | ✅ | 5–6 sem |
 | 4 | Estrategia corporativa y Game Theory | ⬜ | 4–5 sem |
 
 ---
