@@ -592,3 +592,59 @@ riesgo-rendimiento— explican **casi todo** en las operaciones que estructuras:
 *La lección:* entender que **el dinero tiene valor en el tiempo y que el riesgo se paga** es lo que permite
 al abogado razonar **financieramente** —y entender la lógica económica detrás de cada cláusula y cada
 estructura—.
+
+### 14.D · El costo y la estructura de capital (WACC, deuda vs. equity)
+
+Una empresa se financia con **dinero** que tiene un **costo** —y entender ese costo es esencial para
+valuar, para estructurar financiamientos y para entender el apalancamiento (el LBO del Libro 5)—. Dos
+preguntas: ¿cuánto **cuesta** el capital? y ¿cuál es el **mix óptimo** de deuda y equity?
+
+**El costo de capital (cuánto cuesta financiarse).** El capital no es gratis: quien lo aporta exige un
+**rendimiento**. Hay dos fuentes, con costos distintos:
+- **Costo de la deuda:** la **tasa de interés** que paga la empresa por su deuda. Es **relativamente
+  barata** porque: (i) el acreedor asume **menos riesgo** (cobra primero, tiene garantías, la empresa
+  **debe** pagarle pase lo que pase) → exige menos rendimiento; y (ii) los **intereses suelen ser
+  deducibles** de impuestos (el "**escudo fiscal**" —el costo real de la deuda es menor por el ahorro de
+  impuestos—).
+- **Costo del equity:** el rendimiento que exigen los **accionistas**. Es **más caro** que la deuda porque
+  el accionista asume **más riesgo** (cobra **al final** —después de acreedores—, no tiene garantía, su
+  rendimiento es incierto) → exige una **prima** mayor. Se estima con el **CAPM** (tasa libre de riesgo +
+  prima de riesgo según la "beta" de la empresa).
+- **El WACC (*Weighted Average Cost of Capital* / costo promedio ponderado de capital):** combina ambos,
+  ponderados por su peso en la estructura: **WACC = (peso deuda × costo deuda después de impuestos) + (peso
+  equity × costo equity)**. Es el **costo total** de financiar la empresa —y, crucialmente, la **tasa de
+  descuento** que se usa para valuar (DCF —Libro 3—) y el **"umbral" de rentabilidad** (una inversión solo
+  crea valor si rinde **más** que el WACC)—.
+
+**La estructura de capital (el mix deuda/equity y el apalancamiento).** ¿Cuánta deuda y cuánto equity debe
+usar una empresa? Esta es una de las grandes preguntas de las finanzas:
+- **El teorema de Modigliani-Miller (el punto de partida teórico):** en un mundo **ideal** (sin impuestos
+  ni costos de quiebra), el **valor de la empresa no depende** de cómo se financie (deuda o equity) —solo
+  depende de sus activos y flujos—. Es un punto de partida teórico que se **matiza** en el mundo real.
+- **En el mundo real, la deuda tiene ventajas:** el **escudo fiscal** (los intereses deducibles bajan los
+  impuestos —la deuda "ahorra" impuestos—) hace que **algo** de deuda **aumente** el valor. Por eso las
+  empresas se endeudan (y por eso el LBO usa tanta deuda —el escudo fiscal es parte de su lógica—).
+- **Pero la deuda tiene un límite —el riesgo de insolvencia:** demasiada deuda **aumenta el riesgo de
+  quiebra** (hay que pagarla pase lo que pase; si el flujo no alcanza, la empresa colapsa) y los **costos
+  de dificultades financieras**. Hay un **punto óptimo** (la "estructura de capital óptima") donde el
+  beneficio fiscal de la deuda se equilibra con el riesgo que añade.
+- **El apalancamiento amplifica (la lección del LBO):** financiar con deuda **amplifica** el rendimiento
+  del equity cuando las cosas van bien (poco equity controla un activo grande —Libro 5—) **y** las pérdidas
+  cuando van mal. La misma palanca que multiplica las ganancias puede **quebrar** la empresa. Por eso el
+  PE/LBO es poderoso y peligroso (Libro 7).
+
+**Por qué esto importa para el abogado.** Entender el costo y la estructura de capital ilumina las
+operaciones del Nivel IV:
+- **En el LBO (Libros 5 y 7):** explica por qué los fondos usan **deuda** (es barata, da escudo fiscal y
+  amplifica el retorno del equity) y por qué hay un **límite** (demasiada deuda quiebra a la empresa). El
+  abogado entiende la **lógica** de la estructura que documenta.
+- **En la valuación (Libro 3):** el **WACC** es la **tasa de descuento** del DCF —errar el WACC distorsiona
+  el valor—.
+- **En el financiamiento (Libro 5):** los **covenants** (Deuda/EBITDA) vigilan que la empresa no se
+  sobre-apalanque; el abogado entiende qué protegen.
+- **En la decisión de financiarse con deuda o equity:** el abogado puede asesorar sobre las ventajas
+  (deuda: no diluye, escudo fiscal; equity: no obliga a pagar, no quiebra) y los riesgos de cada una.
+*La lección:* el dinero tiene un **costo** que depende del **riesgo** de quien lo aporta (deuda barata,
+equity caro), y la **estructura de capital** equilibra el beneficio de la deuda (escudo fiscal,
+apalancamiento) con su riesgo (insolvencia). Entender esto es entender la **lógica económica** de cómo se
+financian las empresas y las operaciones.
