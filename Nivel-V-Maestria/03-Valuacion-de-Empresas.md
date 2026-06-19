@@ -1036,3 +1036,223 @@ abogado que los domina **protege a su cliente** de la injusticia.
   que ciencia** (sin flujos ni historia, todo es proyección y potencial), de ahí valuaciones volátiles y
   burbujas. Es legítimo valuarlas (con métodos especiales), pero con **humildad** sobre la incertidumbre —y
   escepticismo ante valuaciones de "unicornio" desconectadas de los fundamentos—.
+
+## 30. Errores comunes
+
+- **Confundir valor con precio.** Creer que la valuación "dice" el precio, o que el precio refleja el "valor
+  real". *Corrección:* el valor estima; la negociación fija el precio. Usa la valuación como munición.
+- **Creer en un número exacto.** Aceptar "el valor es X" como verdad. *Corrección:* exige un **rango**
+  (*football field*) y varios métodos.
+- **No cuestionar los supuestos del DCF.** Aceptar proyecciones infladas, valor terminal optimista o WACC
+  bajo. *Corrección:* interroga cada supuesto; pide análisis de sensibilidad.
+- **Usar comparables malos.** Aplicar múltiplos de empresas no comparables (distinto sector, tamaño,
+  crecimiento). *Corrección:* exige comparables de verdad similares y ajusta por diferencias.
+- **Mezclar múltiplo y métrica.** Aplicar EV/EBITDA a la utilidad neta, o P/E al EBITDA. *Corrección:*
+  EV/EBITDA con EBITDA; P/E con utilidad neta (Libro 2).
+- **Confundir EV con equity value.** Tratar el valor del negocio como el precio de las acciones.
+  *Corrección:* equity value = EV − deuda neta.
+- **Ignorar sinergias, prima de control o descuentos.** No considerar por qué el precio difiere del valor
+  standalone. *Corrección:* analiza sinergias (M&A), prima de control (adquisiciones), descuentos (minoría/
+  iliquidez en privadas).
+- **No vigilar la independencia de quien valúa.** Aceptar una valuación de una parte interesada o con
+  conflicto. *Corrección:* exige independencia; identifica la dirección del sesgo.
+- **Sobrevaluar startups.** Aceptar valuaciones de "unicornio" desconectadas de los fundamentos.
+  *Corrección:* escepticismo; entiende que es proyección/potencial, no flujos reales.
+
+## 31. Mitos frecuentes
+
+- **"La valuación da el valor exacto de la empresa."** **Falso.** Da un **rango** estimado, sensible a
+  supuestos. No hay un "valor exacto" único.
+- **"El DCF es objetivo porque es matemático."** **Falso.** Es riguroso en el método pero **sensible a
+  supuestos** (proyecciones, tasa, valor terminal) que pueden manipularse. "Garbage in, garbage out".
+- **"El precio que se pagó es el valor de la empresa."** **Falso/matizado.** El precio refleja el valor
+  **para ese comprador** (con sus sinergias), su poder de negociación y las circunstancias —no el valor
+  "objetivo"—.
+- **"Una empresa vale lo que tiene (sus activos)."** **Falso** (para empresas en marcha). Vale por lo que
+  **producirá** (flujos), no por lo que posee. El valor de activos es para crisis o empresas patrimoniales.
+- **"Los múltiplos son la verdad del mercado."** **Falso/matizado.** Reflejan el mercado, pero **heredan
+  sus errores** (burbujas) y dependen de buenos comparables.
+- **"El control no cambia el valor por acción."** **Falso.** El control vale más (prima de control); una
+  minoría vale menos (descuento).
+- **"El abogado no necesita entender valuación."** **Falso.** Sin entenderla, no puede negociar el precio ni
+  cuestionar el número del otro lado.
+
+## 32. Preguntas difíciles
+
+1. **¿Por qué valor no es precio?** Porque el **valor** es una estimación (según un método y supuestos) de
+   cuánto "debería valer" algo; el **precio** es lo que efectivamente se paga, resultado de la negociación,
+   el poder relativo, las sinergias del comprador concreto y las circunstancias del mercado. El valor
+   **informa** el precio (da el rango y los argumentos), pero no lo determina.
+2. **¿Por qué el valor terminal domina el DCF y por qué es peligroso?** Porque captura el valor de la
+   empresa **más allá** del periodo de proyección explícita (los flujos "a perpetuidad"), que suele ser la
+   **mayor parte** del valor (60-80%); y es **muy sensible** a sus supuestos (tasa de crecimiento perpetuo,
+   múltiplo de salida). Pequeños cambios lo mueven mucho, así que el DCF se puede "construir" ajustándolo.
+3. **¿Por qué un comprador estratégico paga más que uno financiero?** Por las **sinergias**: el estratégico
+   (del mismo sector) crea valor adicional al combinar la empresa con la suya (ahorros, ventas cruzadas), así
+   que la empresa vale **más para él**. El financiero (PE), sin sinergias operativas, valúa más cerca del
+   standalone.
+4. **¿Por qué una participación minoritaria en una empresa privada vale tan poco?** Por dos descuentos: el
+   **de minoría** (no tiene control —no decide—) y el **de iliquidez** (es difícil de vender —no hay
+   mercado para las acciones de una empresa privada—). Ambos pueden sumar 40-50% de reducción —decisivo en
+   litigios y empresa familiar—.
+5. **¿Cómo se cuestiona un DCF inflado?** Interrogando los tres componentes: ¿las **proyecciones** son
+   realistas (vs. el histórico y la industria)? ¿El **valor terminal** usa un crecimiento perpetuo
+   razonable (no mayor que la economía) y representa una parte sensata del valor? ¿El **WACC** es defendible
+   para el riesgo? Y pidiendo un **análisis de sensibilidad** (cómo cambia el valor al variar los
+   supuestos).
+
+## 33. Casos de examen (con respuesta modelo)
+
+**Caso A.** *El banquero del vendedor presenta una valuación de $1,200 basada solo en un DCF. ¿Qué haces
+como abogado del comprador?*
+**Respuesta modelo:** **(1)** Pedir el ***football field*** completo (no solo el DCF): ¿qué dicen los
+**múltiplos de comparables** y las **transacciones precedentes**? Si solo muestran el DCF (el método más
+manipulable), sospechar. **(2)** **Cuestionar los supuestos del DCF:** ¿proyecciones realistas (vs.
+histórico)? ¿valor terminal razonable (% del valor, crecimiento perpetuo)? ¿WACC defendible? **(3)** Pedir
+**análisis de sensibilidad**. **(4)** Verificar la **independencia** del banquero (¿cobra por cerrar?).
+**(5)** Recalcular con supuestos realistas y **negociar desde ese número** con criterios objetivos.
+
+**Caso B.** *Tu cliente (comprador estratégico) calcula que la empresa vale $1,000 standalone, pero con
+sinergias vale $1,400 para él. ¿Cuánto debe ofrecer?*
+**Respuesta modelo:** Depende de la **competencia**: si tu cliente es el **único** comprador con esas
+sinergias, debe ofrecer cerca del **standalone** ($1,000-1,100) y **capturar** las sinergias él (no
+pagarlas); si **compiten varios** compradores con sinergias, el precio subirá hacia el valor con sinergias
+($1,400). *Estrategia:* no revelar el monto total de tus sinergias (el vendedor querría capturarlas); anclar
+en el valor standalone y criterios de mercado; intentar exclusividad para evitar la competencia que sube el
+precio.
+
+**Caso C.** *En un litigio, un socio minoritario (25%) de una empresa familiar privada quiere salir. La
+empresa vale $1,000. ¿Cuánto vale su participación?*
+**Respuesta modelo:** Punto de partida: 25% × $1,000 = $250. Pero se aplican **descuentos**: por **minoría**
+(no tiene control) y por **iliquidez** (empresa privada, difícil de vender). Según el caso, los descuentos
+pueden reducir el valor a ~$150-180. *El abogado del que sale* argumenta descuentos **menores** (o que no
+apliquen si los estatutos prevén un mecanismo de salida a valor proporcional); *el abogado del que se queda*
+argumenta descuentos **mayores**. La diferencia se **litiga** con peritos. Razonar: los descuentos son
+decisivos y discutibles —y dependen también de lo que digan los estatutos/SHA—.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Instrucciones:** asesoras al comprador en la adquisición de una empresa. Te entregan: EBITDA $100,
+> proyecciones de crecimiento del 12% anual (histórico: 5%), deuda neta $300, comparables a 6-8x EV/EBITDA,
+> transacciones precedentes a 8-10x. Analiza el valor antes de leer la guía.
+
+1. ¿Qué valor dan los **múltiplos** (comparables y transacciones)?
+2. ¿Qué cuestionas del **DCF** (las proyecciones)?
+3. ¿Por qué difieren los múltiplos de comparables y de transacciones?
+4. ¿Cuál es el **equity value** (lo que se paga por las acciones)?
+5. ¿Cómo usas todo esto para **negociar el precio**?
+
+> **Guía de solución (resumen).** **(1) Múltiplos:** comparables (6-8x × 100 = EV de 600-800);
+> transacciones precedentes (8-10x × 100 = EV de 800-1,000). **(2) DCF:** las proyecciones del 12% vs. un
+> histórico del 5% parecen **infladas** —recalcular con un crecimiento realista—; cuestionar valor terminal
+> y WACC. **(3) Difieren** porque las **transacciones precedentes incluyen prima de control** (son
+> adquisiciones), mientras los **comparables de mercado** son precios de minoría —de ahí que las
+> transacciones den múltiplos mayores—. **(4) Equity value** = EV − deuda neta (p. ej., si el EV razonable
+> es ~750, equity value = 750 − 300 = **450**). **(5) Negociar:** usar el extremo **bajo** del rango
+> (comparables, ~600-700 de EV) como ancla y criterio objetivo; cuestionar el DCF inflado del vendedor;
+> argumentar que las sinergias las crea el comprador; buscar el equity value más bajo defendible (Libro 1).
+
+## 35. Flashcards
+
+- **¿Valor vs. precio?** Valor = estimación (según método y supuestos); precio = lo que se paga (negociación
+  y mercado). El valor informa, no determina.
+- **¿Los métodos de valuación?** DCF (flujos), múltiplos (comparación), valor de activos (lo que tiene).
+- **¿DCF?** Valor presente de los flujos futuros, descontados al WACC. Componentes: proyección + valor
+  terminal + WACC.
+- **¿Por qué el valor terminal es clave?** Es la mayor parte del valor del DCF (60-80%) y la más sensible.
+- **¿Múltiplos de mercado vs. transacciones precedentes?** Empresas públicas similares (precio de minoría)
+  vs. deals comparables (incluyen prima de control).
+- **¿EV/EBITDA?** El múltiplo más usado en M&A.
+- **¿El football field?** El rango de valor según cada método (la "verdad" es un rango).
+- **¿Sinergias?** Valor adicional de combinar empresas (el estratégico paga más que el standalone).
+- **¿Prima de control?** Sobreprecio por el control (vs. minoría); ~20-40%.
+- **¿Descuento por iliquidez/minoría?** Menor valor de participaciones difíciles de vender / sin control.
+- **¿Valor de activos?** Para empresas en crisis (liquidación) o patrimoniales; no para empresas en marcha.
+- **¿La regla de oro?** "Valor no es precio; la valuación es tan buena como sus supuestos; usa un rango."
+
+## 36. Mapas mentales
+
+```
+                     VALUACIÓN DE EMPRESAS
+                              |
+   ┌──────────────┬──────────┼───────────────┬──────────────────┐
+ QUÉ ES          DCF         MÚLTIPLOS        ACTIVOS +          AVANZADO
+ (valor ≠ precio; (flujos     (comparables de  COMBINACIÓN        sinergias,
+ enfoques:       futuros      mercado +        (valor de          prima de control,
+ ingresos,       descontados  transacciones    activos para       descuentos,
+ mercado,        al WACC;     precedentes;     crisis; football   startups;
+ activos)        valor        EV/EBITDA, P/E)  field = RANGO)     valuación en
+                 terminal)                                        la práctica
+```
+
+```
+              EL FOOTBALL FIELD (rango de valor)
+   DCF                   |━━━━━━━━━━|
+   Comparables mercado      |━━━━━━━|
+   Transacciones preced.       |━━━━━━━━|  (incluyen prima de control)
+   Valor de activos      |━━━| (piso)
+                         └─────── RANGO RAZONABLE ───────┘
+                    (la "verdad" es el rango donde convergen)
+```
+
+## 37. Cuadros comparativos
+
+**Los métodos de valuación**
+
+| Método | Basado en | Fortaleza | Debilidad |
+|---|---|---|---|
+| DCF | Flujos futuros | Conceptualmente el más sólido | Muy sensible a supuestos |
+| Comparables de mercado | Empresas públicas similares | Rápido, "lo que paga el mercado" | Necesita buenos comparables |
+| Transacciones precedentes | Deals comparables | Refleja lo pagado (+ prima control) | Deals pueden no ser comparables |
+| Valor de activos | Lo que la empresa tiene | Útil en crisis / patrimoniales | No para empresas en marcha |
+
+**Prima vs. descuentos**
+
+| Concepto | Efecto | Cuándo |
+|---|---|---|
+| Prima de control | + valor (~20-40%) | Adquisición de control |
+| Descuento por minoría | − valor | Participación sin control |
+| Descuento por iliquidez | − valor (~20-30%) | Empresa privada (sin mercado) |
+| Sinergias | + valor (para el estratégico) | Comprador del mismo sector |
+
+**Valor vs. Precio**
+
+| | Valor | Precio |
+|---|---|---|
+| Qué es | Estimación (método + supuestos) | Lo que se paga |
+| Determinado por | Métodos de valuación | Negociación y mercado |
+| Forma | Rango | Punto (el acordado) |
+
+## 38. Diagramas
+
+**El DCF (lógica):**
+```
+PROYECTAR flujos de efectivo libres (5-10 años)
+   + VALOR TERMINAL (los flujos "a perpetuidad" — la mayor parte)
+   ↓ DESCONTAR todo al WACC (refleja riesgo y tiempo)
+   = ENTERPRISE VALUE
+   − deuda neta = EQUITY VALUE
+   [cuestionar: ¿proyecciones realistas? ¿valor terminal razonable? ¿WACC defendible?]
+```
+
+**Del valor al precio:**
+```
+VALOR STANDALONE (DCF + múltiplos = football field, un rango)
+   + sinergias (para el comprador estratégico)
+   + prima de control (adquisición de control)
+   − descuentos (minoría / iliquidez, en participaciones)
+   ↓ NEGOCIACIÓN (poder relativo, competencia de postores, urgencia)
+   = PRECIO (lo que efectivamente se paga)
+```
+
+## 39. Mnemotecnias
+
+- **La regla de oro:** *"el valor es lo que recibes; el precio es lo que pagas"* (Buffett).
+- **Los tres métodos:** *"flujos (DCF), comparación (múltiplos), o lo que tiene (activos)"*.
+- **DCF:** *"proyecta, ponle valor terminal, descuenta al WACC —y cuestiona los supuestos"*.
+- **Valor terminal:** *"es la mayor parte y la más sensible: ahí se infla el DCF"*.
+- **Múltiplos:** *"vale como lo similar —si los comparables son buenos y el mercado no está loco"*.
+- **Mercado vs. transacciones:** *"comparables = minoría; transacciones = control (con prima)"*.
+- **Football field:** *"no un número, un rango donde convergen los métodos"*.
+- **Ajustes:** *"sinergias y control suben; minoría e iliquidez bajan"*.
+- **Garbage in, garbage out:** *"el DCF es tan bueno como sus supuestos"*.
