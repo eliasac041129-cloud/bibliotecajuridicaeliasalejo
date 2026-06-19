@@ -899,3 +899,140 @@ opinion*, prima de control) son **universales** y se usan en inglés en todo el 
 este vocabulario (en español e inglés) es parte del oficio del abogado de operaciones internacionales —es
 la *lingua franca* de la valuación global, indispensable para dialogar con banqueros y fondos
 internacionales—.
+
+## 22. Derecho comparado
+
+La valuación es universal en sus métodos, pero su uso regulatorio varía. Tabla:
+
+| Jurisdicción / sistema | Uso y marco de la valuación |
+|---|---|
+| **México** | *Fairness opinions* en OPAs (LMV/CNBV); valuación para fusiones/escisiones (relación de canje) y derecho de separación (LGSM); valor de mercado en precios de transferencia (CFF); peritajes en litigios. Métodos: estándares internacionales (DCF, múltiplos). |
+| **EE.UU. / Delaware** | Riquísimo *case law* sobre **valuación en litigios** (*appraisal rights*: el accionista disidente puede pedir a la corte que determine el "valor justo" de sus acciones); las cortes de Delaware analizan DCF y comparables; debate sobre el peso del **precio del deal** vs. el DCF. |
+| **Reino Unido / UE** | *Fairness opinions* y valuación en adquisiciones reguladas (Takeover Code); valor razonable contable (IFRS). |
+| **Estándares de valuación** | **International Valuation Standards (IVS)**; guías de cuerpos profesionales (CFA Institute, ASA); en México, normas de la profesión valuadora. |
+| **Contabilidad (fair value)** | NIF/IFRS exigen **valor razonable** para ciertas partidas (instrumentos financieros, *impairment* de goodwill) —valuación con consecuencias contables—. |
+| **Teoría (universal)** | Los métodos (DCF, múltiplos, activos) y conceptos (WACC, prima de control, descuentos) son **universales** —no cambian por país, aunque el riesgo país afecta las tasas—. |
+| **Síntesis** | Los **métodos** de valuación son universales; su **uso regulatorio** (fairness opinions, appraisal, fair value, precios de transferencia) varía por jurisdicción. El *case law* de **Delaware** sobre *appraisal* es la referencia mundial en valuación litigiosa. |
+
+**Lección comparada:** los métodos de valuación son globales, pero su **relevancia jurídica** se concreta en
+instituciones específicas: las *fairness opinions* (M&A), el *appraisal* (litigio de valuación —Delaware es
+el referente—), el *fair value* (contabilidad), y los precios de transferencia (fiscal). El abogado debe
+saber **dónde** y **cómo** la valuación tiene consecuencias jurídicas.
+
+## 23. Derecho mexicano
+
+En México, la valuación tiene relevancia jurídica en:
+- **Mercado de valores (LMV/CNBV):** *fairness opinions* y precio justo en **OPAs**; valuación de emisoras.
+- **Reorganizaciones (LGSM):** valuación para la **relación de canje** en fusiones/escisiones; valuación de
+  la participación del socio que ejerce el **derecho de separación**.
+- **Fiscal (CFF, LISR):** **valor de mercado** en operaciones entre partes relacionadas (precios de
+  transferencia); valor en reorganizaciones y aportaciones.
+- **Litigios:** valuación pericial en **separación de socios**, **daños** (lucro cesante), **expropiaciones**
+  (indemnización justa) y disputas familiares.
+- **Contabilidad (NIF):** **valor razonable** para ciertas partidas; *impairment* del goodwill.
+- **Gobierno corporativo (LMV/LGSM):** la *fairness opinion* como parte del proceso informado del consejo
+  (deber de diligencia).
+
+> **Nota de método:** el abogado **entiende y cuestiona** la valuación; la **ejecución técnica** la hacen
+> valuadores/peritos. Verifica el marco aplicable y las normas de valuación vigentes (Manifiesto XI.5).
+
+## 24. Jurisprudencia relevante
+
+> *Nota de método: verifica vigencia y datos de identificación antes de citar.*
+
+Criterios mexicanos relevantes:
+- **Valuación de la participación en el derecho de separación (LGSM):** cómo se determina el valor a
+  reembolsar al socio que se separa.
+- **Precio justo en OPAs (LMV):** criterios sobre la protección de minoritarios y la valuación.
+- **Valor de mercado en precios de transferencia (CFF):** criterios fiscales sobre operaciones entre partes
+  relacionadas.
+- **Valuación pericial en litigios:** criterios sobre la prueba pericial de valuación, su desahogo y
+  valoración por el juez.
+- **Indemnización justa en expropiaciones:** criterios sobre cómo valuar lo expropiado.
+
+En el ámbito internacional, el ***case law* de Delaware sobre *appraisal rights*** (cómo las cortes
+determinan el "valor justo" —el peso del DCF vs. el precio del deal—) es la referencia mundial en valuación
+litigiosa y estudio recomendado.
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **CNBV:** regulación de **OPAs** (precio justo, *fairness opinion*) y valuación de emisoras.
+- **SAT / SHCP:** **valor de mercado** y precios de transferencia (operaciones entre partes relacionadas).
+- **SCJN / tribunales:** criterios sobre **valuación en el derecho de separación**, **indemnización justa**
+  (expropiación), **daños**, y la **prueba pericial** de valuación.
+- **Cuerpos de valuadores profesionales:** normas técnicas de valuación (y su relevancia en peritajes).
+
+## 26. Doctrina nacional
+
+La doctrina mexicana sobre valuación se nutre principalmente de la **práctica** (banca de inversión,
+despachos, valuadores profesionales) y de los **estándares internacionales** (la teoría de valuación es
+universal). Lo jurídicamente relevante en México es la doctrina sobre los **contextos** donde la valuación
+tiene consecuencias: el **derecho de separación** y las **reorganizaciones** (LGSM), las **OPAs** (LMV), los
+**precios de transferencia** (fiscal), y la **valuación pericial** en litigios. El abogado mexicano complementa
+esta base local con la **doctrina financiera internacional** de valuación (Damodaran, etc.).
+
+## 27. Doctrina internacional
+
+- **Aswath Damodaran (NYU), *Investment Valuation* y *The Dark Side of Valuation*.** **El referente mundial
+  de valuación**, accesible y profundo; sus materiales (libros, web, cursos) son la mejor fuente. Lectura
+  imprescindible para dominar la valuación.
+- **McKinsey (Koller, Goedhart & Wessels), *Valuation: Measuring and Managing the Value of Companies*.** El
+  tratado de referencia de la consultoría; profundo y práctico.
+- **Benjamin Graham & David Dodd, *Security Analysis*; Graham, *The Intelligent Investor*.** Los clásicos de
+  la **inversión en valor** y la distinción valor/precio.
+- **Brealey, Myers & Allen, *Principios de Finanzas Corporativas*.** La base financiera de la valuación
+  (DCF, WACC).
+- **Materiales de banca de inversión sobre el *football field* y los métodos en M&A.** El "cómo" práctico de
+  la valuación en deals.
+- **International Valuation Standards (IVS) y materiales del CFA Institute.** Los estándares profesionales.
+- ***Case law* de Delaware sobre *appraisal*.** Para la valuación en litigios.
+
+## 28. Opiniones críticas (postura del Consejo Editorial)
+
+**Primero: valor no es precio (la lección que más errores evita).** Insistimos en la distinción: la
+valuación **estima** el valor; la negociación **fija** el precio. Confundirlos lleva a aceptar un número como
+"verdad" cuando es una estimación sensible a supuestos, o a creer que el precio refleja el "valor real". El
+abogado debe usar la valuación como **munición** para negociar, no como un veredicto.
+
+**Segundo: la valuación es tan buena como sus supuestos ("garbage in, garbage out").** Criticamos la
+**falsa precisión**: un DCF con decimales **parece** riguroso, pero descansa en proyecciones, una tasa y un
+valor terminal que pueden ser sólidos o convenientes. La apariencia matemática **disfraza** la
+incertidumbre. El abogado debe **cuestionar los supuestos**, no impresionarse con el modelo.
+
+**Tercero: usa varios métodos; desconfía del número único.** Quien presenta "el valor es exactamente X"
+miente o no entiende. La valuación seria da un **rango** (*football field*) y usa **varios métodos**. Si
+solo te muestran uno (o un punto), **pide los demás** y el rango.
+
+**Cuarto: cuidado con la valuación interesada.** Quien encarga la valuación a menudo **orienta** los
+supuestos hacia el número que quiere (el vendedor infla, el comprador deprime). Una *fairness opinion* del
+banco que **también** cobra por cerrar el deal tiene un conflicto. El abogado debe vigilar la
+**independencia** de quien valúa y la **dirección del sesgo**.
+
+**Quinto: los descuentos y la prima son donde se libra mucha batalla (y mucha injusticia).** En litigios y
+empresa familiar, los **descuentos por minoría/iliquidez** y la **prima de control** mueven enormemente el
+valor de una participación —y se prestan a la **manipulación** (deprimir el valor del socio que sale). El
+abogado que los domina **protege a su cliente** de la injusticia.
+
+## 29. Debate doctrinal
+
+- **¿DCF o múltiplos?** ¿Qué método es mejor? *Postura del Consejo:* son **complementarios** —el DCF da el
+  valor fundamental (pero es sensible a supuestos); los múltiplos dan el valor de mercado (pero dependen de
+  comparables)—. Usa **ambos** y entiende por qué difieren. Ninguno es "la verdad".
+- **¿El precio del deal o el DCF determina el "valor justo" (en litigios de *appraisal*)?** Debate intenso
+  en Delaware: ¿el "valor justo" de las acciones de un disidente es el **precio negociado** del deal (que
+  refleja el mercado) o un **DCF** independiente (que puede diferir)? *Postura del Consejo:* el precio de un
+  deal **competitivo y bien procesado** es fuerte evidencia del valor; pero un DCF independiente protege
+  cuando el proceso fue deficiente. La tendencia reciente favorece el precio del deal cuando el proceso fue
+  robusto.
+- **¿Se deben pagar las sinergias al vendedor?** *Postura del Consejo:* es una cuestión de **negociación y
+  competencia** —si varios compradores con sinergias compiten, el precio sube hacia el valor con sinergias;
+  si hay uno solo, paga cerca del standalone—. No hay una respuesta "correcta"; depende del poder de
+  negociación.
+- **¿Son legítimos los descuentos por minoría/iliquidez?** *Postura del Consejo:* **sí** reflejan
+  realidades económicas (una minoría sin control y una participación ilíquida **valen menos**), pero se
+  prestan a **abuso** (deprimir el valor del socio que sale). El abogado debe asegurar que los descuentos
+  sean **razonables y bien fundados**, no un instrumento de despojo.
+- **¿Puede valuarse de verdad una startup?** *Postura del Consejo:* la valuación de startups es **más arte
+  que ciencia** (sin flujos ni historia, todo es proyección y potencial), de ahí valuaciones volátiles y
+  burbujas. Es legítimo valuarlas (con métodos especiales), pero con **humildad** sobre la incertidumbre —y
+  escepticismo ante valuaciones de "unicornio" desconectadas de los fundamentos—.
