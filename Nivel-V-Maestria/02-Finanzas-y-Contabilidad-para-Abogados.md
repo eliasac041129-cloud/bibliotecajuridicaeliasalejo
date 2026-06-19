@@ -1024,3 +1024,225 @@ debe **entrenar** con números, como el negociador entrena negociando.
   con ratios, entender el valor del dinero en el tiempo y el costo de capital, y manejar los conceptos del
   deal** (EBITDA, deuda neta, EV/equity, múltiplos). Ese es el **mínimo indispensable** —y este libro lo
   cubre—.
+
+## 30. Errores comunes
+
+- **Confundir utilidad con efectivo.** Creer que una empresa "rentable" tiene dinero → no ver el riesgo de
+  liquidez. *Corrección:* mira **siempre** el flujo de efectivo de operación.
+- **Confundir Enterprise Value con Equity Value.** Pensar que el "valor de la empresa" es lo que se paga
+  por las acciones → error de la magnitud de la deuda neta. *Corrección:* Equity Value = EV − deuda neta.
+- **Aceptar el EBITDA ajustado sin escrutarlo.** Tomar los ajustes del vendedor como buenos → pagar de
+  más. *Corrección:* cuestiona cada ajuste (¿es realmente no recurrente?).
+- **Ignorar el valor del dinero en el tiempo.** Tratar un pago diferido (earn-out) como si valiera lo mismo
+  que el contado. *Corrección:* descuenta los flujos futuros.
+- **Mirar un ratio aislado.** Sacar conclusiones de un solo número sin tendencia ni comparación.
+  *Corrección:* compara en el tiempo y contra la industria.
+- **No detectar deuda oculta.** Calcular la deuda neta solo con la deuda "del balance" e ignorar avales,
+  pasivos contingentes, arrendamientos. *Corrección:* busca toda la deuda (conexión con la due diligence).
+- **Subestimar el capital de trabajo.** No ver que el crecimiento consume efectivo o que el capital de
+  trabajo se vacía antes del cierre. *Corrección:* analiza el capital de trabajo normalizado.
+- **Confiar ciegamente en los estados auditados.** "Está auditado, debe estar bien" (Enron estaba
+  auditado). *Corrección:* lee con criterio; apóyate en la QoE.
+- **No entender el costo de capital.** Estructurar o valuar sin saber el WACC. *Corrección:* el WACC es la
+  tasa de descuento y el umbral de rentabilidad.
+
+## 31. Mitos frecuentes
+
+- **"Si la empresa tiene utilidad, tiene dinero."** **Falso.** Utilidad (devengo) ≠ efectivo. Empresas
+  rentables quiebran por falta de liquidez.
+- **"El valor de la empresa es lo que pago por ella."** **Falso/matizado.** El **EV** es el valor del
+  negocio; lo que pagas por las **acciones** es el **equity value** (EV − deuda neta).
+- **"El EBITDA es el efectivo que genera la empresa."** **Falso.** El EBITDA **aproxima** la generación
+  operativa pero **ignora** el CapEx, los intereses y los impuestos que sí se pagan. No es el flujo de caja
+  libre.
+- **"La deuda es mala; lo sano es no tener deuda."** **Falso.** Algo de deuda **crea valor** (escudo
+  fiscal, apalancamiento); el problema es el **exceso** (riesgo de insolvencia). Hay un óptimo.
+- **"Más rendimiento sin riesgo es posible."** **Falso.** Riesgo y rendimiento van de la mano; si te
+  ofrecen alto rendimiento "sin riesgo", desconfía (riesgo oculto o fraude).
+- **"El abogado no necesita saber finanzas; para eso están los financieros."** **Falso.** El abogado que no
+  entiende los números no puede negociar el precio, estructurar bien ni detectar riesgos económicos.
+- **"Está auditado, así que los números son verdad."** **Falso.** La auditoría da seguridad razonable, no
+  absoluta. Hay que leer con criterio.
+
+## 32. Preguntas difíciles
+
+1. **¿Por qué una empresa rentable puede quebrar?** Por falta de **liquidez/efectivo**: la utilidad es
+   contable (devengo —reconoce ventas no cobradas—), pero las obligaciones (nómina, deuda, proveedores) se
+   pagan con **efectivo**. Si crece rápido (el capital de trabajo consume efectivo) o no cobra a tiempo,
+   puede ser "rentable" y aun así no tener dinero para pagar → quiebra. Por eso el **flujo de efectivo** es
+   vital.
+2. **¿Por qué la deuda es "más barata" que el equity?** Porque el acreedor asume **menos riesgo** (cobra
+   primero, tiene garantías, la empresa **debe** pagarle) → exige menos rendimiento; y los **intereses son
+   deducibles** (escudo fiscal). El accionista asume **más riesgo** (cobra al final, sin garantía) → exige
+   más. Por eso el LBO usa deuda para amplificar el retorno del equity.
+3. **¿Qué es el EV y por qué difiere del precio de las acciones?** El **Enterprise Value** es el valor de
+   **todo el negocio** (para accionistas **y** acreedores); el precio de las **acciones** (equity value) =
+   EV − **deuda neta** (porque la deuda "ya está comprometida" con los acreedores). Confundirlos al negociar
+   cuesta el monto de la deuda neta.
+4. **¿Cómo se "valúa" intuitivamente una empresa?** Por el **valor presente de los flujos de efectivo
+   futuros** que generará (DCF): proyectas el efectivo futuro y lo **descuentas** a una tasa (el WACC) que
+   refleja el tiempo y el riesgo. Una empresa vale lo que generará en el futuro, traído a hoy. (El Libro 3
+   lo desarrolla.)
+5. **¿Por qué hay que escrutar el "EBITDA ajustado"?** Porque cada peso de "ajuste" (gastos que el vendedor
+   llama "no recurrentes"), multiplicado por el **múltiplo** (p. ej., 8x), infla el precio enormemente. Si
+   los ajustes no son legítimos (gastos que en realidad seguirán), el comprador paga de más. La due
+   diligence (QoE) los verifica.
+
+## 33. Casos de examen (con respuesta modelo)
+
+**Caso A.** *El vendedor de una empresa dice: "EBITDA de 100, múltiplo de 7x, deuda neta de 200". ¿Cuánto
+se paga por las acciones y qué cuestionas?*
+**Respuesta modelo:** **EV** = 7 × 100 = **700**. **Equity Value** (lo que se paga por las acciones) = EV −
+deuda neta = 700 − 200 = **500**. *Cuestionamientos:* ¿El EBITDA está "ajustado" y son legítimos los ajustes
+(QoE)? ¿La deuda neta de 200 es **completa** (hay deuda oculta —avales, contingencias, arrendamientos—)?
+¿El múltiplo de 7x es razonable para la industria y el crecimiento? ¿El **capital de trabajo** está
+normalizado (afecta el ajuste de precio)?
+
+**Caso B.** *Una empresa muestra utilidad neta positiva y creciente, pero su flujo de efectivo de operación
+es negativo. ¿Qué investigas?*
+**Respuesta modelo:** **Alarma.** Investigar por qué la utilidad no se convierte en efectivo: ¿las **cuentas
+por cobrar** crecen más que las ventas (no está cobrando, o las ventas están infladas)? ¿Los **inventarios**
+se acumulan? ¿El **capital de trabajo** consume el efectivo por el crecimiento? ¿Hay reconocimiento
+agresivo de ingresos? Conectar con la **Quality of Earnings**: ¿son las utilidades **reales y recurrentes**?
+
+**Caso C.** *Tu cliente (un fondo) quiere financiar una adquisición con 70% de deuda. ¿Qué le explicas
+sobre los riesgos y beneficios financieros?*
+**Respuesta modelo:** **Beneficios:** la deuda es **más barata** que el equity y da **escudo fiscal**
+(intereses deducibles), y **amplifica** el retorno del equity si va bien (apalancamiento). **Riesgos:** el
+exceso de deuda aumenta el **riesgo de insolvencia** (hay que pagarla pase lo que pase; si el flujo no
+alcanza, la empresa colapsa); un **Deuda/EBITDA** muy alto es peligroso, y los **covenants** vigilarán que
+no se rompa. Evaluar si el **flujo de efectivo** de la target soporta el servicio de esa deuda. Conexión con
+el LBO (Libros 5 y 7).
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Instrucciones:** te entregan los estados financieros de una empresa que tu cliente quiere comprar.
+> Antes de leer la guía, di qué analizarías.
+
+1. ¿Qué miras primero en el **balance** (estructura, deuda, liquidez)?
+2. ¿Qué miras en el **estado de resultados** (márgenes, EBITDA)?
+3. ¿Qué miras en el **flujo de efectivo** (¿genera efectivo de operación?)?
+4. ¿Qué **ratios** calculas y contra qué los comparas?
+5. ¿Qué **red flags** financieros buscas?
+
+> **Guía de solución (resumen).** **(1) Balance:** estructura de capital (Deuda/Capital), liquidez (razón
+> circulante), composición de activos (¿mucho goodwill de adquisiciones?, ¿cuentas por cobrar e inventarios
+> razonables?), y **toda** la deuda (incluida la oculta). **(2) Resultados:** márgenes (bruto, operativo,
+> EBITDA) y su **tendencia**; calcular el **EBITDA** y escrutar ajustes. **(3) Flujo:** ¿el flujo de
+> **operación** es positivo y consistente con la utilidad? (si no, alarma); ¿cuánto CapEx?; ¿depende de
+> financiamiento externo? **(4) Ratios:** liquidez, Deuda/EBITDA, cobertura de intereses, márgenes, ROIC,
+> capital de trabajo —comparados en el **tiempo** y contra la **industria/competidores**—. **(5) Red
+> flags:** utilidad sube pero flujo baja; cuentas por cobrar crecen más que ventas; deuda oculta; EBITDA
+> ajustado inflado; capital de trabajo deteriorado; goodwill enorme (riesgo de *impairment*). Conectar todo
+> con la **Quality of Earnings** (Libro 2 del Nivel IV).
+
+## 35. Flashcards
+
+- **¿Los tres estados financieros?** Balance (qué tiene/debe), resultados (cuánto gana), flujos de efectivo
+  (cuánto efectivo genera).
+- **¿La ecuación contable?** Activo = Pasivo + Capital.
+- **¿Utilidad vs. efectivo?** Utilidad es contable (devengo); efectivo es el dinero real. **No son lo
+  mismo.**
+- **¿EBITDA?** Utilidad antes de intereses, impuestos, depreciación y amortización ≈ generación operativa.
+- **¿Deuda neta?** Deuda total − efectivo.
+- **¿EV vs. Equity Value?** Valor de todo el negocio vs. valor para los accionistas (= EV − deuda neta).
+- **¿Valor del dinero en el tiempo?** Un peso hoy vale más que mañana; se compara con valor presente
+  (descontar).
+- **¿DCF?** Valuar = valor presente de los flujos futuros (Libro 3).
+- **¿Riesgo y rendimiento?** Van de la mano; mayor rendimiento exige mayor riesgo.
+- **¿Costo de capital / WACC?** Lo que cuesta financiarse (promedio ponderado deuda/equity); es la tasa de
+  descuento.
+- **¿Por qué la deuda es más barata que el equity?** Menos riesgo para el acreedor + escudo fiscal.
+- **¿Deuda/EBITDA?** El ratio rey del apalancamiento (cuántos años de EBITDA equivale la deuda).
+- **¿Ratios clave?** Liquidez, apalancamiento, rentabilidad, eficiencia.
+- **¿La regla de oro?** "Utilidad no es efectivo; mira el flujo."
+
+## 36. Mapas mentales
+
+```
+                   FINANZAS Y CONTABILIDAD
+                              |
+   ┌──────────────┬──────────┼───────────────┬──────────────────┐
+ ESTADOS         ANÁLISIS    CONCEPTOS DE     COSTO/ESTRUCTURA   IDIOMA DEL
+ FINANCIEROS     (ratios)    FINANZAS         DE CAPITAL         DEAL
+ balance,        liquidez,   valor del dinero WACC, deuda vs.    EBITDA, deuda
+ resultados,     apalanc.,   en el tiempo,    equity, escudo     neta, EV vs.
+ flujos          rentab.,    riesgo-rendim.,  fiscal, apalanc.   equity value,
+ (¡el efectivo   eficiencia  DCF                                 múltiplos, QoE
+ es la verdad!)
+```
+
+```
+              CÓMO LEER UNA EMPRESA (3 preguntas)
+   ¿Qué TIENE y DEBE? ──► balance (estructura, deuda, liquidez)
+   ¿Cuánto GANA? ──► estado de resultados (márgenes, EBITDA)
+   ¿Cuánto EFECTIVO genera de verdad? ──► flujo de efectivo (¡la verdad!)
+        ⇒ "utilidad no es efectivo": mira siempre el flujo
+```
+
+## 37. Cuadros comparativos
+
+**Los tres estados financieros**
+
+| | Balance | Estado de resultados | Flujo de efectivo |
+|---|---|---|---|
+| Qué muestra | Qué tiene/debe (a una fecha) | Cuánto gana (en un periodo) | Efectivo que entra/sale |
+| Tipo | "Foto" | "Película" | "Cuenta bancaria" |
+| Base | Activo = Pasivo + Capital | Ingresos − gastos = utilidad | Operación/inversión/financiam. |
+| Revela | Estructura, deuda, liquidez | Rentabilidad, márgenes | La **verdad** del efectivo |
+
+**Deuda vs. Equity**
+
+| | Deuda | Equity |
+|---|---|---|
+| Riesgo para quien aporta | Menor (cobra primero, garantías) | Mayor (cobra al final) |
+| Costo | Más barata (+ escudo fiscal) | Más cara |
+| Obligación | Pagar pase lo que pase | No obliga a pagar |
+| Riesgo para la empresa | Insolvencia si hay exceso | Dilución |
+
+**EV vs. Equity Value**
+
+| | Enterprise Value (EV) | Equity Value |
+|---|---|---|
+| Para quién | Todos (accionistas + acreedores) | Solo accionistas |
+| Qué es | Valor de todo el negocio | Precio de las acciones |
+| Relación | EV | = EV − deuda neta |
+
+## 38. Diagramas
+
+**La cascada del estado de resultados:**
+```
+INGRESOS (ventas)
+  − costo de ventas        = UTILIDAD BRUTA
+  − gastos de operación    = UTILIDAD OPERATIVA (EBIT)
+  (+ depreciación y amort. = EBITDA)
+  − intereses − impuestos  = UTILIDAD NETA
+```
+
+**Del EBITDA al precio de las acciones (en un M&A):**
+```
+EBITDA × múltiplo (EV/EBITDA) = ENTERPRISE VALUE
+   − DEUDA NETA (deuda total − efectivo)
+   = EQUITY VALUE (precio de las acciones)
+   [+ ajustes por capital de trabajo — completion accounts]
+```
+
+**Valor del dinero en el tiempo:**
+```
+HOY ──capitalizar (× (1+tasa))──► FUTURO (valor futuro)
+FUTURO ──descontar (÷ (1+tasa))──► HOY (valor presente)
+   [mayor riesgo → mayor tasa → menor valor presente]
+```
+
+## 39. Mnemotecnias
+
+- **La regla de oro:** *"utilidad no es efectivo; mira el flujo"*.
+- **Los tres estados:** *"balance (qué tengo/debo), resultados (qué gano), flujo (qué efectivo de verdad)"*.
+- **EV vs. equity:** *"EV es todo el negocio; equity = EV menos deuda neta"*.
+- **EBITDA:** *"antes de Intereses, Impuestos, Depreciación y Amortización ≈ efectivo operativo (ojo: no es
+  el flujo libre)"*.
+- **Valor del dinero:** *"un peso hoy vale más que mañana; valuar es traer el futuro al presente"*.
+- **Riesgo-rendimiento:** *"no hay alto rendimiento sin alto riesgo; si lo parece, desconfía"*.
+- **Deuda vs. equity:** *"deuda barata (cobra primero), equity caro (cobra al final)"*.
+- **Apalancamiento:** *"la deuda amplifica las ganancias... y las pérdidas"*.
+- **EBITDA ajustado:** *"cada peso de 'ajuste', por el múltiplo, es dinero; escrútalo"*.
