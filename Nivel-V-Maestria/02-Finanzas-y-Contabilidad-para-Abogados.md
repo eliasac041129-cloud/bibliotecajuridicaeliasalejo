@@ -529,3 +529,66 @@ accounts* —Libro 4—) y en la generación de efectivo.
 *La lección:* el abogado que sabe calcular e **interpretar** estos ratios puede **diagnosticar** la salud de
 una empresa, detectar sus riesgos económicos, y cuestionar la valuación —habilidades que lo vuelven un
 analista, no solo un jurista—.
+
+### 14.C · Los conceptos clave de finanzas (valor del dinero en el tiempo, riesgo y rendimiento)
+
+Si la contabilidad mira el **pasado y el presente** (qué pasó, qué hay), las **finanzas** miran el
+**futuro** y la **decisión**: cuánto vale algo, cómo decidir bajo incertidumbre. Dos conceptos son la base
+de **todo** lo demás (incluida la valuación del Libro 3).
+
+**El valor del dinero en el tiempo (el concepto más importante de las finanzas).** Un peso **hoy** vale
+**más** que un peso **mañana**. ¿Por qué?
+- **Costo de oportunidad:** si tienes el peso hoy, puedes **invertirlo** y ganar rendimiento (mañana tendrás
+  más de un peso).
+- **Inflación:** el dinero pierde poder adquisitivo con el tiempo.
+- **Riesgo:** un peso prometido para mañana **puede no llegar** (incertidumbre).
+Por eso, para comparar dinero en distintos momentos, hay que "**trasladarlo**" a un mismo punto en el
+tiempo:
+- **Valor futuro (VF):** cuánto valdrá una cantidad de hoy en el futuro, **capitalizando** a una tasa.
+  *Ej.:* $100 hoy al 10% anual valen $110 en un año, $121 en dos (interés compuesto).
+- **Valor presente (VP):** cuánto vale **hoy** una cantidad futura, **descontándola** a una tasa. *Ej.:*
+  $110 dentro de un año, al 10%, valen **$100 hoy** (VP = $110 / 1.10). **Descontar** es la operación
+  inversa de capitalizar.
+- **La tasa de descuento:** la tasa que usas para traer el futuro al presente; refleja el **costo de
+  oportunidad y el riesgo**. **Cuanto mayor el riesgo, mayor la tasa de descuento, y menor el valor
+  presente** de un flujo futuro (un flujo arriesgado "vale menos hoy"). Esta tasa es, en esencia, el **costo
+  de capital** (14.D).
+
+**El flujo de efectivo descontado (DCF): la aplicación reina del valor del dinero en el tiempo.** Si una
+empresa (o un proyecto) generará **flujos de efectivo futuros**, su **valor hoy** es la **suma de esos
+flujos traídos a valor presente** (descontados a una tasa que refleja su riesgo). Esta es la **lógica
+central de la valuación** (Libro 3): *el valor de algo es el valor presente del efectivo que generará en el
+futuro*. Un ejemplo intuitivo: una empresa que generará $100 al año durante 5 años no vale $500 (eso
+ignoraría el tiempo y el riesgo); vale la **suma descontada** de esos $100 —menos de $500, según la tasa—.
+Memoriza esta idea: **valuar = proyectar flujos futuros y descontarlos al presente.**
+
+**El riesgo y el rendimiento (la otra columna de las finanzas).** En finanzas, **riesgo y rendimiento van
+de la mano**: nadie ofrece **alto rendimiento sin alto riesgo** (si parece demasiado bueno para ser verdad,
+desconfía —o hay un riesgo oculto, o es un fraude—). Conceptos clave:
+- **El riesgo se mide por la incertidumbre/variabilidad** de los rendimientos (qué tan "seguro" es lo que
+  recibirás). Un bono del gobierno es de bajo riesgo (pago casi seguro); una *startup* es de altísimo
+  riesgo (puede multiplicarse o quebrar).
+- **La prima de riesgo:** los inversionistas exigen un **rendimiento adicional** (prima) por asumir más
+  riesgo. El rendimiento exigido = **tasa libre de riesgo** (lo que paga un activo seguro, como un bono
+  gubernamental) **+ prima de riesgo** (por la incertidumbre de la inversión concreta).
+- **Diversificación:** repartir las inversiones reduce el riesgo (no poner todos los huevos en una canasta)
+  —base de la teoría de portafolios y de la lógica del VC (*power law*: muchas apuestas, pocas pagan
+  todo)—.
+- **El CAPM (modelo de valoración de activos):** formaliza la relación riesgo-rendimiento; el rendimiento
+  exigido de una inversión depende de su **riesgo sistemático** (su "beta" —cuánto se mueve con el
+  mercado—). Es la base para calcular el **costo del equity** (14.D).
+
+**Por qué esto importa para el abogado.** Estos dos conceptos —valor del dinero en el tiempo y
+riesgo-rendimiento— explican **casi todo** en las operaciones que estructuras:
+- Por qué la **deuda es "más barata" que el equity** (el acreedor asume menos riesgo —cobra primero, tiene
+  garantías— así que exige menos rendimiento; el accionista asume más riesgo —cobra al final— así que exige
+  más). Esto fundamenta la estructura de capital y el LBO (Libro 5).
+- Por qué un ***earn-out*** o un pago **diferido** vale **menos** que el mismo monto al contado (valor del
+  dinero en el tiempo) —relevante al negociar el precio—.
+- Por qué una empresa **riesgosa** se valúa con una **tasa de descuento mayor** (y por tanto vale menos) que
+  una estable —base de la valuación (Libro 3)—.
+- Por qué los fondos miden su retorno con el **IRR** (que incorpora el tiempo) y no solo con cuánto
+  ganaron.
+*La lección:* entender que **el dinero tiene valor en el tiempo y que el riesgo se paga** es lo que permite
+al abogado razonar **financieramente** —y entender la lógica económica detrás de cada cláusula y cada
+estructura—.
