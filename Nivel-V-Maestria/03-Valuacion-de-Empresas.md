@@ -402,3 +402,116 @@ Fija este vocabulario; es el de la valuación profesional:
   inicial; si es positivo, crea valor).
 
 Con este vocabulario, entramos al **desarrollo absoluto**, donde diseccionamos cada método.
+
+## 14. Desarrollo absoluto
+
+Esta es la sección central. La desarrollamos en cinco bloques: **(A)** **qué es valuar** (valor vs. precio,
+los enfoques); **(B)** el **DCF** (el método rey —flujos, valor terminal, WACC—); **(C)** la **valuación
+por múltiplos** (comparables de mercado y transacciones precedentes); **(D)** el **valor de activos y la
+combinación de métodos** (el *football field*); y **(E)** los **conceptos avanzados** (sinergias, prima de
+control, descuentos, *startups*) y la **valuación en la práctica**. Estúdialos en orden: primero la
+filosofía, luego el método más sólido, después el más usado, la combinación, y los refinamientos.
+
+### 14.A · Qué es valuar (valor vs. precio y los enfoques)
+
+Antes de los métodos, hay que entender **qué es** valuar y **qué no es**.
+
+**Valor no es precio (la distinción fundamental, repasada y profundizada).** El **valor** es una
+**estimación** de cuánto "debería valer" algo según un método y unos supuestos; el **precio** es lo que
+efectivamente se **paga**, resultado de la negociación entre partes concretas y de las fuerzas del mercado.
+Consecuencias prácticas:
+- **El valor es un rango, no un punto.** Distintos métodos (y distintos supuestos) dan distintos valores;
+  la valuación seria produce un **rango razonable** (el *football field*), no un número exacto. Quien
+  presenta "el valor es exactamente X" miente o no entiende.
+- **El precio puede diferir del valor.** Un comprador con **sinergias** paga más que el valor *standalone*;
+  un vendedor con prisa acepta menos; una **subasta** competitiva sube el precio sobre el valor; el **poder
+  de negociación** mueve el precio dentro (o fuera) del rango de valor.
+- **La valuación informa, no determina.** La valuación da el **rango** y los **argumentos** (criterios
+  objetivos —Libro 1—) para negociar el precio; pero el precio final lo decide la **negociación**. El
+  abogado usa la valuación como **munición** para negociar el precio, no como un veredicto.
+
+**Los tres grandes enfoques de valuación.** Todos los métodos se agrupan en tres enfoques, según de dónde
+sacan el valor:
+- **Enfoque de ingresos (*income approach*):** valúa por la **capacidad de generar flujos futuros** —el
+  **DCF** es su método estrella—. Es el más **sólido conceptualmente** (una empresa vale por lo que
+  producirá), pero el más **sensible a los supuestos** (proyecciones, tasa).
+- **Enfoque de mercado (*market approach*):** valúa por **comparación** con lo que vale lo similar —los
+  **múltiplos** (comparables de mercado y transacciones precedentes)—. Es **rápido** y refleja "lo que paga
+  el mercado", pero depende de tener **comparables buenos**.
+- **Enfoque de activos (*asset/cost approach*):** valúa por lo que la empresa **tiene** (sus activos netos)
+  —valor en libros, de liquidación, de reposición—. Relevante para empresas **en crisis** (vale más muerta
+  que viva) o ***asset-heavy*** (inmobiliarias, holdings), no para empresas operativas en marcha.
+
+**Por qué el valor está "vivo" (depende de quién, cuándo y para qué).** Un punto crucial que el abogado debe
+entender: **no existe "un" valor objetivo único** de una empresa. El valor depende de:
+- **Para quién:** el valor *standalone* (por sí sola) vs. el valor para un **comprador estratégico** (con
+  **sinergias**, vale más) vs. para un **comprador financiero** (PE, sin sinergias operativas).
+- **Qué se compra:** el **control** vale más (prima de control) que una **minoría** (descuento por minoría);
+  una participación **líquida** vale más que una **ilíquida** (descuento por iliquidez).
+- **Cuándo:** el valor cambia con las **condiciones de mercado** (los múltiplos suben y bajan con el ciclo),
+  las **tasas de interés** (afectan el WACC) y la **situación de la empresa**.
+- **Para qué:** una valuación para **vender** (busca el valor más alto defendible), para **comprar** (el más
+  bajo), para un **litigio** (el "justo"), para **fines fiscales** (el de mercado) —el propósito orienta el
+  enfoque—.
+*La lección:* cuando alguien te diga "esta empresa vale X", la pregunta del abogado experto es:
+"**¿valor para quién, calculado cómo, con qué supuestos, y para qué propósito?**". Esa pregunta revela si el
+número es sólido o conveniente.
+
+### 14.B · El DCF (el método rey: flujos, valor terminal, WACC)
+
+El **DCF (flujo de efectivo descontado)** es el método **más sólido conceptualmente** y la base de toda la
+valuación, porque captura la idea fundamental: **una empresa vale el valor presente del efectivo que
+generará en el futuro**. Domina su lógica (no para calcularlo como banquero, sino para **entenderlo y
+cuestionarlo**).
+
+**Los tres componentes del DCF.**
+1. **La proyección de los flujos de efectivo libres (*Free Cash Flow*).** Se **proyecta** el efectivo que
+   la empresa generará en los próximos **5-10 años** (el "periodo explícito"). El flujo de efectivo libre =
+   EBITDA − impuestos − CapEx (inversión) − cambios en capital de trabajo (lo que de verdad queda para los
+   proveedores de capital). *Aquí está la primera fuente de manipulación:* las proyecciones dependen de
+   **supuestos** (crecimiento de ventas, márgenes, inversión) que pueden ser **realistas o heroicos**.
+   Proyecciones optimistas → valor inflado.
+2. **El valor terminal (la parte más grande y más sensible).** La empresa no "termina" al final del periodo
+   de proyección: sigue generando flujos "a perpetuidad". El **valor terminal** captura ese valor más allá
+   del periodo explícito, de dos formas: **(i) crecimiento a perpetuidad** (los flujos crecen a una tasa
+   constante "para siempre" —método de Gordon—); o **(ii) múltiplo de salida** (aplicar un múltiplo
+   EV/EBITDA al EBITDA del último año). *Dato crucial:* el valor terminal suele ser **la MAYOR parte** del
+   valor total del DCF (60-80%) —y es **muy sensible** a sus supuestos (la tasa de crecimiento perpetuo, el
+   múltiplo de salida)—. Por eso el DCF se puede "mover" mucho ajustando el valor terminal.
+3. **La tasa de descuento (el WACC).** Los flujos futuros se **descuentan** al **WACC** (costo promedio
+   ponderado de capital —Libro 2—), que refleja el **riesgo** y el **costo de oportunidad**. *Tercera fuente
+   de sensibilidad:* una tasa de descuento **más baja** → **mayor** valor presente → valor inflado; una más
+   alta → menor valor. Pequeños cambios en el WACC mueven mucho el valor.
+
+**La fórmula conceptual (sin tecnicismos):**
+```
+Valor (EV) = VP de los flujos del periodo explícito + VP del valor terminal
+   (todo descontado al WACC)
+   Luego: Equity Value = EV − deuda neta
+```
+
+**Las fortalezas del DCF.**
+- Es **conceptualmente el más correcto:** valúa por los **fundamentos** (la capacidad de generar efectivo),
+  no por comparación o por lo que la empresa tiene.
+- Es **flexible:** permite modelar distintos escenarios (optimista, base, pesimista) y entender qué
+  **mueve** el valor.
+- **No depende de comparables** (útil cuando no hay empresas o deals verdaderamente comparables).
+
+**Las debilidades del DCF (lo que el abogado debe cuestionar).**
+- **"Basura entra, basura sale" (*garbage in, garbage out*):** el DCF es tan bueno como sus **supuestos**.
+  Proyecciones infladas, valor terminal optimista o WACC bajo producen un valor inflado **que parece
+  riguroso** (la precisión matemática **disfraza** la incertidumbre de los supuestos).
+- **El valor terminal domina:** como es la mayor parte del valor y la más sensible, el DCF puede
+  "construirse" para llegar al número deseado ajustándolo.
+- **Sensibilidad a la tasa:** pequeños cambios en el WACC mueven mucho el valor.
+*Por eso el abogado experto, ante un DCF, pregunta:* ¿Las **proyecciones** son realistas (comparadas con el
+desempeño histórico y la industria)? ¿El **valor terminal** usa supuestos razonables (tasa de crecimiento
+perpetuo no mayor que la economía; múltiplo de salida de mercado)? ¿El **WACC** es defendible? Un **análisis
+de sensibilidad** (cómo cambia el valor al variar los supuestos) revela qué tan "robusto" es el número.
+
+**La lección.** El DCF es el método **más poderoso y más peligroso**: poderoso porque captura el valor
+fundamental; peligroso porque su **apariencia de precisión** esconde la **enorme sensibilidad** a supuestos
+que pueden manipularse. El abogado no construye el DCF (lo hace el banquero/valuador), pero debe
+**entender sus tres componentes** y **cuestionar los supuestos** —porque ahí, en las proyecciones, el valor
+terminal y el WACC, es donde se infla o se deprime el valor, y donde el abogado que entiende puede defender
+a su cliente—.
