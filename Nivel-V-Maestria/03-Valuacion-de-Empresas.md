@@ -585,3 +585,66 @@ abogado experto cuestiona: ¿Son los comparables **de verdad similares** (sector
 riesgo)? ¿Por qué este múltiplo y no otro? ¿El mercado está caro o barato ahora? ¿Se usó el múltiplo
 correcto para la métrica correcta? Esas preguntas distinguen al abogado que **entiende** la valuación del
 que solo repite el número que le dieron.
+
+### 14.D · El valor de activos y la combinación de métodos (el *football field*)
+
+**El valor de activos (enfoque de activos).** A diferencia del DCF y los múltiplos (que valúan por la
+**capacidad de generar** valor), el enfoque de activos valúa por lo que la empresa **tiene** —sus activos
+netos—. Tres variantes:
+- **Valor en libros (*book value*):** el valor contable del capital (activos − pasivos según el balance).
+  *Limitación:* el balance refleja costos **históricos**, no el valor real (un inmueble comprado hace 30
+  años vale mucho más; el goodwill puede estar inflado). Rara vez es el valor real de una empresa en marcha.
+- **Valor de liquidación:** lo que se obtendría **vendiendo los activos** (forzadamente) y pagando las
+  deudas. Es un valor "**piso**" (mínimo): una empresa en marcha debería valer **más** que su liquidación
+  (si vale menos viva que muerta, hay que liquidarla). Relevante en **crisis/concurso**.
+- **Valor de reposición:** lo que costaría **reconstruir** la empresa desde cero (reponer sus activos).
+  Relevante en ciertos contextos (seguros, algunas industrias).
+
+**¿Cuándo se usa el enfoque de activos?** **No** para empresas operativas en marcha (cuyo valor está en sus
+flujos, no en sus activos), sino para:
+- **Empresas en crisis o en concurso** (donde el valor de liquidación es el relevante —¿vale más viva o
+  muerta?—).
+- **Empresas *asset-heavy*** sin operación significativa: **inmobiliarias** (su valor son los inmuebles),
+  **holdings** patrimoniales, fondos de inversión (su valor son los activos que tienen).
+- **Como valor "piso"** o referencia complementaria.
+*Lección:* el valor de activos es el método **menos usado** para empresas operativas (que valen por lo que
+producen, no por lo que tienen), pero es **clave** en crisis y para empresas patrimoniales.
+
+**La valuación de *startups* (un caso especial que merece mención).** Las *startups* (Libro 7) son difíciles
+de valuar porque **no tienen flujos ni historia** (a veces ni utilidad): el DCF es especulativo (proyectar
+una empresa sin historia es adivinar) y no hay comparables públicos buenos. Métodos especiales:
+- **Múltiplos de etapa / de rondas comparables:** a qué valuación levantaron capital startups similares en
+  la misma etapa (semilla, Serie A...).
+- **VC method:** estimar el valor de **salida** futuro (cuánto valdría si tiene éxito) y traerlo al presente
+  con una tasa de descuento **altísima** (que refleja el enorme riesgo de fracaso —el *power law*—).
+- **Valor del potencial de mercado** (*TAM* —mercado total direccionable—) y de los **hitos** alcanzados.
+*Lección:* valuar startups es **más arte que ciencia** (de ahí valuaciones que parecen "infladas" —reflejan
+el potencial, no los flujos actuales—, y el riesgo de **burbujas**).
+
+**La combinación de métodos: el *football field*.** La valuación **seria** no usa un solo método ni produce
+un solo número: **combina** los métodos (DCF, comparables de mercado, transacciones precedentes, y para LBO
+el *LBO analysis*) y presenta el resultado como un **rango** —el "***football field***" (campo de fútbol),
+un gráfico de barras donde cada método marca su rango de valor—. ¿Por qué?
+- Porque **ningún método es "la verdad":** cada uno tiene fortalezas y debilidades, y depende de supuestos.
+  La "verdad" es un **rango razonable** donde los métodos **convergen**.
+- Porque la **convergencia (o divergencia)** es informativa: si todos los métodos dan ~1,000, hay
+  confianza; si el DCF da 1,500 y los múltiplos 800, hay que **entender por qué** (¿proyecciones del DCF
+  irreales?, ¿el mercado está barato?).
+- Porque el rango da **flexibilidad para negociar:** el vendedor argumenta en el extremo alto del rango, el
+  comprador en el bajo, y el precio se negocia dentro (o cerca) del rango.
+
+**Cómo se ponderan los métodos (el criterio del valuador).** No todos los métodos pesan igual en cada caso:
+- Para una empresa **estable y predecible**, el **DCF** y los **múltiplos** son sólidos.
+- Para una empresa con **buenos comparables** públicos, los **múltiplos de mercado** son muy útiles.
+- Para una **adquisición de control**, las **transacciones precedentes** (que incluyen prima de control)
+  son muy relevantes.
+- Para una empresa **en crisis**, el **valor de liquidación** (activos) es el piso.
+- Para una ***startup***, los métodos especiales (no el DCF tradicional).
+El valuador experto **elige y pondera** los métodos según el caso, y **explica** su criterio.
+
+**La lección.** La valuación madura es **humilde** (sabe que es una estimación, no una verdad), **plural**
+(usa varios métodos), y se expresa en un **rango** (el *football field*). El abogado que entiende esto no
+acepta "el valor es X" (un punto exacto es sospechoso), sino que pregunta: "¿qué **rango** dan los distintos
+métodos?, ¿**convergen**?, ¿qué método **pesa más** en este caso y por qué?". Y usa el rango como **munición
+para negociar el precio** —argumentando en el extremo del rango que favorece a su cliente, con criterios
+objetivos—.
