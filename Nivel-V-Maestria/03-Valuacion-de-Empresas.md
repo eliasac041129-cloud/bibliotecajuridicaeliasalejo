@@ -276,3 +276,129 @@ cifra que le presentan—. Esta es la diferencia entre el abogado que **ejecuta*
 que otros fijaron y el que **participa** en la decisión del valor. Por eso la valuación, culminando las
 finanzas (Libro 2) y armando la negociación (Libro 1), es una herramienta de la **maestría**: porque pone al
 abogado en el centro de la conversación que más importa —**cuánto vale y cuánto se paga**—.
+
+## 10. Definiciones doctrinales
+
+La doctrina de la valuación define los conceptos centrales así:
+
+- **Valuación:** el proceso de **estimar el valor económico** de una empresa, negocio, activo o
+  participación, mediante métodos financieros. La doctrina la define como una **estimación fundamentada**,
+  no una verdad exacta.
+- **Valor vs. precio:** el **valor** es una **estimación** (lo que algo "debería valer" según un método y
+  supuestos); el **precio** es lo que efectivamente se **paga** (resultado de la negociación y el mercado).
+  La distinción más importante de la disciplina.
+- **Valor intrínseco:** el valor "verdadero" de una empresa según sus **fundamentos** (su capacidad de
+  generar flujos), independiente del precio de mercado. Base de la **inversión en valor** (Graham, Buffett).
+- **DCF (*Discounted Cash Flow* / flujo de efectivo descontado):** método que valúa una empresa como el
+  **valor presente de sus flujos de efectivo futuros**, descontados a una tasa (el WACC). El método "rey"
+  por su solidez conceptual.
+- **Valor terminal:** en el DCF, el valor de la empresa **más allá** del periodo de proyección explícita
+  (los flujos "a perpetuidad" o el valor de salida). Suele ser la **mayor parte** del valor —y la más
+  sensible—.
+- **Múltiplo:** una razón que expresa el valor como "número de veces" una métrica (**EV/EBITDA**, **P/E**,
+  EV/Ventas). Permite valuar por **comparación**.
+- **Comparables (*comps*):** empresas o transacciones **similares** cuyo valor/múltiplo se usa como
+  referencia. Dos tipos: **comparables de mercado** (empresas públicas similares) y **transacciones
+  precedentes** (deals comparables).
+- **Sinergias:** el **valor adicional** que se crea al combinar dos empresas (ahorros de costos, ventas
+  cruzadas) —y que justifica que un comprador estratégico pague **más** que el valor *standalone*—.
+- **Prima de control:** el **sobreprecio** que se paga por adquirir el **control** de una empresa (vs. una
+  participación minoritaria), porque el control permite decidir.
+- **Descuento por iliquidez / por minoría:** la **reducción** de valor de una participación **ilíquida**
+  (difícil de vender, p. ej., acciones de una empresa privada) o **minoritaria** (sin control).
+
+## 11. Definiciones legales y marco normativo
+
+La valuación es una disciplina financiera, pero tiene **relevancia jurídica** en varios contextos regulados:
+
+- **Mercado de valores (LMV / CNBV):** en las **OPAs**, exigencias sobre el **precio justo** y la
+  **opinión de experto independiente** (*fairness opinion*) para proteger a los minoritarios; valuación de
+  emisoras.
+- **Deberes fiduciarios (LMV / LGSM / gobierno corporativo):** el consejo debe decidir **informado** sobre
+  el valor (la *fairness opinion* como parte del proceso —Van Gorkom, Libro 8 del Nivel IV—).
+- **Reorganizaciones (LGSM):** valuación para la **relación de canje** en fusiones y escisiones; el
+  **derecho de separación** del socio disidente implica valuar su participación.
+- **Fiscal (CFF, LISR):** **valor de mercado** en operaciones entre partes relacionadas (precios de
+  transferencia); valor en reorganizaciones y aportaciones; la autoridad puede cuestionar valuaciones
+  abusivas.
+- **Litigios y peritajes:** la valuación de **peritos** en disputas (separación de socios, daños,
+  expropiaciones, familiares); las reglas procesales sobre la prueba pericial.
+- **Contabilidad (NIF/IFRS):** el **valor razonable** (*fair value*) para ciertas partidas; el ***impairment***
+  (deterioro) del goodwill exige valuar.
+- **Expropiación / indemnización (constitucional y administrativo):** el derecho a una **indemnización
+  justa** implica valuar lo expropiado.
+
+> **Nota de método:** la valuación no es una "rama jurídica" sino una disciplina financiera con
+> **consecuencias jurídicas**; el abogado debe **entenderla** para usarla y cuestionarla, apoyándose en
+> valuadores/peritos para la ejecución técnica. Verifica el marco aplicable (Manifiesto XI.5).
+
+## 12. Definición sencilla
+
+Imagina que quieres saber **cuánto vale una casa** que produce renta. Tienes varias formas de averiguarlo
+—y son, exactamente, los métodos de valuación de empresas—:
+
+- **Método del flujo (DCF):** "esta casa me dará $10 mil de renta al año durante muchos años; ¿cuánto valen
+  **hoy** todas esas rentas futuras?" Sumas las rentas futuras **traídas a valor presente** (descontadas).
+  Es el método más **lógico** (la casa vale por lo que **producirá**), pero depende de **adivinar** las
+  rentas futuras y de qué tasa usas —si te equivocas en los supuestos, el número se distorsiona—.
+- **Método de comparables:** "casas **parecidas** en esta zona se venden a 15 veces su renta anual; mi casa
+  renta $10 mil, así que vale ~$150 mil." Valúas por **comparación** con lo que vale lo similar. Es
+  **rápido** y refleja "lo que paga el mercado", pero necesitas **casas verdaderamente comparables** (misma
+  zona, tamaño, estado).
+- **Método de transacciones precedentes:** "la casa de **al lado** se **vendió** el mes pasado en $160 mil."
+  Usas **ventas reales recientes** de casas similares. Refleja lo que de verdad se pagó (incluye la "prima"
+  que pagan los compradores), pero los deals pueden no ser perfectamente comparables.
+- **Método de activos:** "si **derribo** la casa y vendo el terreno y los materiales, valen $80 mil." Valúas
+  lo que **tiene** (sus partes), no lo que produce. Solo conviene si la casa vale **más muerta que viva**
+  (empresa en crisis) o si es pura "tierra" (poca operación).
+
+Y la **lección clave**: **valor no es precio**. Tú **valúas** la casa en ~$150 mil (estimación), pero el
+**precio** que finalmente pagas depende de la **negociación**: si hay otro comprador interesado (subes), si
+el dueño tiene prisa (bajas), si para ti vale más porque está junto a tu otra casa (sinergia). El valor te
+da el **rango** y los **argumentos**; el precio lo decide la **negociación**. Por eso un buen abogado de M&A
+**entiende cómo se valúa** —para negociar el precio con argumentos, no a ciegas—.
+
+## 13. Conceptos fundamentales
+
+Fija este vocabulario; es el de la valuación profesional:
+
+**Lo fundamental:**
+- **Valor vs. precio:** estimación (valor) vs. lo que se paga (precio). El valor informa el precio, no lo
+  determina.
+- **Valor intrínseco / fundamental:** el valor según los fundamentos (flujos), vs. el precio de mercado.
+- **Valor *standalone* vs. valor para un comprador:** el valor "por sí sola" vs. el valor para un comprador
+  concreto (que puede incluir **sinergias**).
+
+**Los métodos de valuación:**
+- **DCF (flujo de efectivo descontado):** valor = valor presente de los flujos futuros (descontados al
+  **WACC**). Componentes: **proyección de flujos** (típicamente 5-10 años), **valor terminal** (el valor
+  más allá —a perpetuidad con crecimiento, o por múltiplo de salida—), y la **tasa de descuento (WACC)**.
+- **Múltiplos de comparables de mercado:** valuar aplicando el múltiplo (EV/EBITDA, P/E) de **empresas
+  públicas similares**.
+- **Transacciones precedentes:** valuar aplicando los múltiplos pagados en **deals comparables** recientes
+  (incluyen prima de control).
+- **Valor de activos:** valor en **libros**, de **liquidación** (venta forzada) o de **reposición**
+  (reconstruir). Para empresas en crisis o *asset-heavy*.
+- **LBO analysis (para PE):** ¿cuánto puede pagar un fondo dado un retorno objetivo y la deuda disponible?
+  (valuación "al revés" —Libro 7—).
+- **El *football field*:** el gráfico que muestra el **rango** de valor según cada método (la "verdad" es
+  un rango, no un punto).
+
+**Las métricas y conceptos del Libro 2 (que se aplican):**
+- **EBITDA, EV vs. equity value, deuda neta, WACC, flujo de efectivo libre** (todo del Libro 2).
+- **Flujo de efectivo libre (*Free Cash Flow*):** el efectivo que genera la empresa **después** de
+  reinvertir (CapEx) y del capital de trabajo —lo que de verdad queda para los proveedores de capital—. Es
+  lo que se descuenta en el DCF.
+
+**Los ajustes y conceptos avanzados:**
+- **Sinergias:** valor adicional de combinar (justifica pagar más; ¿quién las captura —se reparten en el
+  precio—?).
+- **Prima de control:** sobreprecio por el control (vs. minoría).
+- **Descuento por iliquidez:** menor valor de una participación difícil de vender (empresa privada).
+- **Descuento por minoría:** menor valor de una participación sin control.
+- **Valuación de *startups*:** sin flujo ni historia → métodos especiales (múltiplos de etapa, VC method,
+  potencial de mercado).
+- **Valor presente neto (VPN/NPN):** para decisiones de inversión (valor presente de los flujos − inversión
+  inicial; si es positivo, crea valor).
+
+Con este vocabulario, entramos al **desarrollo absoluto**, donde diseccionamos cada método.
