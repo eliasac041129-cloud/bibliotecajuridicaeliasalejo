@@ -648,3 +648,71 @@ operaciones del Nivel IV:
 equity caro), y la **estructura de capital** equilibra el beneficio de la deuda (escudo fiscal,
 apalancamiento) con su riesgo (insolvencia). Entender esto es entender la **lógica económica** de cómo se
 financian las empresas y las operaciones.
+
+### 14.E · Los conceptos financieros de las operaciones (EBITDA, deuda neta, EV vs. equity value)
+
+Aquí aterrizamos todo lo anterior en el **idioma concreto del M&A y el financiamiento** —los términos que
+escucharás en cada deal y que debes dominar para negociar el precio y entender la operación—.
+
+**El EBITDA (la métrica reina del M&A).** *Earnings Before Interest, Taxes, Depreciation and Amortization*
+—utilidad **antes** de intereses, impuestos, depreciación y amortización—. Se calcula: utilidad operativa
+(EBIT) + depreciación + amortización. ¿Por qué es tan importante?
+- **Aproxima la generación de efectivo operativa** del negocio, **independiente** de: cómo se **financia**
+  (excluye intereses), su régimen **fiscal** (excluye impuestos), y las decisiones contables de
+  **depreciación** (que no son salida de efectivo). Así permite **comparar** la rentabilidad operativa de
+  empresas con distinta estructura de capital, fiscalidad y políticas contables —ideal para valuar y
+  comparar—.
+- **Es la base de los múltiplos** (EV/EBITDA) y de los **covenants** (Deuda/EBITDA) —el centro del lenguaje
+  del M&A y el financiamiento—.
+- **¡Cuidado con el "EBITDA ajustado"!** Los vendedores presentan un **EBITDA ajustado o normalizado**
+  (limpiado de gastos "no recurrentes" o "extraordinarios"). A veces es legítimo (quitar un gasto realmente
+  único); a veces es un **truco para inflar** (clasificar como "extraordinario" lo que es recurrente). El
+  abogado y el equipo de due diligence deben **escrutar** cada ajuste —cada peso de "ajuste" al EBITDA, a
+  un múltiplo de 8x, infla el precio en 8 pesos—. **Crítica del Consejo:** el EBITDA **no es efectivo
+  real** (ignora el CapEx necesario, los intereses y los impuestos que sí se pagan); úsalo, pero no lo
+  confundas con el flujo de caja libre.
+
+**La deuda neta.** = **Deuda total − efectivo y equivalentes**. ¿Por qué? Porque al comprar una empresa, su
+**efectivo** reduce el costo real (lo "recuperas") y su **deuda** lo aumenta (la heredas/pagas). Es central
+en el **ajuste de precio** (un share deal suele pactarse "*cash-free, debt-free*": el precio asume cero
+caja y cero deuda, y se **ajusta** por la deuda neta real al cierre —*completion accounts*, Libro 4—).
+
+**Enterprise Value (EV) vs. Equity Value (la distinción que confunde a los novatos).** Dos formas de medir
+el "valor" de una empresa, ¡que NO son lo mismo!:
+- **Enterprise Value (EV) = valor de TODO el negocio**, para **todos** los proveedores de capital
+  (accionistas **y** acreedores). Es el valor de la **operación** en sí, independiente de cómo se financie.
+- **Equity Value = valor para los ACCIONISTAS** = **EV − deuda neta**. Es lo que reciben los **dueños** (el
+  **precio de las acciones** en un share deal).
+- **La relación:** **Equity Value = EV − Deuda Neta.** *Ejemplo:* si una empresa tiene un EV de 1,000 y una
+  deuda neta de 300, su equity value es **700** (lo que pagan los compradores por las acciones; los otros
+  300 "ya están comprometidos" con los acreedores). **Error costoso del novato:** confundir EV con equity
+  value al negociar el precio —son 300 de diferencia—.
+- **Los múltiplos van con EV o con equity según el caso:** **EV/EBITDA** (el más usado en M&A: relaciona el
+  valor del negocio con su generación operativa, ambos "antes de la deuda"); **P/E** (precio/utilidad: va
+  con el equity value y la utilidad **neta**).
+
+**Los múltiplos (los atajos de valuación —anticipo del Libro 3—).** Un múltiplo expresa el valor como un
+"número de veces" una métrica: **EV/EBITDA** ("se vendió a 8 veces EBITDA"), **P/E**, EV/Ventas. Se usan
+para **valuar por comparación** (¿a qué múltiplo se vendieron empresas similares?) —rápido, pero requiere
+**comparables buenos** y entender por qué un múltiplo es alto o bajo (crecimiento, riesgo, márgenes)—. El
+Libro 3 (Valuación) los desarrolla.
+
+**Cómo se conecta todo en un deal (el ejemplo integrador).** Vuelve al CFO de la introducción: *"EBITDA
+ajustado de 200, deuda neta de 500, múltiplo de 8x EV/EBITDA"*. Ahora lo entiendes:
+- **EV** = 8 × 200 = **1,600** (valor de todo el negocio).
+- **Equity Value** = EV − deuda neta = 1,600 − 500 = **1,100** (lo que se paga por las acciones).
+- **Cuestionamientos del abogado que entiende finanzas:** ¿El "EBITDA **ajustado**" infla los números (qué
+  ajustes hizo)? ¿La **deuda neta** de 500 es real y completa (hay deuda oculta —avales, pasivos
+  contingentes—)? ¿El múltiplo de **8x** es razonable para esta industria y este crecimiento, o está caro?
+  ¿El **capital de trabajo** está normalizado (o se vacía antes del cierre)?
+*Esa* es la diferencia entre el abogado que asiente sin entender y el que **negocia el precio desde el
+conocimiento**. Y es la conexión directa con la **valuación** (Libro 3): saber **cuánto vale** lo que se
+negocia.
+
+**La lección final del libro.** No necesitas ser financiero, pero ahora **hablas su idioma**: lees estados
+financieros, analizas con ratios, entiendes el valor del dinero en el tiempo y el riesgo, el costo de
+capital, y los conceptos del deal (EBITDA, deuda neta, EV vs. equity, múltiplos). Con esto, **entiendes el
+fondo económico** de cada operación, **detectas riesgos financieros**, **cuestionas la valuación**, y
+**dialogas de igual a igual** con CFOs, banqueros y fondos. Has dejado de ver media película. Ahora estás
+listo para la herramienta que se construye sobre esta base: la **valuación de empresas** (Libro 3) —saber,
+con método, **cuánto vale** una empresa—.
