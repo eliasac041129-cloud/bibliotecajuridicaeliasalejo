@@ -925,3 +925,150 @@ competitiva, equilibrio de Nash, dilema del prisionero) son **universales** y se
 escuelas de negocios del mundo, en inglés. *Lección:* dominar este vocabulario estratégico (en español e
 inglés) permite al abogado **dialogar con CEOs, consultores y fondos** en su idioma —la culminación de la
 capacidad de operar en las grandes ligas globales—.
+
+## 22. Derecho comparado
+
+La estrategia y la teoría de juegos son universales, pero su cruce con el derecho varía. Tabla:
+
+| Jurisdicción / sistema | Cruce de estrategia/teoría de juegos con el derecho |
+|---|---|
+| **México** | La estrategia competitiva opera bajo la **LFCE/COFECE** (límite a colusión, abuso y concentraciones); la PI (LFPPI) como barrera; el gobierno corporativo (LMV/LGSM) aprueba la estrategia (deberes fiduciarios). |
+| **EE.UU.** | Cuna de Porter (HBS) y de la teoría de juegos (Nash, Schelling); **antitrust** (Sherman, Clayton) muy desarrollado; *case law* sobre estrategia competitiva y concentraciones; Delaware sobre deberes del consejo en decisiones estratégicas (M&A). |
+| **Unión Europea** | Derecho de la competencia robusto (Comisión Europea); fuerte control de concentraciones y abuso de posición dominante; doctrina sobre la frontera estrategia/abuso. |
+| **Reino Unido** | Tradición de estrategia (escuelas de negocios) y competencia (CMA). |
+| **Academia (universal)** | Porter (estrategia competitiva), Christensen (disrupción), Kim & Mauborgne (océano azul), Rumelt (buena/mala estrategia); teoría de juegos (von Neumann, Nash, Schelling, Aumann); *co-opetition* (Brandenburger & Nalebuff). |
+| **Síntesis** | La **estrategia y la teoría de juegos** son **universales** (no cambian por país); lo que varía es el **límite legal** (derecho de la competencia) de cómo competir, más estricto en EE.UU. y la UE. El abogado debe conocer la frontera entre la ventaja legítima y la conducta anticompetitiva. |
+
+**Lección comparada:** los marcos de estrategia (Porter) y de teoría de juegos (Nash, Schelling) son
+globales y universales. Lo que varía por jurisdicción es el **derecho de la competencia** —la frontera
+legal de la estrategia—, más desarrollado y estricto en EE.UU. y la UE. El abogado de élite domina los
+marcos universales **y** conoce los límites legales de cada jurisdicción.
+
+## 23. Derecho mexicano
+
+En México, la estrategia competitiva opera dentro de estos marcos jurídicos:
+- **Ley Federal de Competencia Económica (LFCE) / COFECE:** el límite central —prohíbe la **colusión**
+  (prácticas monopólicas absolutas), el **abuso de poder de mercado** (relativas) y las **concentraciones**
+  anticompetitivas—. Marca la frontera entre competir por mérito (legítimo) y por exclusión/colusión
+  (ilegítimo).
+- **Propiedad intelectual (LFPPI, derechos de autor):** patentes, marcas, secretos como **barreras de
+  entrada legales** (fuentes de ventaja protegidas).
+- **Gobierno corporativo (LMV/LGSM):** el **consejo** aprueba la estrategia y las grandes operaciones; los
+  **deberes fiduciarios** exigen decisiones estratégicas **informadas** y en interés de la sociedad (no por
+  construcción de imperio —Libro 8 del Nivel IV—).
+- **Regulación sectorial y concesiones:** barreras de entrada reguladas (ventaja de quien las tiene).
+- **Contratos estratégicos (exclusividades, no competencia):** válidos si son **razonables** (límite de
+  competencia —Libro 6 del Nivel IV—).
+
+> **Nota de método:** la estrategia busca ventaja; el **derecho de la competencia** marca el límite lícito.
+> El abogado de operaciones estratégicas debe conocer esa frontera (Manifiesto XI.5).
+
+## 24. Jurisprudencia relevante
+
+> *Nota de método: verifica vigencia y datos de identificación antes de citar.*
+
+Criterios mexicanos relevantes (en el cruce estrategia-derecho):
+- **Prácticas monopólicas (LFCE):** criterios de la COFECE y los tribunales sobre **colusión** (absolutas)
+  y **abuso de poder de mercado** (relativas) —la frontera de la estrategia competitiva legítima—.
+- **Concentraciones:** criterios sobre cuándo una adquisición (estratégica) reduce indebidamente la
+  competencia.
+- **Deberes fiduciarios en decisiones estratégicas (LMV/LGSM):** el deber del consejo de decidir
+  **informado** sobre las grandes operaciones (M&A) —conexión con Van Gorkom (Libro 8 del Nivel IV)—.
+- **Cláusulas de no competencia y exclusividad:** criterios sobre su razonabilidad.
+
+En el plano académico, los marcos de **Porter** y la **teoría de juegos** (no la jurisprudencia) son la
+referencia —la estrategia es disciplina de negocios, no rama jurídica; el derecho marca sus **límites**—.
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **COFECE (el regulador central):** criterios sobre **prácticas monopólicas** (colusión, abuso) y
+  **concentraciones** —el límite de la estrategia competitiva—.
+- **SCJN / tribunales:** criterios sobre **competencia económica**, **deberes fiduciarios** en decisiones
+  estratégicas, y la razonabilidad de las restricciones (no competencia, exclusividad).
+- **IMPI:** la PI como barrera de entrada (patentes, marcas).
+- **Reguladores sectoriales:** las concesiones y autorizaciones como barreras reguladas.
+
+## 26. Doctrina nacional
+
+La doctrina mexicana sobre estrategia se nutre principalmente de las **escuelas de negocios** y de la
+doctrina **internacional** (Porter et al., universal); lo jurídicamente relevante en México es la doctrina
+de **competencia económica** (la frontera legal de la estrategia) y de **gobierno corporativo** (el consejo
+y las decisiones estratégicas). El abogado mexicano de operaciones estratégicas combina los **marcos
+universales de estrategia y teoría de juegos** con el conocimiento del **derecho de la competencia** y
+societario nacional.
+
+## 27. Doctrina internacional
+
+**Estrategia:**
+- **Michael Porter, *Competitive Strategy* y *Competitive Advantage*.** **Lectura fundamental:** las cinco
+  fuerzas, las estrategias genéricas, la cadena de valor, la ventaja competitiva. El punto de partida.
+- **Richard Rumelt, *Good Strategy / Bad Strategy* (Buena estrategia, mala estrategia).** Qué es (y qué no
+  es) una buena estrategia; excelente y claro.
+- **Clayton Christensen, *The Innovator's Dilemma* (El dilema del innovador).** La disrupción: cómo los
+  entrantes desplazan a los líderes.
+- **Kim & Mauborgne, *Blue Ocean Strategy* (La estrategia del océano azul).** Crear mercados nuevos en vez
+  de competir en los existentes.
+- **Lafley & Martin, *Playing to Win*.** La estrategia como un conjunto de elecciones (dónde competir, cómo
+  ganar).
+
+**Teoría de juegos:**
+- **Dixit & Nalebuff, *The Art of Strategy* / *Thinking Strategically* (Pensar estratégicamente).**
+  **La mejor introducción a la teoría de juegos** para no matemáticos; accesible y aplicada. Lectura
+  imprescindible.
+- **Thomas Schelling, *The Strategy of Conflict* (La estrategia del conflicto).** El compromiso, la
+  credibilidad, la disuasión —profundo y aplicable a la negociación—.
+- **Brandenburger & Nalebuff, *Co-opetition*.** Competir y cooperar a la vez; la teoría de juegos aplicada
+  a los negocios.
+- **Von Neumann & Morgenstern; John Nash.** Los fundadores (para el rigor).
+
+## 28. Opiniones críticas (postura del Consejo Editorial)
+
+**Primero: el abogado de élite debe entender el "por qué", no solo el "cómo".** Sostenemos que la diferencia
+entre el abogado que **ejecuta** y el que **asesora** es entender la **estrategia**. El que solo conoce el
+derecho documenta lo que otros decidieron; el que entiende la estrategia **participa** en la decisión —y se
+vuelve asesor de confianza del CEO y del consejo—.
+
+**Segundo: la mayoría de los M&A destruyen valor —y el abogado debe ayudar a evitarlo.** Insistimos en este
+dato incómodo: muchas adquisiciones destruyen valor (sobrepago, sinergias ilusorias, integración fallida,
+ego del CEO). El abogado-estratega que hace las **preguntas incómodas** (¿hay lógica estratégica real?,
+¿las sinergias son capturables?, ¿se sobrepaga?, ¿es estrategia o imperio?) aporta una **disciplina**
+valiosísima —y cumple, de paso, con el deber fiduciario del consejo de decidir informado—.
+
+**Tercero: la ventaja competitiva sin *moat* es ilusoria.** Criticamos la confusión entre una buena racha y
+una ventaja **sostenible**. La pregunta estratégica clave es siempre: **"¿cuál es el *moat*?, ¿qué impide
+que te copien?"**. Sin foso, las rentas se disipan —y la valuación (Libro 3) debe reflejarlo—.
+
+**Cuarto: la teoría de juegos enseña que la integridad es buena estrategia.** Destacamos la lección de los
+**juegos repetidos**: en un mundo de relaciones de largo plazo (la vida profesional), **cooperar y cumplir
+la palabra** es la estrategia ganadora (la traición gana una vez y pierde siempre). La teoría de juegos da
+un **fundamento estratégico** (no solo ético) a la integridad que hemos defendido en toda la biblioteca —el
+broche de oro de la formación—.
+
+**Quinto: pensar estratégicamente no es ser maquiavélico.** El gran estratega **crea valor** (juegos de
+suma positiva), no solo lo captura; busca acuerdos que **beneficien a ambas partes** y perduren; y entiende
+que su **reputación** es su mayor activo. La estrategia de élite es **inteligente e íntegra** a la vez.
+
+## 29. Debate doctrinal
+
+- **¿Posicionamiento (Porter) o recursos/capacidades?** ¿La ventaja viene de **elegir una posición**
+  defendible en la industria (Porter) o de tener **recursos y capacidades** únicos e inimitables
+  (*resource-based view*)? *Postura del Consejo:* son **complementarios** —la posición importa (en qué
+  industria y dónde competir), pero los recursos y capacidades únicos son los que la hacen **sostenible**
+  (el moat). Ambos—.
+- **¿Diversificar o enfocarse?** *Postura del Consejo:* la **diversificación relacionada** (con sinergias
+  reales) puede crear valor; la **no relacionada** (conglomerados) suele destruirlo (descuento de
+  conglomerado). La tendencia moderna —acertada en general— favorece el **enfoque**, salvo que la matriz de
+  verdad agregue valor (*parenting advantage*).
+- **¿El M&A crea o destruye valor?** *Postura del Consejo:* **la mayoría destruye valor** para el comprador
+  (sobrepago, sinergias ilusorias, mala integración, ego). El M&A **disciplinado y estratégico** (lógica
+  clara, sinergias capturables, precio razonable, buena integración) **sí** crea valor —pero es la
+  excepción, no la regla—. El abogado debe aportar disciplina.
+- **¿La cooperación entre competidores es buena (eficiente) o mala (colusión)?** *Postura del Consejo:* la
+  teoría de juegos muestra que cooperar puede ser eficiente (evitar guerras de precios destructivas), pero
+  el derecho de la competencia **prohíbe la colusión** (porque daña a los consumidores). La frontera: la
+  cooperación **legítima** (alianzas, estándares, *co-opetition* que crean valor) vs. la **colusión ilegal**
+  (fijar precios, repartir mercados). El abogado debe conocer esa línea (Libro 6 del Nivel IV).
+- **¿Es la estrategia ciencia o arte?** *Postura del Consejo:* **ambas** —tiene marcos rigurosos (Porter,
+  teoría de juegos) pero su aplicación exige **juicio, creatividad y visión** (anticipar lo impredecible,
+  innovar, leer a las personas)—. Los marcos disciplinan el pensamiento, pero no sustituyen el **criterio**
+  —la marca del verdadero estratega—.
