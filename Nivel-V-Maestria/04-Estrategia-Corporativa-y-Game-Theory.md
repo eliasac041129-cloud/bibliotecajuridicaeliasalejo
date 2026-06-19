@@ -603,3 +603,81 @@ propuesta, el abogado que piensa estratégicamente pregunta:
 *Estas preguntas* convierten al abogado de "ejecutor del deal" en "asesor de la decisión" —el rol de mayor
 valor—. Conectan toda tu formación: la estrategia (este libro), la valuación (Libro 3), las finanzas (Libro
 2), la negociación (Libro 1), la estructura (Nivel IV) y el gobierno (¿el consejo decide informado?).
+
+### 14.D · La teoría de juegos (interacción estratégica, equilibrio de Nash, juegos clásicos)
+
+La **teoría de juegos** es la **matemática de la interacción estratégica**: cómo decidir racionalmente
+cuando el resultado de tus decisiones **depende de lo que hagan los demás** —y ellos, a su vez, deciden
+anticipando lo que harás tú—. Es la herramienta para pensar la **competencia, la negociación y la
+interacción** de forma rigurosa. (No necesitas la matemática avanzada; necesitas la **lógica**.)
+
+**Los elementos de un juego.** Un "juego" (en sentido técnico) tiene: **jugadores** (los que deciden),
+**estrategias** (las opciones de cada uno), y **pagos (*payoffs*)** (el resultado para cada jugador según
+la combinación de estrategias). La clave: el pago de cada uno **depende de lo que hagan todos** —de ahí la
+**interdependencia estratégica**—.
+
+**El equilibrio de Nash (el concepto central).** Un **equilibrio de Nash** es una combinación de
+estrategias en la que **ningún jugador puede mejorar su resultado cambiando unilateralmente** su estrategia,
+dado lo que hacen los demás. Es un punto de "**estabilidad**": nadie tiene incentivo a moverse solo. ¿Por
+qué importa? Porque **predice** el resultado probable de una interacción estratégica (donde los jugadores
+racionales acabarán). *Ojo:* el equilibrio de Nash **no es necesariamente el mejor resultado para todos**
+(como muestra el dilema del prisionero) —es solo el resultado **estable** dada la racionalidad individual—.
+
+**Los juegos clásicos (los que debes conocer).**
+- **El dilema del prisionero (el más importante).** Dos jugadores; cada uno puede **cooperar** o
+  **traicionar**. Si **ambos cooperan**, les va bien a los dos; si **ambos traicionan**, les va mal a los
+  dos; si uno traiciona y el otro coopera, el traidor gana mucho y el cooperador pierde. El **equilibrio de
+  Nash** es que **ambos traicionan** (cada uno, racionalmente, traiciona para protegerse o aprovecharse) —y
+  ambos terminan **peor** que si hubieran cooperado—. *Aplicaciones:* las **guerras de precios** (ambas
+  empresas bajan precios y ambas pierden —cooperar manteniendo precios las beneficiaría, pero coludirse es
+  ilegal—), la **tragedia de los comunes**, la dificultad de la cooperación. *Lección profunda:* la
+  racionalidad individual puede llevar a un resultado **colectivamente malo** —y por eso a veces se
+  necesitan **contratos, instituciones o confianza** para lograr la cooperación—.
+- **El juego de la gallina (*chicken*).** Dos jugadores en curso de colisión; el que **cede primero**
+  "pierde" (es el "gallina"), pero si **ninguno cede**, ambos se estrellan (lo peor). *Aplicaciones:* las
+  **negociaciones al borde del abismo** (*brinkmanship*), las guerras de desgaste, los enfrentamientos
+  donde quien **parece más comprometido a no ceder** gana (de ahí la importancia del **compromiso
+  creíble**). *Lección:* a veces, **comprometerse visiblemente a no ceder** (quemar las naves) hace que el
+  otro ceda —pero si ambos lo hacen, es la catástrofe—.
+- **Los juegos de coordinación.** Donde los jugadores **ganan si coordinan** en la misma opción (elegir el
+  mismo estándar, la misma plataforma). *Aplicaciones:* los **estándares** de mercado, los **efectos de
+  red**, dónde todos se benefician de converger.
+
+**Los juegos secuenciales y la inducción hacia atrás (pensar varios movimientos adelante).** Muchos juegos
+no son simultáneos sino **secuenciales** (uno mueve, luego el otro responde —como el ajedrez—). Para
+resolverlos se usa la **inducción hacia atrás**: razonar **desde el final** ("si yo hago X, el otro
+responderá Y —porque le conviene—, y entonces yo...; así que debo hacer..."). Esto es **pensar varios
+movimientos adelante** —la esencia del pensamiento estratégico, y directamente aplicable a la **negociación**
+(Libro 1: anticipar la respuesta del otro a cada movimiento)—.
+
+**La credibilidad, el compromiso y las amenazas (Schelling).** Una idea profunda y contraintuitiva: en la
+interacción estratégica, **una amenaza o promesa solo influye si es CREÍBLE**. Una amenaza que el otro sabe
+que **no cumplirás** (porque no te conviene) no tiene efecto. Por eso, paradójicamente, **limitar tus
+propias opciones** (comprometerte de forma irreversible) puede **darte poder**: si "quemas las naves"
+(haces creíble que no cederás), el otro debe ceder. *Aplicaciones:* el **compromiso creíble** en la
+negociación (Libro 1), la **disuasión** (una amenaza creíble disuade al rival de entrar/atacar), los
+**break-up fees** (comprometerse a un deal volviéndolo costoso de abandonar). *Lección de Schelling:* el
+poder estratégico a veces está en **comprometerse creíblemente**, no en conservar la flexibilidad.
+
+**Los juegos repetidos y la cooperación (el fundamento "de juego" de la integridad).** Si el dilema del
+prisionero se juega **una sola vez**, la racionalidad lleva a traicionar. Pero si se juega
+**repetidamente** (como en las relaciones de negocios de largo plazo), la **cooperación se vuelve
+racional**: traicionar hoy te da una ganancia única, pero el otro te **castigará** en todas las rondas
+futuras (estrategia "**ojo por ojo**" —*tit for tat*—). Por eso, en interacciones repetidas, **cooperar y
+mantener la reputación** es la estrategia ganadora. *Lección profundísima:* esto da un **fundamento
+estratégico (no solo ético) a la integridad y la cooperación** que hemos defendido en toda la biblioteca —en
+un mundo de relaciones repetidas (como la vida profesional), la **reputación de cumplir y cooperar** es
+racional y rentable; la traición gana una vez y pierde siempre—. La teoría de juegos **demuestra** por qué
+la integridad es buena estrategia.
+
+**Las aplicaciones para el abogado.** La teoría de juegos ilumina directamente:
+- **La negociación (Libro 1):** anticipar los movimientos del otro (inducción hacia atrás), el poder del
+  **compromiso creíble**, la cooperación en relaciones repetidas, los juegos de suma positiva (crear valor).
+- **Las subastas (de M&A):** cómo competir en una subasta (la "maldición del ganador" —no sobrepagar—) o
+  cómo **diseñar** una subasta como vendedor (para maximizar el precio —Libro 1—).
+- **La competencia (guerras de precios, entrada, disuasión):** entender el dilema del prisionero de la
+  competencia y cómo se rompe (legalmente: diferenciándose; ilegalmente: coludiéndose).
+- **La interacción con reguladores y contrapartes:** anticipar sus movimientos como "jugadores".
+*Para el abogado:* la teoría de juegos enseña a **pensar interactivamente** —no "¿qué quiero hacer?" sino
+"¿qué pasará dado lo que hará el otro, que a su vez anticipa lo que haré yo?"—. Es la lógica del ajedrez
+aplicada a los negocios.
