@@ -268,3 +268,137 @@ técnico que solo "ve lo legal"—. Esta es la diferencia entre el abogado que l
 necesitan el papeleo legal) y el que **buscan** (porque entiende su negocio y agrega valor estratégico).
 Por eso las finanzas, junto con la negociación, son herramientas de la **maestría**: convierten al jurista
 en **asesor de negocios**.
+
+## 10. Definiciones doctrinales
+
+La doctrina financiera y contable define los conceptos centrales así:
+
+- **Contabilidad:** el sistema de **registro, clasificación y reporte** de las operaciones económicas de
+  una entidad, que produce información útil para la toma de decisiones. La doctrina la define como el
+  "**lenguaje de los negocios**".
+- **Finanzas:** la disciplina que estudia la **asignación de recursos a través del tiempo bajo
+  incertidumbre** —cómo se obtiene capital (financiamiento), cómo se invierte, y cómo se mide el valor, el
+  riesgo y el rendimiento—.
+- **Estados financieros:** los informes que comunican la situación y el desempeño económico de una
+  entidad. Los tres principales: **balance** (situación financiera a una fecha), **estado de resultados**
+  (desempeño en un periodo) y **estado de flujos de efectivo** (movimientos de efectivo en un periodo).
+- **Balance (estado de situación financiera):** "foto" a una fecha de lo que la empresa **tiene** (activos)
+  y **debe** (pasivos), y lo que queda para los dueños (**capital/patrimonio**). Ecuación contable
+  fundamental: **Activo = Pasivo + Capital**.
+- **Estado de resultados (P&G / cuenta de pérdidas y ganancias):** "película" de un periodo que muestra los
+  **ingresos** menos los **costos y gastos**, llegando a la **utilidad (o pérdida)** neta.
+- **Estado de flujos de efectivo:** muestra de dónde vino y a dónde fue el **efectivo** (operación,
+  inversión, financiamiento). Clave porque "**utilidad no es efectivo**".
+- **Partida doble:** principio contable por el que cada operación se registra en **dos** cuentas (cargo y
+  abono) que se equilibran —garantizando que el balance siempre "cuadre"—.
+- **Devengo (*accrual*) vs. efectivo (*cash*):** el **devengo** registra ingresos y gastos cuando **se
+  generan** (no cuando se cobran/pagan); el criterio de **efectivo**, cuando entra/sale el dinero. La
+  contabilidad financiera usa **devengo** —de ahí que utilidad ≠ efectivo—.
+- **Valor del dinero en el tiempo (*time value of money*):** un peso hoy vale más que un peso futuro; se
+  comparan mediante **valor presente** (descontar) y **valor futuro** (capitalizar).
+- **EBITDA:** *Earnings Before Interest, Taxes, Depreciation and Amortization* —utilidad **antes** de
+  intereses, impuestos, depreciación y amortización—. Aproxima la **generación de efectivo operativa** y es
+  la métrica reina en M&A y financiamiento.
+
+## 11. Definiciones legales y marco normativo
+
+Aunque las finanzas son una disciplina más que un cuerpo jurídico, el **marco normativo** de la información
+financiera es jurídico y el abogado debe conocerlo:
+
+- **Normas de Información Financiera (NIF) — México.** Emitidas por el **CINIF**, regulan **cómo** se
+  preparan los estados financieros en México (reconocimiento, valuación, presentación, revelación).
+- **IFRS (*International Financial Reporting Standards*).** El estándar **internacional** (obligatorio para
+  las emisoras en muchos países y para las mexicanas que cotizan); busca comparabilidad global. Los **US
+  GAAP** son el estándar estadounidense.
+- **Código de Comercio y leyes mercantiles.** Obligan a los comerciantes a llevar **contabilidad** y
+  conservar registros.
+- **Ley del Mercado de Valores (LMV) y CNBV.** Obligan a las **emisoras** a **revelar** información
+  financiera periódica, auditada y veraz; sancionan la información falsa o engañosa.
+- **Régimen fiscal (Código Fiscal, LISR).** Impone la **contabilidad fiscal** (base para los impuestos),
+  con reglas propias que pueden **diferir** de la contabilidad financiera (un punto fino en M&A y
+  reorganizaciones).
+- **Auditoría (normas de auditoría, regulación del auditor).** Marco de la **auditoría externa** que da fe
+  de la razonabilidad de los estados financieros.
+- **Sarbanes-Oxley (EE.UU.) y equivalentes.** Responsabilidad de los directivos por los estados
+  financieros, controles internos y comité de auditoría (gobierno corporativo de la información financiera).
+
+> **Nota de método:** el abogado no prepara estados financieros (eso es del contador), pero debe
+> **entenderlos**, conocer **qué marco** se aplica (NIF/IFRS), y saber que la contabilidad **financiera** y
+> la **fiscal** pueden diferir. Verifica el marco aplicable (Manifiesto XI.5).
+
+## 12. Definición sencilla
+
+Imagina que una empresa es como **tu vida económica personal**, y los tres estados financieros son tres
+formas de mirarla:
+
+- **El balance es tu "foto patrimonial" de hoy.** Lista lo que **tienes** (tu casa, tu coche, tu dinero en
+  el banco = **activos**), lo que **debes** (tu hipoteca, tu préstamo del coche = **pasivos**), y lo que
+  **realmente es tuyo** (lo que quedaría si vendieras todo y pagaras tus deudas = tu **patrimonio/capital**).
+  La regla mágica: **lo que tienes = lo que debes + lo que es tuyo** (Activo = Pasivo + Capital). Es una
+  **foto** de un momento.
+- **El estado de resultados es tu "película de ingresos del año".** Muestra cuánto **ganaste** (tu sueldo,
+  tus ingresos), cuánto **gastaste** (renta, comida, etc.), y cuánto te **quedó** (tu ahorro = **utilidad**)
+  o cuánto te **faltó** (pérdida). Es una **película** de un periodo.
+- **El estado de flujos de efectivo es tu "cuenta bancaria en movimiento".** Muestra cuánto **dinero de
+  verdad** entró y salió de tu cuenta. ¿Por qué importa si ya tengo el estado de resultados? Porque
+  **"ganar no es lo mismo que tener efectivo"**: puedes haber "ganado" en papel (te deben dinero que aún no
+  te pagan) pero estar **sin efectivo** para pagar la renta. Muchas empresas "rentables" **quiebran por
+  falta de efectivo**.
+
+La idea sencilla: para entender una empresa miras **tres cosas** —qué tiene y debe (balance), cuánto gana
+(resultados), y cuánto efectivo genera de verdad (flujos)—. Y la trampa más importante que debes recordar
+siempre: **la utilidad (lo que dice ganar) NO es lo mismo que el efectivo (el dinero que de verdad tiene)**.
+Un buen analista —y un buen abogado de M&A— siempre pregunta: *¿y cuánto efectivo genera realmente esto?*
+
+## 13. Conceptos fundamentales
+
+Fija este vocabulario; es el idioma financiero que usarás en cada operación:
+
+**Los tres estados financieros:**
+- **Balance:** **Activo** (circulante —efectivo, cuentas por cobrar, inventarios— y no circulante —activos
+  fijos, intangibles—) = **Pasivo** (corto y largo plazo —deuda, proveedores—) + **Capital** (aportaciones
+  + utilidades retenidas).
+- **Estado de resultados:** **Ingresos** − costo de ventas = **utilidad bruta**; − gastos de operación =
+  **utilidad operativa (EBIT)**; − intereses − impuestos = **utilidad neta**.
+- **Flujos de efectivo:** flujo de **operación** (del negocio), de **inversión** (CapEx, compras/ventas de
+  activos), de **financiamiento** (deuda, capital, dividendos).
+
+**Conceptos de contabilidad:**
+- **Partida doble, devengo vs. efectivo, principios (NIF/IFRS).**
+- **Depreciación/amortización:** repartir el costo de un activo a lo largo de su vida útil (gasto que **no**
+  es salida de efectivo —clave para el EBITDA—).
+- **Capital de trabajo:** activo circulante − pasivo circulante (el dinero "atrapado" en la operación del
+  día a día —cuentas por cobrar + inventarios − proveedores—).
+- **Utilidades retenidas:** las ganancias acumuladas no repartidas (reinvertidas).
+
+**Análisis financiero (ratios):**
+- **Liquidez:** razón circulante (activo circulante / pasivo circulante), prueba ácida. ¿Puede pagar a
+  corto plazo?
+- **Apalancamiento/solvencia:** Deuda/Capital, **Deuda/EBITDA**, cobertura de intereses. ¿Cuánta deuda?
+- **Rentabilidad:** margen (utilidad/ingresos), **ROE** (rentabilidad sobre capital), **ROA** (sobre
+  activos), **ROIC** (sobre capital invertido).
+- **Eficiencia/actividad:** rotación de inventarios, días de cobro/pago, rotación de activos.
+
+**Conceptos clave de finanzas:**
+- **Valor del dinero en el tiempo:** valor presente (VP), valor futuro (VF), **tasa de descuento**.
+- **Flujo de efectivo descontado (*DCF*):** valuar trayendo los flujos futuros a valor presente (Libro 3).
+- **Riesgo y rendimiento:** su relación; **prima de riesgo**.
+- **Costo de capital:** **costo de la deuda** (la tasa que paga), **costo del equity** (lo que exigen los
+  accionistas —**CAPM**—), **WACC** (promedio ponderado). Es la **tasa de descuento** y el "umbral" de
+  rentabilidad.
+- **Estructura de capital:** el mix **deuda/equity** y el **apalancamiento** (Modigliani-Miller; Libro 5).
+
+**Los conceptos financieros de las operaciones (M&A):**
+- **EBITDA:** utilidad antes de intereses, impuestos, depreciación y amortización ≈ generación de efectivo
+  operativa. La **métrica reina** en M&A y financiamiento.
+- **EBITDA ajustado / normalizado:** EBITDA "limpiado" de partidas extraordinarias o no recurrentes
+  (¡cuidado!: puede usarse para **inflar**).
+- **Deuda neta:** deuda total − efectivo. Ajusta el precio en M&A.
+- **Enterprise Value (EV) vs. Equity Value:** **EV** = valor de **todo el negocio** (para todos los
+  proveedores de capital); **Equity Value** = valor para los **accionistas** = EV − deuda neta. *(El precio
+  de las acciones es el equity value.)*
+- **Múltiplos:** EV/EBITDA, P/E (precio/utilidad), etc. —atajos de valuación (Libro 3)—.
+- **Quality of Earnings (QoE):** análisis de cuán **reales y recurrentes** son las utilidades (due
+  diligence —Libro 2 del Nivel IV—).
+
+Con este vocabulario, entramos al **desarrollo absoluto**.
