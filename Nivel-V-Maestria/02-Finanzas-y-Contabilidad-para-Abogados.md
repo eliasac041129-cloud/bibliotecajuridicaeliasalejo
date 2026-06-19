@@ -881,3 +881,146 @@ arriesgado —volatilidad, tipo de cambio, marco legal— que en EE.UU.), lo que
 descuento y **reduce** las valuaciones en mercados emergentes. *Lección:* al valuar o financiar operaciones
 en distintos países, el riesgo país afecta los números —un mismo flujo "vale menos" en un mercado más
 riesgoso—.
+
+## 22. Derecho comparado
+
+Las finanzas son universales, pero los **marcos contables** y la regulación varían. Tabla:
+
+| Jurisdicción / sistema | Marco contable y financiero |
+|---|---|
+| **México** | **NIF** (Normas de Información Financiera, del CINIF); las **emisoras** usan **IFRS**; contabilidad fiscal propia (CFF/LISR); supervisión CNBV; finanzas con estándares internacionales. |
+| **EE.UU.** | **US GAAP** (estándar estadounidense, más basado en reglas detalladas); SEC y PCAOB (auditoría); Sarbanes-Oxley; el mercado financiero más profundo y la cuna de la teoría financiera moderna. |
+| **Unión Europea / internacional** | **IFRS** (más basadas en principios) —el estándar global, adoptado por >140 países—; busca comparabilidad mundial. |
+| **Reino Unido** | IFRS (con variantes); centro financiero global (City de Londres). |
+| **Convergencia IFRS–US GAAP** | Esfuerzo de **convergencia** entre ambos marcos (aún con diferencias en reconocimiento de ingresos, arrendamientos, instrumentos financieros). |
+| **Teoría financiera (universal)** | Los conceptos (valor del dinero en el tiempo, riesgo-rendimiento, costo de capital, DCF, CAPM, Modigliani-Miller) son **universales** —no cambian por país—. |
+| **Síntesis** | La **contabilidad** (cómo se reporta) varía por marco (NIF/IFRS/GAAP) y debe conocerse en deals transfronterizos; las **finanzas** (la lógica de la decisión) son universales. El idioma del deal global (EBITDA, EV/EBITDA, IRR) es común. |
+
+**Lección comparada:** la **lógica financiera** es universal; lo que cambia es el **marco contable** bajo el
+que se reportan los números. En una operación transfronteriza, el abogado debe saber **bajo qué normas**
+(NIF, IFRS, US GAAP) están los estados financieros, porque las cifras (incluido el EBITDA) pueden diferir
+—y la comparabilidad exige ajustar—.
+
+## 23. Derecho mexicano
+
+En México, el marco de la información financiera:
+- **Normas de Información Financiera (NIF):** emitidas por el **CINIF**; rigen la contabilidad de las
+  empresas mexicanas (las que cotizan usan **IFRS**).
+- **Código de Comercio:** obliga a llevar y conservar **contabilidad**.
+- **Ley del Mercado de Valores (LMV) y CNBV:** obligan a las **emisoras** a revelar información financiera
+  periódica, **auditada** y veraz; sancionan la información falsa.
+- **Régimen fiscal (CFF, LISR):** la **contabilidad fiscal** (base de los impuestos) con reglas propias,
+  que pueden diferir de la financiera —relevante en M&A y reorganizaciones (Libro 3 del Nivel IV)—.
+- **Normas de auditoría y regulación del auditor:** la auditoría externa que da fe de la razonabilidad de
+  los estados.
+- **Ley General de Sociedades Mercantiles:** obligaciones de información a los socios, reservas legales,
+  distribución de utilidades.
+
+> **Nota de método:** el abogado **interpreta** estados financieros (no los prepara); debe conocer **qué
+> marco** se aplica (NIF/IFRS), que la contabilidad financiera y la fiscal **difieren**, y consultar al
+> contador/fiscalista para los detalles técnicos. Verifica el marco vigente (Manifiesto XI.5).
+
+## 24. Jurisprudencia relevante
+
+> *Nota de método: verifica vigencia y datos de identificación antes de citar.*
+
+Criterios mexicanos relevantes (en las áreas donde finanzas y derecho se cruzan):
+- **Información financiera falsa/engañosa (LMV):** responsabilidad de emisoras y directivos por revelación
+  defectuosa al mercado.
+- **Contabilidad fiscal y su relación con la financiera (CFF/LISR):** criterios sobre la deducibilidad,
+  el reconocimiento de ingresos para efectos fiscales, y las diferencias con la contabilidad financiera.
+- **Distribución de utilidades y reservas (LGSM):** criterios sobre cuándo y cómo se pueden repartir
+  utilidades (solo las realmente existentes y aprobadas).
+- **Responsabilidad de administradores por los estados financieros (LMV/LGSM):** el deber de presentar
+  información veraz.
+- **Operaciones simuladas / EFOS (art. 69-B CFF):** la contabilidad que documenta operaciones inexistentes
+  (conexión con la due diligence fiscal —Libro 2 del Nivel IV—).
+
+En el plano técnico, el marco lo dan las **NIF/IFRS** (no la jurisprudencia); la doctrina financiera es la
+referencia para la lógica de las decisiones.
+
+## 25. Criterios de la Suprema Corte / reguladores
+
+- **CNBV:** regulación de la **información financiera de las emisoras** (revelación, auditoría) y de las
+  instituciones financieras.
+- **CINIF:** emisor de las **NIF** (el marco contable mexicano).
+- **SAT / SHCP:** la **contabilidad fiscal** y sus reglas; el régimen de operaciones simuladas (69-B).
+- **SCJN / tribunales:** criterios sobre **información financiera falsa**, **distribución de utilidades**,
+  y la **interacción** entre contabilidad financiera y fiscal.
+- **Auditoría (IMCP — Instituto Mexicano de Contadores Públicos):** normas de auditoría y de la profesión
+  contable.
+
+## 26. Doctrina nacional
+
+La doctrina mexicana relevante combina la **contable** (las NIF y su interpretación, la profesión contable
+—IMCP—), la **fiscal** (la relación entre contabilidad y impuestos), y la **financiera** (que en México se
+nutre principalmente de la doctrina internacional y de las escuelas de negocios). Para el abogado, lo
+esencial es la **doctrina sobre la interacción derecho-finanzas**: la información financiera en el mercado
+de valores (LMV), la responsabilidad por estados financieros, la distribución de utilidades, y la
+contabilidad fiscal. La formación financiera del abogado mexicano se apoya, sobre todo, en la **doctrina
+internacional** y en la **práctica** (leer estados financieros reales).
+
+## 27. Doctrina internacional
+
+- **Brealey, Myers & Allen, *Principios de Finanzas Corporativas*.** **El tratado de referencia** de
+  finanzas corporativas (valor del dinero en el tiempo, riesgo-rendimiento, costo de capital, estructura de
+  capital, valuación). Lectura imprescindible para profundizar.
+- **Berk & DeMarzo, *Finanzas Corporativas*.** Otro texto excelente y didáctico.
+- **Damodaran (NYU), obras y materiales sobre valuación y finanzas.** El "gurú" de la valuación; recursos
+  accesibles y profundos (anticipa el Libro 3).
+- **NIF (CINIF) / IFRS / US GAAP.** Los marcos contables (para entender cómo se reportan los números).
+- **Penman, *Financial Statement Analysis*.** Cómo analizar estados financieros a fondo.
+- **Modigliani & Miller (estructura de capital); Markowitz / Sharpe (riesgo-rendimiento, CAPM).** Los
+  fundamentos teóricos (premios Nobel).
+- **Para abogados específicamente:** materiales de "finanzas para abogados" de escuelas de derecho y
+  despachos (orientados a lo que el abogado **necesita** entender, sin volverse contador).
+
+## 28. Opiniones críticas (postura del Consejo Editorial)
+
+**Primero: el abogado DEBE entender finanzas (no es opcional).** Sostenemos con firmeza que el abogado
+corporativo que **no** entiende finanzas y contabilidad está **incompleto**: ve media película, deja
+decisiones críticas (precio, estructura, riesgo) en manos de otros, y no puede dialogar de igual a igual
+con el negocio. Para el M&A, el financiamiento y el PE/VC, entender los números es **tan importante** como
+entender el derecho.
+
+**Segundo: "utilidad no es efectivo" es la lección que más vidas (empresariales) salva.** Insistimos en
+que la distinción entre **utilidad** (contable, por devengo) y **efectivo** (real) es la más importante y
+la más ignorada: empresas "rentables" quiebran por falta de efectivo. El abogado debe mirar **siempre** el
+flujo de efectivo.
+
+**Tercero: el EBITDA es útil pero peligroso.** Criticamos el **culto ciego al EBITDA**: es una métrica útil
+(aproxima la generación operativa y permite comparar), pero **no es efectivo real** (ignora el CapEx, los
+intereses y los impuestos que sí se pagan), y el "**EBITDA ajustado**" se manipula con frecuencia para
+inflar precios. Úsalo, pero **escruta los ajustes** y nunca lo confundas con el flujo de caja libre.
+
+**Cuarto: la integridad de los números es un deber.** La frontera entre la contabilidad **agresiva** (legal
+pero engañosa) y la **fraudulenta** es ética antes que técnica. El abogado debe estar del lado de la
+**verdad** de los números —y saber detectar cuándo alguien (un vendedor, un cliente) los está manipulando—.
+
+**Quinto: entender finanzas se aprende calculando, no solo leyendo.** Advertimos que el dominio financiero
+exige **práctica**: leer estados financieros **reales**, calcular ratios, hacer un DCF sencillo. El abogado
+debe **entrenar** con números, como el negociador entrena negociando.
+
+## 29. Debate doctrinal
+
+- **¿EBITDA o flujo de caja libre?** ¿Qué métrica refleja mejor la capacidad de generar valor? *Postura del
+  Consejo:* el **EBITDA** es útil para comparar la operación, pero el **flujo de caja libre** (que resta el
+  CapEx y considera el capital de trabajo) es más cercano al **efectivo real**. El abogado debe usar el
+  EBITDA con cuidado y mirar también el flujo —el EBITDA "miente" cuando hay mucho CapEx o capital de
+  trabajo creciente—.
+- **¿Importa la estructura de capital (Modigliani-Miller)?** En teoría pura, no; en el mundo real (con
+  impuestos y riesgo de quiebra), **sí**. *Postura del Consejo:* hay un nivel **óptimo** de deuda (el
+  escudo fiscal aporta valor hasta que el riesgo de insolvencia lo contrarresta); ni cero deuda
+  (desaprovecha el escudo) ni deuda excesiva (riesgo de quiebra).
+- **¿Contabilidad basada en reglas (US GAAP) o en principios (IFRS)?** *Postura del Consejo:* las
+  **reglas** dan certeza pero invitan a "cumplir la letra violando el espíritu" (Enron); los **principios**
+  exigen juicio pero capturan mejor la **sustancia económica**. La tendencia global (IFRS) favorece los
+  principios —y exige más **criterio**—.
+- **¿Puede el abogado confiar en los estados financieros auditados?** *Postura del Consejo:* la auditoría
+  da una **seguridad razonable**, no absoluta (Enron estaba "auditado"). El abogado debe **leer con
+  criterio** y, en operaciones, apoyarse en la **due diligence financiera (QoE)** —no confiar ciegamente—.
+- **¿Hasta dónde debe llegar la formación financiera del abogado?** *Postura del Consejo:* no necesita ser
+  contador ni financiero (eso es de otros expertos), pero **sí** debe **leer estados financieros, analizar
+  con ratios, entender el valor del dinero en el tiempo y el costo de capital, y manejar los conceptos del
+  deal** (EBITDA, deuda neta, EV/equity, múltiplos). Ese es el **mínimo indispensable** —y este libro lo
+  cubre—.
