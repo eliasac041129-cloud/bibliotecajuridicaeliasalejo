@@ -515,3 +515,73 @@ que pueden manipularse. El abogado no construye el DCF (lo hace el banquero/valu
 **entender sus tres componentes** y **cuestionar los supuestos** —porque ahí, en las proyecciones, el valor
 terminal y el WACC, es donde se infla o se deprime el valor, y donde el abogado que entiende puede defender
 a su cliente—.
+
+### 14.C · La valuación por múltiplos (comparables de mercado y transacciones precedentes)
+
+Si el DCF valúa por los **fundamentos** (los flujos propios), la valuación por **múltiplos** valúa por
+**comparación**: ¿a cuánto se valúan o se han vendido empresas **similares**? Es el método **más usado en la
+práctica** por su rapidez y porque refleja "lo que paga el mercado". La lógica: si empresas comparables se
+valúan a, digamos, **8 veces su EBITDA**, una empresa similar debería valuarse alrededor de ese múltiplo.
+
+**Cómo funciona un múltiplo.** Un múltiplo relaciona el **valor** con una **métrica** financiera:
+- **EV/EBITDA** (el más usado en M&A): relaciona el *enterprise value* con el EBITDA. Si comparables se
+  venden a 8x EV/EBITDA y la empresa tiene un EBITDA de 100, su EV ≈ 800 (y su equity value = 800 − deuda
+  neta).
+- **P/E (*Price/Earnings*, precio/utilidad):** relaciona el precio de la acción (equity value) con la
+  utilidad **neta**. Usado para empresas públicas.
+- **EV/Ventas:** útil para empresas **sin utilidad** todavía (startups, empresas en crecimiento que aún no
+  son rentables).
+- **Múltiplos específicos por industria:** EV/suscriptor (telecom), EV/cama (hospitales), EV/MW (energía),
+  etc. —cuando la métrica operativa predice mejor el valor—.
+
+**Los dos tipos de múltiplos (clave distinguirlos):**
+
+**1) Comparables de mercado (*trading comps*).** Se toman los múltiplos a los que cotizan **empresas
+públicas similares** (mismo sector, tamaño, mercado). *Ventajas:* reflejan la valuación **actual del
+mercado**, son fáciles de obtener (precios públicos), y dan un valor "**minoritario**" (el de una acción en
+bolsa). *Limitaciones:* requiere empresas **verdaderamente comparables** (mismo negocio, crecimiento,
+márgenes, riesgo —rara vez son idénticas—); el mercado puede estar **sobre o infravalorado** (burbujas); y
+NO incluyen prima de control (son precios de minoría).
+
+**2) Transacciones precedentes (*precedent transactions*).** Se toman los múltiplos **pagados en deals
+comparables recientes** (adquisiciones de empresas similares). *Ventajas:* reflejan lo que de verdad se
+**pagó** en operaciones reales, e **incluyen la prima de control** (porque son adquisiciones de control) y
+las sinergias que los compradores pagaron. *Limitaciones:* los deals pasados pueden no ser comparables (otro
+momento de mercado, otras circunstancias); la información puede ser limitada (no siempre se conocen los
+términos); y reflejan condiciones de mercado que pueden haber cambiado.
+
+**Cómo se hace bien (el arte de los comparables).** La calidad de una valuación por múltiplos depende
+**enteramente** de la calidad de los comparables:
+- **Elegir comparables de verdad similares:** mismo **sector**, **tamaño**, **mercado geográfico**,
+  **crecimiento**, **márgenes** y **riesgo**. Comparar una empresa de alto crecimiento con una madura
+  distorsiona (la de alto crecimiento merece un múltiplo mayor).
+- **Entender por qué un múltiplo es alto o bajo:** un múltiplo refleja las **expectativas** (crecimiento,
+  riesgo, márgenes). Una empresa con mayor crecimiento y menor riesgo merece un **múltiplo más alto**. No se
+  trata de aplicar el múltiplo "promedio" ciegamente, sino de **ajustar** por las diferencias.
+- **Usar el múltiplo correcto para la métrica correcta:** EV/EBITDA va con EBITDA (ambos "antes de la
+  deuda"); P/E va con utilidad neta (ambos "del equity"). Mezclarlos es un error de novato (Libro 2).
+- **Limpiar las métricas:** usar EBITDA **normalizado** (sin partidas extraordinarias —pero escrutando los
+  "ajustes"—).
+
+**Ventajas y desventajas frente al DCF.**
+- **Ventajas de los múltiplos:** **rápidos**, basados en **datos reales del mercado** (no en proyecciones
+  inventadas), fáciles de comunicar ("se vendió a 8x EBITDA"), y reflejan el **sentimiento actual** del
+  mercado.
+- **Desventajas:** dependen de **comparables buenos** (a menudo no los hay); **heredan** los errores del
+  mercado (si el mercado está en burbuja, los múltiplos están inflados); son **menos precisos** sobre los
+  fundamentos específicos de la empresa; y no explican **por qué** vale eso (solo dicen "lo similar vale
+  esto").
+
+**La relación con el DCF (se complementan).** Los múltiplos y el DCF son **complementarios**, no
+excluyentes: el DCF da el valor **fundamental** (por los flujos propios); los múltiplos dan el valor de
+**mercado** (por comparación). Idealmente **coinciden** (si difieren mucho, hay que entender por qué: ¿el
+mercado está caro/barato?, ¿las proyecciones del DCF son irreales?). El valuador serio usa **ambos** y
+presenta el **rango** (el *football field*). *Para el abogado:* ante una valuación, pregunta "¿qué dice el
+DCF **y** qué dicen los múltiplos?, ¿coinciden?, ¿por qué difieren?". Si solo te muestran uno, pide el otro.
+
+**La lección.** Los múltiplos son la herramienta **práctica** de la valuación (lo que escucharás en cada
+deal: "se vendió a X veces EBITDA"), pero su validez depende **enteramente** de los **comparables**. El
+abogado experto cuestiona: ¿Son los comparables **de verdad similares** (sector, tamaño, crecimiento,
+riesgo)? ¿Por qué este múltiplo y no otro? ¿El mercado está caro o barato ahora? ¿Se usó el múltiplo
+correcto para la métrica correcta? Esas preguntas distinguen al abogado que **entiende** la valuación del
+que solo repite el número que le dieron.
