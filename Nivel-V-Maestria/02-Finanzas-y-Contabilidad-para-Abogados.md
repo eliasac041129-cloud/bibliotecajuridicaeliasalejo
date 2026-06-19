@@ -402,3 +402,130 @@ Fija este vocabulario; es el idioma financiero que usarás en cada operación:
   diligence —Libro 2 del Nivel IV—).
 
 Con este vocabulario, entramos al **desarrollo absoluto**.
+
+## 14. Desarrollo absoluto
+
+Esta es la sección central. La desarrollamos en cinco bloques: **(A)** la **contabilidad y los tres estados
+financieros** (cómo leerlos y cómo se conectan); **(B)** el **análisis financiero** (los ratios que revelan
+la salud de una empresa); **(C)** los **conceptos clave de finanzas** (valor del dinero en el tiempo, riesgo
+y rendimiento); **(D)** el **costo y la estructura de capital** (WACC, deuda vs. equity); y **(E)** los
+**conceptos financieros de las operaciones** (EBITDA, deuda neta, EV vs. equity value, múltiplos —el idioma
+del M&A—). Estúdialos en orden: primero leer los números, luego analizarlos, después la lógica financiera,
+el costo del capital, y la aplicación.
+
+### 14.A · La contabilidad y los tres estados financieros (cómo leerlos)
+
+Toda la información financiera de una empresa se condensa en **tres estados** que el abogado debe saber
+**leer** (no preparar). Domínalos: son la "radiografía" de la empresa.
+
+**El balance (estado de situación financiera): la foto patrimonial.** Muestra, **a una fecha**, lo que la
+empresa **tiene** y **debe**. Su estructura, regida por la ecuación **Activo = Pasivo + Capital**:
+- **Activos (lo que tiene):** se ordenan por **liquidez**. **Circulantes** (se vuelven efectivo en <1 año:
+  **efectivo**, **cuentas por cobrar** —lo que le deben los clientes—, **inventarios**); y **no
+  circulantes** (de largo plazo: **activos fijos** —plantas, maquinaria, inmuebles—, **intangibles**
+  —marcas, patentes, **goodwill**—).
+- **Pasivos (lo que debe):** **circulantes** (a <1 año: proveedores, deuda de corto plazo, impuestos por
+  pagar); y **no circulantes** (deuda de largo plazo, obligaciones laborales).
+- **Capital/Patrimonio (lo que es de los dueños):** capital aportado por los accionistas + **utilidades
+  retenidas** (las ganancias acumuladas no repartidas). Es el "valor en libros" de lo que queda para los
+  dueños tras pagar todas las deudas.
+*Qué le dice al abogado:* la **estructura de capital** (¿cuánta deuda vs. capital?), la **liquidez** (¿tiene
+efectivo?), los **activos** (¿qué se está comprando en un asset deal?), y las **señales** (mucha deuda de
+corto plazo, *goodwill* enorme de adquisiciones pasadas, etc.).
+
+**El estado de resultados (P&G): la película de la rentabilidad.** Muestra, **en un periodo**, si la
+empresa **ganó o perdió**, en una "cascada" reveladora:
+- **Ingresos (ventas)** − **costo de ventas** = **utilidad bruta** (¿cuánto gana en su producto/servicio
+  básico?).
+- − **gastos de operación** (administración, ventas) = **utilidad operativa (EBIT)** (¿cuánto gana el
+  **negocio** en sí, antes de cómo se financia y los impuestos?). **Clave:** esta es la utilidad del
+  **negocio**, independiente de la deuda.
+- − **intereses** (costo de la deuda) − **impuestos** = **utilidad neta** (lo que finalmente queda para los
+  accionistas).
+*Qué le dice al abogado:* los **márgenes** (rentabilidad en cada nivel), si la empresa es rentable en su
+**operación** (EBIT) o si los intereses/impuestos se la comen, y la base para calcular el **EBITDA** (EBIT
++ depreciación y amortización).
+
+**El estado de flujos de efectivo: la verdad del dinero.** Muestra, **en un periodo**, de dónde **vino** y
+a dónde **fue** el **efectivo real** (no la utilidad contable), en tres secciones:
+- **Flujo de operación:** el efectivo que genera (o consume) el **negocio**. **El más importante:** una
+  empresa sana genera efectivo de su operación. Si la utilidad es positiva pero el flujo de operación es
+  negativo, **alarma** (puede estar "ganando" en papel pero sin cobrar —cuentas por cobrar infladas— o
+  quemando efectivo).
+- **Flujo de inversión:** efectivo usado en **CapEx** (comprar activos, invertir) o recibido por vender
+  activos.
+- **Flujo de financiamiento:** efectivo de **deuda** (tomar/pagar), **capital** (aportaciones), y
+  **dividendos**.
+*Qué le dice al abogado:* la **verdad** sobre la generación de efectivo (recuerda: "utilidad ≠ efectivo");
+si la empresa **se financia sola** o depende de deuda/capital externo; cuánto invierte; cuánto reparte.
+
+**Cómo se conectan los tres (la clave que pocos entienden).** Los tres estados están **entrelazados**:
+- La **utilidad neta** (del estado de resultados) aumenta las **utilidades retenidas** (en el capital del
+  balance) y es el punto de partida del **flujo de operación**.
+- El **flujo de efectivo** explica el cambio en la cuenta de **efectivo** (del balance) entre dos fechas.
+- La **depreciación** es un gasto en resultados (reduce la utilidad) pero **no** sale efectivo (se suma de
+  vuelta en el flujo de operación —por eso el EBITDA, que la excluye, aproxima el efectivo—).
+Entender estas conexiones permite al abogado **detectar inconsistencias** y entender la "historia" completa
+de la empresa —no solo mirar un número aislado—.
+
+**La lección para el abogado.** No necesitas preparar estos estados, pero debes saber **leerlos** y hacer
+las preguntas correctas: *¿genera efectivo de su operación? ¿Cuánta deuda tiene y de qué plazo? ¿Sus
+márgenes son sanos? ¿La utilidad se convierte en efectivo? ¿Hay señales raras (goodwill enorme, cuentas por
+cobrar que crecen más que las ventas, deuda de corto plazo excesiva)?* El abogado que lee estados
+financieros con estas preguntas **entiende la empresa** —y puede negociar, estructurar y detectar riesgos
+que el que solo "ve lo legal" jamás verá—.
+
+### 14.B · El análisis financiero (los ratios que revelan la salud de la empresa)
+
+Los números absolutos dicen poco; el **análisis financiero** los convierte en **diagnóstico** mediante
+**ratios** (razones entre cifras) que revelan la salud de la empresa. Los cuatro grupos esenciales:
+
+**1) Ratios de liquidez (¿puede pagar sus deudas de corto plazo?).** Miden la capacidad de cubrir
+obligaciones inmediatas:
+- **Razón circulante** = Activo circulante / Pasivo circulante. Si es **>1**, tiene más activos de corto
+  plazo que deudas de corto plazo (sano); **<1** puede indicar problemas de liquidez.
+- **Prueba ácida** = (Activo circulante − inventarios) / Pasivo circulante. Más estricta (excluye
+  inventarios, que pueden ser difíciles de vender rápido).
+*Para el abogado:* una empresa con mala liquidez puede no poder pagar (riesgo de incumplimiento, relevante
+en financiamiento y due diligence).
+
+**2) Ratios de apalancamiento/solvencia (¿cuánta deuda tiene y puede soportarla?).** Los **más importantes**
+para el M&A y el financiamiento:
+- **Deuda/Capital (*Debt/Equity*)** = cuánta deuda por cada peso de capital. Mide el **apalancamiento**.
+- **Deuda/EBITDA** = ¿cuántos años de EBITDA equivale la deuda? **El ratio rey del financiamiento** (los
+  covenants se fijan aquí —Libro 5—). Un Deuda/EBITDA de 3x es moderado; 6x es muy apalancado (riesgoso).
+- **Cobertura de intereses (*EBIT/Intereses* o *EBITDA/Intereses*)** = ¿cuántas veces la utilidad cubre los
+  intereses? Si es bajo (cerca de 1), la empresa apenas puede pagar su deuda (alarma).
+*Para el abogado:* definen la **capacidad de endeudamiento**, los **covenants** financieros, y el riesgo en
+un LBO (cuánta deuda puede soportar la target).
+
+**3) Ratios de rentabilidad (¿qué tan rentable es?).** Miden la capacidad de generar utilidad:
+- **Márgenes:** margen bruto (utilidad bruta/ventas), margen operativo (EBIT/ventas), margen neto (utilidad
+  neta/ventas), **margen EBITDA** (EBITDA/ventas). ¿Cuánto de cada peso vendido se convierte en utilidad?
+- **ROE (*Return on Equity*)** = Utilidad neta / Capital. La rentabilidad para los **accionistas**.
+- **ROA (*Return on Assets*)** = Utilidad / Activos. La eficiencia en el uso de los activos.
+- **ROIC (*Return on Invested Capital*)** = la rentabilidad sobre el capital invertido; clave para saber si
+  la empresa **crea valor** (si ROIC > costo de capital, crea valor; si no, lo destruye).
+*Para el abogado:* la rentabilidad es central en la **valuación** (una empresa más rentable vale más) y en
+la tesis de inversión del PE.
+
+**4) Ratios de eficiencia/actividad (¿qué tan bien usa sus recursos?).** Miden la gestión operativa:
+- **Rotación de inventarios** (¿qué tan rápido vende su inventario?), **días de cuentas por cobrar** (¿qué
+  tan rápido cobra?), **días de cuentas por pagar** (¿qué tan rápido paga?), **rotación de activos**.
+- El **ciclo de capital de trabajo** (días de inventario + días de cobro − días de pago) muestra cuánto
+  efectivo queda "atrapado" en la operación.
+*Para el abogado:* el **capital de trabajo** es clave en el **ajuste de precio** de un M&A (*completion
+accounts* —Libro 4—) y en la generación de efectivo.
+
+**Cómo se analiza de verdad (más allá de calcular ratios).** El análisis financiero experto:
+- **Compara** los ratios en el **tiempo** (¿mejoran o empeoran?) y contra **competidores/industria** (¿es
+  buena o mala respecto a sus pares?). Un ratio aislado dice poco; la **tendencia** y la **comparación**
+  dicen todo.
+- **Busca las señales de alarma** (*red flags* financieros): márgenes que se deterioran, deuda que crece,
+  cuentas por cobrar que crecen **más rápido** que las ventas (¿problemas de cobro o ventas infladas?),
+  flujo de operación negativo pese a utilidad positiva (¿la utilidad es real?), inventarios que se acumulan.
+- **Conecta con la *Quality of Earnings*** (due diligence): ¿son las utilidades **recurrentes y reales**, o
+  están "maquilladas"? (el caso HP-Autonomy —Libro 2 del Nivel IV—).
+*La lección:* el abogado que sabe calcular e **interpretar** estos ratios puede **diagnosticar** la salud de
+una empresa, detectar sus riesgos económicos, y cuestionar la valuación —habilidades que lo vuelven un
+analista, no solo un jurista—.
