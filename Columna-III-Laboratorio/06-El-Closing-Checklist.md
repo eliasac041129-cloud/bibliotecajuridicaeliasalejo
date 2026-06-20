@@ -76,3 +76,59 @@ Y se organiza en bloques:
 4. **Documentos corporativos y poderes:** poderes de los firmantes, actas, identificaciones.
 5. **Mecánica de pago:** instrucciones de transferencia, escrow, confirmación de fondos.
 6. **Post-cierre:** avisos a autoridades, inscripciones, notificaciones a terceros.
+
+
+---
+
+## IV. El encargo (Proyecto Caramelo, recta final)
+
+> **De:** la Socia. **Para:** Tú. **Dos semanas antes del cierre:**
+>
+> *"Tú llevas el closing. Ármame el **checklist** y la **agenda del día del cierre**. Asegúrate de
+> que los problemas que encontraste en el DD —la marca a nombre de Romero y el consentimiento del
+> cliente grande— estén como **condiciones cumplidas antes de pagar**. No quiero sorpresas: si
+> algo falta, lo veo en tu checklist con semanas de anticipación, no el día del cierre."*
+
+---
+
+## V. Modelo trabajado y anotado
+
+### a) Extracto del closing checklist
+
+> **CLOSING CHECKLIST — PRIVILEGIADO Y CONFIDENCIAL**
+> *Proyecto Caramelo · Adquisición Dulces del Valle, S.A. de C.V.*
+>
+> | # | Documento / acción | Responsable | Estado | Condición de | Notas |
+> |---|--------------------|-------------|--------|--------------|-------|
+> | 1 | SPA firmado por todas las partes | Ambos | Borrador v4 | Firma | Pendiente comentarios fiscales |
+> | 2 | Cesión de la marca "Dulces del Valle" del Sr. Romero a la Sociedad | Vendedor | Pendiente | **Cierre** 🔴 | Red flag DD #4 — sin esto NO se paga |
+> | 3 | Consentimiento/*waiver* del Cliente A (cambio de control) | Vendedor | En gestión | **Cierre** 🔴 | Red flag DD #1 — confirmar por escrito |
+> | 4 | Autorización COFECE (si aplica) | Comprador | Por analizar | Cierre | Verificar si se superan umbrales |
+> | 5 | Acta de asamblea: renuncia de consejo saliente y nombramiento del nuevo | Vendedor | Pendiente | Cierre | Coordinar con notario |
+> | 6 | Endoso de los títulos accionarios + registro en libro de accionistas | Vendedor | Pendiente | Cierre | El acto que transfiere la propiedad |
+> | 7 | Poderes de los firmantes (ambas partes) | Ambos | Borrador | Firma | Verificar facultades suficientes |
+> | 8 | Disclosure letter final | Vendedor | v3 | Firma | Cruzar contra R&W (Ejercicio 04) |
+> | 9 | Contrato de escrow firmado (holdback indemnización) | Ambos + banco | Pendiente | Cierre | Para el juicio laboral DD #2 |
+> | 10 | Instrucciones de transferencia del precio | Comprador | Pendiente | Cierre | **Pago = último paso** |
+> | 11 | Avisos post-cierre (autoridades, terceros) | Comprador | — | Post-cierre | Plazos legales |
+
+> ▸ **Anotación:** mira los renglones 2 y 3 — son los **red flags del Ejercicio 05** convertidos
+> en **condiciones de cierre**: el cliente comprador **no paga** hasta que la marca sea de la
+> empresa y el cliente grande haya consentido. Así se cierra el círculo: lo que el DD detectó, el
+> checklist lo **obliga a resolverse antes del dinero**. El renglón 10 (pago) es deliberadamente
+> el último.
+
+### b) La mecánica del cierre (el orden sagrado del día)
+
+> 1. **Confirmar CP:** todas las condiciones cumplidas (o renunciadas por escrito por quien podía).
+> 2. **Reunir y revisar documentos:** todo firmado, en regla, completo (*closing set*).
+> 3. **Asamblea/actos corporativos:** renuncias, nombramientos, lo que deba protocolizarse.
+> 4. **Transferencia de acciones:** endoso de títulos + inscripción en el libro de accionistas.
+> 5. **Pago del precio:** transferencia (y dotación del escrow) — **solo cuando 1-4 están listos**.
+> 6. **Confirmación y cierre:** las partes confirman recepción; se levanta acta de cierre.
+> 7. **Post-cierre:** avisos, inscripciones, integración.
+
+> ▸ **Anotación:** el orden no es burocracia, es **protección**. El dinero (paso 5) va **después**
+> de la transferencia de la propiedad (paso 4) y del cumplimiento de condiciones (paso 1). Invertir
+> ese orden es el error que cuesta millones. En cierres complejos se usa un *escrow* o un agente de
+> cierre precisamente para garantizar la simultaneidad ("te pago contra entrega").
