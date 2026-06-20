@@ -105,3 +105,103 @@ robe el tiempo de apagar el incendio. No esperes dinero relevante aquí: **está
 > **Convertir el rezago en impulso.** El día que liquides la última materia pendiente y tengas el inglés en
 > marcha, habrás demostrado —a ti mismo y al mundo— que puedes dirigir tu capacidad hacia lo que sea. Esa es
 > la base psicológica de todo lo demás. **Gánala.**
+
+---
+
+## FASE 1 — CONSTRUIR AL PROFESIONAL (≈ 21–23 años) · *"Titularse fuerte, dominar el inglés, primera experiencia"*
+
+Apagado el incendio, esta fase **construye la base profesional**. El objetivo: salir de la universidad
+**no como uno más**, sino como alguien que ya destaca.
+
+### Objetivos
+1. **Terminar la carrera con tendencia ascendente clara.** No puedes borrar el pasado, pero **sí** puedes
+   cerrar con calificaciones fuertes que cuenten una historia de **redención** (un reclutador perdona un mal
+   arranque si ve que terminaste como un tren).
+2. **Inglés a nivel funcional de trabajo.** De la rutina de la Fase 0 a poder **leer, escribir y sostener
+   una conversación profesional** en inglés. Empieza a manejar la **terminología jurídica bilingüe** (la
+   Biblioteca ya te dio cientos de términos: SPA, due diligence, EBITDA, drag along...).
+3. **Conseguir tu primera experiencia legal real.** Becario/pasante en un despacho serio, notaría con
+   práctica corporativa, o área jurídica. **Cobra poco; estás invirtiendo** (tu "LBO personal": poco capital
+   hoy, apalancado en experiencia).
+4. **Titulación estratégica.** Planea titularte por **tesis** sobre un tema **fiscal-corporativo** (M&A,
+   gobierno corporativo, financiamiento). Tú ya sabes escribir tratados — esa tesis será tu **portafolio** y
+   tu carta de presentación, y compensa el promedio.
+
+### Conocimiento prioritario
+- Profundizar la **Columna I** en tu nicho (corporate + fiscal).
+- **Inglés jurídico.**
+- Lo práctico que la universidad no enseña: empezar a ver cómo se redacta de verdad (anticipo de la Columna
+  III — Laboratorio).
+
+### Experiencia y networking
+- **Aprovecha el ángulo fiscal vía tus contactos.** El fiscal-corporativo es tu mejor apuesta (escaso, bien
+  pagado, genera clientes rápido). Si tienes un contacto en el SAT o en lo fiscal, pídele que te oriente o
+  te conecte con despachos fiscales o áreas fiscales de despachos corporativos — aunque sea de becario.
+- **Construye tu LinkedIn profesional** y empieza a hacerte ver (puedes escribir — la Biblioteca lo prueba).
+- **Moot courts** si puedes (especialmente de **arbitraje** —Vis Moot—, que las firmas internacionales
+  adoran): es una señal potentísima que compensa no ser de escuela privada.
+
+### Errores que evitar
+- Terminar la carrera "como salga" en vez de **cerrar fuerte**.
+- Rechazar un buen becariado mal pagado por un trabajo mejor pagado **sin futuro** (error de valor).
+- Dejar el inglés a medias.
+
+### Indicadores de avance
+- [ ] Vas a **titularte** (o ya te titulaste) con buenas calificaciones recientes.
+- [ ] Inglés **funcional** (puedes leer un contrato y sostener una junta).
+- [ ] Tienes (o conseguiste) tu **primer puesto** legal, aunque sea modesto.
+- [ ] Tu **tesis** corporativa avanza y es de calidad.
+- [ ] LinkedIn activo + al menos un **moot/diplomado/publicación** en el CV.
+
+### Misión de la Fase 1
+> **Salir de la universidad siendo "el de FES Aragón que escribe y piensa como uno de despacho de élite".**
+> Que tu trabajo —la tesis, el inglés, el primer becariado, las señales— compense con creces tu origen y tu
+> expediente. Que destaques.
+
+---
+
+## FASE 2 — ESPECIALIZACIÓN Y ENTRADA (≈ 23–26 años) · *"Volverse bueno de verdad y entrar al sistema"*
+
+Ya titulado y con inglés, esta fase te convierte de "abogado junior genérico" en **especialista en
+formación** y te mete en el circuito de las operaciones.
+
+### Objetivos
+1. **Especializarte en un nicho fiscal-corporativo.** El especialista cobra 3-5x lo que el generalista, y es
+   escaso. No quieras "saber de todo": vuélvete **muy bueno en algo concreto y valioso** (planeación fiscal
+   corporativa, M&A, financiamiento, gobierno corporativo).
+2. **Acumular experiencia real en operaciones.** Due diligence, contratos, SPA, cierres — el trabajo de
+   verdad (anticipo del Laboratorio, Columna III). Aquí aplicas todo el Nivel IV de la Biblioteca.
+3. **Construir reputación y red.** Hacerte de un **nombre** en tu nicho: escribir, hablar, asistir a eventos
+   del gremio, conocer gente. La visibilidad atrae oportunidades (y, después, clientes).
+4. **Apuntar a firmas mejores.** No necesariamente la élite global de golpe; el **ascenso lateral**:
+   boutique fiscal/corporativo sólido → firma mediana → (con el tiempo) firma de élite o in-house. Recuerda:
+   **es más fácil entrar a una firma top como abogado con experiencia —o tras un posgrado— que como becario
+   con expediente golpeado.**
+
+### Conocimiento prioritario
+- Dominio **profundo** de tu nicho (Columna I aplicada).
+- **Inglés jurídico avanzado** (ya operativo en el trabajo).
+- Inicio de la **Columna V** básica (finanzas personales — empieza a ahorrar e invertir desde el primer
+  sueldo decente; el interés compuesto premia al que empieza joven).
+
+### Experiencia y networking
+- Trabaja donde **más aprendas**, no donde más te paguen (en esta fase). La experiencia compone.
+- Cultiva **relaciones**: mentores, colegas, clientes potenciales. Tu reputación de **íntegro y capaz** es
+  tu mayor activo (Principio de Integridad Ética).
+
+### Errores que evitar
+- Quedarte de **generalista** (te vuelve reemplazable y barato).
+- Cambiar de trabajo solo por dinero, sin pensar en lo que aprendes.
+- Descuidar la **reputación** por una ganancia de corto plazo (en un gremio chico, se paga caro).
+- No empezar a **ahorrar/invertir** "porque ganas poco" (el hábito importa más que el monto al inicio).
+
+### Indicadores de avance
+- [ ] Tienes un **nicho** claro en el que ya eres notablemente bueno.
+- [ ] Acumulaste experiencia en **operaciones reales**.
+- [ ] Empiezas a ser **conocido** en tu nicho (te buscan, te recomiendan).
+- [ ] Estás en una firma **mejor** que donde empezaste (o en camino).
+- [ ] Empezaste a **ahorrar e invertir** con disciplina.
+
+### Misión de la Fase 2
+> **Dejar de ser "un abogado más" y volverte "el que sabe de esto".** Cuando en tu círculo alguien tenga un
+> problema de tu nicho y piensen en ti, la Fase 2 está ganada.
