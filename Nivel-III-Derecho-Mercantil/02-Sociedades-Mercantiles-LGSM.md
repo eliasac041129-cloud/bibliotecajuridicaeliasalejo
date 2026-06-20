@@ -105,8 +105,9 @@ Las sociedades son **el objeto y el vehículo** de la práctica corporativa:
   sociedades; durante el siglo XIX se generalizó la **responsabilidad limitada** y la
   **constitución libre** (sin necesidad de concesión real), detonando la Revolución Industrial.
 - **México:** la **Ley General de Sociedades Mercantiles (LGSM) de 1934** (vigente, reformada)
-  regula los tipos societarios. En **2014** se creó la **S.A.S.** (Sociedad por Acciones
-  Simplificada) para microempresas; y la **S.A.P.I.** (Sociedad Anónima Promotora de Inversión),
+  regula los tipos societarios. En **2016** se creó la **S.A.S.** (Sociedad por Acciones
+  Simplificada) para microempresas (reforma a la LGSM publicada en el DOF el 14 de marzo de 2016,
+  en vigor seis meses después; *verificar contra el texto vigente*); y la **S.A.P.I.** (Sociedad Anónima Promotora de Inversión),
   introducida por la **Ley del Mercado de Valores de 2005**, se volvió el vehículo predilecto del
   capital privado (VC/PE) por su **flexibilidad**.
 
