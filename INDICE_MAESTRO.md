@@ -100,7 +100,16 @@
 - [05 · Marca Personal y Reputación](./Columna-IV-Sistema-del-Socio/05-Marca-Personal-y-Reputacion.md) — ✅
 - [06 · Rutas de Carrera](./Columna-IV-Sistema-del-Socio/06-Rutas-de-Carrera.md) — ✅
 
-### Columna V · Patrimonio y Libertad Financiera — ⬜ pendiente
+### Columna V · Patrimonio y Libertad Financiera — ✅ completa
+- [00 · Patrimonio y Libertad Financiera (documento rector)](./Columna-V-Patrimonio/00_PATRIMONIO_Y_LIBERTAD_FINANCIERA_AJE.md)
+- [01 · Mentalidad Patrimonial](./Columna-V-Patrimonio/01-Mentalidad-Patrimonial.md) — ✅
+- [02 · Finanzas Personales del Abogado](./Columna-V-Patrimonio/02-Finanzas-Personales-del-Abogado.md) — ✅
+- [03 · Construcción de Patrimonio](./Columna-V-Patrimonio/03-Construccion-de-Patrimonio.md) — ✅
+- [04 · Principios de Inversión](./Columna-V-Patrimonio/04-Principios-de-Inversion.md) — ✅
+- [05 · Protección y Estructura](./Columna-V-Patrimonio/05-Proteccion-y-Estructura.md) — ✅
+- [06 · El Plan Realista a la Libertad](./Columna-V-Patrimonio/06-El-Plan-Realista-a-la-Libertad.md) — ✅
+
+> **Las cinco columnas del Proyecto AJE están completas.**
 
 ---
 

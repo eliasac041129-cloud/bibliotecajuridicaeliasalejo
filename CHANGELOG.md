@@ -25,6 +25,11 @@ columnas**, gobernado por seis principios rectores.
   por hora, tablero de hábitos, revisión semanal y protocolo de recaída).
 - **`INDICE_MAESTRO.md`** — mapa navegable de todo el repositorio.
 - **`CHANGELOG.md`** — esta bitácora.
+- **Columna V · Patrimonio y Libertad Financiera** — completa: documento rector (con advertencia
+  de que es formación conceptual, no asesoría) + **6 módulos**: 01 Mentalidad patrimonial · 02
+  Finanzas personales del abogado · 03 Construcción de patrimonio · 04 Principios de inversión · 05
+  Protección y estructura · 06 El plan realista a la libertad. **Con esta columna se cierra el
+  sistema de cinco columnas del Proyecto AJE.**
 - **Columna IV · Sistema del Socio** — completa: documento rector + **6 módulos** sobre cómo se
   construye una carrera jurídica de élite: 01 La pirámide del despacho · 02 Gestionar hacia arriba ·
   03 Generación de negocio (rainmaking) · 04 La economía del despacho · 05 Marca personal y

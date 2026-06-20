@@ -14,7 +14,7 @@
 | **II** | Hoja de Ruta | ¿Qué hacer, cuándo y por qué? | ✅ Completa | [`01_HOJA_DE_RUTA_AJE.md`](./01_HOJA_DE_RUTA_AJE.md) + [`02_PLAN_OPERATIVO_DIARIO_AJE.md`](./02_PLAN_OPERATIVO_DIARIO_AJE.md) |
 | **III** | Laboratorio Profesional | ¿Cómo se trabaja de verdad? | 🟡 1er tramo completo (6 ejercicios) | `Columna-III-Laboratorio/` |
 | **IV** | Sistema del Socio | ¿Cómo se construye la carrera? | ✅ Completa (6 módulos) | `Columna-IV-Sistema-del-Socio/` |
-| **V** | Patrimonio y Libertad Financiera | ¿Cómo administrar la riqueza? | ⬜ Pendiente | — |
+| **V** | Patrimonio y Libertad Financiera | ¿Cómo administrar la riqueza? | ✅ Completa (6 módulos) | `Columna-V-Patrimonio/` |
 
 ---
 

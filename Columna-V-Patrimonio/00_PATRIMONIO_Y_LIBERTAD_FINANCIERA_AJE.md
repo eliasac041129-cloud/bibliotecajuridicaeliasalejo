@@ -61,8 +61,10 @@ Tres palancas, en orden de importancia para alguien que parte de cero:
 | 02 | Finanzas personales del abogado | ¿Cómo ordeno mi dinero: presupuesto, deuda, emergencia? | ✅ Completo |
 | 03 | Construcción de patrimonio | ¿Cómo convierto ingreso en activos que crecen? | ✅ Completo |
 | 04 | Principios de inversión | ¿Cómo se invierte con cabeza (sin recetas ni promesas)? | ✅ Completo |
-| 05 | Protección y estructura | ¿Cómo protejo lo construido: seguros, fiscal, sucesión? | ⬜ |
-| 06 | El plan realista a la libertad | ¿Cómo se va de cero a libre, sin estafas ni atajos? | ⬜ |
+| 05 | Protección y estructura | ¿Cómo protejo lo construido: seguros, fiscal, sucesión? | ✅ Completo |
+| 06 | El plan realista a la libertad | ¿Cómo se va de cero a libre, sin estafas ni atajos? | ✅ Completo |
+
+> Columna V completa: 6 módulos. Con ella se cierra el sistema de 5 columnas del Proyecto AJE.
 
 > Se construyen **en secuencia**. El primero —la mentalidad— es la base: sin entender la
 > diferencia entre ingreso y patrimonio, ningún número te volverá libre.

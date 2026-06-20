@@ -31,11 +31,12 @@ se levantan **en secuencia**, según lo que el lector necesita en cada etapa.
 | **II** | **Hoja de Ruta** | ¿Qué hacer, cuándo y por qué? | ✅ Completa |
 | **III** | **Laboratorio Profesional** | ¿Cómo trabaja de verdad un abogado corporativo? | 🟡 En arranque |
 | **IV** | **Sistema del Socio** | ¿Cómo se construye una carrera jurídica extraordinaria? | ✅ Completa (6 módulos) |
-| **V** | **Patrimonio y Libertad Financiera** | ¿Cómo administrar la riqueza que genera la carrera? | ⬜ Pendiente |
+| **V** | **Patrimonio y Libertad Financiera** | ¿Cómo administrar la riqueza que genera la carrera? | ✅ Completa (6 módulos) |
 
-> **La secuencia, en una frase:** primero **saber** (I) y **saber qué hacer** (II) — ahora;
-> luego **saber hacer** (III) — al ejercer; después **saber dirigir** (IV) y **saber administrar
-> la riqueza** (V) — con carrera y patrimonio.
+> **La secuencia, en una frase:** primero **saber** (I) y **saber qué hacer** (II); luego **saber
+> hacer** (III); después **saber dirigir la carrera** (IV) y **saber administrar la riqueza** (V).
+> Con las cinco construidas, el sistema del Proyecto AJE está **completo**: lo único que queda es
+> ejecutarlo un día a la vez (ver [El Sistema Diario](./02_PLAN_OPERATIVO_DIARIO_AJE.md)).
 
 ---
 
