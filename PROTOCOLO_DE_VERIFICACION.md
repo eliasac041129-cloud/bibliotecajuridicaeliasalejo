@@ -67,3 +67,61 @@ sin marcarlo ⚠️. Antes de dar por terminado un texto, se pasa esta checklist
 - [ ] ¿Hay alguna tesis/jurisprudencia citada? Si sí, ¿está confirmada en el SJF o marcada?
 - [ ] ¿Las cifras/montos llevan nota de "verificar vigente"?
 - [ ] ¿El texto prefiere el concepto sólido sobre la cita no confirmada?
+
+
+---
+
+## V. Registro de correcciones (auditoría)
+
+Cada error detectado y corregido queda aquí, con fecha y fuente. Es la prueba viva de que el
+Principio Supremo se aplica, no solo se predica.
+
+| Fecha | Tratado | Error | Corrección | Fuente |
+|-------|---------|-------|------------|--------|
+| 2026-06 | III-02 Sociedades (LGSM) | Decía que la **S.A.S.** se creó en "2014" | Corregido a **2016** (reforma a la LGSM publicada en el DOF el 14-mar-2016, en vigor 6 meses después) | Publicaciones jurídicas sobre la reforma de 2016 |
+
+> *(Cuando se detecten y corrijan más errores, se agregan renglones aquí.)*
+
+---
+
+## VI. Backlog de verificación (priorizado por riesgo)
+
+No todos los tratados tienen el mismo riesgo. Los que **más datos duros** contienen (artículos,
+fechas, montos) son los que más urge auditar. Orden sugerido de revisión sistemática:
+
+| Prioridad | Tratados | Por qué | Estado |
+|-----------|----------|---------|--------|
+| 🔴 Alta | Nivel III (Mercantil): Sociedades, Títulos de Crédito, Mercado de Valores, Concurso | Densos en artículos y leyes específicas (LGSM, LGTOC, LMV) | ⬜ Pendiente (1 error ya corregido) |
+| 🔴 Alta | Nivel IV (Corporate): los que citan leyes mexicanas y montos | Cifras y normas que cambian | ⬜ Pendiente |
+| 🟠 Media | Nivel II (Civil profundo) | Artículos del Código Civil | ⬜ Pendiente |
+| 🟠 Media | Nivel I: Personas, Bienes, Obligaciones, Contratos | Artículos del Código Civil | ⬜ Pendiente |
+| 🟡 Baja | Nivel I conceptuales (Lógica, Argumentación, Metodología, Teoría del Estado) | Poco dato duro; sobre todo conceptos | ⬜ Pendiente |
+| 🟢 Mínima | Columnas III-V (Laboratorio, Socio, Patrimonio) | Conceptuales/de método; ya marcan ⚠️ y "no asesoría" | ✅ Diseñadas con marcas |
+
+> **Algunos datos de referencia ya confirmados** (✅), para sembrar el registro:
+> - La **LGSM** (Ley General de Sociedades Mercantiles) fue publicada en **1934**. ✅
+> - La **S.A.P.I.** se introdujo con la **Ley del Mercado de Valores de 2005** (en vigor 2006). ✅
+>
+> *(Aun así, verifica los artículos específicos contra el texto vigente: las leyes se reforman.)*
+
+---
+
+## VII. Cómo se usa este protocolo
+
+- **Como lector:** antes de citar un dato de la Biblioteca en un examen, trabajo o documento real,
+  confírmalo. Si el tratado da un artículo o fecha, **ve a la fuente oficial** y verifícalo. Esto
+  además es excelente práctica jurídica: el abogado serio **siempre** va a la fuente.
+- **Como autor (tú o quien continúe el proyecto):** aplica la checklist de la sección IV a todo
+  contenido nuevo, y registra aquí cualquier corrección.
+- **Como auditor:** toma un tratado del backlog (sección VI), verifica sus datos duros uno por uno,
+  marca ✅/⚠️/❌ y registra las correcciones en la sección V.
+
+> **La idea que debe quedarte:** el mayor riesgo de una biblioteca construida con IA no es que le
+> falte contenido — es que un dato falso se lea como verdadero. Este protocolo es el escudo contra
+> eso. Y te entrena en el reflejo más importante del abogado de élite: **nunca afirmes lo que no
+> has verificado.** Una sola cita falsa puede costar un caso, un cliente y tu reputación.
+
+---
+
+*Protocolo de Verificación · Proyecto AJE. Materializa el Principio Supremo del Documento
+Fundacional. Documento vivo: actualízalo con cada corrección y cada verificación.*
