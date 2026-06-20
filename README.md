@@ -30,7 +30,7 @@ se levantan **en secuencia**, según lo que el lector necesita en cada etapa.
 | **I** | **Biblioteca Jurídica** | ¿Qué debo aprender? | ✅ Completa (5 niveles · 36 tratados) |
 | **II** | **Hoja de Ruta** | ¿Qué hacer, cuándo y por qué? | ✅ Completa |
 | **III** | **Laboratorio Profesional** | ¿Cómo trabaja de verdad un abogado corporativo? | 🟡 En arranque |
-| **IV** | **Sistema del Socio** | ¿Cómo se construye una carrera jurídica extraordinaria? | ⬜ Pendiente |
+| **IV** | **Sistema del Socio** | ¿Cómo se construye una carrera jurídica extraordinaria? | ✅ Completa (6 módulos) |
 | **V** | **Patrimonio y Libertad Financiera** | ¿Cómo administrar la riqueza que genera la carrera? | ⬜ Pendiente |
 
 > **La secuencia, en una frase:** primero **saber** (I) y **saber qué hacer** (II) — ahora;

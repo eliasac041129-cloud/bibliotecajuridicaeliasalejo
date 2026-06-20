@@ -25,6 +25,11 @@ columnas**, gobernado por seis principios rectores.
   por hora, tablero de hábitos, revisión semanal y protocolo de recaída).
 - **`INDICE_MAESTRO.md`** — mapa navegable de todo el repositorio.
 - **`CHANGELOG.md`** — esta bitácora.
+- **Columna IV · Sistema del Socio** — completa: documento rector + **6 módulos** sobre cómo se
+  construye una carrera jurídica de élite: 01 La pirámide del despacho · 02 Gestionar hacia arriba ·
+  03 Generación de negocio (rainmaking) · 04 La economía del despacho · 05 Marca personal y
+  reputación · 06 Rutas de carrera. Modelo central: las tres monedas (ejecución, confianza,
+  generación).
 - **Columna III · Laboratorio Profesional** — primer tramo completo: documento rector + **6
   ejercicios** que recorren una misma operación de M&A ("Proyecto Caramelo") de principio a fin:
   01 Memorándum legal · 02 Cláusula contractual · 03 Term sheet · 04 Representaciones y garantías

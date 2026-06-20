@@ -90,9 +90,17 @@
 
 > Los 6 ejercicios recorren una misma operación de M&A ("Proyecto Caramelo") de principio a fin.
 
-## 6. Columnas IV y V — ⬜ pendientes
-- Columna IV · Sistema del Socio.
-- Columna V · Patrimonio y Libertad Financiera.
+## 6. Columnas IV y V
+### Columna IV · Sistema del Socio — ✅ completa
+- [00 · Sistema del Socio (documento rector)](./Columna-IV-Sistema-del-Socio/00_SISTEMA_DEL_SOCIO_AJE.md)
+- [01 · La Pirámide del Despacho](./Columna-IV-Sistema-del-Socio/01-La-Piramide-del-Despacho.md) — ✅
+- [02 · Gestionar Hacia Arriba](./Columna-IV-Sistema-del-Socio/02-Gestionar-Hacia-Arriba.md) — ✅
+- [03 · Generación de Negocio](./Columna-IV-Sistema-del-Socio/03-Generacion-de-Negocio.md) — ✅
+- [04 · La Economía del Despacho](./Columna-IV-Sistema-del-Socio/04-La-Economia-del-Despacho.md) — ✅
+- [05 · Marca Personal y Reputación](./Columna-IV-Sistema-del-Socio/05-Marca-Personal-y-Reputacion.md) — ✅
+- [06 · Rutas de Carrera](./Columna-IV-Sistema-del-Socio/06-Rutas-de-Carrera.md) — ✅
+
+### Columna V · Patrimonio y Libertad Financiera — ⬜ pendiente
 
 ---
 
