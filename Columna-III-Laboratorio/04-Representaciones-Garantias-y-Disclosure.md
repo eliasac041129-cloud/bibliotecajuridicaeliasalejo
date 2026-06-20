@@ -148,3 +148,94 @@ Una misma R&W cambia por completo según sus calificativos (*qualifiers*):
 > tiene plazos largos de revisión). Si la R&W fiscal "murió" a los 12 meses, el comprador paga una
 > contingencia de millones que descubre en el año 3 — y no puede reclamar nada. Las R&W fiscales y
 > laborales deben sobrevivir hasta que prescriba la facultad de la autoridad.
+
+
+---
+
+## VI. Errores que cuestan millones
+
+| Error | Por qué cuesta | Cómo evitarlo |
+|-------|----------------|---------------|
+| **Survival corto en temas fiscales/laborales** | La contingencia aparece después de que la R&W "murió" | Survival ligado a la prescripción de la autoridad |
+| **"A leal saber y entender" sin definir el knowledge** | El vendedor se esconde en "no sabía" | Define qué personas y si incluye conocimiento que debían tener |
+| **No leer el disclosure contra cada R&W** | Aceptas como revelado un riesgo enorme y pierdes el derecho a reclamar | Cruza cada renglón del disclosure con su R&W |
+| **Basket/cap mal calibrados** | El cliente no puede cobrar pérdidas reales | Negocia umbrales proporcionales al precio y al riesgo |
+| **Sin escrow/holdback** | Ganas la indemnización en papel pero el vendedor ya gastó el dinero | Retén parte del precio en garantía |
+| **R&W "absolutas" que el vendedor nunca cumplirá** | Negociación se traba o el vendedor las vacía con disclosure genérico | Pide lo razonable; pelea los temas críticos |
+| **Ignorar las *fundamental reps*** | Temas como propiedad de las acciones deben tener cap del 100 % | Sepáralas con cap y survival propios |
+
+---
+
+## VII. Glosario bilingüe
+
+| Español | Inglés | Nota |
+|---------|--------|------|
+| Declaraciones y garantías | *Representations & warranties (R&W)* | El entregable |
+| Carta / anexo de revelaciones | *Disclosure letter / schedules* | Lo que matiza las R&W |
+| Indemnización | *Indemnification / indemnity* | El remedio |
+| Tope | *Cap* | Máximo a pagar |
+| Cesta / franquicia | *Basket / threshold* | Mínimo acumulado para reclamar |
+| Mínimo individual | *De minimis* | Reclamación que sí cuenta |
+| Supervivencia | *Survival period* | Vigencia de las R&W tras el cierre |
+| Retención en garantía | *Escrow / holdback* | De dónde se paga |
+| Indemnización específica | *Specific indemnity* | Para un riesgo conocido |
+| A leal saber y entender | *To the knowledge of…* | Calificativo de conocimiento |
+| En lo relevante | *In all material respects* | Calificativo de relevancia |
+| Declaraciones fundamentales | *Fundamental representations* | Cap 100 %, survival largo |
+| Seguro de R&W | *W&I / RWI insurance* | Aseguradora cubre la indemnización |
+
+---
+
+## VIII. Tu turno (práctica deliberada)
+
+1. **Redacta tres R&W fiscales** (versión comprador, intermedia y vendedor) sobre el cumplimiento
+   de obligaciones fiscales de Dulces del Valle, y la **entrada de disclosure** que un vendedor
+   honesto incluiría. Marca qué *survival* propondrías y por qué.
+
+2. **Calibra la indemnización.** Operación de $120M. Propón cap, basket, de minimis y survival
+   (general y especial) razonables para el **comprador**, y luego para el **vendedor**. Justifica
+   cada número. ¿Dónde está el punto medio realista?
+
+3. **Caza-trampas en el disclosure.** El vendedor te entrega un disclosure que dice: *"Se revela
+   toda la información contenida en el data room."* Explica por qué esa frase (*data room
+   disclosure* genérico) es peligrosísima para el comprador y cómo la combatirías.
+
+4. **Specific indemnity.** El DD reveló un juicio laboral de $8M con alta probabilidad de pérdida.
+   ¿Cómo lo tratas? (Pista: no lo dejes en la indemnización general — diséñale una indemnización
+   específica al 100 %, sin basket, posiblemente con escrow dedicado.)
+
+---
+
+## IX. Rúbrica de autoevaluación
+
+| Criterio | 1 (deficiente) | 5 (nivel asociado) |
+|----------|----------------|---------------------|
+| **R&W bien construida** | Vaga o imposible de cumplir | Clara, con calificativos negociados |
+| **Disclosure cruzado** | Genérico, no ligado a R&W | Específico, renglón ↔ declaración |
+| **Arquitectura de indemnización** | Falta cap/basket/survival | Los cinco elementos calibrados |
+| **Temas críticos protegidos** | Fiscal/laboral con survival corto | Survival ligado a prescripción |
+| **Visión de negocio** | Solo texto | Mueve riesgo y dinero conscientemente |
+| **Integridad** | Inventa montos/plazos legales | Marca [●] y "verificar" lo dudoso |
+| **Bilingüismo** | Solo español | Domina la terminología en inglés |
+
+---
+
+## X. Conexión (hacia dónde sigue)
+
+- **Sustento (Columna I):** Documentación M&A (IV-04) y Responsabilidad Civil (II-03) — la
+  indemnización es responsabilidad contractual pactada a la medida.
+- **Ejercicios anteriores:** del term sheet (03), que *anunciaba* las R&W e indemnización, al
+  detalle fino que las hace operar (04).
+- **Siguiente ejercicio:** **05 · El Reporte de Due Diligence** — de dónde sale la información que
+  alimenta las R&W y el disclosure: cómo se investiga la empresa y se detectan las *red flags*.
+- **Etapa de la Hoja de Ruta:** dominar R&W e indemnización es lo que distingue al abogado de M&A
+  del que "solo hace contratos". Aquí vive el dinero de la operación.
+
+> **La idea que debe quedarte:** el precio dice cuánto pagas hoy; las R&W, el disclosure y la
+> indemnización dicen **quién paga lo que aún no sabemos**. Esa segunda pregunta suele valer más
+> que la primera.
+
+---
+
+*Laboratorio · Ejercicio 04 completado. Subordinado al Documento Fundacional AJE. Los modelos son
+plantillas didácticas, no asesoría legal: verifica plazos de prescripción y normas aplicables.*

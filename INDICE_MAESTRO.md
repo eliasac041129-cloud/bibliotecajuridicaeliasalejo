@@ -83,6 +83,7 @@
 - [01 · El Memorándum Legal](./Columna-III-Laboratorio/01-El-Memorandum-Legal.md) — ✅
 - [02 · La Cláusula Contractual](./Columna-III-Laboratorio/02-La-Clausula-Contractual.md) — ✅
 - [03 · El Term Sheet](./Columna-III-Laboratorio/03-El-Term-Sheet.md) — ✅
+- [04 · Representaciones y Garantías + Disclosure](./Columna-III-Laboratorio/04-Representaciones-Garantias-y-Disclosure.md) — ✅
 
 ## 6. Columnas IV y V — ⬜ pendientes
 - Columna IV · Sistema del Socio.
