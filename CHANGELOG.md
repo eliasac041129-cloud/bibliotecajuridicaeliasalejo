@@ -25,6 +25,16 @@ columnas**, gobernado por seis principios rectores.
   por hora, tablero de hábitos, revisión semanal y protocolo de recaída).
 - **`INDICE_MAESTRO.md`** — mapa navegable de todo el repositorio.
 - **`CHANGELOG.md`** — esta bitácora.
+- **`03_PLAN_DE_INGLES_JURIDICO_AJE.md`** (Columna II), **`MAPA_BIBLIOTECA-A-MATERIAS.md`** y
+  **`PROTOCOLO_DE_VERIFICACION.md`** — la palanca del inglés, el puente con las materias y la
+  disciplina de integridad del contenido (con registro de correcciones; p. ej., fecha de la SAS).
+- **Reorganización en 5 columnas paralelas** (carpetas `Columna-I` … `Columna-V`), con enlaces
+  internos corregidos.
+- **Columna IV · Módulo 07 · Honorarios** — cómo cobrar, cotizar y negociar.
+- **Nivel IV · Libro 9 · Fiscal Corporativo y Planeación Fiscal de Operaciones** — tratado V3
+  (37º de la Biblioteca) sobre la dimensión fiscal de las operaciones: lógica del ISR corporativo,
+  share vs. asset deal, neutralidad en fusiones/escisiones, elusión vs. evasión y dimensión
+  internacional. Construido bajo el Protocolo de Verificación (datos perecederos marcados ⚠️).
 - **Columna V · Patrimonio y Libertad Financiera** — completa: documento rector (con advertencia
   de que es formación conceptual, no asesoría) + **6 módulos**: 01 Mentalidad patrimonial · 02
   Finanzas personales del abogado · 03 Construcción de patrimonio · 04 Principios de inversión · 05

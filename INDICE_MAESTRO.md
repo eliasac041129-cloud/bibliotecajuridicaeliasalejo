@@ -61,7 +61,7 @@
 6. [Concurso Mercantil](./Columna-I-Biblioteca/Nivel-III-Derecho-Mercantil/06-Concurso-Mercantil.md)
 7. [Gobierno Corporativo](./Columna-I-Biblioteca/Nivel-III-Derecho-Mercantil/07-Gobierno-Corporativo.md)
 
-### Nivel IV · [Corporate Law](./Columna-I-Biblioteca/Nivel-IV-Corporate-Law/) — ✅ 8 tratados
+### Nivel IV · [Corporate Law](./Columna-I-Biblioteca/Nivel-IV-Corporate-Law/) — ✅ 9 tratados
 1. [Fundamentos de M&A](./Columna-I-Biblioteca/Nivel-IV-Corporate-Law/01-Fundamentos-de-MA.md)
 2. [Due Diligence](./Columna-I-Biblioteca/Nivel-IV-Corporate-Law/02-Due-Diligence.md)
 3. [Estructuras: Fusiones, Escisiones, Adquisiciones](./Columna-I-Biblioteca/Nivel-IV-Corporate-Law/03-Estructuras-Fusiones-Escisiones-Adquisiciones.md)
@@ -70,6 +70,7 @@
 6. [Contratos Estratégicos y Joint Ventures](./Columna-I-Biblioteca/Nivel-IV-Corporate-Law/06-Contratos-Estrategicos-y-Joint-Ventures.md)
 7. [Private Equity y Venture Capital](./Columna-I-Biblioteca/Nivel-IV-Corporate-Law/07-Private-Equity-y-Venture-Capital.md)
 8. [Gobierno Corporativo Avanzado, Compliance y ESG](./Columna-I-Biblioteca/Nivel-IV-Corporate-Law/08-Gobierno-Corporativo-Avanzado-Compliance-y-ESG.md)
+9. [Fiscal Corporativo y Planeación Fiscal de Operaciones](./Columna-I-Biblioteca/Nivel-IV-Corporate-Law/09-Fiscal-Corporativo-y-Planeacion-Fiscal-de-Operaciones.md)
 
 ### Nivel V · [Maestría](./Columna-I-Biblioteca/Nivel-V-Maestria/) — ✅ 4 tratados
 1. [Negociación de Alto Nivel](./Columna-I-Biblioteca/Nivel-V-Maestria/01-Negociacion-de-Alto-Nivel.md)
@@ -119,4 +120,4 @@
 
 ---
 
-*Total Columna I: **36 tratados** en 5 niveles. Índice mantenido a mano; actualízalo al crecer.*
+*Total Columna I: **37 tratados** en 5 niveles. Índice mantenido a mano; actualízalo al crecer.*

@@ -10,7 +10,7 @@
 
 | Columna | Nombre | Pregunta | Estado | Documento |
 |---------|--------|----------|--------|-----------|
-| **I** | Biblioteca Jurídica | ¿Qué debo aprender? | ✅ Completa (5 niveles · 36 tratados) | `Columna-I-Biblioteca/` |
+| **I** | Biblioteca Jurídica | ¿Qué debo aprender? | ✅ Completa (5 niveles · 37 tratados) | `Columna-I-Biblioteca/` |
 | **II** | Hoja de Ruta | ¿Qué hacer, cuándo y por qué? | ✅ Completa | [`01_HOJA_DE_RUTA_AJE.md`](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) + [`02_PLAN_OPERATIVO_DIARIO_AJE.md`](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) |
 | **III** | Laboratorio Profesional | ¿Cómo se trabaja de verdad? | 🟡 1er tramo completo (6 ejercicios) | `Columna-III-Laboratorio/` |
 | **IV** | Sistema del Socio | ¿Cómo se construye la carrera? | ✅ Completa (6 módulos) | `Columna-IV-Sistema-del-Socio/` |
@@ -81,6 +81,7 @@ integridad. Este archivo es el tablero de control.
 | 6 | Contratos Estratégicos y Joint Ventures | ✅ | 4–5 sem |
 | 7 | Private Equity y Venture Capital | ✅ | 6–8 sem |
 | 8 | Gobierno corporativo avanzado, Compliance y ESG | ✅ | 5–6 sem |
+| 9 | Fiscal Corporativo y Planeación Fiscal de Operaciones | ✅ | 6–8 sem |
 
 ## Nivel V · Maestría — (estándar V3)
 **⏱ Dominio del nivel: ~6–8 meses**

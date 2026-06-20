@@ -28,7 +28,7 @@ se levantan **en secuencia**, según lo que el lector necesita en cada etapa.
 
 | Columna | Nombre | Pregunta que responde | Estado |
 |---------|--------|------------------------|--------|
-| **I** | **Biblioteca Jurídica** | ¿Qué debo aprender? | ✅ Completa (5 niveles · 36 tratados) |
+| **I** | **Biblioteca Jurídica** | ¿Qué debo aprender? | ✅ Completa (5 niveles · 37 tratados) |
 | **II** | **Hoja de Ruta** | ¿Qué hacer, cuándo y por qué? | ✅ Completa |
 | **III** | **Laboratorio Profesional** | ¿Cómo trabaja de verdad un abogado corporativo? | 🟡 1er tramo completo (6 ejercicios) |
 | **IV** | **Sistema del Socio** | ¿Cómo se construye una carrera jurídica extraordinaria? | ✅ Completa (6 módulos) |
