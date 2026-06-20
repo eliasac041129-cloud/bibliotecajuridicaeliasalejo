@@ -240,3 +240,101 @@ conviene (i) redactarla con parámetros razonables y (ii) incluir una **cláusul
 > IV.2 reaparece aquí. Y nota la honestidad del Principio Supremo: en vez de inventar "la tesis
 > 1a./J. 123/2018", se dice expresamente que hay que buscarla. Eso es lo que separa a un abogado
 > confiable de uno peligroso.*
+
+
+---
+
+## VII. Errores que cuestan millones (en el memo)
+
+| Error | Por qué cuesta | Cómo evitarlo |
+|-------|----------------|---------------|
+| **Enterrar la conclusión** en la página 3 | El socio/cliente decide con la primera media página; si no la encuentra, reescribe tu memo (o decide mal) | BLUF: respuesta breve arriba, siempre |
+| **Citar la ley sin aplicarla** a los hechos | Es el error del 90 %: parece análisis, pero no resuelve nada | Desarrolla la **A** de IRAC: conecta regla ↔ hechos |
+| **Inventar una tesis o un número de artículo** | En Derecho, **una cita falsa destruye toda tu credibilidad** y puede costar la operación | Principio Supremo: marca "verificar"; nunca fabricar |
+| **No advertir el contraargumento** | El cliente firma confiado y la otra parte lo destroza | Incluye siempre la postura contraria y por qué no prevalece |
+| **Omitir salvedades "para no complicar"** | La salvedad era justo lo que protegía al cliente | *Caveats* honestos al final, siempre |
+| **Ambigüedad ("podría ser")** | El cliente paga por criterio, no por su propia duda | Toma posición; si de verdad depende, di **de qué** depende |
+| **Exceso de longitud** | El tiempo del lector es el activo; 8 páginas para un sí/no es un insulto | Tan largo como necesario, tan corto como sea posible |
+
+---
+
+## VIII. Glosario bilingüe (lo que se entrena en este ejercicio)
+
+| Español | Inglés | Nota |
+|---------|--------|------|
+| Memorándum legal | *Legal memorandum / memo of law* | El entregable de este ejercicio |
+| La conclusión primero | *BLUF — Bottom Line Up Front* | La regla de redacción ejecutiva |
+| Cuestión planteada | *Issue / Question Presented* | El I de IRAC |
+| Respuesta breve | *Short Answer* | El BLUF del memo |
+| Hechos relevantes | *Statement of Facts* | Solo lo que mueve el análisis |
+| Análisis | *Discussion / Analysis* | El cuerpo (IRAC) |
+| Salvedades / supuestos | *Caveats / Assumptions* | El cinturón de seguridad |
+| Privilegiado y confidencial | *Privileged & Confidential* | Encabezado que protege el secreto profesional |
+| Cláusula de no competencia | *Non-compete clause* | El tema del memo modelo |
+| No captación (de clientes/empleados) | *Non-solicitation* | Restricción hermana |
+| Divisibilidad | *Severability* | Permite reducir en vez de anular |
+| Reducción judicial de la cláusula | *Blue-penciling* | Cuando el juez "recorta" lo excesivo |
+| Crédito mercantil / clientela | *Goodwill* | Lo que justifica la restricción |
+
+---
+
+## IX. Tu turno (práctica deliberada)
+
+Produce **tú** los siguientes memos, **sin volver a leer el modelo**. Respeta la estructura
+(encabezado · cuestión · respuesta breve · hechos · análisis · conclusión · salvedades) y la regla
+BLUF. Cronométrate: un memo corto no debería tomarte más de 90 minutos cuando domines el formato.
+
+1. **Variante directa (misma materia).** El cliente ahora quiere imponer la no competencia a
+   **tres gerentes** que se quedan empleados tras el cierre (no son vendedores). Escribe el memo:
+   *¿cambia el análisis respecto del vendedor-fundador? ¿por qué la restricción laboral es más
+   frágil?* (Pista: separa restricción de venta vs. restricción laboral; piensa en el art. 5º.)
+
+2. **Variante de obligaciones (Columna I, Nivel I-07 y II-01).** Una empresa entregó un anticipo
+   del 30 % por una maquinaria que el proveedor no entregó en la fecha pactada. El cliente
+   pregunta: *¿puedo rescindir y recuperar el anticipo, o me conviene exigir el cumplimiento?*
+   Escribe el memo con la lógica de la **resolución por incumplimiento** y los daños.
+
+3. **Variante societaria (Columna I, Nivel III-02).** Un accionista minoritario (15 %) pregunta
+   si puede **oponerse** a una asamblea que aprobó un aumento de capital del que no fue
+   debidamente convocado. Escribe el memo: cuestión, regla (convocatoria y nulidad de asambleas),
+   aplicación y recomendación. **Marca qué artículos de la LGSM debes verificar.**
+
+> Para cada uno: primero piensa (sección IV), luego escribe, luego califícate con la rúbrica.
+
+---
+
+## X. Rúbrica de autoevaluación
+
+Califica tu memo de 1 a 5 en cada criterio. Menos de 4 en cualquiera = reescribe.
+
+| Criterio | 1 (deficiente) | 5 (nivel asociado) |
+|----------|----------------|---------------------|
+| **BLUF** | Hay que buscar la conclusión | La respuesta está en las primeras 5 líneas |
+| **Pregunta** | Vaga o múltiple | Una, jurídica, concreta |
+| **Aplicación (IRAC-A)** | Solo cita ley | Conecta cada regla con los hechos |
+| **Contraargumento** | Ausente | Anticipado y resuelto |
+| **Recomendación** | Ambigua | Accionable, con números/pasos |
+| **Integridad** | Cifras/tesis sin verificar como ciertas | Todo lo dudoso marcado "verificar" |
+| **Salvedades** | Ninguna | Supuestos e info faltante explícitos |
+| **Concisión** | Relleno y repetición | Cada párrafo aporta |
+| **Bilingüismo** | Solo español | Términos clave dominados en inglés |
+
+---
+
+## XI. Conexión (hacia dónde sigue)
+
+- **Sustento (Columna I):** este ejercicio activa Argumentación (I-11) y Lógica (I-12) como
+  herramientas, y cualquier área sustantiva (civil, mercantil, corporativo) como contenido.
+- **Siguiente ejercicio del Laboratorio:** **02 · La cláusula contractual** — pasarás de
+  *analizar* una cláusula (lo que hiciste aquí con la no competencia) a *redactarla y negociarla*
+  palabra por palabra.
+- **Etapa de la Hoja de Ruta:** el memo es tu primer producto facturable; domínalo antes de tu
+  primera pasantía.
+
+> **La idea que debe quedarte:** un memo no demuestra cuánto sabes — demuestra que **le ahorras
+> tiempo y riesgo a quien lo lee**. Ese es, en una frase, todo el oficio del abogado corporativo.
+
+---
+
+*Laboratorio · Ejercicio 01 completado. Subordinado al Documento Fundacional AJE. Los modelos son
+plantillas didácticas, no asesoría legal: verifica toda norma y criterio contra su texto vigente.*
