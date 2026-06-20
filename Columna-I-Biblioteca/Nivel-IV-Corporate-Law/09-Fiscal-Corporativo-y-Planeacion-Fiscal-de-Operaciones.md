@@ -316,3 +316,75 @@ no es el mismo para cada parte una vez metido el impuesto.
 > precio después de impuestos.* Un vendedor racional prefiere $95 con bajo impuesto a $100 con impuesto
 > alto. El abogado que sabe esto encuentra estructuras que **agrandan el pastel después de impuestos**
 > y reparten esa ganancia entre las partes — eso es crear valor, no solo dividirlo.
+
+
+### 14.C · La decisión fiscal central: comprar acciones vs. comprar activos
+
+Es la primera gran bifurcación de toda adquisición (la viste en el Libro 3 desde lo corporativo;
+aquí desde lo fiscal). La estructura cambia **quién paga, cuánto y qué se lleva el comprador**.
+
+**Compra de ACCIONES (*share deal*)** — se compra la sociedad entera, con todo lo que tiene dentro.
+- **Vendedor:** obtiene una **ganancia por enajenación de acciones** (precio − costo fiscal de las
+  acciones). Suele ser su estructura preferida: a menudo el régimen de ganancia en acciones es más
+  benigno y el cálculo del costo fiscal puede incluir utilidades retenidas. ⚠️ *Régimen y cálculo:
+  verificar.*
+- **Comprador:** hereda la sociedad **con toda su historia fiscal** — sus activos a su valor fiscal
+  actual (no puede "re-valuarlos" para depreciar más), sus pérdidas fiscales (valiosas, pero con
+  reglas anti-traspaso), **y sus contingencias** (si el SAT revisa años después, el problema es del
+  comprador). Por eso el *share deal* exige **due diligence fiscal** feroz e **indemnizaciones
+  específicas** (Laboratorio, Ej. 04).
+
+**Compra de ACTIVOS (*asset deal*)** — se compran bienes y derechos seleccionados, no la sociedad.
+- **Comprador:** suele preferirla. Elige **qué compra** (deja atrás pasivos y contingencias ocultas),
+  y a menudo puede **registrar los activos a su valor de compra** (*step-up*), lo que le da **más
+  depreciación deducible** a futuro. Pero puede causar **IVA** y otros impuestos/derechos sobre la
+  transmisión (p. ej., en inmuebles). ⚠️ *Verificar IVA y régimen.*
+- **Vendedor:** suele salir peor: la venta de activos puede generar **ganancia gravable a nivel de la
+  sociedad** y, además, si luego reparte el dinero a sus socios, **otro impuesto al dividendo** — la
+  temida **doble carga**.
+
+> **El conflicto, en una frase:** *el comprador suele preferir comprar activos (step-up, sin
+> contingencias); el vendedor suele preferir vender acciones (un solo impuesto, más benigno).* La
+> estructura final es producto de la **negociación** —y muchas veces el precio se ajusta para
+> compensar a quien carga el costo fiscal—. Aquí el abogado fiscal-corporativo vale oro.
+
+| | Share deal (acciones) | Asset deal (activos) |
+|---|---|---|
+| Suele preferirlo | **Vendedor** | **Comprador** |
+| Contingencias del pasado | Las **hereda** el comprador | Se **quedan** con el vendedor |
+| "Step-up" para depreciar | Generalmente **no** | Generalmente **sí** |
+| Pérdidas fiscales del target | Pueden pasar (con límites) | No pasan (se queda la sociedad) |
+| IVA / impuestos de transmisión | Generalmente no en la acción | Posible (activos, inmuebles) |
+| Riesgo de doble impuesto al vendedor | Menor | Mayor |
+
+> ⚠️ *Todo lo anterior es la **lógica general**; cada punto tiene excepciones y depende del régimen
+> vigente. Verificar siempre con fiscalista.*
+
+### 14.D · Neutralidad fiscal: fusiones y escisiones que NO pagan (si se hacen bien)
+
+¿Cómo reorganiza una empresa su estructura —fusionarse, escindirse— sin que cada movimiento detone un
+impuesto que lo haría imposible? Mediante el régimen de **neutralidad fiscal**: la ley reconoce que en
+una **mera reorganización** no hay una verdadera "realización" de riqueza (los mismos dueños siguen
+detrás de los mismos activos, solo reordenados), y por eso permite que la operación **no cause ISR**
+*si se cumplen requisitos*.
+
+La idea profunda: la neutralidad **no perdona** el impuesto, lo **difiere**. El costo fiscal "viaja"
+con los activos/acciones a la nueva estructura; el impuesto se pagará después, cuando haya una
+verdadera enajenación a un tercero. Es diferimiento, no exención.
+
+**Requisitos típicos (la lógica; ⚠️ verificar los concretos en LISR/CFF vigentes):**
+- **Continuidad en la propiedad:** los mismos accionistas deben permanecer un tiempo mínimo (evita que
+  la "fusión" sea una venta disfrazada).
+- **Continuidad del negocio:** que la actividad siga, no que se liquide.
+- **Requisitos formales:** avisos, contabilidad, valores fiscales que se conservan.
+- **Razón de negocios:** que la reorganización tenga una finalidad económica real, no solo fiscal.
+
+> **Errores que cuestan millones (anticipo):** incumplir un requisito formal o de permanencia
+> accionaria y **perder la neutralidad** — convirtiendo una reorganización que debía ser libre de
+> impuesto en un hecho gravado por millones. La neutralidad es un beneficio **condicionado**: se
+> respeta al pie de la letra o se pierde entera.
+
+> **Cómo se usa en planeación (legítima):** a veces se hace una **escisión previa** para separar el
+> negocio que se quiere vender de los activos que se quieren conservar, y luego se vende solo esa
+> parte; o una **fusión** para integrar y aprovechar sinergias y, en su caso, pérdidas fiscales
+> (con límites estrictos). Todo **con razón de negocios documentada**.
