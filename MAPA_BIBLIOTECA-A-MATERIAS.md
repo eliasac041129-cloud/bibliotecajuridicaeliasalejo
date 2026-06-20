@@ -67,3 +67,71 @@ secciones avanzadas de M&A o derecho comparado, que son para tu especialización
 > Constitucional, Amparo, Penal, Procesal (Civil/Penal/Mercantil), Laboral, Fiscal/Tributario,
 > Administrativo, Internacional, Agrario, Familiar. Para esas, usa tus apuntes y el temario del
 > profesor. *(Si quieres, podemos añadir tratados de esas materias más adelante.)*
+
+
+---
+
+## III. Cómo usar un tratado para aprobar un examen (o un extraordinario)
+
+La Biblioteca es profunda; un examen casi nunca exige toda esa profundidad. Para **aprobar** —que
+es tu prioridad #1— usa esta secuencia eficiente, no leas el tratado entero de corrido:
+
+1. **Empieza por el final útil:** lee primero el **Resumen ejecutivo**, los **Mapas mentales** y el
+   **checklist** del tratado. En 20 minutos tienes el esqueleto de la materia.
+2. **Cruza con el temario del profesor.** Marca en el tratado **solo** los temas que vienen en tu
+   examen. Ignora (por ahora) las secciones avanzadas de M&A, derecho comparado o "cómo piensa un
+   socio": eso es para después, no para aprobar.
+3. **Estudia los fundamentos con recuperación activa** (Guía Metodológica): lee el *por qué*, cierra
+   el libro y reconstruye de memoria. Usa las **flashcards** y las **preguntas/casos**.
+4. **Resuelve los casos del tratado** como si fueran preguntas de examen. Si puedes explicar el
+   concepto y aplicarlo a un caso, apruebas.
+5. **Repaso espaciado** antes del examen: 1 día, 3 días, 1 semana antes.
+
+> **Para extraordinarios (modo intensivo):** prioriza brutalmente. Resumen + mapas + checklist +
+> flashcards + los 3-5 temas que más pesan en el examen. No intentes dominar la materia: intenta
+> **aprobarla con solidez** y volver después, con calma, a profundizar. Aprobar primero, dominar
+> después.
+
+---
+
+## IV. La advertencia honesta (no te confundas de objetivo)
+
+| Para... | Usa el tratado así | NO hagas esto |
+|---------|--------------------|---------------|
+| **Aprobar un examen** | Fundamentos + temario del profesor + casos | Perderte en M&A/derecho comparado |
+| **Dominar para tu carrera** | El tratado completo, con sus 43 secciones y transversales | Estudiarlo "para el examen" y olvidarlo |
+
+> La Biblioteca tiene **dos usos** y no debes mezclarlos según la etapa: **hoy** es tu aliada para
+> titularte (usa los fundamentos); **después**, tu ventaja competitiva para la élite (usa todo).
+> Usar la herramienta de élite para resolver lo urgente está bien — siempre que no te distraiga de
+> lo urgente.
+
+---
+
+## V. Tu turno (esta semana)
+
+1. **Consigue tu plan de estudios y los temarios** de las materias que debes pasar. Es el mapa
+   real; este documento es solo la guía de qué tratado lo apoya.
+2. **Para tu examen más cercano:** localiza el tratado correspondiente en la tabla (sección II) y
+   marca, contra el temario, qué secciones estudiar. Arranca por el resumen y el checklist.
+3. **Avísame qué materias del plan NO están cubiertas** por la Biblioteca (Constitucional, Penal,
+   Procesal, Laboral, Fiscal, Amparo, etc.) y, si te sirve, las priorizamos para construir esos
+   tratados.
+
+---
+
+## VI. Conexión
+
+- **Prioridad:** Fase 0 de la [Hoja de Ruta](./01_HOJA_DE_RUTA_AJE.md) (titularte) y el orden de
+  prioridad del [Sistema Diario](./02_PLAN_OPERATIVO_DIARIO_AJE.md) (lo académico es el #1).
+- **Método:** la [Guía Metodológica](./GUIA-METODOLOGICA.md) explica cómo estudiar cada tratado.
+- **Navegación:** el [Índice Maestro](./INDICE_MAESTRO.md) lista los 36 tratados.
+
+> **La idea que debe quedarte:** no estudias la Biblioteca "además de" la escuela — la usas **para**
+> la escuela. El mismo esfuerzo que te hace aprobar hoy te está construyendo el experto de mañana.
+> Esa es la mayor eficiencia de todo el sistema.
+
+---
+
+*Mapa Biblioteca ↔ Materias · Proyecto AJE. Verifica siempre contra tu plan de estudios y temarios
+oficiales; los nombres y el orden de las materias varían por universidad.*

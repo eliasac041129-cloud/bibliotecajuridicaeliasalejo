@@ -21,6 +21,7 @@
 |-----------|---------|
 | [README](./README.md) | Presentación general del proyecto. |
 | [Guía Metodológica](./GUIA-METODOLOGICA.md) | Cómo estudiar (práctica deliberada, repaso espaciado). |
+| [Mapa Biblioteca ↔ Materias](./MAPA_BIBLIOTECA-A-MATERIAS.md) | Qué tratado te sirve para cada materia de la carrera. |
 | [Plantilla de Libro](./PLANTILLA-LIBRO.md) | Estructura V3 (43 secciones + transversales). |
 | [Avance](./AVANCE.md) | Tablero de control (columnas + biblioteca). |
 | [Changelog](./CHANGELOG.md) | Bitácora de versiones (V1 → V2). |
