@@ -98,3 +98,55 @@ México y Latinoamérica.
 > precisamente para cerrarla — canalizando, mediante la Hoja de Ruta y el Principio de Realismo, la misma
 > disciplina que construyó esta biblioteca hacia lo inmediato y necesario (titularse, el inglés, la
 > experiencia). La grandeza del destino no exime del rigor del presente.
+
+## VI. LAS CINCO COLUMNAS DEL PROYECTO (y su secuencia)
+
+El Proyecto AJE se compone de cinco sistemas inseparables. **Pero no se construyen todos a la vez:** un
+sistema de cinco columnas levantado en paralelo se diluye y no se termina ninguna. Se construyen **en
+secuencia**, según lo que el lector necesita en cada etapa de su vida (este es el **Principio de
+Secuenciación**, sección VII).
+
+### Columna I — Biblioteca Jurídica · *¿Qué debo aprender?*
+Desarrolla el **conocimiento y el criterio** técnico para comprender el Derecho y todas las disciplinas de
+la empresa. No enseña solo normas: enseña **razonamiento y estrategia**. Cada libro explica por qué existe
+la institución, qué problema resolvió, cómo evolucionó, cómo funciona hoy, **cómo aparece en una empresa, en
+un M&A, en un due diligence, en un contrato, en un financiamiento y en el gobierno corporativo**, y cómo la
+analizan el empresario, el inversionista, el director jurídico, el juez y el socio internacional.
+> **Estado:** la V1.0 (5 niveles, 36 tratados) **es** esta columna, ya construida. La V2.0 la **profundiza
+> y conecta** con las demás.
+
+### Columna II — Hoja de Ruta del Arquitecto Jurídico Empresarial · *¿Qué hacer, cuándo y por qué?*
+No enseña Derecho: enseña **estrategia profesional**. Acompaña al lector de la universidad a socio o
+fundador. Cada etapa define objetivos (profesionales, intelectuales, económicos, patrimoniales, personales),
+conocimientos prioritarios, idiomas, certificaciones, networking, experiencia, despachos recomendados,
+errores frecuentes, indicadores de avance, plan de 90 días, plan anual y misiones prácticas. Toda decisión
+responde una sola pregunta: **¿aumenta el valor profesional del lector a 5, 10 y 20 años?**
+> **Por qué es la siguiente prioridad:** es la columna que **convierte el conocimiento en acción** y la que
+> aterriza la grandeza de este documento en lo inmediato (incluido lo urgente: titularse, el inglés, la
+> primera experiencia). Sin ella, la Columna I es sabiduría sin dirección.
+
+### Columna III — Laboratorio Profesional · *¿Cómo trabaja de verdad un abogado corporativo?*
+Convierte toda la teoría en **práctica**. El lector redacta contratos, opiniones legales, memorándums, due
+diligence, SPA, SHA, term sheets, disclosure letters, closing checklists, actas y asambleas, correos y
+presentaciones ejecutivas, y participa en negociaciones simuladas y análisis de operaciones reales. Cada
+ejercicio aproxima la experiencia de un despacho internacional.
+> **Cuándo:** cuando la base de conocimiento esté sólida y el lector empiece a ejercer.
+
+### Columna IV — Sistema del Socio · *¿Cómo se construye una carrera jurídica extraordinaria?*
+Enseña lo que ninguna universidad imparte: honorarios (hourly rates, retainers, success fees, igualas) y su
+negociación, administración de despachos, gestión de clientes y desarrollo de negocio, ventas consultivas,
+marca profesional, networking estratégico, liderazgo, contratación y delegación, KPIs, tecnología,
+productividad, inteligencia emocional, comunicación ejecutiva y toma de decisiones.
+> **Cuándo:** cuando el lector tenga carrera y equipo que construir y dirigir.
+
+### Columna V — Patrimonio y Libertad Financiera · *¿Cómo administrar la riqueza que genera la carrera?*
+Enseña finanzas personales, administración patrimonial, presupuestos, liquidez, crédito, impuestos
+personales, inversiones (ETF, acciones, bonos, bienes raíces, empresas privadas), asset allocation,
+protección patrimonial, planeación financiera, retiro, sucesión y filantropía. El objetivo: no solo
+**generar** riqueza, sino **conservarla y multiplicarla**.
+> **Cuándo:** cuando haya ingresos relevantes que administrar. (Conecta directamente con el Nivel V, Libro
+> 2 de la Columna I.)
+
+> **La secuencia, en una frase:** primero **saber** (I) y **saber qué hacer** (II) — ahora; luego **saber
+> hacer** (III) — al ejercer; después **saber dirigir** (IV) y **saber administrar la riqueza** (V) — con
+> carrera y patrimonio. Construir en orden; no todo de golpe.
