@@ -231,3 +231,88 @@ monolingüe**:
 - La Hoja de Ruta (Columna II) trata el **inglés jurídico como prioridad no negociable** desde el inicio.
 > "El más completo en español" es una meta digna — pero la **llave** de la élite es el inglés, y el proyecto
 > lo construye explícitamente.
+
+## VIII. ESTÁNDAR ACADÉMICO
+
+Toda afirmación se sustenta en fuentes serias: legislación vigente, jurisprudencia, doctrina nacional e
+internacional, principios generales del Derecho, y autores clásicos y contemporáneos. **No** se usa
+contenido superficial, blogs, resúmenes comerciales ni información sin respaldo académico. Y —por el
+Principio Supremo (VII.1)— **toda fuente concreta que se cite debe ser real y verificable**; ante la duda,
+se explica la lógica del concepto y se marca lo que debe verificarse, en lugar de inventar la cita.
+
+## IX. ESTÁNDAR EDITORIAL
+
+Cada libro debe poder competir con publicaciones de Oxford University Press, Cambridge, Harvard, Thomson
+Reuters, Wolters Kluwer, Tirant lo Blanch y Porrúa. Si un capítulo no alcanza ese estándar, se reescribe.
+El estándar operativo concreto (las 43 secciones + las secciones transversales) vive en el **Anexo de
+Estándar Editorial** (`00_MANIFIESTO_EDITORIAL.md`), subordinado a este documento. Recuerda (VII.1 y IV):
+ese estándar se alcanza con **rigor y verificación**, no con citas decorativas ni invocando nombres
+ilustres — la sustancia, no la apariencia.
+
+## X. REGLA SUPREMA
+
+No escribas para llenar páginas. No escribas para impresionar. No escribas para aprobar materias.
+
+**Escribe únicamente aquello que un futuro socio de un despacho internacional hubiera querido aprender
+durante la universidad para ahorrarse diez años de desarrollo profesional.** Cada página debe aumentar el
+criterio jurídico, la capacidad de resolver problemas complejos y la habilidad de crear valor. Todo lo que
+no contribuya a esa misión, se elimina.
+
+## XI. LAS DOCE PREGUNTAS ANTES DE ESCRIBIR
+
+Antes de escribir cualquier párrafo, capítulo o libro, deben responderse:
+
+1. ¿Este contenido desarrolla **criterio** o solo transmite información?
+2. ¿Este conocimiento seguirá siendo **valioso** en diez o veinte años?
+3. ¿Un **socio internacional** consideraría indispensable que un abogado junior dominara esto?
+4. ¿Ayuda al lector a **pensar mejor** o solo a memorizar?
+5. ¿Genera una **ventaja competitiva real** frente al promedio de los abogados?
+6. ¿Cómo se aplica en una **operación empresarial real**?
+7. ¿Qué **error profesional** evita dominar este tema?
+8. ¿Qué **valor económico** genera para un cliente comprenderlo?
+9. ¿Cómo se **conecta** con el resto del sistema (las cinco columnas)?
+10. Si solo pudiera conservarse **una idea** del capítulo, ¿cuál sería?
+11. *(V2.0)* ¿Cada dato, cita o número es **real y verificable**, o estoy inventando? ¿Marqué lo que debe
+    verificarse contra el texto vigente?
+12. *(V2.0)* ¿Estoy escribiendo con **integridad** —sin exagerar mi certeza, sin adornar con prestigio
+    vacío, sin sacrificar la verdad por impresionar?
+
+Si alguna no puede responderse satisfactoriamente, el contenido se replantea antes de continuar.
+
+## XII. CÓMO SE CONSTRUYE EL PROYECTO (el medio importa)
+
+Un documento fundacional que ignora **cómo** se construye su propia obra está incompleto. El Proyecto AJE
+se edifica con una metodología explícita:
+- **Control de versiones (git/GitHub).** La obra vive en un repositorio versionado. Cada versión mayor se
+  **sella** (la V1.0 está congelada en la rama `v1.0`); el desarrollo continúa sin dañar lo anterior.
+- **Construcción incremental en bloques pequeños**, con *commit* y *push* tras cada bloque — para no perder
+  trabajo y para que el avance sea siempre verificable (Principio de Realismo, VII.3).
+- **Navegabilidad.** El repositorio debe tener un **índice maestro** y rutas claras; un sistema de 20 años
+  debe poder recorrerse sin perderse.
+- **Trazabilidad.** Cada libro declara sus prerrequisitos y conexiones (Principio de Conexión, VII.5).
+- **Honestidad del medio.** Como se construye con IA, rige sin excepción el Principio Supremo de Integridad
+  Intelectual (VII.1): la herramienta acelera, pero **no sustituye la verificación ni el criterio humano**.
+
+## XIII. DECLARACIÓN FINAL
+
+El Proyecto AJE no es una biblioteca, ni un curso, ni un repositorio, ni una colección de apuntes. Es un
+**sistema integral** para formar profesionales capaces de pensar con profundidad jurídica, visión
+empresarial, criterio estratégico, ética, liderazgo y disciplina intelectual.
+
+Su éxito **no** se mide por la cantidad de libros escritos, sino por la **calidad del profesional** que sea
+capaz de formar.
+
+> **El objetivo final:** formar **asesores estratégicos** cuya capacidad de integrar Derecho, estrategia,
+> finanzas, negociación y liderazgo —y de resolver problemas complejos— genere un impacto real en empresas,
+> inversionistas y organizaciones, y cuya **reputación** sea la consecuencia natural de un **conocimiento
+> profundo, una ejecución impecable y una integridad incuestionable**.
+
+Y un último recordatorio, el que ordena todo lo demás: **la grandeza de este destino se gana un día a la
+vez.** La visión sin ejecución es fantasía; la ejecución sin visión es mediocridad. El Proyecto AJE exige
+**ambas**: soñar como un socio de élite y trabajar como quien tiene un examen mañana. Empieza hoy.
+
+---
+
+> *Documento Fundacional AJE · Versión 2.0. Documento rector supremo. Releer antes de cada libro, capítulo
+> y decisión editorial. El `00_MANIFIESTO_EDITORIAL.md` (estándar V3) es su Anexo de Estándar Editorial,
+> subordinado a este documento.*
