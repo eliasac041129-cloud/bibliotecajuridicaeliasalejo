@@ -205,3 +205,94 @@ formación** y te mete en el circuito de las operaciones.
 ### Misión de la Fase 2
 > **Dejar de ser "un abogado más" y volverte "el que sabe de esto".** Cuando en tu círculo alguien tenga un
 > problema de tu nicho y piensen en ti, la Fase 2 está ganada.
+
+---
+
+## FASE 3 — CONSOLIDACIÓN Y RESETEO (≈ 26–30 años) · *"Abogado sólido, narrativa reescrita"*
+
+Eres ya un especialista competente con experiencia. Esta fase **consolida** tu posición y, si lo necesitas,
+**reescribe tu narrativa** académica para abrir las puertas más altas.
+
+### Objetivos
+1. **Volverte un abogado sólido y confiable en operaciones.** Que te confíen trabajo importante; que tu
+   ejecución sea **impecable** (Principio del Valor: experiencia + reputación).
+2. **El posgrado / LLM (opcional pero poderoso).** Una **maestría** —idealmente en el extranjero, con
+   **beca** (Chevening, Fulbright-García Robles, becas de despachos, etc.)— hace tres cosas: profundiza tu
+   especialización, **resetea tu narrativa** (entras como "abogado con LLM", no como "el del expediente
+   golpeado"), y multiplica tu red internacional y tu inglés. Es la palanca que salta barreras que la
+   licenciatura cerró.
+3. **Empezar a generar (o atraer) clientes.** El paso del que **ejecuta** al que **trae trabajo**. Aquí
+   empieza a cambiar tu economía.
+4. **Construir patrimonio en serio.** Activa la **Columna V**: ahorra agresivamente, invierte, deja que el
+   interés compuesto trabaje.
+
+### Conocimiento prioritario
+- Dominio experto del nicho + visión integral (todo el Nivel IV-V de la Biblioteca, ya aplicado).
+- **Columna IV (Sistema del Socio)** empieza a importar: cómo se cobran honorarios, cómo se atiende a un
+  cliente, comunicación ejecutiva.
+
+### Indicadores de avance
+- [ ] Te confían operaciones **relevantes** y tu ejecución es sólida.
+- [ ] (Si aplica) Hiciste —o estás por hacer— una **maestría/LLM** (idealmente con beca).
+- [ ] Empiezas a **atraer clientes o trabajo** por tu nombre.
+- [ ] Tienes un **patrimonio inicial** creciendo (ahorro + inversión disciplinada).
+
+### Misión de la Fase 3
+> **Pasar de "buen abogado empleado" a "abogado con nombre y narrativa de élite".** Que tu expediente de los
+> 20 ya no defina tu historia: la define tu trabajo, tu posgrado y tu reputación.
+
+---
+
+## FASE 4 — EL DESPEGUE (≈ 30–35 años) · *"Especialista con clientes: aquí empieza la riqueza real"*
+
+Esta es la fase donde, si ejecutaste todo lo anterior, **el ingreso deja de tener techo** — porque pasas
+del lado del que cobra un sueldo al del que **cobra por valor y tiene clientes propios**.
+
+### Objetivos
+1. **Convertirte en el que tiene clientes** (no solo el que hace el trabajo): camino a **socio**, o un
+   **boutique propio**, o una práctica independiente fuerte, o una posición in-house senior. Aquí está la
+   diferencia entre 1.5-3M y los 5M+ (Principio: salario topado vs. propiedad/clientes sin techo).
+2. **Capturar valor.** Un fiscalista-corporativo bueno con cartera propia factura **muy por encima** de un
+   asalariado. Estos son los años en que se construye el patrimonio serio.
+3. **Liderazgo y equipo (Columna IV).** Empiezas a dirigir, delegar, formar equipo, desarrollar negocio.
+4. **Invertir lo que generas (Columna V).** No inflar el estilo de vida; **ser** rico, no solo **parecerlo**
+   (sustancia sobre apariencia — el que renta en Bosques endeudado vive a un mal mes del colapso; el que
+   compra desde la solidez, duerme tranquilo).
+
+### Indicadores de avance
+- [ ] Tienes **clientes propios** (o vas en firme hacia socio).
+- [ ] Tu ingreso da un **salto** (cobras por valor, no por hora topada).
+- [ ] Diriges/formas **equipo**.
+- [ ] Tu **patrimonio** crece de forma significativa y **lo conservas e inviertes**.
+
+### Misión de la Fase 4
+> **Cruzar del salario a la propiedad.** El día que tu ingreso dependa de **tu cartera y tu nombre**, y no
+> de un jefe que te paga, habrás cruzado el umbral de la riqueza real.
+
+---
+
+## FASE 5 — LA ÉLITE (≈ 35–45 años) · *"Asesor indispensable; el estilo de vida como consecuencia"*
+
+El destino del Documento Fundacional: el **Arquitecto Jurídico Empresarial** consolidado — socio de un
+despacho, fundador de una firma boutique de élite, o asesor estratégico indispensable.
+
+### Objetivos
+1. **Ser el asesor indispensable** para quienes toman las decisiones empresariales más importantes — por el
+   **valor** que creas, no por un ranking (la misión reformulada del Documento Fundacional).
+2. **Reputación e integridad consolidadas.** Tu nombre **es** tu marca; tu palabra, tu mayor activo.
+3. **El estilo de vida, como consecuencia natural.** La casa en la zona que sueñas, los viajes, la familia
+   viviendo bien, los hijos en buena escuela — **llegan solos** cuando eres genuinamente valioso (no se
+   persiguen directamente: se construye el valor y el resto sigue). Y se sostienen **desde la solidez**, no
+   desde la deuda y la apariencia.
+4. **Trascender.** Formar a otros, devolver, construir algo que perdure (la Columna IV y V en su madurez:
+   firma, patrimonio, legado, filantropía).
+
+### Indicadores de avance
+- [ ] Eres **socio / fundador / asesor de referencia** en tu campo.
+- [ ] Tu reputación te **trae** las oportunidades (ya no las persigues).
+- [ ] Tu patrimonio te da **seguridad y libertad**, sostenido en la solidez.
+- [ ] Empiezas a **formar y a devolver**.
+
+### Misión de la Fase 5
+> **Volverte indispensable e íntegro.** Que empresarios, consejos y fondos quieran sentarte en la mesa donde
+> se deciden las cosas grandes — y que llegues ahí con la conciencia tranquila. Ese es el AJE consolidado.
