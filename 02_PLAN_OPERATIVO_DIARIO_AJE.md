@@ -144,3 +144,85 @@ Lo que no se mide, no se mejora. Cada domingo contesta por escrito:
 
 > Doce revisiones semanales = un ciclo de 90 días. La Hoja de Ruta de 20 años son ~80 ciclos.
 > Ganas la vida ganando el domingo.
+
+
+---
+
+## IX. Tu tablero de hábitos (cópialo y úsalo cada semana)
+
+Lleva esto en papel, en tu teléfono o en un archivo. Marca ✅ cada día que cumpliste el bloque.
+La meta no es la perfección: es **ver tu cadena crecer y no romperla**.
+
+```
+SEMANA DEL ___ AL ___
+
+                    L    M    X    J    V    S    D
+Académico (#1)     [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]
+Inglés (#2)        [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]
+Lab/Biblioteca(#3) [ ]  [ ]  [ ]  [ ]  [ ]  [ ]  [ ]
+
+Días sin cero esta semana: ___ / 7   (meta: 6-7)
+Próximo examen / fecha clave: ____________________
+Lo que produje en el Lab esta semana: ____________
+Ajuste para la próxima semana: ___________________
+```
+
+> **El número que de verdad importa:** *días sin cero*. Si esa cifra se mantiene alta semana tras
+> semana, vas a llegar — sin importar lo brillante o flojo que haya sido cada día.
+
+---
+
+## X. Protocolo de recaída (qué hacer cuando rompes la cadena)
+
+Vas a fallar. Todos fallan. Lo que separa al que llega del que no **no es no caer, sino cómo
+reacciona**:
+
+1. **Nada de culpa ni de "ya eché a perder todo".** Un día (o una semana) en cero **no** borra tu
+   avance. El "todo o nada" es la trampa que convierte un tropiezo en abandono.
+2. **Regla del día siguiente:** nunca falles **dos días seguidos**. Un cero es un accidente; dos
+   ceros es el inicio de un patrón.
+3. **Si caíste, vuelve por el piso, no por el techo.** Retoma con el **Día Mínimo** (sección III),
+   no con un plan heroico que abandonarás en 48 horas.
+4. **Diagnostica sin drama:** ¿qué disparó la caída? (trasnoche, ansiedad, mala planeación). Ajusta
+   el sistema, no tu valía.
+
+> Piensa en **juego repetido** (Nivel V de la Biblioteca): no juegas una partida única que se
+> arruina con un error. Juegas miles de días; cada uno es una nueva mano. Lo único imperdonable es
+> dejar la mesa.
+
+---
+
+## XI. Reglas anti-distracción (proteger el bloque profundo)
+
+- **Teléfono fuera de la vista** durante los bloques profundos (no en silencio: **fuera**).
+- **Una sola cosa a la vez.** Estudiar y "ver el celu tantito" no es estudiar: es media hora
+  fingida. La concentración profunda es tu superpoder; protégela.
+- **Redes con horario, no a demanda.** Define cuándo (p. ej. después del bloque 1), no "cuando me
+  aburra".
+- **Ambiente:** un lugar fijo de estudio entrena al cerebro a entrar en modo trabajo más rápido.
+
+---
+
+## XII. Cierre: el puente entre quien eres y quien serás
+
+Tienes la visión (Documento Fundacional), el mapa (Hoja de Ruta), el conocimiento (Biblioteca) y
+el oficio (Laboratorio). **Lo único que falta —lo único que siempre falta— es ejecutar hoy.**
+
+Este documento no te pide ser un genio ni un héroe. Te pide algo mucho más difícil y mucho más
+poderoso: **presentarte todos los días, dirigir tu energía a lo que toca, y no romper la cadena.**
+
+> **Hoy, no mañana:**
+> 1. Habla con tu coordinación sobre los extraordinarios (si aún no lo has hecho).
+> 2. Haz tus primeros 20 minutos de inglés.
+> 3. Llena la primera fila de tu tablero de hábitos.
+>
+> No esperes el lunes. No esperes a "estar listo". El sistema empieza con el primer ✅, y ese ✅
+> puedes ponerlo hoy.
+
+> **La grandeza del destino se gana un día a la vez. Empieza hoy, a las 7 a.m.**
+
+---
+
+> *02 · El Sistema Diario · Plan Operativo del Proyecto AJE · V2.0. Regido por el
+> [Documento Fundacional AJE](./00_DOCUMENTO_FUNDACIONAL_AJE.md) y complementario a la
+> [Hoja de Ruta](./01_HOJA_DE_RUTA_AJE.md). Revisar cada 90 días.*
