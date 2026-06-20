@@ -257,3 +257,62 @@ Glosario riguroso. Domínalo: es el vocabulario del *deal* fiscal.
 | **Precios de transferencia** | Reglas para que operaciones entre partes relacionadas se pacten a valores de mercado (*arm's length*) y no para mover artificialmente la utilidad. |
 | **Razón de negocios** | Finalidad económica real de una operación, más allá del ahorro fiscal; su ausencia activa el anti-abuso. |
 | **Cláusula general anti-abuso (GAAR)** | Norma que permite a la autoridad recaracterizar actos carentes de razón de negocios cuyo único fin fue el beneficio fiscal. ⚠️ *Verificar redacción vigente del CFF.* |
+
+
+## 14. Desarrollo absoluto
+
+El núcleo del libro. Aquí construimos, paso a paso, la forma de **pensar** la fiscalidad de una
+operación corporativa. No memorices tasas (cambian): interioriza la **lógica**.
+
+### 14.A · La lógica del ISR corporativo (de dónde sale el impuesto)
+
+Toda la fiscalidad corporativa parte de una cadena sencilla:
+
+```
+INGRESOS  −  DEDUCCIONES  =  UTILIDAD (base)  ×  TASA  =  ISR de la empresa
+                                                              │
+                              (lo que queda)  →  DIVIDENDO al socio  →  (posible 2º impuesto)
+```
+
+Tres ideas que de aquí se desprenden y que gobiernan todo lo demás:
+
+1. **Se grava la utilidad, no el ingreso.** Por eso las **deducciones** son el campo de batalla
+   diario: un gasto deducible baja la base; uno no deducible no. La ley exige que la deducción sea
+   *estrictamente indispensable*, esté *soportada* (factura/CFDI) y cumpla requisitos. ⚠️ *Requisitos
+   concretos: verificar LISR vigente.*
+2. **La doble imposición económica del dividendo.** La empresa paga ISR sobre su utilidad; cuando
+   reparte esa utilidad ya gravada a los socios, el sistema busca **no volver a gravarla** mediante la
+   **CUFIN** (las utilidades por las que ya se pagó). Distribuir desde CUFIN no debería causar ISR
+   adicional corporativo; distribuir por encima de CUFIN sí detona un impuesto. ⚠️ *Mecánica y tasas:
+   verificar.* La lección permanente: **el dividendo carga un costo fiscal que el interés (deuda) no
+   carga** — y eso explica buena parte de la planeación de financiamiento.
+3. **Deuda vs. capital (la asimetría madre).** Los **intereses** que paga la empresa suelen ser
+   **deducibles** (bajan su ISR); los **dividendos** que paga **no** lo son. Por eso, fiscalmente,
+   financiarse con deuda es a menudo más eficiente que con capital — hasta que la ley pone límites
+   (reglas de **capitalización delgada** / *thin capitalization* y topes a la deducción de intereses,
+   precisamente para evitar el abuso). ⚠️ *Límites concretos: verificar.*
+
+> **Cómo piensa un fiscalista (y debes pensar tú):** ante cualquier operación, se pregunta *(1) ¿qué
+> hecho imponible se realiza?, (2) ¿quién obtiene el ingreso o la ganancia?, (3) ¿cuál es su costo
+> fiscal/base?, (4) ¿hay un régimen especial (neutralidad, diferimiento)?, (5) ¿hay razón de
+> negocios?*. Esas cinco preguntas resuelven el 80 % del análisis.
+
+### 14.B · La dimensión fiscal del deal: por qué la estructura lo es todo
+
+En una compraventa de empresa hay **siempre dos lados con intereses fiscales opuestos**, y entender
+esa tensión es entender la negociación:
+
+- **El vendedor** quiere **minimizar el impuesto sobre su ganancia** hoy (precio − costo fiscal).
+- **El comprador** quiere **maximizar lo que podrá deducir/recuperar mañana** (depreciar lo comprado,
+  aprovechar pérdidas, intereses del financiamiento) y **no heredar contingencias fiscales** del
+  pasado del negocio.
+
+Estos intereses chocan, y la **estructura** del deal es el terreno donde se reparte ese costo fiscal
+—exactamente igual que las representaciones y garantías reparten el riesgo (Libro 4)—. Por eso el
+abogado que entiende fiscal **negocia mejor el precio y la estructura**: sabe que "el mismo precio"
+no es el mismo para cada parte una vez metido el impuesto.
+
+> **Regla de oro del deal fiscal:** *el precio nominal no es el precio real; el precio real es el
+> precio después de impuestos.* Un vendedor racional prefiere $95 con bajo impuesto a $100 con impuesto
+> alto. El abogado que sabe esto encuentra estructuras que **agrandan el pastel después de impuestos**
+> y reparten esa ganancia entre las partes — eso es crear valor, no solo dividirlo.
