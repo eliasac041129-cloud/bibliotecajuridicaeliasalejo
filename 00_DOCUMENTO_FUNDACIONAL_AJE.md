@@ -150,3 +150,84 @@ protección patrimonial, planeación financiera, retiro, sucesión y filantropí
 > **La secuencia, en una frase:** primero **saber** (I) y **saber qué hacer** (II) — ahora; luego **saber
 > hacer** (III) — al ejercer; después **saber dirigir** (IV) y **saber administrar la riqueza** (V) — con
 > carrera y patrimonio. Construir en orden; no todo de golpe.
+
+## VII. LOS PRINCIPIOS RECTORES
+
+Seis principios gobiernan **toda** decisión del proyecto. El primero es **supremo**: prevalece sobre
+cualquier otra consideración, incluida la ambición.
+
+### Principio 1 (SUPREMO) — Integridad Intelectual y Verificación
+
+Esta obra se construye **con apoyo de inteligencia artificial**, y la mayor amenaza a su valor **no** es la
+falta de ambición: es la **fabricación**. Una IA puede inventar, con total seguridad y prosa convincente,
+jurisprudencia que no existe, artículos mal numerados, autores apócrifos o datos falsos. **En Derecho, una
+sola cita inventada destruye la credibilidad de toda la obra** — y, usada en la práctica, puede costar
+carísimo. Por eso, por encima de todo:
+
+- **Nunca inventar.** No se fabrican tesis, números de artículo, criterios de la SCJN, autores, cifras ni
+  casos. Si no se está seguro de un dato, **se dice explícitamente** ("verificar") en lugar de inventarlo.
+- **Marcar lo verificable.** Todo número de artículo, criterio jurisprudencial, dato estadístico o cita
+  concreta lleva la advertencia de **verificar contra el texto vigente** antes de usarse profesionalmente.
+- **Distinguir el estatus de cada afirmación:** derecho asentado vs. opinión vs. debate doctrinal vs. área
+  en evolución. No presentar como certeza lo que es interpretación.
+- **Fechar el contenido.** El Derecho cambia; cada libro debe poder ubicarse en el tiempo, y las áreas
+  volátiles (fiscal, competencia, ESG, fintech) advertir su posible desactualización.
+- **Preferir el concepto verificable a la cita decorativa.** Es mejor explicar bien *la lógica* de una
+  institución (que el lector puede comprender y confiar) que adornar con citas que podrían ser falsas.
+
+> Sin este principio, el "estándar Oxford/Harvard" de la sección IX es imposible: ninguna editorial seria
+> publica citas inventadas. La honestidad sobre lo que se sabe y lo que se debe verificar **es** el
+> estándar.
+
+### Principio 2 — Integridad Ética (estructural, no decorativa)
+
+El lector va a un campo —el Derecho corporativo— lleno de conflictos de interés, compliance y la tentación
+de "ganar a toda costa". Y va con hambre y desde un origen difícil, donde el atajo siempre tienta. Por eso
+la **integridad no es una frase de cierre: es una columna estructural** del proyecto.
+- La **reputación** es el mayor activo profesional (lo demuestra la propia teoría de juegos del Nivel V: en
+  un mundo de relaciones repetidas, la traición gana una vez y pierde siempre; la integridad gana a largo
+  plazo).
+- El proyecto enseña a **crear valor**, no a extraer ni a engañar; a persuadir sin mentir; a competir por
+  mérito, no por colusión ni por trampa.
+- La excelencia técnica **sin** integridad no forma a un gran abogado: forma a un peligro. El Proyecto AJE
+  se niega a ello.
+
+### Principio 3 — Realismo y Ejecución (la ambición atada a la acción)
+
+La grandeza del destino **no exime del rigor del presente**. Todo este documento es aspiracional; este
+principio lo **aterriza**:
+- Cada gran aspiración debe atarse a una **acción concreta, medible y de hoy** (vía la Columna II — Hoja de
+  Ruta).
+- El proyecto es honesto sobre la **brecha** entre la capacidad del lector y su ejecución actual, y existe
+  para cerrarla — no para halagarlo.
+- Se prefiere **un capítulo terminado y bien hecho** a diez grandiosos a medias. Se construye **en bloques
+  pequeños, con avance verificable** (la disciplina que construyó la V1.0).
+- Lo **urgente y poco glamoroso** (titularse, el inglés, la primera experiencia) tiene prioridad sobre lo
+  vistoso. Sin cimientos, no hay edificio.
+
+### Principio 4 — Valor (no dinero)
+
+El objetivo nunca es el dinero inmediato: el dinero es la **consecuencia natural** del incremento constante
+del **valor profesional** del lector. Toda decisión debe aumentar al menos uno de estos activos:
+**conocimiento, criterio, experiencia, reputación, relaciones, capacidad de resolver problemas complejos,
+pensamiento estratégico, liderazgo.** Si una decisión solo genera dinero inmediato pero **reduce** alguno de
+esos activos, **se descarta**.
+
+### Principio 5 — Conexión (nada se estudia aislado)
+
+Ningún libro se estudia de forma aislada. Cada capítulo debe indicar: qué conocimientos previos requiere,
+qué libros lo complementan, qué aplicaciones profesionales tiene, qué operaciones lo usan, qué riesgos
+evita, qué habilidades desarrolla y **cómo se conecta con el resto del sistema** (las cinco columnas). El
+valor del proyecto está en que todo es **un único sistema intelectual**, no piezas sueltas.
+
+### Principio 6 — Bilingüismo (el Derecho corporativo de élite habla inglés)
+
+La élite del Derecho corporativo opera **en inglés** (los SPA, los term sheets, los facilities agreements,
+la doctrina, la negociación internacional). Un proyecto que aspira a esa élite **no puede ser
+monolingüe**:
+- Se domina la **terminología bilingüe** (cada término técnico, en español y en inglés: *due diligence*,
+  EBITDA, *drag along*, *fairness opinion*...).
+- Se entrena la **lectura y comprensión de documentos en inglés**.
+- La Hoja de Ruta (Columna II) trata el **inglés jurídico como prioridad no negociable** desde el inicio.
+> "El más completo en español" es una meta digna — pero la **llave** de la élite es el inglés, y el proyecto
+> lo construye explícitamente.
