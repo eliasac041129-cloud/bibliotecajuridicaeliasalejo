@@ -5,7 +5,7 @@
 > comprar, investigar, estructurar, documentar, financiar, colaborar, invertir como fondo,
 > gobernar y **estructurar fiscalmente**.
 
-## Tratados del nivel (9)
+## Tratados del nivel (10)
 
 1. **Fundamentos de M&A** — racional estratégico, tipos de operación, fases, actores.
 2. **Due Diligence** — legal, financiero, fiscal, laboral; data room, red flags, reportes.
@@ -24,6 +24,10 @@
    vs. asset deal, neutralidad en fusiones/escisiones, elusión vs. evasión, dimensión
    internacional. *(Aplica el [Protocolo de Verificación](../../PROTOCOLO_DE_VERIFICACION.md):
    enseña la lógica y marca ⚠️ los datos perecederos.)*
+10. **Competencia Económica y Control de Concentraciones** — los tres pilares (cárteles, abuso de
+    dominancia, concentraciones); el control de concentraciones como condición de cierre del M&A,
+    gun-jumping, remedios; COFECE e IFT. *(También bajo el Protocolo de Verificación: umbrales y
+    plazos marcados ⚠️.)*
 
 ## Promesa del nivel
 

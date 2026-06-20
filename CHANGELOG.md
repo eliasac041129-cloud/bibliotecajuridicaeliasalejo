@@ -31,6 +31,10 @@ columnas**, gobernado por seis principios rectores.
 - **Reorganización en 5 columnas paralelas** (carpetas `Columna-I` … `Columna-V`), con enlaces
   internos corregidos.
 - **Columna IV · Módulo 07 · Honorarios** — cómo cobrar, cotizar y negociar.
+- **Nivel IV · Libro 10 · Competencia Económica y Control de Concentraciones** — tratado V3 (38º de
+  la Biblioteca): los tres pilares (cárteles, abuso de dominancia, concentraciones) y, sobre todo,
+  el **control de concentraciones** como condición de cierre del M&A (umbrales, standstill,
+  gun-jumping, remedios, COFECE/IFT). Bajo el Protocolo de Verificación (umbrales y plazos ⚠️).
 - **Nivel IV · Libro 9 · Fiscal Corporativo y Planeación Fiscal de Operaciones** — tratado V3
   (37º de la Biblioteca) sobre la dimensión fiscal de las operaciones: lógica del ISR corporativo,
   share vs. asset deal, neutralidad en fusiones/escisiones, elusión vs. evasión y dimensión
