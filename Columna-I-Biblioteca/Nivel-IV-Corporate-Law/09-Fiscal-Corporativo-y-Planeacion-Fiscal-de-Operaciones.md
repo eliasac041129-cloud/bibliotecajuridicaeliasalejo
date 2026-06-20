@@ -388,3 +388,48 @@ verdadera enajenación a un tercero. Es diferimiento, no exención.
 > negocio que se quiere vender de los activos que se quieren conservar, y luego se vende solo esa
 > parte; o una **fusión** para integrar y aprovechar sinergias y, en su caso, pérdidas fiscales
 > (con límites estrictos). Todo **con razón de negocios documentada**.
+
+
+### 14.E · Planeación fiscal y la línea infranqueable
+
+Aquí está el corazón ético y técnico de la materia. La planeación fiscal **legítima** descansa en un
+principio reconocido: **nadie está obligado a estructurar sus negocios de la forma que más impuesto
+pague.** Puedes elegir, entre opciones legales, la más eficiente. Eso es **elusión / economía de
+opción**, y es lícito.
+
+Las herramientas legítimas de planeación son, casi siempre, **diferir, aprovechar regímenes que la
+ley ofrece, y elegir la estructura adecuada**:
+- **Diferimiento:** posponer el impuesto (por el valor del dinero en el tiempo, pagar en 5 años vale
+  menos que pagar hoy).
+- **Aprovechar regímenes que la propia ley crea:** neutralidad en reorganizaciones, CUFIN para evitar
+  doble impuesto, estímulos sectoriales, tratados para evitar doble tributación.
+- **Elegir vehículo y estructura:** qué tipo de sociedad, dónde, share vs. asset, deuda vs. capital —
+  todo dentro de lo que la ley permite y **con razón de negocios**.
+
+**La línea infranqueable.** La diferencia entre planeación y delito no es de grado, es de **naturaleza**:
+
+| | Elusión / planeación (LÍCITO) | Evasión (ILÍCITO — a menudo delito) |
+|---|---|---|
+| Qué hace | Organiza la realidad de forma eficiente | **Oculta o falsea** la realidad |
+| La realidad económica | Es **verdadera** | Es **fingida** (simulación) |
+| Ejemplo | Hacer una escisión real con razón de negocios | Facturar operaciones inexistentes; ocultar ingresos; testaferros |
+| Frente al fisco | Se sostiene a la luz | Se derrumba al revisarse |
+| Consecuencia | Ahorro legítimo | Multas, recargos, **delito fiscal (defraudación), cárcel** |
+
+> **La frontera moderna: la razón de negocios y la cláusula anti-abuso (GAAR).** Hoy no basta con que
+> una estructura sea *formalmente* legal: si su **único propósito** es el beneficio fiscal y carece de
+> **razón de negocios** real, la autoridad puede **recaracterizarla** (tratarla como lo que
+> económicamente es) mediante la cláusula general anti-abuso del CFF. ⚠️ *Verificar redacción
+> vigente.* Esto significa que la planeación agresiva "técnicamente legal pero artificial" es un
+> terreno cada vez más peligroso. **La sustancia vence a la forma.**
+
+> **Cómo piensa un socio (y el Principio de Integridad del proyecto):** el socio serio no busca la
+> estructura "más lista", busca la **más sólida** — la que tiene razón de negocios real, se documenta
+> bien y **sobrevive una auditoría dentro de cinco años**. La planeación agresiva que ahorra hoy y
+> explota mañana no es un activo: es una bomba de tiempo para el cliente y para la reputación del
+> abogado. El mejor fiscalista no es el más audaz, es **el que nunca pierde una revisión**.
+
+> **Regla permanente para ti:** ofrece a tus clientes **eficiencia fiscal con sustancia y
+> documentación**, nunca trucos. La eficiencia bien hecha crea valor y fideliza; la evasión, tarde o
+> temprano, destruye al cliente y te arrastra a ti. En fiscal, tu firma vale lo que vale tu
+> integridad.
