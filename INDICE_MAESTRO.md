@@ -99,6 +99,7 @@
 - [04 · La Economía del Despacho](./Columna-IV-Sistema-del-Socio/04-La-Economia-del-Despacho.md) — ✅
 - [05 · Marca Personal y Reputación](./Columna-IV-Sistema-del-Socio/05-Marca-Personal-y-Reputacion.md) — ✅
 - [06 · Rutas de Carrera](./Columna-IV-Sistema-del-Socio/06-Rutas-de-Carrera.md) — ✅
+- [07 · Honorarios: Cómo Poner Precio a tu Trabajo](./Columna-IV-Sistema-del-Socio/07-Honorarios-Como-Poner-Precio.md) — ✅
 
 ### Columna V · Patrimonio y Libertad Financiera — ✅ completa
 - [00 · Patrimonio y Libertad Financiera (documento rector)](./Columna-V-Patrimonio/00_PATRIMONIO_Y_LIBERTAD_FINANCIERA_AJE.md)

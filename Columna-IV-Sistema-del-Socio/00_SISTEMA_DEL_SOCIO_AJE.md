@@ -61,8 +61,9 @@ monedas**, y la mayoría solo conoce la primera:
 | 04 | La economía del despacho | ¿Cómo se reparte el dinero? ¿Qué es *leverage* y *PPP*? | ✅ Completo |
 | 05 | Marca personal y reputación | ¿Cómo me vuelvo conocido por algo? | ✅ Completo |
 | 06 | Rutas de carrera | Despacho grande, boutique, *in-house*, fundar: ¿cuál y cuándo? | ✅ Completo |
+| 07 | Honorarios: cómo poner precio | ¿Cómo cobro, cotizo y negocio mis honorarios? | ✅ Completo |
 
-> Columna IV completa: 6 módulos que enseñan a construir la carrera, no solo a hacer el trabajo.
+> Columna IV completa: 7 módulos que enseñan a construir la carrera, no solo a hacer el trabajo.
 
 > Se construyen **en secuencia**. El primero —la pirámide— es el mapa: hasta que no entiendes cómo
 > se asciende y qué se mide en cada peldaño, los demás módulos flotan en el aire.
