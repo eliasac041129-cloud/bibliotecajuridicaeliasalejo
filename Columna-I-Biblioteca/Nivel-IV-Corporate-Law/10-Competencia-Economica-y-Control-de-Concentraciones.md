@@ -359,3 +359,94 @@ con el Libro 4 y el Laboratorio):
 > el calendario, el precio y hasta si vale la pena intentar el deal. Un comprador que necesita
 > certeza exigirá que el vendedor cargue el riesgo regulatorio; un vendedor fuerte lo trasladará al
 > comprador. Esa negociación —invisible para el novato— puede valer tanto como el precio.
+
+
+## 15. Explicación intuitiva (el modelo mental)
+
+Piensa en la competencia como **un partido con árbitro**. El objetivo del árbitro no es que gane tal
+o cual equipo, sino que **el partido sea limpio**: que nadie amañe el marcador. Tres intuiciones:
+
+1. **Amañar el partido entre rivales (cártel) es la falta más grave.** Si los dos equipos acuerdan el
+   resultado, el público (consumidor) paga la entrada por un espectáculo falso. Tarjeta roja directa,
+   sin discusión (*per se*).
+2. **Ser el mejor no es falta; hacer trampa siendo el mejor, sí (abuso).** Que un equipo domine porque
+   juega mejor está bien. Lo que no se vale es usar su fuerza para **lesionar** al rival o impedirle
+   jugar. Aquí el árbitro **sí evalúa la jugada** (regla de la razón).
+3. **Fusionar dos equipos requiere permiso (concentraciones).** Si los dos mejores equipos se unen,
+   quizá ya no haya partido. Por eso, antes de fusionarse, deben pedir permiso al árbitro, que decide
+   si la liga sigue siendo competitiva, si pone condiciones, o si lo prohíbe.
+
+> **La intuición que ordena el M&A:** *firmar puedes; consumar (integrarte) no, hasta que el árbitro
+> autorice.* Adelantarte (gun-jumping) es entrar a la cancha antes del silbatazo: falta grave.
+
+## 16. Ejemplos simples
+
+- **Cártel:** dos panaderías de un pueblo acuerdan no vender el pan a menos de cierto precio. Aunque sea
+  un "acuerdo de caballeros", es una **práctica monopólica absoluta**: ilegal *per se*.
+- **Abuso:** la única cementera de una región vende cemento bajo costo solo en la zona donde entró un
+  competidor nuevo, para quebrarlo, y mantiene precios altos en el resto. Posible **precio
+  predatorio** (práctica relativa): ilegal **si** tiene poder y daña.
+- **Concentración:** las dos mayores cadenas de farmacias del país quieren fusionarse. Como superan los
+  umbrales, **deben notificar** y esperar; la autoridad evaluará si juntas tendrían un poder dañino.
+
+## 17. Ejemplos complejos (multi-variable)
+
+**Fusión con remedio (desinversión).** Dos empresas de bebidas se fusionan. En el país en general no
+hay problema, pero en **una región** y en **un tipo de bebida** (un mercado relevante estrecho)
+juntas tendrían el 75 %. La autoridad **autoriza condicionado** a que **vendan** una de sus marcas en
+esa región a un tercero, restaurando la competencia. El abogado de M&A debió **anticipar** este
+remedio y negociar en el SPA quién carga el costo de la desinversión.
+
+**Gun-jumping accidental.** Entre la firma y la autorización (tres meses), el comprador empieza a
+"ayudar" a operar el target, fija conjuntamente precios y comparte listas de clientes. Aunque la
+operación luego se autorice, **ya hubo gun-jumping**: las dos empresas, que debían seguir compitiendo,
+se coordinaron. Resultado: multa. *Lección:* hasta el cierre autorizado, **se vive como
+independientes**.
+
+**Mercado relevante decide el caso.** En una adquisición tecnológica, todo depende de si el mercado se
+define como "una app específica" (las partes serían dominantes) o como "todas las formas de hacer esa
+tarea" (serían un jugador más). La batalla técnica está en esa definición.
+
+## 18. Casos reales (estilizados)
+
+> ⚠️ *No se citan expedientes ni nombres por no estar verificados (Principio Supremo). Patrones
+> reconocibles; verificar resoluciones concretas de COFECE/IFT y tribunales.*
+
+- **Cárteles en licitaciones públicas:** patrón clásico —empresas que se "turnan" contratos de gobierno
+  concertando posturas—, de los más perseguidos y sancionados.
+- **Concentraciones condicionadas con desinversión:** patrón frecuente en sectores concentrados
+  (bebidas, telecom, farmacéutico, aerolíneas), donde la autoridad autoriza a cambio de vender activos.
+- **Abuso en sectores en red** (telecom, energía): el incumbente dificulta el acceso de competidores a
+  una infraestructura esencial. ⚠️ *Verificar casos vigentes.*
+
+## 19. Casos empresariales (en la vida de una compañía)
+
+- **Programa de *compliance* de competencia:** una empresa capacita a su personal para **no** caer en
+  acuerdos prohibidos (ni siquiera informales con competidores en una cámara industrial) y para manejar
+  reuniones de asociación con cuidado. Conecta con el Libro 8 (Compliance).
+- **Decisión de notificar:** ante una adquisición, la empresa evalúa con sus abogados si supera
+  umbrales; un error de cálculo aquí (no notificar lo que debía) es gun-jumping.
+- **Uso ofensivo:** denunciar ante la COFECE a un competidor que abusa o a un proveedor que cartcliza,
+  como estrategia legítima de negocio.
+
+## 20. Casos corporativos (en transacciones)
+
+- **El *antitrust* en el SPA:** condición de cierre de autorización, *covenants* de cooperación y
+  anti-gun-jumping, asignación del riesgo regulatorio (*efforts* clauses, break-up fee, long-stop
+  date). Es donde este libro y el Libro 4 se encuentran.
+- **Estructurar para evitar/facilitar la notificación:** a veces la estructura o el calendario se
+  ajustan a la realidad regulatoria (sin caer en simulaciones para evadir el control, lo cual es
+  sancionable).
+- **Due diligence de competencia:** revisar si el target tiene riesgos de competencia (¿participó en
+  algún cártel? ¿tiene prácticas dudosas?) que el comprador heredaría. Conecta con el Libro 2 y el
+  Laboratorio (DD).
+
+## 21. Casos internacionales (*cross-border*)
+
+- **Notificación multi-jurisdiccional:** una fusión global puede requerir autorización en **México, EE.
+  UU., la UE y más** a la vez. Cada autoridad analiza su mercado; el deal no cierra hasta tener **todas**
+  las autorizaciones necesarias. Coordinar esto es un arte (y un costo) del M&A internacional.
+- **Decisiones divergentes:** distintas autoridades pueden llegar a conclusiones distintas o imponer
+  remedios diferentes sobre la misma operación.
+- **Cooperación entre agencias:** las autoridades intercambian información y, en cárteles globales,
+  coordinan investigaciones. El programa de inmunidad en una jurisdicción interactúa con las demás.
