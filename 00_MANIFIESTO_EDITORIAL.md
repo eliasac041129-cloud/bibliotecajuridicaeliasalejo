@@ -1,10 +1,21 @@
 # 00 · MANIFIESTO EDITORIAL
-### La Constitución de la Biblioteca Jurídica Elias Alejo
+### Anexo de Estándar Editorial del Proyecto AJE
 
-> Este documento está por encima de cualquier otro de la biblioteca. Se consulta **antes**
-> de redactar cualquier libro o capítulo. No contiene instrucciones técnicas: contiene la
-> **visión, los principios y el estándar de calidad** que dan identidad permanente a toda la
-> obra. Si un texto contradice este manifiesto, se corrige el texto, no el manifiesto.
+> **Nota de jerarquía (V2.0).** A partir de la versión 2.0 del proyecto, el documento rector
+> supremo es el [**00 · Documento Fundacional AJE**](./00_DOCUMENTO_FUNDACIONAL_AJE.md), que
+> define la misión, los seis Principios Rectores y el sistema completo de cinco columnas. Este
+> Manifiesto **deja de ser "la Constitución"** y pasa a ser su **Anexo de Estándar Editorial**:
+> regula exclusivamente *cómo se escribe* la Columna I (la Biblioteca) —visión editorial,
+> estándar V3 de 43 secciones, derecho comparado y control de calidad—. Si este Manifiesto
+> contradijera al Documento Fundacional, prevalece el Documento Fundacional. Para todo lo que
+> exceda la redacción de libros (ruta de carrera, laboratorio, sistema del socio, patrimonio),
+> el rector es el Documento Fundacional.
+
+> Dentro de su ámbito —la calidad y la identidad de la Biblioteca— este Manifiesto sigue
+> estando por encima de cualquier libro o capítulo: se consulta **antes** de redactar. No
+> contiene instrucciones técnicas: contiene la **visión, los principios y el estándar de
+> calidad** que dan identidad permanente a la obra. Si un texto de la biblioteca contradice
+> este Manifiesto, se corrige el texto, no el Manifiesto.
 
 ---
 
