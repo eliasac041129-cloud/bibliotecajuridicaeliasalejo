@@ -171,3 +171,106 @@ marcar cambios (*redline / markup*). El método:
 > usa. Si la otra parte define "Daños" excluyendo el "lucro cesante" y el "daño indirecto", esa
 > sola línea en las definiciones puede borrar el 80 % de lo que tu cliente podría reclamar. El
 > diablo vive en las definiciones.
+
+
+---
+
+## VII. Errores que cuestan millones (en el drafting)
+
+| Error | Por qué cuesta | Cómo evitarlo |
+|-------|----------------|---------------|
+| **Cláusula sin remedio** | El cliente tiene "razón" pero ningún mecanismo rápido para cobrar | Toda obligación clave lleva su pena/intereses/resolución |
+| **Término definido usado de forma inconsistente** | El juez interpreta que quisiste decir cosas distintas | Define una vez, usa siempre igual (mayúscula) |
+| **Plazo sin unidad ni punto de partida** | "30 días" detona litigios sobre cuándo vence | "días naturales/hábiles, contados a partir de…" |
+| **Pasivo sin sujeto ("se pagará")** | Nadie queda claramente obligado | Voz activa + sujeto expreso |
+| **Copiar-pegar de otro contrato sin adaptar** | Aparece "el Arrendatario" en una compraventa; queda inexigible o ridículo | Lee la cláusula entera en su nuevo contexto |
+| **No incluir divisibilidad** | Una parte excesiva tumba toda la cláusula | Cláusula de *severability* y reducción |
+| **Aceptar definiciones de la otra parte sin rastrearlas** | Una definición borra remedios en 20 cláusulas | Revisa siempre dónde se usa cada término |
+| **"Esfuerzos razonables" sin estándar** | Cada parte entiende lo que le conviene | Define el estándar o usa "mejores esfuerzos" con criterios |
+
+---
+
+## VIII. Glosario bilingüe
+
+| Español | Inglés | Nota |
+|---------|--------|------|
+| Redacción de contratos | *Drafting* | El oficio de este ejercicio |
+| Revisión con cambios marcados | *Markup / redlining / blacklining* | Revisar el borrador del contrario |
+| Término definido | *Defined term* | Mayúscula inicial; uso consistente |
+| Pena convencional | *Liquidated damages / penalty* | Monto pactado sin probar el daño |
+| Divisibilidad | *Severability* | Salva el resto si una parte cae |
+| Declaraciones y garantías | *Representations and warranties (R&W)* | Tema del Ejercicio 04 |
+| Obligaciones de hacer/no hacer | *Covenants* | Conductas comprometidas |
+| Condiciones suspensivas | *Conditions precedent (CP)* | Lo que debe cumplirse antes del cierre |
+| Indemnización | *Indemnification* | El remedio económico central en M&A |
+| No captación | *Non-solicitation* | Clientes / empleados |
+| Mejores esfuerzos | *Best efforts / reasonable efforts* | Define el estándar |
+| Ley aplicable y jurisdicción | *Governing law & jurisdiction* | Dónde y con qué ley se resuelve |
+
+---
+
+## IX. Tu turno (práctica deliberada)
+
+Redacta **tú** las siguientes cláusulas. Aplica las 7 reglas de oro y la anatomía (supuesto ·
+obligación · sujeto · remedio). Para cada una, escribe **primero la versión débil** (para ver el
+error) y luego la **blindada**.
+
+1. **Confidencialidad (NDA).** El Vendedor conocerá información sensible de la Empresa tras el
+   cierre. Redacta una cláusula que (a) defina "Información Confidencial", (b) fije el plazo de
+   protección, (c) liste excepciones (información pública, etc.) y (d) prevea el remedio. Marca lo
+   que verificarías.
+
+2. **Pago del precio con ajuste.** El precio es de **[●]** pagadero 70 % al cierre y 30 % a 12
+   meses, sujeto a un ajuste por capital de trabajo. Redacta la mecánica de pago: cuentas, fechas
+   (días naturales/hábiles), intereses por mora y qué pasa si el ajuste es negativo.
+
+3. **Resolución por incumplimiento (Columna I, II-01).** Redacta la cláusula que permita a la
+   parte cumplida resolver el contrato si la otra incumple una obligación esencial, con (a)
+   requerimiento previo, (b) plazo de subsanación y (c) efectos de la resolución.
+
+4. **Markup.** Te paso esta cláusula del abogado contrario; **márcala**: *"El Vendedor hará sus
+   mejores esfuerzos para entregar la información que el Comprador razonablemente solicite en un
+   plazo razonable, respondiendo únicamente por daños directos."* Identifica al menos **cuatro**
+   trampas y propón texto alternativo.
+
+> Para cada una: primero piensa el remedio (¿qué pasa si sale mal?), luego redacta, luego
+> califícate con la rúbrica.
+
+---
+
+## X. Rúbrica de autoevaluación
+
+Califica cada cláusula de 1 a 5. Menos de 4 en cualquier criterio = reescribe.
+
+| Criterio | 1 (deficiente) | 5 (nivel asociado) |
+|----------|----------------|---------------------|
+| **Anatomía completa** | Falta el remedio o el supuesto | Supuesto + obligación + sujeto + remedio |
+| **Precisión** | Términos vagos sin definir | Cada término clave definido y consistente |
+| **Voz y sujeto** | Pasivo sin obligado | Activa, con sujeto expreso |
+| **Plazos** | "30 días" sin más | Unidad y punto de partida claros |
+| **Remedio con dientes** | "responderá de daños" | Pena/cesación/resolución concreta |
+| **Blindaje** | Sin divisibilidad | Severability + reducción |
+| **Visión de litigio** | Redactada para firmar | Redactada para el día del conflicto |
+| **Integridad** | Cita artículos sin verificar | Marca "verificar" lo no confirmado |
+| **Bilingüismo** | Solo español | Domina el término en inglés |
+
+---
+
+## XI. Conexión (hacia dónde sigue)
+
+- **Sustento (Columna I):** Obligaciones (I-07) y Contratos Parte General (I-08) te dan la teoría;
+  aquí se vuelve oficio. La pena convencional y la resolución vienen de II-01.
+- **Ejercicio anterior:** 01 · El Memorándum Legal — *analizaste* la no competencia; aquí la
+  *redactaste*. Ese es el ciclo real: analizar → redactar.
+- **Siguiente ejercicio:** **03 · El Term Sheet** — subirás un nivel: del texto de una cláusula al
+  documento que captura el acuerdo económico completo de una operación.
+- **Etapa de la Hoja de Ruta:** redactar bien es lo que te hace insustituible en una pasantía; es
+  la habilidad que un socio nota en la primera semana.
+
+> **La idea que debe quedarte:** no redactas para el día de la firma, redactas para el día del
+> conflicto. La cláusula que sobrevive al juez es la que vale; las demás son decoración cara.
+
+---
+
+*Laboratorio · Ejercicio 02 completado. Subordinado al Documento Fundacional AJE. Los modelos son
+plantillas didácticas, no asesoría legal: verifica toda norma y adapta cada cláusula al caso.*
