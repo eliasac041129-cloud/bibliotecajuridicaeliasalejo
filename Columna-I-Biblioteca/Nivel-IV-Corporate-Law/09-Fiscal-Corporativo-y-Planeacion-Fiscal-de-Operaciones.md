@@ -551,3 +551,106 @@ eficiente que vender activos sueltos. ⚠️ *Requisitos de neutralidad y perman
   deben pactarse a valor de mercado (*arm's length*) y documentarse, para que el grupo no mueva
   artificialmente la utilidad al país de menor impuesto. Es de las áreas fiscales más técnicas y
   litigadas del mundo corporativo.
+
+
+## 22. Derecho comparado
+
+La fiscalidad de operaciones tiene patrones comunes en el mundo, con variantes locales. ⚠️ *Cada
+régimen concreto debe verificarse en la legislación vigente del país.*
+
+| Jurisdicción | Rasgos distintivos (a grandes trazos) |
+|--------------|----------------------------------------|
+| **México** | ISR sobre utilidad; CUFIN para integrar el impuesto al dividendo; regímenes de neutralidad en fusión/escisión; cláusula anti-abuso (razón de negocios) en el CFF; IVA en asset deals. |
+| **España** | Impuesto sobre Sociedades; régimen especial de **neutralidad** en reestructuraciones (de raíz europea); doctrina del *motivo económico válido* (equivalente a la razón de negocios). |
+| **EE. UU.** | Distingue *taxable acquisitions* de **reorganizaciones libres de impuesto** (las célebres *tax-free reorganizations*, tipo "A", "B", "C" del Internal Revenue Code); elecciones como la *§338* para tratar una compra de acciones como de activos. Sistema riquísimo en *tax structuring*. |
+| **Delaware** | Su ventaja es **societaria**, no fiscal: el impuesto federal de EE. UU. aplica igual; muchas sociedades se forman ahí por su derecho corporativo, no por un régimen fiscal especial. Útil para no confundir "paraíso societario" con "paraíso fiscal". |
+| **UE** | Directivas que armonizan la **neutralidad** de fusiones transfronterizas entre Estados miembros; fuerte agenda anti-abuso. |
+| **OCDE** | No legisla, pero su **Modelo de Convenio** rige los tratados de doble tributación y su proyecto **BEPS** marca el estándar global anti-erosión. |
+| **Common law vs. Civil law** | Más allá de la tradición, en fiscal **convergen** hacia la idea de **sustancia sobre forma** y razón de negocios; es una tendencia global, no de una sola familia jurídica. |
+
+> **Lección comparada para el M&A:** la estructura "tax-free reorganization" de EE. UU. y la
+> "neutralidad" de México/España/UE responden a la **misma intuición** (no gravar la mera
+> reorganización), con requisitos distintos. Quien hace deals *cross-border* debe dominar las dos
+> lógicas y a sus fiscalistas locales.
+
+## 23. Derecho mexicano (régimen positivo)
+
+> **⚠️ Mapa conceptual; verificar artículos y tasas vigentes.** El objetivo es que sepas **dónde
+> vive** cada cosa, no memorizar numeración.
+
+- **Constitución:** la obligación de contribuir de manera **proporcional y equitativa** (principios
+  de capacidad contributiva, legalidad, proporcionalidad y equidad) es el marco superior; ningún
+  impuesto puede violarlos. ⚠️ *Artículo: verificar.*
+- **Código Fiscal de la Federación (CFF):** reglas generales, concepto de enajenación, facultades de
+  comprobación de la autoridad, infracciones y **delitos fiscales** (defraudación), y la **cláusula
+  general anti-abuso / razón de negocios**. ⚠️ *Artículos: verificar.*
+- **Ley del ISR (LISR):** el impuesto sobre la utilidad; deducciones; régimen de personas morales;
+  **dividendos y CUFIN**; **enajenación de acciones**; **fusión y escisión** (neutralidad);
+  amortización de **pérdidas fiscales** y reglas anti-traspaso; capitalización delgada; precios de
+  transferencia. ⚠️ *Artículos y tasas: verificar.*
+- **Ley del IVA (LIVA):** impuesto al consumo; relevante en **asset deals** y prestación de servicios.
+- **Resolución Miscelánea Fiscal:** reglas administrativas que **cambian cada año**; el detalle
+  operativo vive ahí. ⚠️ *Verificar la vigente.*
+
+## 24. Jurisprudencia relevante
+
+> ⚠️ *No se citan rubros ni números de tesis por no estar verificados (Principio Supremo). Se
+> describen líneas jurisprudenciales reconocibles; localizar y validar en el Semanario Judicial de la
+> Federación antes de citar.*
+
+Líneas que el estudiante debe saber que existen (y verificar):
+- Criterios sobre los **principios constitucionales** de proporcionalidad y equidad tributaria como
+  límite a las contribuciones.
+- Criterios sobre **deducciones** (qué hace a un gasto "estrictamente indispensable").
+- Criterios y precedentes sobre **simulación**, **operaciones inexistentes** y la aplicación de la
+  **razón de negocios** / cláusula anti-abuso.
+- Criterios sobre los **requisitos de la neutralidad** en fusión y escisión.
+
+## 25. Criterios de la Suprema Corte
+
+La **SCJN** ha construido la doctrina constitucional tributaria mexicana: el alcance de la
+**capacidad contributiva**, los límites de la **proporcionalidad y equidad**, y la
+constitucionalidad de diversos regímenes. ⚠️ *Tesis y jurisprudencias concretas: verificar en el
+SJF.* Para el abogado corporativo, lo relevante no es memorizar tesis, sino saber que **un impuesto o
+una interpretación puede impugnarse por inconstitucional** cuando viola esos principios — una
+herramienta estratégica más.
+
+## 26. Doctrina nacional
+
+México tiene una tradición sólida de fiscalistas y tratadistas de derecho tributario. ⚠️ *Nombres y
+obras concretas: verificar antes de citar* (no se listan aquí para no atribuir incorrectamente). Lo
+importante: la doctrina mexicana ha desarrollado con rigor los conceptos de **obligación tributaria,
+hecho imponible, capacidad contributiva y la distinción elusión/evasión**, y dialoga cada vez más con
+la doctrina internacional sobre sustancia económica y anti-abuso.
+
+## 27. Doctrina internacional
+
+A nivel global, la doctrina y los organismos (con la **OCDE** a la cabeza) han marcado la agenda
+moderna: **precios de transferencia** (*arm's length*), **BEPS** (erosión de la base y traslado de
+utilidades), **sustancia económica** y el combate al *treaty shopping*. La doctrina anglosajona
+aportó la rica teoría de las *tax-free reorganizations* y de la *substance over form*; la europea, la
+**neutralidad** armonizada y el *motivo económico válido*. ⚠️ *Autores y documentos concretos:
+verificar.*
+
+## 28. Opiniones críticas (postura del Consejo)
+
+- **El fiscal no es accesorio: es co-arquitecto del deal.** Dejar lo fiscal "para el final" o "para el
+  contador" es el error estratégico clásico. La postura del proyecto: el abogado corporativo de élite
+  **integra lo fiscal desde el diseño**.
+- **La era de la planeación agresiva terminó.** Con la cláusula anti-abuso y la transparencia global,
+  las estructuras artificiales son cada vez más un pasivo. El futuro es la **eficiencia con
+  sustancia**, no el truco.
+- **La inestabilidad es estructural, no un defecto pasajero.** Quien trabaje fiscal debe asumir que
+  **estudiará toda su vida**: cada reforma reescribe parte del tablero. Es, a la vez, una barrera de
+  entrada y una fuente de honorarios recurrentes.
+
+## 29. Debate doctrinal (controversias vivas)
+
+- **¿Dónde termina la economía de opción y empieza el abuso?** La gran frontera: cuánta "razón de
+  negocios" basta, y cuánto puede la autoridad recaracterizar sin caer en arbitrariedad. Tensión
+  permanente entre **seguridad jurídica** del contribuyente y **combate al abuso** del fisco.
+- **Sustancia vs. forma:** ¿hasta dónde puede el fisco ignorar la forma jurídica elegida por las
+  partes? El péndulo se ha movido fuerte hacia la sustancia, y no todos coinciden en sus límites.
+- **Justicia de la fiscalidad internacional:** el debate global (impuesto mínimo, dónde tributan las
+  multinacionales y las grandes tecnológicas) sigue abierto y reescribiéndose. ⚠️ *Estado vigente:
+  verificar.*
