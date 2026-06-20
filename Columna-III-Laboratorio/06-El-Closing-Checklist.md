@@ -132,3 +132,98 @@ Y se organiza en bloques:
 > de la transferencia de la propiedad (paso 4) y del cumplimiento de condiciones (paso 1). Invertir
 > ese orden es el error que cuesta millones. En cierres complejos se usa un *escrow* o un agente de
 > cierre precisamente para garantizar la simultaneidad ("te pago contra entrega").
+
+
+---
+
+## VI. Errores que cuestan millones
+
+| Error | Por qué cuesta | Cómo evitarlo |
+|-------|----------------|---------------|
+| **Pagar antes de cumplir las CP** | El comprador paga por algo incompleto | El pago es el **último** paso de la mecánica |
+| **Checklist sin responsable por renglón** | Todos creen que lo hace otro; nada se hace | Una persona dueña de cada renglón |
+| **No convertir los red flags del DD en condiciones** | El problema detectado llega vivo al cierre | Cada 🔴 del DD = condición de cierre |
+| **Olvidar poderes/facultades de los firmantes** | El SPA lo firma quien no podía obligar a la parte | Verifica poderes con anticipación |
+| **No verificar la transferencia real de acciones** | Se paga pero la propiedad no se inscribe | Endoso + registro en libro de accionistas |
+| **Ignorar el post-cierre** | Avisos e inscripciones vencen; sanciones | Bloque post-cierre con plazos |
+| **Detectar faltantes el día del cierre** | Pánico, retrasos, trato en riesgo | El checklist se revisa **semanas** antes |
+
+---
+
+## VII. Glosario bilingüe
+
+| Español | Inglés | Nota |
+|---------|--------|------|
+| Firma | *Signing* | Las partes se obligan |
+| Cierre | *Closing* | Se paga y se transfiere |
+| Simultáneo | *Simultaneous signing & closing* | Mismo día |
+| Lista de cierre | *Closing checklist* | El entregable |
+| Condiciones precedentes | *Conditions precedent (CP)* | Lo que debe cumplirse antes |
+| Renuncia a una condición | *Waiver* | Quien se beneficia puede renunciar |
+| Conjunto de cierre | *Closing set / bible* | Todos los documentos firmados |
+| Mecánica de cierre | *Closing mechanics* | El orden de los pasos |
+| Documentos de transferencia | *Transfer deliverables* | Endosos, actas |
+| Agente de cierre / escrow | *Closing / escrow agent* | Garantiza simultaneidad |
+| Post-cierre | *Post-closing covenants* | Lo que sigue tras el cierre |
+
+---
+
+## VIII. Tu turno (práctica deliberada)
+
+1. **Arma un closing checklist** (cinco columnas) para una compra de **activos** (*asset deal*) de
+   una cafetería: identifica al menos 10 renglones y marca cuáles son condición de firma y cuáles
+   de cierre. ¿Qué cambia respecto de una compra de acciones?
+
+2. **Diseña la mecánica de cierre** para una operación con pago en escrow, donde el comprador no
+   confía en que el vendedor firme si recibe el dinero antes. Ordena los pasos para que nadie
+   pueda quedarse con el dinero **y** sin entregar.
+
+3. **Del DD al checklist.** Toma los cinco hallazgos que clasificaste en el Ejercicio 05 (tu
+   turno) y conviértelos en renglones del checklist, indicando si cada uno es condición de cierre.
+
+4. **Caza-trampas.** Faltan dos días para el cierre y el vendedor aún no obtiene el consentimiento
+   del cliente principal (un red flag). El cliente comprador te presiona para cerrar "y arreglarlo
+   después". ¿Qué le adviertes por escrito y qué alternativas propones (waiver condicionado,
+   indemnización específica, posponer el cierre)?
+
+---
+
+## IX. Rúbrica de autoevaluación
+
+| Criterio | 1 (deficiente) | 5 (nivel asociado) |
+|----------|----------------|---------------------|
+| **Exhaustividad** | Faltan documentos clave | Cubre CP, transferencia, pago, post-cierre |
+| **Responsables** | Sin dueño por renglón | Cada acción con responsable y estado |
+| **Orden / mecánica** | Pago antes de las CP | Pago como último paso; orden protegido |
+| **Integración con el DD** | Ignora los hallazgos | Red flags convertidos en condiciones |
+| **Anticipación** | Reacciona el día del cierre | Detecta faltantes con semanas |
+| **Post-cierre** | Ausente | Avisos e inscripciones con plazos |
+| **Bilingüismo** | Solo español | Domina la terminología en inglés |
+
+---
+
+## X. Cierre del primer tramo: viviste una operación completa
+
+Si hiciste los seis ejercicios, no estudiaste seis temas sueltos: **acompañaste una adquisición de
+principio a fin**, la de Dulces del Valle ("Proyecto Caramelo"):
+
+1. **Memo (01):** analizaste si la no competencia del vendedor era válida y hasta dónde apretar.
+2. **Cláusula (02):** redactaste esa no competencia, blindada.
+3. **Term sheet (03):** anclaste el precio, el earn-out y las condiciones; separaste lo vinculante.
+4. **R&W + disclosure (04):** repartiste el riesgo de lo desconocido y armaste la indemnización.
+5. **Due diligence (05):** investigaste la empresa y detectaste los red flags (la marca, el cliente).
+6. **Closing (06):** convertiste esos riesgos en condiciones y orquestaste el cierre sin huecos.
+
+> **La idea que debe quedarte de toda la Columna III:** un abogado corporativo de élite no es el
+> que más sabe — es el que **convierte lo que sabe en entregables que protegen y crean valor**.
+> Cada documento que produjiste aquí es una pieza de la misma máquina: proteger una decisión de
+> millones. Eso es el oficio.
+
+**Siguiente:** los próximos tramos del Laboratorio (financiamiento, joint ventures, gobierno
+corporativo) y las Columnas IV (Sistema del Socio) y V (Patrimonio) se construirán sobre esta
+misma base de ejecución.
+
+---
+
+*Laboratorio · Ejercicio 06 completado. Primer tramo de la Columna III cerrado. Subordinado al
+Documento Fundacional AJE. Los modelos son plantillas didácticas, no asesoría legal.*

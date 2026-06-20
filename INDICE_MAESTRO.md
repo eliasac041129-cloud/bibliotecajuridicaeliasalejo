@@ -85,6 +85,9 @@
 - [03 · El Term Sheet](./Columna-III-Laboratorio/03-El-Term-Sheet.md) — ✅
 - [04 · Representaciones y Garantías + Disclosure](./Columna-III-Laboratorio/04-Representaciones-Garantias-y-Disclosure.md) — ✅
 - [05 · El Reporte de Due Diligence](./Columna-III-Laboratorio/05-El-Reporte-de-Due-Diligence.md) — ✅
+- [06 · El Closing Checklist](./Columna-III-Laboratorio/06-El-Closing-Checklist.md) — ✅
+
+> Los 6 ejercicios recorren una misma operación de M&A ("Proyecto Caramelo") de principio a fin.
 
 ## 6. Columnas IV y V — ⬜ pendientes
 - Columna IV · Sistema del Socio.

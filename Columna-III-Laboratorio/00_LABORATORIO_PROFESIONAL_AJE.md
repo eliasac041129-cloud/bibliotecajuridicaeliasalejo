@@ -89,7 +89,11 @@ no lectura pasiva:
 | 03 | El term sheet | Term sheet de adquisición | ✅ Completo |
 | 04 | Representaciones y garantías + disclosure | R&W y disclosure schedule | ✅ Completo |
 | 05 | El reporte de due diligence | DD report con *red flags* | ✅ Completo |
-| 06 | El closing checklist | Lista de cierre de una operación | ⬜ |
+| 06 | El closing checklist | Lista de cierre de una operación | ✅ Completo |
+
+> Los seis ejercicios siguen el hilo de una sola operación ("Proyecto Caramelo"), de modo que el
+> lector vive una adquisición completa de principio a fin: analizar → redactar → anclar →
+> repartir riesgo → investigar → cerrar.
 
 > Se construyen **en secuencia**. El primero —el memorándum— es la base: todo lo demás se comunica,
 > tarde o temprano, a través de un memo o su lógica.
