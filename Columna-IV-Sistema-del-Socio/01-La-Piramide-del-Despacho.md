@@ -152,7 +152,7 @@ transición:
 ## VIII. Conexión (hacia dónde sigue)
 
 - **Sustento:** las tres monedas del [documento rector](./00_SISTEMA_DEL_SOCIO_AJE.md) y las fases
-  de la [Hoja de Ruta](../01_HOJA_DE_RUTA_AJE.md).
+  de la [Hoja de Ruta](../Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md).
 - **Siguiente módulo:** **02 · Gestionar hacia arriba (*managing up*)** — cómo trabajar con un
   socio de forma que aceleres tu paso por la pirámide y te vuelvas su persona de confianza.
 - **Aplicación inmediata:** las conductas del manual del junior (sección IV) **ya** las puedes

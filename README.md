@@ -14,9 +14,9 @@
 |-------|-----------|--------|
 | 1 | [**00 · Documento Fundacional AJE**](./00_DOCUMENTO_FUNDACIONAL_AJE.md) | **Rector supremo.** Misión, visión, las 5 columnas, los 6 principios rectores. Se relee antes de cada libro y decisión. |
 | 2 | [**00 · Manifiesto Editorial**](./00_MANIFIESTO_EDITORIAL.md) | **Anexo de Estándar Editorial.** Cómo se escribe cada libro: estándar V3 (43 secciones), derecho comparado, control de calidad. Subordinado al Fundacional. |
-| 3 | [**01 · Hoja de Ruta AJE**](./01_HOJA_DE_RUTA_AJE.md) | **Columna II.** Estrategia profesional: qué hacer, cuándo y por qué — de la universidad a socio o fundador. |
-| 4 | [**02 · El Sistema Diario**](./02_PLAN_OPERATIVO_DIARIO_AJE.md) | **Plan operativo.** Qué haces hoy, a qué hora y por cuánto tiempo. Convierte todo el repo en una rutina diaria. |
-| 5 | [**03 · Plan de Inglés Jurídico**](./03_PLAN_DE_INGLES_JURIDICO_AJE.md) | **La llave no negociable.** Materializa el Principio 6 (Bilingüismo): rutina, recursos e inglés legal. |
+| 3 | [**01 · Hoja de Ruta AJE**](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) | **Columna II.** Estrategia profesional: qué hacer, cuándo y por qué — de la universidad a socio o fundador. |
+| 4 | [**02 · El Sistema Diario**](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) | **Plan operativo.** Qué haces hoy, a qué hora y por cuánto tiempo. Convierte todo el repo en una rutina diaria. |
+| 5 | [**03 · Plan de Inglés Jurídico**](./Columna-II-Hoja-de-Ruta/03_PLAN_DE_INGLES_JURIDICO_AJE.md) | **La llave no negociable.** Materializa el Principio 6 (Bilingüismo): rutina, recursos e inglés legal. |
 | 6 | [Índice Maestro](./INDICE_MAESTRO.md) · [Guía Metodológica](./GUIA-METODOLOGICA.md) · [Mapa Biblioteca↔Materias](./MAPA_BIBLIOTECA-A-MATERIAS.md) · [Protocolo de Verificación](./PROTOCOLO_DE_VERIFICACION.md) · [Avance](./AVANCE.md) · [Changelog](./CHANGELOG.md) | Navegación, método, puente con materias, integridad del contenido, estado y bitácora. |
 
 ---
@@ -37,7 +37,7 @@ se levantan **en secuencia**, según lo que el lector necesita en cada etapa.
 > **La secuencia, en una frase:** primero **saber** (I) y **saber qué hacer** (II); luego **saber
 > hacer** (III); después **saber dirigir la carrera** (IV) y **saber administrar la riqueza** (V).
 > Con las cinco construidas, el sistema del Proyecto AJE está **completo**: lo único que queda es
-> ejecutarlo un día a la vez (ver [El Sistema Diario](./02_PLAN_OPERATIVO_DIARIO_AJE.md)).
+> ejecutarlo un día a la vez (ver [El Sistema Diario](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md)).
 
 ---
 
@@ -48,11 +48,11 @@ No enseña artículos, enseña **pensamiento jurídico**; no enseña memoria, en
 
 | Nivel | Nombre | Objetivo formativo |
 |------|--------|--------------------|
-| **I** | [Fundamentos](./Nivel-I-Fundamentos/) | Construir la **arquitectura mental** del Derecho: por qué existen las instituciones. |
-| **II** | [Derecho Civil Profundo](./Nivel-II-Derecho-Civil-Profundo/) | Dominar el derecho privado común: obligaciones, contratos, responsabilidad, garantías. |
-| **III** | [Derecho Mercantil](./Nivel-III-Derecho-Mercantil/) | Convertirse en especialista: sociedades, títulos de crédito, mercado de valores, concursos. |
-| **IV** | [Corporate Law](./Nivel-IV-Corporate-Law/) | El verdadero objetivo: M&A, due diligence, financiamiento, contratos estratégicos, PE/VC, gobierno corporativo. |
-| **V** | [Maestría](./Nivel-V-Maestria/) | Pensar como socio de un despacho internacional: finanzas, valuación, negociación, estrategia. |
+| **I** | [Fundamentos](./Columna-I-Biblioteca/Nivel-I-Fundamentos/) | Construir la **arquitectura mental** del Derecho: por qué existen las instituciones. |
+| **II** | [Derecho Civil Profundo](./Columna-I-Biblioteca/Nivel-II-Derecho-Civil-Profundo/) | Dominar el derecho privado común: obligaciones, contratos, responsabilidad, garantías. |
+| **III** | [Derecho Mercantil](./Columna-I-Biblioteca/Nivel-III-Derecho-Mercantil/) | Convertirse en especialista: sociedades, títulos de crédito, mercado de valores, concursos. |
+| **IV** | [Corporate Law](./Columna-I-Biblioteca/Nivel-IV-Corporate-Law/) | El verdadero objetivo: M&A, due diligence, financiamiento, contratos estratégicos, PE/VC, gobierno corporativo. |
+| **V** | [Maestría](./Columna-I-Biblioteca/Nivel-V-Maestria/) | Pensar como socio de un despacho internacional: finanzas, valuación, negociación, estrategia. |
 
 > La progresión es **acumulativa**: cada nivel expande, conecta y profundiza lo anterior.
 > No se repiten conceptos; se elevan.

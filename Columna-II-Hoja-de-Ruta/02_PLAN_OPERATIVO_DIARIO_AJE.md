@@ -5,7 +5,7 @@
 > tiempo**. Operacionaliza la **Fase 0** ("apagar el incendio") de la Hoja de Ruta y convierte
 > toda la Biblioteca y el Laboratorio en una **rutina diaria**.
 >
-> **Jerarquía.** Subordinado al [Documento Fundacional AJE](./00_DOCUMENTO_FUNDACIONAL_AJE.md)
+> **Jerarquía.** Subordinado al [Documento Fundacional AJE](../00_DOCUMENTO_FUNDACIONAL_AJE.md)
 > (Principio de Realismo y Ejecución) y complementario a la Hoja de Ruta.
 
 ---
@@ -224,5 +224,5 @@ poderoso: **presentarte todos los días, dirigir tu energía a lo que toca, y no
 ---
 
 > *02 · El Sistema Diario · Plan Operativo del Proyecto AJE · V2.0. Regido por el
-> [Documento Fundacional AJE](./00_DOCUMENTO_FUNDACIONAL_AJE.md) y complementario a la
+> [Documento Fundacional AJE](../00_DOCUMENTO_FUNDACIONAL_AJE.md) y complementario a la
 > [Hoja de Ruta](./01_HOJA_DE_RUTA_AJE.md). Revisar cada 90 días.*

@@ -3,7 +3,7 @@
 > **Proyecto AJE · Columna II.** Responde: **¿qué hacer, cuándo y por qué?** No enseña Derecho (eso es la
 > Columna I — la Biblioteca); enseña **estrategia profesional**: el plan que lleva al lector de la
 > universidad a convertirse en socio de un despacho internacional o fundador de una firma boutique de élite.
-> Rige sobre este documento el [Documento Fundacional AJE](./00_DOCUMENTO_FUNDACIONAL_AJE.md), en especial
+> Rige sobre este documento el [Documento Fundacional AJE](../00_DOCUMENTO_FUNDACIONAL_AJE.md), en especial
 > el **Principio de Realismo y Ejecución** (la ambición atada a la acción de hoy) y el **Principio del
 > Valor**.
 
@@ -373,4 +373,4 @@ hacia lo que toca**: hoy, el extraordinario y el inglés; mañana, la operación
 ---
 
 > *Hoja de Ruta del Arquitecto Jurídico Empresarial · Columna II del Proyecto AJE · V2.0. Regida por el
-> [Documento Fundacional AJE](./00_DOCUMENTO_FUNDACIONAL_AJE.md). Revisar y actualizar cada 90 días.*
+> [Documento Fundacional AJE](../00_DOCUMENTO_FUNDACIONAL_AJE.md). Revisar y actualizar cada 90 días.*

@@ -1,7 +1,7 @@
 # 03 · Plan de Inglés Jurídico — La Llave No Negociable
 
 > **Qué es.** El plan que materializa el **Principio Rector 6 (Bilingüismo)** del
-> [Documento Fundacional AJE](./00_DOCUMENTO_FUNDACIONAL_AJE.md). Todo el proyecto repite que el
+> [Documento Fundacional AJE](../00_DOCUMENTO_FUNDACIONAL_AJE.md). Todo el proyecto repite que el
 > inglés es la llave de la élite corporativa — este documento es la herramienta para conseguirla.
 > Complementa el [Sistema Diario](./02_PLAN_OPERATIVO_DIARIO_AJE.md), que ya reserva 30-45 min
 > diarios de inglés (prioridad #2).
@@ -169,10 +169,10 @@ Ponle metas medibles, no "mejorar mi inglés" (que no se mide):
 
 ## X. Conexión
 
-- **Rige:** Principio 6 (Bilingüismo) del [Documento Fundacional](./00_DOCUMENTO_FUNDACIONAL_AJE.md).
+- **Rige:** Principio 6 (Bilingüismo) del [Documento Fundacional](../00_DOCUMENTO_FUNDACIONAL_AJE.md).
 - **Se ejecuta en:** el bloque diario de inglés del [Sistema Diario](./02_PLAN_OPERATIVO_DIARIO_AJE.md)
   (prioridad #2, solo por debajo de lo académico urgente).
-- **Se alimenta de:** los glosarios bilingües de la [Columna III · Laboratorio](./Columna-III-Laboratorio/)
+- **Se alimenta de:** los glosarios bilingües de la [Columna III · Laboratorio](../Columna-III-Laboratorio/)
   y la terminología en inglés de los tratados de Corporate Law (Nivel IV-V).
 
 > **La idea que debe quedarte:** el inglés es la palanca más poderosa que está 100 % en tus manos.

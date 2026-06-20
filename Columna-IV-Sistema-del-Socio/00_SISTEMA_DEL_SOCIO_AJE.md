@@ -3,8 +3,8 @@
 ### Documento rector de la columna
 
 > **Jerarquía.** Subordinado al [Documento Fundacional AJE](../00_DOCUMENTO_FUNDACIONAL_AJE.md)
-> (rector supremo) y complementario a la [Hoja de Ruta](../01_HOJA_DE_RUTA_AJE.md) (Columna II) y
-> al [Sistema Diario](../02_PLAN_OPERATIVO_DIARIO_AJE.md). Esta columna materializa la pregunta:
+> (rector supremo) y complementario a la [Hoja de Ruta](../Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) (Columna II) y
+> al [Sistema Diario](../Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md). Esta columna materializa la pregunta:
 > *¿cómo se construye, en la práctica, una carrera jurídica extraordinaria?*
 
 ---
