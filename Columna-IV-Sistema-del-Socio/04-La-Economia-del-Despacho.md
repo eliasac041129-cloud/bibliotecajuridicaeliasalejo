@@ -69,3 +69,94 @@ Estos son los números con los que, te guste o no, se mide a un abogado en un de
 > Importan, sí, pero son la métrica del **empleado**. Hay abogados que registran miles de horas y
 > nunca ascienden porque nunca tocaron la métrica que de verdad da poder: la **generación**. Las
 > horas te mantienen; la generación te corona. No confundas estar ocupado con ser valioso.
+
+
+---
+
+## IV. Cómo se reparte el dinero entre los socios
+
+La utilidad del despacho (lo que sobra tras pagar sueldos y gastos) se reparte entre los **socios
+de capital**. La métrica reina del éxito de un despacho es:
+
+> **Profit per Partner (PPP) — utilidad por socio:** cuánto gana, en promedio, cada socio de
+> capital al año. Es el número que mide el prestigio económico de un despacho y el que persiguen
+> los abogados que aspiran a la cima.
+
+¿Cómo se decide cuánto se lleva **cada** socio? Hay dos grandes filosofías:
+
+| Modelo de reparto | Cómo funciona | Qué premia |
+|-------------------|----------------|-----------|
+| **Lockstep** (escalafón) | Se reparte según antigüedad como socio; todos los del mismo nivel ganan igual | Colaboración, lealtad, estabilidad |
+| **Eat what you kill** (comes lo que cazas) | Cada socio se lleva según el negocio que **genera** | Generación individual, competencia |
+| **Híbrido** | Mezcla: una base + un componente por generación | Lo más común hoy |
+
+> Sea cual sea el modelo, la **generación de negocio** (origination) pesa muchísimo en cuánto se
+> lleva un socio. En "eat what you kill" es casi todo; incluso en lockstep, llegar a socio depende
+> de demostrar que puedes generar. **Todos los caminos a la riqueza del despacho pasan por la
+> Moneda 3.**
+
+---
+
+## V. La gran conclusión: generar = ser dueño
+
+Une todo lo de este módulo y verás la lógica completa de la profesión:
+
+1. El despacho gana por **leverage**: el trabajo de muchos facturado a tarifa alta.
+2. La **utilidad** de ese leverage va a los **socios de capital**.
+3. Te vuelves socio de capital —dueño— cuando demuestras **generación** (Moneda 3).
+4. Por tanto: **el que trae a los clientes controla la utilidad y, con ella, su libertad.**
+
+> **El insight que cambia tu carrera:** el sueldo de un asociado, por alto que sea, tiene techo —es
+> el lado "apalancado" de la ecuación—. La riqueza real está en el lado de la **propiedad**, y la
+> propiedad se gana generando negocio. Por eso la Hoja de Ruta insiste tanto: tu meta no es "ganar
+> bien como empleado", es **volverte dueño** (de una sociedad, o de tu propio despacho/empresa).
+> Este módulo te explica, en números, por qué.
+
+Y conecta con el Principio del Valor (Documento Fundacional): el dinero es **consecuencia** del
+valor que generas para clientes reales. El leverage y el PPP son solo la plomería que reparte ese
+valor. Crea valor, vuélvete dueño del valor que creas, y el dinero sigue.
+
+---
+
+## VI. Errores que cuestan millones (de carrera)
+
+| Error | Por qué cuesta | Cómo evitarlo |
+|-------|----------------|---------------|
+| No entender la economía de tu despacho | Juegas sin saber cómo se gana | Aprende leverage, métricas y reparto |
+| Quedarte siempre del lado "apalancado" | Tu ingreso tiene techo de empleado | Apunta a generar y volverte dueño |
+| Medir el éxito solo por sueldo | Ignoras la propiedad, que es donde está la riqueza | Persigue equity, no solo salario |
+| Ignorar la tasa de realización | Facturas mucho pero se cobra/queda poco | Cuida que tu trabajo sea cobrable y valioso |
+| Creer que el modelo de reparto es fijo | Eliges mal el despacho para tus metas | Entiende lockstep vs. eat-what-you-kill antes de entrar |
+
+---
+
+## VII. Tu turno (reflexión deliberada)
+
+1. **Haz las cuentas del leverage.** Con cifras hipotéticas, calcula: si un asociado cuesta $X y
+   factura $3X, ¿cuánta utilidad genera para el socio en un año? Multiplícalo por 6 asociados.
+   ¿Entiendes ahora por qué el socio quiere buenos asociados — y por qué tú quieres ser socio?
+2. **Define tu meta real.** ¿Tu objetivo es "ganar bien como asociado" o "volverte dueño"? Sé
+   honesto. Si es lo segundo, ¿qué métrica (sección III) debes empezar a construir desde ya?
+3. **Investiga (cuando llegue el momento).** Anota dos preguntas que harías sobre el modelo
+   económico de un despacho antes de aceptar una oferta (p. ej., ¿cómo se llega a socio de
+   capital?, ¿cómo se reparte la utilidad?).
+
+---
+
+## VIII. Conexión (hacia dónde sigue)
+
+- **Sustento:** las tres monedas del [documento rector](./00_SISTEMA_DEL_SOCIO_AJE.md); Finanzas y
+  Contabilidad para Abogados (Biblioteca V-02) profundiza estados financieros y rentabilidad.
+- **Siguiente módulo:** **05 · Marca personal y reputación** — cómo te vuelves *visible* y
+  *confiable* para que la generación de negocio (Módulo 03) sea posible.
+- **Aplicación inmediata:** la próxima vez que pienses en una oferta de trabajo o pasantía, evalúa
+  no solo el sueldo, sino **el camino a la propiedad**. Esa pregunta vale más que cualquier bono.
+
+> **La idea que debe quedarte:** el despacho gana apalancando el trabajo de muchos; la utilidad va
+> a los dueños; y dueño se vuelve quien genera negocio. Tu carrera es el viaje de ser apalancado a
+> ser el que apalanca. Ese viaje es la diferencia entre un buen sueldo y la libertad.
+
+---
+
+*Sistema del Socio · Módulo 04 completado. Subordinado al Documento Fundacional AJE. Las cifras
+son ilustrativas; los modelos de reparto varían por despacho y mercado.*

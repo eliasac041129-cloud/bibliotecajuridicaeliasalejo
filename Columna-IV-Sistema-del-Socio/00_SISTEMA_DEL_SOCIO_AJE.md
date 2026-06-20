@@ -58,7 +58,7 @@ monedas**, y la mayoría solo conoce la primera:
 | 01 | La pirámide del despacho | ¿Cómo se sube de pasante a socio y qué se mide en cada nivel? | ✅ Completo |
 | 02 | Gestionar hacia arriba (*managing up*) | ¿Cómo trabajo con un socio para volverme indispensable? | ✅ Completo |
 | 03 | Generación de negocio (*rainmaking*) | ¿Cómo se consiguen clientes y trabajo nuevo? | ✅ Completo |
-| 04 | La economía del despacho | ¿Cómo se reparte el dinero? ¿Qué es *leverage* y *PPP*? | ⬜ |
+| 04 | La economía del despacho | ¿Cómo se reparte el dinero? ¿Qué es *leverage* y *PPP*? | ✅ Completo |
 | 05 | Marca personal y reputación | ¿Cómo me vuelvo conocido por algo? | ⬜ |
 | 06 | Rutas de carrera | Despacho grande, boutique, *in-house*, fundar: ¿cuál y cuándo? | ⬜ |
 
