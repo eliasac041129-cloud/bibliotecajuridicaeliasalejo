@@ -433,3 +433,121 @@ ley ofrece, y elegir la estructura adecuada**:
 > documentación**, nunca trucos. La eficiencia bien hecha crea valor y fideliza; la evasión, tarde o
 > temprano, destruye al cliente y te arrastra a ti. En fiscal, tu firma vale lo que vale tu
 > integridad.
+
+
+## 15. Explicación intuitiva (el modelo mental)
+
+Piensa en el impuesto como un **peaje sobre la riqueza nueva**. Cada vez que se genera riqueza
+*nueva y real* (una utilidad, una ganancia al vender algo más caro de lo que costó), hay un peaje. Y
+aquí están las tres intuiciones que lo explican casi todo:
+
+1. **El peaje se cobra cuando "realizas" la ganancia, no antes.** Mientras tu empresa *vale* más pero
+   no la vendes, no hay peaje (no realizaste nada). El día que vendes, realizas la ganancia y se
+   activa el peaje. → Por eso **diferir** la realización (posponer la venta, usar neutralidad) pospone
+   el peaje.
+
+2. **Reordenar tu propia casa no es realizar riqueza.** Si mueves muebles de un cuarto a otro de tu
+   casa (fusión, escisión entre los mismos dueños), no "vendiste" nada: por eso la **neutralidad** no
+   cobra peaje — hasta que saques el mueble a la calle y lo vendas a un extraño.
+
+3. **El fisco mira quién se quedó la riqueza, no la etiqueta del papel.** Si disfrazas una venta de
+   "reorganización" pero en realidad un tercero se llevó el negocio y tú el dinero, el fisco
+   **levanta la etiqueta** y cobra el peaje real (sustancia sobre forma / anti-abuso).
+
+> **La metáfora del camino con casetas (planeación):** ir de A a B legalmente puede tener varias
+> rutas; elegir la de menos casetas es tu derecho (elusión). Lo que no puedes hacer es **pasar por la
+> caseta sin pagar** (evasión) ni **poner una caseta de juguete fingiendo un camino que no recorres**
+> (simulación). Misma meta, medios distintos: unos legales, otros delito.
+
+## 16. Ejemplos simples (para asentar)
+
+> Cifras **ilustrativas e inventadas** para mostrar la *mecánica*, no valores reales. ⚠️ Tasas y
+> reglas: verificar las vigentes.
+
+**Ejemplo 1 — Utilidad y dividendo.** Una empresa tiene ingresos por 100 y deducciones por 60 →
+utilidad 40. Aplica una tasa hipotética del 30 % → paga 12 de ISR. Le quedan 28. Si reparte esos 28
+como dividendo desde su CUFIN (utilidades ya gravadas), no debería pagar ISR corporativo adicional.
+*Lección:* la utilidad se grava una vez a nivel empresa; la CUFIN evita volver a gravarla al
+repartir.
+
+**Ejemplo 2 — Ganancia de capital.** Compraste acciones en 100 (tu costo fiscal) y las vendes en 150.
+Tu **ganancia** es 50; el impuesto recae sobre esos 50, no sobre los 150. *Lección:* siempre importa
+el **costo fiscal/base**, no solo el precio.
+
+**Ejemplo 3 — Deuda vs. capital.** Una empresa paga 10 de intereses por un préstamo: suelen ser
+**deducibles** (bajan su base). Si en vez de eso pagara 10 de dividendos, **no** son deducibles.
+*Lección:* la forma de financiarse cambia el impuesto.
+
+## 17. Ejemplos complejos (multi-variable, realistas)
+
+**Compra de empresa: el mismo precio, dos estructuras.** Compradora quiere adquirir "Target".
+- **Vía share deal:** paga 1,000 por las acciones. El vendedor calcula ganancia (1,000 − su costo
+  fiscal) y paga el régimen de acciones. La Compradora hereda los activos a su valor fiscal histórico
+  (poca depreciación futura) **y** las contingencias fiscales de Target → exige due diligence fiscal e
+  indemnización específica.
+- **Vía asset deal:** paga 1,000 por los activos. Puede hacer **step-up** (registrarlos en 1,000 y
+  depreciar más → menos ISR futuro) y deja atrás las contingencias, **pero** puede causar IVA y, para
+  el vendedor, ganancia a nivel sociedad + impuesto al dividendo al subir el dinero a los socios
+  (doble carga).
+- **El abogado fiscal-corporativo** calcula el **valor después de impuestos** de cada vía para cada
+  parte, y **propone la estructura que agranda el pastel total** —p.ej., asset deal con un ajuste de
+  precio que compense al vendedor por su mayor carga, repartiendo entre ambos el beneficio del
+  step-up—. Eso es crear valor con fiscal.
+
+**Reestructura previa a la venta.** El dueño quiere vender solo una de sus tres líneas de negocio.
+Hace una **escisión** (neutral, con razón de negocios real: separar líneas para gestión independiente)
+para aislar esa línea en una nueva sociedad y luego vende **solo** esas acciones — más limpio y
+eficiente que vender activos sueltos. ⚠️ *Requisitos de neutralidad y permanencia: verificar.*
+
+## 18. Casos reales (jurisprudencia y operaciones estilizadas)
+
+> ⚠️ *No se citan números de tesis ni casos con nombre por no estar verificados (Principio Supremo).
+> Se describen patrones reales y estilizados; verificar criterios concretos en el SJF.*
+
+- **Patrón "reorganización que era venta".** La autoridad y los tribunales han desconocido
+  "reestructuras neutrales" en las que, al levantar la forma, había en realidad una **venta a un
+  tercero** (no había continuidad accionaria real): se pierde la neutralidad y se cobra el impuesto
+  diferido + accesorios. *Criterio a verificar en jurisprudencia.*
+- **Patrón "operaciones simuladas / facturas de operaciones inexistentes (EFOS/EDOS)".** Estructuras
+  que deducen con comprobantes de operaciones que nunca ocurrieron: es **evasión** y delito, con
+  consecuencias severas. Es el ejemplo arquetípico de la línea que nunca se cruza.
+- **Patrón "sin razón de negocios".** Estructuras formalmente válidas pero cuyo único fin era el
+  ahorro fiscal, recaracterizadas vía la cláusula anti-abuso. *Verificar precedentes vigentes.*
+
+## 19. Casos empresariales (en la vida de una compañía)
+
+- **Distribuir utilidades:** ¿sueldo a los dueños-administradores (deducible para la empresa, pero
+  ingreso gravado para la persona) o dividendo (no deducible, con su propio régimen)? Decisión fiscal
+  cotidiana.
+- **Financiar una expansión:** ¿deuda (intereses deducibles, con límites de capitalización delgada) o
+  aportación de capital (sin deducción, pero sin endeudar)? 
+- **Empresa familiar y sucesión:** cómo estructurar la transmisión del patrimonio empresarial a la
+  siguiente generación de forma ordenada y fiscalmente eficiente (conecta con Patrimonio, Columna V).
+  ⚠️ *Régimen de herencia/donación: verificar.*
+
+## 20. Casos corporativos (en transacciones)
+
+- **El "tax structuring" del deal:** antes de firmar, fiscal y legal diseñan juntos la estructura
+  (share/asset, escisión previa, vehículo de adquisición, cómo se financia) buscando el mejor
+  resultado después de impuestos para el cliente.
+- **Las pérdidas fiscales como activo (y trampa):** un target con pérdidas fiscales acumuladas puede
+  ser atractivo, pero las reglas **anti-traspaso de pérdidas** limitan severamente aprovecharlas tras
+  un cambio de control. Creerse que "compras las pérdidas" sin verificar es un error caro. ⚠️
+  *Verificar reglas de amortización y cambio de socios.*
+- **Cláusulas fiscales en el SPA:** *tax indemnity*, declaraciones fiscales (R&W), retenciones,
+  manejo de auditorías post-cierre (*tax contest*). Aquí el Libro 4 (documentación) y este libro se
+  encuentran.
+
+## 21. Casos internacionales (*cross-border*)
+
+- **Doble tributación:** un mismo ingreso podría gravarse en el país de la fuente y en el de
+  residencia; los **tratados para evitar la doble tributación** (modelo OCDE) reparten la potestad y
+  permiten acreditar impuestos. ⚠️ *Verificar el tratado aplicable.*
+- **Estructuras *holding*:** los grupos multinacionales usan sociedades *holding* en ciertas
+  jurisdicciones por sus tratados y régimen — legítimo si hay sustancia; abuso (*treaty shopping*) si
+  es una cáscara sin actividad. El movimiento global **BEPS** combate justamente las estructuras
+  artificiales. ⚠️ *Verificar estado vigente.*
+- **Precios de transferencia:** las operaciones entre empresas del mismo grupo en distintos países
+  deben pactarse a valor de mercado (*arm's length*) y documentarse, para que el grupo no mueva
+  artificialmente la utilidad al país de menor impuesto. Es de las áreas fiscales más técnicas y
+  litigadas del mundo corporativo.
