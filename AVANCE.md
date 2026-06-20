@@ -12,7 +12,7 @@
 |---------|--------|----------|--------|-----------|
 | **I** | Biblioteca Jurídica | ¿Qué debo aprender? | ✅ Completa (5 niveles · 36 tratados) | Carpetas `Nivel-I` … `Nivel-V` |
 | **II** | Hoja de Ruta | ¿Qué hacer, cuándo y por qué? | ✅ Completa | [`01_HOJA_DE_RUTA_AJE.md`](./01_HOJA_DE_RUTA_AJE.md) |
-| **III** | Laboratorio Profesional | ¿Cómo se trabaja de verdad? | 🟡 En arranque | `Columna-III-Laboratorio/` |
+| **III** | Laboratorio Profesional | ¿Cómo se trabaja de verdad? | 🟡 1er tramo completo (6 ejercicios) | `Columna-III-Laboratorio/` |
 | **IV** | Sistema del Socio | ¿Cómo se construye la carrera? | ⬜ Pendiente | — |
 | **V** | Patrimonio y Libertad Financiera | ¿Cómo administrar la riqueza? | ⬜ Pendiente | — |
 

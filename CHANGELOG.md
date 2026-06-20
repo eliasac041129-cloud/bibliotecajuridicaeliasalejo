@@ -22,7 +22,10 @@ columnas**, gobernado por seis principios rectores.
   incendio" a "asesor indispensable/élite"), plan de 90 días, guion de contactos e indicadores.
 - **`INDICE_MAESTRO.md`** — mapa navegable de todo el repositorio.
 - **`CHANGELOG.md`** — esta bitácora.
-- **Columna III · Laboratorio Profesional** — arranque (documento rector + primeros ejercicios).
+- **Columna III · Laboratorio Profesional** — primer tramo completo: documento rector + **6
+  ejercicios** que recorren una misma operación de M&A ("Proyecto Caramelo") de principio a fin:
+  01 Memorándum legal · 02 Cláusula contractual · 03 Term sheet · 04 Representaciones y garantías
+  + disclosure · 05 Reporte de due diligence · 06 Closing checklist.
 
 ### Cambiado
 - **`00_MANIFIESTO_EDITORIAL.md`** pasa de ser "la Constitución" a **Anexo de Estándar
