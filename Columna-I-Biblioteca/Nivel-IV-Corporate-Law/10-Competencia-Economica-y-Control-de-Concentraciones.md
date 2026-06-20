@@ -539,3 +539,154 @@ las herramientas clásicas bastan para ellos. ⚠️ *Autores y documentos concr
   evitar poder dañino; el peso que se da a las **eficiencias** alegadas.
 - **Mercados digitales:** ¿bastan las herramientas clásicas para plataformas con efectos de red y
   poder basado en datos, o hacen falta reglas nuevas? ⚠️ *Estado vigente: verificar.*
+
+
+## 30. Errores comunes
+
+| Error | Por qué es un error |
+|-------|---------------------|
+| No analizar competencia hasta el final del deal | Puedes diseñar una operación que **nunca** se podrá cerrar |
+| Calcular mal los umbrales y **no notificar** lo que debía | Gun-jumping: multas y nulidad |
+| **Consumar o integrar** antes de la autorización | Gun-jumping aunque la operación sea benéfica |
+| Compartir información sensible entre las partes antes del cierre | Coordinación prohibida; riesgo de cártel y gun-jumping |
+| Confundir cártel (per se) con abuso (regla de la razón) | Error conceptual base; cambia todo el análisis |
+| Creer que "ser dominante" es ilegal | No lo es; solo lo es **abusar** del poder |
+| Definir el mercado relevante a la ligera | Es el paso que decide el caso |
+| Ignorar el riesgo regulatorio en el SPA | Nadie sabe quién paga si la autoridad bloquea/condiciona |
+
+## 31. Mitos frecuentes
+
+- **"Si es mi empresa, vendo y compro a quien quiera sin pedir permiso."** Falso: las operaciones
+  grandes requieren **autorización previa** de competencia.
+- **"Ser el más grande es ilegal."** Falso: es legal; lo ilegal es **abusar** de esa posición.
+- **"Un acuerdo de palabra con un competidor no cuenta."** Falso: un cártel **no necesita estar por
+  escrito**; un acuerdo informal o tácito puede sancionarse.
+- **"Si la fusión es buena para nosotros, la autoridad la aprobará rápido."** Falso: el análisis mira
+  el **mercado y al consumidor**, no la conveniencia de las partes, y puede tardar meses.
+- **"La competencia es solo teoría económica."** Falso: es derecho aplicado con consecuencias muy
+  concretas (multas, nulidad, cárcel en cárteles).
+
+## 32. Preguntas difíciles (para pensar como experto)
+
+1. ¿Cómo defines el mercado relevante de un producto digital "gratis" (sin precio)? ¿Compite por
+   dinero, por atención, por datos?
+2. ¿Cuándo una eficiencia alegada es suficiente para autorizar una concentración que, de otro modo,
+   dañaría la competencia?
+3. ¿Dónde termina la cooperación legítima de planeación del cierre y empieza el gun-jumping?
+4. ¿Quién debe cargar el riesgo regulatorio en un SPA: comprador o vendedor? ¿Cómo se negocia?
+5. ¿Bastan las herramientas clásicas para las grandes plataformas, o se necesita un nuevo enfoque?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**Caso A.** *Dos competidores acuerdan en una cámara industrial "no bajar precios". ¿Qué es?*
+> **Respuesta modelo:** una **práctica monopólica absoluta** (fijación de precios entre competidores),
+> **ilegal *per se*** — no importa que sea informal ni que se justifique. Sancionable con las multas
+> más altas y posible responsabilidad penal individual. ⚠️ *Sanciones: verificar.*
+
+**Caso B.** *Una empresa firma la compra de un competidor que supera los umbrales y empieza a operarlo
+de inmediato, antes de notificar. Analiza.*
+> **Respuesta modelo:** **gun-jumping**: debió notificar y **esperar** la autorización (standstill).
+> Consecuencias: multa y posible nulidad. Debió poner la autorización como **condición de cierre** y
+> mantener las empresas independientes hasta entonces.
+
+**Caso C.** *La COFECE autoriza una fusión "condicionada a desinvertir una marca". ¿Por qué?*
+> **Respuesta modelo:** porque en un **mercado relevante** específico la unión crearía poder dañino; el
+> **remedio de desinversión** restaura la competencia y permite autorizar sin bloquear todo el deal.
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** asociado de M&A. **Cliente:** "Compradora" quiere adquirir a un competidor relevante en su
+> sector. La socia te pide un **memo preliminar de competencia**.
+>
+> **Tu tarea:** (1) ¿la operación **supera umbrales** y debe notificarse? (marca que debes verificar
+> los umbrales vigentes); (2) ¿hay **riesgo** de condiciones o bloqueo? (esboza el análisis de mercado
+> relevante y participaciones); (3) propón las **cláusulas del SPA**: condición de cierre de
+> autorización, covenants de cooperación y anti-gun-jumping, asignación del riesgo regulatorio
+> (¿*best efforts* o *hell-or-high-water*?, break-up fee, long-stop date); (4) advierte del
+> **gun-jumping** y el calendario realista. Usa el formato de memo del Laboratorio (Ej. 01).
+>
+> *Se evalúa que identifiques el riesgo regulatorio, lo traduzcas en cláusulas y marques lo que debes
+> verificar.*
+
+## 35. Flashcards (recuperación activa)
+
+- ¿Qué protege la competencia? → El **proceso competitivo** (no a los competidores).
+- ¿Cártel vs. abuso? → Cártel = entre competidores, **per se** ilegal; abuso = de un dominante, ilegal
+  **solo si daña**.
+- ¿Las 4 prácticas absolutas? → Fijar precios, restringir oferta, repartir mercado, concertar
+  licitaciones.
+- ¿Qué es una concentración? → Unión de **control** de empresas antes independientes.
+- ¿Regla de oro de las concentraciones? → **Notificar y esperar** (standstill) si superan umbrales.
+- ¿Gun-jumping? → Consumar/integrar **antes** de la autorización. Grave.
+- ¿Los 3 desenlaces de una concentración? → Autorizar, **condicionar** (remedios/desinversión),
+  **bloquear**.
+- ¿Autoridades en México? → **COFECE** (general) e **IFT** (telecom/radiodifusión).
+- ¿Programa de inmunidad? → Beneficio para quien **delata** y coopera en un cártel.
+- ¿Primer paso de todo análisis? → Definir el **mercado relevante**.
+
+## 36. Mapa mental (estructura jerárquica)
+
+```
+COMPETENCIA ECONÓMICA
+├── Instrumental
+│   ├── Mercado relevante (producto + geografía)
+│   └── Poder de mercado (participación, barreras)
+├── Pilar 1: Prácticas absolutas (CÁRTELES) — per se ilegal
+│   └── precios · oferta · reparto · licitaciones
+├── Pilar 2: Prácticas relativas (ABUSO) — regla de la razón
+│   └── atado · exclusividad · predatorio · negativa
+├── Pilar 3: CONCENTRACIONES (la pieza de M&A)
+│   ├── ¿supera umbrales? → notificar
+│   ├── standstill (esperar) — no gun-jumping
+│   ├── análisis (mercado, HHI, barreras, eficiencias)
+│   └── desenlace: autorizar / condicionar / bloquear
+├── Integración en el deal
+│   ├── condición de cierre · covenants · risk allocation
+│   └── calendario (meses)
+└── Autoridades: COFECE · IFT · + programa de inmunidad
+```
+
+## 37. Cuadros comparativos
+
+**Absolutas vs. relativas:**
+
+| | Prácticas absolutas (cártel) | Prácticas relativas (abuso) |
+|---|---|---|
+| Entre quién | Competidores | Empresa con poder de mercado |
+| Legalidad | **Per se** ilegal | Ilegal **solo si daña** (regla de la razón) |
+| Justificación | No admite | Admite (eficiencias) |
+| Sanción | La más alta + posible penal | Alta |
+
+**Los 3 desenlaces de una concentración:**
+
+| Desenlace | Cuándo | Efecto en el deal |
+|-----------|--------|-------------------|
+| Autorización | No hay daño | Sigue adelante |
+| Condicionada | Daño remediable | Sigue, con desinversión/conductas |
+| Bloqueo | Daño grave irremediable | Mata el deal |
+
+## 38. Diagramas (flujo de una concentración)
+
+```
+¿La operación une el control de empresas? ──No──► no es concentración
+        │ Sí
+¿Supera los umbrales (⚠️ verificar)? ──No──► no se notifica (cerrar libremente)
+        │ Sí
+NOTIFICAR + ESPERAR (standstill) ── consumar antes = GUN-JUMPING ✗
+        │
+Análisis de la autoridad (mercado, HHI, barreras, eficiencias)
+        │
+   ┌────┴───────────────┬────────────────┐
+Autoriza        Condiciona (remedios)   Bloquea
+   │                    │                  │
+ Cerrar            Cerrar + cumplir     Deal muerto
+```
+
+## 39. Mnemotecnias
+
+- **"FROL": las 4 prácticas absolutas** — **F**ijar precios, **R**estringir oferta, **O**rganizar
+  (repartir) mercado, **L**icitaciones concertadas.
+- **"Notifica y Espera"** — la regla de oro de las concentraciones (lo contrario es gun-jumping).
+- **"Per se el cártel; razón el abuso"** — para no confundir los dos pilares.
+- **"COFECE todo; IFT telecom"** — quién es la autoridad.
+- **"Hasta el silbatazo, rivales"** — no integrarse antes de la autorización.
