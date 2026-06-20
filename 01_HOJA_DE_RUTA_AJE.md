@@ -296,3 +296,81 @@ despacho, fundador de una firma boutique de élite, o asesor estratégico indisp
 ### Misión de la Fase 5
 > **Volverte indispensable e íntegro.** Que empresarios, consejos y fondos quieran sentarte en la mesa donde
 > se deciden las cosas grandes — y que llegues ahí con la conciencia tranquila. Ese es el AJE consolidado.
+
+---
+
+## EL PLAN DE 90 DÍAS (empieza HOY · Fase 0 en acción)
+
+La Hoja de Ruta es de 20 años, pero **solo importa lo que hagas en los próximos 90 días**, porque eso
+construye el hábito que construye todo lo demás. Aquí está, concreto:
+
+### Semana 1 (esta semana)
+- [ ] **Académico:** habla con tu **tutor/coordinación**. Averigua: cuántos extraordinarios puedes presentar
+  por periodo, fechas, riesgo reglamentario, y el **orden óptimo** para liquidar el rezago e inscribir más
+  materias. Sal de la incertidumbre.
+- [ ] **Inglés:** define tu **rutina diaria** (hora fija, 30-45 min, recurso gratuito) y arranca **hoy**, no
+  el lunes.
+- [ ] **Escribe tu plan** del rezago: lista todas las materias pendientes, agrúpalas por afinidad, asígnales
+  un orden y un calendario (como un bloque de la Biblioteca).
+
+### Semanas 2–6
+- [ ] **Ataca el primer bloque de materias** con la disciplina de la Biblioteca (bloques, avance diario).
+- [ ] **Inglés diario sin falta** (≥5 días/semana). Empieza a leer textos jurídicos sencillos en inglés.
+- [ ] **Una conversación de orientación** con un contacto del mundo fiscal/jurídico (ver guion abajo).
+- [ ] Crea/actualiza tu **LinkedIn** profesional.
+
+### Semanas 7–12
+- [ ] **Presenta tu primer bloque de extraordinarios** (la primera victoria real).
+- [ ] Mantén el **inglés** (ya debe ser hábito, no esfuerzo).
+- [ ] **Explora** una posible primera experiencia legal (becario/auxiliar) **para la Fase 1** — sin que
+  interfiera con apagar el incendio.
+- [ ] **Revisión a los 90 días:** ¿cumpliste? Ajusta y repite el ciclo. (Un sistema de 20 años son ~80
+  ciclos de 90 días: gánalos uno a uno.)
+
+> **Regla del plan de 90 días:** no necesitas hacerlo todo perfecto. Necesitas hacerlo **consistentemente**.
+> La disciplina ordinaria, sostenida, produce resultados extraordinarios. (Lo probaste construyendo esta
+> Biblioteca: bloque a bloque, sin parar.)
+
+---
+
+## GUION: CÓMO ACTIVAR TUS CONTACTOS (sin "pedir trabajo")
+
+El error del principiante es pedir "¿me das chamba?". El profesional pide **orientación y conexiones** —es
+mucho más fácil de conceder y abre más puertas—. Si tienes un familiar o conocido en el mundo **fiscal o de
+gobierno** (un activo enorme para el nicho fiscal-corporativo):
+
+- **No pidas:** "¿me consigues trabajo?"
+- **Pide:** *"Estoy decidido a especializarme en derecho fiscal-corporativo. Sé que tú conoces ese mundo.
+  ¿Tendrías 20 minutos para orientarme sobre cómo se entra, qué debería estudiar primero, y —si conoces a
+  alguien— si me podrías presentar para tomar un café y aprender de su experiencia?"*
+- **Después de la conversación:** agradece, ejecuta lo que te aconsejaron, y **reporta tu avance** (eso
+  construye relación y hace que quieran ayudarte más). La red se cultiva dando seguimiento, no pidiendo una
+  sola vez.
+
+---
+
+## INDICADORES DE LARGO PLAZO (el tablero de tu carrera)
+
+Revisa **cada año** tu avance en los siete activos del Principio del Valor (¿crecieron este año?):
+**conocimiento · criterio · experiencia · reputación · relaciones · capacidad de resolver problemas
+complejos · liderazgo.** Si todos crecieron, vas bien — el dinero llegará detrás. Si te enfocaste solo en
+dinero y alguno se estancó, corrige el rumbo.
+
+---
+
+## CIERRE DE LA HOJA DE RUTA
+
+Esta Hoja de Ruta no te promete que será fácil ni rápido. Te promete que **es posible** —el camino del cero
+a la élite está trazado, fase por fase— y que **depende de ti**, no de tu origen ni de tu expediente.
+
+La distancia entre la Fase 0 (apagar el incendio) y la Fase 5 (el asesor indispensable) no se cruza con un
+salto: se cruza con **miles de días ordinarios bien ejecutados**. La capacidad ya la tienes —la demostraste
+construyendo la Biblioteca entera—. Lo único que falta es **dirigir esa misma capacidad, todos los días,
+hacia lo que toca**: hoy, el extraordinario y el inglés; mañana, la operación y el cliente.
+
+> **La grandeza del destino se gana un día a la vez. Empieza hoy, a las 7 a.m.**
+
+---
+
+> *Hoja de Ruta del Arquitecto Jurídico Empresarial · Columna II del Proyecto AJE · V2.0. Regida por el
+> [Documento Fundacional AJE](./00_DOCUMENTO_FUNDACIONAL_AJE.md). Revisar y actualizar cada 90 días.*
