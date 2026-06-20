@@ -70,3 +70,94 @@ para empresas familiares del sector X" sí lo es. El nicho:
 > no es referente de nada, y nadie lo recuerda cuando surge una necesidad concreta. La
 > especialización asusta al principiante ("¿y si me pierdo otros clientes?") pero es lo que
 > construye una marca. Puedes ampliar después; primero, **sé el dueño de un nicho**.
+
+
+---
+
+## IV. Cómo construir presencia desde estudiante (sin ser nadie todavía)
+
+No necesitas ser socio ni tener título para empezar a construir tu marca. De hecho, **el mejor
+momento para empezar es ahora**, porque la marca tarda años en madurar:
+
+1. **Elige tu nicho y empieza a aprender de más sobre él.** Tu Biblioteca (Nivel IV/V) ya te da
+   una ventaja brutal: sabrás de M&A y corporativo más que la mayoría de tus pares. Esa
+   profundidad es la materia prima de tu marca.
+2. **Demuestra lo que sabes, no lo presumas.** Resuelve dudas de compañeros, explica bien un tema
+   difícil, ayuda en un proyecto. La gente que te ve resolver te etiqueta como "el que sabe".
+3. **Construye una presencia digital profesional.** Un LinkedIn cuidado, donde compartas con
+   criterio aprendizajes sobre tu nicho. No para presumir: para que, cuando alguien te busque, vea
+   a un futuro abogado serio y especializado. **Hoy te googlean antes de confiar en ti.**
+4. **Escribe y comparte (*thought leadership* incipiente).** Un resumen claro de un tema
+   corporativo, un comentario sensato sobre una noticia del sector. No tiene que ser perfecto:
+   tiene que ser **consistente**. Quien publica con criterio durante años se vuelve referente.
+5. **Cuida la integridad en todo, también en lo pequeño.** Cómo tratas a la gente, si cumples lo
+   que prometes, si eres honesto cuando nadie mira. Tu reputación se forma en los detalles, mucho
+   antes de tu primer caso grande.
+
+> **La estrategia compuesta:** competencia (Biblioteca) + demostración (ayudar, resolver) +
+> presencia (LinkedIn, contenido) + integridad (siempre), sostenidas **años**. Es interés
+> compuesto reputacional: imperceptible al principio, imparable después. El que empieza a los 21
+> tiene una ventaja que el que empieza a los 35 no podrá alcanzar.
+
+---
+
+## V. *Thought leadership*: volverte una voz, no solo un nombre
+
+El nivel más alto de marca personal es el **liderazgo de pensamiento**: que te vean no solo como
+"un buen abogado de X", sino como **alguien cuya opinión sobre X vale la pena escuchar**. Se
+construye:
+
+- **Escribiendo** (artículos, posts, análisis) con regularidad sobre tu nicho.
+- **Hablando** (conferencias, paneles, clases, podcasts) cuando surja la oportunidad.
+- **Enseñando** (dar cátedra, mentoría): el que enseña un tema se vuelve autoridad en él.
+
+> El thought leadership invierte la dinámica del rainmaking: en vez de buscar clientes, **los
+> clientes te buscan a ti**, porque te perciben como autoridad. Es la forma más poderosa —y más
+> lenta— de generar negocio. Por eso se siembra temprano.
+
+---
+
+## VI. Errores que cuestan millones (de carrera)
+
+| Error | Por qué cuesta | Cómo evitarlo |
+|-------|----------------|---------------|
+| Creer que "el buen trabajo habla solo" | La competencia invisible no genera carrera | Hazte visible: presencia + contenido |
+| Querer ser bueno para todo | No eres referente de nada | Domina un nicho específico primero |
+| Descuidar la huella digital | Un perfil descuidado o vergonzoso espanta | Cuida tu presencia profesional desde hoy |
+| Presumir en vez de demostrar | Genera rechazo, no confianza | Deja que tus resultados y tu ayuda hablen |
+| Arriesgar la reputación por una ganancia rápida | Se destruye en un instante lo de años | Integridad incluso cuando cuesta |
+| Empezar tarde | El interés compuesto reputacional necesita años | Siembra ahora, aunque seas "nadie" todavía |
+
+---
+
+## VII. Tu turno (práctica deliberada)
+
+1. **Escribe tu marca objetivo en una frase.** "Quiero ser conocido como ___." Sé específico (un
+   nicho, no "buen abogado"). Esa frase guía todo lo demás.
+2. **Audita tu huella digital.** Googléate. Revisa tu LinkedIn y redes públicas. ¿Qué proyectan
+   hoy? Haz una lista de 3 cosas que corregirás esta semana.
+3. **Tu primer acto de thought leadership.** Escribe un texto breve (media página) explicando con
+   claridad un concepto de tu nicho (algo de la Biblioteca, p. ej. qué es un earn-out). Compártelo
+   o guárdalo como el primero de una serie. La autoridad empieza con el texto #1.
+4. **Define tu ritual de integridad.** Escribe la regla personal que no romperás por ninguna
+   ganancia. Esa línea es el cimiento de tu reputación.
+
+---
+
+## VIII. Conexión (hacia dónde sigue)
+
+- **Sustento:** pilar de "visibilidad" del [Módulo 03](./03-Generacion-de-Negocio.md) e Integridad
+  Ética del Documento Fundacional.
+- **Siguiente módulo:** **06 · Rutas de carrera** — despacho grande, boutique, *in-house* o fundar
+  lo propio: cuál conviene, cuándo, y cómo decide un estratega su camino.
+- **Aplicación inmediata:** elige hoy tu nicho objetivo (sección VII.1) y haz tu primer texto de
+  thought leadership esta semana. Tu marca empieza con la primera publicación, no con el primer
+  ascenso.
+
+> **La idea que debe quedarte:** tu reputación es tu patrimonio, y tu marca es la forma en que el
+> mundo accede a ella. Sé excelente, sé íntegro, **y haz que se sepa** — sostenido por años. Eso
+> es lo que convierte la competencia privada en clientes y carrera.
+
+---
+
+*Sistema del Socio · Módulo 05 completado. Subordinado al Documento Fundacional AJE.*

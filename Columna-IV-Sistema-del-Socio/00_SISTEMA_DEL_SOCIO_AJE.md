@@ -59,7 +59,7 @@ monedas**, y la mayoría solo conoce la primera:
 | 02 | Gestionar hacia arriba (*managing up*) | ¿Cómo trabajo con un socio para volverme indispensable? | ✅ Completo |
 | 03 | Generación de negocio (*rainmaking*) | ¿Cómo se consiguen clientes y trabajo nuevo? | ✅ Completo |
 | 04 | La economía del despacho | ¿Cómo se reparte el dinero? ¿Qué es *leverage* y *PPP*? | ✅ Completo |
-| 05 | Marca personal y reputación | ¿Cómo me vuelvo conocido por algo? | ⬜ |
+| 05 | Marca personal y reputación | ¿Cómo me vuelvo conocido por algo? | ✅ Completo |
 | 06 | Rutas de carrera | Despacho grande, boutique, *in-house*, fundar: ¿cuál y cuándo? | ⬜ |
 
 > Se construyen **en secuencia**. El primero —la pirámide— es el mapa: hasta que no entiendes cómo
