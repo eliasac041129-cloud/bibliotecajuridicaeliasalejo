@@ -74,3 +74,60 @@ El error del principiante es tratar todos los hallazgos igual. El experto **clas
 > contrato** si la empresa cambia de dueño. El comprador paga por una empresa cuyo principal
 > ingreso **puede evaporarse el día después del cierre**. Detectar esa sola línea entre miles de
 > páginas es, literalmente, para lo que te pagan.
+
+
+---
+
+## IV. El encargo (Proyecto Caramelo, fase DD)
+
+> **De:** la Socia. **Para:** Tú. **Te da acceso al data room de Dulces del Valle:**
+>
+> *"Revisa el data room y mándame un **reporte de due diligence** legal. No quiero un resumen de
+> cada documento: quiero un **resumen ejecutivo** con los red flags arriba, y para cada hallazgo
+> importante: qué es, qué tan grave es, y **qué hacemos en el contrato** para cubrirnos. Esto va a
+> definir si el cliente sigue, baja el precio o se sale."*
+
+---
+
+## V. Modelo trabajado y anotado
+
+### a) Resumen ejecutivo (lo único que el socio lee primero)
+
+> **REPORTE DE DUE DILIGENCE LEGAL — PRIVILEGIADO Y CONFIDENCIAL**
+> *Proyecto Caramelo · Dulces del Valle, S.A. de C.V. · [fecha]*
+>
+> **Resumen ejecutivo — Hallazgos por nivel de riesgo**
+>
+> | # | Hallazgo | Nivel | Acción recomendada |
+> |---|----------|-------|--------------------|
+> | 1 | Contrato con cliente principal (40 % de ventas) tiene cláusula de **cambio de control**: el cliente puede terminar si cambia el dueño | 🔴 | Condición de cierre: obtener consentimiento/*waiver* del cliente **antes** del Cierre |
+> | 2 | **Juicio laboral** de ex-director, cuantía ~$8M, alta probabilidad de pérdida | 🟠 | Indemnización específica al 100 % + escrow dedicado |
+> | 3 | **Diferencias de cuotas IMSS** del ejercicio [●], ~$1.5M, en aclaración | 🟠 | R&W laboral + survival largo + retención |
+> | 4 | Marca "Dulces del Valle" **registrada a nombre del Sr. Romero**, no de la Sociedad | 🔴 | Condición de cierre: ceder la marca a la Sociedad antes del Cierre |
+> | 5 | Tres contratos de proveedor **vencidos**, operando de facto | 🟡 | Disclosure + recomendar renovación post-cierre |
+> | 6 | Libros corporativos al corriente; acciones libres de gravamen | 🟢 | Informativo |
+
+> ▸ **Anotación:** seis renglones, el socio entiende la operación en 30 segundos. Los 🔴 (1 y 4)
+> son los que pueden cambiar el trato: **la empresa no es dueña de su propia marca** y **su mayor
+> cliente puede irse**. Nota que cada hallazgo ya trae su **acción contractual** — el reporte no
+> solo diagnostica, **receta**. Eso es lo que lo vuelve útil.
+
+### b) Ficha de hallazgo (el detalle, para los riesgos serios)
+
+> **Hallazgo #1 — Cláusula de cambio de control (cliente principal)**
+> - **Documento:** Contrato de suministro con [Cliente A], cláusula [●], folio [●] del data room.
+> - **Hechos:** el contrato (40 % de las ventas de la Sociedad) permite al cliente **terminar sin
+>   responsabilidad** en caso de cambio de control de la Sociedad.
+> - **Riesgo:** tras el Cierre, el cliente podría terminar, eliminando ~40 % de los ingresos. Esto
+>   afecta directamente la valuación y el *earn-out*.
+> - **Nivel:** 🔴 Red flag.
+> - **Recomendación:** (i) **condición de cierre** de obtener consentimiento/*waiver* del cliente;
+>   (ii) si no se obtiene, renegociar precio o earn-out; (iii) R&W de que no hay otras cláusulas de
+>   cambio de control no reveladas.
+> - **Por verificar:** texto exacto de la cláusula y si hay aviso/plazo; confirmar % de ventas con
+>   los estados financieros.
+
+> ▸ **Anotación:** la ficha conecta los cuatro mundos del Laboratorio: el **DD** (05) descubre el
+> riesgo → se traduce en una **condición de cierre o R&W** (04) → que se redacta como **cláusula**
+> (02) → y todo se ancló desde el **term sheet** (03). Esa es la cadena completa de una operación.
+> Y el "Por verificar" final es el Principio Supremo: no afirma de memoria, ordena confirmar.
