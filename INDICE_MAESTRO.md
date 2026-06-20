@@ -13,6 +13,7 @@
 | [00 · Manifiesto Editorial](./00_MANIFIESTO_EDITORIAL.md) | Anexo de Estándar Editorial (cómo se escribe cada libro · V3). |
 | [01 · Hoja de Ruta AJE](./01_HOJA_DE_RUTA_AJE.md) | Columna II · estrategia profesional. |
 | [02 · El Sistema Diario](./02_PLAN_OPERATIVO_DIARIO_AJE.md) | Plan operativo · qué haces hoy, hora por hora. |
+| [03 · Plan de Inglés Jurídico](./03_PLAN_DE_INGLES_JURIDICO_AJE.md) | La llave no negociable · rutina, recursos e inglés legal. |
 
 ## 2. Documentos de apoyo
 
