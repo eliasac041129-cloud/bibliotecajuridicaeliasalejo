@@ -81,3 +81,106 @@ vencen a 4 horas el domingo. Estructura sugerida para tu bloque diario:
 > redes a inglés, escucha música/podcasts en inglés, ve series con subtítulos **en inglés** (no en
 > español). Sumérgete en el idioma de forma gratuita, todos los días. El cerebro aprende un idioma
 > por **exposición constante**, no por estudiarlo una vez a la semana.
+
+
+---
+
+## V. Recursos por etapa (mayormente gratuitos — partes de cero en dinero)
+
+> Ejemplos conocidos; no son los únicos ni patrocinados. Elige uno o dos por categoría y sé
+> constante. **Mejor un recurso usado a diario que diez abiertos y abandonados.**
+
+| Etapa | Para qué | Tipos de recurso (ejemplos) |
+|-------|----------|------------------------------|
+| **A1-A2 → B1** | Base y vocabulario | Apps gratuitas de idiomas (tipo Duolingo); canales de YouTube para aprender inglés; cursos abiertos |
+| **B1 → B2** | Comprensión y conversación | Podcasts para *learners*; series con subtítulos en inglés; intercambios de idioma (apps de *language exchange*) |
+| **B2 → C1** | Fluidez profesional | Contenido real (noticias, charlas TED, podcasts de negocios); escribir y que te corrijan |
+| **Inglés legal** | Terminología jurídica | **Los glosarios bilingües de la Columna III**; diccionarios jurídicos inglés-español; contratos modelo en inglés; *Black's Law Dictionary* como referencia |
+| **Práctica de habla** | Vencer el miedo a hablar | Hablar solo en voz alta, grabarte; conversar con una IA en inglés; grupos de conversación gratuitos |
+
+> **Sobre la IA como tutor gratuito:** puedes practicar conversación, pedir que te corrija un
+> texto, que te explique un término legal en inglés o que simule una entrevista. Es un tutor de
+> idiomas disponible 24/7 y sin costo. Úsalo.
+
+---
+
+## VI. Inglés legal: aprovecha lo que YA tienes en este repositorio
+
+No estudies el inglés legal en abstracto. **Engánchalo a lo que ya estás aprendiendo:**
+
+1. **Usa los glosarios bilingües del Laboratorio (Columna III).** Cada ejercicio (memo, term
+   sheet, R&W, due diligence, closing) trae su glosario español-inglés. Conviértelos en
+   flashcards: ahí está el vocabulario que de verdad usa un abogado de M&A.
+2. **Re-lee un ejercicio del Laboratorio pensándolo en inglés.** Cuando domines un memo en
+   español, intenta explicar sus partes en inglés (*Issue, Rule, Application, Conclusion* — ya
+   están en inglés en el ejercicio 01).
+3. **Lee contratos modelo en inglés** (hay muchos públicos) y reconoce las cláusulas que ya
+   estudiaste: *representations and warranties, indemnification, governing law, severability*.
+4. **Escribe en inglés un párrafo de algo que ya sabes en español:** una cláusula simple, un
+   resumen de un concepto. Producir en inglés fija el aprendizaje.
+
+> Así matas dos pájaros: practicas inglés **y** refuerzas Derecho corporativo al mismo tiempo.
+> Es el uso más eficiente de tu tiempo.
+
+---
+
+## VII. Hitos y cómo medir el avance
+
+Ponle metas medibles, no "mejorar mi inglés" (que no se mide):
+
+| Horizonte | Hito objetivo |
+|-----------|----------------|
+| 3 meses | Rutina diaria sostenida; subir medio nivel CEFR; 300+ términos en flashcards |
+| 6-12 meses | **B1-B2 sólido:** leer textos legales sencillos, sostener una conversación |
+| 1-2 años | **B2-C1:** redactar correos profesionales, entender doctrina y contratos en inglés |
+| Para LLM / élite | **C1+** y, si aplica, certificación **TOEFL iBT o IELTS** (suelen exigirla los LLM en el extranjero) |
+
+> **Sobre las certificaciones (TOEFL/IELTS):** son el "comprobante" oficial de tu nivel y casi
+> siempre requisito para un posgrado en el extranjero. No corras a presentarlas hoy: primero
+> construye el nivel (C1), y preséntalas cuando el LLM esté cerca. *Verifica los requisitos
+> exactos de cada programa y las fechas/costos vigentes.*
+
+---
+
+## VIII. Errores que cuestan (años de inglés perdidos)
+
+| Error | Por qué cuesta | Cómo evitarlo |
+|-------|----------------|---------------|
+| Estudiar "por rachas" (mucho y luego nada) | El idioma se construye por constancia, no por intensidad | 30 min diarios, sin romper la cadena |
+| Solo estudiar gramática, nunca hablar/escuchar | Entiendes pero no te comunicas | Equilibra input (oír/leer) y output (hablar/escribir) |
+| Ver series con subtítulos en español | El cerebro lee y apaga el oído | Subtítulos **en inglés**, siempre |
+| Tenerle miedo a equivocarte al hablar | El que no se arriesga no aprende a hablar | Habla mal hoy para hablar bien mañana; los errores son el método |
+| Saltar al inglés legal sin base | Castillo sobre arena | Primero fluidez general, luego especialización |
+| Esperar "tener dinero para un curso" | Pierdes meses; hay rutas gratuitas excelentes | Empieza hoy, gratis, con lo que hay |
+
+---
+
+## IX. Tu turno (esta semana)
+
+1. **Haz una prueba de nivel** gratuita y anota tu CEFR honesto. Esa es tu línea de salida.
+2. **Cambia tu teléfono y redes a inglés** hoy. Inmersión gratis, inmediata.
+3. **Elige UN recurso de input** (un podcast/canal) y úsalo en tu bloque diario de inglés del
+   [Sistema Diario](./02_PLAN_OPERATIVO_DIARIO_AJE.md).
+4. **Crea tus primeras 30 flashcards** con el glosario del Ejercicio 01 del Laboratorio (memo:
+   *Issue, Rule, Application, Short Answer…*). Inglés + Derecho a la vez.
+5. **Habla 5 minutos en voz alta** sobre tu día, en inglés, aunque sea imperfecto. Grábate.
+
+---
+
+## X. Conexión
+
+- **Rige:** Principio 6 (Bilingüismo) del [Documento Fundacional](./00_DOCUMENTO_FUNDACIONAL_AJE.md).
+- **Se ejecuta en:** el bloque diario de inglés del [Sistema Diario](./02_PLAN_OPERATIVO_DIARIO_AJE.md)
+  (prioridad #2, solo por debajo de lo académico urgente).
+- **Se alimenta de:** los glosarios bilingües de la [Columna III · Laboratorio](./Columna-III-Laboratorio/)
+  y la terminología en inglés de los tratados de Corporate Law (Nivel IV-V).
+
+> **La idea que debe quedarte:** el inglés es la palanca más poderosa que está 100 % en tus manos.
+> No cuesta dinero, solo constancia: 30 minutos diarios, sin romper la cadena, durante un par de
+> años. Es, literalmente, la diferencia entre quedarte en el mercado local y entrar a la élite
+> corporativa global. Empieza hoy.
+
+---
+
+*03 · Plan de Inglés Jurídico · Proyecto AJE. Rige el Principio 6 del Documento Fundacional.
+Recomendaciones de método; verifica recursos, requisitos y costos vigentes.*
