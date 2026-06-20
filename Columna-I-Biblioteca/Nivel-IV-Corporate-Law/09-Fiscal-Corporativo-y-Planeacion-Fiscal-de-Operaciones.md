@@ -176,3 +176,84 @@ en cómo se reorganiza (una fusión o escisión). El director financiero y el fi
 diario; el abogado corporativo que **entiende su lenguaje** se vuelve su aliado natural y un asesor
 mucho más completo. No necesitas ser el fiscalista del *deal* —para eso hay especialistas—, pero sí
 **entender lo suficiente para diseñar la estructura con ellos y no contra ellos**.
+
+
+## 10. Definiciones doctrinales
+
+La doctrina fiscal ha construido un puñado de conceptos que vale la pena fijar (parafraseados; ⚠️
+*atribuciones a autores concretos, verificar*):
+
+- **Tributo / contribución:** prestación económica que el Estado exige, con fundamento en la ley, a
+  quienes realizan el hecho que la ley considera generador de la obligación de pagar (el *hecho
+  imponible*). La doctrina lo describe como una obligación *ex lege* (nace de la ley, no del acuerdo).
+- **Hecho imponible (o hecho generador):** el suceso económico que, descrito en la ley, hace nacer la
+  obligación tributaria (p. ej., obtener un ingreso, realizar una enajenación). Sin hecho imponible
+  realizado, no hay impuesto.
+- **Capacidad contributiva:** principio según el cual cada quien debe contribuir conforme a su
+  **capacidad económica real**. Es la justificación profunda del impuesto sobre la renta y un límite
+  constitucional: no se puede gravar donde no hay riqueza.
+- **Elusión (planeación fiscal):** el uso de medios **lícitos** para reducir, diferir o evitar la
+  carga fiscal, organizando los negocios de forma fiscalmente eficiente. Es legal.
+- **Evasión:** el incumplimiento **ilícito** de la obligación tributaria —ocultar ingresos, simular
+  operaciones, falsear—. Es ilegal y a menudo delito.
+- **Razón de negocios (*business purpose*):** la idea de que una operación debe tener una finalidad
+  económica real distinta del mero ahorro fiscal; cuando solo busca el beneficio fiscal, la autoridad
+  puede recaracterizarla.
+
+## 11. Definiciones legales
+
+> **⚠️ Verificar todos los artículos contra el texto vigente.** Lo que sigue describe **dónde** vive
+> conceptualmente cada definición en el sistema mexicano, no su redacción exacta ni su numeración (que
+> cambian con las reformas).
+
+- El **Código Fiscal de la Federación (CFF)** define los conceptos generales: qué es una
+  contribución, el crédito fiscal, la enajenación, las facultades de la autoridad, las infracciones y
+  delitos, y —clave para este libro— la **cláusula general anti-abuso** (la regla que permite
+  recaracterizar actos sin razón de negocios; ⚠️ *verificar artículo y redacción vigentes*).
+- La **Ley del Impuesto sobre la Renta (LISR)** define el **ingreso acumulable**, las **deducciones
+  autorizadas**, la base del impuesto, las tasas, el régimen de personas morales y físicas, y los
+  regímenes especiales de **fusión y escisión** (la "neutralidad"), de dividendos y de enajenación de
+  acciones. ⚠️ *Artículos y tasas: verificar.*
+- La **Ley del Impuesto al Valor Agregado (LIVA)** grava el consumo (enajenación de bienes, prestación
+  de servicios, etc.); importa en operaciones que involucran **activos** (un *asset deal* puede causar
+  IVA que un *share deal* no). ⚠️ *Verificar tasas y supuestos.*
+
+> **Idea para fijar:** no memorices el número de artículo; memoriza **qué ley regula qué**: CFF =
+> reglas generales + anti-abuso + delitos; LISR = impuesto sobre la utilidad/ingreso; LIVA = impuesto
+> al consumo. Con ese mapa sabes dónde buscar, que es lo que hace un profesional.
+
+## 12. Definición sencilla
+
+Si tuvieras que explicárselo a alguien sin formación, dirías:
+
+> **El impuesto sobre la renta es el "porcentaje" que el Estado se queda de lo que ganas.** Una
+> empresa gana (ingresos menos gastos = utilidad) y sobre esa utilidad paga ISR. Cuando reparte lo que
+> queda a sus dueños (dividendos), puede haber otro impuesto. Y cuando vendes algo con ganancia (una
+> empresa, un inmueble, acciones), pagas impuesto sobre **esa ganancia**.
+>
+> **La planeación fiscal** es, simplemente, **organizar tus cosas legalmente para no pagar más de lo
+> necesario** —como elegir el camino con menos casetas, pero sin saltarte ninguna—. **La evasión** es
+> no pagar las casetas que sí te tocaban: eso es ilegal.
+
+## 13. Conceptos fundamentales
+
+Glosario riguroso. Domínalo: es el vocabulario del *deal* fiscal.
+
+| Concepto | Qué es |
+|----------|--------|
+| **Ingreso acumulable** | El ingreso que la ley obliga a sumar para calcular la base del ISR. |
+| **Deducción autorizada** | El gasto que la ley permite restar del ingreso (debe ser estrictamente indispensable, estar soportado y cumplir requisitos). |
+| **Base gravable** | Ingreso acumulable − deducciones autorizadas; sobre ella se aplica la tasa. |
+| **Tasa** | El porcentaje aplicable a la base. ⚠️ *Cambia; verificar la vigente.* |
+| **Enajenación** | Concepto fiscal amplio de "transmitir la propiedad" (incluye venta, permuta, aportación, etc.); detona el impuesto sobre la ganancia. |
+| **Costo fiscal / base** | Lo que "te costó" fiscalmente un bien o acción; la ganancia gravable es precio − costo fiscal. |
+| **Ganancia de capital** | La utilidad por vender un activo o acciones por encima de su costo fiscal. |
+| **Dividendo** | Distribución de utilidades a los socios; tiene su propio régimen fiscal (y a menudo doble carga: la empresa ya pagó ISR sobre la utilidad). |
+| **CUFIN** (cuenta de utilidad fiscal neta) | Registro de las utilidades por las que la empresa **ya pagó** ISR; distribuir desde ahí evita doble impuesto. ⚠️ *Verificar régimen vigente.* |
+| **Pérdidas fiscales** | Cuando las deducciones superan los ingresos; pueden amortizarse contra utilidades futuras (con límites y reglas anti-traspaso). Activo valioso en M&A. |
+| **Neutralidad fiscal** | Régimen por el cual ciertas reestructuras (fusión, escisión) **no** detonan impuesto si se cumplen requisitos. |
+| **Diferimiento** | No evitar el impuesto, sino **posponerlo** (pagar después). Por el valor del dinero en el tiempo, diferir ya es un beneficio. |
+| **Doble tributación** | Que un mismo ingreso se grave dos veces (p. ej., en dos países, o a nivel empresa y a nivel socio). Los tratados y la CUFIN buscan mitigarla. |
+| **Precios de transferencia** | Reglas para que operaciones entre partes relacionadas se pacten a valores de mercado (*arm's length*) y no para mover artificialmente la utilidad. |
+| **Razón de negocios** | Finalidad económica real de una operación, más allá del ahorro fiscal; su ausencia activa el anti-abuso. |
+| **Cláusula general anti-abuso (GAAR)** | Norma que permite a la autoridad recaracterizar actos carentes de razón de negocios cuyo único fin fue el beneficio fiscal. ⚠️ *Verificar redacción vigente del CFF.* |
