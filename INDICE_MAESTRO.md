@@ -80,7 +80,9 @@
 ---
 
 ## 4. Columna II · Hoja de Ruta — ✅
-[01 · Hoja de Ruta AJE](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md)
+- [01 · Hoja de Ruta AJE](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) — estrategia profesional
+- [02 · El Sistema Diario](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) — plan operativo diario
+- [03 · Plan de Inglés Jurídico](./Columna-II-Hoja-de-Ruta/03_PLAN_DE_INGLES_JURIDICO_AJE.md) — la llave no negociable
 
 ## 5. Columna III · Laboratorio Profesional — 🟡 en arranque
 - [00 · Laboratorio Profesional (documento rector)](./Columna-III-Laboratorio/00_LABORATORIO_PROFESIONAL_AJE.md)

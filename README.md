@@ -39,6 +39,40 @@ se levantan **en secuencia**, según lo que el lector necesita en cada etapa.
 > Con las cinco construidas, el sistema del Proyecto AJE está **completo**: lo único que queda es
 > ejecutarlo un día a la vez (ver [El Sistema Diario](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md)).
 
+### Estructura del repositorio (las 5 columnas como carpetas paralelas)
+
+```
+bibliotecajuridicaeliasalejo/
+│
+├── README.md                          ← estás aquí
+├── 00_DOCUMENTO_FUNDACIONAL_AJE.md    ← rector supremo
+├── 00_MANIFIESTO_EDITORIAL.md         ← anexo de estándar editorial
+├── INDICE_MAESTRO.md                  ← mapa navegable de todo
+│
+├── Columna-I-Biblioteca/              ← QUÉ aprender (36 tratados)
+│   ├── Nivel-I-Fundamentos/
+│   ├── Nivel-II-Derecho-Civil-Profundo/
+│   ├── Nivel-III-Derecho-Mercantil/
+│   ├── Nivel-IV-Corporate-Law/
+│   └── Nivel-V-Maestria/
+│
+├── Columna-II-Hoja-de-Ruta/           ← QUÉ hacer y cuándo
+│   ├── 01_HOJA_DE_RUTA_AJE.md
+│   ├── 02_PLAN_OPERATIVO_DIARIO_AJE.md   (el Sistema Diario)
+│   └── 03_PLAN_DE_INGLES_JURIDICO_AJE.md
+│
+├── Columna-III-Laboratorio/           ← CÓMO se trabaja (entregables)
+├── Columna-IV-Sistema-del-Socio/      ← CÓMO se construye la carrera
+├── Columna-V-Patrimonio/              ← CÓMO se administra la riqueza
+│
+└── (apoyo) GUIA-METODOLOGICA · MAPA_BIBLIOTECA-A-MATERIAS ·
+            PROTOCOLO_DE_VERIFICACION · PLANTILLA-LIBRO · AVANCE · CHANGELOG
+```
+
+> Los documentos **00** (constitución) y los de apoyo viven en la raíz porque son **transversales**
+> a todo el sistema; las **cinco columnas** son carpetas paralelas, cada una con su documento
+> rector `00_...` interno.
+
 ---
 
 ## Columna I · La Biblioteca Jurídica (cinco niveles)
