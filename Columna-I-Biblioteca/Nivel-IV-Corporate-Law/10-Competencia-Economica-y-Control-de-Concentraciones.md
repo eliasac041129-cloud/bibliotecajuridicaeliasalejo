@@ -235,3 +235,62 @@ Para explicárselo a alguien sin formación:
 | **Barreras de entrada** | Obstáculos que impiden a nuevos competidores entrar; clave para evaluar poder y daño. |
 | **Programa de inmunidad (delación)** | Beneficio (reducción o exención de sanción) para quien confiesa y coopera para destapar un cártel. |
 | **Eficiencias** | Ahorros o mejoras que una concentración puede generar y que pueden **compensar** el daño a la competencia en el análisis. |
+
+
+## 14. Desarrollo absoluto
+
+El núcleo. Construimos la forma de pensar la competencia, con foco final en el **control de
+concentraciones** (la pieza que toca tu M&A).
+
+### 14.A · El instrumental de análisis: mercado relevante y poder de mercado
+
+Antes de juzgar cualquier conducta o fusión, la autoridad hace **dos preguntas** que son la base de
+todo:
+
+1. **¿Cuál es el mercado relevante?** Es delimitar el "campo de juego". Tiene dos dimensiones:
+   - **Producto:** ¿qué bienes/servicios compiten realmente entre sí? La prueba clásica es la
+     **sustituibilidad**: si sube el precio de A, ¿los clientes se van a B? Si sí, A y B están en el
+     mismo mercado. (El célebre test del "monopolista hipotético": ¿podría subir precios de forma
+     rentable?)
+   - **Geografía:** ¿dónde compiten? (una ciudad, el país, el mundo). El cemento compite localmente
+     (pesa y es caro de transportar); el software, globalmente.
+2. **¿Hay poder de mercado?** Una vez definido el mercado, se mide qué tanto poder tiene la empresa:
+   su **participación**, las **barreras de entrada** (¿pueden entrar rivales fácilmente?), el poder de
+   los clientes, etc.
+
+> **Por qué importa tanto definir el mercado:** es el paso que **decide el caso**. Un mercado definido
+> *estrecho* hace ver a la empresa como dominante; uno *amplio*, como un competidor más. Por eso la
+> batalla de los abogados y economistas se libra, casi siempre, en **cómo se define el mercado
+> relevante**. Es el ajedrez técnico de la competencia.
+
+### 14.B · Pilar 1 y 2: las prácticas monopólicas
+
+**Prácticas monopólicas ABSOLUTAS (los cárteles) — *per se* ilegales.**
+Son acuerdos **entre competidores** para no competir. La ley las prohíbe de forma **tajante**: no
+admiten justificación, no importa si "funcionaron" o no. Las cuatro clásicas:
+- **Fijación de precios:** acordar el precio que cobrarán.
+- **Restricción de la oferta:** acordar cuánto producir o vender.
+- **Reparto de mercado:** dividirse clientes, zonas o segmentos.
+- **Concertación en licitaciones (*bid rigging*):** ponerse de acuerdo en posturas para "turnarse" los
+  contratos (típico en obra pública y compras de gobierno).
+
+> **Por qué son tan graves:** un cártel roba directamente al consumidor (y al Estado, en
+> licitaciones) subiendo precios sin dar nada a cambio. Por eso se castigan con las **multas más
+> altas** y, en muchos sistemas, con **responsabilidad penal** para los individuos. ⚠️ *Sanciones
+> concretas: verificar.* Y por eso existe el **programa de inmunidad**: el primero de los
+> conspiradores que confiesa y coopera obtiene un beneficio enorme — una herramienta que **rompe los
+> cárteles desde dentro** sembrando desconfianza entre ellos (teoría de juegos pura: el dilema del
+> prisionero aplicado).
+
+**Prácticas monopólicas RELATIVAS (abuso de poder) — regla de la razón.**
+Son conductas de una empresa **con poder de mercado** que **desplazan indebidamente** a competidores o
+les cierran el acceso. A diferencia de los cárteles, **no son ilegales en sí mismas**: lo son solo si
+(i) quien las hace tiene poder sustancial y (ii) **dañan** la competencia sin una eficiencia que lo
+justifique. Ejemplos: **ventas atadas** (te vendo A solo si compras B), **exclusividades** abusivas,
+**precios predatorios** (vender bajo costo para quebrar al rival y luego subir), **negativa de trato**
+o **discriminación** para excluir. El análisis es **caso por caso** (regla de la razón): se pesa el
+daño contra la eficiencia.
+
+> **La distinción que debes dominar:** *cárteles = entre competidores = ilegales siempre (per se);
+> abuso = de un dominante = ilegal solo si daña (regla de la razón).* Confundirlas es el error
+> conceptual #1 en esta materia.
