@@ -1,6 +1,24 @@
-# Estado de avance de la biblioteca
+# Estado de avance del Proyecto AJE
 
 > Leyenda: ✅ Completo · 🟡 En proceso · ⬜ Pendiente
+
+## Estado de las cinco columnas (V2.0)
+
+> Desde la V2.0, el proyecto es un **sistema de cinco columnas** (ver
+> [Documento Fundacional](./00_DOCUMENTO_FUNDACIONAL_AJE.md), sección VI). Se construyen **en
+> secuencia**, no en paralelo.
+
+| Columna | Nombre | Pregunta | Estado | Documento |
+|---------|--------|----------|--------|-----------|
+| **I** | Biblioteca Jurídica | ¿Qué debo aprender? | ✅ Completa (5 niveles · 36 tratados) | Carpetas `Nivel-I` … `Nivel-V` |
+| **II** | Hoja de Ruta | ¿Qué hacer, cuándo y por qué? | ✅ Completa | [`01_HOJA_DE_RUTA_AJE.md`](./01_HOJA_DE_RUTA_AJE.md) |
+| **III** | Laboratorio Profesional | ¿Cómo se trabaja de verdad? | 🟡 En arranque | `Columna-III-Laboratorio/` |
+| **IV** | Sistema del Socio | ¿Cómo se construye la carrera? | ⬜ Pendiente | — |
+| **V** | Patrimonio y Libertad Financiera | ¿Cómo administrar la riqueza? | ⬜ Pendiente | — |
+
+---
+
+## Columna I · Biblioteca Jurídica (detalle por niveles)
 > Estándar vigente: **V3** (43 secciones + transversales). Nivel I se construyó en el estándar
 > fundacional de 30 secciones (válido) y se enriquecerá al V3 progresivamente.
 > **⏱ Tiempo de dominio:** estimación de estudio **activo** (lectura profunda + casos +
