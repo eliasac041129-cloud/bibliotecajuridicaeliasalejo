@@ -163,3 +163,75 @@ En M&A, la competencia es una **variable de diseño**: define el calendario, exi
 específicas en el contrato (condición de cierre, *covenants* de cooperación, asignación del riesgo
 regulatorio) y a veces obliga a **rediseñar** la operación (vender un activo para obtener la
 autorización). El abogado corporativo que la entiende protege el deal desde el inicio.
+
+
+## 10. Definiciones doctrinales
+
+(Parafraseado; ⚠️ *atribuciones a autores concretos, verificar*.)
+
+- **Competencia económica:** el proceso de rivalidad entre agentes que ofrecen bienes o servicios,
+  que los disciplina a mejorar precio, calidad e innovación para ganar al consumidor. El derecho la
+  protege como **proceso**, no como resultado.
+- **Poder de mercado (poder sustancial):** la capacidad de una empresa para fijar precios o restringir
+  la oferta **de forma rentable e independiente** de sus competidores y clientes. Tener poder de
+  mercado no es ilegal; **abusar** de él, sí.
+- **Mercado relevante:** el "campo de juego" donde se mide el poder y el daño; se define por el
+  **producto** (qué bienes son sustituibles entre sí) y la **geografía** (dónde compiten). Definirlo
+  es el primer paso —y el más disputado— de todo análisis de competencia.
+- **Concentración:** cualquier operación que **une el control** de empresas antes independientes
+  (fusión, adquisición de acciones o activos, creación de una JV con control). Es el objeto del
+  control de concentraciones.
+- **Prácticas monopólicas:** conductas prohibidas; **absolutas** (entre competidores, *per se*
+  ilegales) y **relativas** (de quien tiene poder, ilegales solo si dañan la competencia).
+
+## 11. Definiciones legales
+
+> **⚠️ Verificar artículos, umbrales y plazos contra la LFCE vigente.** Lo que sigue describe **dónde**
+> vive cada concepto, no su numeración exacta.
+
+- La **Ley Federal de Competencia Económica (LFCE)** es la norma central: define las prácticas
+  monopólicas absolutas y relativas, el régimen de **concentraciones** (qué se notifica, umbrales,
+  procedimiento), las facultades de la autoridad, las sanciones y el programa de inmunidad. ⚠️
+  *Artículos y umbrales: verificar.*
+- La **Constitución** prohíbe los **monopolios** y las prácticas que los generan, y da fundamento a la
+  autoridad autónoma. ⚠️ *Artículo: verificar (tradicionalmente, el 28).*
+- Las autoridades: la **COFECE** (Comisión Federal de Competencia Económica), órgano constitucional
+  autónomo para la economía en general; y el **IFT** (Instituto Federal de Telecomunicaciones), que
+  aplica la competencia en **telecomunicaciones y radiodifusión**. ⚠️ *Verificar denominaciones y
+  competencias vigentes.*
+
+> **Idea para fijar:** competencia general → **COFECE**; telecom y radiodifusión → **IFT**. Y la norma
+> base es la **LFCE**. Con ese mapa sabes a quién acudir y dónde buscar.
+
+## 12. Definición sencilla
+
+Para explicárselo a alguien sin formación:
+
+> **El derecho de la competencia es el "árbitro" del mercado.** Se asegura de que las empresas
+> compitan en serio y no hagan trampa. Tres trampas principales:
+> 1. **Ponerse de acuerdo con tus rivales** para subir precios o repartirse el mercado (un *cártel*) —
+>    prohibidísimo.
+> 2. **Abusar** de ser el más grande para aplastar a los demás injustamente.
+> 3. **Fusionarse o comprar** competidores hasta quedar casi sin rivales — por eso las operaciones
+>    grandes necesitan **permiso** antes de hacerse.
+>
+> El árbitro (en México, la **COFECE**) vigila las tres y puede multar, bloquear operaciones o
+> ponerles condiciones.
+
+## 13. Conceptos fundamentales
+
+| Concepto | Qué es |
+|----------|--------|
+| **Mercado relevante** | El producto + la geografía donde se mide la competencia y el daño. |
+| **Poder sustancial de mercado** | Capacidad de fijar precios/restringir oferta independientemente. |
+| **Práctica monopólica absoluta** | Acuerdo entre **competidores** (cártel): fijar precios, restringir oferta, repartir mercado, concertar posturas en licitaciones. **Ilegal *per se***. |
+| **Práctica monopólica relativa** | Conducta de quien tiene poder de mercado que **desplaza indebidamente** a rivales o impide su acceso (ventas atadas, exclusividades abusivas, precios predatorios, etc.). Ilegal **solo si daña** (regla de la razón). |
+| **Concentración** | Unión de control de agentes antes independientes (fusión, adquisición, JV con control). |
+| **Umbral de notificación** | El tamaño (en valor de la operación, activos o ventas) a partir del cual una concentración **debe** notificarse antes de cerrar. ⚠️ *Cifras: verificar.* |
+| **Notificación previa / standstill** | Obligación de avisar y **esperar la resolución** antes de consumar la operación. |
+| **Gun-jumping** | Consumar (o empezar a integrar/coordinar) **antes** de la autorización. Grave: multas y nulidad. |
+| **Remedios / condiciones** | Compromisos que la autoridad impone para autorizar (p. ej., **desinvertir** un activo, dar acceso a una red). |
+| **Índice HHI** | Medida de concentración de un mercado; ayuda a evaluar el efecto de una fusión. |
+| **Barreras de entrada** | Obstáculos que impiden a nuevos competidores entrar; clave para evaluar poder y daño. |
+| **Programa de inmunidad (delación)** | Beneficio (reducción o exención de sanción) para quien confiesa y coopera para destapar un cártel. |
+| **Eficiencias** | Ahorros o mejoras que una concentración puede generar y que pueden **compensar** el daño a la competencia en el análisis. |
