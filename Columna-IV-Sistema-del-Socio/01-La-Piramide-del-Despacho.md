@@ -70,3 +70,100 @@ Por eso, el abogado estratégico **empieza a construir la Moneda 3 años antes d
 cultivando relaciones, construyendo reputación en un nicho, y haciéndose visible. No esperes a ser
 senior para pensar en clientes; para entonces, los que sí lo pensaron desde junior ya te llevan
 ventaja de años (lo veremos en el Módulo 03).
+
+
+---
+
+## IV. El manual del asociado junior (tu primer peldaño real)
+
+Aquí es donde empiezas. Tu única misión en los primeros 2-3 años: **volverte alguien a quien se le
+puede confiar más, porque ya no hay que revisarte**. Ejecución impecable (Moneda 1). Esto se
+construye con conductas concretas, no con discursos:
+
+1. **Entrega "listo para usar", no "casi listo".** El trabajo que necesita ser reescrito por el
+   socio no te suma: te resta. La meta es que tu memo, tu cláusula o tu reporte (Columna III)
+   puedan ir al cliente con cambios mínimos.
+2. **Cumple el plazo o avisa antes, nunca después.** "No va a estar a tiempo" dicho con 24 horas
+   de anticipación es profesionalismo; dicho cuando ya venció es un problema. **La confiabilidad
+   se construye con plazos, no con talento.**
+3. **Cierra el ciclo (*close the loop*).** Si te piden algo, confirma que lo recibiste, avisa
+   cuando está hecho. Nunca dejes a quien delegó preguntándose si lo estás haciendo.
+4. **Haz la pregunta correcta en el momento correcto.** No interrumpas cada cinco minutos, pero
+   tampoco trabajes tres días en la dirección equivocada por no preguntar. Junta tus dudas y
+   pregunta con criterio.
+5. **Anticipa el siguiente paso.** El junior promedio entrega lo que le pidieron. El que asciende
+   entrega eso **y** dice "ya que estaba en esto, noté X, ¿quieres que lo revise también?".
+6. **Sé el que resuelve, no el que reporta problemas.** Llega con un borrador de solución, no solo
+   con el problema. "Encontré este riesgo y propongo estas tres opciones" vale diez veces más que
+   "encontré este riesgo, ¿qué hago?".
+
+> **El activo invisible: la confiabilidad.** En un despacho, tu reputación interna se forma en los
+> primeros seis meses y es dificilísima de cambiar después. El abogado del que se dice *"a ese se
+> le puede dejar cualquier cosa y sale bien"* recibe el mejor trabajo, los mejores mentores y el
+> ascenso. El que genera dudas recibe tareas menores y se estanca. **Tú decides cuál eres, una
+> entrega a la vez.**
+
+---
+
+## V. La señal de que estás listo para el siguiente peldaño
+
+No preguntes "¿cuándo me asciendes?". Demuestra la señal y el ascenso llega solo. La señal de cada
+transición:
+
+| De → A | La señal de que ya estás listo |
+|--------|--------------------------------|
+| Pasante → Junior | Te dan trabajo real sin dudarlo y lo entregas bien |
+| Junior → Senior | El socio deja de revisar tu trabajo a detalle: confía |
+| Senior → Counsel/Socio | Clientes y socios te buscan **a ti** por tu criterio o tu nicho |
+| → Socio de capital | Generas negocio propio: traes o retienes clientes que facturan |
+
+> **Regla práctica:** trabaja siempre **un nivel por encima del tuyo**. Como junior, compórtate
+> como el senior que quieres ser (toma ownership, anticipa). Como senior, empieza a pensar como
+> socio (¿de dónde vienen los clientes?, ¿cómo retengo a este?). El ascenso es el **reconocimiento**
+> de algo que ya estabas haciendo, no un premio que llega por antigüedad.
+
+---
+
+## VI. Errores que cuestan millones (de carrera)
+
+| Error | Por qué cuesta | Cómo evitarlo |
+|-------|----------------|---------------|
+| Medir tu valor solo por horas trabajadas | Las horas son insumo, no resultado | Mide impacto y confianza ganada |
+| Quedarte en la Moneda 1 para siempre | Techo de asociado, nunca dueño | Construye confianza y, pronto, red de clientes |
+| Esperar a ser senior para pensar en clientes | Llegas tarde al cuello de botella de socio | Cultiva relaciones desde junior |
+| Perseguir el título "socio" sin ver si es de capital | Techo dorado sin patrimonio real | Apunta a generar negocio = ser dueño |
+| Entregar "casi listo" | Le creas trabajo al socio; pierdes su confianza | Entrega listo para usar |
+| Quemar tu reputación interna temprano | Casi imposible de revertir | Cuida cada entrega los primeros 6 meses |
+
+---
+
+## VII. Tu turno (reflexión deliberada)
+
+1. **Ubícate.** ¿En qué peldaño estás hoy (estudiante/pasante)? ¿Cuál es la **única moneda** que
+   debes dominar ahora? (Pista: no es la #3 todavía.)
+2. **Define tu señal.** Escribe la conducta concreta que demostraría que estás listo para el
+   siguiente peldaño, y una acción de esta semana hacia ella.
+3. **Audita tu confiabilidad.** De las 6 conductas del manual del junior (sección IV), ¿cuál es tu
+   más débil? Diseña una forma de mejorarla en tu próxima entrega (de la escuela, de un trabajo,
+   de un ejercicio de la Columna III).
+
+---
+
+## VIII. Conexión (hacia dónde sigue)
+
+- **Sustento:** las tres monedas del [documento rector](./00_SISTEMA_DEL_SOCIO_AJE.md) y las fases
+  de la [Hoja de Ruta](../01_HOJA_DE_RUTA_AJE.md).
+- **Siguiente módulo:** **02 · Gestionar hacia arriba (*managing up*)** — cómo trabajar con un
+  socio de forma que aceleres tu paso por la pirámide y te vuelvas su persona de confianza.
+- **Aplicación inmediata:** las conductas del manual del junior (sección IV) **ya** las puedes
+  practicar como estudiante: en tus entregas, en un trabajo, en cómo cierras los ciclos con tus
+  profesores. La pirámide empieza antes del primer empleo formal.
+
+> **La idea que debe quedarte:** no asciendes por trabajar más, sino por **quitarle problemas a
+> quien está arriba** y, con el tiempo, por **traer clientes**. Sube de moneda, y subes de
+> peldaño.
+
+---
+
+*Sistema del Socio · Módulo 01 completado. Subordinado al Documento Fundacional AJE. Verifica
+títulos, tiempos y estructuras concretas en cada despacho y mercado.*
