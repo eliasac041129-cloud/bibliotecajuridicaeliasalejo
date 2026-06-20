@@ -450,3 +450,92 @@ tarea" (serían un jugador más). La batalla técnica está en esa definición.
   remedios diferentes sobre la misma operación.
 - **Cooperación entre agencias:** las autoridades intercambian información y, en cárteles globales,
   coordinan investigaciones. El programa de inmunidad en una jurisdicción interactúa con las demás.
+
+
+## 22. Derecho comparado
+
+⚠️ *Cada régimen concreto debe verificarse en la legislación vigente del país.*
+
+| Jurisdicción | Rasgos distintivos |
+|--------------|--------------------|
+| **México** | LFCE; autoridades autónomas **COFECE** (general) e **IFT** (telecom/radiodifusión); control de concentraciones por umbrales; prácticas absolutas (per se) y relativas (regla de la razón); programa de inmunidad. |
+| **EE. UU.** | Cuna del *antitrust*: **Sherman Act**, **Clayton Act**, **FTC Act**; aplicación por el **DOJ** y la **FTC**; notificación de fusiones **Hart-Scott-Rodino (HSR)**; fuerte componente penal en cárteles. |
+| **Unión Europea** | De los regímenes más robustos: arts. **101** (acuerdos) y **102** (abuso) del TFUE; control de concentraciones por la **Comisión Europea**; multas que llegan a **% de la facturación mundial**. |
+| **España** | **CNMC** (Comisión Nacional de los Mercados y la Competencia); régimen alineado con la UE. |
+| **Delaware** | No aplica aquí: la competencia es **federal** en EE. UU.; Delaware es derecho societario, no antitrust. (Evita confundir.) |
+| **Common law vs. Civil law** | Convergen en el método económico (mercado relevante, poder de mercado) y en la distinción cártel/abuso/concentración; las diferencias son de procedimiento y de intensidad sancionatoria. |
+
+> **Lección para el M&A *cross-border*:** los conceptos son universales, pero **cada jurisdicción
+> tiene su propio umbral y su propia autoridad**. Una operación global se notifica donde toque, y no
+> cierra hasta tener todas las autorizaciones.
+
+## 23. Derecho mexicano (régimen positivo)
+
+> **⚠️ Mapa conceptual; verificar artículos, umbrales y plazos vigentes.**
+
+- **Constitución:** prohíbe los **monopolios** y las prácticas monopólicas; manda proteger la
+  competencia y da base a la autoridad autónoma. ⚠️ *Artículo (tradicionalmente 28): verificar.*
+- **Ley Federal de Competencia Económica (LFCE):** define prácticas absolutas y relativas; regula las
+  **concentraciones** (umbrales, notificación previa, procedimiento, plazos); las facultades de
+  investigación y sanción; el **programa de inmunidad**; los recursos. ⚠️ *Artículos/umbrales:
+  verificar.*
+- **Autoridades:** **COFECE** (economía en general) e **IFT** (telecom y radiodifusión), ambos órganos
+  constitucionales autónomos. Sus resoluciones se impugnan ante **juzgados y tribunales especializados
+  en competencia** (vía amparo indirecto, con reglas especiales). ⚠️ *Verificar.*
+- **Disposiciones regulatorias** de la propia COFECE/IFT (criterios técnicos, guías de
+  concentraciones): el detalle operativo. ⚠️ *Verificar las vigentes.*
+
+## 24. Jurisprudencia relevante
+
+> ⚠️ *No se citan rubros ni números por no estar verificados (Principio Supremo). Localizar en el SJF
+> y en las resoluciones de COFECE/IFT.*
+
+Líneas que el estudiante debe saber que existen (y verificar):
+- Criterios sobre la **definición del mercado relevante** y la medición del **poder sustancial**.
+- Criterios sobre la **naturaleza per se** de las prácticas absolutas (no admiten justificación).
+- Criterios sobre el **debido proceso** en las investigaciones de competencia y el alcance del amparo.
+- Criterios sobre **concentraciones** y los requisitos de las condiciones/remedios.
+
+## 25. Criterios de la Suprema Corte
+
+La **SCJN** y los tribunales especializados han delineado el marco constitucional de la competencia:
+el alcance de la prohibición de monopolios, las garantías de **debido proceso** frente a las amplias
+facultades de la autoridad, y el equilibrio entre la **autonomía técnica** de la COFECE/IFT y el
+control judicial. ⚠️ *Tesis concretas: verificar en el SJF.* Para el abogado, lo relevante: las
+resoluciones de competencia **se pueden impugnar**, y el cómo (amparo especializado) es en sí una
+subespecialidad.
+
+## 26. Doctrina nacional
+
+México ha desarrollado doctrina de competencia sobre todo a partir de la creación de la autoridad
+moderna; dialoga estrechamente con la doctrina económica y comparada. ⚠️ *Autores y obras concretas:
+verificar antes de citar.* Lo esencial: la doctrina mexicana ha asimilado el **método económico**
+(mercado relevante, poder de mercado, análisis de efectos) propio de esta rama.
+
+## 27. Doctrina internacional
+
+La doctrina dominante es de raíz **estadounidense y europea**, profundamente **económica**: las
+escuelas de pensamiento (Harvard, Chicago, post-Chicago) debaten cuánta intervención es óptima; la UE
+aporta una tradición de fuerte aplicación, sobre todo en abuso de dominancia y concentraciones. Hoy el
+debate global se concentra en los **mercados digitales** (plataformas, datos, efectos de red) y en si
+las herramientas clásicas bastan para ellos. ⚠️ *Autores y documentos concretos: verificar.*
+
+## 28. Opiniones críticas (postura del Consejo)
+
+- **La competencia es una variable de diseño del deal, no un trámite final.** Pensarla desde el día
+  uno separa al abogado de M&A completo del que solo redacta.
+- **El *gun-jumping* es un riesgo subestimado.** La presión por "avanzar" entre firma y cierre lleva a
+  integraciones prematuras que cuestan multas y credibilidad. Disciplina: hasta el cierre autorizado,
+  **independientes**.
+- **El futuro es digital y el derecho va detrás.** Los mercados de plataformas y datos retan al
+  análisis clásico; quien domine esa frontera tendrá una ventaja enorme en la próxima década.
+
+## 29. Debate doctrinal (controversias vivas)
+
+- **¿Bienestar del consumidor vs. estructura del mercado?** ¿La competencia debe proteger solo precios
+  bajos al consumidor, o también la estructura competitiva (evitar concentración excesiva aunque baje
+  precios a corto plazo)? Debate central y reabierto por las grandes tecnológicas.
+- **¿Cuánta intervención en concentraciones?** El equilibrio entre permitir fusiones eficientes y
+  evitar poder dañino; el peso que se da a las **eficiencias** alegadas.
+- **Mercados digitales:** ¿bastan las herramientas clásicas para plataformas con efectos de red y
+  poder basado en datos, o hacen falta reglas nuevas? ⚠️ *Estado vigente: verificar.*
