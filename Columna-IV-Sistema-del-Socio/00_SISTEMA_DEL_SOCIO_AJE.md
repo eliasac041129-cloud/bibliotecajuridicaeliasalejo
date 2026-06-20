@@ -55,7 +55,7 @@ monedas**, y la mayoría solo conoce la primera:
 
 | # | Módulo | Pregunta que responde | Estado |
 |---|--------|------------------------|--------|
-| 01 | La pirámide del despacho | ¿Cómo se sube de pasante a socio y qué se mide en cada nivel? | 🟡 En construcción |
+| 01 | La pirámide del despacho | ¿Cómo se sube de pasante a socio y qué se mide en cada nivel? | ✅ Completo |
 | 02 | Gestionar hacia arriba (*managing up*) | ¿Cómo trabajo con un socio para volverme indispensable? | ⬜ |
 | 03 | Generación de negocio (*rainmaking*) | ¿Cómo se consiguen clientes y trabajo nuevo? | ⬜ |
 | 04 | La economía del despacho | ¿Cómo se reparte el dinero? ¿Qué es *leverage* y *PPP*? | ⬜ |
