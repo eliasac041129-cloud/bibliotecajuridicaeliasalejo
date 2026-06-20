@@ -85,7 +85,7 @@ no lectura pasiva:
 | # | Ejercicio | Entregable | Estado |
 |---|-----------|------------|--------|
 | 01 | El memorándum legal | Legal memo (formato IRAC/CREAC) | ✅ Completo |
-| 02 | La cláusula contractual | Redacción y *markup* de cláusulas | ⬜ |
+| 02 | La cláusula contractual | Redacción y *markup* de cláusulas | ✅ Completo |
 | 03 | El term sheet | Term sheet de adquisición | ⬜ |
 | 04 | Representaciones y garantías + disclosure | R&W y disclosure schedule | ⬜ |
 | 05 | El reporte de due diligence | DD report con *red flags* | ⬜ |

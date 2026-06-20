@@ -81,6 +81,7 @@
 ## 5. Columna III · Laboratorio Profesional — 🟡 en arranque
 - [00 · Laboratorio Profesional (documento rector)](./Columna-III-Laboratorio/00_LABORATORIO_PROFESIONAL_AJE.md)
 - [01 · El Memorándum Legal](./Columna-III-Laboratorio/01-El-Memorandum-Legal.md) — ✅
+- [02 · La Cláusula Contractual](./Columna-III-Laboratorio/02-La-Clausula-Contractual.md) — ✅
 
 ## 6. Columnas IV y V — ⬜ pendientes
 - Columna IV · Sistema del Socio.
