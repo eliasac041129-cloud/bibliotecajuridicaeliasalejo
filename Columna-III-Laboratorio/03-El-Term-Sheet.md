@@ -79,3 +79,93 @@ Las secciones típicas (orden y nombre varían, la sustancia no):
 10. **Exclusividad, confidencialidad, gastos** — las cláusulas **vinculantes**.
 11. **Calendario y condiciones de terminación.**
 12. **Naturaleza no vinculante** — la cláusula que separa lo que obliga de lo que no.
+
+
+---
+
+## IV. El encargo (mismo hilo: Proyecto Caramelo)
+
+> **De:** la Socia. **Para:** Tú. **Miércoles:**
+>
+> *"El cliente quiere mandar una oferta por Dulces del Valle. Acordamos en lo verbal: precio base
+> **$120 millones MXN** por el 100 % de las acciones, **70 % al cierre y 30 % a 18 meses** sujeto
+> a un **earn-out** por ventas, queremos **exclusividad de 60 días** para hacer el due diligence,
+> y obviamente confidencialidad. Romero ya aceptó la no-competencia de 3 años. **Arma el term
+> sheet.** Deja clarísimo qué obliga y qué no — no quiero que nos amarren a cerrar si el DD
+> revela un problema."*
+
+Tu trabajo: convertir un acuerdo verbal en un documento que ancle lo bueno y proteja a tu cliente
+de lo malo. Veamos el modelo.
+
+---
+
+## V. Modelo trabajado y anotado
+
+> **TERM SHEET — NO VINCULANTE (SALVO LAS SECCIONES INDICADAS)**
+> **PRIVILEGIADO Y CONFIDENCIAL**
+> *Adquisición del 100 % de Dulces del Valle, S.A. de C.V. ("Proyecto Caramelo")*
+>
+> **1. Partes.** Comprador: [●] ("**Comprador**"). Vendedor: Sr. Romero y demás accionistas
+> ("**Vendedores**"). Objeto: el 100 % de las acciones representativas del capital social de Dulces
+> del Valle, S.A. de C.V. (la "**Sociedad**").
+>
+> **2. Estructura.** Compraventa de acciones (*share deal*), libre de gravámenes, a la Fecha de
+> Cierre.
+>
+> **3. Precio base.** **$120,000,000 MXN** (el "**Precio Base**"), sujeto a los ajustes de la
+> Sección 5, pagadero: (a) **70 %** ($84,000,000) al Cierre; (b) **30 %** ($36,000,000) a los 18
+> meses, sujeto al *earn-out* de la Sección 4.
+>
+> **4. Earn-out.** El pago diferido se ajustará según las ventas netas de la Sociedad en los 18
+> meses posteriores al Cierre, conforme a la fórmula del **Anexo A**: 100 % si las ventas igualan o
+> superan **[●]**; reducción proporcional si son menores, con un piso de **[●]**.
+>
+> **5. Ajuste de precio.** El Precio Base se ajustará por (i) deuda neta y (ii) capital de trabajo
+> a la Fecha de Cierre, contra un objetivo (*target*) a acordar; mecánica de *completion accounts*.
+>
+> **6. Condiciones para el Cierre (*Conditions Precedent*).** (a) Due diligence legal, contable y
+> fiscal **satisfactorio** para el Comprador, a su entera discreción; (b) autorizaciones
+> corporativas y, en su caso, de competencia económica; (c) ausencia de cambio adverso relevante
+> (*MAC*); (d) entrega de la documentación del Cierre.
+>
+> **7. Declaraciones y garantías.** Las usuales para una operación de esta naturaleza, a detallar
+> en el SPA (situación de la Sociedad, contabilidad, contingencias fiscales y laborales,
+> propiedad de las acciones, cumplimiento legal).
+>
+> **8. Indemnización.** El SPA preverá indemnización por incumplimiento de declaraciones, con
+> *cap*, *basket* y plazos de supervivencia a negociar; retención (*holdback*) sobre el pago
+> diferido como garantía.
+>
+> **9. No competencia y no captación.** El Sr. Romero asumirá las obligaciones de no competencia y
+> no captación por **3 años** descritas en el **Anexo B** (ver Ejercicio 02).
+>
+> **10. Exclusividad (VINCULANTE).** Durante **60 días naturales** a partir de la firma, los
+> Vendedores no solicitarán, negociarán ni aceptarán ofertas de terceros respecto de la Sociedad
+> (*no-shop*).
+>
+> **11. Confidencialidad (VINCULANTE).** Las partes mantendrán confidencial la información
+> intercambiada y la existencia misma de estas negociaciones.
+>
+> **12. Gastos (VINCULANTE).** Cada parte asume sus propios gastos, salvo [●].
+>
+> **13. Ley aplicable y jurisdicción (VINCULANTE).** Leyes de [●]; tribunales de [●] / arbitraje.
+>
+> **14. Naturaleza no vinculante.** Salvo las **Secciones 10, 11, 12 y 13**, este documento refleja
+> únicamente la intención de las partes, **no crea obligación de celebrar la operación** y no será
+> vinculante. Ninguna parte tendrá obligación de cerrar hasta la firma del SPA definitivo.
+
+> ▸ **Anotaciones (por qué cada decisión):**
+> - **Encabezado:** desde el título se anuncia "NO VINCULANTE (SALVO…)". El lector no puede
+>   confundirse. Es lo primero y lo último (Sección 14) que dice el documento.
+> - **§3-4 (precio y earn-out):** se traduce el acuerdo verbal a números exactos. El *earn-out*
+>   reparte el riesgo: el Comprador no paga el 100 % por adelantado de un negocio cuyo desempeño
+>   futuro depende, en parte, de que el negocio siga vendiendo.
+> - **§6 (CP "a entera discreción"):** esta es la cláusula que pidió la Socia. Si el DD revela un
+>   problema, el Comprador **no está obligado a cerrar**. Es el seguro de vida del comprador.
+> - **§8 (holdback):** conecta indemnización con el pago diferido: si aparece una contingencia, se
+>   descuenta del 30 % aún no pagado. Remedio con dientes, sin tener que demandar.
+> - **§10 (exclusividad vinculante):** el Comprador va a gastar en abogados y auditores; exige que
+>   el Vendedor no lo use para subastar la empresa con otros. Por eso esta sí obliga.
+> - **§14 (la cláusula clave):** enumera **exactamente** qué secciones obligan. Sin esta sección,
+>   todo el documento sería un campo minado. Es la diferencia entre un term sheet profesional y una
+>   trampa.
