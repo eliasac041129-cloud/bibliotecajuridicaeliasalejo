@@ -154,8 +154,9 @@ puede pactarse con razonable seguridad de que un tribunal la haga cumplir?
 declarada parcial o totalmente inexigible.** La no competencia pactada como parte de la
 **compraventa de un negocio** (no como restricción laboral) se sostiene en la libertad
 contractual, pero encuentra dos límites: (i) el orden público y la libertad de comercio (art. 5º
-constitucional) y (ii) la prohibición de pactos que impidan a una persona dedicarse al comercio
-(art. 1255 y concordantes del Código Civil / criterios sobre cláusulas abusivas). La práctica de
+constitucional) y (ii) los límites del objeto lícito y de las cláusulas que aniquilan la libertad
+de comerciar (régimen general de contratos del Código Civil + criterios sobre cláusulas abusivas;
+**verificar el número de artículo aplicable**). La práctica de
 mercado y el estándar de **razonabilidad** (duración + territorio + actividad acotadas a lo que
 protege el *goodwill* comprado) sugieren un rango más defendible de **2 a 3 años** y un territorio
 **ligado a la zona real de operación**, con compensación expresa. Recomiendo ofrecer 3 años /
@@ -165,10 +166,11 @@ territorio nacional acotado por actividad, como posición negociadora.
 > Todo lo demás es soporte. Nota que la respuesta **ya trae la recomendación numérica** (2-3 años):
 > el cliente preguntó "hasta dónde apretar" y se le contesta con un número, no con teoría.*
 >
-> ▸ *Principio Supremo en acción: los artículos citados (5º constitucional; 1255 CC) van marcados
-> implícitamente como **a verificar contra el texto vigente y la legislación civil aplicable**
-> —federal o local—. Ver salvedades. No se inventa una tesis con número: se describe el criterio
-> y se ordena verificarlo.*
+> ▸ *Principio Supremo en acción: el art. 5º constitucional se cita con seguridad (es la base de
+> la libertad de trabajo, profesión y comercio); en cambio, el número exacto del artículo civil se
+> deja **marcado como "verificar"** en lugar de inventarlo. Ese es el modelo a imitar: afirma solo
+> lo que sostendrías ante un socio, y señala expresamente lo que falta confirmar. Nunca un número
+> de artículo "de memoria" presentado como certeza.*
 
 **3. Hechos relevantes**
 - Compra del 100 % de las acciones de Dulces del Valle, S.A. de C.V.
