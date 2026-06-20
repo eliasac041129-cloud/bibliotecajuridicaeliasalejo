@@ -84,7 +84,7 @@
 - [02 · El Sistema Diario](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) — plan operativo diario
 - [03 · Plan de Inglés Jurídico](./Columna-II-Hoja-de-Ruta/03_PLAN_DE_INGLES_JURIDICO_AJE.md) — la llave no negociable
 
-## 5. Columna III · Laboratorio Profesional — 🟡 en arranque
+## 5. Columna III · Laboratorio Profesional — 🟡 1er tramo completo (6 ejercicios)
 - [00 · Laboratorio Profesional (documento rector)](./Columna-III-Laboratorio/00_LABORATORIO_PROFESIONAL_AJE.md)
 - [01 · El Memorándum Legal](./Columna-III-Laboratorio/01-El-Memorandum-Legal.md) — ✅
 - [02 · La Cláusula Contractual](./Columna-III-Laboratorio/02-La-Clausula-Contractual.md) — ✅
