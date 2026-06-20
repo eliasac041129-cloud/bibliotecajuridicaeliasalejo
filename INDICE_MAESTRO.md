@@ -84,6 +84,7 @@
 - [02 · La Cláusula Contractual](./Columna-III-Laboratorio/02-La-Clausula-Contractual.md) — ✅
 - [03 · El Term Sheet](./Columna-III-Laboratorio/03-El-Term-Sheet.md) — ✅
 - [04 · Representaciones y Garantías + Disclosure](./Columna-III-Laboratorio/04-Representaciones-Garantias-y-Disclosure.md) — ✅
+- [05 · El Reporte de Due Diligence](./Columna-III-Laboratorio/05-El-Reporte-de-Due-Diligence.md) — ✅
 
 ## 6. Columnas IV y V — ⬜ pendientes
 - Columna IV · Sistema del Socio.

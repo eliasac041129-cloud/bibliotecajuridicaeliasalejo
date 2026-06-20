@@ -88,7 +88,7 @@ no lectura pasiva:
 | 02 | La cláusula contractual | Redacción y *markup* de cláusulas | ✅ Completo |
 | 03 | El term sheet | Term sheet de adquisición | ✅ Completo |
 | 04 | Representaciones y garantías + disclosure | R&W y disclosure schedule | ✅ Completo |
-| 05 | El reporte de due diligence | DD report con *red flags* | ⬜ |
+| 05 | El reporte de due diligence | DD report con *red flags* | ✅ Completo |
 | 06 | El closing checklist | Lista de cierre de una operación | ⬜ |
 
 > Se construyen **en secuencia**. El primero —el memorándum— es la base: todo lo demás se comunica,
