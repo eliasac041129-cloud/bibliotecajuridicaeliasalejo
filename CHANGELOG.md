@@ -20,6 +20,9 @@ columnas**, gobernado por seis principios rectores.
   preguntas antes de escribir y cómo se construye el proyecto.
 - **`01_HOJA_DE_RUTA_AJE.md`** — Columna II: estrategia profesional con 6 fases (de "apagar el
   incendio" a "asesor indispensable/élite"), plan de 90 días, guion de contactos e indicadores.
+- **`02_PLAN_OPERATIVO_DIARIO_AJE.md`** — El Sistema Diario: capa operativa que convierte todo el
+  repo en una rutina diaria (jerarquía de prioridad, día mínimo innegociable, semana modelo hora
+  por hora, tablero de hábitos, revisión semanal y protocolo de recaída).
 - **`INDICE_MAESTRO.md`** — mapa navegable de todo el repositorio.
 - **`CHANGELOG.md`** — esta bitácora.
 - **Columna III · Laboratorio Profesional** — primer tramo completo: documento rector + **6

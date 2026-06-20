@@ -15,7 +15,8 @@
 | 1 | [**00 · Documento Fundacional AJE**](./00_DOCUMENTO_FUNDACIONAL_AJE.md) | **Rector supremo.** Misión, visión, las 5 columnas, los 6 principios rectores. Se relee antes de cada libro y decisión. |
 | 2 | [**00 · Manifiesto Editorial**](./00_MANIFIESTO_EDITORIAL.md) | **Anexo de Estándar Editorial.** Cómo se escribe cada libro: estándar V3 (43 secciones), derecho comparado, control de calidad. Subordinado al Fundacional. |
 | 3 | [**01 · Hoja de Ruta AJE**](./01_HOJA_DE_RUTA_AJE.md) | **Columna II.** Estrategia profesional: qué hacer, cuándo y por qué — de la universidad a socio o fundador. |
-| 4 | [Índice Maestro](./INDICE_MAESTRO.md) · [Guía Metodológica](./GUIA-METODOLOGICA.md) · [Avance](./AVANCE.md) · [Changelog](./CHANGELOG.md) | Navegación, método de estudio, estado y bitácora de versiones. |
+| 4 | [**02 · El Sistema Diario**](./02_PLAN_OPERATIVO_DIARIO_AJE.md) | **Plan operativo.** Qué haces hoy, a qué hora y por cuánto tiempo. Convierte todo el repo en una rutina diaria. |
+| 5 | [Índice Maestro](./INDICE_MAESTRO.md) · [Guía Metodológica](./GUIA-METODOLOGICA.md) · [Avance](./AVANCE.md) · [Changelog](./CHANGELOG.md) | Navegación, método de estudio, estado y bitácora de versiones. |
 
 ---
 

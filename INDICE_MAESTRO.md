@@ -12,6 +12,7 @@
 | [00 · Documento Fundacional AJE](./00_DOCUMENTO_FUNDACIONAL_AJE.md) | **Rector supremo.** Misión, visión, 5 columnas, 6 principios. |
 | [00 · Manifiesto Editorial](./00_MANIFIESTO_EDITORIAL.md) | Anexo de Estándar Editorial (cómo se escribe cada libro · V3). |
 | [01 · Hoja de Ruta AJE](./01_HOJA_DE_RUTA_AJE.md) | Columna II · estrategia profesional. |
+| [02 · El Sistema Diario](./02_PLAN_OPERATIVO_DIARIO_AJE.md) | Plan operativo · qué haces hoy, hora por hora. |
 
 ## 2. Documentos de apoyo
 
