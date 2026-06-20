@@ -58,7 +58,7 @@ Tres palancas, en orden de importancia para alguien que parte de cero:
 | # | Módulo | Pregunta que responde | Estado |
 |---|--------|------------------------|--------|
 | 01 | Mentalidad patrimonial | ¿Cuál es la diferencia entre ganar, tener y ser libre? | ✅ Completo |
-| 02 | Finanzas personales del abogado | ¿Cómo ordeno mi dinero: presupuesto, deuda, emergencia? | ⬜ |
+| 02 | Finanzas personales del abogado | ¿Cómo ordeno mi dinero: presupuesto, deuda, emergencia? | ✅ Completo |
 | 03 | Construcción de patrimonio | ¿Cómo convierto ingreso en activos que crecen? | ⬜ |
 | 04 | Principios de inversión | ¿Cómo se invierte con cabeza (sin recetas ni promesas)? | ⬜ |
 | 05 | Protección y estructura | ¿Cómo protejo lo construido: seguros, fiscal, sucesión? | ⬜ |
