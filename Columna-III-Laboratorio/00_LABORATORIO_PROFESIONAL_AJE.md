@@ -86,7 +86,7 @@ no lectura pasiva:
 |---|-----------|------------|--------|
 | 01 | El memorándum legal | Legal memo (formato IRAC/CREAC) | ✅ Completo |
 | 02 | La cláusula contractual | Redacción y *markup* de cláusulas | ✅ Completo |
-| 03 | El term sheet | Term sheet de adquisición | ⬜ |
+| 03 | El term sheet | Term sheet de adquisición | ✅ Completo |
 | 04 | Representaciones y garantías + disclosure | R&W y disclosure schedule | ⬜ |
 | 05 | El reporte de due diligence | DD report con *red flags* | ⬜ |
 | 06 | El closing checklist | Lista de cierre de una operación | ⬜ |

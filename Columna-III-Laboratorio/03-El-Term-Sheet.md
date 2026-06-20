@@ -169,3 +169,96 @@ de lo malo. Veamos el modelo.
 > - **§14 (la cláusula clave):** enumera **exactamente** qué secciones obligan. Sin esta sección,
 >   todo el documento sería un campo minado. Es la diferencia entre un term sheet profesional y una
 >   trampa.
+
+
+---
+
+## VI. Errores que cuestan millones (en el term sheet)
+
+| Error | Por qué cuesta | Cómo evitarlo |
+|-------|----------------|---------------|
+| **No separar lo vinculante de lo no vinculante** | Una parte queda forzada a cerrar o a pagar daños | Sección expresa de naturaleza no vinculante con lista exacta |
+| **Conceder términos "porque no obligan"** | El ancla psicológica los vuelve casi irreversibles | Negocia cada punto como si fuera definitivo |
+| **Olvidar la exclusividad** | El vendedor te usa para subastar la empresa con otros | *No-shop* vinculante con plazo |
+| **Precio sin mecánica de ajuste** | Disputas brutales al cierre por capital de trabajo/deuda | Define ajuste (*locked box* o *completion accounts*) |
+| **Condiciones de cierre vagas** | El comprador queda atrapado si el DD revela problemas | CP "a entera discreción" o estándares claros |
+| **Earn-out mal definido** | Litigios sobre cómo se calcula el desempeño | Fórmula, periodo y fuente de datos en anexo |
+| **No pactar confidencialidad** | Se filtra la operación; daño reputacional y competitivo | Confidencialidad vinculante desde el inicio |
+
+---
+
+## VII. Glosario bilingüe
+
+| Español | Inglés | Nota |
+|---------|--------|------|
+| Carta de intención | *Term sheet / LOI / MOU* | El entregable de este ejercicio |
+| (No) vinculante | *(Non-)binding* | La distinción central |
+| Compra de acciones | *Share deal / stock purchase* | Estructura más común |
+| Compra de activos | *Asset deal* | Selecciona qué se compra |
+| Pago contingente por desempeño | *Earn-out* | Difiere precio según resultados |
+| Retención en garantía | *Escrow / holdback* | Garantiza indemnizaciones |
+| Condiciones para cerrar | *Conditions precedent (CP)* | Lo que debe cumplirse antes |
+| Exclusividad / no buscar otros | *No-shop / exclusivity* | Suele ser vinculante |
+| Penalización por ruptura | *Break-up fee* | Si una parte se retira |
+| Cambio adverso relevante | *Material Adverse Change (MAC)* | Permite no cerrar si algo grave pasa |
+| Tope de indemnización | *Cap* | Límite máximo de responsabilidad |
+| Franquicia / cesta | *Basket / de minimis* | Mínimo para reclamar |
+| Caja cerrada | *Locked box* | Mecanismo de fijación de precio |
+
+---
+
+## VIII. Tu turno (práctica deliberada)
+
+1. **Reescribe la Sección 14** (naturaleza no vinculante) en dos versiones: una que proteja al
+   **comprador** (máxima libertad para no cerrar) y otra que proteja al **vendedor** (que el
+   comprador no pueda retirarse sin costo). Compara: ¿quién tiene más poder en cada una?
+
+2. **Diseña un earn-out** para Dulces del Valle: define la métrica (ventas netas vs. EBITDA),
+   el periodo, el umbral y qué pasa si el comprador, tras la compra, toma decisiones que reducen
+   las ventas (protección del vendedor). Pista: el *earn-out* es la fuente #1 de litigios post-cierre.
+
+3. **Term sheet de inversión (VC, Columna I IV-07).** Un fondo quiere invertir $10M en una startup
+   por el 20 %. Redacta un term sheet con: valuación (*pre/post-money*), tipo de acciones
+   (preferentes), liquidación preferente, antidilución y *vesting* de fundadores. Marca qué
+   verificarías.
+
+4. **Caza-trampas.** Te pasan un term sheet donde la Sección de "naturaleza no vinculante" dice:
+   *"Este documento es no vinculante, salvo lo que las partes acuerden de buena fe."* Explica por
+   qué esa redacción es peligrosa y reescríbela.
+
+---
+
+## IX. Rúbrica de autoevaluación
+
+| Criterio | 1 (deficiente) | 5 (nivel asociado) |
+|----------|----------------|---------------------|
+| **Vinculante vs. no vinculante** | Ambiguo | Lista exacta de secciones que obligan |
+| **Precio y pago** | "Se pagará el precio" | Monto, tramos, fechas, ajuste, earn-out |
+| **Protección del cliente** | Atrapa a tu parte | CP, exclusividad, holdback bien puestos |
+| **Estructura clara** | Mezcla todo | Secciones ordenadas, anexos para el detalle |
+| **Visión de negocio** | Solo copia términos | Entiende por qué cada término reparte riesgo |
+| **Integridad** | Inventa cifras/normas | Marca [●] lo pendiente y "verificar" lo dudoso |
+| **Bilingüismo** | Solo español | Domina los términos en inglés |
+
+---
+
+## X. Conexión (hacia dónde sigue)
+
+- **Sustento (Columna I):** Fundamentos de M&A (IV-01) y Estructuras (IV-03) explican el "qué";
+  aquí lo plasmas. La Negociación (V-01) explica el "cómo" del ancla psicológica.
+- **Ejercicios anteriores:** del **memo** (01) al **clausulado** (02) al **documento de
+  operación** (03). Cada nivel sube la apuesta.
+- **Siguiente ejercicio:** **04 · Representaciones y Garantías + Disclosure** — el corazón del SPA
+  y la fuente #1 de pleitos post-cierre: lo que el vendedor *promete* y lo que *revela* para no
+  responder.
+- **Etapa de la Hoja de Ruta:** entender el term sheet te hace pasar de "el que redacta" a "el que
+  entiende la operación". Ese salto es el que te acerca a la mesa donde se decide.
+
+> **La idea que debe quedarte:** el term sheet no es un resumen, es el **campo de batalla
+> económico** de la operación. Lo que ganas o cedes aquí define el resto. Y la cláusula que dice
+> qué obliga y qué no es la más importante del documento.
+
+---
+
+*Laboratorio · Ejercicio 03 completado. Subordinado al Documento Fundacional AJE. Los modelos son
+plantillas didácticas, no asesoría legal: verifica toda norma y adapta cada operación a su caso.*
