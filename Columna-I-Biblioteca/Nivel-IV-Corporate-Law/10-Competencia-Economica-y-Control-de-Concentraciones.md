@@ -294,3 +294,68 @@ daño contra la eficiencia.
 > **La distinción que debes dominar:** *cárteles = entre competidores = ilegales siempre (per se);
 > abuso = de un dominante = ilegal solo si daña (regla de la razón).* Confundirlas es el error
 > conceptual #1 en esta materia.
+
+
+### 14.C · Pilar 3: el control de concentraciones (la pieza de tu M&A)
+
+Aquí es donde la competencia y tu especialidad se tocan directamente. Una **concentración** es una
+operación que une el control de empresas antes independientes —exactamente lo que hace una M&A—. El
+Estado no las prohíbe (la mayoría son benéficas), pero **vigila las grandes** para que no creen o
+refuercen un poder de mercado dañino. La mecánica, paso a paso:
+
+**1. ¿Hay que notificar? (los umbrales).** No toda compra se notifica: solo las que **superan ciertos
+umbrales** de tamaño (medidos en el valor de la operación, en los activos/ventas de las partes, o en
+porcentajes de participación accionaria). Si la operación los rebasa, la notificación es
+**obligatoria y previa al cierre**. ⚠️ *Los umbrales exactos (expresados en UMA) cambian: verificar
+los vigentes — este es el dato que más se actualiza.*
+
+**2. La regla de oro: notificar y ESPERAR (*standstill*).** Si la operación se debe notificar, las
+partes **no pueden consumarla** hasta obtener la resolución favorable. Pueden firmar el contrato, pero
+el **cierre** queda **condicionado** a la autorización. Cerrar antes es ***gun-jumping***.
+
+**3. El análisis de la autoridad.** Recibida la notificación, la autoridad (COFECE o IFT) analiza si
+la operación **dañaría la competencia**: define el mercado relevante, mide la concentración resultante
+(participaciones, HHI), evalúa barreras de entrada, el poder de los clientes y las posibles
+**eficiencias** que la operación genere. La pregunta central: *¿esta unión creará o reforzará un poder
+de mercado capaz de dañar el proceso competitivo y al consumidor?*
+
+**4. Los tres desenlaces posibles.**
+- **Autorización lisa y llana:** la mayoría; la operación no preocupa.
+- **Autorización condicionada (con remedios):** se autoriza **si** las partes cumplen condiciones —las
+  más típicas, **desinvertir** (vender) un activo, una marca o una línea de negocio para preservar la
+  competencia; o remedios de conducta (dar acceso a una red, no discriminar)—.
+- **Bloqueo (objeción):** se niega la autorización porque el daño es grave e irremediable. Mata el
+  deal.
+
+**5. Los plazos.** El análisis tiene plazos legales que pueden ir de semanas a **varios meses** según
+la complejidad (hay un procedimiento simplificado para casos claros y uno ordinario para los
+complejos). ⚠️ *Plazos concretos: verificar.* Esto es crítico para el **calendario** del deal.
+
+> **Errores que cuestan millones — *gun-jumping*:** consumar la operación (o empezar a integrar las
+> empresas, intercambiar información sensible o coordinar precios) **antes** de la autorización. Las
+> consecuencias: **multas severas, nulidad de la operación** y, a veces, tener que **deshacer** todo
+> (*divestiture*). El abogado de M&A debe blindar el *gun-jumping*: hasta el cierre autorizado, las
+> empresas **siguen siendo independientes y compiten** — nada de "ya somos uno".
+
+### 14.D · Cómo se integra la competencia en el diseño del deal
+
+Para el abogado corporativo, la competencia se traduce en cláusulas y decisiones concretas (conecta
+con el Libro 4 y el Laboratorio):
+
+- **Condición de cierre (*condition precedent*):** "el cierre está sujeto a obtener la autorización de
+  competencia". Es la forma de respetar el *standstill*.
+- **Reparto del riesgo regulatorio:** ¿qué pasa si la autoridad **condiciona** o **bloquea**? Se
+  negocia: cláusulas de "**esfuerzos**" (¿*best efforts* o *hell-or-high-water*, donde el comprador se
+  obliga a desinvertir lo que sea para lograr la autorización?), *break-up fee* regulatorio (quién
+  paga si se cae por competencia), y plazos máximos (*long-stop date*) para obtenerla.
+- ***Covenants* de cooperación:** ambas partes se obligan a presentar la notificación, aportar
+  información y cooperar para obtener la autorización.
+- ***Covenants* anti-gun-jumping:** hasta el cierre, prohibición de integrar, compartir información
+  competitivamente sensible o coordinar conductas.
+- **Calendario realista:** el *deal* debe contemplar los **meses** que puede tardar la autorización.
+
+> **Cómo piensa un socio de M&A:** la pregunta de competencia se hace **el día uno**: *"¿esto se
+> notifica? ¿hay riesgo de condiciones o bloqueo? ¿quién carga ese riesgo?"*. De la respuesta dependen
+> el calendario, el precio y hasta si vale la pena intentar el deal. Un comprador que necesita
+> certeza exigirá que el vendedor cargue el riesgo regulatorio; un vendedor fuerte lo trasladará al
+> comprador. Esa negociación —invisible para el novato— puede valer tanto como el precio.
