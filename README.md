@@ -1,46 +1,70 @@
-# Biblioteca Jurídica Elias Alejo · Ruta a Abogado Corporativo de Clase Mundial
+# Proyecto AJE · Arquitecto Jurídico Empresarial
 
-> Colección de tratados diseñada para formar, desde cero, a un jurista mexicano capaz de
-> incorporarse a un despacho líder en Derecho Corporativo y desarrollarse hacia una práctica
-> de excelencia en **Fusiones y Adquisiciones (M&A)**.
-
-> 📜 **Documento rector:** antes que este README, lee el
-> [**00 · Manifiesto Editorial**](./00_MANIFIESTO_EDITORIAL.md) — la "Constitución" de la
-> biblioteca: su visión, principios y estándar de calidad.
+> **De una biblioteca a un sistema.** Lo que empezó como la *Biblioteca Jurídica Elias Alejo*
+> es hoy, en su **versión 2.0**, un **sistema integral de formación** —jurídica, empresarial,
+> profesional y patrimonial— diseñado para transformar la forma de pensar, analizar, decidir y
+> actuar de su lector, hasta convertirlo en un **asesor indispensable** para quienes toman las
+> decisiones empresariales más importantes.
 
 ---
 
-## Filosofía de la biblioteca
+## 📜 Jerarquía de documentos (léelos en este orden)
 
-Esta biblioteca **no prepara estudiantes para aprobar**: forma abogados.
-
-- No enseña artículos. Enseña **pensamiento jurídico**.
-- No enseña memoria. Enseña **criterio**.
-- No enseña únicamente Derecho. Enseña **cómo funciona el mundo empresarial**.
-
-Cada capítulo está escrito como lo escribiría un profesor universitario extraordinario:
-con profundidad doctrinal, rigor histórico, sentido práctico y vocación de litigio,
-contrato y operación. Nada de relleno. Todo aporta valor.
-
-El objetivo es que, al terminar la colección, el lector tenga una preparación
-**equivalente o superior a la de un egresado sobresaliente de la Facultad de Derecho
-de la UNAM**, con base conceptual suficiente para integrarse a un despacho líder en
-Derecho Corporativo y crecer hacia una práctica de élite en M&A.
+| Orden | Documento | Qué es |
+|-------|-----------|--------|
+| 1 | [**00 · Documento Fundacional AJE**](./00_DOCUMENTO_FUNDACIONAL_AJE.md) | **Rector supremo.** Misión, visión, las 5 columnas, los 6 principios rectores. Se relee antes de cada libro y decisión. |
+| 2 | [**00 · Manifiesto Editorial**](./00_MANIFIESTO_EDITORIAL.md) | **Anexo de Estándar Editorial.** Cómo se escribe cada libro: estándar V3 (43 secciones), derecho comparado, control de calidad. Subordinado al Fundacional. |
+| 3 | [**01 · Hoja de Ruta AJE**](./01_HOJA_DE_RUTA_AJE.md) | **Columna II.** Estrategia profesional: qué hacer, cuándo y por qué — de la universidad a socio o fundador. |
+| 4 | [Índice Maestro](./INDICE_MAESTRO.md) · [Guía Metodológica](./GUIA-METODOLOGICA.md) · [Avance](./AVANCE.md) · [Changelog](./CHANGELOG.md) | Navegación, método de estudio, estado y bitácora de versiones. |
 
 ---
 
-## Arquitectura: cinco niveles
+## El sistema: cinco columnas
+
+El Proyecto AJE se compone de cinco sistemas inseparables. **No se construyen todos a la vez**:
+se levantan **en secuencia**, según lo que el lector necesita en cada etapa.
+
+| Columna | Nombre | Pregunta que responde | Estado |
+|---------|--------|------------------------|--------|
+| **I** | **Biblioteca Jurídica** | ¿Qué debo aprender? | ✅ Completa (5 niveles · 36 tratados) |
+| **II** | **Hoja de Ruta** | ¿Qué hacer, cuándo y por qué? | ✅ Completa |
+| **III** | **Laboratorio Profesional** | ¿Cómo trabaja de verdad un abogado corporativo? | 🟡 En arranque |
+| **IV** | **Sistema del Socio** | ¿Cómo se construye una carrera jurídica extraordinaria? | ⬜ Pendiente |
+| **V** | **Patrimonio y Libertad Financiera** | ¿Cómo administrar la riqueza que genera la carrera? | ⬜ Pendiente |
+
+> **La secuencia, en una frase:** primero **saber** (I) y **saber qué hacer** (II) — ahora;
+> luego **saber hacer** (III) — al ejercer; después **saber dirigir** (IV) y **saber administrar
+> la riqueza** (V) — con carrera y patrimonio.
+
+---
+
+## Columna I · La Biblioteca Jurídica (cinco niveles)
+
+El corazón de conocimiento del proyecto. **No prepara estudiantes para aprobar: forma abogados.**
+No enseña artículos, enseña **pensamiento jurídico**; no enseña memoria, enseña **criterio**.
 
 | Nivel | Nombre | Objetivo formativo |
 |------|--------|--------------------|
 | **I** | [Fundamentos](./Nivel-I-Fundamentos/) | Construir la **arquitectura mental** del Derecho: por qué existen las instituciones. |
 | **II** | [Derecho Civil Profundo](./Nivel-II-Derecho-Civil-Profundo/) | Dominar el derecho privado común: obligaciones, contratos, responsabilidad, garantías. |
 | **III** | [Derecho Mercantil](./Nivel-III-Derecho-Mercantil/) | Convertirse en especialista: sociedades, títulos de crédito, mercado de valores, concursos. |
-| **IV** | [Corporate Law](./Nivel-IV-Corporate-Law/) | El verdadero objetivo: M&A, due diligence, PE/VC, gobierno corporativo, compliance. |
+| **IV** | [Corporate Law](./Nivel-IV-Corporate-Law/) | El verdadero objetivo: M&A, due diligence, financiamiento, contratos estratégicos, PE/VC, gobierno corporativo. |
 | **V** | [Maestría](./Nivel-V-Maestria/) | Pensar como socio de un despacho internacional: finanzas, valuación, negociación, estrategia. |
 
 > La progresión es **acumulativa**: cada nivel expande, conecta y profundiza lo anterior.
 > No se repiten conceptos; se elevan.
+
+---
+
+## Los seis principios rectores (resumen)
+
+1. **(SUPREMO) Integridad Intelectual y Verificación** — nunca inventar; marcar lo que debe
+   verificarse contra el texto vigente; sustancia sobre apariencia.
+2. **Integridad Ética** — la reputación es el mayor activo; crear valor, no engañar.
+3. **Realismo y Ejecución** — la ambición atada a acciones concretas y de hoy; bloques pequeños.
+4. **Valor (no dinero)** — el dinero es consecuencia del valor profesional creado.
+5. **Conexión** — nada se estudia aislado; todo es un único sistema intelectual.
+6. **Bilingüismo** — la élite del Derecho corporativo opera en inglés; el inglés es la llave.
 
 ---
 
@@ -57,29 +81,24 @@ El detalle está en [PLANTILLA-LIBRO.md](./PLANTILLA-LIBRO.md).
 
 ---
 
-## Cómo estudiar esta biblioteca
+## Cómo se construye (el medio importa)
 
-Ver la [Guía Metodológica de Aprendizaje](./GUIA-METODOLOGICA.md), construida sobre
-principios de **práctica deliberada**, **repaso espaciado** y **memoria de largo plazo**.
-
-Recomendación general:
-
-1. Lee el **Resumen ejecutivo** (sección 28) para mapear el terreno.
-2. Estudia el cuerpo doctrinal (secciones 1–18) con lectura activa.
-3. Resuelve **casos y preguntas** (secciones 19–22) sin ver la respuesta.
-4. Consolida con **flashcards, mapas, cuadros y mnemotecnias** (23–26).
-5. Aplica el **checklist** (27) como un profesional.
-6. Sigue la **ruta** (30) hacia el siguiente libro.
+- **Control de versiones (git/GitHub).** La **V1.0 está sellada en la rama `v1.0`** (foto
+  congelada de la biblioteca completa); el desarrollo de la V2.0 continúa en `main` sin dañarla.
+- **Construcción incremental en bloques pequeños**, con *commit* y *push* tras cada bloque.
+- **Navegabilidad y trazabilidad:** índice maestro, prerrequisitos y conexiones declaradas.
+- **Honestidad del medio:** se construye con apoyo de IA, bajo el Principio Supremo de
+  Integridad Intelectual — la herramienta acelera, no sustituye la verificación ni el criterio.
 
 ---
 
 ## Estado de avance
 
-La biblioteca se construye **incrementalmente**. Consulta
-[AVANCE.md](./AVANCE.md) para ver qué tratados están completos, en proceso o pendientes.
+Consulta [AVANCE.md](./AVANCE.md) (tablero de control de la biblioteca y de las columnas) y
+[CHANGELOG.md](./CHANGELOG.md) (bitácora de versiones V1 → V2).
 
 ---
 
-*Equipo editorial conceptual: cátedra de Derecho (UNAM), práctica de M&A de despachos
-internacionales y mexicanos líderes, academia jurídica comparada, edición jurídica
-profesional y diseño instruccional de aprendizaje acelerado.*
+*Equipo editorial conceptual: cátedra de Derecho (UNAM, ITAM), práctica de M&A de despachos
+internacionales y mexicanos líderes, academia jurídica comparada, edición jurídica profesional
+y diseño instruccional de aprendizaje acelerado.*
