@@ -654,3 +654,159 @@ verificar.*
 - **Justicia de la fiscalidad internacional:** el debate global (impuesto mínimo, dónde tributan las
   multinacionales y las grandes tecnológicas) sigue abierto y reescribiéndose. ⚠️ *Estado vigente:
   verificar.*
+
+
+## 30. Errores comunes
+
+| Error | Por qué es un error |
+|-------|---------------------|
+| Dejar lo fiscal "para el final" del deal | La estructura ya se decidió sin optimizarla; el impuesto se vuelve un costo evitable |
+| Confundir precio nominal con precio real | El precio real es **después de impuestos**; ignorar esto pierde dinero en la negociación |
+| Creer que comprar acciones evita todos los problemas | Heredas **toda** la historia fiscal y las contingencias del target |
+| Asumir que "compras las pérdidas fiscales" del target | Las reglas anti-traspaso por cambio de control suelen limitarlas o anularlas |
+| Diseñar una "reorganización neutral" descuidando requisitos | Un requisito incumplido **pierde la neutralidad**: la operación pasa a ser gravada |
+| Confundir elusión (legal) con evasión (delito) | Cruzar esa línea destruye al cliente y al abogado |
+| Memorizar tasas y artículos como si fueran fijos | Cambian cada año; lo que perdura es la **lógica** |
+| Olvidar el IVA en un asset deal | Puede aparecer un impuesto al consumo que no estaba en el modelo |
+
+## 31. Mitos frecuentes
+
+- **"Planear impuestos es ilegal / inmoral."** Falso: elegir, entre opciones legales, la más
+  eficiente es un **derecho** (economía de opción). Lo ilegal es ocultar o simular.
+- **"Si está en Delaware / una isla, no paga impuestos."** Falso y peligroso: Delaware da ventaja
+  **societaria**, no fiscal; y las estructuras *offshore* sin sustancia son hoy un imán de auditorías
+  y sanciones.
+- **"La neutralidad fiscal exenta el impuesto."** Falso: lo **difiere**; el costo fiscal viaja con los
+  activos y se paga al enajenar a un tercero.
+- **"Si mi estructura es formalmente legal, es intocable."** Falso desde la cláusula anti-abuso: sin
+  **razón de negocios**, puede recaracterizarse.
+- **"El fiscal es cosa del contador, no del abogado."** Falso: la estructura jurídica y la fiscal son
+  inseparables; el abogado corporativo que las integra es el valioso.
+
+## 32. Preguntas difíciles (para pensar como experto)
+
+1. ¿Cuándo una "razón de negocios" es suficiente para sostener una estructura? ¿Basta *alguna* razón,
+   o debe ser la *preponderante*? (Frontera del anti-abuso.)
+2. Si comprador y vendedor prefieren estructuras fiscales opuestas, ¿cómo diseñas una que **agrande el
+   pastel después de impuestos** y repartes ese beneficio en el precio?
+3. ¿Vale la pena comprar un target por sus pérdidas fiscales si las reglas anti-traspaso las limitan?
+   ¿Cómo lo modelas?
+4. ¿Hasta dónde puede el fisco ignorar la forma jurídica elegida sin vulnerar la **seguridad
+   jurídica** del contribuyente?
+5. En una operación *cross-border*, ¿cómo evitas la doble tributación sin caer en *treaty shopping*?
+
+## 33. Casos de examen (con respuesta modelo)
+
+**Caso A.** *Una empresa vende un inmueble que compró en 100 y hoy vale 300. ¿Sobre qué monto paga
+impuesto y por qué?*
+> **Respuesta modelo:** sobre la **ganancia** (≈ 300 − costo fiscal actualizado de 100 = 200), no
+> sobre los 300. El impuesto a la renta grava la **riqueza nueva realizada**, no el valor total. ⚠️
+> *La actualización del costo y la tasa: verificar LISR vigente.*
+
+**Caso B.** *Comprador y vendedor discuten si la operación será share o asset deal. Explica el
+conflicto fiscal.*
+> **Respuesta modelo:** el comprador suele preferir **asset deal** (step-up para depreciar más, deja
+> contingencias atrás); el vendedor suele preferir **share deal** (un solo impuesto, régimen de
+> acciones más benigno, evita la doble carga). Se resuelve negociando estructura **y** precio.
+
+**Caso C.** *¿Por qué una fusión bien hecha no paga impuesto y una mal hecha sí?*
+> **Respuesta modelo:** por el régimen de **neutralidad**, que **difiere** el impuesto si se cumplen
+> los requisitos (continuidad accionaria y del negocio, formalidades, razón de negocios). Incumplir
+> uno hace **perder la neutralidad** y la operación se grava. ⚠️ *Requisitos: verificar.*
+
+## 34. Simulador (ejercicio tipo despacho)
+
+> **Rol:** asociado del área corporativa, apoyando al fiscalista. **Cliente:** "Compradora, S.A.",
+> quiere adquirir "Dulces del Valle" (¡el del Laboratorio!). **Hechos:** Dulces del Valle tiene
+> pérdidas fiscales acumuladas, un inmueble muy apreciado, y una contingencia fiscal en revisión por
+> el SAT. La socia te pide un **memo de estructura fiscal preliminar**.
+>
+> **Tu tarea:** (1) recomienda share vs. asset deal y por qué, considerando las pérdidas (¿se
+> aprovechan tras el cambio de control?), el inmueble (step-up vs. heredar costo histórico) y la
+> contingencia (¿quién la carga?); (2) propón **protecciones contractuales** (tax indemnity, escrow,
+> R&W fiscales, condición de cierre); (3) marca **qué debes verificar** con el fiscalista y contra la
+> ley vigente. Usa el formato de memo del Laboratorio (Ej. 01) y conecta con R&W (Ej. 04).
+>
+> *No hay una sola respuesta correcta: se evalúa que identifiques las tensiones fiscales, conectes
+> con las protecciones del SPA y marques honestamente lo no verificado.*
+
+## 35. Flashcards (recuperación activa)
+
+- ¿Qué grava el ISR: ingreso o utilidad? → **La utilidad** (ingresos − deducciones).
+- ¿Para qué sirve la CUFIN? → Para evitar **doble impuesto** al repartir utilidades ya gravadas.
+- ¿Intereses y dividendos: cuál es deducible? → **Intereses** sí (con límites); dividendos no.
+- ¿Share deal o asset deal hereda contingencias? → **Share deal** (compras la sociedad entera).
+- ¿Qué es el step-up? → Registrar activos comprados a su valor de compra → más depreciación
+  deducible (típico del **asset deal**).
+- ¿La neutralidad exenta o difiere? → **Difiere** el impuesto.
+- ¿Elusión vs. evasión? → Elusión = legal (organizar); evasión = ilegal (ocultar/simular).
+- ¿Qué activa la cláusula anti-abuso? → Operaciones **sin razón de negocios** cuyo único fin es el
+  beneficio fiscal.
+- ¿Qué son precios de transferencia? → Que operaciones entre partes relacionadas se pacten a valor de
+  mercado (*arm's length*).
+
+## 36. Mapa mental (estructura jerárquica)
+
+```
+FISCAL CORPORATIVO
+├── Lógica del ISR
+│   ├── Ingresos − Deducciones = Base × Tasa
+│   ├── Dividendo / CUFIN (doble imposición)
+│   └── Deuda (deducible) vs. Capital (no)
+├── Fiscalidad del deal
+│   ├── Share deal (vendedor; hereda historia/contingencias)
+│   └── Asset deal (comprador; step-up; posible IVA)
+├── Reorganizaciones
+│   └── Neutralidad = diferimiento condicionado (fusión/escisión)
+├── Planeación
+│   ├── Elusión / economía de opción (LEGAL)
+│   ├── Diferimiento · regímenes · estructura
+│   └── Límite: razón de negocios + anti-abuso (GAAR)
+├── Evasión (ILEGAL: simulación, ocultamiento) → delito
+└── Internacional
+    ├── Tratados (doble tributación)
+    ├── Precios de transferencia (arm's length)
+    └── BEPS / sustancia
+```
+
+## 37. Cuadros comparativos
+
+**Elusión vs. evasión** (el cuadro que nunca debes olvidar):
+
+| | Elusión | Evasión |
+|---|---|---|
+| Legalidad | Legal | Ilegal (delito) |
+| Realidad económica | Verdadera | Fingida/oculta |
+| Frente a auditoría | Se sostiene | Se derrumba |
+| Resultado | Ahorro legítimo | Multas, recargos, cárcel |
+
+**Deuda vs. capital** (para financiar):
+
+| | Deuda | Capital |
+|---|---|---|
+| Costo que paga | Intereses | Dividendos |
+| ¿Deducible? | Sí (con límites) | No |
+| Riesgo | Obliga a pagar; puede llevar a insolvencia | No obliga, pero diluye/no deduce |
+
+## 38. Diagramas (flujo de una decisión de estructura)
+
+```
+¿Adquisición?
+   │
+   ├─ ¿El target tiene contingencias/pasivos ocultos? ──Sí──► inclina a ASSET DEAL
+   │                                                   └No──► share deal viable
+   ├─ ¿Importa el step-up (activos muy apreciados)? ───Sí──► inclina a ASSET DEAL
+   ├─ ¿El vendedor exige carga fiscal mínima? ─────────Sí──► inclina a SHARE DEAL
+   └─ En todo caso: ¿hay RAZÓN DE NEGOCIOS y se puede DOCUMENTAR? 
+            └─ No ► RIESGO de anti-abuso: rediseñar
+            └─ Sí ► estructurar + verificar con fiscalista + ley vigente
+```
+
+## 39. Mnemotecnias
+
+- **"La SUSTANCIA vence a la FORMA"** — la frase que resume el fiscal moderno.
+- **"DI-RE-ES": las 3 vías legales** — **DI**ferir, aprovechar **RE**gímenes, elegir **ES**tructura.
+- **"El vendedor ama las Acciones; el comprador ama los Activos"** — para recordar la preferencia en
+  el deal (ambos empiezan con A, pero opuestos: **Acciones** = vendedor, **Activos** = comprador).
+- **"Neutral = se Difiere, no se borra."**
+- **"Sin Razón de Negocios, no hay estructura que aguante."**
