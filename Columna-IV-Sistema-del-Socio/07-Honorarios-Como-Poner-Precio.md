@@ -138,3 +138,103 @@ contener, como mínimo:
 > anticipo (provisión de fondos) antes de empezar.** El que paga un anticipo es un cliente serio;
 > el que se niega a cualquier anticipo suele ser el que no te pagará al final. El anticipo separa a
 > los clientes de los que te harán perder el tiempo.
+
+
+---
+
+## V. Cómo negociar tus honorarios (sin regalar tu trabajo)
+
+El cliente casi siempre intentará bajar el precio. Negociar honorarios es una aplicación directa
+de la Biblioteca V-01 (Negociación). Tácticas que funcionan:
+
+1. **Ancla primero y ancla alto (con justificación).** El primer número fija el rango de toda la
+   negociación. Si empiezas bajo "para no asustar", ya perdiste. Enuncia tu precio objetivo con
+   seguridad y explica el **valor** que lo respalda.
+2. **Vende el valor, no el tiempo.** No digas "son 20 horas"; di "esto protege tu operación de X
+   riesgo / te ahorra Y / asegura Z". El cliente paga por el resultado, no por tu esfuerzo.
+3. **Si bajas el precio, baja también el alcance.** Nunca regales el mismo trabajo más barato:
+   eso le dice al cliente que tu precio inicial era inflado. Di: "puedo ajustar el precio si
+   reducimos el alcance a esto". Así proteges la percepción de tu valor.
+4. **Ofrece opciones (anclaje por contraste).** Presenta dos o tres paquetes (básico / completo /
+   premium). El cliente deja de preguntarse "¿sí o no?" y empieza a elegir "¿cuál?". Casi siempre
+   escoge el de en medio.
+5. **No te disculpes ni titubees con el precio.** La duda en tu voz es una invitación a regatear.
+   Enúncialo, calla y deja que el cliente responda. El silencio después del número es poderoso.
+
+> **Cuando dicen "está muy caro":** no bajes el precio de inmediato. Pregunta: *"¿comparado con
+> qué?"* o *"¿qué presupuesto tenías en mente?"*. Muchas veces "está caro" significa "no me has
+> explicado el valor todavía". Reencuadra hacia lo que el cliente gana o evita. Si de verdad no
+> hay presupuesto, ajusta el **alcance**, no regales el trabajo.
+
+---
+
+## VI. Errores que cuestan millones (de honorarios)
+
+| Error | Por qué cuesta | Cómo evitarlo |
+|-------|----------------|---------------|
+| **Subvaluarte** (*underpricing*) | Trabajas mucho, ganas poco, y el cliente te valora menos | Cobra por valor; el precio comunica calidad |
+| **No definir el alcance** → *scope creep* | El cliente pide "una cosita más" sin parar, gratis | Alcance por escrito + tarifa para lo adicional |
+| **Trabajar sin carta de honorarios** | Pleitos por el pago; trabajo no cobrado | Acuerdo escrito antes de empezar, siempre |
+| **No cobrar anticipo** | El cliente desaparece sin pagar | Provisión de fondos antes de arrancar |
+| **Cobrar por hora cuando creaste gran valor** | Dejas millones en la mesa | Usa cuota fija/híbrido/éxito según el valor |
+| **Disculparte por tu precio** | Invitas al regateo; pierdes autoridad | Enúncialo con naturalidad y calla |
+| **Bajar el precio sin bajar el alcance** | Admites que inflabas; erosionas tu valor | Menos precio = menos alcance |
+
+> **El error rey: el *scope creep*.** Es la fuga de dinero #1 del abogado. El cliente, poco a poco,
+> pide más de lo pactado ("ya que estás, revísame también esto"). Sin un alcance escrito y una
+> regla de cobro para lo adicional, terminas haciendo el doble por el mismo precio. Aprende a decir,
+> con amabilidad: *"con gusto; eso queda fuera del alcance que acordamos, te paso la cotización del
+> adicional."*
+
+---
+
+## VII. Glosario bilingüe
+
+| Español | Inglés | Nota |
+|---------|--------|------|
+| Honorarios | *Fees* | Lo que cobras |
+| Por hora | *Hourly / billable hour* | Tarifa × horas |
+| Cuota fija | *Flat / fixed fee* | Precio cerrado |
+| Iguala | *Retainer* | Pago recurrente por disponibilidad |
+| Honorario de éxito | *Success / contingency fee* | % del resultado |
+| Carta de honorarios / compromiso | *Engagement letter* | El acuerdo de servicios |
+| Alcance | *Scope of work* | Qué incluye y qué no |
+| Expansión indebida del alcance | *Scope creep* | El cliente pide de más gratis |
+| Anticipo / provisión de fondos | *Retainer / advance* | Pago antes de empezar |
+| Gastos reembolsables | *Out-of-pocket / disbursements* | Viáticos, derechos, peritos |
+| Tarifa | *Rate* | Precio por unidad de tiempo |
+
+---
+
+## VIII. Tu turno (práctica deliberada)
+
+1. **Cotiza el Proyecto Caramelo.** Con la operación del Laboratorio (adquisición de Dulces del
+   Valle), define el alcance del trabajo legal, elige el modelo de honorarios más adecuado y
+   justifica por qué. (No inventes cifras de mercado; razona la lógica y el modelo.)
+2. **Redacta una carta de honorarios** de una página para un servicio simple (constituir una
+   sociedad o revisar un contrato): alcance, exclusiones, monto, anticipo y qué pasa si cambia el
+   alcance. Conecta con el drafting de la Columna III.
+3. **Maneja la objeción.** Escribe tu respuesta, palabra por palabra, a un cliente que dice "está
+   muy caro" — sin bajar el precio de inmediato. Practícala en voz alta.
+4. **Diseña tres paquetes** (básico / completo / premium) para un mismo servicio, de modo que el
+   cliente elija "cuál" en vez de "sí o no".
+
+---
+
+## IX. Conexión
+
+- **Sustento:** Módulo 03 (visión general de honorarios), Módulo 04 (economía del despacho) y
+  Negociación (Biblioteca V-01). La carta de honorarios es un entregable de drafting (Columna III).
+- **Aplicación inmediata:** la próxima vez que des un favor legal o un trabajo (aunque sea pequeño,
+  aunque sea gratis al principio), **practica definir el alcance por escrito**. El hábito de
+  delimitar qué incluye y qué no te servirá toda la vida.
+
+> **La idea que debe quedarte:** cobras por el **valor que creas**, no por las horas que te tomó.
+> Define el alcance, ponlo por escrito, cobra anticipo, ancla alto, vende valor y nunca te
+> disculpes por tu precio. Saber Derecho te da el trabajo; saber cobrar te da la vida que ese
+> trabajo merece.
+
+---
+
+*Sistema del Socio · Módulo 07 completado. Las tarifas reales varían por mercado y deben
+verificarse. Subordinado al Documento Fundacional AJE.*
