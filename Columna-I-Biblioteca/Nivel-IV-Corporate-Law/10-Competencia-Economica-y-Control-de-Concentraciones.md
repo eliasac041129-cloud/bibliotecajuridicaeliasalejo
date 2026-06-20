@@ -690,3 +690,123 @@ Autoriza        Condiciona (remedios)   Bloquea
 - **"Per se el cártel; razón el abuso"** — para no confundir los dos pilares.
 - **"COFECE todo; IFT telecom"** — quién es la autoridad.
 - **"Hasta el silbatazo, rivales"** — no integrarse antes de la autorización.
+
+
+## 40. Resumen ejecutivo
+
+- El derecho de la competencia protege el **proceso competitivo** (no a los competidores) como bien
+  público, porque la competencia disciplina precios y estimula innovación en beneficio del consumidor.
+- Tiene **tres pilares**: prácticas monopólicas **absolutas** (cárteles entre competidores — *per se*
+  ilegales), **relativas** (abuso de poder de mercado — ilegales solo si dañan) y **concentraciones**
+  (control de fusiones y adquisiciones).
+- El **control de concentraciones** es la pieza que toca el M&A: las operaciones que **superan
+  umbrales** deben **notificarse y esperar** la autorización (standstill); consumar antes es
+  ***gun-jumping*** (multas, nulidad). La autoridad puede **autorizar, condicionar (desinversión) o
+  bloquear**.
+- En el *deal*, la competencia se traduce en **condición de cierre**, *covenants* de cooperación y
+  anti-gun-jumping, **asignación del riesgo regulatorio** y un **calendario** que contempla meses.
+- Autoridades en México: **COFECE** (general) e **IFT** (telecom/radiodifusión); base normativa: la
+  **LFCE**; herramienta clave contra cárteles: el **programa de inmunidad**.
+- Todo análisis empieza por **definir el mercado relevante**; los umbrales, plazos y multas **cambian**
+  y deben **verificarse**.
+
+## 41. Checklist (operativo del profesional)
+
+Ante una operación con dimensión de competencia:
+- [ ] ¿La operación une **control** (es una concentración)?
+- [ ] ¿**Supera los umbrales** vigentes? (⚠️ verificar las cifras actuales)
+- [ ] Si sí: ¿puse la **autorización como condición de cierre** y aseguré el **standstill**?
+- [ ] ¿Identifiqué el **mercado relevante** y el **riesgo** de condiciones/bloqueo?
+- [ ] ¿Negocié la **asignación del riesgo regulatorio** (efforts, break-up fee, long-stop date)?
+- [ ] ¿Incluí *covenants* de **cooperación** y **anti-gun-jumping**?
+- [ ] ¿El **calendario** del deal contempla los meses del análisis?
+- [ ] ¿Hice **due diligence de competencia** del target (cárteles, prácticas)?
+- [ ] Si es *cross-border*: ¿en **qué jurisdicciones** hay que notificar?
+- [ ] ¿**Verifiqué** umbrales, plazos y multas con un especialista y la ley vigente?
+
+## 42. Bibliografía comentada
+
+> ⚠️ *Tipos de fuente (no títulos concretos, por no estar verificados — Principio Supremo).*
+
+- **El texto vigente de la LFCE** y las **disposiciones regulatorias / guías de concentraciones** de
+  la COFECE/IFT — la fuente primaria; los **umbrales vigentes** viven aquí.
+- **Resoluciones de la COFECE y el IFT** — para ver cómo se aplica en la práctica (cómo definen
+  mercado, qué remedios imponen).
+- **Doctrina y guías internacionales** (EE. UU. — DOJ/FTC *Merger Guidelines*; UE — Comisión Europea) —
+  para el método económico y comparado.
+- **Manuales de derecho de la competencia** (mexicanos y comparados) — para la dogmática. *Verificar
+  ediciones actualizadas.*
+- **Guías de M&A antitrust de despachos** — para el "cómo se maneja en el deal" (con cautela: verificar
+  vigencia).
+
+## 43. Ruta hacia el siguiente libro
+
+Con este libro cierras el panorama regulatorio del M&A: ya sabes **estructurar** (Libros 1-4),
+**financiar** (5), **colaborar** (6), **invertir como fondo** (7), **gobernar y cumplir** (8),
+**estructurar fiscalmente** (9) y ahora **pasar el filtro de competencia** (10). El Nivel IV te da el
+ciclo completo de la operación corporativa, desde su lógica hasta sus dos grandes filtros regulatorios
+—el fiscal y el de competencia—.
+
+El **Nivel V · Maestría** te llevará al plano del estratega: **Negociación de alto nivel** (clave para
+negociar el riesgo regulatorio y los remedios), **Finanzas y contabilidad**, **Valuación** (cómo el
+riesgo de competencia afecta el precio) y **Estrategia corporativa y Game Theory** (el programa de
+inmunidad es teoría de juegos pura; las defensas y los movimientos de concentración, ajedrez
+empresarial). Lo aprendido aquí es la antesala perfecta de ese pensamiento estratégico.
+
+---
+
+## ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque **la autorización de competencia puede decidir si un deal vive o muere** — y su análisis define
+el calendario, el precio y la estructura. El abogado de M&A que piensa la competencia desde el primer
+día protege la operación; el que la ignora puede diseñar algo que **nunca se cerrará** o exponer a su
+cliente a un gun-jumping millonario. Es, junto con el fiscal, uno de los dos grandes filtros
+regulatorios que todo arquitecto de operaciones debe dominar.
+
+## ✦ Cómo piensa un socio de un despacho internacional
+
+Un socio de M&A trata la competencia como un **flujo de trabajo paralelo y crítico** desde el inicio:
+arma equipo con los especialistas de competencia (y economistas), evalúa **el día uno** si la
+operación se notifica y en qué jurisdicciones, modela el riesgo de remedios, y **negocia en el SPA
+quién carga ese riesgo** (un comprador que quiere certeza exigirá cláusulas *hell-or-high-water*; uno
+cauto, lo contrario). Vigila como halcón el **gun-jumping** —sabe que la presión por "avanzar" entre
+firma y cierre es el mayor riesgo— y construye el calendario alrededor de los plazos de la autoridad.
+Para él, la competencia no es un obstáculo: es una variable que se gestiona con estrategia.
+
+## ✦ Errores que cuestan millones
+
+- **No notificar una concentración que debía notificarse:** gun-jumping, multas y nulidad.
+- **Integrar las empresas antes de la autorización** (operar, compartir información, coordinar
+  precios): gun-jumping aunque el deal sea benéfico.
+- **No anticipar un remedio de desinversión:** descubrir tarde que para cerrar hay que vender un activo
+  valioso, sin haber negociado quién carga ese costo.
+- **Calendario irreal:** prometer un cierre en semanas cuando la autorización tarda meses.
+- **Un cártel "informal":** acordar precios con un competidor en una cámara — multas máximas y posible
+  cárcel.
+
+## ✦ Nivel de importancia profesional
+
+```
+Litigio              ★★★☆☆
+Corporate            ★★★★☆
+M&A                  ★★★★★
+Mercado de Valores   ★★★★☆
+Venture Capital      ★★☆☆☆
+Private Equity       ★★★★☆
+Gobierno Corporativo ★★★☆☆
+Compliance           ★★★★★
+Derecho Bancario     ★★★☆☆
+Empresa Familiar     ★★☆☆☆
+```
+*Indispensable para tu especialidad: con el fiscal (Libro 9), es uno de los dos filtros regulatorios
+sin los cuales ninguna operación grande se diseña ni se cierra.*
+
+---
+
+> **Nota final de método (Principio Supremo).** Este libro enseña la **lógica** de la competencia, que
+> perdura; **no** sustituye la consulta de la LFCE vigente, las guías de COFECE/IFT ni la asesoría de un
+> especialista. **Umbrales, plazos y multas cambian: verifícalos siempre** antes de decidir si una
+> operación se notifica o cómo se maneja.
+
+*Nivel IV · Libro 10 · Competencia Económica y Control de Concentraciones. Estándar V3. Subordinado al
+Documento Fundacional AJE y al Protocolo de Verificación.*
