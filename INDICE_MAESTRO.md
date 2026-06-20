@@ -79,7 +79,8 @@
 [01 · Hoja de Ruta AJE](./01_HOJA_DE_RUTA_AJE.md)
 
 ## 5. Columna III · Laboratorio Profesional — 🟡 en arranque
-`Columna-III-Laboratorio/` (documento rector + ejercicios prácticos).
+- [00 · Laboratorio Profesional (documento rector)](./Columna-III-Laboratorio/00_LABORATORIO_PROFESIONAL_AJE.md)
+- [01 · El Memorándum Legal](./Columna-III-Laboratorio/01-El-Memorandum-Legal.md) — ✅
 
 ## 6. Columnas IV y V — ⬜ pendientes
 - Columna IV · Sistema del Socio.
