@@ -4,6 +4,14 @@
 > ciencia del aprendizaje: práctica deliberada, repaso espaciado, recuperación activa
 > y transferencia a problemas reales.
 
+> **Nota sobre la numeración de secciones (importante).** Los tratados del **Nivel I** se
+> construyeron sobre el estándar fundacional de **30 secciones**; los volúmenes nuevos siguen el
+> **Estándar V3 de 43 secciones + 4 transversales** (ver
+> [Manifiesto Editorial](./00_MANIFIESTO_EDITORIAL.md) y [PLANTILLA-LIBRO.md](./PLANTILLA-LIBRO.md)).
+> Por eso esta guía se refiere a las secciones **por su función** (resumen, casos difíciles,
+> flashcards, checklist…), no por un número fijo: busca la sección con ese nombre en el libro que
+> estés estudiando, sin importar el número que tenga.
+
 ---
 
 ## 1. Principios rectores
@@ -17,28 +25,34 @@ días, 1 semana, 2 semanas, 1 mes). Usa las flashcards de cada libro con un sist
 tipo Anker/Anki.
 
 **Práctica deliberada.** No basta con leer; hay que practicar en el límite de tu
-competencia, con retroalimentación y corrección. Los "casos complejos" (sección 22)
-existen para llevarte a ese límite.
+competencia, con retroalimentación y corrección. Las secciones de **casos difíciles /
+casos complejos** existen para llevarte a ese límite.
 
 **Interleaving (intercalado).** Alterna materias relacionadas (p. ej. Obligaciones con
 Contratos Mercantiles) para fortalecer la discriminación de conceptos.
 
 **Elaboración y transferencia.** Pregúntate siempre: *¿cómo aparece esto en un juicio,
-en un contrato, en una empresa, en un M&A?* Las secciones 14–18 entrenan esa
-transferencia, que es lo que separa al abogado del estudiante.
+en un contrato, en una empresa, en un M&A?* Las secciones de **aplicación práctica y
+conexión profesional** entrenan esa transferencia, que es lo que separa al abogado del
+estudiante.
 
 ---
 
 ## 2. Ciclo de estudio por libro
 
-1. **Mapa (10 min):** lee el Resumen ejecutivo (28) y los Mapas mentales (24).
-2. **Inmersión (lectura activa):** estudia secciones 1–13 subrayando *por qué*, no
-   solo *qué*. Anota preguntas al margen.
-3. **Aplicación:** lee secciones 14–18 conectando con la práctica.
-4. **Recuperación:** cierra el libro y responde preguntas (20–22) por escrito.
-5. **Consolidación:** flashcards (23), mnemotecnias (26), cuadros (25).
-6. **Profesionalización:** internaliza el checklist (27).
+1. **Mapa (10 min):** lee el **Resumen ejecutivo** y los **Mapas mentales**.
+2. **Inmersión (lectura activa):** estudia las **secciones de desarrollo conceptual**
+   subrayando *por qué*, no solo *qué*. Anota preguntas al margen.
+3. **Aplicación:** lee las **secciones de aplicación práctica y conexión profesional**
+   conectando con la realidad (litigio, contrato, empresa, M&A).
+4. **Recuperación:** cierra el libro y responde las **preguntas y casos** por escrito.
+5. **Consolidación:** **flashcards**, **mnemotecnias** y **cuadros/tablas**.
+6. **Profesionalización:** internaliza el **checklist** del libro.
 7. **Programa repasos** a 1, 3, 7, 21 días.
+
+> En los libros V3 añade un paso: lee las **secciones transversales** (¿Por qué importa para un
+> abogado corporativo? · Cómo piensa un socio · Errores que cuestan millones · Nivel de
+> importancia profesional) — son las que más rápido te hacen pensar como profesional.
 
 ---
 
