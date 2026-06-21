@@ -17,7 +17,8 @@
 | 3 | [**01 · Hoja de Ruta AJE**](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) | **Columna II.** Estrategia profesional: qué hacer, cuándo y por qué — de la universidad a socio o fundador. |
 | 4 | [**02 · El Sistema Diario**](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) | **Plan operativo.** Qué haces hoy, a qué hora y por cuánto tiempo. Convierte todo el repo en una rutina diaria. |
 | 5 | [**03 · Plan de Inglés Jurídico**](./Columna-II-Hoja-de-Ruta/03_PLAN_DE_INGLES_JURIDICO_AJE.md) | **La llave no negociable.** Materializa el Principio 6 (Bilingüismo): rutina, recursos e inglés legal. |
-| 6 | [Índice Maestro](./INDICE_MAESTRO.md) · [Guía Metodológica](./GUIA-METODOLOGICA.md) · [Mapa Biblioteca↔Materias](./MAPA_BIBLIOTECA-A-MATERIAS.md) · [Protocolo de Verificación](./PROTOCOLO_DE_VERIFICACION.md) · [Avance](./AVANCE.md) · [Changelog](./CHANGELOG.md) | Navegación, método, puente con materias, integridad del contenido, estado y bitácora. |
+| 6 | [**04 · La Tesis Estratégica**](./Columna-II-Hoja-de-Ruta/04_LA_TESIS_ESTRATEGICA.md) | Convierte la tesis (R&W en el SPA) en activo de carrera: pregunta, hipótesis y esquema. |
+| 7 | [Índice Maestro](./INDICE_MAESTRO.md) · [Guía Metodológica](./GUIA-METODOLOGICA.md) · [Mapa Biblioteca↔Materias](./MAPA_BIBLIOTECA-A-MATERIAS.md) · [Protocolo de Verificación](./PROTOCOLO_DE_VERIFICACION.md) · [Avance](./AVANCE.md) · [Changelog](./CHANGELOG.md) | Navegación, método, puente con materias, integridad del contenido, estado y bitácora. |
 
 ---
 

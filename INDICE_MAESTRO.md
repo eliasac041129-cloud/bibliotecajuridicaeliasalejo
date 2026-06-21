@@ -14,6 +14,7 @@
 | [01 · Hoja de Ruta AJE](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) | Columna II · estrategia profesional. |
 | [02 · El Sistema Diario](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) | Plan operativo · qué haces hoy, hora por hora. |
 | [03 · Plan de Inglés Jurídico](./Columna-II-Hoja-de-Ruta/03_PLAN_DE_INGLES_JURIDICO_AJE.md) | La llave no negociable · rutina, recursos e inglés legal. |
+| [04 · La Tesis Estratégica](./Columna-II-Hoja-de-Ruta/04_LA_TESIS_ESTRATEGICA.md) | Convertir la tesis (R&W en el SPA) en activo de carrera + esquema. |
 
 ## 2. Documentos de apoyo
 
@@ -85,6 +86,7 @@
 - [01 · Hoja de Ruta AJE](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) — estrategia profesional
 - [02 · El Sistema Diario](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) — plan operativo diario
 - [03 · Plan de Inglés Jurídico](./Columna-II-Hoja-de-Ruta/03_PLAN_DE_INGLES_JURIDICO_AJE.md) — la llave no negociable
+- [04 · La Tesis Estratégica](./Columna-II-Hoja-de-Ruta/04_LA_TESIS_ESTRATEGICA.md) — tesis (R&W en el SPA) como activo de carrera
 
 ## 5. Columna III · Laboratorio Profesional — 🟡 1er tramo completo (6 ejercicios)
 - [00 · Laboratorio Profesional (documento rector)](./Columna-III-Laboratorio/00_LABORATORIO_PROFESIONAL_AJE.md)
