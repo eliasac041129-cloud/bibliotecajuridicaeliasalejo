@@ -6,10 +6,14 @@
 
 ---
 
-## [2.0] — 2026 · «De biblioteca a sistema» — *en desarrollo (rama `main`)*
+## [2.0] — 2026 · «De biblioteca a sistema» — *sellada (rama `v2.0`)*
 
 El proyecto deja de ser "una biblioteca" y se convierte en un **sistema integral de cinco
-columnas**, gobernado por seis principios rectores.
+columnas**, gobernado por seis principios rectores. Estado al sellar: **5 columnas completas**
+(Biblioteca con 38 tratados, Hoja de Ruta + Sistema Diario + Inglés + Tesis Estratégica,
+Laboratorio con su 1er tramo de 6 ejercicios, Sistema del Socio con 7 módulos, Patrimonio con 6
+módulos) + Protocolo de Verificación + Mapa Biblioteca↔Materias, reorganizado en carpetas
+`Columna-I` … `Columna-V`.
 
 ### Añadido
 - **`00_DOCUMENTO_FUNDACIONAL_AJE.md`** — documento **rector supremo**: misión reformulada (el
