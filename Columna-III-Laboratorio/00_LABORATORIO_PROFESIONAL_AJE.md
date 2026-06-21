@@ -82,6 +82,8 @@ no lectura pasiva:
 
 ## V. Ruta de la columna (orden de construcción)
 
+### Tramo 1 · El ciclo de una operación de M&A (✅ completo)
+
 | # | Ejercicio | Entregable | Estado |
 |---|-----------|------------|--------|
 | 01 | El memorándum legal | Legal memo (formato IRAC/CREAC) | ✅ Completo |
@@ -94,6 +96,19 @@ no lectura pasiva:
 > Los seis ejercicios siguen el hilo de una sola operación ("Proyecto Caramelo"), de modo que el
 > lector vive una adquisición completa de principio a fin: analizar → redactar → anclar →
 > repartir riesgo → investigar → cerrar.
+
+### Tramo 2 · Comunicación y soporte del abogado corporativo (✅ completo)
+
+| # | Ejercicio | Entregable | Estado |
+|---|-----------|------------|--------|
+| 07 | El correo y la minuta ejecutiva | Comunicar derecho a un no-abogado | ✅ Completo |
+| 08 | Actas, asambleas y resoluciones | Soporte societario de las decisiones | ✅ Completo |
+| 09 | La opinión legal (*legal opinion*) | Dictamen formal a terceros | ✅ Completo |
+| 10 | La presentación al cliente y al consejo | Explicar y recomendar una operación | ✅ Completo |
+
+> El Tramo 2 cierra el oficio: del documento técnico (Tramo 1) a **comunicarlo, soportarlo
+> societariamente y recomendarlo** a quien decide. Con ambos tramos, el lector domina los
+> entregables esenciales de un abogado corporativo.
 
 > Se construyen **en secuencia**. El primero —el memorándum— es la base: todo lo demás se comunica,
 > tarde o temprano, a través de un memo o su lógica.
