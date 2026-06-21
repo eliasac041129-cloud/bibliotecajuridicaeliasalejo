@@ -84,3 +84,132 @@ despacho solo puede afirmar lo que **realmente puede sostener**. Se resuelve con
 > confirmando que Compradora existe válidamente, que tiene facultades y autorización para contratar el
 > crédito, que firmó quien podía, y que el contrato es válido y exigible. Redáctame la opinión, con sus
 > **supuestos y salvedades**. Y recuerda: solo afirmamos lo que podemos sostener."*
+
+
+---
+
+## V. Modelo trabajado y anotado (extracto)
+
+> **OPINIÓN LEGAL**
+> [Fecha] · A: [Banco Acreedor]
+>
+> Estimados señores: Hemos actuado como asesores legales de [Compradora, S.A. de C.V.] (la
+> "**Acreditada**") en relación con el Contrato de Apertura de Crédito de fecha [●] (el "**Contrato**").
+> Para emitir esta opinión, **examinamos**: (i) la escritura constitutiva y estatutos vigentes de la
+> Acreditada; (ii) los poderes del firmante; (iii) las resoluciones corporativas que autorizan el
+> Contrato; y (iv) el Contrato. (Documentos en el Anexo A.)
+>
+> **Supuestos.** Para efectos de esta opinión **asumimos**, sin verificación independiente: (a) la
+> autenticidad de las firmas y de los documentos que nos fueron exhibidos; (b) la capacidad y debida
+> autorización de las **demás** partes del Contrato; (c) que las copias coinciden con sus originales.
+>
+> **Con base en lo anterior, y sujeto a las salvedades siguientes, opinamos que:**
+> 1. La Acreditada es una sociedad **debidamente constituida y válidamente existente** conforme a las
+>    leyes de México.
+> 2. La Acreditada tiene las **facultades corporativas** necesarias para celebrar el Contrato y
+>    cumplir sus obligaciones.
+> 3. La celebración del Contrato fue **debidamente autorizada** por los órganos corporativos
+>    competentes.
+> 4. El Contrato fue **firmado por persona con facultades suficientes**.
+> 5. El Contrato constituye una obligación **legal, válida, obligatoria y exigible** de la Acreditada,
+>    conforme a sus términos.
+>
+> **Salvedades.** Las anteriores opiniones están sujetas a: (i) las leyes de **concurso mercantil,
+> quiebra** y demás de aplicación general que afecten los derechos de los acreedores; (ii) que la
+> **exigibilidad** puede estar limitada por principios de orden público y equidad; (iii) ⚠️ *[otras
+> salvedades según la operación — verificar]*.
+>
+> **Limitaciones.** Esta opinión se emite **únicamente** para [el Banco] y para los fines del Contrato;
+> no puede ser usada ni invocada por terceros ni para otro propósito, y se refiere **solo al derecho
+> mexicano** vigente a su fecha. No asumimos obligación de actualizarla.
+>
+> Atentamente, [Despacho]
+
+> ▸ **Anotaciones:** (1) las **opiniones 1-5** son las afirmaciones de prestigio (existencia,
+> facultades, autorización, firma, validez/exigibilidad) — el corazón. (2) Los **supuestos** acotan lo
+> que NO verificamos (firmas, las otras partes): blindaje esencial. (3) Las **salvedades** reconocen lo
+> que la ley puede matizar (concurso, equidad): nadie puede opinar que un contrato es "exigible pase lo
+> que pase". (4) Las **limitaciones de uso** evitan que un tercero distinto se "cuelgue" de la opinión.
+> (5) Conecta con el Ej. 08: las **resoluciones** que redactaste son justo lo que sustenta la opinión 3.
+
+> **La diferencia con el memo, en una imagen:** el memo dice *"creo que sí, pero ojo con esto y
+> aquello"*; la opinión dice *"opinamos que sí"* —con firmeza— pero **solo** sobre puntos acotados y
+> tras blindar el perímetro con supuestos y salvedades. Firmeza dentro de límites.
+
+---
+
+## VI. Errores que cuestan millones (y exponen al despacho)
+
+| Error | Por qué cuesta | Cómo evitarlo |
+|-------|----------------|---------------|
+| Opinar de más (afirmar lo que no se sostiene) | **Responsabilidad** del despacho si el tercero sufre daño | Afirma solo lo verificable; acota el objeto |
+| Omitir supuestos | Se asume responsabilidad por cosas no verificadas (firmas, terceros) | Lista los *assumptions* con cuidado |
+| Omitir salvedades | Se afirma una exigibilidad "absoluta" que no existe | Incluye concurso, equidad, orden público |
+| No limitar el uso/destinatario | Terceros imprevistos confían y demandan | Cláusula de *reliance* y de propósito único |
+| No fechar / no acotar a derecho mexicano | Se asume responsabilidad indefinida | "A la fecha; solo derecho mexicano" |
+| Firmar sin revisar el soporte (poderes, actas) | La opinión se cae si el soporte falla | Examina y lista los documentos base |
+| Copiar una opinión de otra operación | Supuestos/salvedades inadecuados | Adáptala al caso concreto |
+
+---
+
+## VII. Glosario bilingüe
+
+| Español | Inglés |
+|---------|--------|
+| Opinión legal / dictamen | *Legal opinion* |
+| Supuestos | *Assumptions* |
+| Salvedades / limitaciones | *Qualifications* |
+| Legal, válido, obligatorio y exigible | *Legal, valid, binding and enforceable* |
+| Debidamente constituida y existente | *Duly incorporated and validly existing* |
+| Facultades corporativas | *Corporate power and authority* |
+| Debida autorización | *Due authorization* |
+| Confianza / invocar (la opinión) | *Reliance* |
+| Documentos examinados | *Documents reviewed* |
+
+---
+
+## VIII. Tu turno (práctica deliberada)
+
+1. **Redacta los supuestos y salvedades** que pondrías en una opinión sobre la validez del SPA de
+   Dulces del Valle (no las afirmaciones, solo el "perímetro de blindaje"). ¿Qué asumes sin verificar?
+   ¿Qué leyes podrían matizar la exigibilidad?
+2. **Memo vs. opinión:** toma una conclusión del Ejercicio 01 (la no competencia) y escríbela primero
+   como **párrafo de memo** (interno, con matices) y luego como **afirmación de opinión** (externa,
+   acotada). Nota la diferencia de tono y riesgo.
+3. **Caza-trampas:** el banco te pide opinar que "la Acreditada nunca incumplirá el crédito". ¿Por qué
+   **no** puedes opinar eso y cómo reencuadras lo que sí puedes afirmar?
+4. **Limitación de uso:** redacta la cláusula que impide que un tercero distinto del banco invoque tu
+   opinión.
+
+---
+
+## IX. Rúbrica de autoevaluación
+
+| Criterio | 1 (deficiente) | 5 (nivel asociado) |
+|----------|----------------|---------------------|
+| **Objeto acotado** | "Todo está bien" | Afirmaciones concretas y específicas |
+| **Supuestos** | Ausentes | Acotan con precisión lo no verificado |
+| **Salvedades** | Ausentes | Concurso, equidad, orden público |
+| **Limitación de uso** | Cualquiera puede invocarla | Destinatario y propósito únicos |
+| **Firmeza** | Timorata o temeraria | Afirma con seguridad dentro del perímetro |
+| **Soporte** | No examina documentos | Lista y se apoya en estatutos/poderes/actas |
+| **Integridad** | Afirma lo no sostenible | Solo lo verificable; "a la fecha" |
+
+---
+
+## X. Conexión
+
+- **Sustento:** Documentación M&A (IV-04), Financiamiento (IV-05) y Sociedades (III-02). Se apoya en
+  las **resoluciones** del Ejercicio 08 y se contrasta con el **memo** del Ejercicio 01.
+- **Siguiente:** **10 · La Presentación al Cliente y al Consejo** — el cierre del Tramo 2: explicar y
+  **recomendar** una operación a quien decide.
+
+> **La idea que debe quedarte:** una opinión legal es **tu firma puesta en juego**. Afirma con
+> firmeza, pero solo lo que puedes sostener, y blinda el perímetro con supuestos y salvedades. La
+> madurez del abogado se mide tanto por lo que **afirma** como por lo que **se cuida de no afirmar**.
+
+---
+
+*Laboratorio · Ejercicio 09 completado. Los modelos son plantillas didácticas; toda opinión real
+exige revisión del soporte y verificación del derecho vigente. Subordinado al Documento Fundacional
+AJE.*
