@@ -53,10 +53,11 @@ módulos) + Protocolo de Verificación + Mapa Biblioteca↔Materias, reorganizad
   03 Generación de negocio (rainmaking) · 04 La economía del despacho · 05 Marca personal y
   reputación · 06 Rutas de carrera. Modelo central: las tres monedas (ejecución, confianza,
   generación).
-- **Columna III · Laboratorio Profesional** — primer tramo completo: documento rector + **6
-  ejercicios** que recorren una misma operación de M&A ("Proyecto Caramelo") de principio a fin:
-  01 Memorándum legal · 02 Cláusula contractual · 03 Term sheet · 04 Representaciones y garantías
-  + disclosure · 05 Reporte de due diligence · 06 Closing checklist.
+- **Columna III · Laboratorio Profesional** — **completo (2 tramos · 10 ejercicios)**: Tramo 1
+  (ciclo de M&A): 01 Memorándum · 02 Cláusula · 03 Term sheet · 04 R&W + disclosure · 05 Due
+  diligence · 06 Closing checklist. Tramo 2 (comunicación y soporte): 07 Correo y minuta · 08 Actas,
+  asambleas y resoluciones · 09 Opinión legal · 10 Presentación al cliente y al consejo. Los 10
+  recorren una misma operación ("Proyecto Caramelo").
 
 ### Cambiado
 - **`00_MANIFIESTO_EDITORIAL.md`** pasa de ser "la Constitución" a **Anexo de Estándar
