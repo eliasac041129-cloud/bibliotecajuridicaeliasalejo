@@ -72,3 +72,130 @@ Dos principios gobiernan el correo profesional:
 > cerrar Dulces del Valle el martes. Tú sabes que **falta el consentimiento del cliente principal y
 > ceder la marca** (los red flags del due diligence). Mándale **un correo** —él no es abogado—
 > explicándole dónde estamos y qué necesitamos antes de cerrar. Que lo entienda en 30 segundos."*
+
+
+---
+
+## V. Modelo trabajado y anotado
+
+### ❌ Versión mala (lo que NO debes mandar)
+
+> *Estimado cliente: En relación con la operación de referencia, le comento que tras la revisión de
+> due diligence practicada se han advertido diversas cuestiones relativas a la titularidad de
+> determinados activos intangibles, así como a ciertas disposiciones contractuales con efectos de
+> change of control que podrían, en su caso, conforme a derecho, impactar la consumación... [siguen 3
+> párrafos]. Quedo a sus órdenes.*
+
+> **Por qué es mala:** entierra la respuesta, usa "legalés", no dice qué hacer ni para cuándo, y el
+> cliente —ocupado— la cierra sin entender si puede cerrar el martes. **Le robó tiempo.**
+
+### ✅ Versión buena (BLUF + traducida)
+
+> **Asunto:** Proyecto Caramelo — aún no podemos cerrar el martes (faltan 2 cosas)
+>
+> Hola [Cliente]:
+>
+> **Respuesta corta: todavía no conviene cerrar el martes.** Faltan dos cosas que protegen tu compra;
+> sin ellas, te expones a perder valor después del cierre.
+>
+> Faltan dos pendientes del vendedor:
+> 1. **La marca "Dulces del Valle" está a nombre del Sr. Romero, no de la empresa.** Si cierras sin
+>    corregirlo, comprarías la empresa **sin ser dueño de su propia marca**. → El vendedor debe ceder
+>    la marca a la empresa antes de cerrar.
+> 2. **El contrato con tu cliente más grande (40% de las ventas) puede terminarse si cambia el
+>    dueño.** → Necesitamos su visto bueno por escrito antes de cerrar.
+>
+> **Qué propongo:** mantener la firma, pero condicionar el **cierre** (el pago) a que el vendedor
+> resuelva esos dos puntos. Ya se lo pedimos formalmente; estimo [X] días.
+>
+> ¿Te marco hoy 10 min para explicártelo? Quedo atento.
+> [Nombre]
+
+> ▸ **Anotaciones:** el asunto ya da la respuesta. La primera línea es la conclusión. Los dos riesgos
+> están **traducidos a consecuencias de negocio** ("comprarías la empresa sin ser dueño de su marca"),
+> no a tecnicismos. Hay **acción concreta** (condicionar el cierre) y una **invitación a hablar**. El
+> cliente entiende todo en 30 segundos.
+
+### La minuta ejecutiva (formato)
+
+> **MINUTA — Proyecto Caramelo · Llamada [fecha] · Participantes: [...]**
+> **Acuerdos y responsables:**
+> 1. Vendedor cede la marca a la empresa — **Resp.: abogado del vendedor — Fecha: [●]**
+> 2. Obtener consentimiento del Cliente A — **Resp.: vendedor — Fecha: [●]**
+> 3. Preparar escrow para la contingencia laboral — **Resp.: nuestro equipo — Fecha: [●]**
+> *Detalle de lo discutido: [abajo, breve].*
+
+> ▸ Arriba lo accionable (quién/qué/cuándo); el detalle, después. Una minuta sin responsables y
+> fechas es un diario inútil.
+
+---
+
+## VI. Errores que cuestan millones (o clientes)
+
+| Error | Por qué cuesta | Cómo evitarlo |
+|-------|----------------|---------------|
+| Enterrar la conclusión | El cliente no la encuentra; decide mal o no decide | BLUF: respuesta y acción arriba |
+| Escribir en "legalés" a un no-abogado | No te entiende; pareces poco claro | Traduce a consecuencias de negocio |
+| Correos kilométricos | Nadie los lee completos | Tan corto como sea posible; bullets |
+| No decir qué se espera del lector | El correo "muere" sin acción | Acción concreta + fecha |
+| Asunto vago ("importante", "seguimiento") | Se pierde entre 40 correos | Asunto específico y útil |
+| Minuta sin responsables/fechas | Nadie sabe quién hace qué | Acuerdos con responsable y fecha, arriba |
+| Mandar enojado o sin revisar | Un correo queda por escrito **para siempre** | Relee en frío antes de enviar |
+
+---
+
+## VII. Glosario bilingüe
+
+| Español | Inglés |
+|---------|--------|
+| Conclusión primero | *BLUF — bottom line up front* |
+| Asunto (del correo) | *Subject line* |
+| Resumen ejecutivo | *Executive summary* |
+| Minuta / acta de junta | *Minutes* |
+| Acuerdos y responsables | *Action items / owners* |
+| Seguimiento | *Follow-up* |
+| Cambio de control | *Change of control* |
+| Para tu visibilidad/conocimiento | *FYI — for your information* |
+
+---
+
+## VIII. Tu turno (práctica deliberada)
+
+1. **Reescribe en BLUF** la "versión mala" de la sección V sin ver la buena. Cronométrate: máximo 10
+   minutos.
+2. **Correo de malas noticias:** redacta un correo avisando al cliente que la autorización de
+   competencia (COFECE) tardará 2 meses más de lo previsto — temprano, claro y con un plan.
+3. **Minuta:** convierte estos puntos de una junta en una minuta ejecutiva con responsables y fechas:
+   "se acordó pedir el waiver, revisar el escrow y reagendar el cierre".
+4. **Traducción:** explica "representaciones y garantías" a un cliente no-abogado en **una sola
+   frase** sin tecnicismos.
+
+---
+
+## IX. Rúbrica de autoevaluación
+
+| Criterio | 1 (deficiente) | 5 (nivel asociado) |
+|----------|----------------|---------------------|
+| **BLUF** | Hay que buscar la respuesta | Respuesta + acción en las 2 primeras líneas |
+| **Traducción** | Lleno de tecnicismos | Lenguaje de negocio claro |
+| **Brevedad** | Kilométrico | Tan corto como sea posible |
+| **Acción** | No se sabe qué hacer | Acción concreta + fecha |
+| **Asunto** | Vago | Específico y útil |
+| **Tono** | Frío o descuidado | Profesional y cálido |
+
+---
+
+## X. Conexión
+
+- **Sustento:** Argumentación (I-11) y la lógica BLUF del Ejercicio 01. Comunica lo producido en
+  todo el Tramo 1.
+- **Siguiente:** **08 · Actas, Asambleas y Resoluciones** — el soporte societario que da validez a las
+  decisiones que comunicas.
+
+> **La idea que debe quedarte:** el cliente no te paga por lo que sabes, sino por **lo que le
+> resuelves y le ahorras**. Un correo claro, breve y accionable es la forma más frecuente —y más
+> subestimada— de demostrar tu valor. Escribe siempre para el lector ocupado.
+
+---
+
+*Laboratorio · Ejercicio 07 completado. Subordinado al Documento Fundacional AJE.*
