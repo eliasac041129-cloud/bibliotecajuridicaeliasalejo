@@ -26,8 +26,10 @@ protección de datos en M&A y compliance.*
 > **🛑 ACTUALIZACIÓN CRÍTICA — Extinción del INAI (reforma 2024-2025).** La misma **reforma constitucional
 > de "simplificación orgánica" de 2024** que extinguió a la COFECE y al IFT **también extinguió al INAI**
 > (Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales), la
-> autoridad garante en la materia. Sus funciones se **reasignaron** a la nueva arquitectura administrativa
-> (en el ámbito de la administración pública federal / un nuevo órgano) ⚠️. **Esto no cambia los
+> autoridad garante en la materia. **Verificado ✅ (2026-07):** sus funciones se transfirieron a la
+> **Secretaría Anticorrupción y Buen Gobierno** (dependiente del Ejecutivo federal), a partir del
+> **21 de marzo de 2025**, en el marco de una **nueva Ley General de Protección de Datos Personales** ⚠️.
+> **Esto no cambia los
 > principios ni los deberes de las empresas, pero sí la autoridad ante la que se tramitan
 > procedimientos.** Donde este tratado diga "INAI", entiende "la autoridad garante vigente". ⚠️ *Verifica
 > la autoridad y la ley aplicables.* Contenido reformulado.
@@ -111,7 +113,8 @@ La protección de datos nace del miedo, tras la Segunda Guerra Mundial y la era 
 el Estado y las corporaciones acumularan **poder sobre las personas mediante su información**. Alemania
 acuñó el concepto de **autodeterminación informativa** (célebre sentencia del Tribunal Constitucional
 alemán sobre el censo, 1983 ⚠️). Europa lideró con el **Convenio 108** (1981) y la **Directiva de 1995**,
-que culminaron en el **Reglamento General de Protección de Datos (GDPR)** de la Unión Europea (2018 ⚠️) —hoy
+que culminaron en el **Reglamento General de Protección de Datos (GDPR)** de la Unión Europea (adoptado el
+27-abr-2016, **aplicable desde el 25-may-2018** ✅) —hoy
 el **estándar de oro** mundial, con multas de hasta un porcentaje de la facturación global—. México elevó
 la protección de datos a rango **constitucional** (reformas a los arts. 6 y 16 ⚠️) y expidió la
 **LFPDPPP** para el sector privado. ⚠️ *Verificar fechas.*
@@ -121,11 +124,12 @@ la protección de datos a rango **constitucional** (reformas a los arts. 6 y 16 
 En **México** (⚠️ verificar):
 1. **Rango constitucional:** los arts. 6 y 16 reconocen el acceso a la información y la protección de datos
    personales como derechos.
-2. **LFPDPPP (2010 ⚠️)** y su Reglamento: régimen del **sector privado** (principios, ARCO, aviso de
+2. **LFPDPPP (2010 ✅)** y su Reglamento: régimen del **sector privado** (principios, ARCO, aviso de
    privacidad, transferencias, sanciones), aplicado por el entonces **IFAI/INAI**.
 3. **Ley para el sector público** (sujetos obligados): régimen paralelo para entes públicos.
-4. **Extinción del INAI (reforma 2024-2025 ⚠️):** la autoridad garante autónoma desapareció con la
-   simplificación orgánica; sus funciones se reasignaron —**verificar** la autoridad vigente—.
+4. **Extinción del INAI (reforma 2024-2025 ✅):** la autoridad garante autónoma desapareció con la
+   simplificación orgánica; sus funciones pasaron a la **Secretaría Anticorrupción y Buen Gobierno** (a
+   partir del **21-mar-2025**), con una **nueva Ley General de Protección de Datos Personales** ⚠️.
 Tendencias globales que México sigue: influencia del **GDPR**, retos de la **inteligencia artificial** y el
 *big data*, la **ciberseguridad** y la protección de datos de **menores** y **biométricos**.
 
@@ -283,9 +287,10 @@ catástrofe reputacional y legal.*
 Históricamente, la autoridad garante fue el **INAI** (antes IFAI): recibía denuncias, investigaba,
 resolvía procedimientos de protección de derechos y **sancionaba** con multas (que podían ser muy elevadas,
 en UMA, con agravantes para datos sensibles) ⚠️. **Con la reforma 2024-2025, el INAI se extinguió** y sus
-funciones se reasignaron a la nueva estructura administrativa ⚠️ (ver el recuadro del encabezado). **El
-régimen de deberes y sanciones subsiste; cambia la autoridad ante la que se litiga.** *Verifica siempre la
-autoridad y la ley vigentes.*
+funciones pasaron a la **Secretaría Anticorrupción y Buen Gobierno** (desde el **21-mar-2025**), bajo una
+**nueva Ley General de Protección de Datos Personales** ✅ (ver el recuadro del encabezado). **El régimen de
+deberes y sanciones subsiste; cambia la autoridad ante la que se litiga.** *Verifica siempre la autoridad y
+la ley vigentes.*
 
 ### 14.8 La protección de datos en M&A y compliance
 

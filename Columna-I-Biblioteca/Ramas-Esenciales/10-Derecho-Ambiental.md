@@ -106,14 +106,17 @@ hizo innegable. Hitos globales: la **Conferencia de Estocolmo (1972 ⚠️)** qu
 internacional; el **Informe Brundtland (1987 ⚠️)** que acuñó el **desarrollo sustentable**; la **Cumbre de
 Río (1992 ⚠️)** con sus principios (precaución, "quien contamina paga"); y, en clima, el **Protocolo de
 Kioto** y el **Acuerdo de París (2015 ⚠️)**. México desarrolló su marco a partir de los años ochenta, con
-la **LGEEPA (1988 ⚠️)** como ley marco, y elevó a rango **constitucional** el derecho a un **medio ambiente
-sano** (art. 4 ⚠️). ⚠️ *Verificar fechas.*
+la **LGEEPA (en vigor desde 1988 ✅)** como ley marco, y elevó a rango **constitucional** el derecho a un
+**medio ambiente sano** (art. 4 ⚠️).
 
 ## 5. Evolución histórica
 
 En **México**, el marco se construyó por capas (⚠️ verificar):
-1. **Ley marco:** **LGEEPA (1988)** —principios, impacto ambiental, áreas naturales protegidas,
-   contaminación—.
+1. **Ley marco:** **LGEEPA (en vigor desde 1988 ✅)** —principios, impacto ambiental, áreas naturales
+   protegidas, contaminación—. **🛑 Actualización 2026 (verificar):** existe una **iniciativa presidencial
+   (mayo de 2026) para expedir una nueva LGEEPA** que **reemplazaría por completo** la de 1988; de
+   aprobarse, cambiaría el marco federal ambiental. Coteja el estado legislativo vigente. *(Fuentes:
+   Holland & Knight, JD Supra, 2026.)*
 2. **Leyes especiales:** de **residuos** (LGPGIR), de **aguas** (Ley de Aguas Nacionales), forestal, de
    vida silvestre, de **cambio climático** (LGCC), y de **transición energética**.
 3. **Responsabilidad ambiental:** la **Ley Federal de Responsabilidad Ambiental (LFRA, 2013 ⚠️)** creó un

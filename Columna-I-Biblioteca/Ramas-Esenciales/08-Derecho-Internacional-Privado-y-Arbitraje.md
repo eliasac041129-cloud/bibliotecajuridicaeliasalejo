@@ -105,10 +105,11 @@ El DIP tiene raíces medievales (la **teoría de los estatutos** en las ciudades
 ley aplicaba entre comerciantes de distintas ciudades) y se sistematizó en el siglo XIX (con **Savigny** y
 su idea de localizar cada relación jurídica en su "asiento"). El **arbitraje** es tan antiguo como el
 comercio (los mercaderes siempre prefirieron jueces de su gremio a los tribunales del rey), pero su forma
-moderna e internacional se consolidó en el siglo XX con dos hitos: la **Convención de Nueva York de 1958**
-⚠️ (que hizo ejecutables los laudos en todo el mundo) y la **Ley Modelo UNCITRAL/CNUDMI de 1985** ⚠️ (que
-armonizó las leyes nacionales de arbitraje). México adoptó ambas: es parte de la Convención de Nueva York e
-incorporó la Ley Modelo en su **Código de Comercio**.
+moderna e internacional se consolidó en el siglo XX con dos hitos: la **Convención de Nueva York, hecha el
+10 de junio de 1958 ✅** (que hizo ejecutables los laudos en todo el mundo) y la **Ley Modelo UNCITRAL/CNUDMI
+de 1985 ✅** (que armonizó las leyes nacionales de arbitraje). México adoptó ambas: **ratificó la Convención
+de Nueva York en 1971** (publicada en el DOF el 22-jun-1971) e **incorporó la Ley Modelo a su Código de
+Comercio en 1993** ✅ (verificado 2026-07: UNCITRAL/ONU; Global Arbitration Review; Global Legal Insights).
 
 ## 5. Evolución histórica
 
