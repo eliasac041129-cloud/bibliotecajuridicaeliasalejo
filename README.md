@@ -6,7 +6,8 @@
 > actuar de su lector, hasta convertirlo en un **asesor indispensable** para quienes toman las
 > decisiones empresariales más importantes.
 
-> **Estado: versión de estudio `v2.1` (sellada, 2026-07).** 49 tratados + Laboratorio (11 ejercicios) +
+> **Estado: `v2.1` sellada (2026-07); `v2.2` en curso** (añade 3 materias faltantes: Procesal Penal,
+> Familiar y Sucesiones, Agrario). **52 tratados** + Laboratorio (11 ejercicios) +
 > Sistema de Repaso. **Fechado global:** salvo indicación en contrario, el contenido está a **2026-07**;
 > **verifica toda norma, tasa, monto y artículo contra su texto vigente** (DOF/SAT/SJF). Es un **sistema
 > conceptual y de estudio**, no una fuente autoritativa de citas: los **números de artículo** están
@@ -35,7 +36,7 @@ se levantan **en secuencia**, según lo que el lector necesita en cada etapa.
 
 | Columna | Nombre | Pregunta que responde | Estado |
 |---------|--------|------------------------|--------|
-| **I** | **Biblioteca Jurídica** | ¿Qué debo aprender? | ✅ Completa (5 niveles + Ramas Esenciales · 49 tratados) |
+| **I** | **Biblioteca Jurídica** | ¿Qué debo aprender? | ✅ Completa (5 niveles + Ramas Esenciales · 52 tratados) |
 | **II** | **Hoja de Ruta** | ¿Qué hacer, cuándo y por qué? | ✅ Completa |
 | **III** | **Laboratorio Profesional** | ¿Cómo trabaja de verdad un abogado corporativo? | ✅ Completa (3 tramos · 11 ejercicios) |
 | **IV** | **Sistema del Socio** | ¿Cómo se construye una carrera jurídica extraordinaria? | ✅ Completa (6 módulos) |
@@ -56,7 +57,7 @@ bibliotecajuridicaeliasalejo/
 ├── 00_MANIFIESTO_EDITORIAL.md         ← anexo de estándar editorial
 ├── INDICE_MAESTRO.md                  ← mapa navegable de todo
 │
-├── Columna-I-Biblioteca/              ← QUÉ aprender (49 tratados: 38 en Niveles I-V + 11 Ramas Esenciales)
+├── Columna-I-Biblioteca/              ← QUÉ aprender (52 tratados: 38 en Niveles I-V + 14 Ramas Esenciales)
 │   ├── Nivel-I-Fundamentos/
 │   ├── Nivel-II-Derecho-Civil-Profundo/
 │   ├── Nivel-III-Derecho-Mercantil/

@@ -34,6 +34,9 @@ la necesitas. Guía sugerida:
 | 09 | **Protección de Datos Personales** | Con DD y tech | Riesgo creciente en *due diligence* y compliance. |
 | 10 | **Derecho Ambiental** | Con DD industrial | Pasivos ambientales ocultos que estallan post-closing. |
 | 11 | **Ética Profesional y Responsabilidad del Abogado** | Cuanto antes | El Principio 2 del proyecto (Integridad) hecho disciplina: conflictos, secreto profesional. |
+| 12 | **Derecho Procesal Penal** | Con el Nivel IV / tras Penal (06) | Defensa *white-collar* de directivos y consejeros y responsabilidad penal de la persona moral. |
+| 13 | **Derecho Familiar y Sucesiones** | Con la Columna V | Régimen matrimonial, sucesión del control y **empresa familiar**: continuidad y planeación patrimonial. |
+| 14 | **Derecho Agrario** | Con proyectos sobre tierra | Propiedad social (ejido/comunidad): riesgo de titularidad en real estate, energía e infraestructura. |
 
 > **La idea que debe quedarte:** el corporativo de élite no es un especialista aislado; es un
 > **generalista de altísimo nivel** que sabe cuándo llamar (y cómo dirigir) al fiscalista, al
