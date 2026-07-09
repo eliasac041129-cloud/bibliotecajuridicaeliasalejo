@@ -89,6 +89,7 @@ Principio Supremo se aplica, no solo se predica.
 | 2026-07 | Ramas Esenciales · 08 DIP/Arbitraje | Fechas de convenciones marcadas ⚠️ | **Verificado ✅:** **Convención de Nueva York** hecha el **10-jun-1958**, ratificada por México en **1971** (DOF 22-jun-1971); **Ley Modelo UNCITRAL de 1985** incorporada al Código de Comercio en **1993**. Añadidas fechas al tratado | UNCITRAL/ONU; Global Arbitration Review; Global Legal Insights |
 | 2026-07 | Ramas Esenciales · 09 Datos | INAF: sucesor impreciso; GDPR/LFPDPPP marcados ⚠️ | **Verificado ✅:** **GDPR aplicable 25-may-2018** (adoptado 27-abr-2016); **LFPDPPP de 2010**. **Precisado:** el INAI se extinguió y sus funciones pasaron a la **Secretaría Anticorrupción y Buen Gobierno** (desde **21-mar-2025**), con nueva **Ley General de Protección de Datos** | Comisión Europea; DLA Piper; GT Law, Recording Law (2025) |
 | 2026-07 | Ramas Esenciales · 10 Ambiental | LGEEPA marcada ⚠️; sin mención de reforma en curso | **Verificado ✅:** **LGEEPA en vigor desde 1988**. **❗Hallazgo:** **iniciativa presidencial (mayo 2026)** para una **nueva LGEEPA** que reemplazaría la de 1988 → añadida alerta en el tratado | JD Supra; Holland & Knight (2026) |
+| 2026-07 (v3.0) | III-02 Sociedades (LGSM) | Artículos ⚠️ | **Verificado ✅ (lote):** **LGSM art. 1** (los 7 tipos de sociedad mercantil), **art. 88** (capital autorizado de la S.A.); LGSM con última reforma **DOF 14-mar-2016** | Fuentes jurídicas y académicas (LGSM DOF 2016) |
 
 > *(Cuando se detecten y corrijan más errores, se agregan renglones aquí.)*
 

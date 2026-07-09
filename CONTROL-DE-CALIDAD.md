@@ -8,14 +8,16 @@
 
 ## 1. Alcance revisado
 
-- **49 tratados** de la Columna I (38 en Niveles I–V + 11 en Ramas Esenciales).
+- **52 tratados** de la Columna I (38 en Niveles I–V + 14 en Ramas Esenciales). *Actualizado en v2.2 con
+  los tratados 12 (Procesal Penal), 13 (Familiar y Sucesiones) y 14 (Agrario), verificados con 47 secciones,
+  0 enlaces rotos y markdown sano.*
 - Documentos rectores, Laboratorio (11 ejercicios), Sistema de Repaso.
 
 ## 2. Resultados (✅ = correcto)
 
 | Chequeo | Resultado |
 |---------|-----------|
-| **Integridad de archivos** | ✅ Los 49 tratados completos, sin truncamientos. |
+| **Integridad de archivos** | ✅ Los 52 tratados completos, sin truncamientos. |
 | **Enlaces internos (`.md`)** | ✅ **0 enlaces rotos** (se resolvieron todas las referencias cruzadas). |
 | **Markdown** | ✅ Sano (todos los bloques de código ` ``` ` cerrados). |
 | **Typos** | ✅ Corregido 1 ("doned es" → "donde es", ejercicio 11 del Laboratorio). |
@@ -28,7 +30,7 @@ La pasada detectó **tres formatos** conviviendo. Se **homologan por norma** (ve
 
 | Grupo | Tratados | Encabezados `##` | Estándar |
 |-------|----------|------------------|----------|
-| **Ramas Esenciales (01–11) + IV-09, IV-10** | 13 | **47** | V3 pleno: 43 numeradas + **4** transversales ✦ al cierre. |
+| **Ramas Esenciales (01–14) + IV-09, IV-10** | 16 | **47** | V3 pleno: 43 numeradas + **4** transversales ✦ al cierre. |
 | **V3 "primera hornada"** (Nivel II, III, IV-01–08, V) | 23 | **46** | V3: 43 numeradas + **3** transversales ✦ al cierre; la 4ª —*Nivel de importancia profesional*— aparece como **bloque de estrellas al inicio** ("vista rápida"). **Formato válido.** |
 | **Nivel I · Fundamentos** | 13 | 32 | Estándar fundacional de 30 secciones + **bloque de 4 secciones transversales V3** añadido al cierre (como subsecciones). **Formato válido.** |
 

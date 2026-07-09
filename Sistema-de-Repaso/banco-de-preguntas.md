@@ -230,6 +230,45 @@ qué busca cada una.
 
 ---
 
+## 13. Derecho Procesal Penal
+
+**13.1** ¿Por qué "el caso se gana en la investigación" en el sistema acusatorio?
+> **Modelo:** las decisiones clave (legalidad de la detención, vinculación a proceso, **prisión
+> preventiva**) se toman en la audiencia inicial y la investigación; al llegar al juicio, gran parte ya se
+> definió. Por eso la defensa técnica **temprana** es decisiva.
+
+**13.2 [CASO]** Detienen al director de finanzas de tu cliente por presunta defraudación fiscal. ¿Primeras
+horas?
+> **Modelo:** defensa presente antes de declarar (no autoincriminación); verificar legalidad de la
+> detención (control en 48 h ⚠️); combatir vinculación (atipicidad/dolo) y **prisión preventiva** (¿está
+> en el catálogo oficioso del art. 19? ⚠️ → amparo); acceder a la carpeta; valorar salidas. Proteger a la
+> persona moral (compliance).
+
+## 14. Derecho Familiar y Sucesiones
+
+**14.1** ¿Por qué debe todo empresario tener testamento?
+> **Modelo:** morir **intestado** con acciones fragmenta el control entre herederos legales y desata un
+> juicio sucesorio que puede **paralizar** la empresa. La **libertad de testar** (⚠️ límite alimentario)
+> permite dejar el control a quien continúa.
+
+**14.2 [CASO]** Un socio casado por sociedad conyugal vende sus acciones en un M&A. ¿Qué cuidas?
+> **Modelo:** las acciones pueden ser **bien común** → exigir el **consentimiento del cónyuge** (o poder)
+> como condición de cierre para blindar la validez; revisarlo en la due diligence.
+
+## 15. Derecho Agrario
+
+**15.1** ¿Por qué un vicio de asamblea ejidal puede derrumbar un proyecto años después?
+> **Modelo:** casi todo acto sobre tierra social exige **asamblea válida** (quórum, convocatoria,
+> formalidades reforzadas); su incumplimiento acarrea **nulidad**, que puede impugnarse tiempo después y
+> anular la titularidad —con la inversión ya hecha—.
+
+**15.2 [CASO]** Tu cliente instalará un parque solar sobre tierra que un ejido ofrece. ¿Cómo estructuras?
+> **Modelo:** due diligence agraria (origen, tipo de tierra, RAN, conflictos); vía de acceso (para energía,
+> **arrendamiento** de largo plazo u ocupación) mediante **asamblea válida** + inscripción en el RAN;
+> **consulta** y licencia social (Convenio 169 OIT ⚠️); cláusulas de titularidad en el contrato.
+
+---
+
 *Banco vivo: agrega tus propias preguntas al terminar cada tratado (usa sus secciones 32 "Preguntas
 difíciles" y 33 "Casos de examen"). El objetivo es responder **por escrito** y comparar. Verifica todo dato
 duro contra la fuente vigente.*

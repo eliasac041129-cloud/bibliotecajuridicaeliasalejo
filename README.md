@@ -6,12 +6,13 @@
 > actuar de su lector, hasta convertirlo en un **asesor indispensable** para quienes toman las
 > decisiones empresariales más importantes.
 
-> **Estado: `v2.1` sellada (2026-07); `v2.2` en curso** (añade 3 materias faltantes: Procesal Penal,
-> Familiar y Sucesiones, Agrario). **52 tratados** + Laboratorio (11 ejercicios) +
-> Sistema de Repaso. **Fechado global:** salvo indicación en contrario, el contenido está a **2026-07**;
-> **verifica toda norma, tasa, monto y artículo contra su texto vigente** (DOF/SAT/SJF). Es un **sistema
-> conceptual y de estudio**, no una fuente autoritativa de citas: los **números de artículo** están
-> marcados ⚠️ y su verificación *verbatim* es tarea de la v2.2 (ver [Control de Calidad](./CONTROL-DE-CALIDAD.md)).
+> **Estado: `v2.2` sellada; `v3.0` en curso (2026-07).** **52 tratados** + Laboratorio (11 ejercicios) +
+> Sistema de Repaso + **Glosario Bilingüe**. La v3.0 añade la **capa de enriquecimiento** (glosario
+> español⇄inglés, mazo Anki y banco de preguntas ampliados). **Fechado global:** salvo indicación en
+> contrario, el contenido está a **2026-07**; **verifica toda norma, tasa, monto y artículo contra su texto
+> vigente** (DOF/SAT/SJF). Es un **sistema conceptual y de estudio**: los **números de artículo** están
+> marcados ⚠️ y su verificación *verbatim* (para el sello "Referencia Verificada plena") sigue pendiente
+> —ver [Control de Calidad](./CONTROL-DE-CALIDAD.md) y el CHANGELOG—.
 
 ---
 
@@ -25,7 +26,7 @@
 | 4 | [**02 · El Sistema Diario**](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) | **Plan operativo.** Qué haces hoy, a qué hora y por cuánto tiempo. Convierte todo el repo en una rutina diaria. |
 | 5 | [**03 · Plan de Inglés Jurídico**](./Columna-II-Hoja-de-Ruta/03_PLAN_DE_INGLES_JURIDICO_AJE.md) | **La llave no negociable.** Materializa el Principio 6 (Bilingüismo): rutina, recursos e inglés legal. |
 | 6 | [**04 · La Tesis Estratégica**](./Columna-II-Hoja-de-Ruta/04_LA_TESIS_ESTRATEGICA.md) | Convierte la tesis (R&W en el SPA) en activo de carrera: pregunta, hipótesis y esquema. |
-| 7 | [Índice Maestro](./INDICE_MAESTRO.md) · [Guía Metodológica](./GUIA-METODOLOGICA.md) · [Mapa Biblioteca↔Materias](./MAPA_BIBLIOTECA-A-MATERIAS.md) · [Protocolo de Verificación](./PROTOCOLO_DE_VERIFICACION.md) · [Avance](./AVANCE.md) · [Changelog](./CHANGELOG.md) | Navegación, método, puente con materias, integridad del contenido, estado y bitácora. |
+| 7 | [Índice Maestro](./INDICE_MAESTRO.md) · [Guía Metodológica](./GUIA-METODOLOGICA.md) · [Mapa Biblioteca↔Materias](./MAPA_BIBLIOTECA-A-MATERIAS.md) · [Protocolo de Verificación](./PROTOCOLO_DE_VERIFICACION.md) · [Control de Calidad](./CONTROL-DE-CALIDAD.md) · [Glosario Bilingüe](./GLOSARIO-BILINGUE.md) · [Avance](./AVANCE.md) · [Changelog](./CHANGELOG.md) | Navegación, método, puente con materias, integridad, QA, bilingüismo, estado y bitácora. |
 
 ---
 
