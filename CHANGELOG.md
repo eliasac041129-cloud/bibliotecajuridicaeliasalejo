@@ -6,7 +6,35 @@
 
 ---
 
-## [2.2] — 2026-07 · «Materias faltantes: currículum completo» — *en curso (rama `v2.2-materias-faltantes`, PR)*
+## [3.0] — 2026-07 · «Referencia y enriquecimiento» — *en curso (rama `v3.0-referencia`, PR)*
+
+> **Qué es la v3.0.** Añade la **capa de enriquecimiento** que separa una biblioteca "completa" de una "de
+> referencia": glosario bilingüe, sistema de repaso ampliado y avance de verificación. **Honestidad
+> (Principio Supremo):** la v3.0 **no** significa "todo verificado". Persisten **~900 marcas ⚠️** (números
+> de artículo) cuya verificación *verbatim* está **gated en el acceso a texto legal íntegro** (las
+> herramientas confirman tasas, fechas y hechos de reforma, pero no permiten extraer el articulado
+> completo). El sello "**Referencia Verificada plena**" llegará cuando se cierren esas marcas.
+
+### Añadido
+- **`GLOSARIO-BILINGUE.md`** — glosario maestro **español ⇄ inglés** (~180 términos en 13 áreas) + sección
+  de **"falsos amigos"** (crédito fiscal ≠ *tax credit*, rescisión ≠ *rescission*, sede ≠ *venue*, etc.).
+  Materializa el **Principio 6 (bilingüismo)**.
+- **Sistema de Repaso ampliado:** mazo **Anki** con +44 tarjetas (Procesal Penal, Familiar, Agrario y
+  bilingües) y **banco de preguntas** con las secciones 13–15 de las nuevas materias.
+- **CONTROL-DE-CALIDAD** actualizado a **52 tratados**.
+
+### Verificado (✅, avance)
+- Lote adicional cotejado por búsqueda de frase exacta: **LGSM art. 1 y art. 88** (registrado en el
+  Protocolo §V). Suma a lo ya verificado en v2.1 (ISR/IVA, fechas de reforma, etc.).
+
+### Pendiente (para "Referencia Verificada plena")
+- Verificación *verbatim* de los **~900 números de artículo** (CFF, LISR, LGSM, LGTOC, LMV, CCF, LFT, CPF,
+  Ley de Amparo, LFPPI, LGEEPA, Ley Agraria…) —requiere fuente de texto legal íntegro navegable—; **banco
+  de jurisprudencia** verificada en el SJF; bibliografías con edición/año.
+
+---
+
+## [2.2] — 2026-07 · «Materias faltantes: currículum completo» — *sellada (rama `v2.2`)*
 
 > Completa el **plan de estudios** con las materias que faltaban para **titularse** y ejercer con solidez.
 > La Biblioteca pasa de **49 a 52 tratados**.
