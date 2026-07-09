@@ -12,7 +12,7 @@
 
 ## I. La verdad incómoda que ordena este documento
 
-Tienes más conocimiento construido (36 tratados + un laboratorio completo) del que puedes
+Tienes más conocimiento construido (38 tratados + un laboratorio completo) del que puedes
 estudiar en un año. **Tu problema ya no es falta de material: es falta de un sistema que te haga
 usarlo todos los días, sin descuidar lo urgente.** Este documento existe para que el Proyecto AJE
 deje de ser una biblioteca que admiras y se vuelva una máquina que ejecutas.

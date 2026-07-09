@@ -79,6 +79,7 @@ Principio Supremo se aplica, no solo se predica.
 | Fecha | Tratado | Error | Corrección | Fuente |
 |-------|---------|-------|------------|--------|
 | 2026-06 | III-02 Sociedades (LGSM) | Decía que la **S.A.S.** se creó en "2014" | Corregido a **2016** (reforma a la LGSM publicada en el DOF el 14-mar-2016, en vigor 6 meses después) | Publicaciones jurídicas sobre la reforma de 2016 |
+| 2026-07 | IV-10 Competencia; I-03 Teoría del Estado; y menciones dispersas en IV-01, IV-02, IV-03, III-04 | Describían a la **COFECE** y al **IFT** como autoridades **vigentes** | Añadido recuadro de **Actualización Normativa Crítica**: la reforma de **simplificación orgánica (2024)** y la reforma a la **LFCE (en vigor 17-jul-2025)** **extinguieron COFECE e IFT** y crearon la **Comisión Nacional Antimonopolio (CNA)** como autoridad única. Donde el texto diga "COFECE", léase "la autoridad de competencia (hoy la CNA)" | Análisis de firmas (ABA, Hogan Lovells, Chambers, Norton Rose Fulbright), 2025; verificar contra el DOF |
 
 > *(Cuando se detecten y corrijan más errores, se agregan renglones aquí.)*
 

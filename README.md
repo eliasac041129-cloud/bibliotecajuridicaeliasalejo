@@ -50,7 +50,7 @@ bibliotecajuridicaeliasalejo/
 ├── 00_MANIFIESTO_EDITORIAL.md         ← anexo de estándar editorial
 ├── INDICE_MAESTRO.md                  ← mapa navegable de todo
 │
-├── Columna-I-Biblioteca/              ← QUÉ aprender (36 tratados)
+├── Columna-I-Biblioteca/              ← QUÉ aprender (38 tratados)
 │   ├── Nivel-I-Fundamentos/
 │   ├── Nivel-II-Derecho-Civil-Profundo/
 │   ├── Nivel-III-Derecho-Mercantil/

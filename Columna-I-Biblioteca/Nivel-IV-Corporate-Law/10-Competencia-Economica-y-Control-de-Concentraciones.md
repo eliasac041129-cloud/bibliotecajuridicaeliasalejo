@@ -31,6 +31,34 @@ en el deal.*
 
 ---
 
+> ### 🛑 ACTUALIZACIÓN NORMATIVA CRÍTICA — Reforma 2024-2025 (la COFECE y el IFT desaparecen)
+>
+> **Contenido a fecha: 2026-07. ✅ Verificado.** Este libro fue redactado describiendo a la **COFECE**
+> (Comisión Federal de Competencia Económica) y al **IFT** como las autoridades. **Eso ya no es el
+> derecho vigente.** Debes leer todo el tratado con esta corrección en mente:
+>
+> - En 2024 se aprobó una **reforma constitucional de "simplificación orgánica"** que ordenó
+>   **extinguir varios órganos constitucionales autónomos**, entre ellos la **COFECE** y el **IFT**.
+> - En consecuencia, se reformó la **Ley Federal de Competencia Económica** (publicada en el DOF y
+>   **en vigor el 17 de julio de 2025**), que **crea la Comisión Nacional Antimonopolio (CNA)** como
+>   **autoridad única** en materia de competencia, sucesora de la COFECE. Las funciones de telecom/
+>   radiodifusión del IFT se reasignaron a la nueva arquitectura regulatoria del sector.
+> - A finales de 2025 se encontraba en curso la **integración del Pleno de comisionados** de la CNA.
+>
+> **Cómo usar este tratado con la reforma:** donde leas **"COFECE"**, entiende **"la autoridad de
+> competencia (hoy la CNA)"**; la **lógica** del control de concentraciones, los umbrales, el
+> *gun-jumping*, las prácticas monopólicas y los *remedies* **se conservan sustancialmente** —por eso
+> el tratado sigue siendo válido en su estructura—, pero **la denominación de la autoridad, los
+> plazos y los artículos concretos deben verificarse contra el texto vigente de la LFCE reformada y
+> las reglas secundarias que emita la CNA.** ⚠️ *No cites "COFECE" como autoridad vigente en un
+> documento real.*
+>
+> *Fuentes: análisis de firmas internacionales sobre la reforma (ABA Antitrust, Hogan Lovells,
+> Chambers, Norton Rose Fulbright), 2025. Contenido reformulado. Verificar el texto de la ley en el
+> DOF antes de aplicarlo.*
+
+---
+
 ### Nivel de importancia profesional (vista rápida)
 ```
 Litigio              ★★★☆☆
@@ -78,8 +106,8 @@ Al terminar, el lector será capaz de:
 - Reconocer el riesgo de ***gun-jumping*** (consumar antes de la autorización) y por qué es grave.
 - Integrar la competencia en el diseño de un *deal*: como **condición de cierre**, en las
   declaraciones, en el calendario y en la repartición del riesgo regulatorio.
-- Conocer a las autoridades mexicanas (**COFECE** e **IFT**) y la lógica del **programa de
-  inmunidad** (delación).
+- Conocer a la autoridad mexicana de competencia (**la CNA**, sucesora de la extinta **COFECE**; ver
+  recuadro de actualización) y la lógica del **programa de inmunidad** (delación).
 
 ## 3. Importancia profesional
 
@@ -107,7 +135,10 @@ competencia de la **Unión Europea** muy robusto. México tuvo antecedentes desd
 prohibición de monopolios) pero su sistema moderno se consolidó con la **Ley Federal de Competencia
 Económica** y, sobre todo, con la **reforma constitucional de 2013** que creó la **COFECE** (Comisión
 Federal de Competencia Económica) como **órgano constitucional autónomo**, y el **IFT** para
-telecomunicaciones y radiodifusión. ⚠️ *Verificar fechas y denominaciones vigentes.*
+telecomunicaciones y radiodifusión. **Sin embargo, la reforma de "simplificación orgánica" de
+2024-2025 extinguió tanto la COFECE como el IFT y creó la Comisión Nacional Antimonopolio (CNA)
+como autoridad única** (ver el recuadro de *Actualización Normativa Crítica* al inicio del libro).
+⚠️ *Verificar fechas, denominaciones y el texto vigente de la LFCE reformada.*
 
 ## 5. Evolución histórica
 

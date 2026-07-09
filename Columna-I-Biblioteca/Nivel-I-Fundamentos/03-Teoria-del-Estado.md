@@ -366,9 +366,13 @@ El orden constitucional mexicano es teoría del Estado positivizada. Artículos 
   motivación: el núcleo del **Estado de Derecho** que protege a empresas y particulares.
 - **Art. 133:** supremacía constitucional.
 - **Órganos constitucionales autónomos:** el diseño mexicano creó autoridades fuera del
-  esquema tradicional de tres poderes —Banco de México, INE, CNDH, COFECE, IFT, INEGI—,
-  pensadas para decisiones técnicas e independientes. **Para el corporativo, la COFECE y la
-  CNBV/IFT son las más relevantes.**
+  esquema tradicional de tres poderes —Banco de México, INE, CNDH, INEGI— pensadas para
+  decisiones técnicas e independientes. ⚠️ **Actualización 2024-2025:** la reforma de
+  **simplificación orgánica** **extinguió varios de estos órganos** (entre ellos la **COFECE**
+  y el **IFT**): las funciones de competencia pasaron a la nueva **Comisión Nacional
+  Antimonopolio (CNA)**. **Para el corporativo, la autoridad de competencia (hoy la CNA,
+  sucesora de la COFECE) y la CNBV siguen siendo las más relevantes.** *Verificar el estado
+  vigente de cada órgano contra el DOF.*
 
 **El presidencialismo mexicano:** Jorge Carpizo describió cómo, durante el siglo XX, el
 presidencialismo mexicano concentró un poder superior al que la Constitución preveía

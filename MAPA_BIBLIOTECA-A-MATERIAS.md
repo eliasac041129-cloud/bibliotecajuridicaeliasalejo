@@ -125,7 +125,7 @@ es tu prioridad #1— usa esta secuencia eficiente, no leas el tratado entero de
 - **Prioridad:** Fase 0 de la [Hoja de Ruta](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) (titularte) y el orden de
   prioridad del [Sistema Diario](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) (lo académico es el #1).
 - **Método:** la [Guía Metodológica](./GUIA-METODOLOGICA.md) explica cómo estudiar cada tratado.
-- **Navegación:** el [Índice Maestro](./INDICE_MAESTRO.md) lista los 36 tratados.
+- **Navegación:** el [Índice Maestro](./INDICE_MAESTRO.md) lista los 38 tratados.
 
 > **La idea que debe quedarte:** no estudias la Biblioteca "además de" la escuela — la usas **para**
 > la escuela. El mismo esfuerzo que te hace aprobar hoy te está construyendo el experto de mañana.
