@@ -21,19 +21,28 @@ de **38 a 49 tratados**.
   **10 Ambiental** y **11 Ética Profesional**. Incluye un **README-índice** con la guía de *cuándo*
   estudiar cada rama (no es una escalera, es un mapa).
 
+- **Enriquecimiento del Nivel I:** se inyectaron las **4 secciones transversales V3** (¿Por qué importa al
+  corporativo?, Cómo piensa un socio, Errores que cuestan millones, Nivel de importancia ★) a los **13
+  tratados fundacionales**, que estaban en el estándar de 30 secciones.
+- **Nueva carpeta `Sistema-de-Repaso/`** (retención): **mazo Anki (`flashcards-anki.csv`)** importable con
+  ~130 tarjetas de todas las materias, y **banco de preguntas** por área con respuestas modelo, más una
+  guía de repaso espaciado.
+- **Columna III · Laboratorio → Tramo 3:** nuevo **Ejercicio 11 · El Redline** (marcar el borrador de la
+  contraparte), la destreza más usada por el asociado junior. El Laboratorio pasa a **3 tramos · 11
+  ejercicios**.
+
 ### Corregido
 - **COFECE/IFT → CNA:** la reforma de simplificación orgánica (2024) y la reforma a la **LFCE** (en vigor
   17-jul-2025) **extinguieron la COFECE y el IFT** y crearon la **Comisión Nacional Antimonopolio (CNA)**.
   Añadido recuadro de *Actualización Normativa Crítica* en el tratado IV-10 (Competencia), nota en I-03
   (Teoría del Estado) y registro en el **Protocolo de Verificación** (§V). Menciones análogas señaladas
   en Constitucional/Amparo, Administrativo y Datos (extinción del **INAI** por la misma reforma).
-- **Conteo de tratados** unificado a **49** (38 en Niveles I–V + 11 Ramas Esenciales) en README, Índice
-  Maestro, Avance y Mapa.
+- **Conteo** unificado: **49 tratados** (38 en Niveles I–V + 11 Ramas Esenciales) y Laboratorio con **11
+  ejercicios**, en README, Índice Maestro, Avance y Mapa.
 
 ### Pendiente
 - Verificación puntual de los datos duros de Ramas Esenciales (redactados con ⚠️; ver backlog del
-  Protocolo §VI). Enriquecimiento de los 13 tratados del Nivel I con las 4 secciones transversales.
-  Sistema de práctica/retención (mazo Anki, banco de preguntas, ejercicio de *redline*).
+  Protocolo §VI).
 
 ---
 

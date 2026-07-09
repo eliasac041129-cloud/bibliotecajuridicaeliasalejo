@@ -27,6 +27,7 @@
 | [Plantilla de Libro](./PLANTILLA-LIBRO.md) | Estructura V3 (43 secciones + transversales). |
 | [Avance](./AVANCE.md) | Tablero de control (columnas + biblioteca). |
 | [Changelog](./CHANGELOG.md) | Bitácora de versiones (V1 → V2). |
+| [Sistema de Repaso](./Sistema-de-Repaso/) | Herramientas de retención: **mazo Anki (CSV)** y **banco de preguntas** con repaso espaciado. |
 
 ---
 
@@ -104,7 +105,7 @@
 - [03 · Plan de Inglés Jurídico](./Columna-II-Hoja-de-Ruta/03_PLAN_DE_INGLES_JURIDICO_AJE.md) — la llave no negociable
 - [04 · La Tesis Estratégica](./Columna-II-Hoja-de-Ruta/04_LA_TESIS_ESTRATEGICA.md) — tesis (R&W en el SPA) como activo de carrera
 
-## 5. Columna III · Laboratorio Profesional — ✅ completo (2 tramos · 10 ejercicios)
+## 5. Columna III · Laboratorio Profesional — ✅ completo (3 tramos · 11 ejercicios)
 - [00 · Laboratorio Profesional (documento rector)](./Columna-III-Laboratorio/00_LABORATORIO_PROFESIONAL_AJE.md)
 - **Tramo 1 · Ciclo de M&A:**
 - [01 · El Memorándum Legal](./Columna-III-Laboratorio/01-El-Memorandum-Legal.md) — ✅
@@ -118,8 +119,11 @@
 - [08 · Actas, Asambleas y Resoluciones](./Columna-III-Laboratorio/08-Actas-Asambleas-y-Resoluciones.md) — ✅
 - [09 · La Opinión Legal](./Columna-III-Laboratorio/09-La-Opinion-Legal.md) — ✅
 - [10 · La Presentación al Cliente y al Consejo](./Columna-III-Laboratorio/10-La-Presentacion-al-Cliente-y-al-Consejo.md) — ✅
+- **Tramo 3 · Destrezas de negociación:**
+- [11 · El Redline: marcar el borrador de la contraparte](./Columna-III-Laboratorio/11-El-Redline-Marcado-del-Borrador-de-la-Contraparte.md) — ✅
 
-> Los 10 ejercicios recorren una misma operación de M&A ("Proyecto Caramelo") de principio a fin.
+> Los ejercicios 01-10 recorren una misma operación de M&A ("Proyecto Caramelo") de principio a fin; el 11
+> añade la destreza más usada por el asociado junior: **marcar (redline) el borrador de la contraparte**.
 
 ## 6. Columnas IV y V
 ### Columna IV · Sistema del Socio — ✅ completa
