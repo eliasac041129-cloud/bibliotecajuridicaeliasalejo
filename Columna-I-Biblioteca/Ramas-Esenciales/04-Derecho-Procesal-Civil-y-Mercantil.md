@@ -25,8 +25,10 @@ la ejecución.*
 > aplicable a la entidad/fuero"*.
 
 > **🛑 ACTUALIZACIÓN — Código Nacional de Procedimientos Civiles y Familiares (CNPCF).** México aprobó un
-> **código procesal único** (2023 ⚠️) que sustituye gradualmente a los códigos de procedimientos civiles
-> locales, con un calendario de entrada en vigor **escalonado por entidad hasta ~2027 ⚠️**. En lo
+> **código procesal único ✅** (verificado, 2026-07): el **CNPCF** fue **publicado en el DOF el 7-jun-2023**
+> (en vigor al día siguiente) y sustituye gradualmente a los códigos de procedimientos civiles y familiares
+> locales —y al Código Federal de Procedimientos Civiles—, con entrada en vigor **escalonada por entidad,
+> sin exceder del 1º de abril de 2027** ✅. En lo
 > **mercantil**, rige el **Código de Comercio** (juicios ejecutivo y oral mercantil). Verifica **qué
 > ordenamiento aplica** a tu caso según fuero, materia, entidad y fecha. Contenido reformulado.
 

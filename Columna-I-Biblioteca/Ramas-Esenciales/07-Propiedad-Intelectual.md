@@ -15,9 +15,18 @@ reconocimiento: 8–10 h. *Estúdialo así: qué es la PI y por qué se protege 
 patentes, secretos) → derechos de autor y software → licencias y transmisión → la PI en VC/M&A.*
 
 > **⚠️ AVISO DE VERIFICACIÓN. Contenido a fecha: 2026-07.** En México, la **Ley Federal de Protección a la
-> Propiedad Industrial (LFPPI)** sustituyó (2020 ⚠️) a la antigua Ley de la Propiedad Industrial; rige la
-> **Ley Federal del Derecho de Autor (LFDA)**; y el **IMPI** e **INDAUTOR** son las autoridades. Los
-> **plazos de vigencia, requisitos y artículos** cambian con reformas. Siguiendo el
+> Propiedad Industrial (LFPPI)** —en vigor el **5-nov-2020** ✅ (abrogó la Ley de la Propiedad Industrial de
+> 1991)— rige la propiedad industrial; la **Ley Federal del Derecho de Autor (LFDA)** rige el derecho de
+> autor; y el **IMPI** e **INDAUTOR** son las autoridades. Los **plazos de vigencia, requisitos y
+> artículos** cambian con reformas.
+>
+> **🛑 ACTUALIZACIÓN 2026 (verificar):** en **abril de 2026** se publicó en el DOF una **reforma integral a
+> la LFPPI**, y su **reglamento** entra en vigor a mediados de 2026 ⚠️. Varios artículos, plazos y
+> procedimientos citados aquí (redactados sobre la LFPPI de 2020) **pueden haber cambiado**: coteja
+> **siempre** contra el texto vigente de la LFPPI reformada y su reglamento. *(Fuentes: Creel, NatLaw
+> Review, 2026.)*
+>
+> Siguiendo el
 > [Protocolo de Verificación](../../PROTOCOLO_DE_VERIFICACION.md), este tratado enseña la **lógica y la
 > estructura** y marca **⚠️** todo artículo, plazo y dato como *"verificar contra el texto vigente"*.
 
@@ -110,7 +119,8 @@ internet, IA). ⚠️ *Verificar fechas.*
 ## 5. Evolución histórica
 
 En **México**, el gran cambio reciente fue la **Ley Federal de Protección a la Propiedad Industrial
-(LFPPI)**, en vigor en **2020 ⚠️**, que sustituyó a la vieja Ley de la Propiedad Industrial y modernizó el
+(LFPPI)**, en vigor el **5-nov-2020** ✅ (publicada en el DOF el 1-jul-2020), que sustituyó a la vieja Ley
+de la Propiedad Industrial de 1991 y modernizó el
 sistema (nuevas figuras, alineación con tratados, endurecimiento contra la falsificación), en parte por
 compromisos del **T-MEC** (que tiene un capítulo robusto de PI ⚠️). El **derecho de autor** se rige por la
 **Ley Federal del Derecho de Autor (LFDA)**, reformada para atender el entorno digital. Tendencias

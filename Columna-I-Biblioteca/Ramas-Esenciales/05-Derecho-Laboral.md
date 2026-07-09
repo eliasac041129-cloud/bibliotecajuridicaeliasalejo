@@ -129,7 +129,9 @@ recientes reconfiguraron la materia (⚠️ verificar):
    (voto personal, libre, directo y secreto; legitimación de contratos colectivos).
 3. **Reforma de subcontratación 2021:** **prohibió** el outsourcing de personal; solo permite
    **servicios especializados** ajenos al objeto social, con registro **REPSE**.
-4. **Reforma de vacaciones 2023 ("vacaciones dignas"):** aumentó los días de vacaciones ⚠️.
+4. **Reforma de "vacaciones dignas" ✅ (verificada, 2026-07):** publicada en el DOF el **27-dic-2022**,
+   en vigor el **1-ene-2023**; aumentó el mínimo de vacaciones del primer año de **6 a 12 días**, con +2
+   días por cada año subsecuente hasta llegar a 20 (reforma a los arts. 76 y 78 LFT ⚠️).
 5. **Debates recientes:** reducción de la **jornada laboral** (hacia 40 horas ⚠️) y otros ajustes en
    proceso. *Verificar estado vigente.*
 
