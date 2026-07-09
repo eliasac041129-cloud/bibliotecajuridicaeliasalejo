@@ -6,6 +6,29 @@
 
 ---
 
+## [2.2] — 2026-07 · «Materias faltantes: currículum completo» — *en curso (rama `v2.2-materias-faltantes`, PR)*
+
+> Completa el **plan de estudios** con las materias que faltaban para **titularse** y ejercer con solidez.
+> La Biblioteca pasa de **49 a 52 tratados**.
+
+### Añadido
+- **3 tratados nuevos** en Ramas Esenciales, al estándar V3 (47 secciones = 43 + 4 transversales; datos
+  duros ⚠️; sello 2026-07):
+  - **12 · Derecho Procesal Penal** — el sistema acusatorio a fondo (etapas, prisión preventiva, salidas,
+    prueba, recursos, amparo y ejecución) y la **defensa white-collar** de directivos y de la persona moral.
+  - **13 · Derecho Familiar y Sucesiones** — regímenes patrimoniales, divorcio, sucesión (testamentaria e
+    intestamentaria), **empresa familiar** y planeación patrimonial (puente con la Columna V).
+  - **14 · Derecho Agrario** — propiedad social (ejido/comunidad), reforma de 1992, dominio pleno y acceso a
+    la tierra: riesgo de titularidad en **real estate, energía e infraestructura**.
+- **Documentos rectores** actualizados: README de Ramas Esenciales (12–14), Índice Maestro (52 tratados),
+  README y Avance (conteo 52).
+
+### Pendiente (hoja de ruta, continúa de v2.1)
+- Verificación *verbatim* de números de artículo; banco de jurisprudencia (SJF); bibliografías con edición/
+  año; glosario bilingüe; mazo Anki completo; más ejercicios de Laboratorio.
+
+---
+
 ## [2.1] — 2026-07 · «Ramas Esenciales, actualización normativa y sello de calidad» — *sellada (rama `v2.1`)*
 
 > **Sello v2.1 = "versión de estudio".** Consistente, sin defectos de forma y con los datos de **alto

@@ -82,7 +82,7 @@
 3. [Valuación de Empresas](./Columna-I-Biblioteca/Nivel-V-Maestria/03-Valuacion-de-Empresas.md)
 4. [Estrategia Corporativa y Game Theory](./Columna-I-Biblioteca/Nivel-V-Maestria/04-Estrategia-Corporativa-y-Game-Theory.md)
 
-### Ramas Esenciales · [Derecho Público, Procesal y Especial](./Columna-I-Biblioteca/Ramas-Esenciales/) — ✅ 11 tratados
+### Ramas Esenciales · [Derecho Público, Procesal y Especial](./Columna-I-Biblioteca/Ramas-Esenciales/) — ✅ 14 tratados
 > Materias **transversales** que la carrera exige y que el corporativo necesita, y que no encajan en la
 > escalera I–V. **No se estudian en orden**: cada una se activa cuando la necesitas (ver el
 > [README de la sección](./Columna-I-Biblioteca/Ramas-Esenciales/README.md)).
@@ -97,6 +97,9 @@
 9. [Protección de Datos Personales](./Columna-I-Biblioteca/Ramas-Esenciales/09-Proteccion-de-Datos-Personales.md)
 10. [Derecho Ambiental](./Columna-I-Biblioteca/Ramas-Esenciales/10-Derecho-Ambiental.md)
 11. [Ética Profesional y Responsabilidad del Abogado](./Columna-I-Biblioteca/Ramas-Esenciales/11-Etica-Profesional-y-Responsabilidad-del-Abogado.md)
+12. [Derecho Procesal Penal](./Columna-I-Biblioteca/Ramas-Esenciales/12-Derecho-Procesal-Penal.md) — *defensa white-collar y responsabilidad penal de la persona moral*
+13. [Derecho Familiar y Sucesiones](./Columna-I-Biblioteca/Ramas-Esenciales/13-Derecho-Familiar-y-Sucesiones.md) — *empresa familiar y planeación patrimonial*
+14. [Derecho Agrario](./Columna-I-Biblioteca/Ramas-Esenciales/14-Derecho-Agrario.md) — *tierra social en real estate, energía e infraestructura*
 
 ---
 
@@ -150,5 +153,5 @@
 
 ---
 
-*Total Columna I: **49 tratados** (38 en los 5 niveles + 11 en Ramas Esenciales). Índice mantenido a
+*Total Columna I: **52 tratados** (38 en los 5 niveles + 14 en Ramas Esenciales). Índice mantenido a
 mano; actualízalo al crecer.*
