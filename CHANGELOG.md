@@ -6,7 +6,13 @@
 
 ---
 
-## [2.1] — 2026-07 · «Ramas Esenciales y actualización normativa» — *en curso*
+## [2.1] — 2026-07 · «Ramas Esenciales, actualización normativa y sello de calidad» — *sellada (rama `v2.1`)*
+
+> **Sello v2.1 = "versión de estudio".** Consistente, sin defectos de forma y con los datos de **alto
+> riesgo** (tasas, fechas y hechos de reforma) **verificados y trazables** (ver
+> [CONTROL-DE-CALIDAD.md](./CONTROL-DE-CALIDAD.md) y el Protocolo §V). **No** es todavía una "referencia
+> verificada para citar/imprimir": eso llegará en la **v2.2**, al cerrar la verificación *verbatim* de los
+> números de artículo.
 
 Amplía la Columna I con las **materias transversales que faltaban** (para poder titularse y ejercer
 cualquier rama, no solo el corporativo) y corrige errores de actualidad detectados. La Biblioteca pasa
@@ -40,9 +46,18 @@ de **38 a 49 tratados**.
 - **Conteo** unificado: **49 tratados** (38 en Niveles I–V + 11 Ramas Esenciales) y Laboratorio con **11
   ejercicios**, en README, Índice Maestro, Avance y Mapa.
 
-### Pendiente
-- Verificación puntual de los datos duros de Ramas Esenciales (redactados con ⚠️; ver backlog del
-  Protocolo §VI).
+### Control de calidad (sello v2.1)
+- **Pasada de QA** documentada en [CONTROL-DE-CALIDAD.md](./CONTROL-DE-CALIDAD.md): 49 tratados íntegros,
+  **0 enlaces internos rotos**, markdown sano, 1 typo corregido.
+- **Homologación del estándar** de secciones transversales y **fechado global (2026-07)** documentados
+  (Plantilla + QA).
+- **Verificación de datos de alto riesgo** (tasas, fechas, hechos de reforma) en 10/11 Ramas + IV-10,
+  registrada en el Protocolo §V.
+
+### Pendiente (hoja de ruta v2.2)
+- **Verificación *verbatim* de números de artículo** (CFF, LISR, LGSM, etc.) —requiere fuente de texto
+  legal íntegro—; banco de jurisprudencia (SJF); materias faltantes (Procesal Penal, Familiar, Agrario);
+  bibliografías con edición/año; glosario bilingüe; mazo Anki completo; más ejercicios de Laboratorio.
 
 ---
 

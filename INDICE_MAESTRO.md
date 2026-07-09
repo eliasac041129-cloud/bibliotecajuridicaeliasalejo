@@ -28,6 +28,7 @@
 | [Avance](./AVANCE.md) | Tablero de control (columnas + biblioteca). |
 | [Changelog](./CHANGELOG.md) | Bitácora de versiones (V1 → V2). |
 | [Sistema de Repaso](./Sistema-de-Repaso/) | Herramientas de retención: **mazo Anki (CSV)** y **banco de preguntas** con repaso espaciado. |
+| [Control de Calidad](./CONTROL-DE-CALIDAD.md) | Registro de la pasada de QA del sello **v2.1** (secciones, enlaces, fechado, estado de verificación). |
 
 ---
 

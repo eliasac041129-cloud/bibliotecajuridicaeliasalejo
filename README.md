@@ -6,6 +6,12 @@
 > actuar de su lector, hasta convertirlo en un **asesor indispensable** para quienes toman las
 > decisiones empresariales más importantes.
 
+> **Estado: versión de estudio `v2.1` (sellada, 2026-07).** 49 tratados + Laboratorio (11 ejercicios) +
+> Sistema de Repaso. **Fechado global:** salvo indicación en contrario, el contenido está a **2026-07**;
+> **verifica toda norma, tasa, monto y artículo contra su texto vigente** (DOF/SAT/SJF). Es un **sistema
+> conceptual y de estudio**, no una fuente autoritativa de citas: los **números de artículo** están
+> marcados ⚠️ y su verificación *verbatim* es tarea de la v2.2 (ver [Control de Calidad](./CONTROL-DE-CALIDAD.md)).
+
 ---
 
 ## 📜 Jerarquía de documentos (léelos en este orden)
