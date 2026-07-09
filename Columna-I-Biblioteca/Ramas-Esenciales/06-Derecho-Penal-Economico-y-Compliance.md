@@ -113,10 +113,11 @@ crecieron el combate al **lavado**, a la **corrupción** y a los **delitos empre
 ## 5. Evolución histórica
 
 En **México**, dos transformaciones recientes definen la materia (⚠️ verificar):
-1. **Sistema penal acusatorio (reforma 2008, plena vigencia 2016):** México abandonó el viejo sistema
-   **inquisitorio y escrito** por uno **acusatorio, oral y adversarial**, regido por el **Código Nacional
-   de Procedimientos Penales (CNPP)**. Cambió todo: juicios orales, presunción de inocencia efectiva,
-   jueces de control, salidas alternas.
+1. **Sistema penal acusatorio ✅ (verificado, 2026-07):** la **reforma constitucional del 18 de junio de
+   2008** ordenó la transición, con **plena vigencia en todo el país el 18 de junio de 2016**. México
+   abandonó el viejo sistema **inquisitorio y escrito** por uno **acusatorio, oral y adversarial**, regido
+   por el **Código Nacional de Procedimientos Penales (CNPP), publicado en el DOF el 5 de marzo de 2014**
+   ✅. Cambió todo: juicios orales, presunción de inocencia efectiva, jueces de control, salidas alternas.
 2. **Responsabilidad penal de las personas morales:** el CNPP y reformas al Código Penal reconocieron que
    la **empresa** puede ser penalmente responsable, con un catálogo de sanciones y la relevancia del
    **"debido control"** (compliance) como factor.

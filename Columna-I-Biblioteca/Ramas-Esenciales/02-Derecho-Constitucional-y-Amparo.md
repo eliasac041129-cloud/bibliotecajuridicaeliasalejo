@@ -22,12 +22,14 @@ procedencia, suspensión) → cómo se usa en lo corporativo.*
 > **lógica y la estructura** y marca **⚠️** todo artículo, plazo y tesis como *"verificar contra el
 > texto vigente y el SJF"*. **Nunca** promuevas un amparo con datos de memoria.
 
-> **🛑 ACTUALIZACIÓN CRÍTICA — Reforma judicial 2024-2025.** En 2024 se aprobó una **reforma
-> constitucional al Poder Judicial** que estableció, entre otros cambios, la **elección por voto
-> popular** de ministros de la SCJN, magistrados y jueces, y reestructuró órganos del Poder Judicial de
-> la Federación. Esto **no cambia la lógica del amparo**, pero **sí puede afectar** la integración de
-> los tribunales que lo resuelven, algunos plazos y reglas orgánicas, y la jurisprudencia. ⚠️ *Verifica
-> el estado vigente del Poder Judicial y de la Ley de Amparo antes de litigar.* Contenido reformulado.
+> **🛑 ACTUALIZACIÓN CRÍTICA — Reforma judicial 2024.** ✅ (verificada, 2026-07) La **reforma
+> constitucional al Poder Judicial** se **publicó en el DOF el 15 de septiembre de 2024** y estableció,
+> entre otros cambios, la **elección por voto popular** de ministros de la SCJN, magistrados y jueces
+> (mandatos renovables, ~9 años para juzgadores), **redujo la SCJN de 11 a 9 ministros** y reestructuró
+> órganos del Poder Judicial de la Federación. Esto **no cambia la lógica del amparo**, pero **sí puede
+> afectar** la integración de los tribunales que lo resuelven, algunos plazos y reglas orgánicas, y la
+> jurisprudencia. ⚠️ *Verifica el estado vigente del Poder Judicial y de la Ley de Amparo antes de
+> litigar.* (Fuentes: Hogan Lovells, Norton Rose, DLA Piper, 2024.)
 
 > **Aviso de método.** Tratado, no repaso. Aquí aprendes el derecho que está **por encima** de todos los
 > demás, y el juicio que lo hace valer. Lo conectamos siempre con la empresa: el amparo es el escudo del
@@ -125,7 +127,7 @@ Tres hitos que debes conocer:
    internacionales de derechos humanos se integran al parámetro constitucional (**bloque de
    constitucionalidad**); toda autoridad debe promover, respetar, proteger y garantizar los DH, aplicar
    el **principio pro persona** y ejercer **control de convencionalidad**.
-2. **Nueva Ley de Amparo (abril 2013 ⚠️):** modernizó el juicio: amplió el **interés legítimo** (no solo
+2. **Nueva Ley de Amparo — en vigor el 3 de abril de 2013 ✅** (verificada): modernizó el juicio: amplió el **interés legítimo** (no solo
    el jurídico), introdujo el **amparo adhesivo**, la **declaratoria general de inconstitucionalidad** y
    figuras para dar más eficacia a las sentencias.
 3. **Reforma judicial (2024-2025 ⚠️):** reestructuró el Poder Judicial y estableció la **elección
