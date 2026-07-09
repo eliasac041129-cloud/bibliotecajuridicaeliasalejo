@@ -58,7 +58,7 @@ A continuación, el texto **original tuyo** (comprador) y el **cambio del vended
 > **Redline del vendedor:**
 > *"El Vendedor declara que, a la fecha de firma ~~y a la fecha de cierre~~, los Estados Financieros son
 > veraces y reflejan razonablemente la situación de la Sociedad **en sus aspectos sustanciales, hasta
-> doned es de su conocimiento**."*
+> donde es de su conocimiento**."*
 
 *(El vendedor eliminó "y a la fecha de cierre" y agregó dos calificativos.)*
 
