@@ -80,6 +80,22 @@
 3. [Valuación de Empresas](./Columna-I-Biblioteca/Nivel-V-Maestria/03-Valuacion-de-Empresas.md)
 4. [Estrategia Corporativa y Game Theory](./Columna-I-Biblioteca/Nivel-V-Maestria/04-Estrategia-Corporativa-y-Game-Theory.md)
 
+### Ramas Esenciales · [Derecho Público, Procesal y Especial](./Columna-I-Biblioteca/Ramas-Esenciales/) — ✅ 11 tratados
+> Materias **transversales** que la carrera exige y que el corporativo necesita, y que no encajan en la
+> escalera I–V. **No se estudian en orden**: cada una se activa cuando la necesitas (ver el
+> [README de la sección](./Columna-I-Biblioteca/Ramas-Esenciales/README.md)).
+1. [Derecho Fiscal (base)](./Columna-I-Biblioteca/Ramas-Esenciales/01-Derecho-Fiscal.md) — *cimiento del nicho fiscal-corporativo*
+2. [Derecho Constitucional y Amparo](./Columna-I-Biblioteca/Ramas-Esenciales/02-Derecho-Constitucional-y-Amparo.md)
+3. [Derecho Administrativo](./Columna-I-Biblioteca/Ramas-Esenciales/03-Derecho-Administrativo.md)
+4. [Derecho Procesal Civil y Mercantil](./Columna-I-Biblioteca/Ramas-Esenciales/04-Derecho-Procesal-Civil-y-Mercantil.md)
+5. [Derecho Laboral](./Columna-I-Biblioteca/Ramas-Esenciales/05-Derecho-Laboral.md)
+6. [Derecho Penal Económico y Compliance](./Columna-I-Biblioteca/Ramas-Esenciales/06-Derecho-Penal-Economico-y-Compliance.md)
+7. [Propiedad Intelectual](./Columna-I-Biblioteca/Ramas-Esenciales/07-Propiedad-Intelectual.md)
+8. [Derecho Internacional Privado y Arbitraje](./Columna-I-Biblioteca/Ramas-Esenciales/08-Derecho-Internacional-Privado-y-Arbitraje.md)
+9. [Protección de Datos Personales](./Columna-I-Biblioteca/Ramas-Esenciales/09-Proteccion-de-Datos-Personales.md)
+10. [Derecho Ambiental](./Columna-I-Biblioteca/Ramas-Esenciales/10-Derecho-Ambiental.md)
+11. [Ética Profesional y Responsabilidad del Abogado](./Columna-I-Biblioteca/Ramas-Esenciales/11-Etica-Profesional-y-Responsabilidad-del-Abogado.md)
+
 ---
 
 ## 4. Columna II · Hoja de Ruta — ✅
@@ -129,4 +145,5 @@
 
 ---
 
-*Total Columna I: **38 tratados** en 5 niveles. Índice mantenido a mano; actualízalo al crecer.*
+*Total Columna I: **49 tratados** (38 en los 5 niveles + 11 en Ramas Esenciales). Índice mantenido a
+mano; actualízalo al crecer.*

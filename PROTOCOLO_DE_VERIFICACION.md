@@ -94,6 +94,7 @@ fechas, montos) son los que más urge auditar. Orden sugerido de revisión siste
 |-----------|----------|---------|--------|
 | 🔴 Alta | Nivel III (Mercantil): Sociedades, Títulos de Crédito, Mercado de Valores, Concurso | Densos en artículos y leyes específicas (LGSM, LGTOC, LMV) | ⬜ Pendiente (1 error ya corregido) |
 | 🔴 Alta | Nivel IV (Corporate): los que citan leyes mexicanas y montos | Cifras y normas que cambian | ⬜ Pendiente |
+| 🔴 Alta | **Ramas Esenciales (01–11)**: Fiscal, Constitucional/Amparo, Administrativo, Procesal, Laboral, Penal, PI, DIP/Arbitraje, Datos, Ambiental, Ética | Muy densos en artículos, tasas, plazos y montos de materias que **se reforman cada año** (CFF, LISR, LIVA, Ley de Amparo, LFT, CPF, LFPPI, LFPDPPP, LGEEPA, etc.). Redactados marcando ⚠️ todo dato duro y con sello de fecha, pero **la verificación puntual está pendiente** | ⬜ Pendiente (redactados con ⚠️ y sello 2026-07) |
 | 🟠 Media | Nivel II (Civil profundo) | Artículos del Código Civil | ⬜ Pendiente |
 | 🟠 Media | Nivel I: Personas, Bienes, Obligaciones, Contratos | Artículos del Código Civil | ⬜ Pendiente |
 | 🟡 Baja | Nivel I conceptuales (Lógica, Argumentación, Metodología, Teoría del Estado) | Poco dato duro; sobre todo conceptos | ⬜ Pendiente |

@@ -6,6 +6,37 @@
 
 ---
 
+## [2.1] — 2026-07 · «Ramas Esenciales y actualización normativa» — *en curso*
+
+Amplía la Columna I con las **materias transversales que faltaban** (para poder titularse y ejercer
+cualquier rama, no solo el corporativo) y corrige errores de actualidad detectados. La Biblioteca pasa
+de **38 a 49 tratados**.
+
+### Añadido
+- **Nueva sección `Columna-I-Biblioteca/Ramas-Esenciales/`** con **11 tratados nuevos** al estándar V3
+  (43 secciones + 4 transversales cada uno; datos duros marcados ⚠️ y sello de fecha 2026-07):
+  **01 Derecho Fiscal (base)** —cimiento del nicho fiscal-corporativo—, **02 Constitucional y Amparo**,
+  **03 Administrativo**, **04 Procesal Civil y Mercantil**, **05 Laboral**, **06 Penal Económico y
+  Compliance**, **07 Propiedad Intelectual**, **08 DIP y Arbitraje**, **09 Protección de Datos**,
+  **10 Ambiental** y **11 Ética Profesional**. Incluye un **README-índice** con la guía de *cuándo*
+  estudiar cada rama (no es una escalera, es un mapa).
+
+### Corregido
+- **COFECE/IFT → CNA:** la reforma de simplificación orgánica (2024) y la reforma a la **LFCE** (en vigor
+  17-jul-2025) **extinguieron la COFECE y el IFT** y crearon la **Comisión Nacional Antimonopolio (CNA)**.
+  Añadido recuadro de *Actualización Normativa Crítica* en el tratado IV-10 (Competencia), nota en I-03
+  (Teoría del Estado) y registro en el **Protocolo de Verificación** (§V). Menciones análogas señaladas
+  en Constitucional/Amparo, Administrativo y Datos (extinción del **INAI** por la misma reforma).
+- **Conteo de tratados** unificado a **49** (38 en Niveles I–V + 11 Ramas Esenciales) en README, Índice
+  Maestro, Avance y Mapa.
+
+### Pendiente
+- Verificación puntual de los datos duros de Ramas Esenciales (redactados con ⚠️; ver backlog del
+  Protocolo §VI). Enriquecimiento de los 13 tratados del Nivel I con las 4 secciones transversales.
+  Sistema de práctica/retención (mazo Anki, banco de preguntas, ejercicio de *redline*).
+
+---
+
 ## [2.0] — 2026 · «De biblioteca a sistema» — *sellada (rama `v2.0`)*
 
 El proyecto deja de ser "una biblioteca" y se convierte en un **sistema integral de cinco

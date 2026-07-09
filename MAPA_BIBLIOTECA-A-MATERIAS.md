@@ -63,10 +63,16 @@ secciones avanzadas de M&A o derecho comparado, que son para tu especialización
 | M&A, due diligence, financiamiento | [Nivel IV · Corporate Law](./Columna-I-Biblioteca/Nivel-IV-Corporate-Law/) (8 tratados) | Élite; tu objetivo |
 | Negociación, finanzas, valuación, estrategia | [Nivel V · Maestría](./Columna-I-Biblioteca/Nivel-V-Maestria/) (4 tratados) | Élite; tu objetivo |
 
-> **Materias que la Biblioteca NO cubre (todavía) y casi seguro están en tu plan:** Derecho
-> Constitucional, Amparo, Penal, Procesal (Civil/Penal/Mercantil), Laboral, Fiscal/Tributario,
-> Administrativo, Internacional, Agrario, Familiar. Para esas, usa tus apuntes y el temario del
-> profesor. *(Si quieres, podemos añadir tratados de esas materias más adelante.)*
+> **Materias del plan ahora cubiertas por [Ramas Esenciales](./Columna-I-Biblioteca/Ramas-Esenciales/):**
+> Derecho **Fiscal/Tributario**, **Constitucional y Amparo**, **Administrativo**, **Procesal Civil y
+> Mercantil**, **Laboral**, **Penal Económico**, **Propiedad Intelectual**, **Internacional Privado y
+> Arbitraje**, **Protección de Datos** y **Ambiental** (más **Ética Profesional**). Cada una indica cuándo
+> estudiarla en el [README de la sección](./Columna-I-Biblioteca/Ramas-Esenciales/README.md).
+>
+> **Materias que aún NO tienen tratado propio** (usa tus apuntes y el temario del profesor): Derecho
+> **Procesal Penal** (a fondo; el acusatorio se aborda en Ramas Esenciales · 06), **Familiar**,
+> **Agrario** y ramas locales muy específicas. *(Si quieres, podemos añadir tratados de esas materias más
+> adelante.)*
 
 
 ---
@@ -125,7 +131,9 @@ es tu prioridad #1— usa esta secuencia eficiente, no leas el tratado entero de
 - **Prioridad:** Fase 0 de la [Hoja de Ruta](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) (titularte) y el orden de
   prioridad del [Sistema Diario](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) (lo académico es el #1).
 - **Método:** la [Guía Metodológica](./GUIA-METODOLOGICA.md) explica cómo estudiar cada tratado.
-- **Navegación:** el [Índice Maestro](./INDICE_MAESTRO.md) lista los 38 tratados.
+- **Navegación:** el [Índice Maestro](./INDICE_MAESTRO.md) lista los 49 tratados (incluye la sección
+  **Ramas Esenciales**: Fiscal, Constitucional/Amparo, Administrativo, Procesal, Laboral, Penal, PI, DIP/
+  Arbitraje, Datos, Ambiental y Ética).
 
 > **La idea que debe quedarte:** no estudias la Biblioteca "además de" la escuela — la usas **para**
 > la escuela. El mismo esfuerzo que te hace aprobar hoy te está construyendo el experto de mañana.
