@@ -80,6 +80,7 @@ Principio Supremo se aplica, no solo se predica.
 |-------|---------|-------|------------|--------|
 | 2026-06 | III-02 Sociedades (LGSM) | Decía que la **S.A.S.** se creó en "2014" | Corregido a **2016** (reforma a la LGSM publicada en el DOF el 14-mar-2016, en vigor 6 meses después) | Publicaciones jurídicas sobre la reforma de 2016 |
 | 2026-07 | IV-10 Competencia; I-03 Teoría del Estado; y menciones dispersas en IV-01, IV-02, IV-03, III-04 | Describían a la **COFECE** y al **IFT** como autoridades **vigentes** | Añadido recuadro de **Actualización Normativa Crítica**: la reforma de **simplificación orgánica (2024)** y la reforma a la **LFCE (en vigor 17-jul-2025)** **extinguieron COFECE e IFT** y crearon la **Comisión Nacional Antimonopolio (CNA)** como autoridad única. Donde el texto diga "COFECE", léase "la autoridad de competencia (hoy la CNA)" | Análisis de firmas (ABA, Hogan Lovells, Chambers, Norton Rose Fulbright), 2025; verificar contra el DOF |
+| 2026-07 | Ramas Esenciales · 01 Fiscal | Datos duros marcados ⚠️ sin cotejar | **Primera pasada de verificación (✅):** ISR PM **30%**, IVA **16%** y **0%**, régimen de dividendos (factor **1.4286**), clasificación de contribuciones (**art. 2 CFF**), facultades de comprobación (**art. 42 CFF**) y EFOS/EDOS (**art. 69-B CFF**). Añadido *Registro de verificación* en el tratado; resto permanece ⚠️ | **SAT** (Tasas y tarifas del ISR; Concepto de IVA; fichas 156/157 del 69-B), 2026-07 |
 
 > *(Cuando se detecten y corrijan más errores, se agregan renglones aquí.)*
 
@@ -94,7 +95,7 @@ fechas, montos) son los que más urge auditar. Orden sugerido de revisión siste
 |-----------|----------|---------|--------|
 | 🔴 Alta | Nivel III (Mercantil): Sociedades, Títulos de Crédito, Mercado de Valores, Concurso | Densos en artículos y leyes específicas (LGSM, LGTOC, LMV) | ⬜ Pendiente (1 error ya corregido) |
 | 🔴 Alta | Nivel IV (Corporate): los que citan leyes mexicanas y montos | Cifras y normas que cambian | ⬜ Pendiente |
-| 🔴 Alta | **Ramas Esenciales (01–11)**: Fiscal, Constitucional/Amparo, Administrativo, Procesal, Laboral, Penal, PI, DIP/Arbitraje, Datos, Ambiental, Ética | Muy densos en artículos, tasas, plazos y montos de materias que **se reforman cada año** (CFF, LISR, LIVA, Ley de Amparo, LFT, CPF, LFPPI, LFPDPPP, LGEEPA, etc.). Redactados marcando ⚠️ todo dato duro y con sello de fecha, pero **la verificación puntual está pendiente** | ⬜ Pendiente (redactados con ⚠️ y sello 2026-07) |
+| 🔴 Alta | **Ramas Esenciales (01–11)**: Fiscal, Constitucional/Amparo, Administrativo, Procesal, Laboral, Penal, PI, DIP/Arbitraje, Datos, Ambiental, Ética | Muy densos en artículos, tasas, plazos y montos de materias que **se reforman cada año** (CFF, LISR, LIVA, Ley de Amparo, LFT, CPF, LFPPI, LFPDPPP, LGEEPA, etc.). Redactados marcando ⚠️ todo dato duro y con sello de fecha | 🟡 **En proceso.** **01-Fiscal:** 1ª pasada ✅ (tasas ISR/IVA y arts. 2, 42, 69-B verificados contra SAT, 2026-07; ver §V). **02–11:** ⬜ pendientes |
 | 🟠 Media | Nivel II (Civil profundo) | Artículos del Código Civil | ⬜ Pendiente |
 | 🟠 Media | Nivel I: Personas, Bienes, Obligaciones, Contratos | Artículos del Código Civil | ⬜ Pendiente |
 | 🟡 Baja | Nivel I conceptuales (Lógica, Argumentación, Metodología, Teoría del Estado) | Poco dato duro; sobre todo conceptos | ⬜ Pendiente |

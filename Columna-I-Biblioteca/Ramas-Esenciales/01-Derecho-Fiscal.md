@@ -23,6 +23,25 @@ medios de defensa. Después, salta a IV-09.*
 > presentes una declaración, calcules un impuesto o cites un artículo en un asunto real sin cotejarlo
 > con la ley vigente ese ejercicio fiscal. **Contenido a fecha: 2026-07.**
 
+> ### ✅ Registro de verificación (2026-07)
+> Primera pasada de auditoría de datos duros conforme al [Protocolo](../../PROTOCOLO_DE_VERIFICACION.md).
+> **Verificado ✅ contra fuentes oficiales (SAT / textos de ley):**
+> - **ISR de personas morales = 30%** (tasa) — SAT, *Tasas y tarifas para el cálculo del ISR*. ✅
+> - **IVA: tasa general 16% y tasa 0%** — SAT, *Concepto de IVA* (art. 1 y 2-A LIVA). ✅
+> - **Régimen de dividendos:** factor **1.4286** × tasa 30% — SAT. ✅
+> - **Clasificación de contribuciones (art. 2 CFF):** impuestos, aportaciones de seguridad social,
+>   contribuciones de mejoras y derechos. ✅
+> - **Facultades de comprobación = art. 42 CFF.** ✅
+> - **Régimen de operaciones inexistentes (EFOS/EDOS) = art. 69-B CFF** — SAT (fichas 156/157). ✅
+>
+> **Permanece ⚠️ por confirmar contra el texto vigente** (concepto sólido y estable, pero **no** cotejado
+> verbatim con la fuente oficial en esta pasada): números de artículo del CFF **6** (causación), **5-A**
+> (razón de negocios), **17-A** (actualización), **21** (recargos), **26** (responsables), **67**
+> (caducidad, 5 años), **146** (prescripción, 5 años); de la LISR **9** (tasa 30%), **27/28** (deducciones/
+> no deducibles), **57** (pérdidas, ~10 ejercicios), **152** (tarifa PF ~35%); y **art. 31-IV CPEUM**. El
+> **plazo de "5 años"** para caducidad y prescripción está ampliamente confirmado; **el número de artículo
+> se confirma en el texto vigente antes de citarlo**.
+
 > **Aviso de método.** Tratado, no repaso. Vas a entender el impuesto desde su **raíz constitucional**
 > (art. 31, fr. IV ⚠️) hasta el **litigio fiscal**, con la mirada puesta siempre en lo que le importa
 > a un abogado de M&A: **el costo fiscal decide estructuras, precios y hasta si un deal se hace**.
@@ -303,7 +322,7 @@ entre **autodeterminación** (regla general en México: el propio contribuyente 
 
 **A) ISR — Impuesto Sobre la Renta.** Grava el **ingreso/utilidad**. Es el impuesto reina de la
 planeación corporativa.
-- **Personas morales:** tasa **30% ⚠️** sobre el **resultado fiscal** (ingresos acumulables − deducciones
+- **Personas morales:** tasa **30% ✅** (verificada, SAT 2026-07) sobre el **resultado fiscal** (ingresos acumulables − deducciones
   autorizadas − PTU pagada − pérdidas fiscales de ejercicios anteriores). Concepto clave: solo se
   deduce lo que cumple **requisitos** (estrictamente indispensable, con CFDI, pagado en ciertas formas)
   — art. 27 y 28 LISR ⚠️ (deducciones y no deducibles).
@@ -317,7 +336,7 @@ planeación corporativa.
 - **Pérdidas fiscales:** se pueden **amortizar** contra utilidades de ejercicios siguientes (plazo
   limitado, ~10 años ⚠️) — un **activo fiscal** que se valora en toda adquisición de acciones.
 
-**B) IVA — Impuesto al Valor Agregado.** Grava el **consumo**. Tasa general **16% ⚠️** (con tasa **0%**
+**B) IVA — Impuesto al Valor Agregado.** Grava el **consumo**. Tasa general **16% ✅** (verificada, SAT 2026-07) (con tasa **0%**
 para ciertos actos —exportación, alimentos y medicinas básicos— y actos **exentos**). Su lógica es de
 **traslado y acreditamiento**: cada eslabón **traslada** (cobra) IVA a su cliente y **acredita** (resta)
 el IVA que pagó a sus proveedores; entera al fisco solo la diferencia. Así, el impuesto lo soporta el
