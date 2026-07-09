@@ -815,3 +815,56 @@ voluntad y soporta los efectos del acto.
 > *"Pacta sunt servanda"*, pero solo los pactos **válidos** obligan. Aprendiste a distinguir
 > el pacto que vale del que se cae: esa es la frontera donde el abogado protege —o pierde— el
 > patrimonio de su cliente.
+
+
+---
+
+## ✦ Secciones transversales V3 (enriquecimiento)
+
+> Añadidas para elevar este tratado al **estándar V3**: las cuatro secciones transversales que conectan la
+> materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica toda cita.*
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque **todo el derecho corporativo se construye con actos jurídicos**: un contrato, una compraventa de
+acciones, un poder, una asamblea, una fusión, son actos jurídicos. Dominar sus **elementos de existencia**
+(consentimiento, objeto, solemnidad) y de **validez** (capacidad, ausencia de vicios, licitud, forma), y
+las consecuencias de su falta (**inexistencia, nulidad absoluta o relativa**), es saber **cuándo un acto es
+sólido y cuándo es atacable**. En un SPA, cada declaración, condición y garantía es un acto o modalidad que
+debe ser válido; un vicio del consentimiento (dolo, error) o un objeto ilícito pueden **anular** la
+operación. Esta es la gramática de todo lo que firmarás.
+
+### ✦ Cómo piensa un socio de un despacho internacional
+
+Un socio revisa cada documento preguntándose: **¿este acto existe y es válido? ¿es atacable?** Verifica
+capacidad y facultades (¿quién firma tiene poder suficiente?), busca **vicios del consentimiento** (dolo,
+error, violencia) que podrían anular, y cuida la **forma** exigida (una operación sobre inmuebles o
+acciones puede requerir formalidades). Piensa en **modalidades** (condición, plazo, cargo) como las
+palancas que reparten el riesgo temporal del *deal* (condiciones suspensivas al *closing*). Su obsesión: que
+el acto sea **inatacable**.
+
+### ✦ Errores que cuestan millones
+
+- **Firmar sin verificar facultades:** un poder insuficiente o vencido hace que el acto no obligue a la
+  parte que se creía vinculada.
+- **Ignorar un vicio del consentimiento** (dolo/error) que luego permite a la contraparte **anular** el
+  contrato.
+- **Descuidar la forma o solemnidad** exigida por la ley, tornando el acto inexistente o nulo.
+- **Confundir nulidad absoluta y relativa** (quién puede alegarla, si es confirmable, si prescribe) y
+  calcular mal el riesgo de que la operación se caiga.
+
+### ✦ Nivel de importancia profesional
+```
+Litigio              ★★★★☆
+Corporate            ★★★★★
+M&A                  ★★★★★
+Mercado de Valores   ★★★★☆
+Venture Capital      ★★★★☆
+Private Equity       ★★★★☆
+Gobierno Corporativo ★★★★☆
+Compliance           ★★★☆☆
+Derecho Bancario     ★★★★☆
+Empresa Familiar     ★★★★☆
+```
+*La teoría del acto jurídico es la **gramática de los contratos y operaciones**: se usa en cada documento
+del corporativo.*

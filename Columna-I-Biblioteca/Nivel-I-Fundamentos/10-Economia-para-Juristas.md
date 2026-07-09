@@ -619,3 +619,55 @@ argumentos sólidos y escribir opiniones jurídicas.
 > *"El precio es lo que pagas; el valor es lo que recibes"* (Warren Buffett). El abogado que
 > entiende esa diferencia —y la economía que la sustenta— puede sentarse en la mesa donde se
 > deciden las operaciones, no solo en la que las redacta.
+
+
+---
+
+## ✦ Secciones transversales V3 (enriquecimiento)
+
+> Añadidas para elevar este tratado al **estándar V3**: las cuatro secciones transversales que conectan la
+> materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica toda cita.*
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque el corporativo **habla el idioma del negocio, no solo el del derecho**. Este libro te da los
+conceptos que usarás todos los días: oferta y demanda, **incentivos**, costos de transacción, valor del
+dinero en el tiempo, riesgo y rendimiento, **fallas de mercado** (por qué existe la regulación de
+competencia, la protección al consumidor, la de datos). En M&A, valuación, financiamiento y estrategia,
+el abogado que **piensa económicamente** entiende **por qué** se hace la operación y **qué crea valor** —y
+por eso se sienta en la mesa como asesor, no como tramitador—. La economía es el puente entre el derecho y
+la decisión de negocio.
+
+### ✦ Cómo piensa un socio de un despacho internacional
+
+Un socio de M&A **piensa como el cliente**: en términos de **valor, riesgo, retorno e incentivos**. Cuando
+estructura, se pregunta no solo "¿es legal?" sino "¿crea o destruye valor?, ¿cómo se reparten el riesgo y
+el upside?, ¿qué incentiva esta cláusula?". Entiende el **valor del dinero en el tiempo** (por eso importan
+los plazos, los *earn-outs*, los intereses) y la lógica de las **fallas de mercado** que justifican la
+regulación. Su fluidez económica es lo que le permite dialogar de igual a igual con banqueros, financieros
+y directivos.
+
+### ✦ Errores que cuestan millones
+
+- **Redactar cláusulas que ignoran los incentivos** que crean (p. ej. un *earn-out* mal diseñado que
+  incentiva al vendedor a sabotear el negocio).
+- **No entender el valor del dinero en el tiempo** al negociar pagos diferidos, plazos o intereses,
+  regalando valor.
+- **Ver solo lo jurídico y no lo económico**, proponiendo estructuras "legales" que **destruyen valor** en
+  la caja o en impuestos.
+
+### ✦ Nivel de importancia profesional
+```
+Litigio              ★★★☆☆
+Corporate            ★★★★★
+M&A                  ★★★★★
+Mercado de Valores   ★★★★☆
+Venture Capital      ★★★★★
+Private Equity       ★★★★★
+Gobierno Corporativo ★★★☆☆
+Compliance           ★★★☆☆
+Derecho Bancario     ★★★★★
+Empresa Familiar     ★★★★☆
+```
+*La economía es el **segundo idioma** del corporativo de élite: sin ella, no se entiende el negocio detrás
+del derecho.*

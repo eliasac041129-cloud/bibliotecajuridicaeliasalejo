@@ -628,3 +628,53 @@ profundizaremos en las **herramientas económicas concretas** que usa el abogado
 > *"El abogado que no entiende de economía será siempre el subordinado del que sí entiende."*
 > Conviértete en el jurista **bilingüe** que comprende la justicia y la eficiencia: en esa
 > doble fluidez está la diferencia entre el técnico y el socio que asesora al consejo.
+
+
+---
+
+## ✦ Secciones transversales V3 (enriquecimiento)
+
+> Añadidas para elevar este tratado al **estándar V3**: las cuatro secciones transversales que conectan la
+> materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica toda cita.*
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque las leyes que aplicas **no cayeron del cielo**: son el resultado de siglos de ideas jurídicas y
+económicas (iusnaturalismo, positivismo, liberalismo, análisis económico del derecho). Entender **por qué**
+existe el derecho de propiedad, el contrato, la sociedad anónima o la regulación de la competencia te da
+una comprensión de **fondo** que ningún manual de artículos ofrece. En un mundo de reformas constantes
+(fiscal, laboral, regulatorio), quien entiende las **corrientes de pensamiento** detrás de las normas
+anticipa hacia dónde se mueven y argumenta desde los principios, no solo desde el texto.
+
+### ✦ Cómo piensa un socio de un despacho internacional
+
+Un socio con formación sólida **contextualiza**: sabe que una norma responde a una idea (proteger al débil,
+fomentar la inversión, corregir una falla de mercado) y usa ese "para qué" al interpretarla y al argumentar.
+Cuando negocia con contrapartes de otras tradiciones (*civil law* vs. *common law*), reconoce que detrás hay
+**filosofías distintas** del contrato y del riesgo, y traduce entre ellas. Su cultura jurídica y económica
+es lo que lo hace un **asesor**, no un simple aplicador de artículos.
+
+### ✦ Errores que cuestan millones
+
+- **Aplicar una norma sin entender su finalidad**, generando un resultado contrario a su propósito que un
+  tribunal corrige.
+- **No anticipar el sentido de una reforma** por ignorar las corrientes de pensamiento que la impulsan
+  (p. ej. el giro hacia la sustancia sobre la forma en fiscal).
+- **Chocar culturas jurídicas** en operaciones cross-border por no entender las premisas del sistema de la
+  contraparte.
+
+### ✦ Nivel de importancia profesional
+```
+Litigio              ★★★☆☆
+Corporate            ★★★☆☆
+M&A                  ★★★☆☆
+Mercado de Valores   ★★★☆☆
+Venture Capital      ★★★☆☆
+Private Equity       ★★★☆☆
+Gobierno Corporativo ★★★☆☆
+Compliance           ★★★☆☆
+Derecho Bancario     ★★★☆☆
+Empresa Familiar     ★★★☆☆
+```
+*Materia de **cultura y fondo**: no se aplica directamente, pero forma el **criterio** del jurista y su
+capacidad de argumentar desde los principios.*

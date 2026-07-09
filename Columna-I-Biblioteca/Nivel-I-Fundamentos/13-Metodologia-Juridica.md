@@ -607,3 +607,53 @@ todo lo demás.
 > *"El método no sustituye al talento, pero el talento sin método se desperdicia."* Has forjado
 > los cimientos de un jurista. Ahora, sobre esta base sólida, empezaremos a construir al
 > **abogado corporativo de élite** que te propusiste ser.
+
+
+---
+
+## ✦ Secciones transversales V3 (enriquecimiento)
+
+> Añadidas para elevar este tratado al **estándar V3**: las cuatro secciones transversales que conectan la
+> materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica toda cita.*
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque el corporativo de élite **investiga y produce conocimiento jurídico** constantemente: una opinión
+legal, un memo de due diligence, un análisis de riesgo regulatorio, exigen **método** —saber localizar la
+fuente vigente, verificarla, sistematizarla y citarla correctamente—. Este libro te da precisamente eso: la
+**metodología de investigación jurídica**, el uso de fuentes, la verificación y la redacción rigurosa. Es,
+además, la materialización del **Principio Supremo del proyecto**: nunca afirmar un dato (artículo, tesis,
+cifra) sin verificarlo en la fuente vigente. El abogado con método **no inventa**: comprueba.
+
+### ✦ Cómo piensa un socio de un despacho internacional
+
+Un socio exige a sus asociados **rigor metodológico absoluto**: que cada afirmación en un memo o una opinión
+esté **respaldada por la fuente vigente** (ley en el DOF, tesis en el SJF), citada correctamente y
+verificada —porque el despacho **responde** por lo que firma—. Desprecia el trabajo "de memoria" o copiado
+sin comprobar. Su reflejo: **ir a la fuente**, siempre. Sabe que una sola cita falsa o desactualizada puede
+costar un caso, un cliente y la reputación de la firma.
+
+### ✦ Errores que cuestan millones
+
+- **Citar un artículo, una tesis o una cifra sin verificarlos** (o desactualizados): el error más grave y
+  frecuente, que destruye la credibilidad de un dictamen (¡el riesgo que este proyecto combate con su
+  Protocolo de Verificación!).
+- **Investigación incompleta** que omite una norma o criterio vigente decisivo.
+- **Mala sistematización** de la información en un memo de due diligence, que hace que un riesgo clave pase
+  desapercibido.
+
+### ✦ Nivel de importancia profesional
+```
+Litigio              ★★★★☆
+Corporate            ★★★★☆
+M&A                  ★★★★☆
+Mercado de Valores   ★★★★☆
+Venture Capital      ★★★☆☆
+Private Equity       ★★★☆☆
+Gobierno Corporativo ★★★☆☆
+Compliance           ★★★★★
+Derecho Bancario     ★★★☆☆
+Empresa Familiar     ★★★☆☆
+```
+*La metodología —y la disciplina de **verificar en la fuente**— es lo que separa al abogado confiable del
+peligroso. Es el Principio Supremo del proyecto hecho hábito.*

@@ -652,3 +652,54 @@ Ya sabes **argumentar**. Ahora afinaremos la herramienta que da rigor al argumen
 > *"El que solo sabe derecho, ni derecho sabe."* Y el que sabe derecho pero no sabe
 > **argumentarlo**, no puede defenderlo. La diferencia entre tener razón y **hacer valer** tu
 > razón es la argumentación: domínala y serás escuchado en cualquier mesa.
+
+
+---
+
+## ✦ Secciones transversales V3 (enriquecimiento)
+
+> Añadidas para elevar este tratado al **estándar V3**: las cuatro secciones transversales que conectan la
+> materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica toda cita.*
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque **el derecho se gana o se pierde argumentando**: en un escrito, en una opinión legal, en una
+negociación, ante un juez o ante el consejo de administración. Este libro te da la **teoría de la
+argumentación jurídica** —la interpretación, la ponderación de principios, la justificación de las
+decisiones, las falacias— que convierte una posición en un argumento **persuasivo y sólido**. El
+corporativo la usa al redactar una **opinión legal** (que da confianza a bancos e inversionistas), al
+**negociar** una cláusula, al **defender** una postura fiscal o regulatoria, y al **convencer** a un cliente
+o a un consejo. Argumentar bien es, literalmente, el oficio.
+
+### ✦ Cómo piensa un socio de un despacho internacional
+
+Un socio construye argumentos como un **arquitecto**: identifica la premisa (norma, hecho, principio),
+la conecta con la conclusión de forma **justificada**, anticipa el contraargumento y lo neutraliza. Sabe
+que un buen argumento no es el que "suena bien" sino el que **resiste el escrutinio** del adversario, del
+juez y del tiempo. En una **opinión legal**, cuida la argumentación porque terceros confiarán en ella; en
+una **negociación**, usa la argumentación para mover a la contraparte sin ceder valor. Y detecta al instante
+las **falacias** del otro lado.
+
+### ✦ Errores que cuestan millones
+
+- **Argumentos que no resisten** (premisas débiles, saltos lógicos, falacias) que el adversario o el juez
+  desmontan, perdiendo el caso o la cláusula.
+- **Opiniones legales mal fundadas** que exponen al despacho a responsabilidad (terceros confiaron en un
+  argumento que no se sostiene).
+- **No anticipar el contraargumento** en una negociación o litigio, quedando sin respuesta en el momento
+  clave.
+
+### ✦ Nivel de importancia profesional
+```
+Litigio              ★★★★★
+Corporate            ★★★★☆
+M&A                  ★★★★☆
+Mercado de Valores   ★★★☆☆
+Venture Capital      ★★★☆☆
+Private Equity       ★★★☆☆
+Gobierno Corporativo ★★★★☆
+Compliance           ★★★★☆
+Derecho Bancario     ★★★☆☆
+Empresa Familiar     ★★★☆☆
+```
+*La argumentación es la **destreza central** del abogado: se usa en cada escrito, opinión y negociación.*

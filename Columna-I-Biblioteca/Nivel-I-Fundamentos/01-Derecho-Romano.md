@@ -933,3 +933,55 @@ derecho *como sistema* y cómo se interpreta y aplica hoy:
 > *"Non ex regula ius sumatur, sed ex iure quod est regula fiat"* (Paulo, D. 50.17.1): la
 > regla no crea el derecho; la regla se extrae del derecho que ya existe en los casos.
 > Empieza, pues, por entender los casos. Ese es el camino del jurista.
+
+
+---
+
+## ✦ Secciones transversales V3 (enriquecimiento)
+
+> Añadidas para elevar este tratado fundacional al **estándar V3**: las cuatro secciones transversales que
+> conectan la materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica
+> toda cita contra su fuente.*
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque el derecho romano es el **sistema operativo** sobre el que corre todo el derecho privado que usarás
+en M&A. Las categorías con las que negociarás un SPA —**obligación, contrato, compraventa (emptio
+venditio), garantía, dolo, culpa, mora, cosa, propiedad, posesión**— nacieron en Roma y conservan su
+lógica. Cuando estructures una operación, estarás manipulando conceptos romanos con ropa moderna. Dominar
+su raíz te da algo que pocos abogados tienen: la capacidad de **razonar desde los principios** cuando la
+ley concreta calla o es ambigua —exactamente lo que exige una operación compleja sin precedente claro—.
+
+### ✦ Cómo piensa un socio de un despacho internacional
+
+Un socio no cita a Gayo en una junta, pero **piensa en categorías romanas** sin darse cuenta: cuando
+descompone un *deal* en "quién debe qué a quién, bajo qué condición y con qué garantía", está aplicando la
+estructura romana de la obligación. Valora al asociado que entiende **por qué** una figura funciona (su
+lógica romana), no solo **qué** dice el artículo, porque ese asociado resuelve lo que no está en los
+manuales. En operaciones *cross-border* entre sistemas de *civil law* (herederos de Roma) y *common law*,
+el socio que domina la raíz romana **traduce** entre ambos mundos.
+
+### ✦ Errores que cuestan millones
+
+- **Confundir propiedad y posesión** (o título y modo) al estructurar una transmisión de activos: creer que
+  se transmitió la propiedad cuando solo hubo entrega, o viceversa, vicia la operación.
+- **Ignorar la lógica de las garantías reales** (prenda/hipoteca romanas): tomar una garantía mal
+  constituida que no da preferencia real y deja al acreedor como quirografario.
+- **No distinguir dolo de culpa** en el reparto de responsabilidad de un contrato: asignar mal el riesgo de
+  incumplimiento por no entender la graduación romana de la responsabilidad.
+
+### ✦ Nivel de importancia profesional
+```
+Litigio              ★★★☆☆
+Corporate            ★★★★☆
+M&A                  ★★★★☆
+Mercado de Valores   ★★★☆☆
+Venture Capital      ★★★☆☆
+Private Equity       ★★★☆☆
+Gobierno Corporativo ★★★☆☆
+Compliance           ★★☆☆☆
+Derecho Bancario     ★★★☆☆
+Empresa Familiar     ★★★★☆
+```
+*El derecho romano no se ejerce directamente, pero **estructura el pensamiento** de todo el derecho privado
+corporativo: por eso su valor "de fondo" es alto.*

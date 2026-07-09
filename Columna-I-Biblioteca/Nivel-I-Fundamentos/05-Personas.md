@@ -777,3 +777,54 @@ el que recaen sus derechos: las cosas y los bienes.
 > opera la empresa moderna. Aprende a mirar **quién** está detrás (los beneficiarios), **con
 > qué patrimonio** responde y **quién** puede hablar en su nombre: ahí reside buena parte del
 > arte del abogado corporativo.
+
+
+---
+
+## ✦ Secciones transversales V3 (enriquecimiento)
+
+> Añadidas para elevar este tratado al **estándar V3**: las cuatro secciones transversales que conectan la
+> materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica toda cita.*
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque el corporativo trabaja, sobre todo, con **personas morales** (sociedades), y este libro te da su
+fundamento: qué es una persona (física y moral), su **atributos** (nombre/denominación, domicilio,
+patrimonio, capacidad, nacionalidad), su **capacidad de goce y de ejercicio**, y la **representación**. La
+sociedad —el sujeto central del M&A— es una **persona moral** con patrimonio propio y responsabilidad
+separada de sus socios (la clave del **velo corporativo**). Entender la personalidad jurídica, la
+capacidad y la representación es saber **quién puede obligarse, con qué patrimonio responde y quién actúa
+por ella** —preguntas que abren toda operación—.
+
+### ✦ Cómo piensa un socio de un despacho internacional
+
+Un socio, ante cualquier parte, verifica: **¿existe como persona jurídica? ¿tiene capacidad? ¿quién la
+representa y con qué facultades? ¿con qué patrimonio responde?** Piensa en la **personalidad separada** de
+la sociedad como un activo (limita la responsabilidad) y como un riesgo (el **levantamiento del velo** en
+fraude o confusión de patrimonios). En estructuras de grupo, mapea las **personas morales** (matriz,
+filiales, vehículos) y quién responde por qué.
+
+### ✦ Errores que cuestan millones
+
+- **Contratar con quien carece de personalidad o capacidad** (una sociedad no constituida, un incapaz sin
+  representación): el acto es atacable.
+- **No verificar la representación** de la persona moral (facultades del apoderado), y que el acto no la
+  obligue.
+- **Confundir el patrimonio del socio con el de la sociedad**, exponiéndose al **levantamiento del velo**
+  corporativo por confusión o fraude.
+
+### ✦ Nivel de importancia profesional
+```
+Litigio              ★★★☆☆
+Corporate            ★★★★★
+M&A                  ★★★★☆
+Mercado de Valores   ★★★☆☆
+Venture Capital      ★★★★☆
+Private Equity       ★★★★☆
+Gobierno Corporativo ★★★★★
+Compliance           ★★★☆☆
+Derecho Bancario     ★★★★☆
+Empresa Familiar     ★★★★★
+```
+*La persona moral es el **sujeto central** del derecho corporativo; su personalidad, capacidad y
+representación se verifican en cada operación.*

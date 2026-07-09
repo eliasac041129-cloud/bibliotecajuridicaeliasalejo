@@ -780,3 +780,53 @@ básica.
 > *"El poder detiene al poder"* (Montesquieu). Internaliza esta idea: todo el derecho
 > público que protege a tu cliente frente al Estado nace de ella, y todo el riesgo
 > regulatorio que debes anticipar nace del Estado que no se detiene a tiempo.
+
+
+---
+
+## ✦ Secciones transversales V3 (enriquecimiento)
+
+> Añadidas para elevar este tratado al **estándar V3**: las cuatro secciones transversales que conectan la
+> materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica toda cita.*
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque el derecho corporativo **opera dentro de un marco de poder estatal**: cada operación se somete a
+autoridades (competencia —la CNA—, CNBV, SAT, reguladores sectoriales), a jueces y a la Constitución.
+Entender la **soberanía, la división de poderes, el federalismo y los órganos del Estado** te permite saber
+**con quién negocias, quién autoriza, quién regula y quién puede frenar** tu operación —y por qué la
+Constitución vence a toda ley—. La Teoría del Estado es el mapa del **poder** que rodea a la empresa; sin
+él, no entiendes el riesgo regulatorio ni la lógica del amparo (Ramas Esenciales · 02).
+
+### ✦ Cómo piensa un socio de un despacho internacional
+
+Un socio lee el **contexto institucional** tan bien como la ley: sabe qué autoridad decide, con cuánta
+autonomía (¿técnica o política?), y cómo se controla su decisión (amparo). Cuando un regulador amenaza un
+*deal*, no ve solo la norma: ve **arquitectura de poder** —competencias, límites, contrapesos— y diseña la
+estrategia (jurídica y de relación institucional) en consecuencia. Y sabe que reformas como la de
+**simplificación orgánica 2024** (que extinguió COFECE, IFT e INAI) cambian **quién manda**, lo que exige
+releer el tablero.
+
+### ✦ Errores que cuestan millones
+
+- **Ignorar la competencia de una autoridad** (federal vs. local, o qué órgano regula tu sector) y tramitar
+  ante quien no decide, perdiendo tiempo y el *deal*.
+- **Asumir que una autoridad es autónoma cuando ya no lo es** (o viceversa) tras una reforma, y calcular mal
+  el riesgo regulatorio y político.
+- **No prever el control constitucional** (amparo) como escudo frente a un acto de autoridad que daña la
+  operación.
+
+### ✦ Nivel de importancia profesional
+```
+Litigio              ★★★★☆
+Corporate            ★★★★☆
+M&A                  ★★★★☆
+Mercado de Valores   ★★★★☆
+Venture Capital      ★★★☆☆
+Private Equity       ★★★☆☆
+Gobierno Corporativo ★★★★☆
+Compliance           ★★★★☆
+Derecho Bancario     ★★★★☆
+Empresa Familiar     ★★☆☆☆
+```
+*Entender el Estado y sus autoridades es la base del **riesgo regulatorio**, que decide muchas operaciones.*
