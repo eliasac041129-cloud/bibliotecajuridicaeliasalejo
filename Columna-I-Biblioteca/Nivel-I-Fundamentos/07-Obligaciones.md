@@ -826,3 +826,56 @@ contrato, donde la teoría se vuelve cláusula.
 > el dogma, sino en saber **qué pasa cuando no se cumplen**: ahí, en el incumplimiento y los
 > daños, se gana o se pierde el caso, y se redacta —con previsión— el contrato que protege a tu
 > cliente.
+
+
+---
+
+## ✦ Secciones transversales V3 (enriquecimiento)
+
+> Añadidas para elevar este tratado al **estándar V3**: las cuatro secciones transversales que conectan la
+> materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica toda cita.*
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque la **obligación** es la molécula de todo contrato: un SPA, un crédito, una garantía, un *earn-out*,
+no son más que **haces de obligaciones** (dar, hacer, no hacer) con sus modalidades, su cumplimiento y su
+incumplimiento. Este libro te da las **fuentes** de la obligación, sus **efectos**, las formas de
+**extinción** (pago, compensación, novación, etc.) y —lo más valioso en M&A— la **teoría del
+incumplimiento**: mora, daños y perjuicios, cláusula penal, y el reparto del **riesgo**. Cuando negocias
+las declaraciones y garantías, la indemnización y las condiciones de un contrato, estás diseñando
+**obligaciones y las consecuencias de su incumplimiento**.
+
+### ✦ Cómo piensa un socio de un despacho internacional
+
+Un socio descompone cualquier operación en **quién debe qué a quién, cuándo, bajo qué condición y qué pasa
+si no cumple**. Piensa el contrato como un **sistema de obligaciones con asignación de riesgo**: usa
+condiciones (suspensivas/resolutorias), plazos, cláusulas penales y de indemnización como palancas para
+**colocar cada riesgo en quien debe soportarlo**. Su dominio de la teoría del incumplimiento (daño
+emergente, lucro cesante, previsibilidad, mitigación) es lo que le permite **cuantificar y limitar** la
+exposición de su cliente.
+
+### ✦ Errores que cuestan millones
+
+- **Redactar obligaciones ambiguas** (¿de medios o de resultado?, ¿qué es "cumplir"?) que generan disputas
+  costosas sobre si hubo incumplimiento.
+- **No pactar las consecuencias del incumplimiento** (cláusula penal, indemnización, límites), dejando el
+  cálculo del daño a un litigio incierto.
+- **Ignorar la mora y sus efectos** (cuándo empieza a correr, intereses), perdiendo derechos por no
+  constituir en mora correctamente.
+- **Descuidar las formas de extinción** (una compensación o novación no advertida que borra un crédito).
+
+### ✦ Nivel de importancia profesional
+```
+Litigio              ★★★★★
+Corporate            ★★★★★
+M&A                  ★★★★★
+Mercado de Valores   ★★★☆☆
+Venture Capital      ★★★★☆
+Private Equity       ★★★★☆
+Gobierno Corporativo ★★★☆☆
+Compliance           ★★★☆☆
+Derecho Bancario     ★★★★★
+Empresa Familiar     ★★★★☆
+```
+*La teoría de las obligaciones es la **base de todo contrato y todo crédito**: es de las materias más
+transversales del corporativo.*

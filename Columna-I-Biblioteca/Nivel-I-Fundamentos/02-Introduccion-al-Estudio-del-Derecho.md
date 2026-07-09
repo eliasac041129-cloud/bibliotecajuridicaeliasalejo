@@ -691,3 +691,54 @@ lo garantiza*: el Estado.
 > *"El derecho no se agota en la ley."* Llévate esa frase: es la diferencia entre el técnico
 > que busca el artículo y el jurista que comprende el sistema y, por eso, puede moverse con
 > criterio donde el artículo calla.
+
+
+---
+
+## ✦ Secciones transversales V3 (enriquecimiento)
+
+> Añadidas para elevar este tratado al **estándar V3**: las cuatro secciones transversales que conectan la
+> materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica toda cita.*
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque aquí aprendes **cómo funciona el derecho como sistema**: qué es una norma, cuáles son las fuentes,
+cómo se jerarquizan (pirámide de Kelsen), cómo se **interpreta** y cómo se **integran las lagunas**. Todo
+eso lo aplicas cada día en el corporativo: cuando lees un contrato o una ley y decides **qué significa**
+(interpretación), cuando ubicas si una regla la fija la ley o un reglamento (jerarquía y reserva de ley —
+clave en fiscal y regulatorio), y cuando argumentas ante una **laguna** (no hay norma expresa para tu
+operación novedosa). El corporativo de élite es, ante todo, un **intérprete y arquitecto de normas**.
+
+### ✦ Cómo piensa un socio de un despacho internacional
+
+Un socio ve el ordenamiento como un **mapa jerárquico** que domina de memoria: sabe instantáneamente si un
+argumento vive en la Constitución, en la ley, en un reglamento o en un criterio judicial, y cuál vence a
+cuál. Ante un problema sin norma clara, **no se paraliza**: recurre a los principios, la analogía y la
+interpretación sistemática —las herramientas de este libro—. Y sabe que **quien controla la
+interpretación, controla el resultado**: gran parte del litigio y de la negociación es una batalla por
+**qué significa** una cláusula o una norma.
+
+### ✦ Errores que cuestan millones
+
+- **Fundar una obligación en una norma de rango inferior** que contradice a una superior (un reglamento que
+  excede la ley): el argumento se cae y con él la operación.
+- **Interpretar literalmente** una cláusula ignorando su finalidad y el sistema, generando un resultado
+  absurdo que un tribunal luego corrige en tu contra.
+- **No detectar una laguna** y asumir que "no hay regla" equivale a "está permitido/prohibido", sin
+  integrar correctamente por analogía o principios.
+
+### ✦ Nivel de importancia profesional
+```
+Litigio              ★★★★★
+Corporate            ★★★★☆
+M&A                  ★★★★☆
+Mercado de Valores   ★★★☆☆
+Venture Capital      ★★★☆☆
+Private Equity       ★★★☆☆
+Gobierno Corporativo ★★★☆☆
+Compliance           ★★★★☆
+Derecho Bancario     ★★★☆☆
+Empresa Familiar     ★★★☆☆
+```
+*La teoría de las fuentes y la interpretación es la **caja de herramientas mental** de todo abogado: se usa
+en cada lectura de ley y de contrato.*

@@ -84,6 +84,15 @@ Estándar: V3 (43 secciones)
 Se integran dentro del libro (idealmente como apartados destacados, una vez por libro o por
 gran tema):
 
+> **Norma de homologación (v2.1).** Las cuatro transversales son **obligatorias**, pero admiten dos
+> presentaciones válidas: (a) como secciones **✦ al cierre** del libro (formato de los tratados más
+> recientes), o (b) la de *Nivel de importancia profesional* puede ir como **bloque de estrellas al inicio**
+> ("vista rápida"), como en los tratados de la primera hornada V3. No se exige duplicar el bloque de
+> estrellas donde ya aparece arriba. Ambos formatos son V3-conformes (ver
+> [CONTROL-DE-CALIDAD.md](./CONTROL-DE-CALIDAD.md), §3). *Los tratados del Nivel I usan el estándar
+> fundacional de 30 secciones + estas 4 transversales añadidas al cierre; su migración al V3 pleno de 43
+> secciones queda para una versión futura.*
+
 ### ✦ ¿Por qué esto importa para un abogado corporativo?
 La utilidad del tema para empresas, contratos, fusiones, adquisiciones, financiamiento y
 gobierno corporativo. **Obligatoria aunque el tema sea Derecho Romano, Filosofía o Historia.**

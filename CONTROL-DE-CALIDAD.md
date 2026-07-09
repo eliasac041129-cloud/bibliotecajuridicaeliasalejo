@@ -1,0 +1,79 @@
+# Control de Calidad — Registro de la pasada de QA (v2.1)
+
+> **Qué es.** Registro auditable del control de calidad hecho antes de sellar la versión **v2.1**. Sigue la
+> filosofía del [Protocolo de Verificación](./PROTOCOLO_DE_VERIFICACION.md): lo que se revisa, se documenta.
+> **Fecha de la pasada: 2026-07.**
+
+---
+
+## 1. Alcance revisado
+
+- **49 tratados** de la Columna I (38 en Niveles I–V + 11 en Ramas Esenciales).
+- Documentos rectores, Laboratorio (11 ejercicios), Sistema de Repaso.
+
+## 2. Resultados (✅ = correcto)
+
+| Chequeo | Resultado |
+|---------|-----------|
+| **Integridad de archivos** | ✅ Los 49 tratados completos, sin truncamientos. |
+| **Enlaces internos (`.md`)** | ✅ **0 enlaces rotos** (se resolvieron todas las referencias cruzadas). |
+| **Markdown** | ✅ Sano (todos los bloques de código ` ``` ` cerrados). |
+| **Typos** | ✅ Corregido 1 ("doned es" → "donde es", ejercicio 11 del Laboratorio). |
+| **Secciones por tratado** | ⚠️ Ver punto 3 (dos formatos conviven; documentado y homologado por norma). |
+
+## 3. Estándar de secciones (aclaración y homologación)
+
+La pasada detectó **tres formatos** conviviendo. Se **homologan por norma** (ver
+[PLANTILLA-LIBRO.md](./PLANTILLA-LIBRO.md)) así:
+
+| Grupo | Tratados | Encabezados `##` | Estándar |
+|-------|----------|------------------|----------|
+| **Ramas Esenciales (01–11) + IV-09, IV-10** | 13 | **47** | V3 pleno: 43 numeradas + **4** transversales ✦ al cierre. |
+| **V3 "primera hornada"** (Nivel II, III, IV-01–08, V) | 23 | **46** | V3: 43 numeradas + **3** transversales ✦ al cierre; la 4ª —*Nivel de importancia profesional*— aparece como **bloque de estrellas al inicio** ("vista rápida"). **Formato válido.** |
+| **Nivel I · Fundamentos** | 13 | 32 | Estándar fundacional de 30 secciones + **bloque de 4 secciones transversales V3** añadido al cierre (como subsecciones). **Formato válido.** |
+
+> **Norma de homologación (v2.1):** la transversal *"Nivel de importancia profesional"* es **obligatoria**,
+> pero puede presentarse **como bloque de estrellas al inicio** ("vista rápida") **o** como sección ✦ al
+> cierre —o ambas—. Las tres presentaciones son **V3-conformes**. No se exige duplicar el bloque de
+> estrellas donde ya aparece arriba. La eventual migración del Nivel I al V3 pleno (43 secciones) queda
+> como tarea de una versión futura.
+
+## 4. Estado de la verificación de datos (resumen; detalle en el Protocolo §V)
+
+- ✅ **Verificado contra fuentes** (tasas, fechas y hechos de reforma): ISR 30 % · IVA 16 %/0 % · arts. 2,
+  42, 69-B CFF · Ley de Amparo 2013 · reforma judicial 15-sep-2024 · CNPCF 7-jun-2023 · vacaciones dignas
+  2022/2023 · penal 2008/2016 · CNPP 2014 · LFPPI 2020 (**+ reforma 2026**) · NY 1958/1971 · UNCITRAL
+  1985/1993 · GDPR 2018 · INAI→Secretaría Anticorrupción 2025 · LGEEPA 1988 (**+ iniciativa 2026**).
+- ⚠️ **Pendiente (bloquea el sello "referencia verificada"):** el **verbatim de los números de artículo**
+  (CFF, LISR, LGSM, LGTOC, LMV, CCF, LFT, CPF, Ley de Amparo, LFPPI…). Requiere una fuente de texto legal
+  íntegro navegable. Hasta entonces, **todo número de artículo se trata como ⚠️** y se coteja en la fuente
+  vigente antes de citarlo.
+
+## 5. Fechado global
+
+> **Salvo indicación en contrario, todo el contenido está fechado a 2026-07.** El Derecho se reforma;
+> verifica siempre las normas, tasas, montos, plazos y artículos contra su **texto vigente** a la fecha de
+> consulta (DOF, SAT, SJF). Esta obra es un **sistema conceptual y de estudio**, no una fuente
+> autoritativa de citas.
+
+## 6. Qué significa el sello v2.1
+
+- **v2.1 es una "versión de estudio" sellada:** consistente, sin defectos de forma, con datos de alto
+  riesgo (fechas, tasas, hechos de reforma) verificados y trazables.
+- **NO es aún una "referencia verificada para imprimir/citar":** eso llegará cuando se cierre la
+  verificación verbatim de artículos (punto 4) en una **v2.2**.
+
+## 7. Pendientes para v2.2 (hoja de ruta de mejora)
+
+1. Verificación verbatim de números de artículo (grupo crítico).
+2. Banco de jurisprudencia real verificada en el SJF.
+3. Materias faltantes: Procesal Penal a fondo, Familiar, Agrario.
+4. Bibliografías con edición/año; glosario maestro bilingüe.
+5. Mazo Anki completo por tratado; calendario de estudio; más ejercicios de Laboratorio (VC,
+   financiamiento, SPA modelo anotado).
+6. (Opcional) Migrar el Nivel I al V3 pleno de 43 secciones.
+
+---
+
+*Control de Calidad · Proyecto AJE · pasada de 2026-07 para el sello v2.1. Documento vivo: actualízalo en
+cada nueva pasada de QA.*

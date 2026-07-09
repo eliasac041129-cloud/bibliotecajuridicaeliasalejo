@@ -614,3 +614,52 @@ sistematizar y exponer el derecho con orden profesional.
 > *"La lógica es la higiene del pensamiento."* Mantén tu razonamiento limpio de contradicciones
 > y falacias: un solo defecto lógico en un contrato o en una opinión puede costarle a tu cliente
 > más que cualquier error de fondo.
+
+
+---
+
+## ✦ Secciones transversales V3 (enriquecimiento)
+
+> Añadidas para elevar este tratado al **estándar V3**: las cuatro secciones transversales que conectan la
+> materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica toda cita.*
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque el razonamiento jurídico es, en el fondo, **lógica aplicada**: el **silogismo jurídico** (norma +
+hecho → conclusión), la subsunción, la coherencia y la detección de **contradicciones y falacias**. Un
+contrato es un sistema de reglas que debe ser **lógicamente coherente** (sin cláusulas que se contradigan);
+una opinión legal es una **cadena de inferencias válidas**; un argumento se sostiene o cae por su
+**estructura lógica**. El corporativo usa la lógica para **redactar sin contradicciones**, para detectar el
+error en el razonamiento del adversario y para construir argumentos **válidos**, no solo persuasivos.
+
+### ✦ Cómo piensa un socio de un despacho internacional
+
+Un socio revisa un contrato o un dictamen como un **verificador de consistencia**: ¿las definiciones son
+coherentes?, ¿las cláusulas se contradicen?, ¿la conclusión se sigue de las premisas? Detecta la **falacia**
+o el **salto lógico** en el argumento del otro lado y lo explota. Piensa en las cláusulas como **condicionales**
+("si A, entonces B") y verifica que el sistema completo no genere resultados absurdos o contradictorios. Su
+rigor lógico es lo que hace sus documentos **a prueba de balas**.
+
+### ✦ Errores que cuestan millones
+
+- **Contradicciones internas en un contrato** (dos cláusulas incompatibles) que generan disputa sobre cuál
+  prevalece.
+- **Falacias en la argumentación** (petición de principio, falsa causa) que el adversario desmonta.
+- **Definiciones incoherentes** que hacen que una cláusula signifique algo distinto de lo pretendido.
+- **Razonamientos con conclusiones que no se siguen** de las premisas, minando una opinión legal.
+
+### ✦ Nivel de importancia profesional
+```
+Litigio              ★★★★☆
+Corporate            ★★★★☆
+M&A                  ★★★★☆
+Mercado de Valores   ★★★☆☆
+Venture Capital      ★★★☆☆
+Private Equity       ★★★☆☆
+Gobierno Corporativo ★★★☆☆
+Compliance           ★★★★☆
+Derecho Bancario     ★★★☆☆
+Empresa Familiar     ★★☆☆☆
+```
+*La lógica jurídica es el **esqueleto invisible** de todo documento y argumento coherente: garantiza que el
+razonamiento sea válido.*

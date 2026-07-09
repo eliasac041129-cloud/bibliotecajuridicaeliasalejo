@@ -801,3 +801,55 @@ operación. Ahora completaremos los **fundamentos del razonamiento y del context
 > no es el que conoce el contrato típico de memoria, sino el que sabe **diseñar** el contrato
 > que su cliente necesita —previendo el incumplimiento, definiendo cada estándar y eligiendo el
 > derecho que lo protege—. En esa capacidad de **construir con palabras** reside el oficio.
+
+
+---
+
+## ✦ Secciones transversales V3 (enriquecimiento)
+
+> Añadidas para elevar este tratado al **estándar V3**: las cuatro secciones transversales que conectan la
+> materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica toda cita.*
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque **el contrato es la herramienta central del abogado corporativo**: el SPA, el APA, el SHA, el
+crédito, el *joint venture*, la licencia —todo es contrato—. Este libro te da la **teoría general**:
+formación (oferta y aceptación), elementos, **autonomía de la voluntad** y sus límites, **interpretación**,
+efectos (fuerza obligatoria, relatividad), y patologías (rescisión, nulidad, lesión, imprevisión). Es la
+base sobre la que, en el Nivel IV, redactarás y negociarás los documentos que valen millones. Quien domina
+la teoría del contrato **redacta cláusulas que resisten** y **detecta las que no**.
+
+### ✦ Cómo piensa un socio de un despacho internacional
+
+Para un socio, el contrato es una **máquina de asignar derechos, obligaciones y riesgos** hacia el futuro y
+para el peor escenario. Cuida la **formación** (que haya consentimiento real y facultades), explota la
+**autonomía de la voluntad** (pactar lo que la ley permite) dentro de sus **límites** (orden público,
+normas imperativas), y redacta pensando en la **interpretación** (que no queden ambigüedades que un
+tribunal use en su contra). Piensa siempre en el **incumplimiento**: qué lo dispara, qué remedios hay
+(rescisión, cumplimiento forzoso, daños) y cómo se resuelven las disputas (jurisdicción/arbitraje).
+
+### ✦ Errores que cuestan millones
+
+- **Cláusulas ambiguas** que se interpretan en contra de tu cliente (recuerda: la interpretación decide el
+  resultado).
+- **Ignorar los límites a la autonomía de la voluntad** (pactar algo contra una norma imperativa o el orden
+  público), volviendo nula la cláusula.
+- **No prever el incumplimiento y su remedio** (rescisión, penalización, indemnización) ni la **solución de
+  disputas**, dejando a tu cliente sin salida clara.
+- **Descuidar la formación** (una oferta/aceptación mal documentada, o firmar sin facultades).
+
+### ✦ Nivel de importancia profesional
+```
+Litigio              ★★★★★
+Corporate            ★★★★★
+M&A                  ★★★★★
+Mercado de Valores   ★★★★☆
+Venture Capital      ★★★★★
+Private Equity       ★★★★★
+Gobierno Corporativo ★★★★☆
+Compliance           ★★★☆☆
+Derecho Bancario     ★★★★★
+Empresa Familiar     ★★★★☆
+```
+*La teoría del contrato es **la herramienta #1** del corporativo: todo lo que hace se documenta en
+contratos.*

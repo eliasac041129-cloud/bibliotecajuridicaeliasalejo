@@ -6,6 +6,12 @@
 > actuar de su lector, hasta convertirlo en un **asesor indispensable** para quienes toman las
 > decisiones empresariales más importantes.
 
+> **Estado: versión de estudio `v2.1` (sellada, 2026-07).** 49 tratados + Laboratorio (11 ejercicios) +
+> Sistema de Repaso. **Fechado global:** salvo indicación en contrario, el contenido está a **2026-07**;
+> **verifica toda norma, tasa, monto y artículo contra su texto vigente** (DOF/SAT/SJF). Es un **sistema
+> conceptual y de estudio**, no una fuente autoritativa de citas: los **números de artículo** están
+> marcados ⚠️ y su verificación *verbatim* es tarea de la v2.2 (ver [Control de Calidad](./CONTROL-DE-CALIDAD.md)).
+
 ---
 
 ## 📜 Jerarquía de documentos (léelos en este orden)
@@ -29,9 +35,9 @@ se levantan **en secuencia**, según lo que el lector necesita en cada etapa.
 
 | Columna | Nombre | Pregunta que responde | Estado |
 |---------|--------|------------------------|--------|
-| **I** | **Biblioteca Jurídica** | ¿Qué debo aprender? | ✅ Completa (5 niveles · 38 tratados) |
+| **I** | **Biblioteca Jurídica** | ¿Qué debo aprender? | ✅ Completa (5 niveles + Ramas Esenciales · 49 tratados) |
 | **II** | **Hoja de Ruta** | ¿Qué hacer, cuándo y por qué? | ✅ Completa |
-| **III** | **Laboratorio Profesional** | ¿Cómo trabaja de verdad un abogado corporativo? | ✅ Completa (2 tramos · 10 ejercicios) |
+| **III** | **Laboratorio Profesional** | ¿Cómo trabaja de verdad un abogado corporativo? | ✅ Completa (3 tramos · 11 ejercicios) |
 | **IV** | **Sistema del Socio** | ¿Cómo se construye una carrera jurídica extraordinaria? | ✅ Completa (6 módulos) |
 | **V** | **Patrimonio y Libertad Financiera** | ¿Cómo administrar la riqueza que genera la carrera? | ✅ Completa (6 módulos) |
 
@@ -50,7 +56,7 @@ bibliotecajuridicaeliasalejo/
 ├── 00_MANIFIESTO_EDITORIAL.md         ← anexo de estándar editorial
 ├── INDICE_MAESTRO.md                  ← mapa navegable de todo
 │
-├── Columna-I-Biblioteca/              ← QUÉ aprender (36 tratados)
+├── Columna-I-Biblioteca/              ← QUÉ aprender (49 tratados: 38 en Niveles I-V + 11 Ramas Esenciales)
 │   ├── Nivel-I-Fundamentos/
 │   ├── Nivel-II-Derecho-Civil-Profundo/
 │   ├── Nivel-III-Derecho-Mercantil/

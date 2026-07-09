@@ -6,6 +6,61 @@
 
 ---
 
+## [2.1] — 2026-07 · «Ramas Esenciales, actualización normativa y sello de calidad» — *sellada (rama `v2.1`)*
+
+> **Sello v2.1 = "versión de estudio".** Consistente, sin defectos de forma y con los datos de **alto
+> riesgo** (tasas, fechas y hechos de reforma) **verificados y trazables** (ver
+> [CONTROL-DE-CALIDAD.md](./CONTROL-DE-CALIDAD.md) y el Protocolo §V). **No** es todavía una "referencia
+> verificada para citar/imprimir": eso llegará en la **v2.2**, al cerrar la verificación *verbatim* de los
+> números de artículo.
+
+Amplía la Columna I con las **materias transversales que faltaban** (para poder titularse y ejercer
+cualquier rama, no solo el corporativo) y corrige errores de actualidad detectados. La Biblioteca pasa
+de **38 a 49 tratados**.
+
+### Añadido
+- **Nueva sección `Columna-I-Biblioteca/Ramas-Esenciales/`** con **11 tratados nuevos** al estándar V3
+  (43 secciones + 4 transversales cada uno; datos duros marcados ⚠️ y sello de fecha 2026-07):
+  **01 Derecho Fiscal (base)** —cimiento del nicho fiscal-corporativo—, **02 Constitucional y Amparo**,
+  **03 Administrativo**, **04 Procesal Civil y Mercantil**, **05 Laboral**, **06 Penal Económico y
+  Compliance**, **07 Propiedad Intelectual**, **08 DIP y Arbitraje**, **09 Protección de Datos**,
+  **10 Ambiental** y **11 Ética Profesional**. Incluye un **README-índice** con la guía de *cuándo*
+  estudiar cada rama (no es una escalera, es un mapa).
+
+- **Enriquecimiento del Nivel I:** se inyectaron las **4 secciones transversales V3** (¿Por qué importa al
+  corporativo?, Cómo piensa un socio, Errores que cuestan millones, Nivel de importancia ★) a los **13
+  tratados fundacionales**, que estaban en el estándar de 30 secciones.
+- **Nueva carpeta `Sistema-de-Repaso/`** (retención): **mazo Anki (`flashcards-anki.csv`)** importable con
+  ~130 tarjetas de todas las materias, y **banco de preguntas** por área con respuestas modelo, más una
+  guía de repaso espaciado.
+- **Columna III · Laboratorio → Tramo 3:** nuevo **Ejercicio 11 · El Redline** (marcar el borrador de la
+  contraparte), la destreza más usada por el asociado junior. El Laboratorio pasa a **3 tramos · 11
+  ejercicios**.
+
+### Corregido
+- **COFECE/IFT → CNA:** la reforma de simplificación orgánica (2024) y la reforma a la **LFCE** (en vigor
+  17-jul-2025) **extinguieron la COFECE y el IFT** y crearon la **Comisión Nacional Antimonopolio (CNA)**.
+  Añadido recuadro de *Actualización Normativa Crítica* en el tratado IV-10 (Competencia), nota en I-03
+  (Teoría del Estado) y registro en el **Protocolo de Verificación** (§V). Menciones análogas señaladas
+  en Constitucional/Amparo, Administrativo y Datos (extinción del **INAI** por la misma reforma).
+- **Conteo** unificado: **49 tratados** (38 en Niveles I–V + 11 Ramas Esenciales) y Laboratorio con **11
+  ejercicios**, en README, Índice Maestro, Avance y Mapa.
+
+### Control de calidad (sello v2.1)
+- **Pasada de QA** documentada en [CONTROL-DE-CALIDAD.md](./CONTROL-DE-CALIDAD.md): 49 tratados íntegros,
+  **0 enlaces internos rotos**, markdown sano, 1 typo corregido.
+- **Homologación del estándar** de secciones transversales y **fechado global (2026-07)** documentados
+  (Plantilla + QA).
+- **Verificación de datos de alto riesgo** (tasas, fechas, hechos de reforma) en 10/11 Ramas + IV-10,
+  registrada en el Protocolo §V.
+
+### Pendiente (hoja de ruta v2.2)
+- **Verificación *verbatim* de números de artículo** (CFF, LISR, LGSM, etc.) —requiere fuente de texto
+  legal íntegro—; banco de jurisprudencia (SJF); materias faltantes (Procesal Penal, Familiar, Agrario);
+  bibliografías con edición/año; glosario bilingüe; mazo Anki completo; más ejercicios de Laboratorio.
+
+---
+
 ## [2.0] — 2026 · «De biblioteca a sistema» — *sellada (rama `v2.0`)*
 
 El proyecto deja de ser "una biblioteca" y se convierte en un **sistema integral de cinco

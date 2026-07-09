@@ -10,9 +10,9 @@
 
 | Columna | Nombre | Pregunta | Estado | Documento |
 |---------|--------|----------|--------|-----------|
-| **I** | Biblioteca Jurídica | ¿Qué debo aprender? | ✅ Completa (5 niveles · 38 tratados) | `Columna-I-Biblioteca/` |
+| **I** | Biblioteca Jurídica | ¿Qué debo aprender? | ✅ Completa (5 niveles + Ramas Esenciales · 49 tratados) | `Columna-I-Biblioteca/` |
 | **II** | Hoja de Ruta | ¿Qué hacer, cuándo y por qué? | ✅ Completa | [`01_HOJA_DE_RUTA_AJE.md`](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) + [`02_PLAN_OPERATIVO_DIARIO_AJE.md`](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) |
-| **III** | Laboratorio Profesional | ¿Cómo se trabaja de verdad? | ✅ Completa (2 tramos · 10 ejercicios) | `Columna-III-Laboratorio/` |
+| **III** | Laboratorio Profesional | ¿Cómo se trabaja de verdad? | ✅ Completa (3 tramos · 11 ejercicios) | `Columna-III-Laboratorio/` |
 | **IV** | Sistema del Socio | ¿Cómo se construye la carrera? | ✅ Completa (6 módulos) | `Columna-IV-Sistema-del-Socio/` |
 | **V** | Patrimonio y Libertad Financiera | ¿Cómo administrar la riqueza? | ✅ Completa (6 módulos) | `Columna-V-Patrimonio/` |
 

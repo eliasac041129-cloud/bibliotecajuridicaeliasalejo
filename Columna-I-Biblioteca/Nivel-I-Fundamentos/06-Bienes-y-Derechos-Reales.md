@@ -808,3 +808,54 @@ el que una persona debe a otra.
 > *"Prior in tempore, potior in iure."* Quien inscribe primero, gana. Internaliza esa
 > máxima: en el mundo de las garantías, la diligencia registral —no la buena intención— es lo
 > que separa al acreedor que cobra del que mira cómo otros cobran antes que él.
+
+
+---
+
+## ✦ Secciones transversales V3 (enriquecimiento)
+
+> Añadidas para elevar este tratado al **estándar V3**: las cuatro secciones transversales que conectan la
+> materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica toda cita.*
+
+### ✦ ¿Por qué esto importa para un abogado corporativo?
+
+Porque en toda adquisición de **activos** (asset deal), y en toda garantía, lo que se transmite o se afecta
+son **bienes y derechos reales**. Este libro te da la clasificación de los bienes (muebles/inmuebles,
+corporales/incorporales), la **propiedad** y sus modos de adquirir, la **posesión**, y los **derechos
+reales** (propiedad, usufructo, servidumbre, y —clave— las **garantías reales**: prenda, hipoteca). Saber
+cómo se **transmite la propiedad** (título y modo), cómo se **oponen** los derechos reales a terceros
+(registro) y cómo se constituye una **garantía real** oponible es esencial para estructurar transmisiones y
+financiamientos garantizados.
+
+### ✦ Cómo piensa un socio de un despacho internacional
+
+Un socio, ante un activo, verifica **la cadena de titularidad** (¿el vendedor es dueño?, ¿libre de
+gravámenes?), la **oponibilidad** (¿está inscrito?, ¿hay garantías previas con prelación?) y cómo se
+**perfecciona** la transmisión. Al tomar garantías, piensa en **derecho real oponible y con prelación**
+(no una simple promesa), y en su **registro** (RUG para mobiliarias, Registro Público de la Propiedad para
+inmuebles). La pregunta clave: **¿este derecho vale contra terceros, o solo entre las partes?**
+
+### ✦ Errores que cuestan millones
+
+- **Comprar un activo de quien no es su dueño** o que está **gravado** (garantía previa) por no revisar la
+  cadena de titularidad y los registros.
+- **Constituir una garantía no oponible** (sin registro/perfeccionamiento) que no da preferencia y deja al
+  acreedor como quirografario.
+- **Confundir derecho real y personal**: creer que se tiene un derecho oponible *erga omnes* cuando solo se
+  tiene un derecho de crédito frente a una persona.
+
+### ✦ Nivel de importancia profesional
+```
+Litigio              ★★★★☆
+Corporate            ★★★★☆
+M&A                  ★★★★☆
+Mercado de Valores   ★★★☆☆
+Venture Capital      ★★★☆☆
+Private Equity       ★★★★☆
+Gobierno Corporativo ★★★☆☆
+Compliance           ★★★☆☆
+Derecho Bancario     ★★★★★
+Empresa Familiar     ★★★★☆
+```
+*Bienes y garantías reales son el corazón de los **asset deals** y del **financiamiento garantizado**
+(banca).*

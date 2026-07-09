@@ -82,3 +82,27 @@ La biblioteca está diseñada para llevarte del estado 1 al 4 en cada instituci�
 Lleva un registro: dudas abiertas, criterios jurisprudenciales relevantes, cláusulas
 que te llamaron la atención y conexiones entre materias. El abogado de élite es, ante
 todo, un sistema de conexiones bien organizadas.
+
+
+---
+
+## 6. Herramientas concretas de repaso (ya construidas)
+
+La teoría de este documento tiene ahora **herramientas listas para usar** en la carpeta
+[`Sistema-de-Repaso/`](./Sistema-de-Repaso/):
+
+- **[Mazo Anki (`flashcards-anki.csv`)](./Sistema-de-Repaso/flashcards-anki.csv):** ~130 tarjetas de todas
+  las materias (incluidas las Ramas Esenciales), listas para importar a **Anki** y activar el **repaso
+  espaciado** (15-20 min/día). Instrucciones de importación en el
+  [README de la carpeta](./Sistema-de-Repaso/README.md).
+- **[Banco de preguntas](./Sistema-de-Repaso/banco-de-preguntas.md):** preguntas por área con respuestas
+  modelo (incluye casos de aplicación) para **autoexaminarte por escrito** —la forma más exigente y eficaz
+  de recuperación activa—.
+
+> **Regla práctica:** al terminar cada tratado, antes de pasar al siguiente, (1) haz sus **flashcards**
+> (sección *Flashcards* del libro) y agrégalas a tu mazo, y (2) resuelve su bloque en el **banco de
+> preguntas**. Y cada día, dedica 15-20 min al mazo en Anki. *Estudiar menos horas, pero recuperando
+> activamente, retiene mucho más que releer.*
+
+> **Nota:** los 13 tratados del **Nivel I** ya incorporan (al final de cada uno) las **4 secciones
+> transversales V3**, de modo que también en ellos puedes aplicar el paso de "pensar como profesional".

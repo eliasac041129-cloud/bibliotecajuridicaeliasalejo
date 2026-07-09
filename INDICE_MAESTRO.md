@@ -27,6 +27,8 @@
 | [Plantilla de Libro](./PLANTILLA-LIBRO.md) | Estructura V3 (43 secciones + transversales). |
 | [Avance](./AVANCE.md) | Tablero de control (columnas + biblioteca). |
 | [Changelog](./CHANGELOG.md) | Bitácora de versiones (V1 → V2). |
+| [Sistema de Repaso](./Sistema-de-Repaso/) | Herramientas de retención: **mazo Anki (CSV)** y **banco de preguntas** con repaso espaciado. |
+| [Control de Calidad](./CONTROL-DE-CALIDAD.md) | Registro de la pasada de QA del sello **v2.1** (secciones, enlaces, fechado, estado de verificación). |
 
 ---
 
@@ -80,6 +82,22 @@
 3. [Valuación de Empresas](./Columna-I-Biblioteca/Nivel-V-Maestria/03-Valuacion-de-Empresas.md)
 4. [Estrategia Corporativa y Game Theory](./Columna-I-Biblioteca/Nivel-V-Maestria/04-Estrategia-Corporativa-y-Game-Theory.md)
 
+### Ramas Esenciales · [Derecho Público, Procesal y Especial](./Columna-I-Biblioteca/Ramas-Esenciales/) — ✅ 11 tratados
+> Materias **transversales** que la carrera exige y que el corporativo necesita, y que no encajan en la
+> escalera I–V. **No se estudian en orden**: cada una se activa cuando la necesitas (ver el
+> [README de la sección](./Columna-I-Biblioteca/Ramas-Esenciales/README.md)).
+1. [Derecho Fiscal (base)](./Columna-I-Biblioteca/Ramas-Esenciales/01-Derecho-Fiscal.md) — *cimiento del nicho fiscal-corporativo*
+2. [Derecho Constitucional y Amparo](./Columna-I-Biblioteca/Ramas-Esenciales/02-Derecho-Constitucional-y-Amparo.md)
+3. [Derecho Administrativo](./Columna-I-Biblioteca/Ramas-Esenciales/03-Derecho-Administrativo.md)
+4. [Derecho Procesal Civil y Mercantil](./Columna-I-Biblioteca/Ramas-Esenciales/04-Derecho-Procesal-Civil-y-Mercantil.md)
+5. [Derecho Laboral](./Columna-I-Biblioteca/Ramas-Esenciales/05-Derecho-Laboral.md)
+6. [Derecho Penal Económico y Compliance](./Columna-I-Biblioteca/Ramas-Esenciales/06-Derecho-Penal-Economico-y-Compliance.md)
+7. [Propiedad Intelectual](./Columna-I-Biblioteca/Ramas-Esenciales/07-Propiedad-Intelectual.md)
+8. [Derecho Internacional Privado y Arbitraje](./Columna-I-Biblioteca/Ramas-Esenciales/08-Derecho-Internacional-Privado-y-Arbitraje.md)
+9. [Protección de Datos Personales](./Columna-I-Biblioteca/Ramas-Esenciales/09-Proteccion-de-Datos-Personales.md)
+10. [Derecho Ambiental](./Columna-I-Biblioteca/Ramas-Esenciales/10-Derecho-Ambiental.md)
+11. [Ética Profesional y Responsabilidad del Abogado](./Columna-I-Biblioteca/Ramas-Esenciales/11-Etica-Profesional-y-Responsabilidad-del-Abogado.md)
+
 ---
 
 ## 4. Columna II · Hoja de Ruta — ✅
@@ -88,7 +106,7 @@
 - [03 · Plan de Inglés Jurídico](./Columna-II-Hoja-de-Ruta/03_PLAN_DE_INGLES_JURIDICO_AJE.md) — la llave no negociable
 - [04 · La Tesis Estratégica](./Columna-II-Hoja-de-Ruta/04_LA_TESIS_ESTRATEGICA.md) — tesis (R&W en el SPA) como activo de carrera
 
-## 5. Columna III · Laboratorio Profesional — ✅ completo (2 tramos · 10 ejercicios)
+## 5. Columna III · Laboratorio Profesional — ✅ completo (3 tramos · 11 ejercicios)
 - [00 · Laboratorio Profesional (documento rector)](./Columna-III-Laboratorio/00_LABORATORIO_PROFESIONAL_AJE.md)
 - **Tramo 1 · Ciclo de M&A:**
 - [01 · El Memorándum Legal](./Columna-III-Laboratorio/01-El-Memorandum-Legal.md) — ✅
@@ -102,8 +120,11 @@
 - [08 · Actas, Asambleas y Resoluciones](./Columna-III-Laboratorio/08-Actas-Asambleas-y-Resoluciones.md) — ✅
 - [09 · La Opinión Legal](./Columna-III-Laboratorio/09-La-Opinion-Legal.md) — ✅
 - [10 · La Presentación al Cliente y al Consejo](./Columna-III-Laboratorio/10-La-Presentacion-al-Cliente-y-al-Consejo.md) — ✅
+- **Tramo 3 · Destrezas de negociación:**
+- [11 · El Redline: marcar el borrador de la contraparte](./Columna-III-Laboratorio/11-El-Redline-Marcado-del-Borrador-de-la-Contraparte.md) — ✅
 
-> Los 10 ejercicios recorren una misma operación de M&A ("Proyecto Caramelo") de principio a fin.
+> Los ejercicios 01-10 recorren una misma operación de M&A ("Proyecto Caramelo") de principio a fin; el 11
+> añade la destreza más usada por el asociado junior: **marcar (redline) el borrador de la contraparte**.
 
 ## 6. Columnas IV y V
 ### Columna IV · Sistema del Socio — ✅ completa
@@ -129,4 +150,5 @@
 
 ---
 
-*Total Columna I: **38 tratados** en 5 niveles. Índice mantenido a mano; actualízalo al crecer.*
+*Total Columna I: **49 tratados** (38 en los 5 niveles + 11 en Ramas Esenciales). Índice mantenido a
+mano; actualízalo al crecer.*
