@@ -6,7 +6,29 @@
 
 ---
 
-## [3.3] — 2026-07 · «Corazón corporativo completo (CPEUM + 7 leyes)» — *rama `v3.3-corpus-corporativo`, PR*
+## [3.4] — 2026-07 · «Corpus legal completo (27 leyes)» — *rama `v3.4-corpus-completo`, PR*
+
+> **Qué es la v3.4.** El cierre del corpus: se integran las **10 leyes finales** (procesal, datos,
+> responsabilidades, ambiental, consumidor, autor, seguridad social). Con ellas, **prácticamente cada
+> artículo citado en toda la biblioteca tiene su texto oficial verificado en `fuentes-legales/`**.
+
+### Añadido — 10 fuentes oficiales (Word `.doc` → UTF-8)
+- **CNPP** (DOF 28-11-2025), **CNPCF** (15-01-2026), **LFPDPPP** (14-11-2025, *nueva ley 2025*),
+  **LGRA** (15-12-2025), **LGEEPA** (19-01-2026), **LFPC** (12-12-2025), **LFPCA** (09-06-2026),
+  **LFDA** (14-05-2026), **LSS** (15-01-2026), **CFPC** (abrogado). **Corpus total: 27 leyes.**
+
+### Verificado (✅ verbatim)
+- **CNPP:** 1º, 211 · **CNPCF:** 1º · **LFPDPPP:** 1º, 3º · **LGRA:** 1º, 7º · **LGEEPA:** 1º, 3º ·
+  **LFPC:** 1º · **LFPCA:** 1º · **LFDA:** 1º, 11 · **LSS:** 1º, 2º · **CFPC:** 1º.
+
+### Hallazgo de vigencia (⟳ en acción)
+- El **Código Federal de Procedimientos Civiles (CFPC)** está **ABROGADO**: deja de regir a más tardar el
+  **1-abr-2027**, sustituido por el CNPCF. Un **código entero** de salida — el ejemplo definitivo de por
+  qué existe la apóstrofe de vigencia. Marcado como tal en el README de fuentes.
+
+---
+
+## [3.3] — 2026-07 · «Corazón corporativo completo (CPEUM + 7 leyes)» — *rama `v3.3-corpus-corporativo`, PR #7 fusionado*
 
 > **Qué es la v3.3.** Se cierran las **8 leyes de prioridad máxima** del derecho corporativo. Con esto,
 > el fiscal, el mercantil, el M&A, la competencia, el concursal, el bancario y la inversión extranjera

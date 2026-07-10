@@ -64,9 +64,13 @@ La pasada detectó **tres formatos** conviviendo. Se **homologan por norma** (ve
   **LCM** (1º/10), **LIC** (2º/46), **LIE** (1º/5º/6º/7º). Con la CPEUM en mano se voltearon **11 marcas
   ⚠️→✅** del **art. 31-IV** (la base constitucional del deber de contribuir, antes sin fuente) y se
   corrigieron 12 marcadores ⟳ mal colocados. **17 leyes** ya son fuente primaria verificada.
-- ⚠️ **Pendiente (para "referencia verificada" plena):** el verbatim de las leyes **aún no subidas**
-  (LFPDPPP, LGEEPA, CNPP, CNPCF, LGRA, LFPC…). Metodología ya probada; basta subir su texto a
-  `fuentes-legales/` y repetir el cotejo.
+- ✅ **CORPUS COMPLETO (v3.4): 27 leyes verificadas.** Se sumaron las 10 finales, cotejadas verbatim en
+  [`fuentes-legales/`](./fuentes-legales/): **CNPP** (1º/211), **CNPCF** (1º), **LFPDPPP** (1º/3º, *nueva
+  ley 2025*), **LGRA** (1º/7º), **LGEEPA** (1º/3º), **LFPC** (1º), **LFPCA** (1º), **LFDA** (1º/11),
+  **LSS** (1º/2º) y **CFPC** (1º — **código abrogado**, deja de regir a más tardar el 1-abr-2027).
+  Con esto, **prácticamente toda cita de artículo de la biblioteca tiene su texto oficial detrás**.
+- ⚠️ **Único pendiente real:** afinado de 11-Ética (conceptual, sin datos duros críticos) y cualquier
+  ley de nicho que se llegara a citar en el futuro. La regla ⟳ (apóstrofe de vigencia) cubre el resto.
 
 ## 5. Fechado global
 

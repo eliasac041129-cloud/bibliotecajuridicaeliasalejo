@@ -27,6 +27,16 @@ contenido fueron cotejados **palabra por palabra** contra el texto de esta carpe
 | `LCM-Ley-de-Concursos-Mercantiles.txt` | Ley de Concursos Mercantiles | TEXTO VIGENTE — última reforma **DOF 14-11-2025** | UTF-8 |
 | `LIC-Ley-de-Instituciones-de-Credito.txt` | Ley de Instituciones de Crédito | TEXTO VIGENTE — última reforma **DOF 14-11-2025** | UTF-8 |
 | `LIE-Ley-de-Inversion-Extranjera.txt` | Ley de Inversión Extranjera | TEXTO VIGENTE — última reforma **DOF 27-05-2024** | UTF-8 |
+| `CNPP-Codigo-Nacional-de-Procedimientos-Penales.txt` | Código Nacional de Procedimientos Penales | TEXTO VIGENTE — última reforma **DOF 28-11-2025** | UTF-8 |
+| `CNPCF-Codigo-Nacional-de-Procedimientos-Civiles-y-Familiares.txt` | Código Nacional de Procedimientos Civiles y Familiares | TEXTO VIGENTE — última reforma **DOF 15-01-2026** | UTF-8 |
+| `LFPDPPP-Ley-Federal-de-Proteccion-de-Datos-Personales-Particulares.txt` | Ley Federal de Protección de Datos Personales en Posesión de los Particulares (**nueva ley, 2025**) | TEXTO VIGENTE — última reforma **DOF 14-11-2025** | UTF-8 |
+| `LGRA-Ley-General-de-Responsabilidades-Administrativas.txt` | Ley General de Responsabilidades Administrativas | TEXTO VIGENTE — última reforma **DOF 15-12-2025** | UTF-8 |
+| `LGEEPA-Ley-General-del-Equilibrio-Ecologico.txt` | Ley General del Equilibrio Ecológico y la Protección al Ambiente | TEXTO VIGENTE — última reforma **DOF 19-01-2026** | UTF-8 |
+| `LFPC-Ley-Federal-de-Proteccion-al-Consumidor.txt` | Ley Federal de Protección al Consumidor | TEXTO VIGENTE — última reforma **DOF 12-12-2025** | UTF-8 |
+| `LFPCA-Ley-Federal-de-Procedimiento-Contencioso-Administrativo.txt` | Ley Federal de Procedimiento Contencioso Administrativo | TEXTO VIGENTE — última reforma **DOF 09-06-2026** | UTF-8 |
+| `LFDA-Ley-Federal-del-Derecho-de-Autor.txt` | Ley Federal del Derecho de Autor | TEXTO VIGENTE — última reforma **DOF 14-05-2026** | UTF-8 |
+| `LSS-Ley-del-Seguro-Social.txt` | Ley del Seguro Social | TEXTO VIGENTE — última reforma **DOF 15-01-2026** | UTF-8 |
+| `CFPC-Codigo-Federal-de-Procedimientos-Civiles.txt` | Código Federal de Procedimientos Civiles | ⚠️ **CÓDIGO ABROGADO** (a más tardar el **1-abr-2027**), sustituido por el CNPCF — última reforma DOF 07-06-2021 | UTF-8 |
 
 ## Cómo consultar un artículo
 
@@ -51,6 +61,11 @@ número hoy? — reitéralo en el código de esta carpeta antes de citarlo».* N
 proyecto: el **art. 390 del CPF**, al cotejarlo, resultó **«Derogado»**. Por eso ninguna cita —ni
 siquiera las marcadas ✅— se toma como eterna: **✅** = verificado *a la fecha de su fuente*; **⟳** =
 esa fecha ya envejece, la última palabra la tiene el código.
+
+> **Ejemplos vivos en este mismo repositorio:** el **art. 2º de la LIVA** aparece hoy como «Se deroga»;
+> y el **Código Federal de Procedimientos Civiles (CFPC) completo** está **abrogado** (deja de regir a
+> más tardar el **1-abr-2027**, sustituido por el CNPCF). Si esto le pasa a un artículo e incluso a un
+> código entero, **imagina lo que le pasa a un número suelto que citas de memoria**. De ahí el ⟳.
 
 ## Cómo agregar nuevas fuentes
 
