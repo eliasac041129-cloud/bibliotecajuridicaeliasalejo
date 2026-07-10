@@ -12,6 +12,17 @@
 **Etiquetas:** corporate law · fiscal · planeación fiscal · M&A tax · reestructuras · neutralidad fiscal · elusión vs. evasión
 **Prerrequisitos:** [Fundamentos de M&A](./01-Fundamentos-de-MA.md), [Estructuras: fusiones, escisiones, adquisiciones](./03-Estructuras-Fusiones-Escisiones-Adquisiciones.md), [Sociedades (LGSM)](../Nivel-III-Derecho-Mercantil/02-Sociedades-Mercantiles-LGSM.md), [Economía para Juristas](../Nivel-I-Fundamentos/10-Economia-para-Juristas.md) y, idealmente, [Finanzas y Contabilidad para Abogados](../Nivel-V-Maestria/02-Finanzas-y-Contabilidad-para-Abogados.md).
 **Estándar:** V3 (43 secciones + secciones transversales).
+
+> **✅ Registro de verificación (2026-07 · cotejo verbatim).** Los fundamentos fiscales que usa este
+> libro fueron cotejados **palabra por palabra** contra los textos oficiales vigentes archivados en
+> [`fuentes-legales/`](../../fuentes-legales/): **CFF** (última reforma DOF 09-04-2026) y **LISR** (última
+> reforma DOF 01-04-2024). **Verificado ✅:** ISR de personas morales **30%** (art. 9 LISR); **razón de
+> negocios / norma antiabuso** (art. 5º-A CFF); **operaciones inexistentes EFOS** (art. 69-B CFF);
+> **pérdidas fiscales = diez ejercicios siguientes** (art. 57 LISR); **facultades de comprobación**
+> (art. 42 CFF); **caducidad 5 años** (art. 67 CFF); **prescripción 5 años** (art. 146 CFF). Detalle en
+> [Derecho Fiscal](../Ramas-Esenciales/01-Derecho-Fiscal.md) y en el [Protocolo](../../PROTOCOLO_DE_VERIFICACION.md).
+> **⚠️** Tasas, tarifas, montos (UMA) y estímulos cambian cada ejercicio: reverifícalos con la ley del año.
+
 **⏱ Tiempo estimado de dominio:** 6–8 semanas (≈ 60–80 h de estudio activo). Lectura de
 reconocimiento: 10–12 h. *Estúdialo en bloques: la lógica del impuesto sobre la renta corporativo →
 la fiscalidad de la compraventa (acciones vs. activos) → la neutralidad en fusiones y escisiones →
