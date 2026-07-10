@@ -712,3 +712,39 @@ Empresa Familiar     ★★★☆☆
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 6 · Estándar V3. Contenido conceptual a 2026-07;
 verifica todo tipo penal, artículo, pena y monto contra su texto vigente (CPF, CFF, CNPP, LMV, Ley
 Antilavado) en el DOF y los criterios en el SJF.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El penal económico es el riesgo que **manda a la cárcel al cliente y al abogado**: fraude, administración fraudulenta, defraudación fiscal, lavado (PLD), uso de información privilegiada. El socio piensa en **prevención** (programa de *compliance* que exime o atenúa, art. 421 CNPP ⟳) y en **contención** (qué hacer en las primeras 48 horas de una investigación). En M&A, la responsabilidad **penal de la persona moral** se hereda: un delito del *target* no visto en el DD contamina al comprador.
+
+### Doctrina y debate
+- **Bien jurídico colectivo** (orden económico, hacienda pública) frente al penal clásico individual.
+- **Responsabilidad penal de la persona moral:** modelos de *respondeat superior* (EE. UU., por el acto del empleado) vs. **culpabilidad de la organización** (defecto de organización; *compliance* como eximente).
+- **Debate:** ¿el *compliance* penal previene delitos o solo reparte culpas hacia abajo?
+
+### Derecho comparado
+**FCPA** (EE. UU.) y **UK Bribery Act** definen el estándar anticorrupción con alcance extraterritorial. La responsabilidad corporativa penal es amplia en EE. UU. y más acotada (pero creciente) en el civil law. México la incorporó en el CNPP ⟳.
+
+### Caso real
+**FTX / Sam Bankman-Fried (condenado en 2024 ⚠️ *verificar*):** fraude y desvío de fondos de clientes; el colapso mostró la ausencia total de controles. **Enron** (ejecutivos presos) y **Odebrecht** (cohecho transnacional). Lección: sin *compliance* real, el delito de un ejecutivo se vuelve la ruina penal de toda la organización.
+
+### Errores que cuestan millones
+- ***Paper compliance*** que no exime ni atenúa.
+- No hacer **DD anticorrupción/PLD** del *target* (responsabilidad del sucesor).
+
+### Preguntas
+- **Criterio:** ¿debe la persona moral responder penalmente, o solo las personas físicas?
+- **Entrevista:** ¿qué hace en las primeras 48 horas de una investigación penal a su cliente?
+- **Examen:** ¿cómo puede el *compliance* atenuar o excluir la responsabilidad penal corporativa?
+
+### Bibliografía por niveles
+- **Básico:** *Resource Guide to the FCPA* (DOJ/SEC).
+- **Intermedio:** Silva Sánchez, *Fundamentos del derecho penal de la empresa*.
+- **Avanzado:** Tiedemann, *Derecho penal económico*.
+- **Internacional:** Convención Anticohecho de la OCDE.

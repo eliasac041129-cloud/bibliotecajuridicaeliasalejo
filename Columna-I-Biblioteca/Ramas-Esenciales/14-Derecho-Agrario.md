@@ -724,3 +724,38 @@ Empresa Familiar     ★★★☆☆
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 14 · Estándar V3. Contenido conceptual a 2026-07;
 verifica todo artículo (art. 27 CPEUM ⟳, Ley Agraria), órgano y procedimiento contra su texto vigente (DOF) y
 los criterios en el SJF y los Tribunales Agrarios.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El agrario parece ajeno al corporativo hasta que un proyecto de **energía, minería, infraestructura o inmobiliario** se topa con un **ejido**. Ahí el socio descubre que la **propiedad social** (ejidal y comunal) tiene reglas propias: no se compra como cualquier terreno. Piensa en **certeza de la tierra**: ¿quién es el titular?, ¿se requiere asamblea ejidal?, ¿aplica la consulta a comunidades? Un proyecto de miles de millones se detiene por un vicio en la tenencia.
+
+### Doctrina y debate
+- **Propiedad social (art. 27 CPEUM ✅ ⟳):** ejido y comunidad; su régimen de dominio pleno, usufructo y restricciones de enajenación.
+- **Debate:** ¿la propiedad social protege al campesino o traba la inversión y la certeza jurídica? Tensión histórica desde la Revolución.
+
+### Derecho comparado
+Pocos países tienen una figura equivalente al **ejido**; es una aportación mexicana del constitucionalismo social de 1917. En proyectos transnacionales, esto sorprende al inversionista extranjero acostumbrado a propiedad privada plena. La **consulta previa** a pueblos indígenas (Convenio 169 OIT) añade una capa que México debe respetar.
+
+### Caso real
+**Proyectos de energía e infraestructura frenados por conflictos de tierra/consulta ⚠️ *verificar casos*:** parques eólicos, mineras y obras han sido suspendidos por amparos de comunidades por falta de consulta o vicios en la tenencia ejidal. Lección: la **due diligence de tierra y consulta** es tan crítica como la financiera en proyectos con huella territorial.
+
+### Errores que cuestan millones
+- Adquirir o arrendar tierra ejidal **sin la asamblea** y formalidades del régimen agrario.
+- Omitir la **consulta previa** a comunidades (nulidad y suspensión del proyecto vía amparo).
+
+### Preguntas
+- **Criterio:** ¿la propiedad social debe mantenerse o migrar a propiedad privada plena?
+- **Entrevista:** ¿qué revisa antes de instalar un proyecto en tierra ejidal?
+- **Examen:** explique el régimen de la propiedad social del art. 27 CPEUM.
+
+### Bibliografía por niveles
+- **Básico:** Rivera Rodríguez, *Derecho agrario mexicano*.
+- **Intermedio:** Ley Agraria comentada; jurisprudencia de tribunales agrarios.
+- **Avanzado:** análisis del art. 27 y la reforma de 1992.
+- **Internacional:** Convenio 169 de la OIT (consulta previa).

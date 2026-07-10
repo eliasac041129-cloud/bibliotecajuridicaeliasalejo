@@ -733,3 +733,39 @@ Empresa Familiar     ★★★☆☆
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 12 · Estándar V3. Contenido conceptual a 2026-07;
 verifica todo artículo (CNPP, CPEUM 16-22), plazo y catálogo contra su texto vigente (DOF) y los criterios
 en el SJF y la Corte IDH.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El corporativo cruza el proceso penal por dos puertas: **delitos económicos** (defraudación, lavado, delitos bursátiles) y **defensa de ejecutivos**. El socio piensa en **garantías** (presunción de inocencia, debido proceso, art. 20 CPEUM ✅ ⟳) y en **estrategia procesal**: medidas cautelares, criterios de oportunidad, procedimiento abreviado. Un buen penalista corporativo evita la prisión preventiva y negocia salidas antes del juicio.
+
+### Doctrina y debate
+- **Sistema acusatorio y oral** (reforma 2008, vigente 2016): principios de contradicción, inmediación, publicidad; el CNPP (⟳).
+- **Garantismo (Ferrajoli):** el proceso como límite al poder punitivo del Estado.
+- **Debate candente:** la **prisión preventiva oficiosa** (art. 19 CPEUM ⟳) —¿seguridad o violación a la presunción de inocencia? La Corte Interamericana condenó a México (caso *García Rodríguez y otro*, 2023 ⚠️ *verificar*).
+
+### Derecho comparado
+El modelo **adversarial** estadounidense (con *plea bargaining* masivo) inspiró la reforma mexicana; el **procedimiento abreviado** es su pariente. Europa continental mantiene rasgos inquisitivos atenuados. La presunción de inocencia es común; la prisión preventiva **oficiosa** mexicana es una anomalía señalada internacionalmente.
+
+### Caso real
+**Corte IDH vs. prisión preventiva oficiosa (2023) ⚠️ *verificar*:** el fallo tensó al sistema mexicano (control de convencionalidad vs. texto constitucional). Para el ejecutivo imputado por un delito económico, la diferencia entre litigar libre o preso está justo en ese debate.
+
+### Errores que cuestan millones (y la libertad)
+- No preparar la **defensa** desde la carpeta de investigación (etapa inicial).
+- Ignorar salidas alternas (**acuerdos reparatorios, criterio de oportunidad, abreviado**).
+
+### Preguntas
+- **Criterio:** ¿es constitucional/convencional la prisión preventiva oficiosa?
+- **Entrevista:** ¿qué estrategia sigue en la etapa inicial de un delito económico?
+- **Examen:** enuncie los principios del sistema acusatorio.
+
+### Bibliografía por niveles
+- **Básico:** Constantino Rivera, *Introducción al sistema acusatorio*.
+- **Intermedio:** CNPP comentado.
+- **Avanzado:** Ferrajoli, *Derecho y razón*.
+- **Internacional:** jurisprudencia de la Corte IDH sobre libertad personal.

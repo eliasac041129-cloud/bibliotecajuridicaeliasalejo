@@ -684,3 +684,39 @@ Empresa Familiar     ★★★☆☆
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 10 · Estándar V3. Contenido conceptual a 2026-07;
 verifica todo artículo (LGEEPA, LFRA), autoridad y límite (NOMs) contra su texto vigente en el DOF y los
 criterios en el SJF.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El pasivo ambiental es **silencioso y enorme**: no aparece en el balance, pero puede exceder el valor de la empresa. En M&A industrial o inmobiliario, el socio exige ***environmental due diligence*** (fase I/II) y, sobre todo, se pregunta: *¿el comprador hereda la contaminación previa?* La **responsabilidad del sucesor** por daño ambiental es de las que más *deals* rediseñan (precio, *escrow*, indemnidad).
+
+### Doctrina y debate
+- **Principios:** **"quien contamina paga"**, **precaución** (ante duda científica, prevenir) y **desarrollo sostenible**.
+- **Responsabilidad ambiental objetiva** (LFRA ⟳): no requiere culpa; basta el daño.
+- **Debate:** ESG y "riesgo climático" como deber fiduciario —¿obligación real de los administradores o *greenwashing*?
+
+### Derecho comparado
+EE. UU.: **CERCLA (Superfund)** impone responsabilidad **retroactiva, solidaria y del sucesor** por sitios contaminados —el terror del comprador de activos industriales. La UE tiene la Directiva de Responsabilidad Medioambiental. México: **LGEEPA (2026 reformas ⟳)** y **LFRA**.
+
+### Caso real
+**Deepwater Horizon / BP (2010):** el derrame costó a BP más de **65,000 mdd ⚠️ *verificar*** en multas, limpieza e indemnizaciones. **Bayer–Monsanto (glifosato):** pasivo ambiental/producto heredado por adquisición. Lección: lo ambiental no se "provisiona" fácil; se **diligencia y se traslada** contractualmente o mata el retorno.
+
+### Errores que cuestan millones
+- Comprar activos industriales **sin fase I/II** ambiental y heredar la contaminación.
+- No pactar **indemnidad ambiental** y *escrow* específico en el SPA.
+
+### Preguntas
+- **Criterio:** ¿el "riesgo climático" es un deber fiduciario del consejo o una moda ESG?
+- **Entrevista:** ¿cómo protege a un comprador frente a pasivos ambientales del *target*?
+- **Examen:** explique el principio "quien contamina paga" y la responsabilidad objetiva.
+
+### Bibliografía por niveles
+- **Básico:** Brañes, *Manual de derecho ambiental mexicano*.
+- **Intermedio:** LGEEPA y LFRA comentadas.
+- **Avanzado:** análisis comparado CERCLA / Directiva UE.
+- **Internacional:** Principios de Río (1992); marcos ESG (TCFD, ISSB).

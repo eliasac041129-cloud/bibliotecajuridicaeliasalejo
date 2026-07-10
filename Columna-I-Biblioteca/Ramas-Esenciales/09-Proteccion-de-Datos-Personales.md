@@ -696,3 +696,38 @@ Empresa Familiar     ★★☆☆☆
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 9 · Estándar V3. Contenido conceptual a 2026-07;
 verifica todo artículo, monto, plazo y la autoridad garante vigente contra su texto vigente (LFPDPPP y
 Reglamento) tras la reforma de simplificación orgánica 2024-2025.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Los datos son **activo y pasivo** a la vez: valen (la empresa vive de ellos) y arriesgan (una brecha o una sanción hunden la valuación). En M&A, el socio hace ***privacy due diligence***: ¿la empresa trata datos con base legal?, ¿hubo brechas?, ¿puede transferir la base de datos al comprador? Comprar una empresa de datos sin revisar su cumplimiento es heredar una bomba regulatoria.
+
+### Doctrina y debate
+- **Privacidad como derecho:** Warren & Brandeis (*The Right to Privacy*, 1890, "el derecho a ser dejado en paz") y la **autodeterminación informativa** (Tribunal Constitucional alemán, sentencia del censo, 1983).
+- **Debate:** ¿consentimiento (modelo clásico) o **responsabilidad proactiva** (*accountability*, *privacy by design*) del GDPR? El consentimiento "de casilla" está en crisis.
+
+### Derecho comparado
+El **GDPR** europeo (2018) es el estándar global (extraterritorial, multas de hasta 4% de la facturación mundial). EE. UU. carece de ley federal única (modelo sectorial + CCPA en California). México: **nueva LFPDPPP (2025)** ⟳ con autoridad en la **Secretaría Anticorrupción y Buen Gobierno**.
+
+### Caso real
+**Cambridge Analytica / Facebook (2018):** uso indebido de datos de ~87 millones de usuarios ⚠️ *verificar*; costó a Meta una multa de **5,000 mdd** de la FTC y daño reputacional histórico. **Multas GDPR a Meta/Amazon** (cientos de millones de euros). Lección: los datos mal gobernados son el nuevo pasivo ambiental de la economía digital.
+
+### Errores que cuestan millones
+- Transferir una base de datos en un *deal* **sin base legal** para el nuevo tratamiento.
+- No tener **plan de respuesta a brechas** ni *privacy by design*.
+
+### Preguntas
+- **Criterio:** ¿el consentimiento sigue siendo un modelo viable o debe regir la *accountability*?
+- **Entrevista:** ¿qué revisa en un *privacy due diligence*?
+- **Examen:** explique la autodeterminación informativa.
+
+### Bibliografía por niveles
+- **Básico:** LFPDPPP (2025) y su Reglamento.
+- **Intermedio:** GDPR (texto y guías del CEPD).
+- **Avanzado:** Solove, *Understanding Privacy*.
+- **Internacional:** Warren & Brandeis, *The Right to Privacy* (Harvard Law Review, 1890).
