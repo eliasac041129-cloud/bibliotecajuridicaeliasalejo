@@ -31,11 +31,14 @@ protección de datos en M&A y compliance.*
 > (Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales), la
 > autoridad garante en la materia. **Verificado ✅ (2026-07):** sus funciones se transfirieron a la
 > **Secretaría Anticorrupción y Buen Gobierno** (dependiente del Ejecutivo federal), a partir del
-> **21 de marzo de 2025**, en el marco de una **nueva Ley General de Protección de Datos Personales** ⚠️.
-> **Esto no cambia los
-> principios ni los deberes de las empresas, pero sí la autoridad ante la que se tramitan
-> procedimientos.** Donde este tratado diga "INAI", entiende "la autoridad garante vigente". ⚠️ *Verifica
-> la autoridad y la ley aplicables.* Contenido reformulado.
+> **21 de marzo de 2025**. **Verificado ✅ verbatim contra la nueva LFPDPPP (texto vigente, DOF
+> 14-11-2025), archivada en [`fuentes-legales/`](../../fuentes-legales/):** la **nueva Ley Federal de
+> Protección de Datos Personales en Posesión de los Particulares** (que **abrogó la de 2010**) designa
+> como autoridad a la **"Secretaría" = Secretaría Anticorrupción y Buen Gobierno** (art. 2, fr. XV ✅) y
+> le fija sus atribuciones en los **arts. 38-39 ✅**; conserva los **derechos ARCO** (art. 21 ✅).
+> **Esto no cambia los principios ni los deberes de las empresas, pero sí la autoridad ante la que se
+> tramitan procedimientos.** Donde este tratado diga "INAI", entiende **la Secretaría Anticorrupción y
+> Buen Gobierno** (autoridad garante vigente). ⟳ *Reverifica ante posibles reformas.* Contenido reformulado.
 
 > **Aviso de método.** Tratado, no repaso. Aquí aprendes a proteger uno de los activos y riesgos más
 > importantes de la empresa digital: **los datos de las personas**.
@@ -127,7 +130,7 @@ la protección de datos a rango **constitucional** (reformas a los arts. 6 y 16 
 En **México** (⚠️ verificar):
 1. **Rango constitucional:** los arts. 6 y 16 ⟳ reconocen el acceso a la información y la protección de datos
    personales como derechos.
-2. **LFPDPPP (2010 ✅)** y su Reglamento: régimen del **sector privado** (principios, ARCO, aviso de
+2. **LFPDPPP (nueva ley, vigente DOF 14-11-2025 ✅; abrogó la de 2010 ⟳)** y su Reglamento: régimen del **sector privado** (principios, ARCO, aviso de
    privacidad, transferencias, sanciones), aplicado por el entonces **IFAI/INAI**.
 3. **Ley para el sector público** (sujetos obligados): régimen paralelo para entes públicos.
 4. **Extinción del INAI (reforma 2024-2025 ✅):** la autoridad garante autónoma desapareció con la
@@ -189,9 +192,9 @@ contingencias (multas, brechas, demandas).
 
 ## 11. Definiciones legales
 
-- **Dato personal (LFPDPPP ⚠️):** cualquier información **concerniente a una persona física identificada o
+- **Dato personal (LFPDPPP ✅):** cualquier información **concerniente a una persona física identificada o
   identificable**.
-- **Dato sensible (LFPDPPP ⚠️):** el que afecta la esfera más íntima o cuyo uso indebido puede causar
+- **Dato sensible (LFPDPPP ✅):** el que afecta la esfera más íntima o cuyo uso indebido puede causar
   discriminación o riesgo grave (origen racial, salud, creencias, orientación sexual, datos biométricos,
   etc.); exige protección reforzada y **consentimiento expreso**.
 - **Responsable:** quien **decide** sobre el tratamiento de los datos. **Encargado:** quien los trata **por
@@ -217,7 +220,7 @@ corto: **el derecho que te da control sobre tu información y obliga a las empre
 - **Responsable / encargado:** quien decide vs. quien procesa por cuenta del primero (relación regulada por
   contrato).
 - **Consentimiento:** tácito o **expreso** (y expreso **por escrito** para datos sensibles/financieros ⚠️).
-- **Principios (LFPDPPP ⚠️):** licitud, consentimiento, información, calidad, finalidad, lealtad,
+- **Principios (LFPDPPP ✅):** licitud, consentimiento, información, calidad, finalidad, lealtad,
   proporcionalidad y responsabilidad.
 - **Deberes:** de **seguridad** (medidas administrativas, físicas y técnicas) y de **confidencialidad**.
 - **Aviso de privacidad:** integral, simplificado o corto.
@@ -241,7 +244,7 @@ siempre: ¿qué datos trato, de quién, para qué, y con qué base legal?*
 
 ### 14.2 Los principios del tratamiento (el "cómo" legal)
 
-Todo tratamiento debe respetar los **principios** (LFPDPPP ⚠️): **licitud** (conforme a la ley);
+Todo tratamiento debe respetar los **principios** (LFPDPPP ✅): **licitud** (conforme a la ley);
 **consentimiento** (permiso del titular, expreso para sensibles); **información** (avisar mediante el aviso
 de privacidad); **calidad** (datos exactos y actualizados); **finalidad** (usarlos solo para los fines
 informados); **lealtad** (sin engaño); **proporcionalidad** (solo los datos necesarios); y
@@ -396,7 +399,7 @@ central de compliance y de M&A global. ⚠️ *Verificar marcos aplicables.*
 
 - **Constitucional:** arts. 6 y 16 ⟳ (acceso a la información y protección de datos/autodeterminación
   informativa) ⚠️.
-- **Sector privado:** **LFPDPPP (2010 ⚠️)** y su **Reglamento**; lineamientos del aviso de privacidad y de
+- **Sector privado:** **LFPDPPP (nueva ley vigente DOF 14-11-2025 ✅; sustituyó a la de 2010 ⟳)** y su **Reglamento**; lineamientos del aviso de privacidad y de
   seguridad.
 - **Sector público:** ley de protección de datos de **sujetos obligados**.
 - **Autoridad:** históricamente el **INAI** (extinto en la reforma 2024-2025 ⚠️); funciones reasignadas a
