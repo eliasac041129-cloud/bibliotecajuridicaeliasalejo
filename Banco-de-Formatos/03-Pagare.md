@@ -1,32 +1,48 @@
 # Formato 03 — Pagaré
 
-> **Qué es.** Título de crédito por el que una persona (**suscriptor**) promete incondicionalmente pagar
-> una suma de dinero a otra (**beneficiario**). Es **título ejecutivo**: permite la vía ejecutiva mercantil
-> sin discutir la causa. **⟳ Requisitos: art. 170 LGTOC**; si falta uno esencial, puede no valer como
-> pagaré (art. 14 LGTOC) — verifica vigencia.
+> **Modelo profesional.** Reprodúcelo tal cual (llenando los campos `[ ]`) para emitir un pagaré válido y ejecutivo. **⟳** Requisitos de existencia: **art. 170 LGTOC**; verifica su vigencia antes de emitirlo.
 
 ---
 
-**PAGARÉ**
+<div align="center">
 
-**Bueno por: $[cantidad con número] MXN**                 **[Ciudad], a [fecha de suscripción].**
+**P A G A R É**
 
-Debo(emos) y pagaré(mos) incondicionalmente a la orden de **[NOMBRE DEL BENEFICIARIO]** la cantidad de
-**$[cantidad] ([cantidad con letra] pesos [00/100] Moneda Nacional)**, el día **[fecha de vencimiento]**
-en **[lugar de pago]**.
+</div>
 
-*Nota (art. 170 LGTOC ⟳): son requisitos (1) la mención "pagaré" en el texto; (2) la promesa incondicional de pagar suma determinada; (3) nombre del beneficiario; (4) fecha y lugar de pago; (5) fecha y lugar de suscripción; (6) firma del suscriptor.*
+**Pagaré No.** [000-2026]                                                  **Bueno por $[00,000.00 M.N.]**
 
-Este pagaré causará **intereses ordinarios** a razón del **[__]% mensual** desde su fecha, y en caso de
-mora, **intereses moratorios** del **[__]% mensual** hasta su total liquidación.
+En **[ciudad de suscripción]**, a **[día] de [mes] de [año]**.
 
-*Nota: si no se señala vencimiento, se considera pagadero a la vista (art. 171 LGTOC ⟳). Cuida que el interés no sea usurario (criterio de la SCJN sobre el art. 21 constitucional / interés notoriamente excesivo).*
+Debo(emos) y pagaré(mos) incondicionalmente a la orden de **[NOMBRE COMPLETO DEL BENEFICIARIO]** la cantidad de **$[cantidad con número] ([cantidad con letra] pesos [00]/100 Moneda Nacional)**, pagadera el día **[día] de [mes] de [año]** en el domicilio ubicado en **[calle, número, colonia, C.P., municipio, entidad]**.
 
-**Aval (opcional):** Por aval, garantizando el pago de este pagaré, **[NOMBRE DEL AVAL]**.
+Este pagaré causará **intereses ordinarios** desde su fecha de suscripción a razón del **[__]% ([__] por ciento) mensual**. En caso de falta de pago puntual, causará **intereses moratorios** a razón del **[__]% ([__] por ciento) mensual** sobre el saldo insoluto, hasta su total liquidación, sin perjuicio de las acciones que en derecho correspondan.
 
-**SUSCRIPTOR**
-Nombre: [__]   ·   Domicilio: [__]
-Firma: _________________________
+El presente título de crédito se rige por la **Ley General de Títulos y Operaciones de Crédito**. El(los) suscriptor(es) renuncia(n) al derecho de que este documento sea presentado para su pago en fecha distinta a la señalada.
+
+<br>
+
+**ACEPTO(AMOS) DE CONFORMIDAD — EL(LOS) SUSCRIPTOR(ES)**
+
+| | |
+|---|---|
+| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| **Nombre:** [__] | **Nombre:** [__] |
+| **Domicilio:** [__] | **Domicilio:** [__] |
+| **RFC:** [__] | **RFC:** [__] |
+
+<br>
+
+**POR AVAL** (garantizando solidariamente el pago de este pagaré):
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Nombre del aval:** [__]   ·   **Domicilio:** [__]
 
 ---
-*Estudia con:* Nivel III · [Títulos y Operaciones de Crédito (LGTOC)](../Columna-I-Biblioteca/Nivel-III-Derecho-Mercantil/03-Titulos-y-Operaciones-de-Credito-LGTOC.md).
+
+### Notas para el redactor
+- **Requisitos esenciales (art. 170 LGTOC ⟳):** (i) la mención "pagaré" en el texto; (ii) la promesa **incondicional** de pagar una suma determinada; (iii) el nombre del beneficiario; (iv) época y lugar de pago; (v) fecha y lugar de suscripción; (vi) firma del suscriptor. La falta de un requisito puede privarlo de efectos como título (art. 14 LGTOC ⟳).
+- Si se omite el lugar de pago, se tiene como tal el domicilio del suscriptor; si se omite el vencimiento, es **pagadero a la vista** (art. 171 LGTOC ⟳).
+- Cuida que el interés no resulte **usurario**: el juez puede reducirlo de oficio (criterio de la SCJN, *véase* el [Banco de Jurisprudencia](../Banco-de-Jurisprudencia/Criterios-Clave-por-Rama.md)).
+
+*Estudia con:* [Títulos y Operaciones de Crédito (LGTOC)](../Columna-I-Biblioteca/Nivel-III-Derecho-Mercantil/03-Titulos-y-Operaciones-de-Credito-LGTOC.md).

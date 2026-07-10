@@ -1,42 +1,70 @@
-# Formato 02 — Acta de Asamblea General de Accionistas
+# Formato 02 — Acta de Asamblea General Ordinaria de Accionistas
 
-> **Qué es.** Documento que hace constar los acuerdos de la asamblea, órgano supremo de la S.A.
-> (**art. 178 LGSM ⟳**). La **ordinaria** se reúne al menos una vez al año (**art. 181 LGSM ⟳**); la
-> **extraordinaria** trata los asuntos del **art. 182 LGSM ⟳** (modificación de estatutos, aumento/
-> reducción de capital, fusión, disolución, etc.). Verifica vigencia de todos los artículos.
+> **Modelo profesional** listo para adaptar y protocolizar. **⟳** Órgano supremo: **art. 178 LGSM**; asamblea ordinaria: **arts. 181 y 189 LGSM**. Verifica vigencia.
 
 ---
 
-**ACTA DE ASAMBLEA GENERAL [ORDINARIA / EXTRAORDINARIA] DE ACCIONISTAS**
-**[SOCIEDAD, S.A. DE C.V.]**
+<div align="center">
 
-En **[ciudad]**, siendo las **[hora]** del **[fecha]**, se reunieron en **[domicilio social]** los
-accionistas de **[Sociedad]** para celebrar Asamblea General [Ordinaria/Extraordinaria].
+**[DENOMINACIÓN], S.A. DE C.V.**
 
-**I. INSTALACIÓN Y QUÓRUM.** Presidió **[__]**; actuó como secretario **[__]**. El secretario hizo constar,
-con base en el **libro de registro de acciones (art. 128 LGSM ⟳)**, que estuvo representado el **[__]%** del
-capital social, por lo que **existe quórum legal** para sesionar [ordinaria: art. 189; extraordinaria:
-art. 190 LGSM ⟳]. *Nota: la 1ª convocatoria ordinaria requiere al menos la mitad del capital; la extraordinaria, tres cuartas partes.*
+**ACTA DE ASAMBLEA GENERAL ORDINARIA DE ACCIONISTAS**
 
-**II. ORDEN DEL DÍA.**
-1. Lista de asistencia y verificación de quórum.
-2. [Aprobación de estados financieros del ejercicio (art. 181, fr. I LGSM ⟳)].
-3. [Aplicación de resultados / decreto de dividendos].
-4. [Nombramiento o ratificación de administrador único / consejo y comisario (art. 181, fr. II-III ⟳)].
-5. Designación de delegados para formalizar y protocolizar.
+</div>
 
-**III. DESARROLLO Y RESOLUCIONES.** Puesto a consideración cada punto, la asamblea adoptó por **[unanimidad / mayoría de [__]%]** las siguientes resoluciones:
-- **PRIMERA.** [__].
-- **SEGUNDA.** [__].
+En la ciudad de **[ciudad]**, siendo las **[hora]** horas del día **[día] de [mes] de [año]**, se reunieron en el domicilio social ubicado en **[domicilio]**, los accionistas de **[Denominación], S.A. de C.V.** (la "**Sociedad**"), previa convocatoria [publicada conforme a los estatutos / por asistir la totalidad del capital social en términos del artículo 188 de la Ley General de Sociedades Mercantiles], con el objeto de celebrar Asamblea General Ordinaria.
 
-**IV. DELEGADOS.** Se designa a **[__]** para acudir ante notario a **protocolizar** la presente acta cuando proceda (asuntos del art. 182 LGSM ⟳) e inscribirla en el **Registro Público de Comercio**.
+**PRESIDENCIA Y SECRETARÍA.** Presidió la Asamblea **[nombre]**, en su carácter de [Administrador Único / Presidente del Consejo de Administración], quien designó como Secretario a **[nombre]** y como Escrutador(es) a **[nombre]**.
 
-No habiendo otro asunto, se clausuró la sesión a las **[hora]**, firmando al calce.
+**LISTA DE ASISTENCIA Y QUÓRUM.** El Escrutador formuló la lista de asistencia y, con vista en el Libro de Registro de Acciones (art. 128 LGSM), certificó que se encontraba(n) presente(s) o representado(s) accionistas titulares de **[número]** acciones, equivalentes al **[__]%** del capital social suscrito y pagado. En consecuencia, existiendo el quórum de instalación que exigen el artículo 189 de la Ley General de Sociedades Mercantiles y la cláusula **[__]** de los estatutos, el Presidente **declaró legalmente instalada** la Asamblea.
 
-_______________________        _______________________
-Presidente                     Secretario
+### Orden del día
 
-*(Anexos: lista de asistencia; cartas poder; estados financieros.)*
+I. Instalación de la Asamblea y verificación del quórum.
+II. Presentación, discusión y, en su caso, aprobación del informe del órgano de administración y de los estados financieros del ejercicio concluido el 31 de diciembre de **[año]** (art. 172 LGSM).
+III. Aplicación de resultados y, en su caso, decreto de dividendos.
+IV. Nombramiento o ratificación del órgano de administración y del comisario, y fijación de sus emolumentos.
+V. Designación de delegados especiales para la formalización y protocolización de los acuerdos.
+
+### Desarrollo y resoluciones
+
+Sometido a discusión cada punto del orden del día, la Asamblea adoptó por **[unanimidad de votos / mayoría que representa el [__]% del capital]** las siguientes:
+
+**R E S O L U C I O N E S**
+
+**PRIMERA.** Se declara legalmente instalada la Asamblea y aprobada la lista de asistencia.
+
+**SEGUNDA.** Se aprueban en sus términos el informe del órgano de administración y los estados financieros del ejercicio **[año]**.
+
+**TERCERA.** Se resuelve aplicar los resultados del ejercicio como sigue: [constitución/incremento de reserva legal en términos del art. 20 LGSM; decreto de dividendos por $[__]; traspaso a resultados acumulados].
+
+**CUARTA.** Se [ratifica / nombra] como [Administrador Único / miembros del Consejo] a **[nombre(s)]** y como Comisario a **[nombre]**, quienes [protestan y aceptan el cargo / aceptarán por escrito], fijándose sus emolumentos en **[__]**.
+
+**QUINTA.** Se designa como delegados especiales a **[nombre(s)]** para que, conjunta o separadamente, comparezcan ante Notario Público a protocolizar la presente acta en lo conducente y a realizar su inscripción en el Registro Público de Comercio.
+
+No habiendo otro asunto que tratar, se declaró un receso para la redacción de la presente acta, la cual, una vez leída y aprobada, se firma al margen y al calce por quienes en ella intervinieron, clausurándose la sesión a las **[hora]** horas del mismo día.
+
+<br>
+
+| | |
+|---|---|
+| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| **[Nombre]** — Presidente | **[Nombre]** — Secretario |
+
+<div align="center">
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**[Nombre]** — Escrutador
+
+</div>
+
+*Anexos: (1) Lista de asistencia; (2) cartas poder; (3) estados financieros e informe; (4) aceptaciones de cargo.*
 
 ---
-*Estudia con:* Nivel III · [Sociedades Mercantiles (LGSM)](../Columna-I-Biblioteca/Nivel-III-Derecho-Mercantil/02-Sociedades-Mercantiles-LGSM.md).
+
+### Notas para el redactor
+- **Quórum (1ª convocatoria):** ordinaria, al menos **la mitad** del capital (art. 189 LGSM ⟳); extraordinaria, **tres cuartas partes** (art. 190 LGSM ⟳). Verifica los estatutos, que pueden exigir más.
+- Solo la **asamblea extraordinaria** (art. 182 LGSM ⟳) puede modificar estatutos, aumentar/reducir capital, fusionar, escindir o disolver; usa el formato de acta extraordinaria en esos casos.
+- La **protocolización** ante notario e inscripción en el RPC es obligatoria para los actos del art. 182 y recomendable para nombramientos.
+
+*Estudia con:* [Sociedades Mercantiles (LGSM)](../Columna-I-Biblioteca/Nivel-III-Derecho-Mercantil/02-Sociedades-Mercantiles-LGSM.md).

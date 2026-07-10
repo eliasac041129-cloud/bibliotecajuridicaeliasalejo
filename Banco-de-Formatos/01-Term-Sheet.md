@@ -1,49 +1,62 @@
-# Formato 01 — Term Sheet (Hoja de Términos)
+# Formato 01 — Hoja de Términos y Condiciones (Term Sheet)
 
-> **Qué es.** Documento **precontractual** que resume los términos económicos y jurídicos de una operación
-> (inversión, adquisición, joint venture) antes de redactar los contratos definitivos. Salvo cláusulas
-> expresas (exclusividad, confidencialidad, gastos), suele ser **no vinculante**: fija el "acuerdo de
-> voluntades comercial" para guiar la negociación y el *due diligence*.
->
-> **⟳** La fuerza vinculante depende de su redacción y del **art. 1792 y 1832 CCF** (autonomía de la
-> voluntad); verifica su vigencia antes de citar.
+> **Modelo profesional** de documento precontractual. **⟳** Su fuerza vinculante depende de su redacción y de la autonomía de la voluntad (**arts. 1792 y 1832 CCF**); verifica vigencia.
 
 ---
+
+<div align="center">
 
 **HOJA DE TÉRMINOS Y CONDICIONES**
-**Operación:** [inversión / adquisición del [__]% de las acciones de **[SOCIEDAD OBJETIVO, S.A. de C.V.]**]
-**Fecha:** [ciudad], a [fecha]
 
-**PARTES**
-- **Inversionista / Comprador:** [Nombre].
-- **Sociedad / Vendedores:** [Nombre(s)].
+**Operación: [inversión en / adquisición del [__]% de] [SOCIEDAD OBJETIVO], S.A. de C.V.**
 
-**1. Estructura de la operación.** [Suscripción de acciones de nueva emisión / compra de acciones existentes / aportación de capital]. *Nota: define si es primaria (entra dinero a la empresa) o secundaria (compra a socios actuales).*
+</div>
 
-**2. Valuación.** Valor pre-money: **$[__]**; inversión: **$[__]**; valor post-money: **$[__]**. Porcentaje resultante: **[__]%**.
+**[Ciudad], a [día] de [mes] de [año].**
 
-**3. Instrumento.** [Acciones serie [__] con derechos preferentes / SAFE / nota convertible con descuento del [__]% y *cap* de $[__]].
+El presente documento (la "**Hoja de Términos**") resume los términos y condiciones principales conforme a los cuales **[INVERSIONISTA / COMPRADOR]** (el "**Inversionista**") evaluaría [invertir en / adquirir acciones de] **[SOCIEDAD OBJETIVO], S.A. de C.V.** (la "**Sociedad**"), cuyos accionistas son **[VENDEDORES]** (los "**Accionistas**"). Salvo por las secciones expresamente señaladas como vinculantes, **este documento no obliga a las partes a celebrar la operación**.
 
-**4. Derechos económicos.** Preferencia de liquidación **[1x, no participativa]**; antidilución **[weighted average]**; dividendos [__].
+| Concepto | Términos propuestos |
+|---|---|
+| **Estructura** | [Suscripción de acciones de nueva emisión (primaria) / compraventa de acciones existentes (secundaria)]. |
+| **Valuación** | Valor *pre-money*: **$[__]**. Inversión: **$[__]**. Valor *post-money*: **$[__]**. |
+| **Participación resultante** | **[__]%** del capital social, en acciones serie **[__]**. |
+| **Instrumento** | [Acciones preferentes serie [__] / nota convertible con descuento del [__]% y tope de $[__] / SAFE]. |
+| **Preferencia de liquidación** | [1x, no participativa]. |
+| **Antidilución** | [Promedio ponderado (*weighted average*)]. |
+| **Gobierno corporativo** | [__] asiento(s) en el Consejo; **materias reservadas (veto):** emisión de acciones, endeudamiento superior a $[__], venta de activos relevantes, cambio de giro y aprobación del presupuesto. |
+| **Derechos de transferencia** | Derecho del tanto (*ROFR*), venta conjunta (*tag-along*) y arrastre (*drag-along*). |
 
-**5. Derechos de gobierno.** Asiento(s) en el consejo: **[__]**; materias de **veto** (asuntos reservados): [emisión de acciones, deuda > $[__], venta de activos, cambio de giro]. *Nota: es el corazón del control; conéctalo con el pacto de socios (SHA).*
+**Condiciones de la operación.** La operación quedará sujeta a: (i) resultado satisfactorio de la auditoría legal, contable y fiscal (*due diligence*); (ii) obtención de las aprobaciones corporativas (asamblea, art. 178 LGSM ⟳); y (iii) en su caso, la autorización de concentración ante la autoridad de competencia (arts. 86-90 LFCE ⟳).
 
-**6. Derechos de transferencia.** *Tag-along* (venta conjunta), *drag-along* (arrastre), derecho del tanto / *right of first refusal*.
+**Documentación definitiva.** De alcanzarse un acuerdo, los términos se formalizarán en el Contrato de Compraventa de Acciones (SPA), el Convenio entre Accionistas (SHA) y los estatutos reformados.
 
-**7. Declaraciones y garantías.** Las usuales sobre la sociedad, su capital, contingencias fiscales, laborales y litigios (a detallar en el SPA).
+### Estipulaciones vinculantes
 
-**8. Condiciones.** Sujeto a: *due diligence* satisfactorio; aprobaciones corporativas (**asamblea, art. 178 LGSM ⟳**); y, en su caso, autorización de concentración ante la autoridad de competencia (**arts. 86-90 LFCE ⟳**).
+Las siguientes secciones **sí obligan** a las partes desde la firma de esta Hoja de Términos:
 
-**9. Cláusulas VINCULANTES (aunque el resto no lo sea):**
-- **Exclusividad:** las partes negocian en exclusiva por **[45] días**.
-- **Confidencialidad:** ver acuerdo de confidencialidad de fecha [__].
-- **Gastos:** cada parte asume los propios.
-- **Ley aplicable y jurisdicción:** leyes de México; [tribunales de [__] / arbitraje CANACO].
+**PRIMERA. Exclusividad.** Los Accionistas se obligan a negociar en exclusiva con el Inversionista por un plazo de **[45] días** naturales, absteniéndose de solicitar o aceptar ofertas de terceros.
 
-**10. Naturaleza.** Salvo la cláusula 9, este documento **NO es vinculante** y no obliga a celebrar la operación.
+**SEGUNDA. Confidencialidad.** Las partes mantendrán la confidencialidad de esta Hoja de Términos y de la información intercambiada.
 
-_________________________          _________________________
-[Inversionista]                    [Sociedad / Vendedores]
+**TERCERA. Gastos.** Cada parte sufragará sus propios gastos y honorarios.
+
+**CUARTA. Ley aplicable.** Esta Hoja de Términos se rige por las leyes de los Estados Unidos Mexicanos; controversias ante [los tribunales de [__] / arbitraje CANACO].
+
+De conformidad con lo anterior, firman:
+
+<br>
+
+| | |
+|---|---|
+| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+| **El Inversionista** | **Los Accionistas** |
 
 ---
-*Estudia con:* Nivel IV · [Fundamentos de M&A](../Columna-I-Biblioteca/Nivel-IV-Corporate-Law/01-Fundamentos-de-MA.md) y [Documentación: Term Sheet, SPA, APA, SHA](../Columna-I-Biblioteca/Nivel-IV-Corporate-Law/04-Documentacion-Term-Sheet-SPA-APA-SHA.md).
+
+### Notas para el redactor
+- La Hoja de Términos **fija el acuerdo comercial** y ordena la negociación; su valor es sobre todo de **buena fe y velocidad**, no de obligatoriedad (salvo las secciones vinculantes).
+- Cuida la **cláusula de materias reservadas**: es el verdadero mecanismo de control del inversionista minoritario. Conéctala con el Convenio entre Accionistas (SHA).
+- Distingue **primaria** (el dinero entra a la Sociedad) de **secundaria** (el dinero va a los Accionistas que venden): tiene efectos fiscales y de control muy distintos.
+
+*Estudia con:* [Fundamentos de M&A](../Columna-I-Biblioteca/Nivel-IV-Corporate-Law/01-Fundamentos-de-MA.md) · [Documentación M&A](../Columna-I-Biblioteca/Nivel-IV-Corporate-Law/04-Documentacion-Term-Sheet-SPA-APA-SHA.md).

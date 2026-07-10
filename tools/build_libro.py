@@ -29,9 +29,10 @@ def escudo(cls):
     return f'<div class="escudo {cls}">{svg}</div>'
 
 # ---------- conversión markdown -> HTML ----------
-MD = markdown.Markdown(extensions=["tables","fenced_code","sane_lists","attr_list","toc"])
+MD = markdown.Markdown(extensions=["tables","fenced_code","sane_lists","attr_list","toc","md_in_html"])
 def md2html(text):
-    # quitar el H1 (lo usamos como título de capítulo aparte)
+    # permitir markdown dentro de los <div align="center"> (títulos de formatos)
+    text = text.replace('<div align="center">', '<div align="center" markdown="1">')
     MD.reset()
     html = MD.convert(text)
     # neutralizar enlaces internos (.md, carpetas) -> texto plano; conservar http
