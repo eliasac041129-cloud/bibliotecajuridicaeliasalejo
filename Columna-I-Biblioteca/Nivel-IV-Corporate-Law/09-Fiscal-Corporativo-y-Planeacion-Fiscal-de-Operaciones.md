@@ -989,3 +989,24 @@ El proyecto **BEPS** (OCDE/G20) reordenó la fiscalidad internacional; EE. UU. a
 - **Intermedio:** OCDE, *Acciones BEPS* (resúmenes).
 - **Avanzado:** Rosembuj, *El fraude de ley y el abuso de las formas*.
 - **Internacional:** OCDE, *Model Tax Convention*; informes BEPS 2015.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La planeación fiscal existe porque el impuesto es un **costo** como cualquier otro, y el contribuyente tiene derecho a organizar sus asuntos para pagar lo que la ley exige —ni más ni menos (doctrina de la **economía de opción**, con raíz en *IRC v. Duke of Westminster*, RU 1936: "cada quien puede ordenar sus negocios para reducir el impuesto"). La frontera —y el conflicto perpetuo— es cuándo esa libertad se vuelve **abuso**.
+
+**El debate.** *Duke of Westminster* (forma) vs. **sustancia sobre forma** (*Gregory v. Helvering*, EE. UU. 1935: una reorganización sin propósito de negocio no surte efectos fiscales). Es el debate matriz del derecho fiscal: **formalismo vs. sustancia económica**. Predomina hoy la sustancia: las **GAAR** (cláusulas generales antiabuso) y la **razón de negocios** (art. 5-A CFF ⟳) recaracterizan lo artificioso. Pero la crítica formalista advierte del riesgo para la **seguridad jurídica**: si el fisco puede recaracterizar, ¿dónde queda la previsibilidad?
+
+**Mirada de AED.** El impuesto distorsiona decisiones; una buena planeación **neutraliza** distorsiones (que la fiscalidad no dicte una estructura ineficiente). Pero la planeación agresiva genera una **carrera** (competencia fiscal entre Estados, *treaty shopping*) que erosiona la base y traslada el costo a quien no puede planear —un problema de acción colectiva global que **BEPS** intenta resolver.
+
+**Comparado y lección para México.** EE. UU. codificó la **economic substance doctrine** (2010) y añadió **GILTI/BEAT** (2017); la UE persigue **ayudas de Estado** fiscales (Apple–Irlanda). México incorporó razón de negocios, esquemas reportables y precios de transferencia. **Lección:** la tendencia global es irreversible hacia la **sustancia**; el abogado que estructure "cascarones" sin sustancia asesora hacia un pasivo futuro.
+
+**Crítica.** ¿Existe una "moral fiscal" o solo la legalidad? Los *leaks* (Panama/Paradise Papers) instalaron la idea de que lo legal puede ser ilegítimo, presionando a las empresas por **riesgo reputacional**, no solo jurídico. La crítica inversa: la vaguedad de las GAAR convierte al fisco en legislador.
+
+**Jurisprudencia y operación real.** *Gregory v. Helvering* (1935) y *Duke of Westminster* (1936) son los polos; **Apple–Irlanda** (TJUE, 2024 ⚠️: ~13,000 mdEUR) es su versión contemporánea. En M&A, el fiscalista cuantifica la contingencia hasta la **caducidad (art. 67 CFF ⟳)** y la traslada al vendedor vía *reps* fiscales, indemnidad específica y *escrow*.
+
+**Para leer más:** *Gregory v. Helvering* (US 1935); *IRC v. Duke of Westminster* (UK 1936); OCDE, informes BEPS; Rosembuj, *El fraude de ley y el abuso de las formas*.

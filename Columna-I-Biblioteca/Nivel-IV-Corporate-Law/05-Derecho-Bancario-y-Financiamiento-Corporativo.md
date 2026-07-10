@@ -1483,3 +1483,24 @@ Dos estándares de documentación dominan: **LMA** (Loan Market Association, Eur
 - **Intermedio:** Wood, *Law and Practice of International Finance*.
 - **Avanzado:** Smith & Warner, *On Financial Contracting* (covenants).
 - **Internacional:** Fuller, *Corporate Borrowing: Law and Practice*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El financiamiento con deuda existe porque el **apalancamiento** amplifica el retorno sobre el capital y —tesis de **Modigliani-Miller** (1958) y su matiz fiscal de 1963— el escudo fiscal de los intereses hace atractiva la deuda hasta el punto en que los **costos de insolvencia** la contrarrestan (teoría del *trade-off*). Los *covenants* existen para resolver el **conflicto de agencia entre accionistas y acreedores**: sin ellos, el accionista tiene incentivo a endeudarse más, repartir dividendos o "apostar" con dinero ajeno (*asset substitution*, *debt overhang* — Jensen-Meckling, Myers).
+
+**El debate.** *Covenant-lite* vs. protección robusta. En la era de tasas bajas y exceso de liquidez, los acreedores renunciaron a *covenants* (mercado del deudor); los críticos advirtieron que se sembraba la próxima crisis al perder la señal temprana de deterioro. El debate: ¿los *covenants* son fricción ineficiente o el sistema inmunológico del crédito? Predomina que su valor es **procíclico**: irrelevantes en auge, salvadores en la caída.
+
+**Mirada de AED.** Un *covenant* es un **mecanismo de control contingente**: transfiere derechos de decisión al acreedor cuando ciertos ratios se deterioran, justo cuando el conflicto de agencia se agrava (la empresa cerca de la insolvencia). Es gobierno corporativo por contrato. El *intercreditor agreement* resuelve, ex ante, la "carrera" entre acreedores (un problema de acción colectiva à la Jackson).
+
+**Comparado y lección para México.** Los estándares **LMA** (Europa) y **LSTA** (EE. UU.) uniformaron la documentación y redujeron costos. El *high yield* estadounidense y su *indenture* con *incurrence covenants* (vs. *maintenance covenants* del crédito bancario) reflejan dos filosofías de control. **Lección:** México, que documenta bajo ley local o de Nueva York según el acreedor, debe dominar ambas gramáticas y cuidar la **perfección de garantías** (RUG) para que el paquete no sea papel.
+
+**Crítica.** El apalancamiento excesivo **socializa pérdidas**: SVB y Credit Suisse (2023) mostraron cómo el riesgo se traslada al sistema y al Estado (rescates), mientras las ganancias fueron privadas. La crítica *macroprudencial* (post-2008) reprocha que la ingeniería financiera privilegió el retorno sobre la resiliencia.
+
+**Jurisprudencia y operación real.** El *wipeout* de los bonos **AT1 de Credit Suisse** (2023, ~17,000 mdEUR ⚠️) alteró la prelación esperada y desató litigios: recordó que la estructura de capital se activa en 72 horas. En la práctica, el abogado negocia *headroom*, *cure rights* y definiciones de EBITDA como si de ello dependiera la supervivencia del cliente —porque depende.
+
+**Para leer más:** Modigliani & Miller (AER, 1958); Jensen & Meckling (JFE, 1976); Smith & Warner, *On Financial Contracting* (JFE, 1979); Wood, *Law and Practice of International Finance*.

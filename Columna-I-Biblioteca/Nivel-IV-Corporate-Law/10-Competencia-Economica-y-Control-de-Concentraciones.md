@@ -880,3 +880,24 @@ EE. UU.: **Sherman Act (1890)** y **Clayton Act** (control de fusiones, *Hart-Sc
 - **Intermedio:** Whish & Bailey, *Competition Law*.
 - **Avanzado:** Bork, *The Antitrust Paradox*.
 - **Internacional:** Lina Khan, *Amazon's Antitrust Paradox* (Yale Law Journal, 2017).
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El derecho de competencia existe para corregir una **falla de mercado**: el poder de mercado permite subir precios, reducir producción y frenar innovación, destruyendo el excedente del consumidor. Su historia es una lucha de visiones: de la **Sherman Act** (1890), nacida contra los *trusts* de Rockefeller y Carnegie por razones tanto económicas como **políticas** (el poder concentrado amenaza la democracia), a la revolución de eficiencia de la Escuela de Chicago (años 70).
+
+**El debate (el más vivo del derecho corporativo actual).** **Escuela de Chicago (Bork, *The Antitrust Paradox*, 1978):** el único fin legítimo es el **bienestar del consumidor** medido en precios; las concentraciones suelen ser eficientes; intervenir de más daña. **Neo-brandeisianos (Lina Khan, *Amazon's Antitrust Paradox*, 2017):** el enfoque de precios es ciego ante el poder de las plataformas (que bajan precios pero dominan estructuras, datos y mercados adyacentes); hay que volver a mirar **estructura y poder**, no solo precio. El péndulo se mueve hacia una síntesis post-Chicago.
+
+**Mirada de AED.** El análisis moderno es económico puro: **definición de mercado relevante**, índices de concentración (**HHI**), teoría del daño (unilateral, coordinado, de conglomerado), eficiencias compensatorias. El abogado de competencia **litiga con economistas**: el caso se gana con modelos, no solo con normas.
+
+**Comparado y lección para México.** EE. UU. (Sherman/Clayton, *Hart-Scott-Rodino*) enfatiza el consumidor; la **UE (arts. 101-102 TFUE)** es más intervencionista con el abuso de posición dominante (*ordoliberalismo* alemán: proteger la estructura competitiva). México (LFCE) sigue el modelo del consumidor; tras 2024-2025 la **CNA** sustituyó a la COFECE ⟳. **Lección:** en *big tech* y mercados digitales, la UE va por delante (DMA); México y EE. UU. observan.
+
+**Crítica.** A Chicago se le reprocha haber sido **capturada** por una ideología pro-fusión que permitió una ola de concentración (Philippon, *The Great Reversal*: EE. UU. dejó de ser el mercado más competitivo). A los neo-brandeisianos se les reprocha **inseguridad jurídica** y volver a un antitrust "populista" sin anclaje económico.
+
+**Jurisprudencia y operación real.** *US v. Microsoft* (2001) definió el abuso de posición dominante en tecnología; **Microsoft–Activision** (2023) mostró que hoy la autoridad de competencia es el verdadero *gatekeeper* de las megafusiones (bloqueo inicial de la CMA británica). **Grupo Modelo–AB InBev** exigió desinvertir Corona. En la práctica, el riesgo antimonopolio se evalúa **antes de firmar**, y las *remedies* (desinversiones) se negocian con la autoridad.
+
+**Para leer más:** Bork, *The Antitrust Paradox* (1978); Khan, *Amazon's Antitrust Paradox* (Yale L.J., 2017); Philippon, *The Great Reversal* (2019); Whish & Bailey, *Competition Law*.

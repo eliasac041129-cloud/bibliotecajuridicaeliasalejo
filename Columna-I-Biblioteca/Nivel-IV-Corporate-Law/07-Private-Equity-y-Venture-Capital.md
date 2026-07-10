@@ -1429,3 +1429,24 @@ PE y VC son **capital con reloj**: entran para salir (5-10 años) con un múltip
 - **Intermedio:** Feld & Mendelson, *Venture Deals*.
 - **Avanzado:** Gilson, *Engineering a Venture Capital Market* (Stanford Law Review).
 - **Internacional:** Kaplan & Strömberg, *Financial Contracting Theory Meets the Real World*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El VC y el PE existen para financiar dos cosas que la banca no puede: **innovación de altísimo riesgo** (VC) y **transformación operativa apalancada** (PE). Ambos resuelven, por vías opuestas, el mismo problema de agencia. El VC lo hace con **financiamiento por etapas y valores convertibles** (Gilson & Black; Kaplan & Strömberg): entrega capital contra hitos y se reserva derechos de control contingentes. El PE lo hace con **deuda y concentración de propiedad** (Jensen, *Eclipse of the Public Corporation*, 1989): el apalancamiento disciplina al *management* y elimina el *free cash flow* discrecional.
+
+**El debate.** ¿El PE **crea** valor (mejora operativa, gobierno) o lo **extrae** (recortes, *dividend recaps*, ingeniería fiscal, traslado de riesgo a acreedores y empleados)? La evidencia empírica está dividida: hay mejoras de productividad reales, pero también casos de *asset stripping*. En VC, el debate es sobre la **gobernanza de fundadores** (acciones de voto múltiple: ¿protegen la visión o entronizan al fundador, como en WeWork?).
+
+**Mirada de AED.** La **preferencia de liquidación**, la **antidilución** y el ***vesting*** de fundadores son soluciones a problemas de incentivos: protegen al inversionista del riesgo a la baja y atan al fundador al proyecto. El *carried interest* (20%) alinea al GP con el LP, pero crea su propio conflicto (incentivo a apostar con dinero ajeno). Cada término del *term sheet* de la NVCA es teoría de agencia aplicada.
+
+**Comparado y lección para México.** El ecosistema de Delaware + NVCA estandarizó los documentos de VC, reduciendo costos y fricción —una razón de que Silicon Valley escale. México y Latinoamérica adaptan esos modelos (a menudo vía vehículos en Delaware o las Islas). **Lección:** homologar documentación (term sheets estandarizados) reduce el costo de capital emprendedor; la fricción legal es un impuesto a la innovación.
+
+**Crítica.** El caso **FTX** (2022) fue una falla de gobernanza y de *due diligence*: fondos de élite invirtieron **sin asientos en el consejo ni controles** —VC sin la disciplina que la propia teoría prescribe. La crítica: en los mercados eufóricos, el capital abandona sus propios mecanismos de protección (FOMO), y el derecho llega tarde.
+
+**Jurisprudencia y operación real.** Los litigios de *down rounds*, *cram-downs* y conflictos GP/LP alimentan la jurisprudencia de Delaware sobre deberes fiduciarios de los inversionistas de control frente a fundadores y minoritarios (*In re Trados* ⚠️ *verificar*: preferencia de liquidación vs. comunes). En la práctica, el abogado de VC vive en la **cap table** y en la negociación de la preferencia de liquidación —donde se decide quién cobra primero cuando se vende.
+
+**Para leer más:** Jensen, *Eclipse of the Public Corporation* (HBR, 1989); Gilson, *Engineering a Venture Capital Market* (Stan. L. Rev., 2003); Kaplan & Strömberg (Rev. Econ. Stud., 2003); NVCA Model Documents.

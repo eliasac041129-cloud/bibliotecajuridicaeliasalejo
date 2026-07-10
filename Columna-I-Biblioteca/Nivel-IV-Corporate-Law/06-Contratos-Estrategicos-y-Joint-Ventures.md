@@ -1425,3 +1425,24 @@ Las JV se documentan con lógica anglosajona (*shareholders'/JV agreement*) adap
 - **Intermedio:** Wolf, *Effective International Joint Venture Management*.
 - **Avanzado:** Hart, *Firms, Contracts and Financial Structure* (contratos incompletos).
 - **Internacional:** Grossman & Hart, *The Costs and Benefits of Ownership* (JLE).
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La JV es una respuesta a la pregunta de **Coase (1937): ¿hacer, comprar o aliarse?** Cuando ni el mercado (contrato simple) ni la jerarquía (fusión) son óptimos —porque hay activos específicos, riesgo compartido y necesidad de cooperación de largo plazo— surge el **híbrido**: la JV. Su existencia se explica por los **activos específicos de la relación** (Williamson): inversiones que valen mucho dentro de la alianza y poco fuera, lo que crea riesgo de *hold-up* (que una parte "secuestre" a la otra).
+
+**El debate.** Contrato detallado (rigidez, previsión) vs. **gobernanza flexible** (mecanismos para lo no previsto). La teoría de los **contratos incompletos** (Hart, Nobel 2016) dice que como no se puede prever todo, importa quién tiene el **derecho de control residual**; de ahí que la cláusula de *deadlock* y las mayorías de veto sean más importantes que mil definiciones. Debate paralelo: JV 50/50 (paridad, pero riesgo de parálisis) vs. control claro (eficiencia, pero un socio subordinado).
+
+**Mirada de AED.** Las cláusulas de *deadlock* (**Texas shoot-out**, **Russian roulette**) son mecanismos de *revelación de valor*: obligan a cada parte a fijar un precio honesto porque no sabe si comprará o venderá (diseño à la teoría de subastas). *Tag/drag*, no competencia y propiedad de la IP creada asignan el valor de la salida —que es donde las JV se pelean.
+
+**Comparado y lección para México.** El *common law* desarrolló una rica caja de mecanismos de *deadlock* y salida que se usan globalmente. **Lección:** una JV mexicana debe importar esos mecanismos y anclarlos al vehículo local (S.A. o S. de R.L.), y prever la **disolución** con reglas claras sobre activos, clientela e IP, para no depender de la disolución judicial (lenta y destructiva de valor).
+
+**Crítica.** Las JV tienen una **alta tasa de fracaso**; la crítica señala que muchas nacen por moda ("aliarse con el líder") sin resolver la gobernanza, y que el *hold-up* y la asimetría de aportaciones las erosionan. La lección conductual: se sobreestima la cooperación futura y se subestima el conflicto.
+
+**Jurisprudencia y operación real.** Los litigios de *deadlock* y disolución de sociedades cerradas (opresión de minorías) nutren la jurisprudencia comparada. En la práctica, la JV se negocia mirando la salida: *Sony Ericsson* funcionó con gobierno claro y terminó por compra de una parte a la otra; las paritarias sin válvula de escape terminan en tribunales.
+
+**Para leer más:** Coase, *The Nature of the Firm* (1937); Williamson, *The Economic Institutions of Capitalism* (1985); Hart, *Firms, Contracts and Financial Structure* (1995).

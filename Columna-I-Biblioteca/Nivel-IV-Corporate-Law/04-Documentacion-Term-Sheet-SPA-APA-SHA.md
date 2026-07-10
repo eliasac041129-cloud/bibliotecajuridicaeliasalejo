@@ -1514,3 +1514,24 @@ El SPA moderno es una **importación anglosajona**; el reto en México es adapta
 - **Intermedio:** ABA, *Model Stock Purchase Agreement with Commentary*.
 - **Avanzado:** Adams, *A Manual of Style for Contract Drafting*.
 - **Internacional:** Kling & Nugent, *Negotiated Acquisitions of Companies, Subsidiaries and Divisions*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El SPA es un **contrato incompleto** (Grossman-Hart-Moore): es imposible prever todo estado del mundo entre firma y cierre, y más allá. Por eso el documento no busca "cubrir todo", sino **asignar derechos de control y riesgo residual**: quién decide y quién paga cuando aparece lo no previsto. Las *reps & warranties* son "seguros" contractuales; los *covenants* gobiernan la conducta interina; las condiciones distribuyen el riesgo de que el mundo cambie antes del cierre.
+
+**El debate.** (1) ***Survival* de las *reps***: ¿5 años o 12-24 meses? Un plazo largo protege al comprador pero mantiene al vendedor rehén e infla el precio de reserva; el mercado convergió en plazos cortos salvo *fundamental reps* (título, capacidad) y fiscales/laborales. (2) **MAC "objetiva" vs. "subjetiva"**: ¿cuánto deterioro permite abandonar? Delaware puso el listón altísimo (durabilidad, no coyuntura). (3) ***Sandbagging***. Ninguno tiene respuesta única: dependen del **poder de negociación** y del apetito de riesgo.
+
+**Mirada de AED.** El diseño del *cap*, el *basket* (deducible vs. *tipping*) y el *escrow* es **ingeniería de incentivos**: alinea al vendedor para revelar (si oculta, paga), y limita el riesgo del comprador a lo negociado. La cláusula de *specific performance* elimina la **opción de incumplir** (teoría de la *efficient breach* de Holmes al revés: aquí se quiere forzar el cierre, no permitir el pago de daños).
+
+**Comparado y lección para México.** El SPA es una construcción **anglosajona** trasplantada; su riesgo en México es la **importación de figuras vacías** (una *consideration* que aquí no se exige) o el choque con normas imperativas locales (saneamiento, nulidad, transmisión de acciones art. 129 LGSM ⟳). **Lección:** el buen abogado mexicano no traduce el SPA: lo **re-ancla** al CCF y la LGSM, preservando su lógica de asignación de riesgo.
+
+**Crítica.** La creciente extensión de los SPA (100+ páginas, *schedules* interminables) refleja una **carrera armamentista contractual** que eleva costos de transacción y favorece a quien tiene más recursos legales. ¿Protege realmente o solo transfiere renta a los despachos? El movimiento de *plain-language drafting* (Ken Adams) es la reacción.
+
+**Jurisprudencia y operación real.** *Akorn v. Fresenius* (Del. Ch. 2018) definió cuándo una MAC permite abandonar; el litigio *Twitter v. Musk* (2022) puso a prueba la *specific performance*. En la práctica, el 80% del valor jurídico del *deal* vive en cuatro cláusulas —*reps*, *covenants*, condiciones, indemnización— y en el SHA que rige la convivencia posterior (consejo, veto, *tag/drag*, *deadlock*).
+
+**Para leer más:** ABA, *Model Stock Purchase Agreement with Commentary*; Kenneth Adams, *A Manual of Style for Contract Drafting*; Hart & Moore, *Property Rights and the Nature of the Firm* (JPE, 1990).
