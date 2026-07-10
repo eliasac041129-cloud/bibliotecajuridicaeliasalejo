@@ -916,3 +916,39 @@ ruinosas o inservibles.
 > cara: cómo **asegurar el cumplimiento** antes de que el daño ocurra, blindando el crédito con
 > bienes concretos. Con él cerramos el derecho civil profundo y quedamos listos para el Derecho
 > Mercantil.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+La responsabilidad civil es **gestión de riesgo puro**: quién paga cuando algo sale mal. El socio la usa para diseñar **cláusulas de indemnización, límites de responsabilidad (*caps*), exclusiones y seguros** (D&O, responsabilidad del producto). Ante cualquier operación se pregunta: *¿qué daño puede surgir, quién responde, hasta cuánto y quién lo asegura?*
+
+### Doctrina y debate
+- **Responsabilidad contractual vs. extracontractual (aquiliana):** distintos regímenes de culpa, prueba y prescripción.
+- **Culpa vs. riesgo creado (responsabilidad objetiva):** del "no hay responsabilidad sin culpa" clásico a la **responsabilidad objetiva** por actividades peligrosas (art. 1913 CCF ⟳). Debate económico: **Calabresi** —asignar el costo del accidente al *cheapest cost avoider*.
+- **Daño moral y punitivos:** ¿debe el derecho mexicano admitir daños punitivos? La SCJN ha desarrollado el daño moral y la "indemnización ejemplar" ⚠️ *verificar criterios*.
+
+### Derecho comparado
+Los ***punitive damages*** son emblemáticos del *tort law* estadounidense (indemnizaciones millonarias disuasivas) y ajenos a la tradición continental, que indemniza el **daño efectivamente causado**. Esta diferencia es crítica al litigar o contratar con cláusula de ley extranjera.
+
+### Caso real
+**Volkswagen "Dieselgate" (2015):** el fraude en emisiones costó a VW más de **30,000 mdd** ⚠️ *verificar cifra* en multas, recompras e indemnizaciones a escala global —responsabilidad civil, administrativa y penal combinadas. Lección: el riesgo de producto y de *compliance* es un pasivo que puede exceder el valor de la empresa.
+
+### Errores que cuestan millones
+- No pactar un **límite de responsabilidad** ni excluir daños indirectos/lucro cesante.
+- Ignorar la **responsabilidad objetiva** por actividades riesgosas (no basta "no tuve culpa").
+
+### Preguntas
+- **Criterio:** ¿deben existir los daños punitivos en México?
+- **Entrevista:** ¿cómo limitaría la responsabilidad de su cliente en un contrato de servicios?
+- **Examen:** distinga responsabilidad subjetiva y objetiva, con ejemplo.
+
+### Bibliografía por niveles
+- **Básico:** Rojina Villegas, *Obligaciones* (hechos ilícitos).
+- **Intermedio:** Gutiérrez y González, *Responsabilidad civil*.
+- **Avanzado:** Calabresi, *The Cost of Accidents*.
+- **Internacional:** Viney, *Traité de droit civil: les conditions de la responsabilité*.

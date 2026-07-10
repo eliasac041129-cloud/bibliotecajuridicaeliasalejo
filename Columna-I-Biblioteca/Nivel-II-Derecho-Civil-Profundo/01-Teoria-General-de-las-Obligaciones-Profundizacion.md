@@ -1018,3 +1018,39 @@ frágiles y se destruye valor en las reestructuras.
 > ingeniería financiera**. En el siguiente libro veremos esas obligaciones **encarnadas** en los
 > contratos civiles típicos —empezando por la compraventa, madre del *Share Purchase Agreement*—.
 > El camino al M&A pasa por aquí.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+La teoría fina de las obligaciones es la caja de herramientas del corporativo: **cesión de créditos, subrogación, novación, obligaciones solidarias y mancomunadas, transmisión de deudas**. En un financiamiento sindicado o en una reestructura, saber **quién puede ceder qué, a quién y con qué requisitos** define si la operación cierra. El socio piensa en **circulación del crédito**: la obligación no es estática, es un activo que se compra, se cede y se garantiza.
+
+### Doctrina y debate
+- ***Schuld* / *Haftung*** (deuda y responsabilidad) aplicado a la solidaridad y la fianza.
+- **Cesión vs. subrogación vs. novación:** ¿se transmite la misma obligación (cesión) o nace una nueva que extingue la anterior (novación)? La diferencia decide la suerte de las **garantías accesorias**.
+- **Messineo, Von Tuhr, Díez-Picazo;** en México, Gutiérrez y González.
+
+### Derecho comparado
+La **cesión de créditos** (*assignment*) es central en la titulización (*securitization*) estadounidense; su perfección frente a terceros exige notificación al deudor (civil law) o *filing* (UCC). El corporativo que estructura un *factoring* o un fideicomiso emisor debe dominar el punto exacto en que el crédito "sale" del patrimonio del cedente (aislamiento del riesgo de quiebra, *true sale*).
+
+### Caso real
+**Titulización y crisis 2008:** las hipotecas *subprime* se **cedieron** y empaquetaron (MBS/CDO); cuando el aislamiento (*true sale*) y las garantías fallaron, cayó el sistema. Toda esa ingeniería es teoría de las obligaciones (cesión, subrogación) a escala billonaria.
+
+### Errores que cuestan millones
+- Ceder un crédito y creer que las **garantías** lo siguen automáticamente sin cumplir formalidades.
+- Confundir **novación** (extingue garantías) con simple **modificación**.
+
+### Preguntas
+- **Criterio:** ¿la novación conviene al acreedor garantizado? Justifique.
+- **Entrevista:** ¿cómo aísla un crédito del riesgo de quiebra del cedente?
+- **Examen:** distinga cesión, subrogación y novación con efectos sobre las garantías.
+
+### Bibliografía por niveles
+- **Básico:** Gutiérrez y González, *Derecho de las obligaciones*.
+- **Intermedio:** Rojina Villegas, *Obligaciones*.
+- **Avanzado:** Díez-Picazo, *Fundamentos del Derecho Civil Patrimonial*, t. II.
+- **Internacional:** Zimmermann, *The Law of Obligations*.
