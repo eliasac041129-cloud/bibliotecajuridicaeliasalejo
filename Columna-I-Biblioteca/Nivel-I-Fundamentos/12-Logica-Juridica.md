@@ -666,3 +666,40 @@ Empresa Familiar     ★★☆☆☆
 ```
 *La lógica jurídica es el **esqueleto invisible** de todo documento y argumento coherente: garantiza que el
 razonamiento sea válido.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+La lógica es el **control de calidad** del razonamiento jurídico: garantiza que la conclusión se siga de las premisas y detecta cuándo la contraparte hace trampa (falacias). El socio la usa para **auditar su propio dictamen** antes de firmarlo: ¿la premisa mayor (norma) es correcta?, ¿la menor (hechos) está probada?, ¿la conclusión realmente se deduce?
+
+### Doctrina y debate
+- **Silogismo jurídico y subsunción:** premisa mayor (norma), premisa menor (hecho), conclusión (fallo). Su límite: los "casos difíciles" (Hart) donde la subsunción no basta y entra la valoración.
+- **Lógica deóntica (von Wright):** la lógica de las normas (obligatorio, prohibido, permitido), distinta de la lógica de proposiciones (verdadero/falso).
+- **Ulrich Klug (*Lógica jurídica*):** aplicación de la lógica formal al derecho.
+- **Debate:** ¿el fallo judicial es una *deducción* o una *decisión* revestida de lógica? (formalismo vs. realismo).
+
+### Derecho comparado
+El razonamiento **silogístico** domina el discurso judicial continental; el **analógico** (de caso a caso) domina el anglosajón. Ambos comparten la exigencia de **no incurrir en falacias** (petición de principio, falso dilema, *ad hominem*, pendiente resbaladiza), armas frecuentes —y detectables— en la negociación y el litigio.
+
+### Caso real
+**Errores de subsunción en materia fiscal:** encuadrar un supuesto en la norma equivocada (p. ej. tratar como "gasto deducible" lo que la ley clasifica como "no deducible", art. 28 LISR ⟳) es un error lógico con consecuencia millonaria: crédito fiscal, recargos y multas. La lógica jurídica **evita el error antes de la auditoría**.
+
+### Errores que cuestan millones
+- **Falacia de afirmación del consecuente** al interpretar una norma condicional.
+- Subsumir hechos **no probados** (premisa menor sin sustento).
+
+### Preguntas
+- **Criterio:** ¿la sentencia se "deduce" o se "decide"?
+- **Entrevista:** identifique la falacia: "todo fraude implica engaño; hubo engaño; luego hubo fraude".
+- **Examen:** explique la estructura del silogismo jurídico con un ejemplo.
+
+### Bibliografía por niveles
+- **Básico:** Copi & Cohen, *Introducción a la lógica*.
+- **Intermedio:** Ulrich Klug, *Lógica jurídica*.
+- **Avanzado:** von Wright, *Norma y acción*.
+- **Internacional:** Alchourrón & Bulygin, *Sistemas normativos*.

@@ -871,3 +871,40 @@ Empresa Familiar     ★★★★☆
 ```
 *La teoría del acto jurídico es la **gramática de los contratos y operaciones**: se usa en cada documento
 del corporativo.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El acto jurídico es el **átomo** de todo lo que hace un corporativo: un contrato, un aumento de capital, una fusión, un voto en asamblea, son actos jurídicos. El socio no memoriza requisitos: los usa como **checklist de riesgo**. Ante cualquier operación se pregunta, en automático: ¿hay **consentimiento** libre de vicios?, ¿el **objeto** es lícito y posible?, ¿se respetó la **forma**? Ahí está el 90% de las nulidades.
+
+### Doctrina y debate
+- **Teoría del negocio jurídico (Savigny, Windscheid):** la *Willenstheorie* (teoría de la voluntad) frente a la *Erklärungstheorie* (teoría de la declaración): ¿vale lo que quisiste o lo que declaraste? El derecho moderno protege la **confianza** en la declaración (seguridad del tráfico).
+- **Betti (*Teoría general del negocio jurídico*):** el negocio como acto de **autonomía privada** con función económico-social.
+- **Von Tuhr; en México:** Rojina Villegas, Gutiérrez y González, Borja Soriano, Domínguez Martínez.
+- **Debate:** ¿voluntad real o declaración? Es la raíz de por qué las *representations & warranties* de un SPA se redactan con obsesión: fijan por escrito la "declaración" para no litigar la "voluntad".
+
+### Derecho comparado
+El **negocio jurídico** (alemán, *Rechtsgeschäft*) es más abstracto que el **acto jurídico** francés (Domat, Pothier) que heredó México. El *common law* no tiene "acto jurídico": razona sobre *contract* con su exigencia de **consideration** (contraprestación), inexistente en el civil law. Por eso un abogado mexicano debe cuidar que un contrato "traducido" del inglés no importe figuras (como la *consideration* nominal) que aquí sobran o fallan.
+
+### Caso real
+**Dolo en declaraciones de M&A:** cuando el vendedor oculta un pasivo (contingencia fiscal o litigio) y el comprador lo descubre tras el cierre, la vía es la **nulidad por vicio del consentimiento (dolo)** o la indemnización contractual. Por eso el SPA blinda con *disclosure schedules*: convierten lo "sabido" en oponible y desactivan el dolo.
+
+### Errores que cuestan millones
+- Confundir **inexistencia** (falta objeto/consentimiento, art. 2224 CCF ⟳), **nulidad absoluta** (objeto ilícito, art. 2225 ⟳) y **nulidad relativa** (vicios, art. 2228 ⟳): el régimen de convalidación y prescripción cambia por completo.
+- Descuidar la **forma** exigida (p. ej., escritura pública) y creer que "el fondo basta".
+
+### Preguntas
+- **Criterio:** ¿debe prevalecer la voluntad real o la declaración externa? Defienda una postura.
+- **Entrevista:** ¿cómo protege un contrato contra el dolo del vendedor?
+- **Examen:** distinga inexistencia, nulidad absoluta y relativa con sus efectos.
+
+### Bibliografía por niveles
+- **Básico:** Rojina Villegas, *Compendio de Derecho Civil*.
+- **Intermedio:** Gutiérrez y González, *Derecho de las Obligaciones*.
+- **Avanzado:** Betti, *Teoría general del negocio jurídico*.
+- **Internacional:** Von Tuhr, *Derecho Civil. Teoría general del Derecho Civil alemán*.

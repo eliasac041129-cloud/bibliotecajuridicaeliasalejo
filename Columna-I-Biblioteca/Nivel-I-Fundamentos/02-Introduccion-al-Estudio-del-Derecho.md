@@ -745,3 +745,41 @@ Empresa Familiar     ★★★☆☆
 ```
 *La teoría de las fuentes y la interpretación es la **caja de herramientas mental** de todo abogado: se usa
 en cada lectura de ley y de contrato.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Profundiza en doctrina, comparado, caso y criterio; disciplina de vigencia ⟳.*
+
+### Cómo piensa un socio internacional
+La "teoría del derecho" parece lo más alejado de un *deal*, y es lo más cercano: cuando dos normas chocan (una ley local y un tratado, un reglamento y la ley), el abogado que domina la **jerarquía de fuentes** y los criterios de resolución de antinomias (jerarquía, especialidad, temporalidad) resuelve en minutos lo que a otro le toma días. El socio piensa en **fuentes** antes que en artículos.
+
+### Doctrina y debate
+- **Positivismo (Kelsen, *Teoría pura del derecho*):** el sistema como pirámide que culmina en la *Grundnorm* (norma fundante hipotética); validez ≠ justicia.
+- **Positivismo suave (Hart, *The Concept of Law*):** el derecho como unión de reglas primarias y secundarias, identificadas por una **regla de reconocimiento**.
+- **No-positivismo (Dworkin, *Taking Rights Seriously*):** además de reglas, hay **principios**; el juez no tiene "discreción fuerte". Reglas = todo o nada; principios = mandatos de optimización (**Alexy**), que se **ponderan**.
+- **Clásico mexicano:** Eduardo García Máynez, *Introducción al Estudio del Derecho*.
+- **Debate:** ¿la ponderación de principios es método racional o disfraz de decisionismo judicial?
+
+### Derecho comparado
+En *civil law* la **ley** es la fuente primaria y la jurisprudencia la interpreta; en *common law* el **precedente** es fuente directa (*stare decisis*). México incorporó un híbrido: jurisprudencia obligatoria por reiteración/contradicción, y —tras 2011— el **bloque de constitucionalidad** con tratados de derechos humanos.
+
+### Caso real
+**Expediente Varios 912/2010 (caso Radilla) ⚠️ *verificar***: a raíz de la sentencia de la Corte Interamericana, la SCJN reconoció el **control de convencionalidad ex officio** y reordenó la pirámide de Kelsen en México (arts. 1º y 133 CPEUM ⟳). Teoría pura convertida en práctica que hoy invocan litigantes todos los días.
+
+### Errores que cuestan millones
+- Aplicar una norma **derogada o inferior** por no verificar la jerarquía y la vigencia (⟳).
+- Confundir **vigencia** con **validez** y **eficacia**.
+
+### Preguntas
+- **Criterio:** ¿puede una ley válida ser injusta y aun así obligar? (Kelsen vs. Radbruch).
+- **Entrevista:** ¿cómo resolvería una antinomia entre un tratado y una ley federal?
+- **Examen:** explique la regla de reconocimiento de Hart.
+
+### Bibliografía por niveles
+- **Básico:** García Máynez, *Introducción al Estudio del Derecho*.
+- **Intermedio:** Kelsen, *Teoría pura del derecho*.
+- **Avanzado:** Hart, *El concepto de derecho*; Dworkin, *Los derechos en serio*.
+- **Internacional:** Alexy, *Teoría de los derechos fundamentales*.

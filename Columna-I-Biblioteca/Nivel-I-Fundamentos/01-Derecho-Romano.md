@@ -988,3 +988,40 @@ Empresa Familiar     ★★★★☆
 ```
 *El derecho romano no se ejerce directamente, pero **estructura el pensamiento** de todo el derecho privado
 corporativo: por eso su valor "de fondo" es alto.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. No sustituye el capítulo: lo profundiza con doctrina, derecho comparado, caso real y criterio profesional. Todo artículo citado conserva su disciplina de vigencia ⟳.*
+
+### Cómo piensa un socio internacional
+Ningún socio de M&A "usa" derecho romano de forma explícita; lo usa **estructuralmente**. Cuando lee una cláusula de garantía, reconoce el *pignus* y la *hypotheca*; cuando estructura un fideicomiso de garantía reconoce el *fideicommissum*; cuando analiza quién responde con qué, piensa en *patrimonio* como universalidad. El romanista entrenado **detecta la institución bajo el nombre comercial** y por eso no se pierde en contratos anglosajones: sabe que el *trust* y el *escrow* son parientes del *fideicommissum*, y que el *security interest* del UCC hace el trabajo de la *hypotheca*.
+
+### Doctrina y debate
+- **Escuela Histórica (Savigny):** el derecho como producto del *Volksgeist* (espíritu del pueblo), no de la razón abstracta; base de la codificación alemana y de la pandectística.
+- **Jurisprudencia de intereses (Ihering, *La lucha por el derecho*):** el derecho como resultado de intereses en pugna, no de pura lógica conceptual —una crítica temprana al formalismo.
+- **Pandectística (Windscheid):** sistematizó el derecho romano en categorías que heredó el BGB y, por vía francesa y española, el Código Civil mexicano.
+- **Debate vivo:** ¿la dogmática romanista sigue siendo útil o es un lastre historicista frente al análisis económico del derecho? Toma postura.
+
+### Derecho comparado
+México pertenece a la familia **romano-germánica** (*civil law*): derecho codificado, primacía de la ley. El *common law* (EE. UU., Reino Unido) razona por **precedente** (*stare decisis*). Un abogado corporativo mexicano que negocia con un despacho de Nueva York debe entender que para el estadounidense **el caso manda**, mientras que para él **manda el código**: esa diferencia de "sistema operativo" explica el 80% de los malentendidos transfronterizos.
+
+### Caso real
+**El fideicomiso mexicano y las reestructuras de deuda.** En crisis como la de **Vitro** (concurso mercantil, 2010-2013 ⚠️ *verificar fechas*), las garantías fiduciarias —herederas directas del *fideicommissum*— fueron el campo de batalla entre acreedores. Quien dominaba la naturaleza real de la garantía (no su etiqueta) ganó posiciones. Lección: la institución romana, bien entendida, decide millones.
+
+### Errores que cuestan millones
+- Confundir **posesión** con **propiedad** al hacer *due diligence* de activos.
+- Tratar el **patrimonio** como una lista de bienes y olvidar que incluye pasivos (clave al comprar acciones vs. activos).
+
+### Preguntas
+- **Criterio:** ¿por qué un país "moderno" debería seguir enseñando un derecho de hace dos mil años?
+- **Entrevista:** explique la diferencia entre un derecho real y un derecho personal, y por qué importa en una garantía.
+- **Examen:** distinga *pignus*, *hypotheca* y *fiducia*, y su reflejo en el derecho mexicano vigente.
+
+### Bibliografía por niveles
+- **Básico:** Margadant, *El Derecho Privado Romano*; Bravo González, *Derecho Romano*.
+- **Intermedio:** Iglesias, *Derecho Romano*; Álvaro d'Ors, *Derecho Privado Romano*.
+- **Avanzado:** Fritz Schulz, *Principles of Roman Law*.
+- **Internacional:** Reinhard Zimmermann, *The Law of Obligations: Roman Foundations of the Civilian Tradition*.

@@ -660,3 +660,40 @@ Empresa Familiar     ★★★☆☆
 ```
 *La metodología —y la disciplina de **verificar en la fuente**— es lo que separa al abogado confiable del
 peligroso. Es el Principio Supremo del proyecto hecho hábito.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Interpretar es el 60% del trabajo: la ley casi nunca dice, con claridad, lo que el caso necesita. El socio domina los **métodos de interpretación** y —sobre todo— sabe **cuál invocar según convenga** al cliente (y anticipar cuál usará el juez). Metodología también es cómo se **investiga** un problema nuevo: dónde buscar, qué es fuente y qué es opinión.
+
+### Doctrina y debate
+- **Métodos clásicos (Savigny):** gramatical, lógico, histórico y sistemático; a los que se sumó el **teleológico** (fin de la norma) y el **conforme a la Constitución**.
+- **Escuelas:** exégesis (apego al texto) → jurisprudencia de conceptos → jurisprudencia de intereses (Ihering, Heck) → jurisprudencia de valoraciones.
+- **Interpretación estricta vs. extensiva:** en materia **fiscal y penal**, las normas de excepción y de cargas se interpretan de forma **estricta** (nullum tributum/nulla poena sine lege).
+- **Debate:** ¿debe el intérprete buscar la "voluntad del legislador" (originalismo) o la "voluntad de la ley" actualizada (interpretación evolutiva)?
+
+### Derecho comparado
+La disputa **originalismo vs. constitución viviente** domina la Suprema Corte de EE. UU. y resuena en México en la interpretación de derechos. En lo metodológico, el jurista continental parte del texto; el anglosajón, del precedente y su *ratio decidendi*.
+
+### Caso real
+**Interpretación de estímulos y regímenes fiscales:** la autoridad y los contribuyentes libran batallas interpretativas sobre si un supuesto encuadra o no en un beneficio. La regla de **interpretación estricta** de las normas fiscales (relacionada con el art. 5 CFF ⟳) suele definir el resultado. Método = dinero.
+
+### Errores que cuestan millones
+- Usar interpretación **extensiva** donde la ley exige **estricta** (fiscal/penal).
+- Confundir **fuente** (ley, jurisprudencia) con **doctrina** (opinión) al fundar un dictamen.
+
+### Preguntas
+- **Criterio:** ¿debe interpretarse la ley según lo que quiso el legislador o según lo que hoy necesita la sociedad?
+- **Entrevista:** ¿qué método de interpretación invocaría para ampliar un beneficio fiscal, y cuál temería del fisco?
+- **Examen:** enuncie los métodos de interpretación de Savigny.
+
+### Bibliografía por niveles
+- **Básico:** Witker, *Metodología jurídica*.
+- **Intermedio:** García Máynez, *Introducción a la lógica jurídica*.
+- **Avanzado:** Savigny, *Sistema del Derecho Romano actual* (interpretación).
+- **Internacional:** Guastini, *Interpretar y argumentar*.

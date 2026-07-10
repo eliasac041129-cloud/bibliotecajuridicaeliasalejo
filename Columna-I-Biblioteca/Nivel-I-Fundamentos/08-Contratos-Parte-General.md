@@ -856,3 +856,39 @@ Empresa Familiar     ★★★★☆
 ```
 *La teoría del contrato es **la herramienta #1** del corporativo: todo lo que hace se documenta en
 contratos.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El contrato es el **producto** que vende un abogado corporativo. El socio no redacta cláusulas "bonitas": redacta **asignación de riesgo**. Cada cláusula responde a la pregunta *"¿qué pasa si...?"*. Por eso lee un contrato al revés: primero **incumplimiento, terminación, indemnización y solución de controversias**, y luego el objeto. Ahí se gana o se pierde el pleito de dentro de tres años.
+
+### Doctrina y debate
+- **Autonomía de la voluntad** y ***pacta sunt servanda*** (art. 1796 CCF ⟳) como pilares; su límite: orden público, buena fe y abuso del derecho.
+- **Teoría de la imprevisión (*rebus sic stantibus*):** ¿puede revisarse un contrato cuando un evento extraordinario destruye su equilibrio? México la incorporó de forma acotada; debate clásico frente a la santidad del pacto.
+- **Atiyah (*The Rise and Fall of Freedom of Contract*):** cómo la libertad contractual clásica cedió ante la contratación en masa y la protección del débil (consumidor, adhesión).
+
+### Derecho comparado
+La **formación** del contrato (oferta y aceptación) es común, pero el *common law* exige **consideration** (contraprestación) y aplica la *parol evidence rule* (lo escrito prevalece). En compraventa internacional rige la **CISG** (Convención de Viena, 1980), que México ratificó: un marco híbrido que todo corporativo transfronterizo debe conocer.
+
+### Caso real
+**Renegociación de contratos de largo plazo:** en crisis (2008, 2020) empresas como aerolíneas y energéticas invocaron *hardship* y fuerza mayor para renegociar suministros y arrendamientos. Los contratos con **cláusulas de revisión** bien diseñadas evitaron litigios de años; los rígidos terminaron en tribunales.
+
+### Errores que cuestan millones
+- Redactar un objeto impecable y descuidar la **cláusula de solución de controversias** (foro, ley aplicable, arbitraje): se litiga dónde y cómo no conviene.
+- Contratos de adhesión con cláusulas **abusivas** anulables.
+
+### Preguntas
+- **Criterio:** ¿debe el juez poder revisar un contrato desequilibrado por hechos sobrevenidos? (*pacta sunt servanda* vs. *rebus sic stantibus*).
+- **Entrevista:** ¿qué cláusula revisa primero en un contrato ajeno y por qué?
+- **Examen:** explique la formación del consentimiento (oferta y aceptación).
+
+### Bibliografía por niveles
+- **Básico:** Zamora y Valencia, *Contratos civiles*.
+- **Intermedio:** Sánchez Medal, *De los contratos civiles*.
+- **Avanzado:** Messineo, *Doctrina general del contrato*.
+- **Internacional:** Atiyah, *The Rise and Fall of Freedom of Contract*; CISG (Convención de Viena).

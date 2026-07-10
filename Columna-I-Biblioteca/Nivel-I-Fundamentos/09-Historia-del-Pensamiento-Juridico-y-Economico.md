@@ -681,3 +681,38 @@ Empresa Familiar     ★★★☆☆
 ```
 *Materia de **cultura y fondo**: no se aplica directamente, pero forma el **criterio** del jurista y su
 capacidad de argumentar desde los principios.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Saber de dónde vienen las ideas jurídicas y económicas permite **anticipar hacia dónde va la regulación**. El socio que entiende el péndulo histórico entre **mercado y Estado** (liberalización, luego regulación, luego desregulación) lee las reformas antes de que ocurran y posiciona a su cliente. La historia no es adorno: es **análisis de tendencia**.
+
+### Doctrina y debate
+- **En lo jurídico:** iusnaturalismo (Aquino, Grocio) → positivismo (Bentham, Austin, Kelsen) → realismo (Holmes, Llewellyn) → no-positivismo (Dworkin).
+- **En lo económico:** Adam Smith (*La riqueza de las naciones*, mano invisible) → Marx (crítica del capital) → **Keynes** (intervención estatal, demanda agregada) → **Hayek** (orden espontáneo, crítica a la planificación) → **Friedman** (monetarismo, Escuela de Chicago).
+- **Debate central:** ¿el mercado se autorregula o requiere al Estado? Cada crisis reabre el duelo **Keynes vs. Hayek**.
+
+### Derecho comparado
+La tradición **continental** (codificación, papel central del Estado) frente a la **anglosajona** (*common law*, confianza en el mercado y el precedente) refleja dos filosofías políticas distintas. México, país codificado con creciente influencia del *análisis económico* estadounidense, vive esa tensión en su regulación de competencia y financiera.
+
+### Caso real
+**Crisis financiera de 2008:** el colapso de **Lehman Brothers** revivió el debate Keynes/Hayek: rescates estatales (Keynes) frente a "dejar quebrar" (Hayek). La respuesta —Dodd-Frank en EE. UU.— reguló a la banca por una década. Entender esa historia explica el actual marco de capital y *compliance* bancario.
+
+### Errores que cuestan millones
+- Asumir que la regulación vigente es "permanente": el péndulo histórico se mueve (nacionalizaciones, privatizaciones, reformas).
+
+### Preguntas
+- **Criterio:** ¿el Estado debe rescatar empresas "demasiado grandes para quebrar"?
+- **Entrevista:** contraste la visión de Keynes y la de Hayek sobre la crisis.
+- **Examen:** ubique el tránsito del iusnaturalismo al positivismo.
+
+### Bibliografía por niveles
+- **Básico:** Adam Smith (selección), *La riqueza de las naciones*.
+- **Intermedio:** Robert Heilbroner, *Los filósofos terrenales*.
+- **Avanzado:** Keynes, *Teoría general*; Hayek, *Camino de servidumbre*.
+- **Internacional:** Skidelsky, *Keynes: el regreso del maestro*.

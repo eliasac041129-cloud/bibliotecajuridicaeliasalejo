@@ -706,3 +706,41 @@ Derecho Bancario     ★★★☆☆
 Empresa Familiar     ★★★☆☆
 ```
 *La argumentación es la **destreza central** del abogado: se usa en cada escrito, opinión y negociación.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El derecho se gana **argumentando**, no citando. El socio sabe que un juez, un árbitro o una contraparte no compran conclusiones: compran **razones**. Por eso construye su caso como una arquitectura: premisa normativa sólida, hechos bien encuadrados y una **teoría del caso** que hace que su interpretación parezca la única razonable. Y —clave— **anticipa el contraargumento** y lo desactiva antes de que llegue.
+
+### Doctrina y debate
+- **Toulmin:** estructura del argumento (pretensión, datos, garantía, respaldo, refutación) — el esqueleto de todo escrito persuasivo.
+- **Perelman (*La nueva retórica*):** argumentar es persuadir a un auditorio; el derecho es razonamiento práctico, no lógica formal pura.
+- **Alexy (*Teoría de la argumentación jurídica*):** el discurso jurídico como caso especial del discurso práctico racional; reglas del discurso.
+- **MacCormick, Atienza (*Las razones del derecho*, *Curso de argumentación jurídica*).**
+- **Debate:** ¿la ponderación de principios (Alexy) es racional o encubre decisionismo?
+
+### Derecho comparado
+En el *common law*, la argumentación gira en torno al **precedente** (analogía, *distinguishing*, *overruling*); en el *civil law*, en torno a la **subsunción** y la interpretación de la ley. El litigio internacional y el **arbitraje** mezclan ambos: el abogado mexicano debe saber argumentar por analogía de casos, no solo por texto legal.
+
+### Caso real
+**Ponderación en la SCJN:** en colisiones de derechos (libertad de expresión vs. honor; datos personales vs. información), la Corte aplica el **test de proporcionalidad** (idoneidad, necesidad, proporcionalidad en sentido estricto) de raíz alexiana. Dominar ese test es hoy indispensable para litigar constitucional y para el *compliance* de datos.
+
+### Errores que cuestan millones
+- Confundir **citar** con **argumentar**: pegar tesis sin construir la inferencia.
+- No anticipar el **mejor argumento del adversario** (y quedar expuesto en la réplica).
+
+### Preguntas
+- **Criterio:** ¿la ponderación es método racional o retórica sofisticada?
+- **Entrevista:** estructure, con el modelo de Toulmin, por qué su cliente no incumplió.
+- **Examen:** enuncie las fases del test de proporcionalidad.
+
+### Bibliografía por niveles
+- **Básico:** Atienza, *El sentido del Derecho*.
+- **Intermedio:** Atienza, *Curso de argumentación jurídica*.
+- **Avanzado:** Alexy, *Teoría de la argumentación jurídica*.
+- **Internacional:** Perelman, *Tratado de la argumentación*; Toulmin, *Los usos de la argumentación*.
