@@ -1,805 +1,189 @@
-# [Nivel III · Libro 6] Concurso Mercantil
+# [Nivel III · Libro 6] El Peor Día: Concurso Mercantil
+#### *Reestructurar o liquidar la empresa insolvente — el día de la verdad de las garantías*
 
-> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+> ⟳ **Apóstrofe de vigencia.** Todo artículo citado (LCM, LGSM) y toda referencia a casos pudieron cambiar
+> después de la fecha de su fuente. El símbolo **⟳** significa: reitéralo en su código vigente
+> ([`../../fuentes-legales/`](../../fuentes-legales/)) antes de citarlo.
 
-
-> Toda empresa puede fracasar. El **concurso mercantil** es el derecho de las empresas que ya no
-> pueden pagar: el mecanismo ordenado para, primero, intentar **salvarlas** (reestructurarlas) y, si
-> no es posible, **liquidarlas** repartiendo lo que queda entre los acreedores conforme a una
-> **prelación** justa. Aquí se ponen a prueba todas las **garantías** que estudiamos (Libro 4 Nivel
-> II): el día de la insolvencia se descubre quién tomó bien sus garantías y quién se quedó como
-> simple quirografario. Es la "ley de Murphy" del derecho corporativo: hay que dominarla antes de
-> que el cliente la necesite.
-
-**Etiquetas:** derecho mercantil · insolvencia · concurso · quiebra · prelación de acreedores · reestructuración
+**Etiquetas:** insolvencia · concurso · conciliación · quiebra · prelación de acreedores · reestructuración · distressed
 **Prerrequisitos:** [Garantías (Nivel II)](../Nivel-II-Derecho-Civil-Profundo/04-Garantias-y-Derechos-Reales-de-Garantia.md), [Obligaciones — Profundización](../Nivel-II-Derecho-Civil-Profundo/01-Teoria-General-de-las-Obligaciones-Profundizacion.md), [Sociedades (LGSM)](./02-Sociedades-Mercantiles-LGSM.md).
-**Estándar:** V3 (43 secciones + secciones transversales).
-**⏱ Tiempo estimado de dominio:** 4 semanas (≈ 40–50 h de estudio activo). Lectura de reconocimiento:
-8–9 h. *Estúdialo en bloques: presupuestos y apertura → conciliación (reestructura) → quiebra y
-prelación → insolvencia transfronteriza.*
+**⏱ Dominio:** 4 semanas (≈ 40–50 h). *Bloques: presupuestos y apertura → conciliación → quiebra y prelación → reestructuración e insolvencia transfronteriza.*
 
-> **Aviso de método.** Tratado, no repaso. Profundizamos el procedimiento concursal y, sobre todo, la
-> **prelación de acreedores** (donde se prueba el valor real de las garantías) y la
-> **reestructuración**, con ejemplos trabajados, "cómo razona un socio" y conexión con financiamiento,
-> *distressed M&A* y due diligence.
+> Toda empresa puede fracasar. El **concurso mercantil** es el derecho de las empresas que ya no pueden
+> pagar: el mecanismo ordenado para, primero, intentar **salvarlas** (reestructurarlas) y, si no, **liquidarlas**
+> repartiendo lo que queda según una **prelación** justa. Es el día en que se prueban todas las **garantías**
+> que estudiamos: se descubre quién las tomó bien y quién quedó como simple quirografario.
 
 ---
 
-### Nivel de importancia profesional (vista rápida)
-```
-Litigio              ★★★★★
-Corporate            ★★★★☆
-M&A                  ★★★★☆
-Mercado de Valores   ★★★☆☆
-Venture Capital      ★★★☆☆
-Private Equity       ★★★★★
-Gobierno Corporativo ★★★★☆
-Compliance           ★★★★☆
-Derecho Bancario     ★★★★★
-Empresa Familiar     ★★★★☆
-```
-*Es la prueba de fuego de las garantías y del financiamiento; central en banca, *distressed M&A* y
-reestructuración (un nicho de alto valor del private equity).*
+## 1. El barco que se hunde
 
-## 1. Introducción
+Una empresa deja de pagar. Si cada acreedor pudiera cobrarse por su cuenta —embargando lo que alcance, el
+más rápido o el más fuerte—, sería como un **barco que se hunde** donde cada pasajero corre a llevarse un
+bote: se desmantelaría una empresa que quizá podía salvarse, y el reparto sería injusto (los fuertes se
+salvan, los demás se ahogan). Este es el problema del ***common pool*** (la tragedia de los comunes
+aplicada al crédito), y el **concurso mercantil** existe para resolverlo: un procedimiento **colectivo** y
+**universal** que reúne a **todos** los acreedores y **todos** los bienes, **suspende** las ejecuciones
+individuales, y resuelve de forma ordenada.
 
-Hasta ahora estudiamos la empresa que funciona: cómo se organiza (sociedades), cómo se financia
-(títulos, crédito, valores) y cómo contrata. Pero, ¿qué pasa cuando **deja de pagar**? Si cada
-acreedor pudiera cobrarse por su cuenta —embargando lo que alcance, el más rápido o el más fuerte—,
-habría un caos destructivo: se desmantelaría una empresa que quizá podía salvarse, y el reparto sería
-injusto. El **concurso mercantil** evita ese caos: es un procedimiento **colectivo** y **universal**
-que reúne a **todos** los acreedores y **todos** los bienes del deudor insolvente, suspende las
-ejecuciones individuales, y resuelve el problema de forma ordenada.
+El concurso persigue **dos finalidades, en este orden**. **Primero, conservar la empresa** (la
+**conciliación**: reestructurar la deuda mediante un convenio con los acreedores, porque una empresa viva
+vale más —goodwill, empleo— que sus restos liquidados). **Segundo, si la conservación fracasa, liquidar
+ordenadamente** (la **quiebra**: vender los bienes y repartir según una **prelación** legal). Y aquí se
+descubre la verdad sobre las garantías: el acreedor con garantía real bien constituida cobra **primero**
+sobre su bien; el quirografario, al final y a prorrata. Para el abogado corporativo, dominar el concurso es
+saber **proteger al acreedor antes de la crisis** (tomando bien las garantías) y **navegar la crisis**
+cuando llega (reestructurando o comprando activos en *distress*). La migración histórica de la materia —del
+castigo (*banca rotta*, "romper el banco" del comerciante que no pagaba) a la **reorganización** (salvar la
+empresa viable, dar al deudor honesto una segunda oportunidad)— es la clave para entenderla.
 
-La idea central: el concurso persigue **dos finalidades**, en este orden. **Primero, conservar la
-empresa** (la **conciliación**: reestructurar la deuda mediante un convenio con los acreedores, para
-que la empresa siga operando —porque una empresa viva vale más y genera empleo—). **Segundo, si la
-conservación fracasa, liquidar ordenadamente** (la **quiebra**: vender los bienes y repartir el
-producto entre los acreedores según una **prelación** legal). Aquí se descubre la verdad sobre las
-garantías: el acreedor con garantía real bien constituida cobra **primero** sobre su bien; el
-quirografario, al final y a prorrata. Para el abogado corporativo, dominar el concurso es saber
-**proteger al acreedor antes de la crisis** (tomando bien las garantías) y **navegar la crisis**
-cuando llega (reestructurando o comprando activos en *distress*).
+## 2. El presupuesto y la apertura
 
-## 2. Objetivos del libro
+**Presupuesto objetivo: el incumplimiento generalizado.** No basta un solo impago: la LCM (arts. 9-10 ⟳)
+exige que el comerciante incumpla con **dos o más acreedores** y que se cumplan condiciones cuantitativas
+—en esencia, que las obligaciones **vencidas** representen al menos el **35%** de todas sus obligaciones,
+**o** que no tenga activos líquidos para cubrir al menos el **80%** de las vencidas—. La idea: un problema
+**generalizado y estructural**, no aislado.
 
-Al terminar, el lector será capaz de:
+**Cómo se abre:** por **solicitud** (del propio deudor) o **demanda** (de acreedores o el MP) → **visita de
+verificación** (el **visitador**, designado por el **IFECOM**, revisa la contabilidad y dictamina si
+procede) → **sentencia de concurso** (el juez lo declara, y corren los efectos). El deudor puede acompañar
+ya un **plan prepactado** con la mayoría de sus acreedores (reforma 2014), acelerando el proceso.
 
-- **Entender los presupuestos** del concurso (el **incumplimiento generalizado** de pagos) y cómo se
-  **declara** (solicitud, demanda, sentencia de concurso).
-- **Dominar las dos etapas**: la **conciliación** (reestructura vía convenio concursal) y la
-  **quiebra** (liquidación), con el papel del **conciliador**, el **síndico**, el **visitador** y el
-  **IFECOM**.
-- **Manejar la prelación de acreedores**: el orden de pago (singularmente privilegiados, con garantía
-  real, con privilegio especial, comunes) y dónde quedan las **garantías** (Libro 4 Nivel II).
-- **Comprender los efectos** del concurso: suspensión de ejecuciones, **separación** de bienes,
-  régimen de los **contratos pendientes**, y la **retroacción** (actos en fraude de acreedores).
-- **Aplicar la reestructuración**: el **convenio concursal**, los **planes prepactados (*pre-packs*)**
-  y las herramientas de *workout* extrajudicial.
-- **Conectar** con el *distressed M&A* (comprar empresas/activos en concurso), el financiamiento
-  (riesgo de crédito y recuperación) y la due diligence (contingencias de insolvencia).
+## 3. Los efectos de la declaración
 
-## 3. Importancia profesional
-
-El concurso es la **prueba de fuego** de buena parte de la práctica corporativa:
-
-1. **Define la recuperación del acreedor.** En la insolvencia se materializa el valor de las
-   **garantías**: quien tomó garantía real bien perfeccionada recupera; quien no, casi nada. El
-   financiamiento se diseña pensando en este día.
-2. **La reestructuración es un nicho de altísimo valor.** Salvar empresas viables (vía conciliación o
-   *workout*) es trabajo de despachos y fondos especializados (*distressed debt*, *special
-   situations*).
-3. **El *distressed M&A* es una oportunidad.** Comprar empresas o activos de compañías en concurso (a
-   precios de crisis, "limpios" de pasivos) es una estrategia clásica del **private equity**.
-4. **Es materia de due diligence y de riesgo.** Evaluar el riesgo de insolvencia de una contraparte,
-   y la posibilidad de que actos previos sean **impugnados** (retroacción), es parte del análisis de
-   todo *deal* y financiamiento.
-
-## 4. Historia de la institución
-
-- **Raíces:** la quiebra (*bancarrota*) tiene origen medieval en las ciudades comerciales italianas;
-  el término "bancarrota" viene de *banca rotta* (romper el banco del comerciante que no pagaba). La
-  insolvencia se asociaba a infamia y castigo (el deudor quebrado era tratado casi como delincuente).
-- **Evolución:** del enfoque **punitivo** y **liquidatorio** (castigar al quebrado, liquidar y
-  repartir) al enfoque **conservativo** y **rehabilitador** moderno (salvar la empresa viable, dar al
-  deudor honesto una segunda oportunidad). El hito conceptual es la distinción entre la **empresa**
-  (que puede ser viable y merece salvarse) y el **empresario** (que pudo fracasar).
-- **Influencia estadounidense:** el **Chapter 11** del *US Bankruptcy Code* (reorganización con el
-  deudor en posesión —*debtor in possession*—) es el modelo mundial del concurso **reorganizativo**;
-  influyó decisivamente en las reformas latinoamericanas.
-- **México:** de la **Ley de Quiebras y Suspensión de Pagos (1943)** —liquidatoria y lenta— se pasó a
-  la **Ley de Concursos Mercantiles (LCM) de 2000** (vigente, reformada en 2007 y 2014), que adoptó el
-  modelo moderno: **dos etapas** (conciliación y quiebra), priorizando la **conservación** de la
-  empresa, con un órgano especializado, el **IFECOM** (Instituto Federal de Especialistas de Concursos
-  Mercantiles), y especialistas (visitador, conciliador, síndico). La reforma de 2014 incorporó los
-  **planes prepactados** y mejoró el financiamiento durante el concurso.
-
-## 5. Evolución histórica
-
-- **Del castigo a la rehabilitación:** la insolvencia dejó de ser un delito infamante para volverse un
-  fenómeno económico que el derecho gestiona, distinguiendo al deudor **honesto pero desafortunado**
-  del **fraudulento**.
-- **De la liquidación a la reorganización:** la prioridad moderna es **salvar la empresa viable**
-  (Chapter 11, conciliación), porque una empresa en marcha vale más (goodwill, empleo) que sus activos
-  liquidados por separado.
-- **Del concurso judicial puro a las soluciones híbridas:** auge de los **acuerdos extrajudiciales**
-  (*workouts*) y los **planes prepactados (*pre-packs*)**: negociar la reestructura **fuera** del
-  tribunal y solo "homologarla" judicialmente, ganando velocidad.
-- **De lo nacional a lo transfronterizo:** las empresas multinacionales quiebran en varios países a la
-  vez; surge el derecho de la **insolvencia transfronteriza** (Ley Modelo **UNCITRAL**, incorporada a
-  la LCM mexicana) para coordinar procedimientos.
-- **Tendencia:** mayor énfasis en la **velocidad**, el **financiamiento durante el concurso** (para que
-  la empresa siga operando) y los mecanismos preventivos (reestructurar **antes** de la insolvencia
-  total).
-
-> **Idea de evolución clave:** el derecho concursal moderno cambió su pregunta: ya no es "¿cómo
-> castigamos y liquidamos al quebrado?", sino **"¿cómo salvamos la empresa viable y, si no, repartimos
-> con justicia?"**. Esa migración —del castigo a la reorganización— es la clave para entender la LCM.
-
-## 6. Contexto económico
-
-El concurso cumple funciones económicas esenciales (Libros 9 y 10, Nivel I):
-- **Reasignación eficiente de recursos:** saca de operación a las empresas **inviables** (liberando sus
-  recursos para usos más productivos) y **preserva** las viables (que valen más vivas).
-- **Disciplina del crédito y certeza de la prelación:** un sistema concursal **predecible** (que
-  respeta las garantías y la prelación) **reduce el costo del crédito**: los acreedores prestan más
-  barato si saben que recuperarán en la insolvencia. Un concurso **impredecible** o que no respeta
-  garantías **encarece** todo el crédito de un país.
-- **Problema del "acreedor que corre" (*common pool*):** sin concurso, cada acreedor correría a
-  embargar, desmantelando la empresa (tragedia de los comunes). El concurso resuelve este problema con
-  el **principio colectivo** y la **suspensión** de ejecuciones individuales.
-- **Valor de la empresa en marcha vs. liquidación:** la conservación se justifica económicamente
-  porque la empresa **operando** (*going concern*) vale más que la suma de sus activos vendidos por
-  separado (el goodwill, Libro 1 Nivel III).
-
-## 7. Contexto político
-
-El concurso es una decisión de política económica de **equilibrio** entre intereses en conflicto:
-**acreedores** (quieren cobrar), **deudor/empresa** (quiere sobrevivir o liberarse), **trabajadores**
-(quieren sus empleos y salarios), **fisco** (quiere sus impuestos) y la **economía** (quiere
-preservar empresas viables y reasignar recursos). El Estado fija la **prelación** (quién cobra primero)
-con criterios políticos: protege a los **trabajadores** (créditos singularmente privilegiados) y al
-**fisco**, a veces por encima de las garantías privadas. La materia es **federal** (es comercio,
-art. 73-X ⟳). La calidad del sistema concursal es un indicador clave del **clima de negocios** y del
-*country risk* (Doing Business del Banco Mundial mide "resolución de la insolvencia").
-
-## 8. Contexto social
-
-La insolvencia tiene un fuerte componente social: detrás de cada empresa en concurso hay **empleos**,
-**familias**, **proveedores** (muchos PyMEs) y **comunidades** que dependen de ella. Por eso el derecho
-moderno prioriza **salvar la empresa** (no por el empresario, sino por todos los que dependen de ella)
-y protege a los **trabajadores** con una prelación alta. La cultura del "fracaso" también importa: en
-algunos países (EE. UU.) el fracaso empresarial honesto se ve como aprendizaje y se da una **segunda
-oportunidad** ágil; en otros, el estigma de la quiebra desincentiva el emprendimiento. Un buen sistema
-concursal **destigmatiza** el fracaso honesto y castiga solo el fraude.
-
-## 9. Contexto empresarial
-
-Para la empresa y sus acreedores, el concurso es el **escenario del peor día**, y por eso se prepara
-**antes**:
-- **Para el acreedor/banco:** el concurso es donde se cobra (o no) lo prestado; por eso el
-  financiamiento se diseña con **garantías reales bien perfeccionadas** (Libro 4 Nivel II) que dan
-  **prelación**, y se vigila el **riesgo de insolvencia** de los deudores.
-- **Para la empresa en crisis:** el concurso (o el *workout* extrajudicial) es la vía para
-  **reestructurar** la deuda y sobrevivir, o para una **liquidación ordenada**. La decisión de
-  acogerse al concurso (y cuándo) es estratégica.
-- **Para el inversionista (*distressed*):** comprar la deuda con descuento (*distressed debt*) o los
-  activos/la empresa en concurso (*distressed M&A*) es una estrategia de **private equity** y
-  *special situations*.
-- **Para los administradores:** la cercanía de la insolvencia agrava sus **deberes** (no agravar el
-  pasivo, no preferir indebidamente a ciertos acreedores —*zona de insolvencia*—); su incumplimiento
-  genera responsabilidad.
-
-El abogado corporativo asesora en las tres posiciones: **protege al acreedor** antes de la crisis,
-**reestructura** o **liquida** la empresa durante ella, y **estructura adquisiciones** de activos o
-deuda en *distress*. Es una especialidad técnica, intensa y de alto valor.
-
-
-## 10. Definiciones doctrinales
-
-- **Concurso mercantil (doctrina):** procedimiento **colectivo** y **universal** que, ante la
-  **insolvencia** (incumplimiento generalizado de pagos) de un comerciante, reúne a todos sus
-  acreedores y todos sus bienes para, primero, intentar **conservar** la empresa mediante un convenio
-  (conciliación) y, en su defecto, **liquidarla** ordenadamente (quiebra) repartiendo el producto
-  conforme a la **prelación** legal.
-- **Insolvencia (concepto económico-jurídico):** incapacidad del deudor para hacer frente a sus
-  obligaciones; en la LCM, se traduce en el **incumplimiento generalizado** de pagos (presupuesto
-  objetivo del concurso).
-- **Principios del concurso (doctrina):** **universalidad** (todos los bienes), **colectividad** (todos
-  los acreedores), ***par condicio creditorum*** (igualdad de trato entre acreedores del mismo rango)
-  y **conservación de la empresa** (preferencia por salvarla).
-- **Debtor in possession (Chapter 11):** el modelo en que el deudor **conserva la administración**
-  durante la reorganización (con vigilancia), en vez de ser desplazado por un síndico; influye en la
-  conciliación moderna.
-
-> **Lectura del Consejo:** memoriza los cuatro principios —**universalidad, colectividad, *par
-> condicio*, conservación**— y la **jerarquía de finalidades**: **primero conservar, luego liquidar**.
-> De ahí se entiende todo el procedimiento: la conciliación (salvar) precede a la quiebra (liquidar), y
-> la *par condicio* (igualdad) solo opera **dentro de cada rango** de la prelación —porque algunos
-> acreedores (garantizados, laborales, fiscales) tienen **preferencia**—.
-
-## 11. Definiciones legales (LCM — verificar versión vigente)
-
-- **Finalidad — art. 1 ⟳ LCM:** el concurso mercantil es de **interés público** y tiene por objeto
-  **conservar las empresas** y evitar que el incumplimiento generalizado ponga en riesgo su viabilidad
-  y la de las demás con las que tenga relación.
-- **Presupuesto (incumplimiento generalizado) — arts. 9-10 ⟳:** el comerciante incurre en incumplimiento
-  generalizado cuando **incumple sus obligaciones** de pago a **dos o más acreedores** y se cumplen
-  ciertas condiciones (p. ej., que las obligaciones vencidas representen al menos el **35%** de todas
-  sus obligaciones, o que no tenga activos para cubrir al menos el **80%** de sus obligaciones
-  vencidas).
-- **Etapas — art. 2 ⟳ y ss.:** el concurso consta de **dos etapas sucesivas**: la **conciliación**
-  (finalidad: lograr la **conservación** mediante el **convenio**) y la **quiebra** (finalidad: la
-  **venta** de la empresa o sus bienes para el pago a los acreedores).
-- **Órganos:** el **juez** (de distrito), el **IFECOM** (designa y supervisa a los especialistas) y los
-  **especialistas**: el **visitador** (verifica si procede el concurso), el **conciliador** (gestiona la
-  reestructura y el convenio) y el **síndico** (administra y liquida en la quiebra).
-- **Prelación de acreedores — arts. 217 ⟳ y ss.:** orden de pago: **singularmente privilegiados**
-  (gastos de entierro y de enfermedad del comerciante persona física), **con garantía real** (prenda,
-  hipoteca), **con privilegio especial** (los que tengan un privilegio especial conforme a leyes), y
-  **comunes** (quirografarios, a prorrata). Los **créditos laborales** (salarios e indemnizaciones del
-  último año) y los **fiscales** tienen reglas de preferencia destacadas.
-- **Retroacción y actos en fraude de acreedores — arts. 112 ⟳ y ss.:** los actos del deudor en perjuicio
-  de la masa, realizados en el **periodo de retroacción** (anterior a la sentencia de concurso), pueden
-  ser declarados **ineficaces**.
-- **Insolvencia transfronteriza — arts. 278 ⟳ y ss.:** incorpora la **Ley Modelo UNCITRAL** sobre
-  reconocimiento de procedimientos extranjeros y cooperación.
-
-## 12. Definición sencilla
-
-El **concurso mercantil** es lo que pasa cuando una empresa **ya no puede pagar** a sus deudas en
-general. En vez de dejar que cada acreedor llegue a llevarse lo que pueda (un caos que destruiría la
-empresa), un **juez** los reúne a **todos** y a **todos los bienes**, y se intenta, **primero**,
-**salvar la empresa** llegando a un **acuerdo** para reestructurar la deuda (la **conciliación**); si
-no se logra, se **vende todo** y se reparte el dinero entre los acreedores en un **orden** fijado por
-la ley (la **quiebra**): primero los trabajadores y ciertos privilegiados, luego los que tienen
-**garantía** (hipoteca, prenda) sobre un bien, y al final, lo que sobre, los acreedores **comunes** a
-prorrata. El día del concurso se ve **quién tomó bien sus garantías** y quién no.
-
-## 13. Conceptos fundamentales
-
-- **Incumplimiento generalizado:** el presupuesto del concurso (no pagar a dos o más acreedores,
-  rebasando los umbrales del art. 10 ⟳). No basta un solo impago.
-- **Conciliación:** la **primera etapa**; busca **conservar** la empresa mediante un **convenio
-  concursal** con los acreedores (reestructura: quitas, esperas, conversión). El deudor suele conservar
-  la administración (con vigilancia del **conciliador**).
-- **Convenio concursal:** el acuerdo entre el deudor y sus acreedores (reconocidos), aprobado por las
-  **mayorías** legales, que reestructura la deuda y permite a la empresa seguir operando; una vez
-  aprobado y homologado por el juez, **vincula** a todos (incluso a los disidentes —*cram down*—).
-- **Quiebra:** la **segunda etapa** (si la conciliación fracasa o el deudor la pide); implica la
-  **liquidación**: el **síndico** vende los bienes (idealmente la empresa **como unidad**, para
-  conservar el goodwill) y paga conforme a la prelación.
-- **Masa concursal (activa y pasiva):** la **activa** = todos los bienes del deudor afectos al pago;
-  la **pasiva** = todos los créditos reconocidos.
-- **Reconocimiento, graduación y prelación de créditos:** el procedimiento para **reconocer** qué
-  créditos existen, **graduarlos** (clasificarlos por rango) y fijar el **orden de pago**. Es el
-  corazón del concurso.
-- **Acreedores por rango (prelación):**
-  - **Singularmente privilegiados** (gastos de entierro/enfermedad del comerciante persona física).
-  - **Créditos laborales** (salarios e indemnizaciones del último año): **preferencia** destacada.
-  - **Con garantía real** (prenda, hipoteca): cobran con **preferencia sobre el bien gravado** (aquí se
-    materializa el Libro 4 Nivel II).
-  - **Fiscales** (con reglas especiales de preferencia).
-  - **Con privilegio especial.**
-  - **Comunes (quirografarios):** cobran al final, **a prorrata**.
-- **Especialistas:** **visitador** (verifica si procede el concurso), **conciliador** (reestructura),
-  **síndico** (liquida); designados y supervisados por el **IFECOM**.
-- **Periodo de retroacción y acciones de ineficacia:** lapso previo a la sentencia en que los actos del
-  deudor en **fraude** de la masa (p. ej., constituir garantías o pagar a un acreedor preferido) pueden
-  declararse **ineficaces** y revertirse.
-- **Suspensión de ejecuciones:** declarado el concurso, se **suspenden** los procedimientos de
-  ejecución individuales contra el deudor (los acreedores deben cobrar **dentro** del concurso) —el
-  principio colectivo en acción—.
-- **Separación de bienes:** los bienes que están en poder del deudor pero **no son suyos** (en
-  consignación, arrendados, en fideicomiso) pueden **separarse** de la masa.
-- **Contratos pendientes:** régimen de los contratos en curso al declararse el concurso (cuáles
-  continúan, cuáles pueden terminarse).
-- **Plan prepactado (*pre-pack*):** convenio **negociado por anticipado** con los acreedores y luego
-  presentado al juez para su homologación rápida (reforma 2014).
-- **Workout extrajudicial:** reestructura negociada **fuera** del concurso (sin tribunal), por acuerdo
-  directo con los acreedores; más rápida y flexible, pero requiere consenso.
-- **Distressed M&A / distressed debt:** comprar **activos/empresas** en concurso o **deuda** con
-  descuento, como estrategia de inversión (private equity, special situations).
-
-
-## 14. Desarrollo absoluto
-
-Lo organizamos en: (A) el presupuesto y la **apertura** del concurso; (B) los **efectos** de la
-declaración; (C) la **conciliación** (reestructura); (D) la **quiebra** (liquidación) y la
-**prelación**; (E) la **retroacción** y los actos en fraude; (F) la **reestructuración** moderna
-(*pre-packs*, *workouts*) y el ***distressed M&A***.
-
-### 14.A · El presupuesto y la apertura del concurso
-
-**Presupuesto objetivo: el incumplimiento generalizado.** No basta un solo impago: la LCM exige
-(arts. 9-10 ⟳) que el comerciante incumpla con **dos o más acreedores** y que se cumplan condiciones
-cuantitativas —en esencia, que las obligaciones **vencidas** representen al menos el **35%** de todas
-sus obligaciones, **o** que no tenga activos líquidos suficientes para cubrir al menos el **80%** de
-sus obligaciones vencidas—. La idea: un problema **generalizado y estructural** de pagos, no un
-incumplimiento aislado.
-
-**Cómo se abre:**
-- **Solicitud** (la presenta el **propio deudor**) o **demanda** (la presentan **acreedores** o el
-  **Ministerio Público**).
-- **Visita de verificación:** el **visitador** (designado por el IFECOM) revisa la contabilidad y
-  verifica si se actualiza el incumplimiento generalizado, y rinde dictamen.
-- **Sentencia de concurso:** el **juez** declara el concurso (si procede). A partir de ella corren los
-  efectos (suspensión de ejecuciones, designación del **conciliador**, etc.).
-- **Concurso con plan prepactado:** el deudor puede solicitar el concurso **acompañando ya un convenio**
-  negociado con la mayoría de sus acreedores (reforma 2014), acelerando el proceso.
-
-### 14.B · Los efectos de la declaración de concurso
-
-- **Suspensión de ejecuciones individuales:** los acreedores ya **no pueden** embargar ni ejecutar por
-  su cuenta; deben cobrar **dentro** del concurso (principio colectivo). (Con matices para ciertos
-  créditos garantizados y laborales.)
-- **Reconocimiento, graduación y prelación de créditos:** se abre el procedimiento para **reconocer**
-  los créditos, **graduarlos** por rango y fijar el **orden de pago**.
+- **Suspensión de ejecuciones individuales:** los acreedores ya **no pueden** embargar por su cuenta; deben
+  cobrar **dentro** del concurso (el principio colectivo en acción).
+- **Reconocimiento, graduación y prelación de créditos:** se abre el procedimiento para **reconocer** los
+  créditos, **graduarlos** por rango y fijar el orden de pago (el corazón del concurso).
 - **Administración:** en la **conciliación**, el deudor suele **conservar** la administración (con
-  vigilancia del conciliador) —modelo *debtor in possession*—; en la **quiebra**, lo desplaza el
-  **síndico**.
-- **Contratos pendientes:** régimen especial: algunos continúan, otros pueden darse por terminados; se
-  busca preservar los contratos **útiles** para la conservación de la empresa.
+  vigilancia —modelo *debtor in possession*—); en la **quiebra**, lo desplaza el **síndico**.
 - **Separación de bienes:** los bienes en poder del deudor que **no son suyos** (consignación,
-  arrendamiento, fideicomiso) pueden **separarse** de la masa por sus titulares.
-- **Compensación:** opera con reglas especiales (la compensación de deudas recíprocas anteriores al
-  concurso suele admitirse; la posterior, restringida).
+  arrendamiento, fideicomiso) pueden **separarse** de la masa.
 
-### 14.C · La conciliación (la etapa de salvar la empresa)
+## 4. La conciliación: la etapa de salvar la empresa
 
-Es la **primera etapa** y la **prioritaria**. Su finalidad: **conservar** la empresa mediante un
-**convenio concursal** con los acreedores. Elementos:
-- **El conciliador:** especialista que **media** entre el deudor y los acreedores, vigila la
-  administración y promueve el convenio.
-- **Plazo:** la conciliación tiene una **duración limitada** (con prórrogas máximas); si no se logra
-  el convenio en el plazo, se pasa a la **quiebra**.
-- **El convenio concursal:** reestructura la deuda (típicamente **quitas** —remisión parcial—,
-  **esperas** —ampliación de plazos—, **conversión** de deuda en capital, nuevas garantías). Debe
-  aprobarse por las **mayorías** legales de acreedores reconocidos.
-- **Homologación y *cram down*:** aprobado por las mayorías y **homologado** por el juez, el convenio
-  **vincula a todos** los acreedores reconocidos, **incluso a los disidentes** (mecanismo de *cram
-  down*: la minoría disidente queda obligada por la voluntad mayoritaria, con protecciones). Esto
-  evita que un acreedor minoritario "secuestre" la reestructura.
-- **Financiamiento durante el concurso:** la empresa necesita **operar** mientras se reestructura; la
-  LCM permite **créditos** durante el concurso con cierta **preferencia** para el nuevo financiador
-  (incentiva a financiar la salvación —análogo al *DIP financing* del Chapter 11—).
+Es la **primera etapa** y la **prioritaria**. Su finalidad: **conservar** la empresa mediante un **convenio
+concursal** con los acreedores. El **conciliador** media, vigila y promueve el convenio; la etapa tiene
+**plazo limitado** (con prórrogas máximas). El **convenio** reestructura la deuda —típicamente **quitas**
+(remisión parcial), **esperas** (más plazo) y **conversión** de deuda en capital— y debe aprobarse por las
+**mayorías** legales. Una vez aprobado y **homologado** por el juez, **vincula a todos** los acreedores
+reconocidos, **incluso a los disidentes** (mecanismo de ***cram down***: la minoría queda obligada por la
+mayoría, con protecciones) —lo que evita que un acreedor minoritario "secuestre" la reestructura—. Y como la
+empresa necesita **operar** mientras se reestructura, la LCM permite **financiamiento durante el concurso**
+con cierta **preferencia** para el nuevo financiador (análogo al *DIP financing* del Chapter 11).
 
-### 14.D · La quiebra (liquidación) y la prelación de acreedores
+## 5. La quiebra y la prelación de acreedores
 
-Si la conciliación fracasa (o el deudor pide la quiebra), se **liquida**:
-- **El síndico:** desplaza al deudor en la administración, **realiza** (vende) los bienes —idealmente
-  la **empresa como unidad** (going concern), para conservar el goodwill y el empleo, en vez de
-  venderla "en pedazos"— y **paga** conforme a la prelación.
-- **La prelación de acreedores (el corazón del concurso, arts. 217 ⟳ y ss.):** el orden de pago es:
-  1. **Singularmente privilegiados** (gastos de entierro y de enfermedad del comerciante persona
-     física): un rango menor en monto pero primero en orden.
-  2. **Acreedores con garantía real** (prenda, hipoteca): cobran con **preferencia sobre el producto
-     del bien gravado**. **Aquí se materializa el valor de las garantías (Libro 4 Nivel II):** quien
-     tomó y **perfeccionó** bien su garantía recupera; quien no, baja a quirografario.
-  3. **Créditos con privilegio especial** (los que la ley dota de un privilegio sobre ciertos bienes).
-  4. **Créditos comunes (quirografarios):** cobran **al final**, **a prorrata** (lo que sobre).
-  - **Créditos laborales (salarios e indemnizaciones del último año):** tienen una **preferencia
-    destacada** (la ley los protege especialmente, incluso por encima de otros).
-  - **Créditos fiscales:** con reglas especiales de preferencia.
-  - **Gastos del concurso (de administración y los del procedimiento):** se pagan con prioridad
-    (créditos contra la masa).
+Si la conciliación fracasa (o el deudor pide la quiebra), se **liquida**: el **síndico** desplaza al deudor,
+**vende** los bienes —idealmente la **empresa como unidad** (*going concern*), para conservar el goodwill y
+el empleo, no "en pedazos"— y **paga** conforme a la **prelación** (arts. 217 y ss. ⟳):
 
-> **Cómo razona un socio (prelación y garantías).** *"El concurso es el día de la verdad de las
-> garantías. Por eso, cuando estructuro un financiamiento, no pienso en el día del pago normal, sino
-> en el **día de la quiebra**: ¿mi garantía real está **bien constituida, perfeccionada e inscrita**?
-> Si lo está, cobro **antes** que los comunes sobre ese bien. Si descuidé el perfeccionamiento, bajo a
-> **quirografario** y cobro a prorrata —casi nada—. Y vigilo dos peligros: los **créditos laborales y
-> fiscales**, que pueden tener preferencia, y la **retroacción** (que mi garantía no se haya tomado
-> demasiado cerca de la insolvencia, o me la anulan)."*
+```
+ORDEN DE PAGO (prelación)
+  Gastos del concurso (contra la masa) ── se pagan con prioridad
+  1. Singularmente privilegiados (entierro/enfermedad del comerciante persona física)
+  ★  LABORALES (salarios e indemnizaciones del último año) ── preferencia destacada
+  2. Con GARANTÍA REAL (prenda, hipoteca) ── sobre el producto del bien gravado
+  ★  FISCALES ── reglas especiales de preferencia
+  3. Con privilegio especial
+  4. COMUNES (quirografarios) ── al final, a prorrata (casi nada)
+```
 
-### 14.E · La retroacción y los actos en fraude de acreedores
+> 🧭 **Detente y piensa.** El concurso es **el día de la verdad de las garantías**. Cuando estructuras un financiamiento, no debes pensar en el día del pago normal, sino en **el día de la quiebra**: ¿mi garantía real está **bien constituida, perfeccionada e inscrita**? Si lo está, cobro **antes** que los comunes sobre ese bien. Si descuidé el perfeccionamiento, bajo a **quirografario** y cobro a prorrata —casi nada—. Y vigila dos peligros que muchos ignoran: los **créditos laborales y fiscales**, que pueden tener **preferencia** incluso sobre tu garantía; y la **retroacción** (que tu garantía no se haya tomado demasiado cerca de la insolvencia). La prelación no es solo "garantía real primero".
 
-El deudor en crisis puede tener la tentación de **vaciar** la empresa o **favorecer** a ciertos
-acreedores antes de caer en concurso. Para evitarlo, la LCM establece un **periodo de retroacción**
-(anterior a la sentencia): los actos realizados en ese periodo **en perjuicio de la masa** (donaciones,
-ventas a bajo precio, **constitución de garantías** por deudas preexistentes, **pagos anticipados** o
-preferencias indebidas) pueden declararse **ineficaces** y revertirse. *Implicación crítica (Libro 4
-Nivel II):* una **garantía tomada demasiado cerca** de la insolvencia puede ser **impugnada** y
-anulada; por eso las garantías deben tomarse **a tiempo** (al otorgar el crédito), no cuando el deudor
-ya está hundiéndose.
+## 6. La retroacción: las garantías tardías se anulan
 
-### 14.F · Reestructuración moderna y distressed M&A
+El deudor en crisis puede tener la tentación de **vaciar** la empresa o **favorecer** a ciertos acreedores
+antes de caer en concurso. Para evitarlo, la LCM establece un **periodo de retroacción** (anterior a la
+sentencia): los actos en **perjuicio de la masa** (donaciones, ventas a bajo precio, **constitución de
+garantías** por deudas preexistentes, **pagos anticipados** o preferencias indebidas) pueden declararse
+**ineficaces** y revertirse.
 
-- **Plan prepactado (*pre-pack*):** negociar el convenio **antes** de entrar al concurso, con la
-  mayoría de los acreedores, y presentarlo ya hecho al juez para una **homologación rápida**. Combina
-  la flexibilidad del acuerdo privado con la fuerza vinculante (incluido el *cram down*) del concurso.
-- **Workout extrajudicial:** reestructurar **fuera** del concurso, por acuerdo directo con los
-  acreedores (sin tribunal). Más rápido y discreto, pero requiere **consenso** (un acreedor "díscolo"
-  —*holdout*— puede bloquearlo, al no haber *cram down* judicial).
+> 🧭 **Detente y piensa.** Un banco, viendo a su cliente en problemas, le exige **constituir una hipoteca** por un crédito que ya existía sin garantía, poco antes del concurso. ¿Le sirve esa hipoteca? **No.** Constituir una garantía por una **deuda preexistente** en el periodo de retroacción es un acto en **fraude de la masa**: se declara **ineficaz** y el banco baja a **quirografario**. La lección, que conecta con todo el Nivel II: **las garantías se toman al otorgar el crédito, no cuando el deudor ya se hunde**. Una garantía tardía es una garantía anulable —y una falsa sensación de seguridad—.
+
+## 7. Reestructuración moderna y *distressed M&A*
+
+- **Plan prepactado (*pre-pack*):** negociar el convenio **antes** de entrar al concurso, con la mayoría de
+  los acreedores, y presentarlo ya hecho al juez para una **homologación rápida**. Combina la flexibilidad
+  del acuerdo privado con la fuerza vinculante (incluido el *cram down*) del concurso.
+- **Workout extrajudicial:** reestructurar **fuera** del concurso, por acuerdo directo (sin tribunal). Más
+  rápido y discreto, pero requiere **consenso**: un acreedor "díscolo" (*holdout*) puede bloquearlo, al no
+  haber *cram down*.
 - **Distressed M&A:** comprar la **empresa** o sus **activos** en concurso —a menudo "**limpios**" de
-  pasivos (la venta como unidad productiva, autorizada en el concurso, puede purgar ciertos
-  gravámenes)— a precio de crisis. Es una estrategia clásica del **private equity** y de los fondos de
-  *special situations* (Nivel IV).
-- **Compra de deuda (*distressed debt*):** adquirir los créditos contra la empresa con **descuento**,
-  para luego (i) cobrar en el concurso, (ii) influir en la reestructura, o (iii) **convertir deuda en
-  capital** y quedarse con la empresa (*loan-to-own*).
+  pasivos— a precio de crisis. Estrategia clásica del **private equity** y de *special situations*.
+- **Compra de deuda (*distressed debt*):** adquirir los créditos con **descuento**, para cobrar, influir en
+  la reestructura o **convertir deuda en capital** y quedarse con la empresa (*loan-to-own*).
 
-## 15. Explicación intuitiva
+## 8. Comparado y régimen mexicano
 
-Imagina que una empresa es un **barco que se hunde** y los acreedores son pasajeros que quieren
-salvarse. Sin reglas, cada uno correría a llevarse lo que pudiera —los botes salvavidas, las
-provisiones— y el barco se hundiría más rápido y de forma injusta (los más fuertes se salvarían, los
-demás se ahogarían). El **concurso mercantil** es el **capitán** que pone orden:
-- **Primero, intenta salvar el barco** (la **conciliación**): reúne a todos y propone un **plan**
-  (reestructurar la deuda: que los acreedores acepten cobrar menos —quita— o más tarde —espera— para
-  que el barco siga a flote y todos cobren algo). Si la mayoría acepta, **todos** se suben al plan
-  (incluso los que decían que no: *cram down*).
-- **Si el barco no se puede salvar** (la **quiebra**): se reparten ordenadamente los botes
-  salvavidas según una **lista de prioridad**: primero los **trabajadores** (sus salarios) y ciertos
-  privilegiados; luego los que tenían un **bote reservado a su nombre** (los acreedores con
-  **garantía real** sobre un bien —hipoteca, prenda—); y al final, lo que quede, se reparte **a
-  prorrata** entre los **comunes** (que casi siempre se ahogan).
+El mundo converge hacia el modelo **reorganizativo** inspirado en el **Chapter 11** estadounidense (deudor
+en posesión, *automatic stay*, *DIP financing*, *cram down*), con la **Ley Modelo UNCITRAL** coordinando las
+insolvencias transfronterizas (adoptada por México y por EE. UU. —Chapter 15—). El fundamento teórico lo dio
+Thomas Jackson (***creditors' bargain theory***): el concurso simula el acuerdo que los acreedores habrían
+pactado *ex ante* para evitar la carrera destructiva por los activos. En **México**, la **Ley de Concursos
+Mercantiles (LCM, 2000; reformas 2007 y 2014)** establece: la finalidad de interés público de **conservar
+las empresas** (art. 1 ⟳); el presupuesto de incumplimiento generalizado (arts. 9-10 ⟳); las **dos etapas**
+(conciliación y quiebra); los órganos (juez de distrito, **IFECOM**, visitador, conciliador, síndico); la
+**prelación** (arts. 217 y ss. ⟳); la **retroacción** (arts. 112 y ss. ⟳); el convenio y el *cram down*; el
+financiamiento concursal; y la insolvencia transfronteriza (arts. 278 y ss. ⟳). Es materia **federal**
+(comercio, art. 73-X ⟳), y su calidad es un indicador clave del clima de negocios.
 
-Dos lecciones de oro: **(1)** vale más **salvar el barco** (la empresa viva genera más que sus restos);
-y **(2)** si quieres un **bote reservado** (garantía real), debes **reservarlo a tiempo y bien**
-(perfeccionarlo e inscribirlo cuando das el crédito), porque si lo reservas cuando el barco ya se
-hunde (periodo de **retroacción**), el capitán te lo **quita**. Todo este libro enseña a navegar ese
-naufragio —y a prepararse para él **antes** de que ocurra—.
+## 9. Casos reales — y qué enseña
 
+- **Chapter 11 (EE. UU.):** el referente mundial del concurso reorganizativo (aerolíneas, automotrices
+  salvadas bajo *debtor in possession* y *DIP financing*).
+- **Vitro (2010-2013):** *leading case* de insolvencia **transfronteriza** —un concurso mexicano chocó con
+  acreedores en EE. UU. (reconocimiento, *comity*, trato a garantías intragrupo)—.
+- **Aeroméxico (2020-2022) y Grupo Oro Negro:** reestructuras litigadas entre la LCM y el **Chapter 11**.
+- **Retroacción y preferencia laboral:** criterios que anulan garantías/pagos preferentes en el periodo de
+  retroacción y confirman la preferencia de los créditos laborales.
 
-## 16. Ejemplos simples
+**¿Qué enseña la práctica?**
 
-1. **Incumplimiento generalizado.** Una empresa deja de pagar a varios proveedores y al banco; sus
-   obligaciones vencidas superan el 35% del total. Se actualiza el **presupuesto** del concurso.
-2. **Conciliación exitosa.** En el concurso, el deudor y sus acreedores acuerdan una **quita del 30%**
-   y una **espera de 3 años**; la mayoría aprueba el convenio, el juez lo **homologa** y la empresa
-   **sobrevive** (todos cobran más que si se hubiera liquidado).
-3. **Prelación.** En la quiebra, tras vender los bienes, se paga **primero** a los trabajadores
-   (salarios del último año), luego al **banco hipotecario** (sobre el inmueble hipotecado), y al
-   final, lo que sobra, a los **proveedores comunes** a prorrata.
-4. **Garantía que sí sirve.** Un banco con **hipoteca inscrita** sobre la planta cobra con
-   **preferencia** sobre el producto de su venta; un proveedor sin garantía cobra al final, casi nada.
-5. **Suspensión de ejecuciones.** Declarado el concurso, un acreedor que iba a embargar **debe
-   detenerse** y cobrar **dentro** del concurso (principio colectivo).
+- *Chapter 11 / conciliación* → **la empresa viva vale más que sus pedazos**; el sesgo moderno es salvar la
+  viable.
+- *Vitro / Aeroméxico* → la insolvencia moderna es **multijurisdiccional** (COMI, reconocimiento); quien
+  domina las dos sillas (LCM y Chapter 11) gana.
+- *Retroacción* → **las garantías tardías se anulan**; tómalas al originar el crédito.
+- *Preferencia laboral/fiscal* → la garantía real no siempre cobra primero; hay preferencias por delante.
 
-## 17. Ejemplos complejos
+## 10. Cómo razona un socio
 
-1. **Garantía anulada por retroacción.** Un banco, viendo a su cliente en problemas, le exige
-   **constituir una hipoteca** por un crédito que ya existía sin garantía, poco antes del concurso.
-   El conciliador/acreedores **impugnan** ese acto: constituir garantía por una deuda preexistente en
-   el **periodo de retroacción** es un acto en **fraude de la masa**; la hipoteca se declara
-   **ineficaz** y el banco baja a **quirografario**. Lección: las garantías se toman **al otorgar el
-   crédito**, no cuando el deudor ya se hunde.
-2. **Cram down (convenio que vincula a disidentes).** Un convenio de reestructura es aprobado por la
-   mayoría de los acreedores, pero un fondo (que compró deuda con descuento) **vota en contra** para
-   bloquearlo y exigir más. Aprobado por las mayorías legales y **homologado**, el convenio **vincula
-   también al fondo disidente** (*cram down*). Lección: el concurso evita que un *holdout* secuestre la
-   salvación de la empresa (a diferencia del *workout* extrajudicial, donde el disidente sí puede
-   bloquear).
-3. **Distressed M&A (compra de la empresa en concurso).** Un fondo de PE compra la **empresa como
-   unidad** dentro del concurso, "limpia" de buena parte de sus pasivos (que quedan en la masa para
-   pagarse con el precio), conservando la operación, la marca y los empleos. Lección: el concurso puede
-   ser una **oportunidad** de adquisición a precio de crisis y con activos saneados.
-4. **Conflicto laboral vs. garantía real.** El banco hipotecario y los trabajadores reclaman sobre el
-   mismo patrimonio. Los **créditos laborales** (salarios del último año) tienen **preferencia
-   destacada**; el banco cobra sobre el bien hipotecado pero **después** de la preferencia laboral
-   aplicable. Lección: la prelación no es solo "garantía real primero"; los laborales y fiscales
-   pueden anteponerse.
+> *"Cuando estructuro un financiamiento, no pienso en el día del pago puntual, sino en el peor día: la
+> quiebra del deudor. ¿Mi garantía real está bien tomada, perfeccionada e inscrita, y a tiempo (fuera del
+> periodo de retroacción)? ¿En qué rango de la prelación caigo —después de laborales y fiscales—? Porque ese
+> día separa al acreedor que recupera del que mira cómo otros cobran. Cuando la crisis llega, decido rápido:
+> ¿la empresa es viable (entonces reestructuro: conciliación, workout o pre-pack, usando el cram down para
+> vencer a los holdouts) o no (entonces ejecuto y cobro sobre mi colateral)? Y como inversionista distressed,
+> veo oportunidad: comprar deuda con descuento para hacer loan-to-own, o comprar la empresa en concurso
+> limpia de pasivos. El concurso es tanto un riesgo a blindar como una oportunidad a capturar."*
 
-## 18. Casos reales (jurisprudencia y operaciones estilizadas)
+## 11. Errores que cuestan millones
 
-- **Grandes concursos mexicanos (estilizados):** reestructuras de grandes corporativos (vía concurso o
-  *workout*) han mostrado el uso de la conciliación, los planes prepactados y el financiamiento durante
-  el concurso para preservar empresas viables y miles de empleos.
-- **Chapter 11 (EE. UU.) como referente:** reorganizaciones célebres (aerolíneas, automotrices) bajo
-  Chapter 11 ilustran el modelo *debtor in possession* y el *DIP financing* que inspiraron las reformas
-  mexicanas.
-- **Retroacción y actos en fraude:** criterios sobre la **ineficacia** de garantías y pagos
-  preferentes realizados en el periodo de retroacción.
-- **Preferencia laboral:** criterios que confirman la **preferencia** de los créditos laborales
-  (salarios e indemnizaciones) en el concurso.
+1. **Tomar garantías en la víspera de la insolvencia.** Se anulan por **retroacción** y el acreedor pasa de
+   garantizado a quirografario. *Prevención:* garantías **al originar** el crédito.
+2. **Descuidar el perfeccionamiento/inscripción de la garantía.** Puede ser inoponible y degradar al
+   acreedor a común. *Prevención:* perfeccionar e inscribir (Nivel II).
+3. **Empujar a la liquidación una empresa viable.** Destruye el goodwill y reduce la recuperación de
+   **todos**. *Prevención:* evaluar viabilidad y favorecer la conciliación / venta como unidad.
+4. **Confiar en un *workout* con un acreedor díscolo.** Sin *cram down* judicial, un *holdout* lo bloquea.
+   *Prevención:* usar el concurso (o un *pre-pack*) cuando el consenso no es total.
+5. **Ignorar la insolvencia transfronteriza.** En grupos multinacionales, no coordinar (COMI,
+   reconocimiento) genera pérdidas y litigios paralelos.
 
-> *Nota de método (Manifiesto XI.5):* verificar la vigencia y los datos de los casos y normas antes de
-> invocarlos; se exponen por su valor formativo.
+## 12. Debate abierto (para desarrollar criterio)
 
-## 19. Casos empresariales
+- ¿**Conservación o liquidación** como prioridad? ¿Mantiene el concurso vivos "zombis" que deberían
+  liquidarse (crítica de Baird), o el valor *going concern* justifica salvarlos?
+- ¿Es justo que los **créditos laborales y fiscales** se antepongan a las **garantías reales**? ¿Cuál es el
+  costo macroeconómico de debilitar las garantías (crédito más caro)?
+- ¿El ***cram down*** respeta a los disidentes? (¿Reciben al menos lo de una liquidación —*best interest
+  test*—?)
+- ¿Qué deberes tienen los **administradores** en la "zona de insolvencia": maximizar para los accionistas o
+  proteger a los acreedores (no agravar el pasivo)?
 
-- **Reestructura para sobrevivir:** una empresa con un buen negocio pero **sobreendeudada** usa la
-  conciliación (o un *workout*) para reducir y reprogramar su deuda y seguir operando.
-- **Financiamiento de la operación durante el concurso:** la empresa obtiene crédito (con preferencia)
-  para seguir produciendo mientras se reestructura, evitando que se "muera" en el proceso.
-- **Protección preventiva del acreedor:** un banco diseña su crédito con **garantías reales
-  perfeccionadas y oportunas** (no en la víspera de la crisis) para asegurar su prelación si el deudor
-  cae en concurso.
-
-## 20. Casos corporativos (en transacciones)
-
-- **Distressed M&A:** comprar activos o la empresa en concurso, "limpios" de pasivos, a precio de
-  crisis (estrategia de PE/special situations — Nivel IV).
-- **Loan-to-own (distressed debt):** un fondo compra la **deuda** con descuento, vota en la
-  reestructura, **convierte deuda en capital** y se queda con el control de la empresa.
-- **Due diligence de riesgo concursal:** evaluar la salud financiera de la *target* y de sus
-  contrapartes clave, y el riesgo de que actos previos (garantías, transmisiones) sean impugnables por
-  retroacción.
-- **Cláusulas de protección:** en contratos y financiamientos, prever el escenario de insolvencia de la
-  contraparte (garantías, *set-off*, *ipso facto clauses* —con sus límites—, *change of control*).
-
-## 21. Casos internacionales
-
-- **Insolvencia transfronteriza (Ley Modelo UNCITRAL):** cuando una multinacional quiebra en varios
-  países, se coordinan los procedimientos: se reconoce el procedimiento **principal** (donde el deudor
-  tiene su centro de intereses principales —**COMI**—) y se coopera con los **secundarios**. México
-  incorporó la Ley Modelo en la LCM.
-- **Chapter 11 vs. concurso mexicano:** el Chapter 11 (EE. UU.) es el referente del concurso
-  reorganizativo (*debtor in possession*, *DIP financing*, *cram down*); el concurso mexicano comparte
-  su filosofía conservativa.
-- **Reestructuras cross-border:** las grandes reestructuras de deuda internacional combinan
-  procedimientos en varias jurisdicciones, acuerdos entre acreedores (*intercreditor*) y, a veces,
-  *schemes of arrangement* (Reino Unido) o Chapter 11.
-- **Forum shopping concursal:** las empresas a veces eligen la jurisdicción de reestructura más
-  favorable (Reino Unido, EE. UU.) —fenómeno que la cooperación internacional busca ordenar—.
-
-
-## 22. Derecho comparado
-
-| Sistema | Rasgos del derecho concursal |
-|---|---|
-| **México** | LCM (2000): dos etapas (**conciliación** → **quiebra**); IFECOM y especialistas; prioridad a la **conservación**; insolvencia transfronteriza (Ley Modelo UNCITRAL); planes prepactados (2014). |
-| **España** | Ley Concursal (texto refundido 2020): concurso único con fase común, convenio o liquidación; planes de reestructuración (Directiva UE 2019). |
-| **Estados Unidos** | **Bankruptcy Code:** **Chapter 11** (reorganización, *debtor in possession*, *DIP financing*, *cram down*) y **Chapter 7** (liquidación); el modelo mundial del concurso reorganizativo. |
-| **Delaware/Nueva York** | Sedes preferidas de los grandes Chapter 11 (tribunales especializados, jurisprudencia rica); centro del *distressed* global. |
-| **Unión Europea** | **Directiva 2019/1023** sobre marcos de reestructuración preventiva y segunda oportunidad; **Reglamento de Insolvencia** (coordinación transfronteriza dentro de la UE). |
-| **UNIDROIT** | Trabajos sobre ejecución y garantías relacionados con la insolvencia. |
-| **UNCITRAL** | **Ley Modelo sobre Insolvencia Transfronteriza** (adoptada por México, EE. UU. —Chapter 15— y muchos países); guía legislativa sobre insolvencia. |
-| **CISG** | No aplica. |
-| **Common Law** | Chapter 11/7 (EE. UU.); en Reino Unido, *administration*, *CVA* y los *schemes of arrangement* / *restructuring plans* (muy usados en reestructuras internacionales). |
-| **Civil Law** | Modelos de concurso con fases de convenio/liquidación; convergencia hacia la **reestructuración preventiva** (influencia de la Directiva UE y del Chapter 11). |
-
-> **Convergencia clave:** el mundo converge hacia el modelo **reorganizativo** (salvar la empresa
-> viable) inspirado en el **Chapter 11**, con mecanismos de ***cram down*** (vincular a disidentes) y
-> **financiamiento durante el concurso**. La **Ley Modelo UNCITRAL** coordina las insolvencias
-> transfronterizas. El abogado de reestructuración internacional debe dominar Chapter 11 y los
-> *schemes/restructuring plans* ingleses, además del concurso local.
-
-## 23. Derecho mexicano
-
-- **Ley de Concursos Mercantiles (LCM, 2000; reformas 2007 y 2014):** finalidad y carácter de interés
-  público (art. 1 ⟳); presupuesto de incumplimiento generalizado (arts. 9-10 ⟳); etapas (conciliación y
-  quiebra); órganos (juez, **IFECOM**, visitador, conciliador, síndico); reconocimiento, graduación y
-  **prelación** de créditos (arts. 217 ⟳ y ss.); **retroacción** y actos en fraude (arts. 112 ⟳ y ss.);
-  convenio concursal y *cram down*; financiamiento durante el concurso; insolvencia transfronteriza
-  (arts. 278 ⟳ y ss., Ley Modelo UNCITRAL); planes prepactados.
-- **Competencia:** jueces de distrito (materia federal — comercio, art. 73-X ⟳).
-- **Normas conexas:** LGSM (responsabilidad de administradores en la zona de insolvencia), leyes
-  financieras (regímenes especiales para bancos y entidades financieras, que tienen procedimientos
-  propios), Ley de Instituciones de Crédito, fiscal (preferencia de créditos fiscales) y laboral
-  (preferencia de créditos laborales).
-
-## 24. Jurisprudencia relevante
-
-> Verificar vigencia antes de citar.
-- **Preferencia de créditos laborales:** confirmación de su lugar destacado en la prelación.
-- **Acciones de ineficacia (retroacción):** criterios sobre la impugnación de actos en fraude de la
-  masa (garantías y pagos preferentes en el periodo de retroacción).
-- **Suspensión de ejecuciones:** alcance de la suspensión y su relación con los acreedores
-  garantizados.
-- **Convenio concursal y vinculación de disidentes:** validez del *cram down* y sus límites
-  (protección de los acreedores minoritarios disidentes).
-- **Reconocimiento de procedimientos extranjeros:** aplicación de la insolvencia transfronteriza.
-
-## 25. Criterios de la Suprema Corte / tribunales
-
-- **Constitucionalidad de la LCM:** validez del régimen concursal y de la suspensión de ejecuciones
-  frente al derecho de los acreedores (interés público en la conservación de empresas).
-- **Equilibrio entre conservación y derechos de los acreedores garantizados:** criterios que buscan
-  preservar la empresa sin vaciar las garantías.
-- **Preferencias (laboral, fiscal, garantía real):** interpretación de la prelación y su jerarquía.
-
-## 26. Doctrina nacional
-
-- **Doctrina sobre la LCM de 2000** (autores que participaron en su redacción y comentaristas): clave
-  por la novedad y tecnicismo del régimen.
-- **Obras clásicas de quiebras** (bajo la antigua Ley de Quiebras de 1943) para el contraste histórico.
-- **Literatura de reestructuración y *distressed*** (más reciente): planes prepactados, *workouts*,
-  financiamiento concursal y *distressed M&A*.
-- **Doctrina mercantil general** (Mantilla Molina, Barrera Graf) para el marco del comerciante y la
-  empresa.
-
-## 27. Doctrina internacional
-
-- **US Bankruptcy Code y su doctrina (Chapter 11):** el modelo de referencia mundial; literatura
-  abundante sobre reorganización, *DIP financing* y *cram down*.
-- **UNCITRAL, *Guía Legislativa sobre el Régimen de la Insolvencia* y Ley Modelo sobre Insolvencia
-  Transfronteriza.**
-- **Directiva UE 2019/1023** sobre reestructuración preventiva y segunda oportunidad.
-- **Doctrina inglesa sobre *schemes of arrangement* y *restructuring plans*** (muy usados en
-  reestructuras internacionales).
-
-## 28. Opiniones críticas (postura del Consejo)
-
-1. **El concurso mexicano sigue siendo lento y subutilizado.** Pese a la filosofía conservativa de la
-   LCM, los tiempos y la incertidumbre llevan a muchas empresas a preferir **workouts extrajudiciales**
-   o a colapsar sin reestructura ordenada; el Consejo aboga por una mayor **agilidad** y uso de los
-   **planes prepactados**.
-2. **La prelación debe respetar las garantías para no encarecer el crédito.** El Consejo subraya que
-   un sistema que **respeta** las garantías reales (y su prelación) **abarata** el crédito de todo el
-   país; debilitarlas (por preferencias excesivas o impugnaciones laxas) tiene un costo macroeconómico.
-3. **La retroacción es un arma de doble filo.** Necesaria contra el fraude, pero usada con laxitud
-   genera **inseguridad** sobre las garantías; el Consejo recomienda tomar garantías **a tiempo** (al
-   originar el crédito) y documentar su causa para resistir impugnaciones.
-
-## 29. Debate doctrinal
-
-- **¿Conservación o liquidación como prioridad?** El modelo moderno prioriza **salvar** la empresa
-  viable, pero hay tensión: ¿hasta cuándo "mantener viva" una empresa inviable, a costa de los
-  acreedores? El **test de viabilidad** es clave.
-- **Prelación: ¿hasta dónde proteger a laborales y fiscales por encima de las garantías?** Proteger al
-  trabajador es justo, pero una preferencia excesiva **erosiona** las garantías y encarece el crédito.
-  El equilibrio es político y económico.
-- **Cram down: ¿vincular a los disidentes es justo?** Necesario para evitar el *holdout* (que un
-  minoritario secuestre la reestructura), pero debe proteger a los disidentes (que no reciban menos que
-  en una liquidación —*best interest test*—).
-- **Deberes de los administradores en la "zona de insolvencia":** cuando la empresa se acerca a la
-  insolvencia, ¿deben los administradores velar por los **acreedores** (no agravar el pasivo) y no solo
-  por los accionistas? Debate de gobierno corporativo y responsabilidad.
-- **Insolvencia transfronteriza: ¿universalismo o territorialismo?** ¿Un solo procedimiento global
-  (universalismo, COMI) o procedimientos locales coordinados (territorialismo)? La Ley Modelo UNCITRAL
-  adopta un universalismo **modificado**.
-
-
-## 30. Errores comunes
-
-- **Tomar garantías tarde (en la víspera de la crisis).** Pueden ser **impugnadas** por retroacción y
-  anuladas; la garantía debe tomarse **al originar** el crédito.
-- **Confiar en cobrar por fuera tras el concurso.** Declarado el concurso, las **ejecuciones
-  individuales se suspenden**; hay que cobrar **dentro**.
-- **Subestimar las preferencias laboral y fiscal.** Pueden anteponerse a las garantías reales en la
-  prelación.
-- **Creer que el quirografario cobra parejo con el garantizado.** No: el garantizado cobra **antes**
-  sobre su bien; el común, al final y a prorrata (casi nada).
-- **Pensar que el concurso es solo liquidación.** La **prioridad** es la **conciliación**
-  (reestructurar y salvar).
-- **Bloquear una reestructura siendo minoría (en concurso).** El ***cram down*** vincula a los
-  disidentes; el *holdout* solo funciona en *workouts* extrajudiciales.
-- **Ignorar la insolvencia transfronteriza** en grupos multinacionales (COMI, reconocimiento).
-
-## 31. Mitos frecuentes
-
-- *"La quiebra es un castigo/delito."* **Falso (hoy):** el fracaso honesto se gestiona; solo el
-  **fraude** se castiga.
-- *"En el concurso, el más rápido en embargar gana."* **Falso:** se **suspenden** las ejecuciones; rige
-  el principio **colectivo**.
-- *"Tener una garantía garantiza cobrar todo."* **Matiz:** cobras con preferencia **sobre tu bien**,
-  pero después de laborales/fiscales aplicables, y solo si la garantía fue **bien tomada y a tiempo**.
-- *"El concurso siempre destruye la empresa."* **Falso:** la **conciliación** busca **salvarla** (y la
-  venta como unidad conserva la operación).
-- *"Comprar una empresa en concurso es comprar sus problemas."* **No necesariamente:** el *distressed
-  M&A* puede adquirir activos/empresa "**limpios**" de pasivos.
-
-## 32. Preguntas difíciles
-
-1. ¿Hasta cuándo conviene **mantener viva** una empresa en concurso? ¿Cómo se mide su **viabilidad**?
-2. ¿Es justo que los **créditos laborales y fiscales** se antepongan a las **garantías reales**? ¿Cuál
-   es el costo macroeconómico de debilitar las garantías?
-3. ¿El ***cram down*** (vincular a disidentes) respeta los derechos de los acreedores minoritarios?
-   ¿Qué protecciones lo legitiman (*best interest test*)?
-4. ¿Debería México facilitar más los **workouts** y los **planes prepactados** para ganar velocidad,
-   reduciendo el papel del tribunal?
-5. ¿Qué deberes tienen los **administradores** en la "zona de insolvencia": seguir maximizando para los
-   accionistas o proteger a los acreedores?
-
-## 33. Casos de examen (con respuesta modelo)
-
-**P1.** *¿Cuál es el presupuesto del concurso mercantil?* **R.** El **incumplimiento generalizado** de
-pagos (a dos o más acreedores) que rebase los umbrales del art. 10 ⟳ LCM (vencidas ≥35% del total, o sin
-activos para cubrir el 80% de las vencidas). No basta un solo impago.
-
-**P2.** *¿Cuáles son las dos etapas y sus finalidades?* **R.** La **conciliación** (finalidad:
-**conservar** la empresa mediante convenio con los acreedores) y, en su defecto, la **quiebra**
-(finalidad: **liquidar** y pagar conforme a la prelación).
-
-**P3.** *Explique la prelación de acreedores.* **R.** Orden de pago: singularmente privilegiados →
-(con preferencia destacada, **laborales** del último año) → **con garantía real** (sobre su bien) →
-**fiscales** → con privilegio especial → **comunes** (a prorrata). Los gastos del concurso se pagan con
-prioridad.
-
-**P4.** *¿Qué es la retroacción y para qué sirve?* **R.** El periodo previo a la sentencia en que los
-actos del deudor **en fraude de la masa** (garantías por deudas previas, pagos preferentes, ventas a
-bajo precio) pueden declararse **ineficaces**, para proteger la igualdad de los acreedores.
-
-**P5.** *¿Qué es el cram down?* **R.** El mecanismo por el que el convenio concursal, aprobado por las
-**mayorías** legales y **homologado**, **vincula incluso a los acreedores disidentes**, evitando que
-una minoría bloquee la reestructura (con protección de que reciban al menos lo que obtendrían en
-liquidación).
-
-## 34. Simulador (ejercicio tipo despacho)
-
-> **Rol:** asociado de reestructuración. **Cliente:** un **banco** acreedor de "Manufacturas del
-> Bajío, S.A." por $300M, **garantizado** con hipoteca (planta) y prenda (maquinaria), **bien
-> inscritas hace 4 años**. La empresa entró en concurso; debe también $80M a proveedores
-> (quirografarios), $40M de salarios e indemnizaciones del último año, y $30M al SAT. El conciliador
-> propone una reestructura (quita del 25%, espera de 4 años). Un fondo de *distressed* compró $50M de
-> deuda quirografaria y quiere bloquear el convenio.
->
-> **Tarea:** asesora al banco: (1) ¿en qué **rango de la prelación** cobra y qué tan protegidas están
-> sus garantías (laborales y fiscales primero)?; (2) ¿le conviene **apoyar la conciliación** (quita/
-> espera) o empujar a la **quiebra** (liquidar y cobrar sobre sus bienes)? Compara la recuperación
-> esperada en cada escenario; (3) ¿pueden anularse sus garantías por **retroacción** (se tomaron hace
-> 4 años: ¿están a salvo?)?; (4) ¿puede el fondo *distressed* **bloquear** el convenio o lo vincula el
-> ***cram down***?; (5) propón la estrategia (votar el convenio, negociar mejores términos, ejecutar
-> garantías). Concluye con la recomendación y su fundamento.
-
-*(Pista de evaluación: la mejor respuesta ubica al banco como **acreedor con garantía real** (cobra
-sobre sus bienes, tras laborales/fiscales aplicables); nota que las garantías de **hace 4 años** están
-**fuera** del periodo de retroacción (a salvo); explica que el fondo disidente queda vinculado por el
-**cram down**; y compara recuperación en conciliación vs. quiebra para decidir el voto.)*
-
-## 35. Flashcards
-
-- **¿Presupuesto del concurso?** → Incumplimiento **generalizado** (umbrales del art. 10 ⟳).
-- **¿Dos etapas?** → Conciliación (salvar) → Quiebra (liquidar).
-- **¿Finalidad prioritaria?** → **Conservar** la empresa.
-- **¿Quién media en la conciliación / quién liquida?** → Conciliador / síndico (designados por el
-  IFECOM).
-- **¿Prelación (orden)?** → Singularmente privilegiados → laborales → garantía real → fiscales →
-  privilegio especial → comunes.
-- **¿Dónde cobra el acreedor con garantía real?** → Con preferencia **sobre su bien** (tras laborales/
-  fiscales aplicables).
-- **¿Qué es la retroacción?** → Anular actos en fraude de la masa previos a la sentencia.
-- **¿Cram down?** → El convenio vincula a los disidentes.
-- **¿Suspensión de ejecuciones?** → Declarado el concurso, se cobra **dentro** (principio colectivo).
-- **¿Convenio concursal?** → Acuerdo de reestructura (quita/espera/conversión) homologado.
-- **¿Distressed M&A?** → Comprar empresa/activos en concurso (a precio de crisis, "limpios").
-- **¿COMI?** → Centro de intereses principales (insolvencia transfronteriza).
-
-## 36. Mapas mentales
-
-```
-CONCURSO MERCANTIL (LCM)
-├── PRESUPUESTO: incumplimiento generalizado (art. 10) + comerciante
-├── APERTURA: solicitud/demanda → visitador → SENTENCIA de concurso
-├── EFECTOS
-│   ├── Suspensión de ejecuciones (principio colectivo)
-│   ├── Reconocimiento, graduación y PRELACIÓN de créditos
-│   ├── Administración (deudor en conciliación / síndico en quiebra)
-│   └── Separación de bienes · contratos pendientes
-├── ETAPA 1: CONCILIACIÓN (salvar)
-│   └── Conciliador → CONVENIO (quita/espera/conversión) → homologación + CRAM DOWN
-├── ETAPA 2: QUIEBRA (liquidar)
-│   ├── Síndico → vende (idealmente empresa como UNIDAD)
-│   └── PRELACIÓN: singular. priv. → LABORALES → garantía REAL → fiscales → priv. especial → comunes
-├── RETROACCIÓN: anular actos en fraude de la masa (⚠ garantías tardías)
-└── REESTRUCTURACIÓN MODERNA
-    └── Pre-pack · workout extrajudicial · distressed M&A / debt · insolvencia transfronteriza (COMI)
-```
-
-## 37. Cuadros comparativos
-
-**Conciliación vs. quiebra**
-
-| | Conciliación | Quiebra |
-|---|---|---|
-| Finalidad | Conservar (reestructurar) | Liquidar |
-| Instrumento | Convenio concursal | Venta de bienes |
-| Administración | Deudor (con vigilancia) | Síndico |
-| Resultado | Empresa sobrevive | Empresa se liquida |
-
-**Prelación (orden de pago)**
-
-| Rango | Acreedores | Cobran |
-|---|---|---|
-| 1 | Singularmente privilegiados | Primero (montos menores) |
-| — | **Laborales** (último año) | Preferencia destacada |
-| 2 | **Con garantía real** | Sobre el bien gravado |
-| — | Fiscales | Preferencia especial |
-| 3 | Con privilegio especial | Sobre ciertos bienes |
-| 4 | **Comunes** (quirografarios) | Al final, a prorrata |
-
-**Workout vs. concurso**
-
-| | Workout (extrajudicial) | Concurso (judicial) |
-|---|---|---|
-| Tribunal | No | Sí |
-| Velocidad | Rápido | Más lento |
-| Vincula a disidentes | No (riesgo de *holdout*) | Sí (cram down) |
-| Confidencialidad | Alta | Pública |
-
-## 38. Diagramas
+## 13. Herramientas de trabajo
 
 **Flujo del concurso:**
 ```
@@ -807,213 +191,61 @@ Incumplimiento generalizado → solicitud/demanda → VISITADOR → sentencia de
    → CONCILIACIÓN (convenio + cram down) ──éxito──► empresa sobrevive
                          │ fracaso/plazo
                          ▼
-                      QUIEBRA → síndico vende → PAGO según PRELACIÓN
+                      QUIEBRA → síndico vende (empresa como unidad) → PAGO según PRELACIÓN
 ```
 
 **¿Mi garantía sobrevive al concurso?**
 ```
-¿Garantía real bien constituida, perfeccionada e INSCRITA? 
-   │ no → quirografario (cobro a prorrata)
+¿Garantía real bien constituida, perfeccionada e INSCRITA?  ── no → quirografario (a prorrata)
    │ sí
-   ▼
-¿Se tomó FUERA del periodo de retroacción (a tiempo, no en la víspera)?
-   │ no → impugnable (ineficaz) → quirografario
+¿Se tomó FUERA del periodo de retroacción (a tiempo, no en la víspera)?  ── no → ineficaz → quirografario
    │ sí
-   ▼
 Cobro con PREFERENCIA sobre el bien (tras laborales/fiscales aplicables) ✔
 ```
 
-## 39. Mnemotecnias
+**Checklist esencial:**
+- [ ] **Acreedor:** ¿garantía real **perfeccionada, inscrita y a tiempo** (fuera de retroacción)? ¿En qué
+  **rango** cobro (¿preferencias laborales/fiscales por delante?)? ¿Cobro **dentro** del concurso? ¿Me
+  conviene **conciliación** o **quiebra** (comparar recuperación)? ¿Me vincula el **cram down**?
+- [ ] **Empresa en crisis:** ¿es viable? ¿**conciliación**, **workout** o **pre-pack**? ¿**financiamiento
+  durante el concurso**? ¿los administradores cuidan sus **deberes en la zona de insolvencia**?
+- [ ] **Inversionista distressed:** ¿comprar **deuda** (loan-to-own) o **activos/empresa** (distressed
+  M&A)? ¿La compra es "**limpia**" de pasivos? ¿Riesgo de impugnación?
 
-- **Finalidades (en orden):** *"primero SALVAR (conciliación), luego LIQUIDAR (quiebra)"*.
-- **Prelación:** **"La-Ga-Fi-Co"** → **La**borales, **Ga**rantía real, **Fi**scales, **Co**munes (con
-  los singularmente privilegiados al frente).
-- **Garantía:** *"a tiempo y bien inscrita, o en el concurso no sirve"* (retroacción).
-- **Cram down:** *"la mayoría arrastra al que dijo que no"*.
-- **Colectivo:** *"declarado el concurso, nadie cobra por fuera"*.
-- **Conservación:** *"la empresa viva vale más que sus pedazos"*.
-- **Distressed:** *"comprar barato en la crisis, a veces limpio de pasivos"*.
+**Flashcards:**
+- *Presupuesto* → incumplimiento **generalizado** (umbrales del art. 10 ⟳).
+- *Dos etapas* → conciliación (salvar) → quiebra (liquidar).
+- *Finalidad prioritaria* → **conservar** la empresa.
+- *Conciliador / síndico* → media y reestructura / administra y liquida (designados por el IFECOM).
+- *Prelación (La-Ga-Fi-Co)* → **La**borales, **Ga**rantía real, **Fi**scales, **Co**munes (singularmente privilegiados al frente).
+- *Retroacción* → anular actos en fraude de la masa previos a la sentencia.
+- *Cram down* → el convenio vincula a los disidentes.
+- *Suspensión de ejecuciones* → declarado el concurso, se cobra **dentro** (principio colectivo).
+- *Distressed M&A / debt* → comprar empresa/activos o deuda en la crisis.
+- *COMI* → centro de intereses principales (insolvencia transfronteriza).
 
+**Simulador (tipo despacho).**
+> **Rol:** asesoras a un **banco** acreedor de "Manufacturas del Bajío, S.A." por $300M, **garantizado** con
+> hipoteca (planta) y prenda (maquinaria) **bien inscritas hace 4 años**. La empresa entró en concurso; debe
+> además $80M a proveedores (quirografarios), $40M de salarios del último año y $30M al SAT. El conciliador
+> propone quita del 25% y espera de 4 años; un fondo *distressed* compró $50M de deuda quirografaria y quiere
+> **bloquear** el convenio. **Entrega:** ¿en qué **rango** cobra el banco y qué tan protegidas están sus
+> garantías?; ¿le conviene **apoyar la conciliación** o empujar la **quiebra** (compara recuperación)?;
+> ¿pueden anularse sus garantías por **retroacción** (4 años: ¿a salvo?)?; ¿puede el fondo **bloquear** o lo
+> vincula el **cram down**?; propón la estrategia. *Pista: garantías de 4 años están fuera de retroacción; el
+> fondo disidente queda vinculado por el cram down; cobra sobre sus bienes tras laborales/fiscales.*
 
-## 40. Resumen ejecutivo
+## 14. Bibliografía por niveles
 
-El **concurso mercantil** es el derecho de la empresa insolvente: un procedimiento **colectivo** y
-**universal** (todos los acreedores, todos los bienes) que, ante el **incumplimiento generalizado** de
-pagos, persigue dos finalidades **en orden**: **primero conservar** la empresa viable —la
-**conciliación**, que reestructura la deuda mediante un **convenio** (quitas, esperas, conversión)
-vinculante incluso para los disidentes (***cram down***)— y, si fracasa, **liquidar** ordenadamente
-—la **quiebra**, donde el síndico vende los bienes (idealmente la empresa **como unidad**) y paga
-conforme a la **prelación**—. La prelación es el corazón de la materia: cobran primero los
-**singularmente privilegiados** y los **laborales** (preferencia destacada), luego los acreedores
-**con garantía real** (sobre su bien), los **fiscales** y los de privilegio especial, y al final los
-**comunes** a prorrata. La declaración de concurso **suspende** las ejecuciones individuales y abre la
-posibilidad de **anular** (retroacción) los actos en fraude de la masa —incluidas las **garantías
-tomadas tarde**—.
+- **Derecho positivo (MX):** LCM (2000, reformas 2007 y 2014) y su doctrina; en [`fuentes-legales/`](../../fuentes-legales/).
+- **Modelo mundial:** US Bankruptcy Code (Chapter 11) y su literatura.
+- **Fundacional / debate:** Thomas Jackson, *The Logic and Limits of Bankruptcy Law*; Baird & Rasmussen, *The End of Bankruptcy*.
+- **Internacional:** UNCITRAL, *Ley Modelo sobre Insolvencia Transfronteriza* y *Guía Legislativa*; Directiva UE 2019/1023; Dávalos Mejía, *Títulos y contratos de crédito, quiebras*.
 
-Para el abogado corporativo, este libro es la **prueba de fuego de las garantías** (Libro 4 Nivel II):
-el día de la insolvencia se descubre quién las tomó bien, a tiempo y perfeccionadas (y cobra) y quién
-quedó como quirografario (y no cobra). De ahí su doble enseñanza: **proteger al acreedor antes de la
-crisis** (garantías reales, oportunas y bien inscritas) y **navegar la crisis** cuando llega
-(reestructurar vía conciliación o *workout*, o aprovecharla vía ***distressed M&A*** y *distressed
-debt*). Es una especialidad técnica y de alto valor en banca, reestructuración y private equity, y la
-penúltima pieza del Nivel III antes del gobierno corporativo y del salto al Corporate Law.
+## 15. Ruta al siguiente libro
 
-## 41. Checklist
+Ya sabes navegar el **peor día** de la empresa —y prepararte para él—. Falta un libro para cerrar el Nivel
+III: el **gobierno corporativo**, que busca **prevenir** la crisis con buenos consejos y deberes fiduciarios,
+y que es la puerta directa al Corporate Law.
 
-**Para el acreedor (antes y durante la crisis):**
-- [ ] ¿Tomé **garantía real**, bien **perfeccionada e inscrita**, y **a tiempo** (fuera de
-  retroacción)?
-- [ ] ¿En qué **rango** de la prelación cobro? ¿Hay preferencias laborales/fiscales por delante?
-- [ ] Declarado el concurso, ¿estoy cobrando **dentro** (no por ejecución individual)?
-- [ ] ¿Me conviene **apoyar la conciliación** (reestructura) o empujar la **quiebra**? (comparar
-  recuperación)
-- [ ] ¿Puede el ***cram down*** vincularme, o puedo influir en el convenio?
-
-**Para la empresa en crisis:**
-- [ ] ¿Es viable? ¿Conviene **conciliación**, **workout** o **plan prepactado**?
-- [ ] ¿Puedo obtener **financiamiento durante el concurso** para seguir operando?
-- [ ] ¿Los administradores están cuidando sus **deberes en la zona de insolvencia** (no agravar el
-  pasivo, no preferir indebidamente)?
-
-**Para el inversionista (distressed):**
-- [ ] ¿Conviene comprar **deuda** (distressed debt / loan-to-own) o **activos/empresa** (distressed
-  M&A)?
-- [ ] ¿La compra es "**limpia**" de pasivos? ¿Riesgo de impugnación?
-
-## 42. Bibliografía comentada
-
-- **Ley de Concursos Mercantiles (2000, reformas 2007 y 2014) y su doctrina.** El derecho positivo;
-  estúdialo con el texto vigente y los comentarios a las reformas (planes prepactados,
-  financiamiento).
-- **US Bankruptcy Code — Chapter 11 (y su literatura).** El modelo mundial de la reorganización;
-  indispensable para entender la filosofía conservativa y el *distressed* internacional.
-- **UNCITRAL, *Guía Legislativa sobre el Régimen de la Insolvencia* y *Ley Modelo sobre Insolvencia
-  Transfronteriza*.** Para el marco internacional y la coordinación de grupos multinacionales.
-- **Directiva UE 2019/1023** sobre reestructuración preventiva y segunda oportunidad.
-- **Doctrina mexicana de reestructuración y *distressed*** (reciente): para los *workouts*, los
-  prepacks y el *distressed M&A*.
-
-## 43. Ruta hacia el siguiente libro
-
-Lo que acabas de aprender —cómo se reestructura o liquida la empresa insolvente y cómo se reparte entre
-acreedores— será **indispensable para comprender** el último libro del Nivel III: el **gobierno
-corporativo**, que busca, entre otras cosas, **prevenir** la crisis mediante buenos consejos, control y
-deberes fiduciarios, y que es el puente directo al Corporate Law.
-
-- **Siguiente libro:** *[Nivel III · Libro 7] Gobierno Corporativo (mercantil)* — consejo de
-  administración, deberes de diligencia y lealtad, comités, protección de minorías y control;
-  consolida lo visto en Sociedades (LGSM) y LMV y abre el Nivel IV.
-- **Conexión de largo alcance:** el ***distressed M&A***, el *distressed debt* y la reestructuración
-  reaparecen, con plena potencia, en el **Nivel IV** (private equity, special situations) y en el
-  **financiamiento de adquisiciones**. Vuelve a las secciones 14.D, 14.E y 14.F cuando llegues allí.
-
----
-
-## ✦ ¿Por qué esto importa para un abogado corporativo?
-
-Porque el concurso es **el día de la verdad de todo lo que el abogado estructuró antes**. El crédito,
-las garantías, los contratos, la estructura societaria: todo se pone a prueba cuando la empresa no
-puede pagar. El abogado que entiende la **prelación** y la **retroacción** diseña financiamientos que
-**sí cobran** en la insolvencia (garantías reales, oportunas y bien inscritas); el que no, deja a su
-cliente como quirografario. Además, la **reestructuración** (salvar empresas viables) y el
-***distressed M&A*** (comprar en la crisis) son nichos de **altísimo valor** en banca y private
-equity. Y para el lado del deudor, saber cuándo y cómo acogerse al concurso (o reestructurar
-extrajudicialmente) puede salvar a la empresa y a los empleos. Es una de las materias que más
-distingue al abogado de negocios completo.
-
-## ✦ Cómo piensa un socio de un despacho internacional
-
-> *"Cuando estructuro un financiamiento, no pienso en el día del pago puntual, sino en el **peor día**:
-> la **quiebra** del deudor. Me pregunto: ¿mi garantía real está **bien tomada, perfeccionada e
-> inscrita**, y **a tiempo** (fuera del periodo de retroacción)? ¿En qué **rango** de la prelación
-> caigo —después de laborales y fiscales—? Porque ese día se separa al acreedor que **recupera** del
-> que **mira cómo otros cobran**. Cuando la crisis llega, decido rápido: ¿la empresa es **viable**
-> (entonces reestructuro: conciliación, *workout* o *pre-pack*, usando el *cram down* para vencer a los
-> *holdouts*) o no (entonces ejecuto y cobro sobre mi colateral)? Y como inversionista *distressed*,
-> veo oportunidad: comprar **deuda** con descuento para hacer *loan-to-own*, o comprar la **empresa
-> en concurso** limpia de pasivos. El concurso, bien entendido, es tanto un riesgo a blindar como una
-> oportunidad a capturar."*
-
-## ✦ Errores que cuestan millones
-
-1. **Tomar garantías en la víspera de la insolvencia.** Constituir una hipoteca o prenda por una deuda
-   preexistente justo antes del concurso las expone a ser **anuladas por retroacción**: el acreedor
-   pasa de garantizado a quirografario. Pérdida potencial: todo el colateral. *Prevención:* garantías
-   **al originar** el crédito.
-2. **Descuidar el perfeccionamiento/inscripción de la garantía.** Una garantía no inscrita puede ser
-   inoponible y degradar al acreedor a común en el concurso. *Prevención:* perfeccionar e inscribir
-   (Libro 4 Nivel II).
-3. **Empujar a la liquidación una empresa viable.** Liquidar "en pedazos" una empresa que podía salvarse
-   destruye el goodwill y reduce la recuperación de **todos** (incluido el propio acreedor).
-   *Prevención:* evaluar la viabilidad y favorecer la **conciliación**/venta como unidad.
-4. **Confiar en un *workout* con un acreedor díscolo.** Sin *cram down* judicial, un *holdout* puede
-   **bloquear** la reestructura extrajudicial. *Prevención:* usar el concurso (o un *pre-pack*) cuando
-   el consenso no es total.
-5. **Ignorar la insolvencia transfronteriza.** En grupos multinacionales, no coordinar los
-   procedimientos (COMI, reconocimiento) genera pérdidas y litigios paralelos.
-
----
-
-> *Cierre del Libro.* Has aprendido a navegar el **peor día** de la empresa —y a prepararte para él
-> antes de que llegue—. Con esto dominas el ciclo completo del crédito: nace (obligaciones), circula
-> (títulos), se garantiza (garantías) y, si todo falla, se resuelve en el **concurso**. Solo resta un
-> libro para cerrar el Nivel III: el **gobierno corporativo**, que busca **prevenir** la crisis con
-> buenos consejos y deberes fiduciarios, y que es la puerta directa al **Nivel IV: Corporate Law y
-> M&A**. El objetivo está cada vez más cerca.
-
-
----
-
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-La insolvencia es un **juego de suma (casi) cero** por el valor que queda: el derecho concursal decide **quién cobra, cuánto y en qué orden**, y si la empresa se **reorganiza** (conciliación) o se **liquida** (quiebra). El socio piensa en **posición relativa**: dónde queda su cliente en la prelación, si su garantía resiste, y si conviene empujar la reestructura o la venta. Aquí el tiempo destruye valor: la velocidad es estrategia.
-
-### Doctrina y debate
-- ***Creditors' bargain theory* (Thomas Jackson):** el derecho concursal simula el acuerdo que los acreedores habrían pactado *ex ante* para evitar la "carrera" por los activos.
-- ***Absolute priority rule*:** los acreedores cobran antes que los accionistas; debate sobre sus excepciones (*new value*).
-- **Reorganización vs. liquidación:** ¿preservar la empresa en marcha (valor going concern) o liquidar? El sesgo pro-reorganización de la LCM y del Chapter 11 tiene críticos.
-
-### Derecho comparado
-El **Chapter 11** estadounidense (deudor en posesión, *DIP financing*, *automatic stay*) es el modelo global de reorganización. La **LCM** mexicana (conciliación + quiebra, IFECOM) se inspira en él y en la **Ley Modelo UNCITRAL** sobre insolvencia transfronteriza. Reino Unido usa *administration* y *schemes of arrangement*.
-
-### Caso real
-**Vitro (2010-2013) ⚠️ *verificar*:** célebre caso **transfronterizo** donde un concurso mexicano chocó con acreedores en EE. UU. (reconocimiento, *comity*, trato a garantías intragrupo). **Aeroméxico** y **Grupo Oro Negro** litigaron su reestructura entre México y el Chapter 11. Lección: la insolvencia moderna es **multijurisdiccional**; quien domina ambas sillas gana.
-
-### Errores que cuestan millones
-- Llegar tarde: no detectar el **incumplimiento generalizado** (art. 10 LCM ⟳) y perder opciones de reestructura.
-- Descuidar la **perfección de garantías** antes de la insolvencia (se vuelven quirografarias).
-
-### Preguntas
-- **Criterio:** ¿el derecho debe favorecer reorganizar o liquidar a la empresa insolvente?
-- **Entrevista:** ¿qué es el *automatic stay* y por qué cambia la negociación?
-- **Examen:** distinga las etapas de conciliación y quiebra en la LCM.
-
-### Bibliografía por niveles
-- **Básico:** Dávalos Mejía, *Títulos y contratos de crédito, quiebras*.
-- **Intermedio:** análisis de la LCM y del IFECOM.
-- **Avanzado:** Thomas Jackson, *The Logic and Limits of Bankruptcy Law*.
-- **Internacional:** UNCITRAL Model Law on Cross-Border Insolvency; US Bankruptcy Code (Chapter 11).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El derecho concursal resuelve un **problema de acción colectiva**: ante un deudor insolvente, cada acreedor tiene incentivo a cobrar primero (la "carrera al patrimonio"), lo que destruye valor —desmantela una empresa que valdría más operando (*going concern*) que liquidada en pedazos. La ***creditors' bargain theory*** de **Thomas Jackson** explica el concurso como el acuerdo que los acreedores habrían pactado *ex ante* para evitar esa carrera: un procedimiento colectivo, ordenado y con *stay*.
-
-**El debate.** **Reorganización vs. liquidación**: el Chapter 11 y la LCM tienen sesgo pro-reorganización (preservar empleo y empresa). Los críticos (Baird, escuela de Chicago) sostienen que muchas reorganizaciones **mantienen vivos "zombis"** que deberían liquidarse, y que el mercado de M&A de empresas en dificultades asigna mejor los activos. Debate paralelo: **prioridad absoluta** (accionistas cobran al final) vs. las excepciones (*new value*) que permiten al accionista-gestor conservar algo si aporta capital fresco.
-
-**Mirada de AED.** El *automatic stay* (suspensión) evita la destrucción de valor por ejecuciones descoordinadas; la **regla de prioridad absoluta** preserva los incentivos ex ante del crédito (si el acreedor supiera que cobrará después del accionista, no prestaría). El *DIP financing* (financiamiento al deudor en posesión, con superprioridad) resuelve el *debt overhang*: nadie prestaría a un insolvente sin esa prioridad.
-
-**Comparado y lección para México.** El **Chapter 11** (deudor en posesión, *cram-down*, *stay*) es el modelo global; el Reino Unido usa *administration* y *schemes/restructuring plans*; la LCM mexicana (conciliación + quiebra) se inspira en el Chapter 11 y en la **Ley Modelo UNCITRAL** de insolvencia transfronteriza. **Lección:** México necesita jueces concursales más especializados y rápidos —el tiempo es el enemigo del valor.
-
-**Crítica.** La LCM ha sido criticada por **lentitud** y por captura por acreedores sofisticados. El *forum shopping* transfronterizo (elegir la jurisdicción más favorable) y el trato a garantías intragrupo generan litigios de reconocimiento (*comity*).
-
-**Jurisprudencia y operación real.** **Vitro** (2010-2013 ⚠️): choque México–EE. UU. sobre reconocimiento y garantías intragrupo, leading case de insolvencia transfronteriza. **Aeroméxico** y **Oro Negro** litigaron entre la LCM y el Chapter 11. En la práctica, el acreedor con **garantía real perfeccionada** cobra; el quirografario reza. La insolvencia moderna es multijurisdiccional: quien domina las dos sillas gana.
-
-**Para leer más:** Thomas Jackson, *The Logic and Limits of Bankruptcy Law* (1986); Baird & Rasmussen, *The End of Bankruptcy* (Stan. L. Rev., 2002); UNCITRAL Model Law on Cross-Border Insolvency.
+- **Siguiente:** *[Libro 7 · Gobierno Corporativo](./07-Gobierno-Corporativo.md)* — consejo, deberes de diligencia y lealtad, comités, protección de minorías y control; consolida Sociedades (LGSM) y LMV y abre el Nivel IV. El ***distressed M&A***, el *distressed debt* y la reestructuración reaparecen con plena potencia en el **Nivel IV** (private equity, special situations, financiamiento de adquisiciones).
