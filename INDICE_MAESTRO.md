@@ -34,7 +34,9 @@
 | [**Mapa de Artículos**](./MAPA-DE-ARTICULOS.md) | Tablero: cada artículo citado → tratado donde se explica → estado ✅/⚠️. Dashboard de verificación y repaso. |
 | [**Banco de Formatos**](./Banco-de-Formatos/) | Plantillas reales listas para practicar: term sheet, SPA, acta de asamblea, pagaré, escrito de amparo, contrato. |
 | [**Banco de Jurisprudencia**](./Banco-de-Jurisprudencia/) | Criterios y tesis clave de la SCJN por rama, con su fuente para verificar en el SJF. |
-| [tools/](./tools/) | Utilidades del proyecto: `doc2txt` (.doc→UTF-8), `semaforo`, `apostrofe`, `callout`. |
+| [tools/](./tools/) | Utilidades del proyecto: `doc2txt` (.doc→UTF-8), `semaforo`, `apostrofe`, `callout`, `build_libro`. |
+| [**Consejo Editorial**](./Consejo-Editorial/) | Estándar de élite: el **prompt** que convoca a un consejo editorial internacional para elevar cada capítulo + la **Plantilla de Capítulo de Élite** (18 secciones) como molde y checklist de calidad. |
+| [**El Libro (imprimible)**](./LIBRO/) | *Manual para Ejercer el Derecho Corporativo*: toda la obra compilada en un HTML estético (tipo Porrúa) con botón para generar el PDF. |
 
 ---
 
