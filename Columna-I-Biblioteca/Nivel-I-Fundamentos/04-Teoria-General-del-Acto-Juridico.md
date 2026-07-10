@@ -159,7 +159,7 @@ La teoría ordena un conjunto de problemas prácticos:
 - **Objeto:** lo que se debe (la cosa o la conducta); debe existir o poder existir, estar en
   el comercio y ser determinado o determinable.
 - **Causa / motivo determinante:** la razón o fin del acto; en México el fin o motivo
-  determinante debe ser lícito (art. 1795, fr.  ⟳III, e interpretación de los arts. 1830 y
+  determinante debe ser lícito (art. 1795, fr. III ⟳, e interpretación de los arts. 1830 y
   1831 CCF ⟳).
 - **Vicios del consentimiento:** **error**, **dolo**, **mala fe**, **violencia** (física o
   moral) y **lesión**.
