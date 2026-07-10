@@ -956,3 +956,24 @@ El **Artículo 9 del UCC** (EE. UU.) unificó las garantías mobiliarias bajo el
 - **Intermedio:** Domínguez Martínez, *Derecho civil. Contratos*.
 - **Avanzado:** Vásquez del Mercado, *Contratos mercantiles* (garantías).
 - **Internacional:** UCC Article 9; Ley Modelo Interamericana sobre Garantías Mobiliarias (OEA).
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** Las garantías existen para resolver el **problema fundamental del crédito**: prestar es entregar valor hoy contra una promesa futura, y la promesa puede incumplirse. La garantía real reduce el **riesgo de crédito** (dando un activo del que cobrarse) y el **costo del crédito** (menor riesgo = menor tasa). Sin garantías eficientes, el crédito es caro y escaso: por eso su diseño es infraestructura del desarrollo económico.
+
+**El debate.** **Formalidad/desposesión vs. agilidad:** la prenda clásica exigía entregar la cosa (desposesión), lo que paralizaba el activo productivo; la **prenda sin transmisión de posesión** y el fideicomiso de garantía permiten financiar sin detener la operación —a costa de mayor riesgo de ocultamiento. Debate de la **prohibición del pacto comisorio** (el acreedor no puede quedarse la cosa automáticamente): protege al deudor de abusos, pero **ralentiza** la ejecución; de ahí la presión por ejecución extrajudicial y "pactos marcianos".
+
+**Mirada de AED.** La **prelación** (quién cobra primero) y la **perfección** (dar publicidad frente a terceros) resuelven un problema de información y de acción colectiva entre acreedores. El **UCC Art. 9** (EE. UU.) demostró que un sistema de registro único (*first-to-file*) y garantías flotantes reduce drásticamente el costo del crédito —una de las reformas jurídicas de mayor impacto económico del siglo XX.
+
+**Comparado y lección para México.** El UCC Art. 9 y la **Ley Modelo Interamericana de Garantías Mobiliarias (OEA)** inspiraron el **RUG** mexicano. **Lección:** la garantía solo vale si es **perfeccionable y ejecutable rápido**; México avanzó con el RUG, pero la **ejecución** sigue siendo lenta —ahí está la frontera de reforma.
+
+**Crítica.** La prohibición del pacto comisorio y la lentitud de la ejecución judicial encarecen el crédito (el acreedor "precifica" el costo de ejecutar). Del otro lado, la ejecución extrajudicial expone al deudor a abusos.
+
+**Jurisprudencia y operación real.** En reestructuras (Vitro, Aeroméxico ⚠️), la diferencia entre recuperar 90 o 10 centavos por peso estuvo en la **perfección y prelación** de la garantía. En la práctica, el abogado de financiamiento vive obsesionado con perfeccionar e inscribir: una garantía no perfeccionada no existe frente a terceros.
+
+**Para leer más:** UCC Article 9; Ley Modelo Interamericana sobre Garantías Mobiliarias (OEA); Wood, *Comparative Law of Security Interests and Title Finance*.

@@ -752,3 +752,24 @@ Las **ABA Model Rules of Professional Conduct** (EE. UU.) y el ***attorney-clien
 - **Intermedio:** Pérez Fernández del Castillo, *Ética jurídica*.
 - **Avanzado:** Wasserstrom, *Lawyers as Professionals: Some Moral Issues*.
 - **Internacional:** ABA *Model Rules*; Coffee, *Gatekeepers*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La ética profesional existe porque el abogado tiene un **doble deber en tensión**: lealtad al cliente y deber con la justicia y el sistema. El secreto profesional y el privilegio abogado-cliente no protegen al abogado: protegen la **confianza** sin la cual el cliente no diría la verdad a quien debe defenderlo (fundamento sistémico, no personal). El abogado corporativo es además ***gatekeeper***: su opinión valida operaciones ante el mercado.
+
+**El debate.** **El "rol amoral" (Wasserstrom):** ¿puede el abogado hacer por el cliente lo que sería inmoral hacer por sí mismo? La visión "estándar" del rol dice sí (defensa celosa dentro de la ley); los críticos exigen responsabilidad moral por las consecuencias. Debate del *gatekeeper* (Coffee): ¿debe el abogado **denunciar** al cliente que comete fraude (deber con terceros/mercado) o guardar el secreto (deber con el cliente)? Sarbanes-Oxley y las reglas *up-the-ladder* inclinaron la balanza hacia el deber sistémico.
+
+**Mirada de AED.** El abogado-*gatekeeper* tiene "capital reputacional" que presta a las transacciones; cuando falla (Enron/Andersen), colapsa el mercado que dependía de su verificación. El conflicto de interés es un problema de agencia: el abogado que sirve a dos amos maximiza mal. Las reglas éticas alinean incentivos y protegen el bien público de la confianza.
+
+**Comparado y lección para México.** Las **ABA Model Rules** y el *privilege* estadounidense son el estándar más desarrollado; la UE matiza el privilegio del abogado interno (*Akzo Nobel*). México tiene deontología dispersa y débil *enforcement* colegial. **Lección:** la profesión mexicana ganaría con **colegiación y disciplina** efectivas; sin consecuencias, el código de ética es decorativo.
+
+**Crítica.** La defensa "celosa" puede degenerar en **complicidad**; y el secreto profesional, en escudo de la ilegalidad. La crítica pide más responsabilidad del abogado como filtro, sin destruir la confianza que lo hace útil.
+
+**Jurisprudencia y operación real.** **Enron/Arthur Andersen** (2002): el colapso del *gatekeeper*. En **FTX**, asesores señalados por validar lo invalidable. En la práctica, el conflicto de interés no revelado y la asistencia a estructuras sin sustancia son las dos vías por las que el abogado pasa de asesor a partícipe.
+
+**Para leer más:** Wasserstrom, *Lawyers as Professionals: Some Moral Issues*; Coffee, *Gatekeepers* (2006); ABA *Model Rules of Professional Conduct*.

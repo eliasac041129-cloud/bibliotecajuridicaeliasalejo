@@ -908,3 +908,24 @@ El **negocio jurídico** (alemán, *Rechtsgeschäft*) es más abstracto que el *
 - **Intermedio:** Gutiérrez y González, *Derecho de las Obligaciones*.
 - **Avanzado:** Betti, *Teoría general del negocio jurídico*.
 - **Internacional:** Von Tuhr, *Derecho Civil. Teoría general del Derecho Civil alemán*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El acto jurídico es el instrumento con que la **autonomía privada** crea derecho para sí misma: contratar, testar, votar en asamblea, aportar capital. Su teoría existe para determinar cuándo esa creación es **válida y eficaz** —y cuándo el ordenamiento la desconoce (nulidad). Es el átomo de toda operación corporativa.
+
+**El debate.** **Teoría de la voluntad (Savigny, Windscheid) vs. teoría de la declaración.** ¿Vale lo que internamente quisiste o lo que externamente declaraste? La voluntad protege al autor; la declaración protege la **confianza del tercero** y la seguridad del tráfico. El derecho moderno se inclina por la **declaración** (con correctivos por vicios), y por eso los contratos se redactan con obsesión: fijan la "declaración" para no litigar la "voluntad". **Betti** aportó la visión del negocio como acto de autonomía con **función económico-social** (no vale cualquier capricho, sino el que cumple una función tutelable).
+
+**Mirada de AED.** Las reglas sobre vicios del consentimiento (error, dolo) asignan el **riesgo de la información**: el dolo (engaño) traslada el riesgo al que engañó; el error unilateral, generalmente al que erró (salvo que fuera reconocible). Es la misma lógica de Akerlof: el derecho fuerza a revelar para que el intercambio sea eficiente. Las *reps & warranties* del SPA son esta teoría llevada a la ingeniería contractual.
+
+**Comparado y lección para México.** El **negocio jurídico** alemán (abstracto) vs. el **acto jurídico** francés (heredado por México) vs. el ***contract*** anglosajón (con *consideration*, sin categoría de "acto jurídico"). **Lección:** al importar contratos anglosajones, no trasplantar figuras vacías; anclar los vicios y la nulidad al CCF.
+
+**Crítica.** La teoría clásica del acto jurídico es criticada por **abstracta y formalista**; el AED la reinterpreta en clave de incentivos e información. La distinción inexistencia/nulidad absoluta/relativa, por su complejidad práctica.
+
+**Jurisprudencia y operación real.** El **dolo en declaraciones de M&A** (ocultar un pasivo) abre la vía de nulidad o indemnización; por eso el *disclosure schedule* "contractualiza" lo sabido y desactiva el dolo. En la práctica, el 90% de las nulidades nacen en el consentimiento (vicios), el objeto (ilícito) o la forma.
+
+**Para leer más:** Betti, *Teoría general del negocio jurídico*; Von Tuhr, *Teoría general del Derecho Civil alemán*; Flume, *El negocio jurídico*.

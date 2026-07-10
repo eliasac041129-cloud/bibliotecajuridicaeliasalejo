@@ -1067,3 +1067,24 @@ La sociedad es el **vehículo** de casi todo lo corporativo. El socio no memoriz
 - **Intermedio:** Barrera Graf, *Las sociedades en derecho mexicano*.
 - **Avanzado:** Easterbrook & Fischel, *The Economic Structure of Corporate Law*.
 - **Internacional:** Kraakman et al., *The Anatomy of Corporate Law*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La sociedad de capital con **responsabilidad limitada** es, según Hansmann & Kraakman, la innovación jurídica que hizo posible el capitalismo moderno: permite reunir capital de extraños sin que cada aportante arriesgue todo su patrimonio, y —crucial— logra la ***asset partitioning*** (separación patrimonial en dos direcciones: los acreedores de la sociedad no alcanzan al socio, y los del socio no alcanzan a la sociedad). Esa "partición de activos" es la verdadera magia, más que la responsabilidad limitada.
+
+**El debate.** ¿Qué "es" la sociedad? Teoría de la **ficción** (Savigny: creación del Estado) vs. de la **realidad** (Gierke) vs. la dominante hoy: el ***nexus of contracts*** (Jensen & Meckling; Easterbrook & Fischel): la sociedad no es una "cosa" sino una red de contratos entre aportantes de capital, trabajo y gestión. De ahí que el derecho societario sea, en gran medida, **derecho dispositivo** (reglas por defecto que las partes pueden modificar), no imperativo. Debate vivo: ¿debe existir la responsabilidad limitada, o traslada injustamente el riesgo a los acreedores involuntarios (víctimas de daños)?
+
+**Mirada de AED.** La responsabilidad limitada reduce el costo de capital (los inversionistas no tienen que vigilarse entre sí ni monitorear al *management* con la intensidad que exigiría la responsabilidad ilimitada) y hace las acciones **fungibles y líquidas** (posible el mercado bursátil). Su costo: el **riesgo moral** frente a acreedores, que el derecho mitiga con capital mínimo (hoy en desuso), *piercing* y responsabilidad de administradores.
+
+**Comparado y lección para México.** **Delaware** ganó la "carrera" (más de la mitad de las listadas de EE. UU.) no por laxitud sino por un **cuerpo jurisprudencial predecible** y un tribunal especializado (Court of Chancery). La **S. de R.L.** alemana (GmbH) y la **LLC** estadounidense inspiraron flexibilidad; la **S.A.S.** mexicana imitó a las *startups*. **Lección:** la competencia entre jurisdicciones societarias premia la **previsibilidad**, no la permisividad; a México le falta un foro y un acervo como el de Delaware.
+
+**Crítica.** El *nexus of contracts* ha sido criticado por **naturalizar** la primacía del accionista e ignorar a otros *stakeholders* (progressive corporate law). Y la responsabilidad limitada, por permitir estructuras que evaden responsabilidad ambiental o de producto vía filiales infracapitalizadas.
+
+**Jurisprudencia y operación real.** *Salomon v. Salomon* (RU, 1897): la piedra angular de la personalidad separada. *Walkovszky v. Carlton* (NY, 1966): *piercing* e infracapitalización (los taxis). En la práctica, la elección S.A. vs. S. de R.L. se decide por **transparencia fiscal en EE. UU.** (*check-the-box*), gobierno y transmisión —no por la teoría.
+
+**Para leer más:** Hansmann & Kraakman, *The Essential Role of Organizational Law* (Yale L.J., 2000); Easterbrook & Fischel, *The Economic Structure of Corporate Law*; Kraakman et al., *The Anatomy of Corporate Law*.

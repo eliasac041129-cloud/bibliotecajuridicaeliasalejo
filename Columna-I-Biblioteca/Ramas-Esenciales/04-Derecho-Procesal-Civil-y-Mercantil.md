@@ -765,3 +765,24 @@ El *common law* tiene *discovery* (exhibición amplia de pruebas) y jurado civil
 - **Intermedio:** Gómez Lara, *Teoría general del proceso*.
 - **Avanzado:** Couture, *Fundamentos del derecho procesal civil*.
 - **Internacional:** Convención de Nueva York (1958); Reglamento de Arbitraje CCI.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El proceso existe porque el Estado **prohíbe la autotutela** (hacerse justicia por propia mano) y a cambio ofrece un método pacífico y reglado para resolver conflictos. Su fundamento es la **tutela judicial efectiva** y el debido proceso. El derecho sustantivo sin proceso es una promesa vacía: el proceso es donde el derecho "se cobra".
+
+**El debate.** **Adversarial (dispositivo) vs. inquisitivo:** ¿debe el juez ser árbitro pasivo (las partes controlan el proceso, *common law*) o director activo? La tendencia mexicana (oralidad, CNPCF 2023 ⟳) apuesta por un juez más activo. Debate del ***discovery*** anglosajón: exhibición amplia de pruebas (favorece la verdad, pero es costosísima y arma de presión) vs. el sistema continental de prueba tasada. Y el gran debate del **acceso a la justicia**: ¿de qué sirve el mejor proceso si dura años y cuesta fortunas?
+
+**Mirada de AED.** El proceso tiene un **costo social** (Posner): el sistema óptimo minimiza la suma de costos de error (fallos injustos) + costos de operación (tiempo, dinero). De ahí las **medidas cautelares** (evitan que el tiempo destruya el derecho) y los mecanismos alternos (arbitraje, mediación) que descongestionan. El arbitraje es, en clave económica, "privatizar" el proceso para ganar celeridad, especialización y ejecutabilidad internacional.
+
+**Comparado y lección para México.** El *common law* (jurado civil, *discovery*, precedente) contrasta con el proceso escrito continental; el **arbitraje** (Convención de Nueva York, 1958) es el foro preferido del *deal* transfronterizo por su ejecutabilidad casi universal. **Lección:** la reforma a la oralidad y el CNPCF unificado son avances, pero sin **jueces suficientes y capacitados**, la oralidad no basta.
+
+**Crítica.** El proceso mexicano es criticado por **lentitud, formalismo y rezago**; y el arbitraje, por ser justicia "de ricos" (costos elevados) y por su opacidad.
+
+**Jurisprudencia y operación real.** La Convención de Nueva York (1958) permite ejecutar laudos en 170+ países —la mayor ventaja del arbitraje. En la práctica, la **cláusula de solución de controversias** (foro, ley, arbitraje) es de las más valiosas del contrato: define si el derecho se cobra o se queda en papel.
+
+**Para leer más:** Couture, *Fundamentos del derecho procesal civil*; Posner, *An Economic Approach to Legal Procedure*; Convención de Nueva York (1958); Gary Born, *International Commercial Arbitration*.

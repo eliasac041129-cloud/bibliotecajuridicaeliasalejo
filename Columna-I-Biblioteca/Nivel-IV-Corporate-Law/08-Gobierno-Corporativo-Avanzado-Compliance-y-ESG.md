@@ -1482,3 +1482,24 @@ Tres regímenes marcan el estándar: **FCPA** (EE. UU., cohecho a funcionarios e
 - **Intermedio:** materiales del Sistema Nacional Anticorrupción y la LGRA.
 - **Avanzado:** Kaplan & Walker, *Compliance Programs* (literatura de efectividad).
 - **Internacional:** OCDE, Convención Anticohecho; estándares GAFI (AML).
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El gobierno corporativo nace del problema fundacional de **Berle & Means (1932)**: en la corporación de capital disperso, quien **controla** (administradores) no es quien **arriesga** (accionistas). Todo el andamiaje —consejo independiente, comités, auditoría, revelación— existe para reducir ese **costo de agencia**. El *compliance* añade una segunda capa: internalizar el costo del delito corporativo trasladándolo a controles internos.
+
+**El debate.** (1) **Shareholder vs. stakeholder**: Friedman (1970, "la responsabilidad social es aumentar utilidades") vs. Freeman (teoría de los *stakeholders*) y el *Business Roundtable* de 2019 que abrazó el propósito ampliado. ¿El ESG es deber fiduciario o distracción? Bebchuk ha argumentado que el "stakeholderism" puede ser una cortina que **aísla** a los administradores de la rendición de cuentas. (2) **¿El *compliance* crea valor o es burocracia?** La evidencia: los programas *reales* reducen el costo esperado de sanción; los *cosméticos* solo agregan costo.
+
+**Mirada de AED.** El consejo independiente, el *say-on-pay* y la revelación son **mecanismos de monitoreo** cuyo valor debe exceder su costo. El ESG, en clave económica, es la **internalización de externalidades** (ambientales, sociales) que el mercado y el precio de la acción empiezan a "precificar" vía costo de capital. El *compliance* efectivo reduce la probabilidad × magnitud de la sanción esperada.
+
+**Comparado y lección para México.** Consejo **unitario** (EE. UU./RU) vs. **dual con cogestión** (Alemania: trabajadores en el consejo de vigilancia) —dos respuestas al mismo problema de control. El **Cadbury Report** (1992) y los **Principios OCDE** fijaron el estándar global (independientes, comité de auditoría). **Lección:** México adoptó el andamiaje (LMV, Código de Principios ⟳) pero le falta el **acervo jurisprudencial** que en Delaware da contenido real a los deberes fiduciarios.
+
+**Crítica.** El gobierno corporativo ha sido criticado como **teatro de cumplimiento** (*box-ticking*): consejos "independientes" capturados por el fundador (WeWork, Theranos), remuneración desacoplada del desempeño (Bebchuk & Fried, *Pay Without Performance*). El ESG enfrenta la acusación de *greenwashing* y de politización.
+
+**Jurisprudencia y operación real.** Delaware define los deberes de **diligencia y lealtad** (*Caremark*, 1996: deber de vigilancia/*oversight* del consejo, base de la responsabilidad por fallas de *compliance*; *Marchand v. Barnhill*, 2019, lo reactivó). Escándalos como **Enron, Odebrecht, Siemens y Wells Fargo** son, todos, fallas de *Caremark* antes que de negocio. En la práctica, el abogado diseña el programa para que resista el escrutinio de un fiscal y de un juez.
+
+**Para leer más:** Berle & Means, *The Modern Corporation and Private Property* (1932); Friedman (NYT, 1970); Bebchuk & Fried, *Pay Without Performance* (2004); *In re Caremark* (Del. Ch. 1996); Coffee, *Gatekeepers* (2006).

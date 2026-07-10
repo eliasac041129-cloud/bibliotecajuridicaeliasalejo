@@ -748,3 +748,24 @@ El penal económico es el riesgo que **manda a la cárcel al cliente y al abogad
 - **Intermedio:** Silva Sánchez, *Fundamentos del derecho penal de la empresa*.
 - **Avanzado:** Tiedemann, *Derecho penal económico*.
 - **Internacional:** Convención Anticohecho de la OCDE.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El penal económico protege **bienes jurídicos colectivos** (orden económico, hacienda, mercado) que el penal clásico —centrado en la persona— no alcanzaba. Su expansión responde a que el daño de un fraude corporativo o de un cartel supera al de mil delitos individuales. La **responsabilidad penal de la persona moral** (art. 421 CNPP ⟳) rompe el dogma *societas delinquere non potest* porque los incentivos importan: solo amenazando a la empresa se logra que invierta en prevención.
+
+**El debate.** ***Respondeat superior* (EE. UU.: la empresa responde por el acto del empleado en su beneficio) vs. culpabilidad por defecto de organización** (modelo europeo: responde si falló en prevenir). El debate: el modelo estadounidense es amplio pero convierte al fiscal en regulador vía *deferred prosecution agreements* (DPA); el europeo premia el *compliance* efectivo como eximente. ¿El *compliance* previene delitos o solo **traslada la culpa hacia abajo** (al empleado) y compra indulgencia?
+
+**Mirada de AED.** Becker (economía del delito): el delito se disuade con **probabilidad de detección × severidad de la sanción**. El *compliance* eleva la detección interna; los DPA y la delación premiada (colaboración eficaz) resuelven el problema de que los delitos corporativos son difíciles de probar sin cooperación desde dentro. El riesgo: sobre-*compliance* defensivo que solo genera costo.
+
+**Comparado y lección para México.** **FCPA** (EE. UU., extraterritorial) y **UK Bribery Act** (con el delito de "no prevención del cohecho") fijaron el estándar; los DPA transformaron el *enforcement*. México incorporó responsabilidad penal corporativa (CNPP) y el Sistema Nacional Anticorrupción. **Lección:** sin un *enforcement* creíble y mecanismos de cooperación (DPA a la mexicana), la responsabilidad corporativa es simbólica.
+
+**Crítica.** Los DPA son criticados por permitir que las grandes empresas "compren" la absolución (multa sin condena), erosionando la igualdad ante la ley. Y el *compliance*, por volverse una **industria** que vende tranquilidad más que prevención real.
+
+**Jurisprudencia y operación real.** **Siemens** (FCPA, 2008, ~1,600 mdd ⚠️), **Odebrecht/Lava Jato** (~788 mdd en sobornos ⚠️), **FTX/SBF** (condena 2024 ⚠️). En M&A, la **responsabilidad del sucesor** por delitos del *target* obliga a *due diligence* anticorrupción/PLD; un pasivo penal no visto contamina al comprador.
+
+**Para leer más:** Becker, *Crime and Punishment: An Economic Approach* (1968); Silva Sánchez, *La responsabilidad penal de las personas jurídicas*; *Resource Guide to the FCPA* (DOJ/SEC).

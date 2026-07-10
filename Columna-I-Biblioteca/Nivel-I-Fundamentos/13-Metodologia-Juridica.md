@@ -697,3 +697,24 @@ La disputa **originalismo vs. constitución viviente** domina la Suprema Corte d
 - **Intermedio:** García Máynez, *Introducción a la lógica jurídica*.
 - **Avanzado:** Savigny, *Sistema del Derecho Romano actual* (interpretación).
 - **Internacional:** Guastini, *Interpretar y argumentar*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** Interpretar es el 60% del trabajo jurídico: la ley casi nunca dice con claridad lo que el caso necesita. La metodología existe para hacer la interpretación **racional y controlable** —no capricho— y para saber **investigar** un problema nuevo (qué es fuente, qué es doctrina, dónde buscar). Es la disciplina que separa al que "opina" del que **fundamenta**.
+
+**El debate.** **Originalismo vs. constitución/ley viviente:** ¿interpretar según la voluntad histórica del legislador (Scalia, textualismo) o actualizar el sentido a las necesidades presentes (interpretación evolutiva)? Es el debate que divide a la Suprema Corte de EE. UU. y resuena en México. Debate de los **métodos** (Savigny: gramatical, lógico, histórico, sistemático; + teleológico + conforme a la Constitución): ¿jerarquía entre ellos o caja de herramientas? Y la **interpretación estricta** en materia fiscal y penal (nullum tributum/nulla poena sine lege).
+
+**Mirada de AED / pragmática.** Los métodos son **argumentos disponibles**: el buen abogado sabe cuál invocar según convenga al cliente y —clave— **anticipa cuál usará el juez o el fisco**. Elegir el método es, estratégicamente, elegir el terreno de batalla interpretativo.
+
+**Comparado y lección para México.** La disputa **originalismo vs. living constitution** domina EE. UU.; en lo metodológico, el jurista continental parte del texto y el anglosajón del precedente (*ratio decidendi*). **Lección:** en materia fiscal, invocar la **interpretación estricta** (relacionada con el art. 5 CFF ⟳) suele decidir si un supuesto encuadra o no en un beneficio —método convertido en dinero.
+
+**Crítica.** El originalismo es criticado por **anacrónico** (congela el derecho); la interpretación evolutiva, por dar demasiado poder al juez (activismo). La multiplicidad de métodos, por permitir "elegir" el resultado y racionalizarlo después.
+
+**Jurisprudencia y operación real.** Las **batallas interpretativas fiscales** (¿encuadra este supuesto en el estímulo?) se ganan con método. En la práctica, todo dictamen sólido explicita **qué método** de interpretación usa y por qué —eso lo hace defendible ante impugnación.
+
+**Para leer más:** Savigny, *Sistema del Derecho Romano actual* (interpretación); Guastini, *Interpretar y argumentar*; Scalia, *A Matter of Interpretation*; Witker, *Metodología jurídica*.

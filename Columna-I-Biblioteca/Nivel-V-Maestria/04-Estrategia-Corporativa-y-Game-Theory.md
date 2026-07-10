@@ -1508,3 +1508,24 @@ La teoría de juegos modela **OPAs hostiles y defensas** (*poison pill* como cam
 - **Intermedio:** Brandenburger & Nalebuff, *Co-opetition*.
 - **Avanzado:** Axelrod, *La evolución de la cooperación*.
 - **Internacional:** Porter, *Competitive Strategy*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La estrategia es la disciplina de **elegir dónde competir y cómo ganar** anticipando la reacción de los demás. La teoría de juegos (von Neumann-Morgenstern, Nash) le dio rigor matemático: toda decisión corporativa relevante es **interdependiente** —su valor depende de lo que hagan competidores, reguladores y contrapartes. El abogado que la domina deja de redactar reacciones y empieza a **diseñar jugadas**.
+
+**El debate.** ¿La ventaja competitiva viene del **posicionamiento** en la industria (Porter, *cinco fuerzas*: elegir un sector atractivo y defender una posición) o de los **recursos y capacidades** internos (*resource-based view*, Barney)? Y en juegos: ¿competir (dilema del prisionero) o cooperar? Axelrod mostró que en **juegos repetidos** la cooperación condicional (*tit-for-tat*) domina —lo que explica por qué la reputación y las relaciones de largo plazo valen tanto en el mundo jurídico-empresarial.
+
+**Mirada de AED.** Los **compromisos creíbles** (Schelling) y las **señales** (Spence) son el puente entre estrategia y derecho: un contrato, una garantía o una *poison pill* son formas de **atarse las manos** para cambiar los incentivos del otro. El equilibrio de Nash explica por qué, sin contrato, las partes racionales llegan a resultados subóptimos (carrera de garantías, guerras de precios) que el derecho corrige.
+
+**Comparado y lección para México.** El *toolkit* estratégico es global; su aplicación jurídica más fina está en **Delaware** (defensas anti-OPA como cambio de las reglas del juego). **Lección:** el abogado corporativo mexicano debe sentarse en la mesa de estrategia —no solo documentar lo decidido—; ahí es donde se crea o se destruye el valor que él luego formaliza.
+
+**Crítica.** La teoría de juegos asume **racionalidad** que la realidad desmiente (sesgos, emociones, información imperfecta). La estrategia "de manual" (Porter) ha sido criticada por estática frente a mercados disruptivos (Christensen, *innovación disruptiva*): las cinco fuerzas no vieron venir a los *insurgentes* digitales.
+
+**Jurisprudencia y operación real.** La **guerra de ofertas Disney vs. Comcast por Fox** (2018) es teoría de subastas en vivo; las **defensas anti-OPA** (*poison pill*, validadas en *Moran v. Household*, Del. 1985) son cambios estratégicos de las reglas. En la práctica, el abogado modela cada movimiento —oferta, carta, demanda— anticipando la respuesta.
+
+**Para leer más:** Dixit & Nalebuff, *The Art of Strategy*; Schelling, *The Strategy of Conflict*; Porter, *Competitive Strategy*; Axelrod, *The Evolution of Cooperation*.

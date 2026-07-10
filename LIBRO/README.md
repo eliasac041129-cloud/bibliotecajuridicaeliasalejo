@@ -27,3 +27,22 @@ python3 tools/build_libro.py
 ```
 
 *(Requiere `python3` y `markdown`: `pip install markdown`.)*
+
+
+---
+
+## 📚 Edición en dos tomos (para imprenta)
+
+Para encuadernar en volúmenes manejables (el libro completo es extenso), usa la **edición en dos tomos**:
+
+| Tomo | Archivo | Contenido |
+|------|---------|-----------|
+| **Tomo I** | `Tomo-I-Fundamentos-Civil-Mercantil.html` | Front matter completo (dedicatoria, consideraciones, finalidad, «Cómo usar este libro con las fuentes digitales») + **Partes I–III**: Fundamentos, Civil Profundo y Mercantil (24 capítulos). |
+| **Tomo II** | `Tomo-II-Corporate-Maestria-Ramas.html` | **Partes IV–VI**: Corporate Law, Maestría y Ramas Esenciales + **Anexo A (Formatos)** y **Anexo B (Jurisprudencia)** + colofón (28 capítulos). |
+
+Cada tomo incluye su **portada**, su **índice**, una **etiqueta de lomo** (recortable para el encuadernado) y el botón **«Generar PDF / Imprimir»**. El archivo completo (`Manual-para-Ejercer-el-Derecho-Corporativo.html`) se conserva para quien prefiera un solo volumen.
+
+**Se regeneran con:**
+```bash
+python3 tools/build_tomos.py    # genera los dos tomos (y regenera el libro completo)
+```

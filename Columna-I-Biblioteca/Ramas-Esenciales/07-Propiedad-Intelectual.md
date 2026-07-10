@@ -730,3 +730,24 @@ En la economía del conocimiento, **el activo más valioso de muchas empresas es
 - **Intermedio:** LFPPI y LFDA comentadas.
 - **Avanzado:** Landes & Posner, *The Economic Structure of Intellectual Property Law*.
 - **Internacional:** Acuerdo TRIPS (OMC); WIPO materiales.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La PI resuelve un problema económico: la información es un **bien público** (no rival, no excluible) —una vez creada, copiarla cuesta casi nada, así que sin protección **nadie invertiría** en crearla (fallo de apropiabilidad). La PI crea un **monopolio temporal artificial** (patente, derecho de autor) para restaurar el incentivo a innovar, a cambio de la **divulgación** (la patente publica la invención). Es un *trade-off* deliberado entre incentivo y acceso.
+
+**El debate.** **Utilitarista (incentivo, dominante en EE. UU.)** vs. **derecho natural/moral del autor (droit d'auteur europeo).** ¿La PI fomenta o **asfixia** la innovación? La *tragedy of the anticommons* (Heller): demasiadas patentes fragmentadas (*patent thickets*) frenan el desarrollo; los *patent trolls* litigan sin producir. Debate farmacéutico: patentes vs. acceso a medicamentos (licencias obligatorias). El movimiento *open source*/Creative Commons cuestiona el modelo propietario.
+
+**Mirada de AED.** El plazo y alcance óptimos de la PI equilibran el **costo del monopolio** (precios altos, acceso reducido) contra el **beneficio del incentivo** (más creación). Demasiada protección genera *deadweight loss* y bloqueo; muy poca, subinversión. La PI es, además, un **activo transable**: se licencia, se aporta, se garantiza —de ahí su centralidad en M&A tecnológica.
+
+**Comparado y lección para México.** **TRIPS** (OMC) armonizó mínimos globales; el sistema es **territorial** y suele ser *first-to-file*. EE. UU. y la UE lideran; México modernizó con la **LFPPI (2020 ⟳)**. **Lección:** para una economía que aspira a innovar, la clave no es solo proteger, sino **hacer cumplir** (combate a la piratería) y facilitar la transferencia de tecnología.
+
+**Crítica.** La PI ha sido criticada por **sobreprotección** (extensión de plazos por presión de las industrias del entretenimiento y farmacéutica) y por convertirse en barrera de entrada que favorece a los incumbentes.
+
+**Jurisprudencia y operación real.** *Apple v. Samsung* (2011-2018): guerra global de patentes con condenas de cientos de millones ⚠️. En M&A tecnológica, el **IP due diligence** determina si la *startup* **es dueña** de su tecnología o solo la licencia —a veces la cartera de PI *es* el *deal*.
+
+**Para leer más:** Landes & Posner, *The Economic Structure of Intellectual Property Law*; Heller, *The Tragedy of the Anticommons* (Harvard L. Rev., 1998); Acuerdo TRIPS.

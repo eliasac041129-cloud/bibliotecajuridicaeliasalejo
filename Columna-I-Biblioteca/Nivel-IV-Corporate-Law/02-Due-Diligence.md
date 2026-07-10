@@ -1456,3 +1456,24 @@ En EE. UU. el DD alimenta las *reps & warranties* y el *disclosure schedule*; el
 - **Intermedio:** Reed, Lajoux, *The Art of M&A Due Diligence*.
 - **Avanzado:** Akerlof, *The Market for Lemons* (fundamento económico).
 - **Internacional:** ABA, *Model Stock Purchase Agreement with Commentary*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El *due diligence* es la respuesta jurídica al problema de los **«limones» de Akerlof** (1970): cuando el vendedor sabe más que el comprador sobre la calidad del activo, el mercado se contrae porque el comprador teme pagar de más. El DD, las *reps & warranties* y el *disclosure* son **tecnologías de reducción de asimetría**: convierten información privada en información oponible, permitiendo que la transacción ocurra a un precio justo.
+
+**El debate.** ¿DD exhaustivo o basado en materialidad? La escuela "tradicional" pedía revisarlo todo; la moderna —dominante— sostiene que el DD debe ser **risk-based**: el costo marginal de revisar debe justificarse por el riesgo evitado (un análisis coste-beneficio puro). Segundo debate: ***sandbagging*** — si el comprador descubrió en el DD que una *rep* era falsa, ¿puede igualmente reclamar tras el cierre? La postura *pro-sandbagging* (Delaware, por defecto) dice sí (el riesgo se pactó); la *anti-sandbagging* lo niega por buena fe. Se negocia expresamente.
+
+**Mirada de AED.** El DD reasigna el **riesgo de lo desconocido** mediante tres palancas: ajuste de precio (riesgo cuantificable), indemnización/*escrow* (riesgo contingente) y condición de cierre o *walk-right* (riesgo inaceptable). El **seguro de *reps & warranties*** (R&W insurance) es una innovación de mercado que traslada ese riesgo a un tercero especializado —un ejemplo de cómo el mercado "precifica" incertidumbre jurídica.
+
+**Comparado y lección para México.** En EE. UU. el DD alimenta un *disclosure schedule* detallado que **modula** las *reps*; el R&W insurance es estándar. En el *civil law*, el régimen legal de **saneamiento por vicios y evicción** ofrece una red de seguridad que el *common law* no tiene, pero es más rígida. **Lección:** México puede combinar lo mejor —contractualizar *reps* al estilo anglosajón sin renunciar al saneamiento legal como piso.
+
+**Crítica.** El DD puede generar una **falsa sensación de control**: revisó miles de documentos pero no vio el fraude (HP–Autonomy) ni dimensionó una externalidad latente (Bayer–Monsanto/glifosato). La crítica conductual (Kahneman) advierte del *sesgo de confirmación*: el equipo que "quiere el deal" minimiza los hallazgos incómodos.
+
+**Jurisprudencia y operación real.** En Delaware, casos sobre *sandbagging* y sobre el alcance de la MAC (*Akorn v. Fresenius*, 2018 ⚠️ *verificar*: la primera vez que un tribunal de Delaware permitió abandonar un *deal* por MAC) definen hoy cómo se redacta el DD y sus consecuencias. En la práctica, el DD desemboca en la ***issue list*** que se negocia línea por línea en el SPA.
+
+**Para leer más:** Akerlof, *The Market for Lemons* (QJE, 1970); Reed & Lajoux, *The Art of M&A Due Diligence*; opinión *Akorn v. Fresenius* (Del. Ch. 2018).

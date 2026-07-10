@@ -866,3 +866,24 @@ La **responsabilidad limitada** y la personalidad separada de la sociedad son un
 - **Intermedio:** Rojina Villegas, *Compendio de Derecho Civil*.
 - **Avanzado:** Gierke, *Das Wesen der menschlichen Verbände* (naturaleza de las asociaciones).
 - **Internacional:** Easterbrook & Fischel, *The Economic Structure of Corporate Law* (persona moral e incentivos).
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La categoría de "persona" define **quién puede ser titular de derechos y obligaciones**. La gran invención jurídica es la **persona moral**: dotar de subjetividad a un ente colectivo permite reunir capital, contratar y perdurar más allá de sus miembros. Sin persona moral no hay empresa moderna, ni mercado de capitales, ni continuidad del negocio.
+
+**El debate.** **¿Qué "es" la persona moral?** Teoría de la **ficción** (Savigny: la crea el Estado, no existe en la realidad) vs. teoría de la **realidad** (Gierke: es un organismo social real con voluntad propia). No es debate ocioso: determina si se le imputan **dolo, culpa, responsabilidad penal (compliance) y derechos fundamentales**. La tendencia (nexus of contracts) la ve como haz de relaciones, no como ente. Debate vivo: ¿debe la persona moral tener derechos humanos? (*Citizens United* en EE. UU. reconoció libertad de expresión a corporaciones —muy criticado).
+
+**Mirada de AED.** La personalidad separada permite el ***asset partitioning*** (Hansmann & Kraakman) y la responsabilidad limitada, que reducen el costo de capital y hacen líquidas las acciones. Su costo: el **riesgo moral** frente a acreedores (sobre todo involuntarios: víctimas de daños), que el derecho mitiga con el *piercing*, la responsabilidad de administradores y el capital.
+
+**Comparado y lección para México.** El *piercing the corporate veil* (levantamiento del velo) está más desarrollado en EE. UU. (fraude, *alter ego*, infracapitalización) que en México, donde es excepcional. **Lección:** en estructuras de *holding*, entender **cuándo el velo protege y cuándo se rasga** define la exposición real del cliente.
+
+**Crítica.** La responsabilidad limitada es criticada por permitir **externalizar** riesgos (ambientales, de producto) a filiales infracapitalizadas, dejando sin reparación a víctimas involuntarias. Y la "personalidad" corporativa, por servir de escudo a controladores.
+
+**Jurisprudencia y operación real.** *Salomon v. Salomon* (RU, 1897, personalidad separada); *Walkovszky v. Carlton* (NY, 1966, infracapitalización). En la práctica, lo primero que revisa un socio en un cierre es **quién firma y con qué facultades** (representación): un poder insuficiente vuelve inoponible todo el contrato.
+
+**Para leer más:** Gierke, *Das Wesen der menschlichen Verbände*; Hansmann & Kraakman, *The Essential Role of Organizational Law*; *Salomon v. Salomon* (1897).

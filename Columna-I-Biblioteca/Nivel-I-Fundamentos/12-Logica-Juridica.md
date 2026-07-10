@@ -703,3 +703,24 @@ El razonamiento **silogístico** domina el discurso judicial continental; el **a
 - **Intermedio:** Ulrich Klug, *Lógica jurídica*.
 - **Avanzado:** von Wright, *Norma y acción*.
 - **Internacional:** Alchourrón & Bulygin, *Sistemas normativos*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La lógica jurídica es el **control de validez** del razonamiento: garantiza que la conclusión se siga de las premisas y detecta las falacias del adversario. No garantiza la verdad de las premisas (eso es interpretación y prueba), pero sí la **corrección formal** del paso de premisas a conclusión —el esqueleto de todo dictamen y sentencia.
+
+**El debate.** **¿El fallo es deducción o decisión?** El formalismo (jurisprudencia de conceptos) lo veía como subsunción silogística pura; el realismo (Holmes, Llewellyn) respondió que el juez **decide primero** y razona después ("la vida del derecho no ha sido lógica, sino experiencia"). Síntesis: la lógica disciplina la decisión, pero no la sustituye en los casos difíciles. La **lógica deóntica** (von Wright) mostró que la lógica de las normas (obligatorio/prohibido/permitido) tiene reglas propias, distintas de la lógica de proposiciones (verdadero/falso).
+
+**Mirada de AED / pragmática.** El rigor lógico **reduce el costo del error**: auditar el silogismo (¿la premisa normativa es correcta?, ¿la fáctica está probada?, ¿la conclusión se deduce?) antes de firmar un dictamen evita responsabilidad profesional y pleitos perdidos. Detectar la falacia del contrario es un ahorro directo.
+
+**Comparado y lección para México.** El razonamiento **silogístico** domina el discurso judicial continental; el **analógico**, el anglosajón. **Lección:** dominar ambos —y las falacias frecuentes (petición de principio, falso dilema, pendiente resbaladiza, *ad hominem*)— es indispensable en negociación y litigio internacional, donde se argumenta caso a caso.
+
+**Crítica.** El "silogismo judicial" es criticado por **irrealista** (esconde la valoración); la lógica formal, por insuficiente para el razonamiento práctico (de ahí la argumentación y la retórica). La lógica es necesaria pero no suficiente.
+
+**Jurisprudencia y operación real.** Los **errores de subsunción** (encuadrar un hecho en la norma equivocada, p. ej. tratar como deducible lo no deducible, art. 28 LISR ⟳) tienen consecuencia millonaria. En la práctica, la lógica es el "control de calidad" que se aplica al propio dictamen antes de entregarlo.
+
+**Para leer más:** von Wright, *Norma y acción*; Klug, *Lógica jurídica*; Alchourrón & Bulygin, *Sistemas normativos*; Holmes, *The Common Law* (intro).

@@ -892,3 +892,24 @@ La **formación** del contrato (oferta y aceptación) es común, pero el *common
 - **Intermedio:** Sánchez Medal, *De los contratos civiles*.
 - **Avanzado:** Messineo, *Doctrina general del contrato*.
 - **Internacional:** Atiyah, *The Rise and Fall of Freedom of Contract*; CISG (Convención de Viena).
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El contrato es el instrumento de la **cooperación voluntaria**: permite a extraños coordinar conductas futuras y asignar riesgos, creando valor por el intercambio. La **libertad contractual** y el ***pacta sunt servanda*** (art. 1796 CCF ⟳) son su núcleo; su fundamento último es que las partes conocen mejor que nadie qué les conviene (autonomía), matizado cuando esa premisa falla (asimetría, adhesión).
+
+**El debate.** **Libertad contractual clásica vs. su "declive" (Atiyah).** La contratación en masa, la adhesión y la protección del consumidor erosionaron la ficción de partes iguales que negocian. Debate de la **imprevisión (*rebus sic stantibus*)**: ¿puede revisarse un contrato cuando un evento extraordinario destruye su equilibrio, o la santidad del pacto es absoluta? El *common law* es reacio (*frustration* estrecha); el civil law la admite acotada. COVID-19 reavivó el debate (fuerza mayor, *hardship*).
+
+**Mirada de AED.** El contrato reduce **costos de transacción** de la cooperación y asigna riesgos al que mejor los soporta. Las **reglas por defecto** (*default rules*) llenan lo no pactado; las **reglas imperativas** protegen frente a fallas (adhesión, información). El contrato es "derecho privado a la medida" que las partes crean para sí.
+
+**Comparado y lección para México.** Formación (oferta/aceptación) común, pero el *common law* exige **consideration** y aplica la *parol evidence rule* (lo escrito prevalece). La **CISG** rige la compraventa internacional salvo pacto. **Lección:** la cláusula de **ley aplicable y solución de controversias** define dónde y cómo se litiga —de las más valiosas y las más descuidadas.
+
+**Crítica.** La libertad contractual "formal" puede legitimar **abusos** (contratos de adhesión, cláusulas abusivas); de ahí el derecho del consumidor. Y la imprevisión, criticada por introducir **incertidumbre** en el pacto.
+
+**Jurisprudencia y operación real.** *Carlill v. Carbolic Smoke Ball* (RU, 1893): oferta al público y formación del contrato. En la práctica, el socio lee el contrato "al revés" (incumplimiento, terminación, indemnización, foro) porque ahí se gana el pleito de dentro de tres años.
+
+**Para leer más:** Atiyah, *The Rise and Fall of Freedom of Contract*; Fuller, *Consideration and Form*; CISG (1980); *Carlill v. Carbolic Smoke Ball* (1893).

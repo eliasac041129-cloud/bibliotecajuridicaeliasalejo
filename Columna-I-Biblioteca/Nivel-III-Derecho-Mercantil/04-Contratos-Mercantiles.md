@@ -922,3 +922,24 @@ La **franquicia** y la **distribución** están más protegidas en la UE (indemn
 - **Intermedio:** Vásquez del Mercado, *Contratos mercantiles*.
 - **Avanzado:** Broseta Pont, *Manual de derecho mercantil*.
 - **Internacional:** Principios UNIDROIT sobre los contratos comerciales internacionales.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** Los contratos mercantiles típicos (suministro, distribución, franquicia, factoraje, *leasing*) existen porque el mercado desarrolló **soluciones estandarizadas** a problemas recurrentes de la cadena de valor: cómo asegurar aprovisionamiento (suministro), cómo llegar al cliente sin integrarse (distribución/franquicia), cómo financiar sin desprenderse del activo (*leasing*), cómo convertir cuentas por cobrar en liquidez (factoraje). Cada uno es una respuesta a un dilema de **"hacer vs. comprar vs. contratar"** (Coase/Williamson).
+
+**El debate.** ¿Debe el derecho proteger al **contratante débil** (distribuidor, franquiciatario) o dejarlo a la libertad contractual? La UE creó la **indemnización por clientela** del agente (Directiva 86/653); México y EE. UU. se apoyan más en la libertad contractual. El debate: proteger genera seguridad para el débil pero **encarece** y rigidiza; no proteger abarata pero permite abusos del fuerte (terminaciones oportunistas tras que el distribuidor creó el mercado).
+
+**Mirada de AED.** Estos contratos gestionan el ***hold-up*** derivado de **inversiones específicas**: el distribuidor que invierte en crear mercado teme que el proveedor lo termine y capture la clientela; de ahí las cláusulas de duración, preaviso e indemnización, que **protegen la inversión específica** y hacen posible que se realice. Sin esa protección, se subinvierte (Williamson).
+
+**Comparado y lección para México.** El *leasing* tiene tratamiento contable-fiscal específico (IFRS 16 lo subió al balance) que redefine pasivos; la franquicia está más regulada en EE. UU. (*FTC Franchise Rule*, deber de revelación precontractual). **Lección:** México debe cuidar la **asimetría informativa** en franquicias (revelación) y la **terminación** en distribución, sin sofocar la libertad contractual.
+
+**Crítica.** La atipicidad genera **inseguridad** (¿qué régimen supletorio aplica?), y los contratos de adhesión mercantiles pueden esconder cláusulas abusivas. La protección del débil, mal calibrada, puede volverse una **barrera de entrada** que perjudica justo a los pequeños que dice proteger.
+
+**Jurisprudencia y operación real.** Litigios de **terminación de distribución** e "indemnización por clientela" son frecuentes; su resultado depende de la redacción de la salida. En la práctica, en estos contratos "la salida se negocia en la entrada": duración, preaviso, destino del *stock*, clientela, marca y no competencia.
+
+**Para leer más:** Williamson, *The Economic Institutions of Capitalism* (1985); Arce Gargollo, *Contratos mercantiles atípicos*; Directiva 86/653/CEE (agencia); IFRS 16.

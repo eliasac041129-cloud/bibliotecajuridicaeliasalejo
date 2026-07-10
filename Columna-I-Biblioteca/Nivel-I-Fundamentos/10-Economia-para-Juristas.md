@@ -716,3 +716,24 @@ Estos dos conceptos bastan para entender por qué el cliente prefiere cobrar hoy
 - **Intermedio:** Posner, *El análisis económico del derecho*.
 - **Avanzado:** Coase, *The Firm, the Market and the Law*; Calabresi, *The Cost of Accidents*.
 - **Internacional:** Kahneman, *Pensar rápido, pensar despacio*; Thaler & Sunstein, *Nudge*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El abogado corporativo asesora decisiones económicas; ignorar la economía es asesorar a ciegas. El **Análisis Económico del Derecho** (AED) surgió para responder una pregunta que la dogmática no se hacía: *¿qué efectos —incentivos, costos, eficiencia— produce esta norma o cláusula?* Convierte al derecho de un sistema de conceptos en un sistema de **consecuencias**.
+
+**El debate (fundacional).** **Coase (1960):** con costos de transacción cero, la asignación inicial de derechos es irrelevante para la eficiencia (las partes negocian); como no son cero, **el derecho debe minimizar los costos de transacción**. **Calabresi:** asignar el riesgo al *cheapest cost avoider*. **Posner:** el *common law* tiende a ser eficiente. **Crítica conductual (Kahneman, Thaler, Sunstein):** los agentes no son racionales (sesgos, heurísticas); el "empujón" (*nudge*) puede ser mejor que la prohibición. Debate normativo: ¿la **eficiencia** es el fin del derecho, o solo un valor entre otros (justicia, dignidad, distribución)?
+
+**Mirada de AED (aplicada).** Todo instrumento jurídico se lee como incentivo: la responsabilidad limitada abarata el capital; los *covenants* controlan el conflicto de agencia; las *reps & warranties* revelan información; la garantía real reduce el costo del crédito. El jurista que "traduce" derecho a incentivos habla el idioma del cliente y del regulador.
+
+**Comparado y lección para México.** El AED nació en **Chicago** y permea el derecho estadounidense (antitrust, responsabilidad, regulación); Europa y México lo integran matizado con valores no eficientistas. **Lección:** en competencia, regulación y financiero, el AED **ya es el lenguaje de la autoridad**; ignorarlo es litigar en un idioma que no se habla.
+
+**Crítica.** El AED es criticado por su supuesto de **racionalidad** (desmentido por la economía conductual), por reducir la justicia a eficiencia y por ignorar la **distribución** (una solución "eficiente" puede ser injusta). La respuesta: es una herramienta poderosa, no una teoría total del derecho.
+
+**Jurisprudencia y operación real.** El **teorema de Coase** ilumina por qué se pactan indemnidades y *escrows* (asignar el riesgo al que mejor lo soporta). **Bayer–Monsanto/glifosato** es una externalidad que el DD no "precificó". En la práctica, pensar en incentivos evita cláusulas que invitan a incumplir.
+
+**Para leer más:** Coase, *The Problem of Social Cost* (1960); Calabresi, *The Cost of Accidents*; Cooter & Ulen, *Derecho y economía*; Kahneman, *Pensar rápido, pensar despacio*.

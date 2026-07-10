@@ -897,3 +897,24 @@ La propiedad **unitaria** del *civil law* contrasta con la propiedad **fragmenta
 - **Intermedio:** Ibarrola, *Cosas y sucesiones*.
 - **Avanzado:** Planiol y Ripert, *Tratado práctico de Derecho Civil*.
 - **Internacional:** Merrill & Smith, *Property: Principles and Policies*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** Los derechos reales existen para asignar de forma **estable y oponible frente a todos** el uso y disfrute de las cosas escasas —condición sine qua non de la inversión: nadie mejora un activo que no controla. La propiedad es la institución que convierte un recurso en **capital** (De Soto): permite garantizarlo, transmitirlo y financiarlo.
+
+**El debate.** **Concepción clásica (poder directo sobre la cosa) vs. obligacionista (Planiol: todo derecho real esconde una obligación pasiva universal de respeto).** Debate del ***numerus clausus***: ¿por qué los derechos reales son típicos y tasados (no se crean por contrato) cuando los contratos sí son libres? Respuesta económica (Merrill & Smith): permitir crear derechos reales "a la medida" impondría a terceros el costo de **investigar** cargas idiosincráticas —el *numerus clausus* estandariza y abarata la información.
+
+**Mirada de AED.** La propiedad bien definida internaliza costos y beneficios (evita la "tragedia de los comunes", Hardin) e incentiva la inversión. El **registro** (publicidad) resuelve la asimetría de información sobre cargas y prelación: reduce el costo de verificar quién es dueño y quién cobra primero.
+
+**Comparado y lección para México.** Propiedad **unitaria** (civil law) vs. **fragmentada** (*estates* del *common law*: *fee simple*, *leasehold*). El **UCC Art. 9** unificó las garantías mobiliarias con registro. **Lección:** la **certeza registral** y la agilidad de la garantía real son infraestructura del crédito; el rezago registral encarece el financiamiento en México.
+
+**Crítica.** El *numerus clausus* es criticado por **rígido** (impide innovación en formas de tenencia); la propiedad absoluta, por ignorar su **función social** (art. 27 CPEUM). Debate perpetuo entre eficiencia y equidad en el acceso a la tierra.
+
+**Jurisprudencia y operación real.** En financiamiento y reestructuras, la **prelación** entre acreedor hipotecario, prendario y quirografario decide quién recupera. En la práctica, constituir la garantía no basta: sin **perfección/inscripción**, no existe frente a terceros.
+
+**Para leer más:** Merrill & Smith, *Optimal Standardization in the Law of Property: The Numerus Clausus Principle* (Yale L.J., 2000); Hardin, *The Tragedy of the Commons* (Science, 1968); De Soto, *El misterio del capital*.

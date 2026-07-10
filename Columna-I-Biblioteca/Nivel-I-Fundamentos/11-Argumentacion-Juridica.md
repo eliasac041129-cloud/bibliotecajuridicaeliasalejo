@@ -744,3 +744,24 @@ En el *common law*, la argumentación gira en torno al **precedente** (analogía
 - **Intermedio:** Atienza, *Curso de argumentación jurídica*.
 - **Avanzado:** Alexy, *Teoría de la argumentación jurídica*.
 - **Internacional:** Perelman, *Tratado de la argumentación*; Toulmin, *Los usos de la argumentación*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El derecho no se aplica solo: se **argumenta**. La teoría de la argumentación existe porque en los casos difíciles la subsunción lógica no basta —hay que **justificar racionalmente** una elección entre interpretaciones posibles. Persuadir con razones (no con autoridad ni retórica vacía) es lo que legitima la decisión jurídica en una democracia.
+
+**El debate.** **¿La decisión jurídica es demostración o justificación?** El positivismo formalista veía subsunción lógica; el realismo, decisión encubierta. La síntesis (Wróblewski, MacCormick): hay **justificación interna** (la conclusión se sigue de las premisas) y **justificación externa** (por qué esas premisas). **Alexy:** el discurso jurídico es un caso especial del discurso práctico racional, con reglas. **Perelman:** argumentar es persuadir a un **auditorio**; la lógica formal no agota el razonamiento práctico. Debate sobre la **ponderación** de principios: ¿método racional (Alexy) o decisionismo disfrazado (Habermas la matiza; los críticos la rechazan)?
+
+**Mirada de AED / pragmática.** Argumentar bien es, económicamente, **reducir el costo de convencer** al juez, árbitro o contraparte: una arquitectura clara de premisas ahorra tiempo y aumenta la probabilidad de éxito. Anticipar el contraargumento (teoría de juegos aplicada al litigio) desactiva la réplica del adversario.
+
+**Comparado y lección para México.** *Common law*: argumentación por **precedente y analogía** (*distinguishing*, *overruling*); civil law: por **subsunción e interpretación de la ley**. El arbitraje internacional mezcla ambas. **Lección:** el abogado mexicano de alto nivel debe argumentar por analogía de casos (no solo por texto legal) para litigar constitucional e internacionalmente.
+
+**Crítica.** La ponderación (Alexy) es criticada por dar **apariencia de método** a lo que sería intuición valorativa; la nueva retórica (Perelman), por relativizar la verdad. Debate abierto sobre la racionalidad de la interpretación constitucional.
+
+**Jurisprudencia y operación real.** El **test de proporcionalidad** (idoneidad, necesidad, proporcionalidad estricta) de raíz alexiana es hoy usado por la SCJN en colisiones de derechos —indispensable en litigio constitucional y en *compliance* de datos. En la práctica, un dictamen se gana por su arquitectura argumentativa, no por el número de tesis citadas.
+
+**Para leer más:** Alexy, *Teoría de la argumentación jurídica*; MacCormick, *Legal Reasoning and Legal Theory*; Perelman, *Tratado de la argumentación*; Atienza, *Curso de argumentación jurídica*.

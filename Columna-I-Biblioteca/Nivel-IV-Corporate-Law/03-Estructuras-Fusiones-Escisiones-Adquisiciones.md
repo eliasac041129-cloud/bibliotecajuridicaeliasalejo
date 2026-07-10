@@ -1493,3 +1493,24 @@ En EE. UU. la **reorganización tipo A/B/C** del *Internal Revenue Code* define 
 - **Intermedio:** Depamphilis, *Mergers & Acquisitions*.
 - **Avanzado:** Ginsburg & Levin, *Mergers, Acquisitions, and Buyouts* (fiscal-estructural).
 - **Internacional:** IRC Subchapter C (reorganizaciones), materiales comparados.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La elección de estructura es, en el fondo, un problema de **minimización de costos totales**: fiscales, de transferencia (consentimientos de terceros, *change of control*), de asunción de pasivos y regulatorios. La razón de que existan tantas figuras (fusión, escisión, *share/asset deal*, aportación) es que ninguna domina en todos los escenarios: cada una **internaliza** un costo y externaliza otro.
+
+**El debate.** *Share deal* vs. *asset deal* encarna un dilema clásico de asignación de riesgo: en el *share deal* el comprador hereda **todos** los pasivos (eficiencia de continuidad, pero riesgo de contingencias ocultas); en el *asset deal* elige activos (control del riesgo, pero costos fiscales y de consentimiento altos, y riesgo de **responsabilidad del sucesor** que el derecho impone para evitar fraudes a acreedores). El debate fiscal-corporativo: ¿hasta dónde la **neutralidad fiscal** de las reestructuras es un incentivo legítimo a la eficiencia y dónde empieza la elusión (razón de negocios, art. 5-A CFF ⟳)?
+
+**Mirada de AED.** La neutralidad fiscal existe porque gravar una reorganización que no realiza valor económico real (solo reordena la propiedad) **desincentivaría** operaciones eficientes: sería un impuesto a la reasignación de activos. El derecho, en clave de Coase, busca no interferir con la migración de activos hacia su uso más valioso —salvo que la operación **solo** persiga el beneficio fiscal (ahí la sustancia económica se vuelve el filtro).
+
+**Comparado y lección para México.** El **IRC estadounidense** (reorganizaciones tipo A/B/C, *forward/reverse triangular mergers*) es la ingeniería más sofisticada del mundo para preservar neutralidad y contratos; el *reverse triangular merger* se diseñó precisamente para que la *target* sobreviva y sus contratos no se "disparen" por cambio de control. México reconoce fusión y escisión con neutralidad condicionada, pero sin esa riqueza de vehículos. **Lección:** importar la lógica del *reverse triangular merger* al diseñar adquisiciones donde los contratos clave tienen cláusulas de *change of control*.
+
+**Crítica.** La sofisticación estructural genera **arbitraje regulatorio y fiscal**: estructuras que existen solo para minimizar impuestos sin sustancia (combatidas por BEPS y las GAAR). La crítica: el ingenio estructural puede desplazar valor del fisco (y de la sociedad) hacia los accionistas sin crear riqueza real.
+
+**Jurisprudencia y operación real.** El caso **Grupo Modelo–AB InBev** mostró que la estructura la rediseña la **autoridad de competencia**: la desinversión de Corona en EE. UU. fue condición estructural, no fiscal. En reestructuras de deuda (Vitro), la estructura intragrupo de garantías definió la prelación. En la práctica, la estructura se decide en una matriz de tres columnas: **fiscal · pasivos · aprobaciones**.
+
+**Para leer más:** Ginsburg & Levin, *Mergers, Acquisitions, and Buyouts*; Depamphilis, *Mergers & Acquisitions*; informes BEPS (Acciones 2 y 6).

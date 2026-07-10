@@ -762,3 +762,24 @@ EE. UU.: ***employment at will*** (despido libre, con excepciones) —opuesto a 
 - **Intermedio:** De la Cueva, *El nuevo derecho mexicano del trabajo*.
 - **Avanzado:** análisis del capítulo laboral del T-MEC.
 - **Internacional:** convenios de la OIT (libertad sindical, 87 y 98).
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El derecho del trabajo nació para corregir una **asimetría de poder**: en la relación individual, el trabajador negocia desde la necesidad y el patrón desde el capital. Por eso es un derecho **tutelar** (principio protector, *in dubio pro operario*), no paritario —constitucionalizado en México en el art. 123 (1917), pionero mundial junto con Weimar. Su lógica no es la igualdad formal del contrato civil, sino la **compensación de la desigualdad real**.
+
+**El debate.** **Flexibilidad vs. protección (*flexicurity*):** ¿la rigidez protectora (estabilidad, indemnizaciones) protege al trabajador o **desincentiva la contratación formal** y alimenta la informalidad? La escuela del *law & economics* laboral (y el Banco Mundial) sostiene lo segundo; la tradición tutelar responde que sin protección el mercado laboral se vuelve abusivo. México vive la tensión: 50%+ de informalidad ⚠️. Debate reciente: la reforma de **subcontratación 2021** —¿protegió o encareció la formalidad?
+
+**Mirada de AED.** El salario mínimo, la estabilidad y las indemnizaciones son **precios y seguros** con efectos de incentivo: pueden reducir empleo formal (si el costo excede la productividad marginal) o aumentar productividad y demanda (tesis del salario de eficiencia). El *outsourcing* fue, en clave económica, **arbitraje regulatorio** (evadir PTU y cargas); la reforma 2021 lo cerró.
+
+**Comparado y lección para México.** EE. UU.: ***employment at will*** (despido libre) —máxima flexibilidad. Europa continental: alta protección. La reforma laboral mexicana de **2019** (justicia laboral, libertad sindical, voto libre y secreto) respondió a compromisos del **T-MEC**. **Lección:** hoy el derecho laboral mexicano es **materia de comercio internacional** —una violación sindical local puede detonar aranceles.
+
+**Crítica.** El modelo tutelar rígido es acusado de **beneficiar al *insider*** (el que ya tiene empleo formal) a costa del *outsider* (informal, joven). Y el sindicalismo mexicano histórico, de corporativo y de "contratos de protección".
+
+**Jurisprudencia y operación real.** El **Mecanismo Laboral de Respuesta Rápida** del T-MEC (2021-2024 ⚠️) activó quejas contra plantas mexicanas por libertad sindical. En M&A, el pasivo laboral (sustitución patronal, antigüedades, REPSE) ajusta el precio o mata el *deal*.
+
+**Para leer más:** De la Cueva, *El nuevo derecho mexicano del trabajo*; Convenios OIT 87 y 98; capítulo laboral del T-MEC; literatura de *flexicurity* (OCDE).

@@ -716,3 +716,24 @@ La tradición **continental** (codificación, papel central del Estado) frente a
 - **Intermedio:** Robert Heilbroner, *Los filósofos terrenales*.
 - **Avanzado:** Keynes, *Teoría general*; Hayek, *Camino de servidumbre*.
 - **Internacional:** Skidelsky, *Keynes: el regreso del maestro*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** Conocer la historia de las ideas jurídicas y económicas es **entrenar el juicio para anticipar**: las reformas del futuro son variaciones de debates viejos. Quien conoce el arco iusnaturalismo→positivismo→realismo, o mercado→Estado→mercado, **lee las tendencias** antes de que se legislen.
+
+**El debate (los grandes duelos).** **Keynes vs. Hayek:** ¿el Estado estabiliza la economía (demanda agregada) o la distorsiona (el conocimiento está disperso, la planificación falla)? **Marx vs. la economía clásica:** ¿el derecho es superestructura al servicio del capital o marco neutral del intercambio? **Iusnaturalismo vs. positivismo:** ¿hay derecho por encima de la ley? Cada crisis (1929, 2008, 2020) reabre estos duelos y redefine la regulación que el abogado corporativo deberá navegar.
+
+**Mirada de AED.** El **análisis económico del derecho** (Coase, Posner, Calabresi) es el capítulo más reciente de esta historia: aplicó la economía a instituciones jurídicas, transformando el antitrust, la responsabilidad y los contratos. Su rival contemporáneo, la **economía conductual** (Kahneman, Thaler), matiza el supuesto de racionalidad.
+
+**Comparado y lección para México.** La tradición **continental** (codificación, Estado central) vs. la **anglosajona** (*common law*, confianza en mercado y precedente) reflejan filosofías políticas distintas. **Lección:** México, país codificado con creciente influencia del AED estadounidense (competencia, financiero), vive esa tensión; el abogado que conoce ambas gramáticas asesora mejor en un mundo integrado.
+
+**Crítica.** La historia "whig" (progreso lineal) es ingenua: el derecho avanza y retrocede (nacionalizaciones/privatizaciones). Y el AED es criticado por reducir la justicia a eficiencia, ignorando distribución y dignidad.
+
+**Jurisprudencia y operación real.** La respuesta a **2008** (Dodd-Frank) y a **Enron** (Sarbanes-Oxley) muestra cómo la crisis convierte el debate ideológico en regulación concreta. Entender esa dinámica permite anticipar el marco de *compliance* y capital de la próxima década.
+
+**Para leer más:** Heilbroner, *Los filósofos terrenales*; Keynes, *Teoría general*; Hayek, *Camino de servidumbre*; Skidelsky, *Keynes*; Posner, *El análisis económico del derecho*.

@@ -6,6 +6,35 @@
 
 ---
 
+## [4.6] — 2026-07 · «Profundidad intelectual: Cátedra del Consejo Editorial» — *rama `v4.6-profundizacion`, PR*
+
+> **Qué es la v4.6.** El salto de "manual excelente" a "obra de referencia". No agrega temas: agrega
+> **densidad intelectual**. Cada capítulo responde ahora cinco preguntas —qué es, cómo funciona en México,
+> por qué existe (fundamento económico, filosófico, histórico), qué dice la doctrina y el comparado, y
+> cómo razona un socio internacional— sin sacrificar la claridad pedagógica.
+
+### Añadido — «🎓 Profundización — Cátedra del Consejo Editorial» en los 52 capítulos
+Segunda capa (complementa, no repite, el Suplemento de v4.3), con seis focos por capítulo:
+- **Por qué existe** (historia + fundamento) · **El debate doctrinal** (posiciones enfrentadas y cuál
+  predomina) · **Mirada de Análisis Económico del Derecho** (incentivos, costos de transacción, agencia,
+  eficiencia, riesgo) · **Derecho comparado** con *el porqué y la lección para México* · **Crítica** a la
+  institución · **Jurisprudencia paradigmática y operación real** · lecturas avanzadas.
+
+### Densidad incorporada
+- **Debates:** Hart–Dworkin, Savigny–Thibaut, Keynes–Hayek, Bork vs. Lina Khan, Chevron/Loper Bright,
+  Duke of Westminster/Gregory, shareholder vs. stakeholder, *efficient breach*, prisión preventiva oficiosa.
+- **AED sistemático:** Coase, Calabresi, Posner, Akerlof, Jensen-Meckling, Modigliani-Miller, Williamson,
+  Hansmann-Kraakman, Ayres-Gertner, Merrill-Smith, Becker; matiz conductual (Kahneman, Thaler).
+- **Jurisprudencia paradigmática:** Van Gorkom, Revlon, Unocal, Caremark, MFW, Akorn, DFC Global, Salomon,
+  Marbury, Gregory v. Helvering, Hadley v. Baxendale, Carroll Towing (con remisión a fuente/SJF).
+- **Comparado:** Delaware, *Magic Circle*, UCC Art. 9, Chapter 11, GDPR/Schrems, CERCLA, FCPA/UK Bribery, BEPS.
+
+### Regenerado
+- **Libro completo** (60 cap., ~6.5 MB) y **dos tomos** (Tomo I ~2.8 MB, Tomo II ~4.1 MB) con ambas capas.
+- QA: **0 enlaces `.md` rotos**, **0 markdown roto**, sin markdown crudo residual.
+
+---
+
 ## [4.3] — 2026-07 · «Consejo Editorial: elevación de los 52 capítulos» — *rama `v4.3-elevacion-editorial`, PR*
 
 > **Qué es la v4.3.** La ejecución del [prompt del Consejo Editorial](./Consejo-Editorial/PROMPT-Revision-Editorial.md):

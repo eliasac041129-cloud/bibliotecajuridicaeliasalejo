@@ -726,3 +726,24 @@ La **Convención de Nueva York (1958)** —ratificada por 170+ Estados— hace e
 - **Intermedio:** Ley Modelo UNCITRAL; Reglamento CCI.
 - **Avanzado:** Gary Born, *International Commercial Arbitration*.
 - **Internacional:** Convención de Nueva York (1958); Convenio CIADI/ICSID.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El DIP existe porque el comercio cruza fronteras pero el derecho es nacional: se necesita un método para decidir **qué ley aplica, qué juez es competente y dónde se ejecuta** una decisión. El arbitraje comercial nació para dar a ese comercio un foro **neutral, especializado y ejecutable globalmente**, escapando de la desconfianza a los tribunales de la contraparte.
+
+**El debate.** **Autonomía de la voluntad conflictual:** ¿pueden las partes elegir libremente la ley aplicable, incluso una "a-nacional" (*lex mercatoria*, Principios UNIDROIT)? Debate sobre el **ISDS** (arbitraje inversionista-Estado): ¿protege la inversión frente al riesgo regulatorio soberano, o **limita indebidamente la soberanía** y el derecho a regular (salud, ambiente)? La UE viró contra el ISDS clásico; el T-MEC lo **acotó**. Es el debate geopolítico-jurídico del momento.
+
+**Mirada de AED.** El arbitraje reduce **costos de transacción** del comercio internacional: neutralidad (nadie juega de local), especialización (árbitros expertos) y —clave— **ejecutabilidad** vía Convención de Nueva York (1958) en 170+ países, algo que ninguna sentencia estatal logra. Es infraestructura institucional que hace posible la inversión transfronteriza.
+
+**Comparado y lección para México.** La **Ley Modelo UNCITRAL** armonizó el arbitraje; los grandes foros (CCI, LCIA, ICSID) compiten por sedes. México es parte de la Convención de Nueva York y del CIADI (con matices). **Lección:** la **elección de sede y ley** es estratégica; una cláusula bien diseñada vale más que páginas de derecho sustantivo.
+
+**Crítica.** Al arbitraje se le reprocha **costo elevado** (justicia de grandes), **opacidad** y, en inversión, un sesgo pro-inversionista y falta de coherencia (laudos contradictorios, árbitros con doble sombrero).
+
+**Jurisprudencia y operación real.** Los **arbitrajes de inversión contra México** (energía, T-MEC/TLCUEM ⚠️) muestran el ISDS como contrapeso al riesgo regulatorio. En la práctica, una cláusula arbitral **patológica** (sede/reglas ambiguas) puede volver el laudo inejecutable: el detalle lo es todo.
+
+**Para leer más:** Gary Born, *International Commercial Arbitration*; Convención de Nueva York (1958); Convenio CIADI; Principios UNIDROIT.
