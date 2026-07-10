@@ -1478,3 +1478,39 @@ toman y se blindan las grandes decisiones corporativas**.
 > central del abogado de transacciones. Ahora ampliamos hacia tu perfil: en el **Libro 5 · Derecho
 > Bancario y Financiamiento Corporativo** aprenderás **cómo se paga** todo esto —la deuda, las garantías,
 > los covenants financieros, el acquisition finance—, la otra mitad de casi cualquier operación compleja.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+La documentación es donde el abogado **materializa la asignación de riesgo**. El socio sabe que el 90% del valor jurídico de un *deal* vive en cuatro lugares del SPA: **declaraciones y garantías**, **obligaciones de hacer/no hacer (*covenants*)**, **condiciones de cierre** e **indemnización** (con sus *caps*, *baskets*, *survival* y *escrow*). El resto es andamiaje. Y el **SHA** define la convivencia futura: consejo, veto, salidas.
+
+### Doctrina y debate
+- **Función de las *reps & warranties*:** distribuir el riesgo de información (Akerlof) y crear un derecho de indemnización con base contractual, más fuerte que el saneamiento legal.
+- **Debate clásico (planteado por el propio prompt):** *¿deben las reps & warranties sobrevivir cinco años?* Un *survival* largo protege al comprador pero encarece y eterniza el riesgo del vendedor; el mercado tiende a 12-24 meses (salvo fundamentales/fiscales/laborales). No hay respuesta única: **depende del riesgo y del poder de negociación**.
+- ***Sandbagging*:** ¿puede el comprador reclamar por una *rep* falsa que **ya conocía**? Cláusula *pro-sandbagging* vs. *anti-sandbagging*.
+
+### Derecho comparado
+El SPA moderno es una **importación anglosajona**; el reto en México es adaptarlo sin importar figuras vacías (*consideration*) y engancharlo al derecho local (saneamiento, nulidad, art. 1832/2248 CCF; transmisión art. 129 LGSM ⟳). El **R&W insurance** y las cláusulas *MAC*, *earn-out* y *escrow* ya son estándar en el mercado mexicano de *deals* medianos y grandes.
+
+### Caso real
+**Twitter/X–Musk (2022):** Musk quiso invocar información (cuentas *bot*) para desistirse; el SPA tenía cláusulas de *specific performance* y una MAC estrecha. Delaware iba a **forzar el cierre**, y Musk cerró en ~44,000 mdd ⚠️ *verificar*. Lección: la MAC y los *remedies* del SPA no son relleno: deciden si te puedes arrepentir.
+
+### Errores que cuestan millones
+- *Survival* y *cap* mal calibrados; **cesta (*basket*)** ambigua (¿deducible o *tipping*?).
+- SHA sin **mecanismo de salida** (deadlock, *tag/drag*, *put/call*): socios atrapados.
+
+### Preguntas
+- **Criterio:** ¿cinco años de *survival* para las *reps*? Defienda comprador y vendedor.
+- **Entrevista:** explique *cap*, *basket* y *escrow* y cómo interactúan.
+- **Examen:** enuncie las cuatro secciones de mayor riesgo de un SPA.
+
+### Bibliografía por niveles
+- **Básico:** [Banco de Formatos](../../Banco-de-Formatos/) (SPA, term sheet, SHA).
+- **Intermedio:** ABA, *Model Stock Purchase Agreement with Commentary*.
+- **Avanzado:** Adams, *A Manual of Style for Contract Drafting*.
+- **Internacional:** Kling & Nugent, *Negotiated Acquisitions of Companies, Subsidiaries and Divisions*.

@@ -1421,3 +1421,38 @@ músculo mental que define al gran abogado de transacciones: **ver el riesgo don
 > (Libro 2) en tu poder, estás listo para dominar las **arquitecturas de la transacción**. Avanzamos al
 > **Libro 3 · Estructuras: fusiones, escisiones y adquisiciones**, donde aprenderás, con precisión
 > técnica, **cómo** se compra y se combina una empresa.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El *due diligence* (DD) es **comprar información para asignar riesgo**. El socio no busca "revisar todo": busca los ***deal breakers*** (contingencias que matan la operación) y los ***deal points*** (hallazgos que cambian precio o cláusulas). Cada hallazgo tiene tres destinos posibles: **ajuste de precio, indemnización específica o condición de cierre**. El DD sin conexión con el SPA es papel muerto.
+
+### Doctrina y debate
+- **Asimetría de información (Akerlof, *The Market for Lemons*):** el vendedor sabe más que el comprador; el DD y las *representations & warranties* existen para cerrar esa brecha.
+- **Debate:** ¿DD exhaustivo (costoso, lento) o DD basado en riesgo/materialidad? La tendencia es **risk-based** y por *data room* virtual con IA.
+
+### Derecho comparado
+En EE. UU. el DD alimenta las *reps & warranties* y el *disclosure schedule*; el mercado desarrolló el seguro **R&W (Representations & Warranties Insurance)** que traslada el riesgo a una aseguradora —hoy común también en México en *deals* grandes. En la UE, ciertos pasivos (ambientales, laborales) pesan más.
+
+### Caso real
+**Bayer–Monsanto (2018):** el DD **no dimensionó** el riesgo del litigio por glifosato; Bayer heredó miles de demandas y provisiones por decenas de miles de mdd ⚠️ *verificar*. **HP–Autonomy (2011):** HP alegó fraude contable no detectado y castigó ~8,800 mdd ⚠️. Lección: lo que el DD no ve, el comprador lo paga.
+
+### Errores que cuestan millones
+- DD que **no se traduce** en cláusulas del SPA (hallazgo sin remedio).
+- No revisar **cambio de control** en contratos clave (un cliente o crédito puede terminar por la adquisición).
+
+### Preguntas
+- **Criterio:** ¿conviene un DD exhaustivo o uno basado en materialidad? ¿Cuándo cambia?
+- **Entrevista:** encontró una contingencia fiscal de $10M en el DD; ¿qué tres cosas puede hacer en el SPA?
+- **Examen:** ¿qué es una cláusula de cambio de control y por qué se revisa en DD?
+
+### Bibliografía por niveles
+- **Básico:** guías de *due diligence* de firmas (checklists).
+- **Intermedio:** Reed, Lajoux, *The Art of M&A Due Diligence*.
+- **Avanzado:** Akerlof, *The Market for Lemons* (fundamento económico).
+- **Internacional:** ABA, *Model Stock Purchase Agreement with Commentary*.

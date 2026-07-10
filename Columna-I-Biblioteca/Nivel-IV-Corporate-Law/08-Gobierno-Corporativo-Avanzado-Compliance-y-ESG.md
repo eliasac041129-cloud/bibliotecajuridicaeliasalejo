@@ -1446,3 +1446,39 @@ empresa como institución**, el perfil del abogado corporativo de élite.
 > derecho: **piensa como un socio de negocios**. Por eso cruzamos al **Nivel V · Maestría**, donde
 > aprenderás las herramientas que coronan al gran abogado corporativo: **negociación, finanzas, valuación
 > y estrategia**. El destino —ser uno de los mejores— está cada vez más cerca.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+*Compliance* no es burocracia: es **transferir el riesgo del delito de la empresa al programa**. El socio diseña programas que, ante una investigación, demuestren **cultura, controles y reacción** —lo que reduce sanciones y, a veces, evita la imputación. En M&A, hereda el riesgo del vendedor: un pasivo de corrupción o lavado no visto en el DD puede costar más que la empresa comprada (**responsabilidad del sucesor**).
+
+### Doctrina y debate
+- **¿El *compliance* crea valor o solo cuesta?** (debate del prompt): la evidencia sugiere que un programa **real** reduce el costo esperado de sanciones y litigios; uno **cosmético** (*paper program*) solo agrega costo y falsa seguridad.
+- **Responsabilidad penal de la persona moral** (en México, art. 421 CNPP y criterios de *compliance* como atenuante ⟳): el programa efectivo puede eximir o atenuar.
+- **ESG:** ¿deber fiduciario ampliado o *greenwashing*? Debate Friedman vs. *stakeholder capitalism*.
+
+### Derecho comparado
+Tres regímenes marcan el estándar: **FCPA** (EE. UU., cohecho a funcionarios extranjeros, jurisdicción extraterritorial), **UK Bribery Act** (más severo, incluye cohecho privado y el delito de "no prevención"), y en México la **LGRA** y el **Sistema Nacional Anticorrupción** ⟳. En PLD/AML, los estándares GAFI son globales.
+
+### Caso real
+**Odebrecht / Lava Jato:** el mayor esquema de sobornos de la historia (~788 mdd en coimas ⚠️ *verificar*) tumbó gobiernos y empresas en toda Latinoamérica. **Siemens (FCPA, 2008, ~1,600 mdd ⚠️)** y **Walmart de México (FCPA)** mostraron que la matriz responde por su filial. Lección: sin *compliance* real, la corrupción de un gerente local se vuelve un pasivo global.
+
+### Errores que cuestan millones
+- ***Paper program*** sin capacitación, monitoreo ni consecuencias.
+- No hacer **DD anticorrupción** del *target* (responsabilidad del sucesor).
+
+### Preguntas
+- **Criterio:** ¿el *compliance* genera valor o es burocracia defensiva? ¿Y el ESG?
+- **Entrevista:** ¿qué elementos hacen "efectivo" a un programa de *compliance*?
+- **Examen:** compare FCPA y UK Bribery Act en un punto clave.
+
+### Bibliografía por niveles
+- **Básico:** *Resource Guide to the FCPA* (DOJ/SEC).
+- **Intermedio:** materiales del Sistema Nacional Anticorrupción y la LGRA.
+- **Avanzado:** Kaplan & Walker, *Compliance Programs* (literatura de efectividad).
+- **Internacional:** OCDE, Convención Anticohecho; estándares GAFI (AML).

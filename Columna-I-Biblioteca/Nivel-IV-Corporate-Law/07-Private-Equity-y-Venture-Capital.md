@@ -1391,3 +1391,41 @@ con **cómo se mueve el capital y se crea valor** en el mundo real.
 > **legitimidad y sostenibilidad** a todo: en el **Libro 8 · Gobierno Corporativo Avanzado, Compliance y
 > ESG** —que cierra el Nivel IV— aprenderás el marco que **protege y legitima** a la empresa y a quienes la
 > dirigen en cada operación que has estudiado.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+PE y VC son **capital con reloj**: entran para salir (5-10 años) con un múltiplo. El abogado debe entender **cómo gana el fondo** (IRR, MOIC), porque cada cláusula sirve a esa salida: **preferencia de liquidación, antidilución, *drag-along*, *vesting* de fundadores, *pool* de opciones**. En VC piensa en la **cap table** y la **dilución** ronda tras ronda; en PE, en el **LBO** (comprar con deuda) y los *covenants* que lo sostienen.
+
+### Doctrina y debate
+- **PE y disciplina de la deuda (Jensen, *Eclipse of the Public Corporation*, 1989):** el apalancamiento del LBO obliga a la eficiencia y reduce el *free cash flow* discrecional del *management*.
+- **VC como gobierno por etapas (Gilson & Black; Kaplan & Strömberg):** financiamiento por rondas, acciones preferentes convertibles y derechos de control contingentes para alinear a fundador e inversionista.
+- **Debate:** ¿el PE crea valor (eficiencia operativa) o lo extrae (*dividend recaps*, despidos, *asset stripping*)?
+
+### Finanzas mínimas
+- **IRR** (tasa interna de retorno) y **MOIC** (múltiplo sobre capital invertido): las dos métricas del fondo.
+- **LBO:** comprar con poca *equity* y mucha deuda; la deuda se paga con el flujo de la propia adquirida. Amplifica retornos… y pérdidas.
+- **Cap table y dilución:** cada ronda y cada opción reparte de nuevo el pastel; la **preferencia de liquidación** decide quién cobra primero en la venta.
+
+### Caso real
+**WeWork / SoftBank (2019):** VC sin disciplina; valuación de ~47,000 mdd ⚠️ *verificar* que se desplomó al exponerse el gobierno y las pérdidas. **FTX (2022):** fondos de primer nivel (Sequoia, etc.) invirtieron **sin *due diligence* ni asientos de control**; el fraude los borró. Lección: en VC, el *term sheet* y el gobierno no son formalismo —son la diferencia entre invertir y donar.
+
+### Errores que cuestan millones
+- Fundadores que firman **preferencias de liquidación participativas** y *down rounds* con antidilución *full ratchet* sin entender la dilución.
+- Invertir **sin derechos de información ni asiento** en el consejo (caso FTX).
+
+### Preguntas
+- **Criterio:** ¿el private equity crea o extrae valor? Defienda con evidencia.
+- **Entrevista:** explique preferencia de liquidación 1x participativa vs. no participativa.
+- **Examen:** ¿qué es un LBO y por qué amplifica el retorno?
+
+### Bibliografía por niveles
+- **Básico:** NVCA Model Legal Documents (term sheet).
+- **Intermedio:** Feld & Mendelson, *Venture Deals*.
+- **Avanzado:** Gilson, *Engineering a Venture Capital Market* (Stanford Law Review).
+- **Internacional:** Kaplan & Strömberg, *Financial Contracting Theory Meets the Real World*.

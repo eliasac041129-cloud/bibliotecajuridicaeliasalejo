@@ -1389,3 +1389,39 @@ repertorio** de las operaciones corporativas complejas —exactamente el especia
 > se usan con mayor intensidad y sofisticación: en el **Libro 7 · Private Equity y Venture Capital**
 > aprenderás a verlas desde el lado del **inversionista profesional** que las combina para crear —y
 > capturar— valor.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Una *joint venture* (JV) o alianza estratégica es un **matrimonio corporativo**: fácil de casar, difícil de divorciar. El socio dedica el 80% de la negociación a dos cosas que parecen pesimistas pero son las que salvan valor: **gobierno (quién decide y cómo se rompe un empate/*deadlock*)** y **salida (*put/call*, *tag/drag*, disolución)**. La entrada la diseña pensando en la salida.
+
+### Doctrina y debate
+- **Contratos incompletos (Grossman-Hart-Moore):** ningún contrato prevé todo; por eso importan la **asignación de derechos de control residual** y los mecanismos de gobierno para lo no previsto (Nobel de Hart, 2016).
+- **Contratos relacionales (Macaulay, Macneil):** en relaciones de largo plazo, la confianza y la renegociación pesan tanto como la letra.
+- **Debate:** ¿más detalle contractual (rigidez) o más mecanismos de gobierno flexibles?
+
+### Derecho comparado
+Las JV se documentan con lógica anglosajona (*shareholders'/JV agreement*) adaptada al vehículo local. Cláusulas de *deadlock* como el ***Texas shoot-out*** o el ***Russian roulette*** (uno fija precio, el otro elige comprar o vender) son estándar internacional para romper empates 50/50.
+
+### Caso real
+***Deadlocks* que destruyen valor:** JV paritarias (50/50) sin mecanismo de desempate han paralizado empresas rentables hasta llevarlas a disolución judicial. En contraste, alianzas como **Sony Ericsson** funcionaron con gobierno claro y luego se resolvieron por compra de una parte a la otra. Lección: el 50/50 sin válvula de escape es una bomba de tiempo.
+
+### Errores que cuestan millones
+- JV **50/50 sin mecanismo de *deadlock***.
+- No pactar **no competencia, propiedad de la IP creada y destino de los activos** al disolver.
+
+### Preguntas
+- **Criterio:** ¿conviene una JV paritaria o siempre debe haber un socio con control?
+- **Entrevista:** explique un mecanismo de *Russian roulette* y cuándo lo usaría.
+- **Examen:** ¿qué es un *deadlock* y cómo se previene?
+
+### Bibliografía por niveles
+- **Básico:** modelos de *JV agreement* (firmas).
+- **Intermedio:** Wolf, *Effective International Joint Venture Management*.
+- **Avanzado:** Hart, *Firms, Contracts and Financial Structure* (contratos incompletos).
+- **Internacional:** Grossman & Hart, *The Costs and Benefits of Ownership* (JLE).

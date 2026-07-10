@@ -998,3 +998,38 @@ el M&A domina el lenguaje en el que se toman las grandes decisiones empresariale
 > de una sola partida. En el **Libro 2 · Due Diligence** abriremos la caja negra de la operación: cómo
 > se investiga de verdad lo que se compra y cómo cada hallazgo se convierte en protección contractual.
 > El abogado corporativo de élite ya no es una meta lejana: es el camino que estás recorriendo.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Una fusión o adquisición no se decide por su lógica jurídica: se decide por **creación de valor** (sinergias, control, escala) y se ejecuta gestionando **riesgo e incertidumbre**. El socio piensa en tres tiempos —*signing*, periodo intermedio y *closing*— y en una pregunta obsesiva: *¿qué puede matar el deal entre la firma y el cierre?* De ahí nacen las condiciones, la cláusula **MAC/MAE** y las obligaciones de comportamiento del vendedor.
+
+### Doctrina y debate
+- **¿Por qué existen las fusiones?** Sinergias (Bradley, Desai, Kim), teoría del **imperio del *management*** (compras que benefician al ejecutivo, no al accionista) y **hubris** (Roll): muchas M&A destruyen valor. Debate: ¿la mayoría de las adquisiciones crean o destruyen valor para el comprador?
+- **Deberes fiduciarios en la venta de control** (Delaware): deber *Revlon* de maximizar precio; defensas anti-OPA (*poison pill*, *Unocal*).
+
+### Derecho comparado
+El *playbook* mundial de M&A es de **Delaware** y la *Big Law* de Nueva York/Londres (Kirkland, Skadden, Latham, White & Case, *Magic Circle*). México adapta ese *toolkit* (SPA, SHA, MAC) al derecho local (LGSM, LMV, LFCE ⟳). En operaciones públicas, las OPAs se rigen por la LMV y la CNBV.
+
+### Caso real
+**Disney–Fox (2019, ~71,300 mdd ⚠️ *verificar*):** guerra de ofertas Disney vs. Comcast por los activos de Fox; ejemplo maestro de **subasta, deber fiduciario de maximizar valor y aprobación antimonopolio**. **Microsoft–Activision (2023, ~69,000 mdd ⚠️):** mostró que hoy el verdadero riesgo del *deal* es **regulatorio** (CMA británica, FTC, Comisión Europea), no financiero.
+
+### Errores que cuestan millones
+- **Pagar de más** por sinergias sobreestimadas (*winner's curse*, hubris).
+- Redactar mal la **MAC/MAE** y no poder salir cuando el negocio se deteriora (o quedar atrapado, como Musk en Twitter).
+
+### Preguntas
+- **Criterio:** si la mayoría de las adquisiciones destruyen valor para el comprador, ¿por qué siguen ocurriendo?
+- **Entrevista:** explique la diferencia entre *signing* y *closing* y qué vive en medio.
+- **Examen:** ¿qué es una cláusula MAC y para qué sirve?
+
+### Bibliografía por niveles
+- **Básico:** Sanjay Anand / notas de práctica de M&A.
+- **Intermedio:** Depamphilis, *Mergers, Acquisitions, and Other Restructuring Activities*.
+- **Avanzado:** Gilson & Black, *The Law and Finance of Corporate Acquisitions*.
+- **Internacional:** Wachtell Lipton, *Takeover Law and Practice* (memorándum anual).

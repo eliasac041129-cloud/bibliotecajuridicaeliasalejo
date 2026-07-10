@@ -953,3 +953,39 @@ a honorarios altos y recurrentes.*
 
 *Nivel IV · Libro 9 · Fiscal Corporativo y Planeación Fiscal de Operaciones. Estándar V3.
 Subordinado al Documento Fundacional AJE y al Protocolo de Verificación.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El fiscalista corporativo piensa en **rendimiento después de impuestos**: una operación brillante que ignora la carga fiscal destruye valor. Su terreno es la frontera —cada vez más vigilada— entre **planeación legítima (economía de opción)** y **elusión/evasión**. La brújula es la **sustancia**: ¿la operación tiene una **razón de negocios** real (art. 5-A CFF ✅ ⟳) más allá del ahorro fiscal?
+
+### Doctrina y debate
+- **Sustancia sobre forma** y **cláusula general antiabuso (GAAR):** el fisco puede recaracterizar operaciones sin sustancia económica. Debate: ¿dónde termina la planeación y empieza el abuso?
+- **BEPS (OCDE):** erosión de la base y traslado de utilidades; *treaty shopping*, precios de transferencia (*arm's length*), establecimiento permanente.
+- **Debate:** ¿la moralidad fiscal existe o solo la legalidad? (Postura de las multinacionales vs. la opinión pública tras los *leaks*).
+
+### Derecho comparado
+El proyecto **BEPS** (OCDE/G20) reordenó la fiscalidad internacional; EE. UU. añadió **GILTI/BEAT** (2017). La UE persigue las ayudas de Estado fiscales. México incorporó **razón de negocios (5-A CFF)**, revelación de esquemas reportables y reglas de precios de transferencia (LISR ⟳).
+
+### Caso real
+**Apple–Irlanda (ayudas de Estado, UE):** la Comisión Europea ordenó recuperar **~13,000 mdEUR ⚠️ *verificar*** por un régimen fiscal considerado ayuda ilegal (confirmado por el TJUE en 2024 ⚠️). **Starbucks y Amazon** enfrentaron casos análogos. Lección: la planeación agresiva sin sustancia se volvió riesgo reputacional y de recuperación multimillonaria.
+
+### Errores que cuestan millones
+- Estructuras **sin sustancia** (sociedades instrumentales) que el fisco recaracteriza (5-A CFF ⟳).
+- Ignorar **precios de transferencia** entre partes relacionadas.
+
+### Preguntas
+- **Criterio:** ¿la "planeación fiscal agresiva" es legítima si es legal?
+- **Entrevista:** ¿qué es una "razón de negocios" y por qué salva (o hunde) una reestructura?
+- **Examen:** explique el principio de sustancia sobre forma.
+
+### Bibliografía por niveles
+- **Básico:** ver el tratado base y [Derecho Fiscal](../Ramas-Esenciales/01-Derecho-Fiscal.md).
+- **Intermedio:** OCDE, *Acciones BEPS* (resúmenes).
+- **Avanzado:** Rosembuj, *El fraude de ley y el abuso de las formas*.
+- **Internacional:** OCDE, *Model Tax Convention*; informes BEPS 2015.
