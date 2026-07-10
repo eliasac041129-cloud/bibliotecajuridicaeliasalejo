@@ -92,6 +92,15 @@ for f in sorted(glob.glob("Banco-de-Formatos/*.md")):
     anexo.append((title,anchor,md2html(strip_h1(txt))))
 toc.append(("Anexo A","Banco de Formatos",[(t,a) for t,a,_ in anexo]))
 
+# Anexo: Banco de Jurisprudencia (README como intro + criterios por rama)
+anexo_juris=[]
+for fn in ["Banco-de-Jurisprudencia/README.md","Banco-de-Jurisprudencia/Criterios-Clave-por-Rama.md"]:
+    if not os.path.exists(fn): continue
+    txt=open(fn,encoding="utf-8").read()
+    title=first_h1(txt); cap_n+=1; anchor=f"cap-{cap_n}"
+    anexo_juris.append((title,anchor,md2html(strip_h1(txt))))
+toc.append(("Anexo B","Banco de Jurisprudencia",[(t,a) for t,a,_ in anexo_juris]))
+
 # ---------- CSS estilo Porrúa ----------
 CSS = r"""
 :root{ --ink:#1a1610; --accent:#6b1420; --paper:#fdfbf6; --rule:#cdc7ba; --tint:#f1eee7; }
@@ -150,6 +159,7 @@ li{ margin:.08em 0;}
 .portada .titulo{ font-size:2.15rem; line-height:1.12; margin:.2em 0; font-weight:700;}
 .portada .subtitulo{ font-size:.98rem; font-style:italic; color:#3c342a; max-width:24em; margin:.7em auto 0;}
 .portada .especialidad{ font-variant:small-caps; letter-spacing:.06em; color:var(--accent); font-size:.92rem; margin:1em auto 0; max-width:26em;}
+.portada .edicion{ font-variant:small-caps; letter-spacing:.05em; color:#4a4133; font-size:.8rem; margin:.6em auto 0; max-width:26em; line-height:1.4;}
 .portada .autor{ margin-top:auto; font-size:1.15rem; font-variant:small-caps; letter-spacing:.08em;}
 .portada .sello{ font-size:.85rem; color:#4a4133; margin-top:.2em;}
 .portada .fecha{ font-style:italic; color:#4a4133; margin-top:.3em; font-size:.9rem;}
@@ -207,6 +217,7 @@ def portada():
  <div class="especialidad">Especialidad en Derecho Fiscal-Corporativo · Fusiones y Adquisiciones (M&amp;A) · Competencia Económica · Financiamiento y Gobierno Corporativo</div>
  <div class="subtitulo">Obra de doctrina y práctica construida sobre 27 leyes oficiales verificadas <em>verbatim</em>, con disciplina de vigencia&nbsp;⟳.</div>
  <div class="filete"></div>
+ <div class="edicion">Edición ampliada · con los Suplementos del Consejo Editorial<br>(doctrina, derecho comparado, casos reales y bibliografía en cada capítulo)</div>
  <div class="autor">Elias Alejo</div>
  <div class="sello">Biblioteca Jurídica AJE</div>
  <div class="fecha">{FECHA}</div>
@@ -215,7 +226,8 @@ def portada():
 def pagina_legal():
     return f"""<section class="page nueva-pagina">
  <div style="margin-top:60%;font-size:.95rem;color:#4d4130;">
- <p><strong>Manual para Ejercer el Derecho Corporativo.</strong> Primera edición, {FECHA}.</p>
+ <p><strong>Manual para Ejercer el Derecho Corporativo.</strong> Segunda edición, ampliada con los
+ <strong>Suplementos del Consejo Editorial</strong> —{FECHA}.</p>
  <p>Autor: <strong>Elias Alejo</strong>. Obra formativa de la <em>Biblioteca Jurídica AJE</em>, elaborada
  durante la formación del autor en la Facultad de Estudios Superiores Aragón, UNAM.</p>
  <p>Esta obra es un <strong>instrumento de estudio y ejercicio profesional</strong>. Todo fundamento legal
@@ -272,10 +284,17 @@ def consideraciones():
  <em>«¿sigue vigente y con este mismo número hoy? Reitéralo en su código antes de citarlo.»</em> El Derecho
  cambia sin avisar —lo comprobamos: artículos derogados e incluso un código entero (el CFPC) en vías de
  abrogación. <strong>Jamás cites de memoria.</strong> La última palabra la tiene el código, no el libro.</p>
- <h3>3. De la lectura a la práctica</h3>
- <p>Al final encontrarás un <strong>Banco de Formatos</strong> (term sheet, acta de asamblea, pagaré,
- contrato de compraventa de acciones, aviso de privacidad, demanda de amparo). No los leas: <strong>llénalos,
- negócialos, defiéndelos</strong>. El conocimiento que no se ejerce se evapora.</p>
+ <h3>3. El Suplemento del Consejo Editorial</h3>
+ <p>Cada capítulo cierra con un <strong>⚖️ Suplemento del Consejo Editorial</strong> que lo eleva a nivel de
+ obra de referencia: <em>cómo piensa un socio internacional</em>, doctrina y debate (con autores clásicos y
+ contemporáneos), <em>derecho comparado</em>, un <em>caso real</em>, los <em>errores que cuestan millones</em>,
+ preguntas de criterio, entrevista y examen, y una <em>bibliografía por niveles</em>. No lo leas de corrido:
+ úsalo para <strong>discutir, comparar y formar criterio</strong>.</p>
+ <h3>4. De la lectura a la práctica</h3>
+ <p>Al final encontrarás el <strong>Anexo A — Banco de Formatos</strong> (term sheet, acta de asamblea, pagaré,
+ contrato de compraventa de acciones, aviso de privacidad, demanda de amparo) y el <strong>Anexo B — Banco de
+ Jurisprudencia</strong> (criterios clave por rama). No los leas: <strong>llénalos, negócialos, defiéndelos</strong>
+ y verifica cada criterio en su fuente. El conocimiento que no se ejerce se evapora.</p>
  <div class="ornamento"></div>
 </section>"""
 
@@ -321,9 +340,11 @@ def estructura():
  <li><strong>Parte VI — Ramas Esenciales:</strong> las materias transversales que todo abogado debe dominar
  (fiscal, constitucional y amparo, laboral, penal económico, propiedad intelectual, datos, ambiental, etc.).</li>
  <li><strong>Anexo A — Banco de Formatos:</strong> plantillas reales listas para practicar.</li>
+ <li><strong>Anexo B — Banco de Jurisprudencia:</strong> criterios clave de la SCJN por rama, con remisión al SJF.</li>
  </ul>
- <p>Cada capítulo conserva sus marcas de verificación (✅ / ⚠️ / ⟳) para que el estudio nunca se separe de la
- disciplina de la fuente.</p>
+ <p>Además, <strong>cada capítulo cierra con un ⚖️ Suplemento del Consejo Editorial</strong> (doctrina, derecho
+ comparado, caso real, errores costosos, preguntas y bibliografía) y conserva sus marcas de verificación
+ (✅ / ⚠️ / ⟳), para que el estudio nunca se separe de la disciplina de la fuente ni del criterio internacional.</p>
  <div class="ornamento"></div>
 </section>"""
 
@@ -372,6 +393,11 @@ if anexo:
     body.append(parte_portada("Anexo A","Banco de Formatos"))
     for t,a,h in anexo:
         body.append(capitulo("Anexo A", t, a, h))
+# Anexo B: Banco de Jurisprudencia
+if anexo_juris:
+    body.append(parte_portada("Anexo B","Banco de Jurisprudencia"))
+    for t,a,h in anexo_juris:
+        body.append(capitulo("Anexo B", t, a, h))
 body.append(colofon())
 
 barra = ('<div id="barra"><button onclick="window.print()">📖 Generar PDF / Imprimir</button></div>')
