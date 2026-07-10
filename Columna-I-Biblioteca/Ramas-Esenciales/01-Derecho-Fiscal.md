@@ -913,3 +913,24 @@ El fiscalista corporativo mide todo **después de impuestos** y vive en la front
 - **Intermedio:** OCDE, *Acciones BEPS*.
 - **Avanzado:** Rosembuj, *El fraude de ley y el abuso de las formas*.
 - **Internacional:** OCDE, *Model Tax Convention*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El tributo es el precio de la civilización (Holmes) y, jurídicamente, la forma en que el Estado —que renunció a ser dueño de los medios de producción— financia lo público sin expropiar: grava el flujo, no el capital. Su límite es constitucional: **capacidad contributiva, proporcionalidad y equidad** (art. 31-IV CPEUM ✅ ⟳). Todo el derecho fiscal oscila entre dos polos: la **recaudación** (interés del fisco) y la **seguridad jurídica** (interés del contribuyente).
+
+**El debate.** **Formalismo vs. sustancia:** *Duke of Westminster* (RU, 1936: cada quien organiza sus negocios para pagar menos) vs. *Gregory v. Helvering* (EE. UU., 1935: sin propósito de negocio, la operación no surte efectos fiscales). México se inclinó por la sustancia con la **razón de negocios** (art. 5-A CFF ✅ ⟳). El debate: ¿la cláusula antiabuso protege la equidad o destruye la seguridad jurídica al convertir al fisco en intérprete de la "verdadera" intención?
+
+**Mirada de AED.** El impuesto **distorsiona** decisiones (invertir, endeudarse, repartir dividendos); un buen sistema minimiza la *deadweight loss* (pérdida de eficiencia) y el costo de cumplimiento. La planeación agresiva y la competencia fiscal internacional generan una **carrera a la baja** (problema de acción colectiva global) que BEPS intenta corregir. El *enforcement* fiscal es un cálculo de probabilidad de detección × sanción (Becker, economía del delito).
+
+**Comparado y lección para México.** EE. UU. codificó la *economic substance doctrine* (2010) y GILTI/BEAT; la UE persigue ayudas de Estado (Apple–Irlanda). México adoptó razón de negocios, esquemas reportables y precios de transferencia. **Lección:** la sustancia es tendencia irreversible; el reto mexicano es dar **certeza** al contribuyente de buena fe mientras combate al abusivo.
+
+**Crítica.** Las GAAR son criticadas por **vaguedad** (¿qué es "razón de negocios"?), que traslada al contribuyente el riesgo de la interpretación del fisco. Y el sistema fiscal mexicano, por su **complejidad** y volatilidad anual, que él mismo eleva el costo de cumplimiento y empuja a la informalidad.
+
+**Jurisprudencia y operación real.** *Gregory v. Helvering* (1935) y *Duke of Westminster* (1936) son los polos históricos; **Apple–Irlanda** (TJUE 2024 ⚠️) su versión actual. En M&A, el fiscalista cuantifica la contingencia hasta la **caducidad de 5 años (art. 67 CFF ✅ ⟳)** y la traslada al vendedor.
+
+**Para leer más:** *Gregory v. Helvering* (US 1935); OCDE, informes BEPS; Tipke, *Moral tributaria del Estado y de los contribuyentes*.

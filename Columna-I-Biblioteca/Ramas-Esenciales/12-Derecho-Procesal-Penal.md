@@ -769,3 +769,24 @@ El modelo **adversarial** estadounidense (con *plea bargaining* masivo) inspiró
 - **Intermedio:** CNPP comentado.
 - **Avanzado:** Ferrajoli, *Derecho y razón*.
 - **Internacional:** jurisprudencia de la Corte IDH sobre libertad personal.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El proceso penal es donde el poder punitivo del Estado —el más temible— se somete a límites. Su fundamento es el **garantismo** (Ferrajoli): el proceso no busca solo castigar al culpable, sino **proteger al inocente** del poder, mediante presunción de inocencia, carga de la prueba en el Estado y debido proceso. El paso de México al **sistema acusatorio** (2008/2016) fue el abandono del modelo inquisitivo (expediente escrito, secreto) por uno oral, público y contradictorio.
+
+**El debate.** **Eficacia (seguridad) vs. garantías (libertad):** la eterna tensión. La **prisión preventiva oficiosa** (art. 19 CPEUM ⟳) la encarna: ¿herramienta contra la impunidad o violación frontal de la presunción de inocencia? La Corte Interamericana condenó a México (*García Rodríguez*, 2023 ⚠️), tensionando el control de convencionalidad contra el texto constitucional. Debate del ***plea bargaining*/procedimiento abreviado**: ¿justicia negociada eficiente o coacción para que el inocente se declare culpable?
+
+**Mirada de AED.** El proceso penal minimiza la suma de **costos de error** (condenar inocentes / absolver culpables) y de operación. La presunción de inocencia refleja una decisión valorativa (Blackstone: "mejor diez culpables libres que un inocente preso") sobre qué error es peor. El abreviado descongestiona el sistema pero traslada poder al fiscal.
+
+**Comparado y lección para México.** El modelo **adversarial** estadounidense (con *plea bargaining* que resuelve el 90%+ de los casos) inspiró la reforma; Europa continental conserva rasgos inquisitivos atenuados. **Lección:** la oralidad sin **capacidades** (policías, fiscales, jueces, peritos) produce impunidad; el diseño es correcto, la implementación es el reto.
+
+**Crítica.** La prisión preventiva oficiosa es criticada internacionalmente; el abreviado, por presionar declaraciones de culpabilidad; y el sistema, por baja tasa de esclarecimiento (impunidad estructural ⚠️).
+
+**Jurisprudencia y operación real.** La condena de la **Corte IDH sobre prisión preventiva oficiosa** (2023 ⚠️) es el caso vivo. En el mundo corporativo, el ejecutivo imputado por delito económico juega su libertad en la etapa inicial: la defensa temprana y las salidas alternas (acuerdos reparatorios, abreviado) son la estrategia.
+
+**Para leer más:** Ferrajoli, *Derecho y razón*; jurisprudencia de la Corte IDH sobre libertad personal; Constantino Rivera, *Sistema acusatorio*.

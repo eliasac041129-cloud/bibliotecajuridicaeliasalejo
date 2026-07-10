@@ -757,3 +757,24 @@ Las **familias empresarias** globales usan *trusts*, *family offices* y *holding
 - **Intermedio:** De Ibarrola, *Cosas y sucesiones*.
 - **Avanzado:** literatura de *family business governance* (Tagiuri & Davis, modelo de los tres círculos).
 - **Internacional:** Ward, *Keeping the Family Business Healthy*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento, y por qué le importa al corporativo).** El derecho familiar-sucesorio ordena la transmisión del patrimonio entre generaciones —y como **el 90% de las empresas mexicanas son familiares**, es donde se decide la **continuidad del control** de la empresa. La sucesión, el régimen matrimonial y el divorcio de un socio pueden fracturar una compañía tanto como una mala fusión. Aquí lo íntimo y lo corporativo se funden.
+
+**El debate.** **Libertad de testar vs. legítima (herederos forzosos):** el *common law* permite desheredar casi libremente; el *civil law* reserva una porción a los herederos (protección familiar). Debate de la **empresa familiar**: ¿protocolo familiar **vinculante** o mero pacto moral? Su fuerza jurídica es limitada, por lo que debe apoyarse en instrumentos duros (fideicomiso de control, SHA, capitulaciones). Modelo de los **tres círculos** (Tagiuri & Davis): familia, propiedad y empresa como esferas que hay que separar para gobernar.
+
+**Mirada de AED.** La sucesión mal planeada genera **costos de transacción y conflicto** (litigios entre herederos que destruyen el valor de la empresa). El fideicomiso, el testamento y el protocolo son **tecnologías de reducción de conflicto** que preservan el *going concern*. La máxima "de camisa a camisa en tres generaciones" describe la destrucción de valor por ausencia de gobierno familiar.
+
+**Comparado y lección para México.** Las familias empresarias globales usan *trusts*, *family offices* y *holdings* para separar propiedad, gobierno y gestión. México usa fideicomisos de control y *holdings* familiares; el **CNPCF (2023)** ⟳ unificó el proceso familiar. **Lección:** la planeación patrimonial y sucesoria es **gestión de riesgo corporativo**, no un trámite notarial.
+
+**Crítica.** El protocolo familiar es criticado por su **débil exigibilidad** (es más pacto de caballeros que contrato). Y la legítima, por rigidizar la sucesión de la empresa (obliga a repartir entre herederos que no la gestionan).
+
+**Jurisprudencia y operación real.** Disputas sucesorias han fragmentado grupos familiares mexicanos ⚠️ *(evítese nombrar sin verificar)*. En la práctica, el corporativo blinda las acciones del fundador según su **régimen matrimonial**, estructura la sucesión con fideicomiso y ata el gobierno familiar al SHA.
+
+**Para leer más:** Tagiuri & Davis, *Bivalent Attributes of the Family Firm* (modelo de los tres círculos); Ward, *Keeping the Family Business Healthy*; Baqueiro Rojas, *Derecho de familia y sucesiones*.

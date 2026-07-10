@@ -759,3 +759,24 @@ Pocos países tienen una figura equivalente al **ejido**; es una aportación mex
 - **Intermedio:** Ley Agraria comentada; jurisprudencia de tribunales agrarios.
 - **Avanzado:** análisis del art. 27 y la reforma de 1992.
 - **Internacional:** Convenio 169 de la OIT (consulta previa).
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El derecho agrario mexicano es hijo de la **Revolución**: el art. 27 (1917) convirtió la tierra en cuestión de justicia social, creando la **propiedad social** (ejido y comunidad) como reparación histórica. Su lógica no es la del mercado (maximizar el valor de la tierra) sino la **tutelar-social** (proteger al campesino y la tenencia colectiva). Por eso la tierra ejidal **no se compra como cualquier terreno**: sorprende al inversionista formado en la propiedad privada plena.
+
+**El debate.** **Propiedad social vs. certeza y mercado:** la reforma de **1992** (fin del reparto, dominio pleno, posibilidad de asociar y enajenar) buscó dar certeza y atraer inversión; los críticos vieron el fin de la conquista revolucionaria y riesgo de despojo. Debate vivo en energía, minería e infraestructura: cómo conciliar proyectos de miles de millones con la **propiedad social** y la **consulta previa** a pueblos indígenas (Convenio 169 OIT).
+
+**Mirada de AED.** La **inseguridad de la tenencia** (títulos difusos, decisiones asamblearias) eleva los **costos de transacción** de cualquier proyecto sobre tierra social y desincentiva la inversión —el problema clásico de De Soto (*El misterio del capital*): sin derechos de propiedad claros, el activo no se puede movilizar ni financiar. La consulta previa internaliza el costo social del proyecto.
+
+**Comparado y lección para México.** Pocos países tienen figura equivalente al ejido; es aportación mexicana del constitucionalismo social. La consulta previa (Convenio 169 OIT) es estándar internacional. **Lección:** en proyectos con huella territorial, el **due diligence de tierra y consulta** es tan crítico como el financiero; omitirlo detiene el proyecto vía amparo.
+
+**Crítica.** El régimen es criticado por generar **inseguridad jurídica** que frena inversión y desarrollo rural; y, del otro lado, por exponer a las comunidades al despojo y a consultas simuladas.
+
+**Jurisprudencia y operación real.** Proyectos de energía e infraestructura han sido suspendidos por amparos de comunidades por **falta de consulta** o vicios en la tenencia ⚠️. En la práctica, el abogado verifica la titularidad, exige la **asamblea ejidal** y documenta la consulta antes de que el proyecto arranque.
+
+**Para leer más:** Hernando de Soto, *El misterio del capital*; art. 27 CPEUM y la reforma de 1992; Convenio 169 de la OIT.

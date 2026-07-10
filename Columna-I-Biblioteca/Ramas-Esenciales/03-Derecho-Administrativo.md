@@ -764,3 +764,24 @@ Francia creó el derecho administrativo (*Conseil d'État*, arrêt *Blanco*). EE
 - **Intermedio:** Nava Negrete, *Derecho administrativo mexicano*.
 - **Avanzado:** García de Enterría, *Curso de Derecho Administrativo*.
 - **Internacional:** Craig, *Administrative Law*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El derecho administrativo nació para someter al **poder ejecutivo al derecho**: que el Estado, al actuar (permisos, concesiones, sanciones), lo haga conforme a normas y bajo control judicial. Su origen es francés (*Conseil d'État*, arrêt *Blanco*, 1873): un derecho especial para la Administración, distinto del civil. Su fundamento: el **principio de legalidad** (la Administración solo puede lo que la ley le faculta) y el control de la **discrecionalidad**.
+
+**El debate.** **Deferencia vs. control estricto:** ¿deben los jueces respetar la interpretación técnica del regulador o revisarla a fondo? EE. UU. vivió la doctrina ***Chevron*** (1984, deferencia) y su **reversión en *Loper Bright*** (2024 ⚠️): el péndulo volvió al control judicial. El debate: la deferencia respeta la pericia técnica y la democracia (el regulador responde al Ejecutivo electo), pero puede blindar la arbitrariedad; el control estricto protege al gobernado pero "judicializa" la política pública.
+
+**Mirada de AED.** La regulación corrige fallas de mercado (monopolios naturales, externalidades, asimetrías), pero sufre **captura del regulador** (Stigler: la industria "captura" a quien la regula) y costos de cumplimiento. El análisis de impacto regulatorio (AIR/RIA) es la herramienta económica para que la regulación pase el test costo-beneficio.
+
+**Comparado y lección para México.** Francia (derecho administrativo autónomo), EE. UU. (*APA* + agencias), Reino Unido (*judicial review*). México: LFPA, LFPCA (juicio ante el TFJA ⟳) y órganos reguladores. **Lección:** la calidad regulatoria y la **certeza** de los actos administrativos son determinantes del clima de inversión; su erosión escala a arbitrajes internacionales.
+
+**Crítica.** El derecho administrativo mexicano es criticado por la **discrecionalidad excesiva**, la lentitud del contencioso y la vulnerabilidad de permisos y concesiones a cambios políticos —fuente de reclamos bajo el T-MEC.
+
+**Jurisprudencia y operación real.** *Chevron* (1984) y *Loper Bright* (2024 ⚠️) marcan el debate global de deferencia. En México, la cancelación de permisos en energía (2019-2024 ⚠️) escaló a **arbitrajes de inversión**. En la práctica, el abogado agota recurso/juicio en plazo (o pierde el acto) y evalúa la vía del arbitraje internacional.
+
+**Para leer más:** García de Enterría, *Curso de Derecho Administrativo*; Stigler, *The Theory of Economic Regulation* (1971); *Loper Bright v. Raimondo* (US 2024).

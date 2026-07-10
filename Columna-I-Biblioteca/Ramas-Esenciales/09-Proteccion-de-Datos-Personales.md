@@ -731,3 +731,24 @@ El **GDPR** europeo (2018) es el estándar global (extraterritorial, multas de h
 - **Intermedio:** GDPR (texto y guías del CEPD).
 - **Avanzado:** Solove, *Understanding Privacy*.
 - **Internacional:** Warren & Brandeis, *The Right to Privacy* (Harvard Law Review, 1890).
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La protección de datos nació de una intuición de 1890 (**Warren & Brandeis, *The Right to Privacy***: el "derecho a ser dejado en paz") que la tecnología volvió urgente. Su fundamento moderno es la **autodeterminación informativa** (Tribunal Constitucional alemán, sentencia del censo, 1983): la persona debe controlar quién sabe qué de ella, porque sin ese control no hay libertad real en una sociedad de vigilancia. Los datos son hoy **activo económico** (el "petróleo" digital) y **derecho fundamental** a la vez.
+
+**El debate.** **Consentimiento vs. *accountability*:** el modelo clásico (consentir cada tratamiento) colapsó ante la realidad (nadie lee las políticas); el GDPR viró hacia la **responsabilidad proactiva** (*privacy by design*, evaluaciones de impacto) del responsable. Debate de fondo: **privacidad como derecho fundamental (Europa) vs. como interés del consumidor / propiedad (EE. UU.)** —dos filosofías que chocan en las transferencias transatlánticas.
+
+**Mirada de AED.** Los datos tienen **externalidades** (mi consentimiento afecta a terceros de mi red) y asimetrías brutales (la plataforma sabe todo; el usuario, nada). La regulación corrige ese fallo de mercado, pero impone **costos de cumplimiento** que pueden favorecer a los grandes (que los absorben) sobre los pequeños —paradoja: el GDPR pudo **concentrar** el mercado que quería disciplinar.
+
+**Comparado y lección para México.** **GDPR** (UE, extraterritorial, multas de hasta 4% de facturación global) es el estándar; EE. UU. va por sectores (CCPA en California). México: **nueva LFPDPPP (2025)** ⟳ con autoridad en la Secretaría Anticorrupción y Buen Gobierno (extinto el INAI). **Lección:** para operar globalmente, las empresas mexicanas deben cumplir el GDPR aunque su ley local pida menos —el estándar más alto manda.
+
+**Crítica.** El régimen de consentimiento fue un **fracaso conductual** (*consent fatigue*); y la aplicación desigual (multas millonarias a unos, impunidad a otros) erosiona su credibilidad. Debate abierto: ¿regular el dato o regular el **uso/daño**?
+
+**Jurisprudencia y operación real.** **Cambridge Analytica/Facebook** (2018, multa FTC de 5,000 mdd ⚠️); sentencias *Schrems I y II* del TJUE que tumbaron los marcos de transferencia UE-EE. UU. En M&A, el **privacy due diligence** evalúa brechas y bases legales: heredar una base de datos mal obtenida es heredar un pasivo.
+
+**Para leer más:** Warren & Brandeis, *The Right to Privacy* (Harvard L. Rev., 1890); Solove, *Understanding Privacy*; GDPR; *Schrems II* (TJUE, 2020).

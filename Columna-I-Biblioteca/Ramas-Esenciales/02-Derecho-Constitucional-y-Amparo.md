@@ -745,3 +745,24 @@ El *judicial review* nació en EE. UU. (*Marbury v. Madison*, 1803); el **amparo
 - **Intermedio:** Ferrer Mac-Gregor, *El amparo*.
 - **Avanzado:** Fix-Zamudio, *Ensayos sobre el derecho de amparo*.
 - **Internacional:** Cappelletti, *El control judicial de la constitucionalidad de las leyes*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El control de constitucionalidad existe para resolver una paradoja democrática: si la mayoría legisla, ¿quién la limita cuando viola derechos? La respuesta —un tribunal que puede invalidar leyes— nació en *Marbury v. Madison* (EE. UU., 1803) y en México adoptó la forma del **amparo** (Rejón, Otero), aportación mexicana al mundo. Su fundamento: la **supremacía constitucional** (art. 133 ✅ ⟳) y la protección de la persona frente al poder.
+
+**El debate.** **«Dificultad contramayoritaria» (Bickel):** ¿por qué jueces no electos anulan decisiones de representantes electos? Respuestas: la Constitución es un **precompromiso** (Elster: atarse al mástil como Ulises) que la mayoría misma se dio; o los jueces protegen las **precondiciones de la democracia** (Ely). Debate mexicano contemporáneo: la **reforma judicial 2024** (elección de jueces por voto ⟳) invierte el planteamiento —¿resuelve la dificultad contramayoritaria o destruye la independencia que la justifica?
+
+**Mirada de AED.** Un poder judicial **independiente y predecible** reduce el riesgo-país y el costo de capital (protege derechos de propiedad y contratos frente al Estado). La incertidumbre sobre la independencia judicial se "precifica" en la prima de riesgo que exige todo inversionista —conexión directa entre derecho constitucional y finanzas.
+
+**Comparado y lección para México.** Control **difuso** (EE. UU.: todo juez) vs. **concentrado** (Kelsen/Europa: tribunal constitucional especializado). México combina ambos desde 2011. La *Verfassungsbeschwerde* alemana y el *recurso de amparo* español son primos del amparo. **Lección:** la fortaleza del amparo depende de la **independencia** de quien lo resuelve; sin ella, es un cascarón.
+
+**Crítica.** El amparo mexicano es criticado por su **tecnicismo** (sobreseimientos por formalismos) que lo vuelve inaccesible, y por el rezago. La reforma 2024, por politizar la judicatura.
+
+**Jurisprudencia y operación real.** *Marbury v. Madison* (1803) fundó el control; el **Expediente Varios 912/2010 (Radilla)** ⚠️ instaló el control de convencionalidad ex officio (arts. 1º y 133 ⟳). En la práctica, el amparo congela créditos fiscales, permisos negados y normas inconstitucionales mientras se litiga —de ahí que la **suspensión** sea la joya táctica.
+
+**Para leer más:** Bickel, *The Least Dangerous Branch*; Ely, *Democracy and Distrust*; Fix-Zamudio, *Ensayos sobre el derecho de amparo*; Cappelletti, *El control judicial de la constitucionalidad*.
