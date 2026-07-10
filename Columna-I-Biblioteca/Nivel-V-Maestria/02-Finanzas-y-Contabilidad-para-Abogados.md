@@ -1398,3 +1398,39 @@ más valoran y mejor pagan—.
 > **¿cuánto vale?** Avanzamos al **Libro 3 · Valuación de Empresas**, donde aprenderás, con método, a
 > ponerle un número al valor —la herramienta que está en el corazón de cada M&A, cada inversión y cada
 > negociación de precio—.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El abogado que **lee un estado financiero** negocia distinto: sabe dónde esconde el vendedor el riesgo. El socio no necesita ser contador, pero sí leer los **tres estados** (resultados, balance, flujo de efectivo) y detectar señales: deuda fuera de balance, capital de trabajo manipulado antes de la venta, ingresos "inflados". La contabilidad es el **idioma del cliente**; ignorarlo es negociar a ciegas.
+
+### Doctrina y debate
+- **Ecuación contable** (Activo = Pasivo + Capital) y **devengado vs. flujo:** por qué una empresa "rentable" puede quebrar por falta de caja.
+- **EBITDA:** métrica omnipresente en M&A y su crítica (Buffett: "¿acaso el capex no existe?"); los **ajustes al EBITDA** (*add-backs*) son campo de batalla en el precio.
+- **Debate:** ¿el *fair value* (IFRS) da transparencia o volatilidad procíclica (como en 2008)?
+
+### Derecho comparado
+Dos marcos: **IFRS** (global, incluida México vía NIF convergentes) y **US GAAP**. Las diferencias (reconocimiento de ingresos, arrendamientos IFRS 16, deterioro) afectan la valuación y las *reps* contables del SPA. En *deals* transfronterizos, saber en qué marco están los números es esencial.
+
+### Caso real
+**Enron y WorldCom (2001-2002):** fraude contable puro —entidades fuera de balance (Enron), gastos capitalizados como activos (WorldCom, ~11,000 mdd ⚠️ *verificar*)— que originó **Sarbanes-Oxley**. **Wirecard (2020):** ~1,900 mdEUR ⚠️ que "no existían". Lección: los estados financieros mienten cuando nadie los sabe leer; el abogado que los entiende es la última línea de defensa.
+
+### Errores que cuestan millones
+- Aceptar un **EBITDA ajustado** con *add-backs* injustificados que inflan el precio.
+- Ignorar el **capital de trabajo** al cierre (mecanismos de ajuste de precio).
+
+### Preguntas
+- **Criterio:** ¿el EBITDA es una métrica honesta o "utilidad antes de las cosas malas"?
+- **Entrevista:** una empresa es rentable pero se queda sin caja: ¿cómo es posible?
+- **Examen:** enuncie los tres estados financieros y qué mide cada uno.
+
+### Bibliografía por niveles
+- **Básico:** Warren Buffett (cartas a accionistas, selección).
+- **Intermedio:** McKinsey, *Valuation* (caps. contables); NIF mexicanas.
+- **Avanzado:** Penman, *Financial Statement Analysis and Security Valuation*.
+- **Internacional:** IFRS Foundation, normas (IFRS 15, 16).
