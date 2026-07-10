@@ -996,3 +996,24 @@ El **Chapter 11** estadounidense (deudor en posesión, *DIP financing*, *automat
 - **Intermedio:** análisis de la LCM y del IFECOM.
 - **Avanzado:** Thomas Jackson, *The Logic and Limits of Bankruptcy Law*.
 - **Internacional:** UNCITRAL Model Law on Cross-Border Insolvency; US Bankruptcy Code (Chapter 11).
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El derecho concursal resuelve un **problema de acción colectiva**: ante un deudor insolvente, cada acreedor tiene incentivo a cobrar primero (la "carrera al patrimonio"), lo que destruye valor —desmantela una empresa que valdría más operando (*going concern*) que liquidada en pedazos. La ***creditors' bargain theory*** de **Thomas Jackson** explica el concurso como el acuerdo que los acreedores habrían pactado *ex ante* para evitar esa carrera: un procedimiento colectivo, ordenado y con *stay*.
+
+**El debate.** **Reorganización vs. liquidación**: el Chapter 11 y la LCM tienen sesgo pro-reorganización (preservar empleo y empresa). Los críticos (Baird, escuela de Chicago) sostienen que muchas reorganizaciones **mantienen vivos "zombis"** que deberían liquidarse, y que el mercado de M&A de empresas en dificultades asigna mejor los activos. Debate paralelo: **prioridad absoluta** (accionistas cobran al final) vs. las excepciones (*new value*) que permiten al accionista-gestor conservar algo si aporta capital fresco.
+
+**Mirada de AED.** El *automatic stay* (suspensión) evita la destrucción de valor por ejecuciones descoordinadas; la **regla de prioridad absoluta** preserva los incentivos ex ante del crédito (si el acreedor supiera que cobrará después del accionista, no prestaría). El *DIP financing* (financiamiento al deudor en posesión, con superprioridad) resuelve el *debt overhang*: nadie prestaría a un insolvente sin esa prioridad.
+
+**Comparado y lección para México.** El **Chapter 11** (deudor en posesión, *cram-down*, *stay*) es el modelo global; el Reino Unido usa *administration* y *schemes/restructuring plans*; la LCM mexicana (conciliación + quiebra) se inspira en el Chapter 11 y en la **Ley Modelo UNCITRAL** de insolvencia transfronteriza. **Lección:** México necesita jueces concursales más especializados y rápidos —el tiempo es el enemigo del valor.
+
+**Crítica.** La LCM ha sido criticada por **lentitud** y por captura por acreedores sofisticados. El *forum shopping* transfronterizo (elegir la jurisdicción más favorable) y el trato a garantías intragrupo generan litigios de reconocimiento (*comity*).
+
+**Jurisprudencia y operación real.** **Vitro** (2010-2013 ⚠️): choque México–EE. UU. sobre reconocimiento y garantías intragrupo, leading case de insolvencia transfronteriza. **Aeroméxico** y **Oro Negro** litigaron entre la LCM y el Chapter 11. En la práctica, el acreedor con **garantía real perfeccionada** cobra; el quirografario reza. La insolvencia moderna es multijurisdiccional: quien domina las dos sillas gana.
+
+**Para leer más:** Thomas Jackson, *The Logic and Limits of Bankruptcy Law* (1986); Baird & Rasmussen, *The End of Bankruptcy* (Stan. L. Rev., 2002); UNCITRAL Model Law on Cross-Border Insolvency.

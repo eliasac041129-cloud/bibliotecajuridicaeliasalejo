@@ -969,3 +969,24 @@ EE. UU. edificó el modelo: ***Securities Act* 1933** (oferta) y ***Exchange Act
 - **Intermedio:** documentos regulatorios de la CNBV y la LMV.
 - **Avanzado:** Coffee & Sale, *Securities Regulation*.
 - **Internacional:** Easterbrook & Fischel, *The Economic Structure of Corporate Law* (disclosure).
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El derecho bursátil existe para resolver la **asimetría de información** entre emisores y el público inversionista y para dar **confianza** a un mercado impersonal. Su historia es reactiva: la **crisis de 1929** parió la *Securities Act* (1933) y la *Exchange Act* (1934); **Enron/WorldCom** parieron Sarbanes-Oxley (2002); la crisis de 2008 parió Dodd-Frank. Cada gran fraude ha ampliado el deber de revelar.
+
+**El debate.** ¿Revelación **obligatoria** o voluntaria? La **hipótesis del mercado eficiente** (Fama) fundamenta que los precios incorporan la información pública —de ahí el *mandatory disclosure*. Pero Easterbrook & Fischel argumentaron que el emisor tiene incentivos propios para revelar (menor costo de capital), poniendo en duda la necesidad del mandato; Coffee respondió que hay **bienes públicos informativos** (información útil para el mercado en su conjunto) que el emisor no produciría solo. Predomina el mandato, matizado. Segundo debate: las finanzas conductuales (Shiller) cuestionan la eficiencia —hay burbujas.
+
+**Mirada de AED.** La prohibición del ***insider trading*** se justifica por **integridad y eficiencia** del mercado (Manne, provocador, llegó a defenderlo como incentivo a producir información —tesis minoritaria y rechazada). La revelación reduce el costo de capital porque disminuye la prima por incertidumbre que exige el inversionista.
+
+**Comparado y lección para México.** EE. UU. construyó el modelo (SEC, *disclosure*, *class actions* de valores como mecanismo de *enforcement* privado); la UE tiene el **MAR**. México (LMV, CNBV ⟳) tiene un mercado pequeño y concentrado, con poco *enforcement* privado. **Lección:** sin *enforcement* creíble (público y privado) y sin liquidez, la mejor ley bursátil es letra muerta; el reto mexicano es profundizar el mercado.
+
+**Crítica.** El *disclosure* ha crecido hasta la **sobrecarga informativa**: prospectos de cientos de páginas que nadie lee (crítica de la "revelación como ritual"). Y Sarbanes-Oxley fue acusada de encarecer tanto cotizar que empujó empresas a **quedarse privadas** (auge del capital privado).
+
+**Jurisprudencia y operación real.** *SEC v. Texas Gulf Sulphur* (EE. UU., 1968): piedra angular del *insider trading* y del deber de *disclose or abstain*. En la práctica, el riesgo real de un emisor es la **revelación tardía o selectiva** y la **responsabilidad por el prospecto**; en el caso Musk/Twitter, el *disclosure* tardío del 13D fue señalado por la SEC.
+
+**Para leer más:** Fama, *Efficient Capital Markets* (J. Finance, 1970); Coffee, *Market Failure and the Economic Case for a Mandatory Disclosure System* (Va. L. Rev., 1984); Easterbrook & Fischel, cap. sobre *disclosure*.

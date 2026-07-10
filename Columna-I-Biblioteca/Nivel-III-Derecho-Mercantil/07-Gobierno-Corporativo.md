@@ -1001,3 +1001,24 @@ Consejo **unitario** (*one-tier*, EE. UU./Reino Unido) vs. **dual** (*two-tier*,
 - **Intermedio:** Informe Cadbury; Código de Principios de Gobierno Corporativo (México).
 - **Avanzado:** Berle & Means, *The Modern Corporation and Private Property*.
 - **Internacional:** Bebchuk & Fried, *Pay Without Performance*; Kraakman et al., *The Anatomy of Corporate Law*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El gobierno corporativo administra dos conflictos, no uno. En economías de capital **disperso** (EE. UU./RU) el conflicto es **accionistas vs. administradores** (Berle & Means). En economías de capital **concentrado** (México, Europa continental, Asia) el conflicto dominante es **accionista de control vs. minoritarios** (expropiación del minoritario vía autocontratos, *tunneling*). México pertenece al segundo mundo: por eso su gobierno corporativo debe proteger sobre todo a la **minoría**, no tanto disciplinar a un *management* todopoderoso.
+
+**El debate.** La **Law & Finance** (La Porta, López-de-Silanes, Shleifer, Vishny, 1998): los países de *common law* protegen mejor al inversionista que los de *civil law*, lo que explicaría mercados de capital más profundos. Tesis influyente y polémica: críticos (Roe) responden que la **política** (socialdemocracia, poder laboral), no el origen legal, explica la estructura de propiedad. El debate importa a México: ¿su mercado es pequeño por su derecho o por su economía política?
+
+**Mirada de AED.** Consejeros independientes, comités y *say-on-pay* son **tecnologías de monitoreo** para reducir el costo de agencia. En capital concentrado, los mecanismos clave son distintos: **derechos de la minoría** (veto, información, *appraisal*), operaciones con partes relacionadas supervisadas, y voto acumulativo.
+
+**Comparado y lección para México.** Alemania: cogestión (*Mitbestimmung*) y consejo dual. EE. UU.: consejo unitario y mercado por el control. **Cadbury** (RU) y **OCDE** dieron el estándar. **Lección:** trasplantar el modelo de capital disperso (independientes contra el *management*) a México —de capital concentrado— resuelve el conflicto equivocado; lo urgente es blindar a la minoría frente al controlador.
+
+**Crítica.** Gobierno como ***box-ticking***: consejos "independientes" designados por el propio controlador (independencia formal, no real). Bebchuk & Fried: la remuneración no alinea, es **síntoma** del poder gerencial. Y el ESG, acusado de diluir la rendición de cuentas.
+
+**Jurisprudencia y operación real.** Delaware: *Caremark* (deber de vigilancia), *Weinberger* y *MFW* (operaciones con partes relacionadas / *controlling shareholder*, con el *MFW framework* que da *business judgment* si hay comité independiente + voto de minoría). En la práctica, el inversionista minoritario negocia en el SHA justo lo que la ley mexicana no le garantiza: veto, asientos, información y salidas.
+
+**Para leer más:** Berle & Means (1932); La Porta et al., *Law and Finance* (JPE, 1998); Roe, *Political Determinants of Corporate Governance* (2003); *Kahn v. M&F Worldwide* (Del. 2014).
