@@ -1,5 +1,8 @@
 # [Nivel III · Libro 1] Teoría General del Derecho Mercantil y del Comerciante
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Aquí el derecho privado "se viste de empresa". El Derecho Mercantil es el derecho de los
 > **comerciantes, los actos de comercio y la empresa**: un derecho más rápido, más flexible y más
 > internacional que el civil, hecho a la medida de los negocios. Este primer libro del Nivel III
@@ -62,7 +65,7 @@ Al terminar, el lector será capaz de:
 
 - **Distinguir la materia mercantil de la civil** y saber por qué importa (ley aplicable, tribunal,
   prescripción, formalismo, supletoriedad).
-- **Identificar los actos de comercio** (art. 75 del Código de Comercio) y aplicar los criterios
+- **Identificar los actos de comercio** (art. 75 ⟳ del Código de Comercio) y aplicar los criterios
   para calificar un acto como mercantil.
 - **Definir al comerciante** (persona física y moral) y conocer sus **obligaciones profesionales**
   (inscripción, contabilidad, correspondencia).
@@ -144,13 +147,13 @@ reglas estandarizadas, ágiles y predecibles.
 
 ## 7. Contexto político
 
-La materia mercantil es **competencia federal** en México (art. 73, fr. X constitucional: el
+La materia mercantil es **competencia federal** en México (art. 73, fr.  ⟳X constitucional: el
 Congreso de la Unión legisla en materia de comercio), a diferencia de la civil (local). Esto es una
 decisión política de **unidad del mercado nacional**: un solo derecho mercantil para todo el país,
 para que el comercio fluya entre estados. El Estado regula el comercio para proteger intereses
 públicos: **competencia** (antimonopolio), **consumidor**, **estabilidad financiera** (banca,
 valores), **transparencia** (registros). La tensión política clásica: **libertad de empresa y de
-comercio** (art. 5 y 28 constitucionales) frente a la **regulación** que corrige fallas de mercado
+comercio** (art. 5 y 28 ⟳ constitucionales) frente a la **regulación** que corrige fallas de mercado
 y protege a terceros.
 
 ## 8. Contexto social
@@ -202,21 +205,21 @@ asesora **una empresa** que opera en el tráfico mercantil.
 
 ## 11. Definiciones legales (Código de Comercio — verificar versión vigente)
 
-- **Comerciantes — art. 3 C. Com.:** se reputan comerciantes (i) las personas que, teniendo
+- **Comerciantes — art. 3 ⟳ C. Com.:** se reputan comerciantes (i) las personas que, teniendo
   capacidad legal para ejercer el comercio, **hacen de él su ocupación ordinaria**; (ii) las
   **sociedades** constituidas con arreglo a las leyes mercantiles; (iii) las sociedades extranjeras
   o sus agencias que ejerzan actos de comercio en territorio nacional.
-- **Actos de comercio — art. 75 C. Com.:** enumeración (no taxativa, "enunciativa") de los actos
+- **Actos de comercio — art. 75 ⟳ C. Com.:** enumeración (no taxativa, "enunciativa") de los actos
   reputados de comercio (adquisiciones para reventa, operaciones de bancos, empresas de diversas
   clases, títulos de crédito, etc.). La **fracción XXIV** abre la lista: son actos de comercio
   "cualesquiera otros de naturaleza análoga".
-- **Aplicación supletoria del derecho civil — art. 2 C. Com.:** a falta de disposiciones del Código
+- **Aplicación supletoria del derecho civil — art. 2 ⟳ C. Com.:** a falta de disposiciones del Código
   de Comercio y demás leyes mercantiles, se aplicará el **derecho común** (civil) contenido en el
   Código Civil Federal.
-- **Libertad de forma — art. 78 C. Com.:** en las convenciones mercantiles, cada uno se obliga
+- **Libertad de forma — art. 78 ⟳ C. Com.:** en las convenciones mercantiles, cada uno se obliga
   **en la manera y términos en que quiso obligarse**, sin que la validez dependa de formalidades
   determinadas (consensualismo mercantil reforzado).
-- **Obligaciones del comerciante — arts. 16 y ss.:** inscripción en el **Registro Público de
+- **Obligaciones del comerciante — arts. 16 ⟳ y ss.:** inscripción en el **Registro Público de
   Comercio**, llevar **contabilidad** adecuada, conservar la **correspondencia** y la documentación.
 
 ## 12. Definición sencilla
@@ -232,7 +235,7 @@ mercantil no tiene una regla, **se llena con el derecho civil** (supletoriedad).
 - **Materia mercantil / mercantilidad:** la cualidad de un acto, sujeto o relación de quedar regido
   por el Derecho Mercantil (y no por el civil). Decide ley aplicable, jurisdicción, prescripción y
   formalismo.
-- **Acto de comercio:** el acto jurídico (o hecho) que la ley reputa mercantil (art. 75 C. Com.),
+- **Acto de comercio:** el acto jurídico (o hecho) que la ley reputa mercantil (art. 75 ⟳ C. Com.),
   por su **naturaleza** (intermediación con ánimo de lucro), por la **persona** que lo realiza
   (comerciante en su giro) o por su **forma/objeto** (títulos de crédito, operaciones bancarias).
 - **Acto absolutamente mercantil:** mercantil siempre, lo realice quien lo realice (p. ej., los
@@ -256,7 +259,7 @@ mercantil no tiene una regla, **se llena con el derecho civil** (supletoriedad).
   M&A.
 - **Fuentes del Derecho Mercantil:** (1) la **legislación mercantil** (Código de Comercio + leyes
   especiales: LGSM, LGTOC, LMV, etc.); (2) los **usos y prácticas** mercantiles; (3) el **derecho
-  civil** como **supletorio** (art. 2 C. Com.).
+  civil** como **supletorio** (art. 2 ⟳ C. Com.).
 - **Usos mercantiles:** prácticas reiteradas del comercio con valor normativo (mucho más relevantes
   que en el derecho civil); base de los Incoterms y de las prácticas bancarias y bursátiles.
 - **Registro Público de Comercio:** registro (operado a través del **SIGER** y vinculado al RUG)
@@ -271,13 +274,13 @@ mercantil no tiene una regla, **se llena con el derecho civil** (supletoriedad).
 
 Lo organizamos en: (A) la autonomía del Derecho Mercantil y su relación con el civil; (B) los
 sistemas para delimitar la materia (subjetivo, objetivo, de la empresa); (C) el **acto de comercio**
-(art. 75); (D) el **comerciante** y sus obligaciones; (E) la **empresa** y el fondo de comercio;
+(art. 75 ⟳); (D) el **comerciante** y sus obligaciones; (E) la **empresa** y el fondo de comercio;
 (F) las **fuentes** y su jerarquía.
 
 ### 14.A · La autonomía del Derecho Mercantil y la supletoriedad del civil
 
 El Derecho Mercantil es **autónomo** (tiene principios, fuentes y jurisdicción propios) pero **no
-autosuficiente**: descansa sobre el derecho civil, que lo **suple** (art. 2 C. Com.). La relación
+autosuficiente**: descansa sobre el derecho civil, que lo **suple** (art. 2 ⟳ C. Com.). La relación
 es de **especialidad**: el mercantil es la regla **especial** que prevalece en su ámbito; donde
 calla, rige el **común** (civil). Ejemplo: la compraventa **mercantil** (Código de Comercio) tiene
 reglas propias (mora sin interpelación en obligaciones a día cierto, intereses, prescripción más
@@ -286,7 +289,7 @@ II). *Por qué importa:* el abogado debe saber **cuándo** se sale del Código d
 Civil, porque cambian plazos, prueba y soluciones.
 
 **Principios propios del Derecho Mercantil:**
-- **Celeridad y simplicidad de formas** (art. 78: libertad de forma; consensualismo reforzado).
+- **Celeridad y simplicidad de formas** (art. 78 ⟳: libertad de forma; consensualismo reforzado).
 - **Onerosidad presunta** (en el comercio se presume el ánimo de lucro; los servicios y préstamos
   no se presumen gratuitos).
 - **Buena fe profesional y diligencia del "buen comerciante"** (estándar más exigente que el del
@@ -301,18 +304,18 @@ Civil, porque cambian plazos, prueba y soluciones.
 - **Sistema subjetivo (medieval):** es mercantil lo que hace un **comerciante** (derecho de una
   clase profesional).
 - **Sistema objetivo (Código francés 1807, seguido por México):** es mercantil el **acto de
-  comercio**, lo realice quien lo realice (art. 75 C. Com.). El estatus de comerciante se **deriva**
+  comercio**, lo realice quien lo realice (art. 75 ⟳ C. Com.). El estatus de comerciante se **deriva**
   de realizar actos de comercio de forma habitual.
 - **Sistema de la empresa (italiano-alemán, tendencia moderna):** la categoría central es la
   **empresa**; lo mercantil es la actividad **organizada y profesional**.
 
-México combina los tres: tiene una lista **objetiva** de actos de comercio (art. 75), define al
-**comerciante** (art. 3) y, en la práctica y leyes especiales, gira cada vez más hacia la
+México combina los tres: tiene una lista **objetiva** de actos de comercio (art. 75 ⟳), define al
+**comerciante** (art. 3 ⟳) y, en la práctica y leyes especiales, gira cada vez más hacia la
 **empresa**. El resultado es un sistema **mixto**.
 
-### 14.C · El acto de comercio (art. 75 C. Com.)
+### 14.C · El acto de comercio (art. 75 ⟳ C. Com.)
 
-El art. 75 enumera de forma **enunciativa** (no taxativa) los actos de comercio. Categorías útiles:
+El art. 75 ⟳ enumera de forma **enunciativa** (no taxativa) los actos de comercio. Categorías útiles:
 - **Por su naturaleza intrínseca (intermediación lucrativa):** adquisiciones y enajenaciones de
   bienes con **propósito de especulación comercial** (comprar para revender con lucro).
 - **Por la persona/empresa que los realiza:** las operaciones de **empresas** de manufactura,
@@ -326,7 +329,7 @@ El art. 75 enumera de forma **enunciativa** (no taxativa) los actos de comercio.
   clausus* de los derechos reales).
 
 **Cómo razona un experto (calificación de la mercantilidad).** *Ante un acto, pregúntate: (1) ¿está
-en la lista del art. 75 o es análogo (fr. XXIV)? (2) ¿lo realiza una empresa/comerciante en su
+en la lista del art. 75 ⟳ o es análogo (fr. XXIV)? (2) ¿lo realiza una empresa/comerciante en su
 giro? (3) ¿recae sobre un título de crédito o es operación bancaria/societaria (absolutamente
 mercantil)? (4) ¿es accesorio a una actividad mercantil (lo accesorio sigue a lo principal)?* Si la
 respuesta a cualquiera es sí, es **mercantil**, con todas las consecuencias (ley, jurisdicción,
@@ -334,7 +337,7 @@ prescripción, prueba).
 
 ### 14.D · El comerciante y sus obligaciones profesionales
 
-**Quién es comerciante (art. 3):** la persona física que hace del comercio su **ocupación
+**Quién es comerciante (art. 3 ⟳):** la persona física que hace del comercio su **ocupación
 ordinaria** (capacidad + habitualidad + nombre propio + ánimo de lucro) y **toda sociedad
 mercantil** (comerciante por su **forma**, aunque no realice actos de comercio: la S.A. es siempre
 comerciante).
@@ -344,7 +347,7 @@ prohibiciones (quebrados no rehabilitados, ciertos funcionarios).
 
 **Obligaciones del comerciante (la base de la transparencia):**
 1. **Inscripción en el Registro Público de Comercio:** publicidad de su calidad y de ciertos actos.
-2. **Contabilidad** (arts. 33-46 C. Com.): llevar un sistema contable adecuado, con libros y
+2. **Contabilidad** (arts. 33-46 ⟳ C. Com.): llevar un sistema contable adecuado, con libros y
    registros que reflejen la situación financiera; conservarla por el plazo legal. Base de la
    **due diligence financiera** y del control fiscal.
 3. **Conservación de la correspondencia y documentación** mercantil.
@@ -375,7 +378,7 @@ Orden de aplicación ante una cuestión mercantil:
 2. **Código de Comercio** — tronco general de la materia.
 3. **Usos y prácticas mercantiles** — cuando la ley remite a ellos o para integrar (mucho más
    relevantes que en el civil).
-4. **Derecho civil supletorio** (CCF) — a falta de norma mercantil (art. 2 C. Com.).
+4. **Derecho civil supletorio** (CCF) — a falta de norma mercantil (art. 2 ⟳ C. Com.).
 
 En el plano **internacional**, se suman las fuentes transnacionales: **Incoterms**, reglas de la
 **CCI** (UCP 600, URDG), **CISG**, principios **UNIDROIT** y los **usos del comercio
@@ -407,14 +410,14 @@ organizaciones (sociedades), su dinero circulante (títulos de crédito), su gra
 ## 16. Ejemplos simples
 
 1. **Acto de comercio por su naturaleza.** Una persona compra 100 televisores para **revenderlos**
-   con ganancia: es acto de comercio (adquisición con propósito de especulación, art. 75-I). Si los
+   con ganancia: es acto de comercio (adquisición con propósito de especulación, art. 75-I ⟳). Si los
    compra para su casa, es acto **civil**.
 2. **Comerciante por su forma.** Una **S.A.** es comerciante **siempre**, aunque su objeto sea, por
-   ejemplo, tenencia de inmuebles: la sociedad mercantil es comerciante por su tipo (art. 3-II).
+   ejemplo, tenencia de inmuebles: la sociedad mercantil es comerciante por su tipo (art. 3-II ⟳).
 3. **Acto absolutamente mercantil.** Suscribir un **pagaré** es mercantil **siempre**, lo firme un
    comerciante o un particular (es un título de crédito).
 4. **Supletoriedad.** Una compraventa mercantil no regula un detalle del saneamiento: se aplica el
-   **Código Civil** (art. 2 C. Com.).
+   **Código Civil** (art. 2 ⟳ C. Com.).
 5. **Usos mercantiles.** En una compraventa internacional se pacta "FOB Veracruz" (**Incoterm**):
    el uso comercial define quién asume el riesgo y los costos del transporte.
 
@@ -441,7 +444,7 @@ organizaciones (sociedades), su dinero circulante (títulos de crédito), su gra
 
 ## 18. Casos reales (jurisprudencia y operaciones estilizadas)
 
-- **Naturaleza enunciativa del art. 75:** los tribunales reiteran que la lista de actos de comercio
+- **Naturaleza enunciativa del art. 75 ⟳:** los tribunales reiteran que la lista de actos de comercio
   es **enunciativa, no taxativa**, y que la fracción XXIV permite calificar como mercantiles actos
   análogos no listados.
 - **Mercantilidad y vía ejecutiva:** criterios sobre cuándo una operación es mercantil para efectos
@@ -490,14 +493,14 @@ organizaciones (sociedades), su dinero circulante (títulos de crédito), su gra
   comerciantes prefieren árbitros especializados a tribunales estatales, recuperando el espíritu de
   los antiguos **tribunales consulares**.
 - **Sociedades y sucursales extranjeras:** las sociedades extranjeras que realizan actos de comercio
-  en México son comerciantes (art. 3-III) y deben cumplir requisitos de establecimiento y registro.
+  en México son comerciantes (art. 3-III ⟳) y deben cumplir requisitos de establecimiento y registro.
 
 
 ## 22. Derecho comparado
 
 | Sistema | Cómo delimita la materia mercantil / la empresa |
 |---|---|
-| **México** | Sistema **mixto**: lista objetiva de actos de comercio (art. 75 C. Com.) + comerciante (art. 3) + giro hacia la empresa; materia **federal**. |
+| **México** | Sistema **mixto**: lista objetiva de actos de comercio (art. 75 ⟳ C. Com.) + comerciante (art. 3 ⟳) + giro hacia la empresa; materia **federal**. |
 | **España** | Código de Comercio (1885) con sistema objetivo; fuerte desarrollo del **derecho de la empresa** y del empresario; reformas societarias y concursales modernas. |
 | **Estados Unidos** | No hay "derecho mercantil" autónomo formal; el **UCC (Uniform Commercial Code)** regula las transacciones comerciales (venta de bienes, títulos, garantías) de forma uniforme entre estados; *corporate law* estatal (Delaware). |
 | **Delaware** | Centro mundial del derecho **societario**; lo "mercantil" se canaliza por *contract law* y *corporation law* estatales; máxima libertad y previsibilidad. |
@@ -516,11 +519,11 @@ organizaciones (sociedades), su dinero circulante (títulos de crédito), su gra
 
 ## 23. Derecho mexicano
 
-- **Fundamento constitucional:** art. 73, fr. X (el comercio es **materia federal**); arts. 5 y 28
+- **Fundamento constitucional:** art. 73, fr.  ⟳X (el comercio es **materia federal**); arts. 5 y 28 ⟳
   (libertad de comercio y de empresa, prohibición de monopolios).
-- **Código de Comercio (1889, muy reformado):** comerciantes (art. 3), actos de comercio (art. 75),
-  supletoriedad del civil (art. 2), libertad de forma (art. 78), obligaciones del comerciante
-  (arts. 16-46), Registro Público de Comercio, juicios mercantiles (ordinario, ejecutivo, oral).
+- **Código de Comercio (1889, muy reformado):** comerciantes (art. 3 ⟳), actos de comercio (art. 75 ⟳),
+  supletoriedad del civil (art. 2 ⟳), libertad de forma (art. 78 ⟳), obligaciones del comerciante
+  (arts. 16-46 ⟳), Registro Público de Comercio, juicios mercantiles (ordinario, ejecutivo, oral).
 - **Leyes mercantiles especiales (el archipiélago):** **LGSM** (sociedades), **LGTOC** (títulos y
   operaciones de crédito), **LMV** (mercado de valores), **Ley de Concursos Mercantiles**, Ley de
   Instituciones de Crédito, Ley de Competencia Económica, LFPC (consumidor), entre otras.
@@ -530,7 +533,7 @@ organizaciones (sociedades), su dinero circulante (títulos de crédito), su gra
 ## 24. Jurisprudencia relevante
 
 > Verificar vigencia antes de citar.
-- **Carácter enunciativo del art. 75** y la integración por la fracción XXIV.
+- **Carácter enunciativo del art. 75 ⟳** y la integración por la fracción XXIV.
 - **Mercantilidad para efectos procesales:** criterios para determinar la **vía** (ejecutiva
   mercantil) y la **prescripción** mercantil.
 - **Actos mixtos:** tratamiento del acto mercantil para una parte y civil para la otra, y la
@@ -539,7 +542,7 @@ organizaciones (sociedades), su dinero circulante (títulos de crédito), su gra
 
 ## 25. Criterios de la Suprema Corte
 
-- **Libertad de comercio (art. 5):** la SCJN ha delimitado su alcance y los límites legítimos
+- **Libertad de comercio (art. 5 ⟳):** la SCJN ha delimitado su alcance y los límites legítimos
   (regulación de interés público, competencia económica).
 - **Materia federal del comercio:** confirmación de la competencia federal y de la unidad del
   derecho mercantil.
@@ -568,7 +571,7 @@ organizaciones (sociedades), su dinero circulante (títulos de crédito), su gra
 ## 28. Opiniones críticas (postura del Consejo)
 
 1. **El sistema "objetivo" del acto de comercio está superado por la realidad de la empresa.** La
-   lista del art. 75 es útil pero anacrónica; el Consejo sostiene que el eje moderno es la
+   lista del art. 75 ⟳ es útil pero anacrónica; el Consejo sostiene que el eje moderno es la
    **empresa** y que el estudio debe centrarse en ella (organización, gobierno, financiamiento),
    como hacen los derechos italiano y alemán.
 2. **La descodificación exige una visión de sistema.** El "archipiélago" de leyes especiales (LGSM,
@@ -581,7 +584,7 @@ organizaciones (sociedades), su dinero circulante (títulos de crédito), su gra
 ## 29. Debate doctrinal
 
 - **¿Derecho de los actos de comercio o derecho de la empresa?** El gran debate del derecho
-  mercantil moderno: ¿mantener el eje en el acto (art. 75) o trasladarlo a la empresa? La tendencia
+  mercantil moderno: ¿mantener el eje en el acto (art. 75 ⟳) o trasladarlo a la empresa? La tendencia
   doctrinal es clara hacia la **empresa**, aunque el Código de Comercio mexicano conserve el modelo
   objetivo.
 - **¿Unificación del derecho privado (civil + mercantil) o autonomía?** Algunos países (Italia 1942,
@@ -600,9 +603,9 @@ organizaciones (sociedades), su dinero circulante (títulos de crédito), su gra
 - **Aplicar derecho civil a una operación mercantil** (o viceversa): cambian prescripción, mora,
   prueba y jurisdicción. Calificar mal la **mercantilidad** es un error de base.
 - **Olvidar la supletoriedad.** Creer que el Código de Comercio "lo dice todo": donde calla, rige el
-  **civil** (art. 2 C. Com.).
+  **civil** (art. 2 ⟳ C. Com.).
 - **Ignorar los usos mercantiles**, especialmente en comercio internacional (Incoterms, UCP).
-- **Tratar el art. 75 como lista cerrada.** Es **enunciativa**; la fr. XXIV integra actos análogos.
+- **Tratar el art. 75 ⟳ como lista cerrada.** Es **enunciativa**; la fr. XXIV integra actos análogos.
 - **Confundir empresa con sociedad.** La empresa es un fenómeno **económico** (organización); la
   sociedad es una de sus **envolturas jurídicas**. No toda empresa es sociedad ni toda sociedad
   "empresa" en sentido económico.
@@ -640,10 +643,10 @@ organizaciones (sociedades), su dinero circulante (títulos de crédito), su gra
 
 **P1.** *¿Qué relación hay entre el derecho mercantil y el civil?* **R.** El mercantil es derecho
 privado **especial** y **autónomo** (principios, fuentes y jurisdicción propios), pero el civil es
-su derecho **supletorio** (art. 2 C. Com.): rige donde el mercantil calla.
+su derecho **supletorio** (art. 2 ⟳ C. Com.): rige donde el mercantil calla.
 
 **P2.** *Defina acto de comercio y explique los criterios de mercantilidad.* **R.** Acto que la ley
-reputa mercantil (art. 75 C. Com.), por su **naturaleza** (intermediación lucrativa), por la
+reputa mercantil (art. 75 ⟳ C. Com.), por su **naturaleza** (intermediación lucrativa), por la
 **persona/empresa** que lo realiza, o por su **forma/objeto** (títulos, banca, sociedades —
 absolutamente mercantiles). La lista es **enunciativa** (fr. XXIV).
 
@@ -657,7 +660,7 @@ incluye el **goodwill** (aviamiento). En un **asset deal** se transmite como uni
 precio supere el valor contable.
 
 **P5.** *Enuncie las fuentes del derecho mercantil y su jerarquía.* **R.** (1) Leyes mercantiles
-especiales; (2) Código de Comercio; (3) usos y prácticas; (4) derecho civil supletorio (art. 2 C.
+especiales; (2) Código de Comercio; (3) usos y prácticas; (4) derecho civil supletorio (art. 2 ⟳ C.
 Com.). En lo internacional, además, la lex mercatoria (Incoterms, UNIDROIT, CISG).
 
 ## 34. Simulador (ejercicio tipo despacho)
@@ -684,11 +687,11 @@ estructura societaria— y razona el asset vs. share deal en función del goodwi
 
 - **¿Qué es el derecho mercantil?** → Derecho privado **especial** del comercio, la empresa y los
   comerciantes; autónomo, con el civil como **supletorio**.
-- **¿Art. 75 C. Com.?** → Lista **enunciativa** de actos de comercio (fr. XXIV: actos análogos).
-- **¿Quién es comerciante (art. 3)?** → Persona física con ocupación ordinaria de comercio + toda
+- **¿Art. 75 ⟳ C. Com.?** → Lista **enunciativa** de actos de comercio (fr. XXIV: actos análogos).
+- **¿Quién es comerciante (art. 3 ⟳)?** → Persona física con ocupación ordinaria de comercio + toda
   **sociedad mercantil**.
-- **¿Supletoriedad (art. 2 C. Com.)?** → A falta de norma mercantil, rige el **derecho civil**.
-- **¿Libertad de forma (art. 78)?** → En lo mercantil, cada quien se obliga como quiso, sin
+- **¿Supletoriedad (art. 2 ⟳ C. Com.)?** → A falta de norma mercantil, rige el **derecho civil**.
+- **¿Libertad de forma (art. 78 ⟳)?** → En lo mercantil, cada quien se obliga como quiso, sin
   formalidades sacramentales.
 - **¿Acto absolutamente mercantil?** → Mercantil siempre (títulos de crédito, banca, sociedades).
 - **¿Empresa vs. empresario?** → Organización/actividad vs. el titular (sujeto de derecho).
@@ -696,7 +699,7 @@ estructura societaria— y razona el asset vs. share deal en función del goodwi
   marcha.
 - **¿Goodwill / aviamiento?** → Valor de la organización y la clientela (por encima de los activos).
 - **¿Fuente distintiva del mercantil?** → Los **usos** (Incoterms, prácticas).
-- **¿Materia federal o local?** → **Federal** (art. 73-X constitucional).
+- **¿Materia federal o local?** → **Federal** (art. 73-X ⟳ constitucional).
 - **¿Obligaciones del comerciante?** → Registro, contabilidad, conservación de documentación.
 
 ## 36. Mapas mentales
@@ -731,7 +734,7 @@ DERECHO MERCANTIL (privado especial; civil = supletorio, art. 2)
 |---|---|---|
 | Ámbito | Vida privada ordinaria | Actividad económica profesional |
 | Competencia | Local (estatal) | Federal |
-| Formas | Más formalista | Libertad de forma (art. 78) |
+| Formas | Más formalista | Libertad de forma (art. 78 ⟳) |
 | Usos | Marginales | **Fuente relevante** |
 | Prescripción | Plazos generales | A menudo **más cortos** |
 | Relación | Derecho común | Especial (civil = supletorio) |
@@ -741,7 +744,7 @@ DERECHO MERCANTIL (privado especial; civil = supletorio, art. 2)
 | Sistema | Eje | Ejemplo |
 |---|---|---|
 | Subjetivo | El comerciante | Lex mercatoria medieval |
-| Objetivo | El acto de comercio | Código francés 1807 / México (art. 75) |
+| Objetivo | El acto de comercio | Código francés 1807 / México (art. 75 ⟳) |
 | De la empresa | La organización | HGB alemán / doctrina italiana |
 
 **Empresa vs. sociedad vs. fondo de comercio**
@@ -780,7 +783,7 @@ EMPRESA (organización en marcha) → fondo de comercio (clientela, marca, contr
 
 ## 39. Mnemotecnias
 
-- **Materia mercantil:** *"especial pero no solo: el civil la completa (art. 2)"*.
+- **Materia mercantil:** *"especial pero no solo: el civil la completa (art. 2 ⟳)"*.
 - **Calificar el acto:** *"Título/Banca/Sociedad = siempre mercantil"* (absolutamente mercantiles).
 - **Fuentes:** **"LEC-CO-U-CI"** → **L**eyes **E**speciales, **CO**digo de Comercio, **U**sos,
   **CI**vil supletorio.
@@ -796,8 +799,8 @@ El Derecho Mercantil es **derecho privado especial**: nació de los usos de los 
 **archipiélago de leyes** (LGSM, LGTOC, LMV, concursos) y hoy se reinternacionaliza y digitaliza.
 Es **autónomo** —principios propios (celeridad, libertad de forma, onerosidad, buena fe
 profesional, relevancia de los **usos**), fuentes y jurisdicción propias— pero se apoya en el
-**civil como supletorio** (art. 2 C. Com.). La materia se delimita por el **acto de comercio**
-(art. 75, lista **enunciativa**), por el **comerciante** (art. 3: persona física habitual + toda
+**civil como supletorio** (art. 2 ⟳ C. Com.). La materia se delimita por el **acto de comercio**
+(art. 75 ⟳, lista **enunciativa**), por el **comerciante** (art. 3 ⟳: persona física habitual + toda
 **sociedad mercantil**, con obligaciones de registro, contabilidad y documentación) y,
 modernamente, por la **empresa** (organización profesional de capital, trabajo y dirección),
 categoría central del derecho mercantil contemporáneo.
@@ -813,7 +816,7 @@ Aquí empieza la formación del **especialista**.
 ## 41. Checklist
 
 **Para calificar una operación:**
-- [ ] ¿Es **mercantil** (art. 75 / comerciante / absolutamente mercantil / conexión)?
+- [ ] ¿Es **mercantil** (art. 75 ⟳ / comerciante / absolutamente mercantil / conexión)?
 - [ ] ¿Qué **ley** aplica (especial → Código de Comercio → usos → civil supletorio)?
 - [ ] ¿Qué **jurisdicción, prescripción y prueba** rigen?
 - [ ] ¿Hay **usos** relevantes (Incoterms, prácticas bancarias)?
@@ -835,7 +838,7 @@ Aquí empieza la formación del **especialista**.
 - **Garrigues, J., *Curso de Derecho Mercantil* (España).** Referencia hispana mayor; gran claridad.
 - **Asquini, A., "Perfiles de la empresa".** Lectura fundacional para entender la empresa como
   categoría jurídica.
-- **Código de Comercio (arts. 1-75) y Constitución (arts. 5, 28, 73-X).** El derecho positivo base.
+- **Código de Comercio (arts. 1-75 ⟳) y Constitución (arts. 5, 28, 73-X ⟳).** El derecho positivo base.
 
 ## 43. Ruta hacia el siguiente libro
 

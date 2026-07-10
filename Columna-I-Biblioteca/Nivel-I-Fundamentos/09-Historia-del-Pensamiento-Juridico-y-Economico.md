@@ -1,5 +1,8 @@
 # [Nivel I · Libro 9] Tratado de Historia del Pensamiento Jurídico y Económico
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > El abogado corporativo no opera en el vacío: opera en un **mundo de ideas** sobre la
 > justicia, el poder, el mercado y la riqueza. Este libro traza las grandes corrientes del
 > pensamiento jurídico y económico para que entiendas **por qué** el derecho y la economía son
@@ -266,7 +269,7 @@ conductual); Elinor Ostrom (gobierno de los comunes).
 
 ## 9. Relación con México
 
-- **Fundamento económico-constitucional:** los **arts. 25, 26, 27 y 28** de la Constitución
+- **Fundamento económico-constitucional:** los **arts. 25, 26, 27 y 28 ⟳** de la Constitución
   diseñan la **rectoría económica del Estado**, la planeación democrática, la propiedad y su
   función social, y la **prohibición de monopolios** (competencia). Son pensamiento económico
   positivizado: un equilibrio entre mercado y Estado.
@@ -323,7 +326,7 @@ conductual); Elinor Ostrom (gobierno de los comunes).
 - *"Exponga el problema de agencia y su relación con el gobierno corporativo."*
 - *"Compare el capitalismo de accionistas (Friedman) y el de *stakeholders* (ESG)."*
 - *"¿Cómo corrigen la información asimétrica la due diligence y las representations en un M&A?"*
-- *"Relacione los arts. 25-28 constitucionales con el debate Estado-mercado."*
+- *"Relacione los arts. 25-28 ⟳ constitucionales con el debate Estado-mercado."*
 
 ---
 
@@ -608,7 +611,7 @@ Williamson, Oliver, *Las instituciones económicas del capitalismo*; Posner, Ric
 análisis económico del derecho*; Akerlof, George, "The Market for Lemons"; Jensen, M. y
 Meckling, W., "Theory of the Firm"; Kahneman, Daniel, *Pensar rápido, pensar despacio*.
 
-**México:** Constitución, arts. 25-28 (rectoría económica); literatura sobre historia económica
+**México:** Constitución, arts. 25-28 ⟳ (rectoría económica); literatura sobre historia económica
 de México y reformas estructurales.
 
 ## 30. Ruta para continuar

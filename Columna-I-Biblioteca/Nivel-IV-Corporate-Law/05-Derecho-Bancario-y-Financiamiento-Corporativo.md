@@ -1,5 +1,8 @@
 # [Nivel IV · Libro 5] Derecho Bancario y Financiamiento Corporativo
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Casi ningún deal grande se paga solo con caja. Detrás de cada adquisición, cada expansión, cada
 > proyecto de infraestructura, hay **deuda** —y un entramado de contratos, garantías y reglas que la
 > rigen—. Este libro estudia **cómo se financia una empresa y cómo se financia una operación**: el crédito
@@ -931,7 +934,7 @@ esencial:
 | **Unión Europea** | Armonización bancaria (**MREL**, unión bancaria, supervisión del BCE), **garantías financieras** (Directiva de Financial Collateral), y régimen de *financial assistance* en la directiva de sociedades. |
 | **UNIDROIT / soft law** | Principios y guías sobre **garantías mobiliarias** (que inspiraron reformas como el RUG mexicano) y sobre operaciones de crédito internacionales. |
 | **Basilea (BCBS)** | Estándares **internacionales de capital y liquidez** bancaria (Basilea III) que condicionan cuánto y cómo prestan los bancos en todo el mundo. |
-| **Civil Law vs. Common Law (síntesis)** | El **common law** ofrece garantías muy flexibles (*floating charge*, UCC Art. 9) y mercados de deuda profundísimos; el **civil law** tiende a garantías más tasadas pero ha innovado (fideicomiso de garantía, prenda sin posesión, RUG) para competir. La documentación sindicada (**LMA/LSTA**) es el **lenguaje común** global. |
+| **Civil Law vs. Common Law (síntesis)** | El **common law** ofrece garantías muy flexibles (*floating charge*, UCC Art. 9 ⟳) y mercados de deuda profundísimos; el **civil law** tiende a garantías más tasadas pero ha innovado (fideicomiso de garantía, prenda sin posesión, RUG) para competir. La documentación sindicada (**LMA/LSTA**) es el **lenguaje común** global. |
 
 **Lección comparada:** dos figuras del common law que el abogado mexicano debe conocer: la **floating
 charge** británica (gravar activos en rotación) —cuyo equivalente funcional mexicano es la **prenda sin
@@ -973,7 +976,7 @@ El financiamiento en México se asienta en:
 
 Criterios mexicanos relevantes:
 - **Intereses usurarios:** la línea jurisprudencial de la SCJN que faculta a los jueces a **analizar de
-  oficio** y **reducir** los intereses notoriamente excesivos (a partir de la interpretación del art. 21.3
+  oficio** y **reducir** los intereses notoriamente excesivos (a partir de la interpretación del art. 21 ⟳.3
   de la Convención Americana sobre Derechos Humanos) —doctrina capital del crédito en México—.
 - **Ejecución de garantías:** criterios sobre la ejecución de la **hipoteca**, la **prenda** y el
   **fideicomiso de garantía** (validez de la ejecución extrajudicial pactada, requisitos).

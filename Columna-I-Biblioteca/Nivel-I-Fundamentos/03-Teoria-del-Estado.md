@@ -1,5 +1,8 @@
 # [Nivel I · Libro 3] Tratado de Teoría del Estado
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > El Derecho Romano nos dio las piezas; la Introducción al Estudio del Derecho, el
 > sistema. La Teoría del Estado responde la pregunta que las sostiene a ambas: **¿quién
 > crea, impone y garantiza el derecho, y con qué legitimidad?** Sin Estado no hay
@@ -213,7 +216,7 @@ legitimidad de una política pública, la mirada teleológica.
   Genera el vínculo de **nacionalidad** (pertenencia jurídica) y **ciudadanía** (derechos
   políticos). *Por qué le importa al corporativo:* la nacionalidad de socios y sociedades
   determina el régimen de **inversión extranjera** y restricciones en ciertos sectores.
-- **Territorio:** ámbito espacial de validez del orden jurídico (art. 42 constitucional en
+- **Territorio:** ámbito espacial de validez del orden jurídico (art. 42 ⟳ constitucional en
   México: partes integrantes de la Federación, mar territorial, plataforma continental,
   espacio aéreo). *Por qué importa:* define dónde rige la ley mexicana, dónde tributa una
   empresa, dónde se ejecuta una garantía.
@@ -222,7 +225,7 @@ legitimidad de una política pública, la mirada teleológica.
 
 ### 5.3 Soberanía: del absolutismo a la soberanía popular limitada
 Bodin la pensó **absoluta**; Hobbes la concentró en el Leviatán. Pero la modernidad
-democrática la transformó: hoy la soberanía **reside en el pueblo** (art. 39 constitucional
+democrática la transformó: hoy la soberanía **reside en el pueblo** (art. 39 ⟳ constitucional
 mexicano: "La soberanía nacional reside esencial y originariamente en el pueblo. Todo poder
 público dimana del pueblo y se instituye para beneficio de éste"). Y es **limitada**: por
 los derechos humanos, por la Constitución y, en el plano externo, por el derecho
@@ -251,12 +254,12 @@ Para que exista inversión y comercio se necesita **previsibilidad**: que las re
 conocidas, generales, estables, y que el poder se someta a ellas. Eso es el Estado de
 Derecho. Sus principios:
 
-- **Legalidad:** la autoridad solo puede hacer lo que la ley le permite (art. 16
+- **Legalidad:** la autoridad solo puede hacer lo que la ley le permite (art. 16 ⟳
   constitucional: todo acto de molestia debe fundarse y motivarse). El particular, en
   cambio, puede hacer todo lo que la ley no prohíbe (autonomía de la voluntad).
 - **Seguridad jurídica:** certeza sobre las reglas y sus consecuencias; irretroactividad
-  (art. 14).
-- **Igualdad ante la ley** y **acceso a la justicia** (art. 17).
+  (art. 14 ⟳).
+- **Igualdad ante la ley** y **acceso a la justicia** (art. 17 ⟳).
 
 > **Conexión directa con M&A:** el valor de una empresa y el apetito de un inversionista
 > dependen del **Estado de Derecho** del país: ¿se respetan los contratos?, ¿son
@@ -266,7 +269,7 @@ Derecho. Sus principios:
 
 ### 5.6 Formas de Estado y de gobierno: cómo leerlas
 - **Forma de Estado** responde *cómo se reparte el poder en el territorio*: México es una
-  **república representativa, democrática, laica y federal** (art. 40 constitucional). El
+  **república representativa, democrática, laica y federal** (art. 40 ⟳ constitucional). El
   federalismo implica que coexisten la Federación, 32 entidades y los municipios, cada uno
   con competencias: relevante para saber **qué autoridad** regula o grava una operación.
 - **Forma de gobierno** responde *cómo se organizan los poderes entre sí*: México es
@@ -355,16 +358,16 @@ derecho económico.
 ## 9. Relación con México
 
 El orden constitucional mexicano es teoría del Estado positivizada. Artículos clave:
-- **Art. 39:** la soberanía reside en el pueblo; todo poder dimana de él.
-- **Art. 40:** México es república representativa, democrática, laica y **federal**.
-- **Art. 41:** el pueblo ejerce su soberanía por medio de los Poderes de la Unión y de los
+- **Art. 39 ⟳:** la soberanía reside en el pueblo; todo poder dimana de él.
+- **Art. 40 ⟳:** México es república representativa, democrática, laica y **federal**.
+- **Art. 41 ⟳:** el pueblo ejerce su soberanía por medio de los Poderes de la Unión y de los
   Estados.
-- **Art. 49:** **división de poderes** (Legislativo, Ejecutivo, Judicial); prohibición de
+- **Art. 49 ⟳:** **división de poderes** (Legislativo, Ejecutivo, Judicial); prohibición de
   reunir dos o más en una persona o corporación.
-- **Art. 42–48:** territorio nacional.
-- **Arts. 14 y 16:** legalidad, seguridad jurídica, irretroactividad, fundamentación y
+- **Art. 42 ⟳–48:** territorio nacional.
+- **Arts. 14 y 16 ⟳:** legalidad, seguridad jurídica, irretroactividad, fundamentación y
   motivación: el núcleo del **Estado de Derecho** que protege a empresas y particulares.
-- **Art. 133:** supremacía constitucional.
+- **Art. 133 ⟳:** supremacía constitucional.
 - **Órganos constitucionales autónomos:** el diseño mexicano creó autoridades fuera del
   esquema tradicional de tres poderes —Banco de México, INE, CNDH, INEGI— pensadas para
   decisiones técnicas e independientes. ⚠️ **Actualización 2024-2025:** la reforma de
@@ -426,12 +429,12 @@ buena parte de la cultura institucional y del *riesgo regulatorio* actual.
 - *"Enuncie los elementos del Estado y explique por qué la soberanía es el más
   problemático hoy."*
 - *"Compare las teorías contractualistas de Hobbes, Locke y Rousseau y diga cuál inspira el
-  art. 39 constitucional."*
-- *"Explique la división de poderes según Montesquieu y su recepción en el art. 49. ¿Dónde
+  art. 39 ⟳ constitucional."*
+- *"Explique la división de poderes según Montesquieu y su recepción en el art. 49 ⟳. ¿Dónde
   encajan los órganos constitucionales autónomos?"*
 - *"Distinga forma de Estado y forma de gobierno y clasifique a México conforme al art.
-  40."*
-- *"¿Qué significa que México sea un Estado de Derecho? Fundamente en los arts. 14 y 16."*
+  40 ⟳."*
+- *"¿Qué significa que México sea un Estado de Derecho? Fundamente en los arts. 14 y 16 ⟳."*
 - *"Exponga los tipos de dominación legítima de Weber con un ejemplo de cada uno."*
 
 > El sinodal premia que **conectes** la teoría con artículos concretos y con consecuencias
@@ -442,14 +445,14 @@ buena parte de la cultura institucional y del *riesgo regulatorio* actual.
 
 ## 14. Cómo aparece en un juicio
 
-- **El amparo como límite al poder:** el juicio de amparo (arts. 103 y 107 const.) es la
+- **El amparo como límite al poder:** el juicio de amparo (arts. 103 y 107 ⟳ const.) es la
   herramienta por la que el particular hace valer el Estado de Derecho contra actos de
   autoridad. Toda la teoría de los límites del poder se vuelve operativa aquí.
 - **Control de constitucionalidad:** acciones de inconstitucionalidad y controversias
-  constitucionales (art. 105) resuelven conflictos *entre poderes* y *entre niveles de
+  constitucionales (art. 105 ⟳) resuelven conflictos *entre poderes* y *entre niveles de
   gobierno* (federalismo en acción).
 - **Fundamentación y motivación:** litigar la ilegalidad de un acto administrativo
-  (multa de COFECE, negativa de un permiso) es invocar el art. 16 y el principio de
+  (multa de COFECE, negativa de un permiso) es invocar el art. 16 ⟳ y el principio de
   legalidad.
 - **Conflictos competenciales:** determinar si una materia es federal o local decide qué
   tribunal conoce y qué ley aplica.
@@ -474,7 +477,7 @@ buena parte de la cultura institucional y del *riesgo regulatorio* actual.
 - **La empresa opera bajo licencia del Estado:** existe como persona moral porque el orden
   jurídico estatal la reconoce; opera mediante permisos, concesiones y registros estatales.
 - **Sectores regulados y reservados:** la Constitución reserva al Estado ciertas áreas
-  estratégicas y restringe la inversión extranjera en otras (arts. 25, 27, 28). Definir si
+  estratégicas y restringe la inversión extranjera en otras (arts. 25, 27, 28 ⟳). Definir si
   una empresa puede operar y con qué estructura societaria depende de esto.
 - **Tributación:** la empresa financia al Estado; la planeación fiscal opera dentro de los
   límites del poder tributario estatal.
@@ -486,7 +489,7 @@ buena parte de la cultura institucional y del *riesgo regulatorio* actual.
 Retomemos el ejercicio de arranque: *¿por qué dos privados no pueden fusionarse libremente?*
 
 Porque por encima de su autonomía está un **interés público** que el Estado tutela: la
-**competencia económica** (art. 28 constitucional, que prohíbe monopolios y prácticas
+**competencia económica** (art. 28 ⟳ constitucional, que prohíbe monopolios y prácticas
 monopólicas). La COFECE (o el IFT en telecomunicaciones y radiodifusión) debe **autorizar
 las concentraciones** que superen ciertos umbrales, para evitar que la fusión cree poder de
 mercado dañino para los consumidores. Esto es teoría del Estado pura: el límite del poder
@@ -537,13 +540,13 @@ autonomía privada en defensa del bien común; el abogado debe anticipar y negoc
 *remedies*.
 
 **Caso 2. Expropiación e indemnización.** El Estado expropia un bien por causa de utilidad
-pública (art. 27 const.). El particular no puede impedirlo, pero tiene derecho a
+pública (art. 27 ⟳ const.). El particular no puede impedirlo, pero tiene derecho a
 **indemnización**; si es arbitraria o sin pago justo, procede el amparo y, si es
 inversionista extranjero protegido, el arbitraje de inversión. *Lección:* el poder soberano
 tiene límites jurídicos accionables.
 
 **Caso 3. Conflicto competencial federación-estado.** Un estado pretende regular una
-materia reservada a la Federación. Vía controversia constitucional (art. 105), la SCJN
+materia reservada a la Federación. Vía controversia constitucional (art. 105 ⟳), la SCJN
 define la competencia. *Lección:* el federalismo distribuye el poder y los conflictos se
 resuelven jurisdiccionalmente.
 
@@ -557,7 +560,7 @@ resuelven jurisdiccionalmente.
    hay un *trade-off* inevitable?
 4. ¿Quién debe decidir los límites del poder en una emergencia (pandemia, crisis): el
    ejecutivo (Schmitt) o los jueces y el parlamento?
-5. ¿La soberanía popular del art. 39 es compatible con decisiones técnicas tomadas por
+5. ¿La soberanía popular del art. 39 ⟳ es compatible con decisiones técnicas tomadas por
    órganos no electos (banco central, reguladores)?
 
 ## 21. Preguntas tipo examen (con respuesta modelo)
@@ -565,11 +568,11 @@ resuelven jurisdiccionalmente.
 **P1. Defina soberanía y explique sus límites contemporáneos.** *R.* Poder supremo del
 Estado, sin superior interno ni subordinación externa (Bodin). Hoy es limitada: por los
 derechos humanos, la Constitución y el derecho internacional (tratados, arbitraje de
-inversión, derecho de gentes). Reside en el pueblo (art. 39).
+inversión, derecho de gentes). Reside en el pueblo (art. 39 ⟳).
 
 **P2. Explique la división de poderes y su recepción mexicana.** *R.* Separación de
 funciones (Montesquieu) en Legislativo, Ejecutivo y Judicial, con frenos y contrapesos para
-evitar el abuso. Art. 49 constitucional; se complementa con órganos autónomos. Su finalidad
+evitar el abuso. Art. 49 ⟳ constitucional; se complementa con órganos autónomos. Su finalidad
 es garantizar la libertad limitando el poder.
 
 **P3. Distinga legalidad y legitimidad.** *R.* Legalidad = conformidad con la ley
@@ -587,7 +590,7 @@ arbitrariedad, no hay inversión ni desarrollo económico.
 adquirir una empresa de infraestructura energética con concesiones del Estado. Analice, en
 capas: (i) **forma de Estado** —¿competencia federal?, ¿qué regulador (CRE)?—; (ii)
 **límites a la inversión extranjera** y eventual reserva estatal del sector (arts. 25, 27,
-28); (iii) **autorizaciones** (COFECE + sectoriales) como condiciones del SPA; (iv) riesgo
+28 ⟳); (iii) **autorizaciones** (COFECE + sectoriales) como condiciones del SPA; (iv) riesgo
 de **cambio regulatorio** y diseño de cláusulas de *change in law* y estabilización; (v)
 protección vía **tratado de inversión** y arbitraje ICSID si el Estado expropia o altera el
 marco. Construya el mapa de riesgo soberano y su asignación contractual.
@@ -610,7 +613,7 @@ derecho del contratista?
   jurídico.
 - **¿Definición de soberanía (Bodin)?** → Poder supremo, perpetuo e indivisible, sin
   superior interno ni externo.
-- **¿Dónde reside la soberanía en México?** → En el pueblo (art. 39 constitucional).
+- **¿Dónde reside la soberanía en México?** → En el pueblo (art. 39 ⟳ constitucional).
 - **¿Poder constituyente vs. constituido?** → Constituyente crea/reforma la Constitución;
   constituido actúa dentro de ella.
 - **¿Tres tipos de dominación legítima (Weber)?** → Tradicional, carismática,
@@ -619,16 +622,16 @@ derecho del contratista?
   un territorio.
 - **¿Estado según Kelsen?** → El orden jurídico mismo, personificado.
 - **¿División de poderes y su autor?** → Legislativo, Ejecutivo, Judicial; Montesquieu (art.
-  49).
+  49 ⟳).
 - **¿Forma de Estado de México?** → República representativa, democrática, laica y federal
-  (art. 40).
+  (art. 40 ⟳).
 - **¿Forma de gobierno de México?** → Presidencial.
 - **¿Legalidad vs. legitimidad?** → Conformidad con la ley vs. justificación del poder.
 - **¿Contractualismo de Locke en una línea?** → Poder limitado y revocable para proteger
   vida, libertad y propiedad.
 - **¿Qué órgano autoriza concentraciones en México?** → La COFECE (o el IFT en
   telecom/radiodifusión).
-- **¿Artículo del Estado de Derecho económico básico?** → Arts. 14 y 16 (seguridad jurídica,
+- **¿Artículo del Estado de Derecho económico básico?** → Arts. 14 y 16 ⟳ (seguridad jurídica,
   legalidad).
 
 ## 24. Mapas mentales
@@ -696,7 +699,7 @@ TEORÍA DEL ESTADO
 - **División de poderes:** **"LEJ"** → **L**egislativo, **E**jecutivo, **J**udicial.
 - **Dominación legítima (Weber):** **"TCR"** → **T**radicional, **C**arismática,
   **R**acional-legal.
-- **México (art. 40):** *"República Representativa, Democrática, Laica y Federal"* →
+- **México (art. 40 ⟳):** *"República Representativa, Democrática, Laica y Federal"* →
   **"RRDLF"**.
 - **Contractualistas:** *"Hobbes manda, Locke limita, Rousseau el pueblo"*.
 
@@ -722,12 +725,12 @@ mediante un **orden jurídico** en busca del bien común. El Estado puede mirars
 realidad social (Weber: monopolio de la fuerza legítima), como orden jurídico (Kelsen) o
 como comunidad orientada a un fin (tradición aristotélica). Su poder se justifica
 (legitimidad: tradicional, carismática, racional-legal) y, sobre todo, se **limita**:
-mediante la **división de poderes** (Montesquieu, art. 49), el **Estado de Derecho**
-(legalidad y seguridad jurídica, arts. 14 y 16) y los derechos fundamentales. La soberanía,
-antes absoluta (Bodin, Hobbes), hoy reside en el pueblo (art. 39) y está acotada por los
+mediante la **división de poderes** (Montesquieu, art. 49 ⟳), el **Estado de Derecho**
+(legalidad y seguridad jurídica, arts. 14 y 16 ⟳) y los derechos fundamentales. La soberanía,
+antes absoluta (Bodin, Hobbes), hoy reside en el pueblo (art. 39 ⟳) y está acotada por los
 derechos humanos y el derecho internacional.
 
-México es una república representativa, democrática, laica y **federal** (art. 40), de
+México es una república representativa, democrática, laica y **federal** (art. 40 ⟳), de
 gobierno **presidencial**, con órganos constitucionales autónomos clave para los negocios
 (COFECE, CNBV/IFT, Banxico). Para el abogado corporativo, el Estado es a la vez el **garante**
 (hace cumplir contratos, protege la propiedad: condición de toda inversión) y el principal
@@ -759,7 +762,7 @@ puede la autoridad, y cómo se defiende la empresa frente a ella.
 - Valadés, Diego, *El control del poder*.
 
 **Legislación:**
-- Constitución Política de los Estados Unidos Mexicanos (arts. 39, 40, 41, 49, 42–48, 14,
+- Constitución Política de los Estados Unidos Mexicanos (arts. 39, 40, 41, 49, 42 ⟳–48, 14,
   16, 17, 25, 27, 28, 105, 133).
 
 ## 30. Ruta para continuar

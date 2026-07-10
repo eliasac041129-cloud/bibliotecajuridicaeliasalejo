@@ -1,5 +1,8 @@
 # [Nivel IV · Libro 10] Competencia Económica y Control de Concentraciones
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Hay un momento, en casi toda operación grande de M&A, en que el *deal* se detiene y espera: la
 > autorización de la **autoridad de competencia**. Sin ella, la compra no puede cerrarse —y cerrar
 > sin ella puede costar la **nulidad de la operación y multas millonarias**—. Este libro enseña el

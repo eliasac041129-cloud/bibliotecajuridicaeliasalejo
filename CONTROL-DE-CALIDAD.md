@@ -50,10 +50,17 @@ La pasada detectó **tres formatos** conviviendo. Se **homologan por norma** (ve
   y la **LISR** (DOF 01-04-2024) ya en [`fuentes-legales/`](./fuentes-legales/), se cotejó **palabra por
   palabra** el articulado fiscal: **CFF** arts. 1º, 2º, 4º, 5º-A, 6º, 17-A, 21, 26, 42, 67, 69-B, 146;
   **LISR** arts. 9, 27, 28, 57, 152. En 01-Fiscal se voltearon **30 marcas ⚠️→✅**. Detalle en Protocolo §V.
-- ⚠️ **Pendiente (para "referencia verificada" plena):** el **verbatim de los artículos de las demás leyes**
-  (LGSM, LGTOC, LMV, CCF, LFT, CPF, Ley de Amparo, LFPPI…). Requiere subir su **texto íntegro** a
-  `fuentes-legales/` y repetir el cotejo (metodología ya probada con CFF/LISR). Hasta entonces, esos números
-  de artículo se tratan como ⚠️ y se cotejan en la fuente vigente antes de citarlos.
+- ✅ **VERBATIM AMPLIADO al núcleo corporativo (v3.2):** con 7 textos oficiales más en
+  [`fuentes-legales/`](./fuentes-legales/) se cotejó palabra por palabra: **LGSM** (1º/25/58/87/88/89),
+  **LGTOC** (5º/76/170/175), **LMV** (1/2/22), **CCF** (1792/1794/1803/2248), **LFT** (47/48/123/132),
+  **CPF** (7º/386; **390 = «Derogado»**) y **Ley de Amparo** (1º/5º/107/170). Fechas de vigencia en el README de fuentes.
+- ✅ **Nueva convención ⟳ (apóstrofe de vigencia):** añadida a **cada artículo citado** de toda la biblioteca
+  (**982 marcas**) más un callout explicativo en los **58 tratados**. Recuerda al lector que **✅ verifica a
+  una fecha, no para siempre**, y lo obliga a recontrastar el artículo en su código. Verificado: 0 marcas
+  dentro de bloques de código, 0 archivos con markdown roto.
+- ⚠️ **Pendiente (para "referencia verificada" plena):** el verbatim de las leyes **aún no subidas**
+  (LIVA, LFPPI, LFPDPPP, LGEEPA, Ley de Concursos Mercantiles…). Metodología ya probada; basta subir su
+  texto a `fuentes-legales/` y repetir el cotejo.
 
 ## 5. Fechado global
 

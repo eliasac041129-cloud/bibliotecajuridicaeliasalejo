@@ -1,5 +1,8 @@
 # [Nivel I · Libro 7] Tratado de las Obligaciones
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Si los derechos reales son el lado activo y estático del patrimonio (lo que **tengo**),
 > las obligaciones son su lado dinámico (lo que **debo** y lo que **me deben**). La
 > obligación es el vínculo que conecta dos patrimonios y hace circular la riqueza. Es, sin
@@ -91,7 +94,7 @@ el régimen de la responsabilidad (dolo, culpa, mora, caso fortuito).
 El *ius commune* y luego la **codificación** (Code Napoléon, 1804) organizaron la teoría
 general de las obligaciones que hoy conocemos. El Code colocó al **contrato** en el centro y
 formuló el principio rey: *"les conventions légalement formées tiennent lieu de loi à ceux qui
-les ont faites"* (los contratos legalmente formados son ley entre las partes; art. 1134, hoy
+les ont faites"* (los contratos legalmente formados son ley entre las partes; art. 1134 ⟳, hoy
 1103). De ahí el **pacta sunt servanda** como dogma de la fuerza obligatoria del contrato.
 
 ### 2.3 La teoría alemana y la abstracción
@@ -204,12 +207,12 @@ El CCF reconoce cinco fuentes (frente a las cuatro romanas):
    promesa de recompensa, **estipulación a favor de tercero**, y de modo capital, la
    suscripción de **títulos de crédito** —Nivel III—).
 3. **Enriquecimiento ilegítimo (sin causa):** quien se enriquece sin causa a costa de otro
-   debe restituir (la *condictio* romana; art. 1882 CCF). Base del *unjust enrichment*.
+   debe restituir (la *condictio* romana; art. 1882 CCF ⟳). Base del *unjust enrichment*.
 4. **Gestión de negocios:** quien, sin mandato, administra asuntos de otro, genera
    obligaciones recíprocas (*negotiorum gestio*).
 5. **Hechos ilícitos (responsabilidad civil):** quien causa un daño a otro obrando ilícitamente
-   o contra las buenas costumbres debe repararlo (art. 1910 CCF); incluye la **responsabilidad
-   objetiva** por uso de cosas peligrosas (art. 1913). (La responsabilidad civil se profundiza
+   o contra las buenas costumbres debe repararlo (art. 1910 CCF ⟳); incluye la **responsabilidad
+   objetiva** por uso de cosas peligrosas (art. 1913 ⟳). (La responsabilidad civil se profundiza
    en el Nivel II.)
 
 ### 5.3 Clasificación de las obligaciones: por qué cada categoría cambia el juego
@@ -244,13 +247,13 @@ remedios:
 1. **Cumplimiento forzoso (ejecución específica):** exigir que se cumpla la prestación (entregar
    la cosa, otorgar la escritura). Cuando es posible, se prefiere.
 2. **Resolución del contrato:** en los contratos bilaterales, la **facultad resolutoria
-   tácita** (art. 1949 CCF): ante el incumplimiento de una parte, la otra puede exigir el
+   tácita** (art. 1949 CCF ⟳): ante el incumplimiento de una parte, la otra puede exigir el
    cumplimiento o la **resolución**, en ambos casos **con daños y perjuicios**. Es la *lex
    commissoria* romana.
 3. **Indemnización de daños y perjuicios.** Esta es la clave. El que incumple debe reparar:
    - **Daño** (daño emergente): la **pérdida** efectivamente sufrida.
    - **Perjuicio** (lucro cesante): la **ganancia lícita** que se dejó de obtener.
-   - Requisito esencial (art. 2110 CCF): los daños y perjuicios deben ser **consecuencia
+   - Requisito esencial (art. 2110 CCF ⟳): los daños y perjuicios deben ser **consecuencia
      inmediata y directa** del incumplimiento, ya causados o que necesariamente deban
      causarse. *Esto limita la cadena causal:* no se responde de daños remotos o indirectos.
 
@@ -276,7 +279,7 @@ Este árbol convierte el conflicto en una **estrategia y una cifra**.
 > **Respuesta al ejercicio de arranque:** el comprador puede reclamar (i) el **daño emergente**
 > (mayor costo de conseguir otra maquinaria, gastos) y (ii) el **lucro cesante** (la ganancia
 > del negocio perdido), **siempre que** sea consecuencia **inmediata y directa** del
-> incumplimiento y razonablemente previsible/probada (art. 2110 CCF). Los **intereses** y la
+> incumplimiento y razonablemente previsible/probada (art. 2110 CCF ⟳). Los **intereses** y la
 > indemnización del retraso corren desde que el deudor incurrió en **mora** (vencido el plazo
 > del 1 de marzo, si la obligación era a día cierto). Si las partes pactaron una **cláusula
 > penal**, esta puede fijar o limitar el monto, evitando la prueba del daño. Ver cómo una
@@ -322,13 +325,13 @@ debate —asignan por anticipado quién soporta el riesgo del cambio de circunst
 **Concepción subjetiva vs. objetiva de la responsabilidad.** La tradición liberal exige
 **culpa** (responsabilidad subjetiva: solo respondes si obraste con dolo o negligencia). El
 siglo XX desarrolló la **responsabilidad objetiva** (por riesgo creado: respondes por el daño
-de tu actividad peligrosa aunque no haya culpa; art. 1913 CCF). El debate define cuánta
+de tu actividad peligrosa aunque no haya culpa; art. 1913 CCF ⟳). El debate define cuánta
 seguridad y cuánta actividad económica riesgosa tolera el sistema.
 
 **Daños: teoría de la causalidad adecuada vs. equivalencia de condiciones.** ¿Hasta qué eslabón
 de la cadena causal responde el deudor? La **equivalencia de condiciones** (todo antecedente es
 causa) llevaría a responsabilidad infinita; la **causalidad adecuada** (solo responde de las
-consecuencias que normalmente derivan del hecho) la acota. El art. 2110 CCF ("consecuencia
+consecuencias que normalmente derivan del hecho) la acota. El art. 2110 CCF ⟳ ("consecuencia
 inmediata y directa") adopta una limitación causal, pariente de la regla anglosajona de
 *foreseeability* (*Hadley v. Baxendale*).
 
@@ -371,12 +374,12 @@ inmediata y directa") adopta una limitación causal, pariente de la regla anglos
 ## 9. Relación con México
 
 Régimen en el **Libro Cuarto del Código Civil Federal** ("De las obligaciones"):
-- **Fuentes:** contrato (arts. 1792 y ss.); declaración unilateral (1860 y ss.);
+- **Fuentes:** contrato (arts. 1792 ⟳ y ss.); declaración unilateral (1860 y ss.);
   enriquecimiento sin causa (1882 y ss.); gestión de negocios (1896 y ss.); hechos ilícitos /
   responsabilidad civil (1910 y ss.; objetiva 1913).
 - **Modalidades:** condicionales y a plazo (1938 y ss.); conjuntivas y alternativas;
   **mancomunadas y solidarias** (1984 y ss., la solidaridad no se presume: 1988).
-- **Cumplimiento (pago):** arts. 2062 y ss. (requisitos, quién/ a quién / dónde / cuándo,
+- **Cumplimiento (pago):** arts. 2062 ⟳ y ss. (requisitos, quién/ a quién / dónde / cuándo,
   imputación, ofrecimiento y consignación).
 - **Incumplimiento:** **daños y perjuicios** (2104 y ss.), definición de daño y perjuicio
   (2108-2109), **consecuencia inmediata y directa** (2110), **mora**, **cláusula penal**
@@ -429,7 +432,7 @@ Régimen en el **Libro Cuarto del Código Civil Federal** ("De las obligaciones"
 - **Confundir daño y perjuicio.** Daño = pérdida sufrida (daño emergente); perjuicio =
   ganancia dejada de obtener (lucro cesante). Reclamar mal el concepto debilita la pretensión.
 - **Olvidar el requisito de "consecuencia inmediata y directa".** Pretender daños remotos o
-  indirectos sin nexo causal adecuado lleva al fracaso (art. 2110).
+  indirectos sin nexo causal adecuado lleva al fracaso (art. 2110 ⟳).
 - **No constituir en mora.** Sin mora, no corren intereses ni se traslada el riesgo; muchos
   juicios se pierden por no interpelar cuando se requería.
 - **Presumir la solidaridad.** La solidaridad **no se presume**: si no se pactó o no la
@@ -438,7 +441,7 @@ Régimen en el **Libro Cuarto del Código Civil Federal** ("De las obligaciones"
   obligó "de medios" (y viceversa) altera la carga de la prueba y el éxito de la acción.
 - **Ignorar la prescripción.** El crédito no exigido prescribe; vigilar plazos es deber
   profesional.
-- **No distinguir resolución de rescisión/nulidad.** La resolución (art. 1949) opera por
+- **No distinguir resolución de rescisión/nulidad.** La resolución (art. 1949 ⟳) opera por
   incumplimiento; la nulidad, por vicios de origen (Libro 4). Confundirlas arruina la
   estrategia.
 
@@ -446,9 +449,9 @@ Régimen en el **Libro Cuarto del Código Civil Federal** ("De las obligaciones"
 
 - *"Defina obligación y explique sus elementos y la distinción Schuld/Haftung."*
 - *"Enumere las cinco fuentes de las obligaciones en el CCF y dé un ejemplo de cada una."*
-- *"Distinga daño y perjuicio, y explique el requisito del art. 2110."*
+- *"Distinga daño y perjuicio, y explique el requisito del art. 2110 ⟳."*
 - *"¿Qué es la mora, cómo se constituye y qué efectos produce?"*
-- *"Explique la facultad resolutoria tácita del art. 1949 y compárela con la nulidad."*
+- *"Explique la facultad resolutoria tácita del art. 1949 ⟳ y compárela con la nulidad."*
 - *"¿Qué es la solidaridad y por qué no se presume? ¿Para qué sirve en el financiamiento?"*
 - *"Compare cláusula penal mexicana y *liquidated damages* del common law."*
 
@@ -463,7 +466,7 @@ Régimen en el **Libro Cuarto del Código Civil Federal** ("De las obligaciones"
 - **Acción de cumplimiento (ejecución específica):** el acreedor exige que el deudor realice
   la prestación; en obligaciones de dar puede haber ejecución forzada sobre la cosa o el
   patrimonio.
-- **Acción de resolución (art. 1949):** ante incumplimiento, el acreedor pide la resolución
+- **Acción de resolución (art. 1949 ⟳):** ante incumplimiento, el acreedor pide la resolución
   del contrato bilateral, con restituciones y **daños y perjuicios**.
 - **Acción de daños y perjuicios:** se reclama daño emergente y lucro cesante; el actor debe
   **probar** el incumplimiento, el daño, su **cuantía** y el **nexo causal** (consecuencia
@@ -534,7 +537,7 @@ indemnización.
   precio para responder de eventuales daños.
 - **Mitigación y causalidad:** muchos SPA importan del common law el **deber de mitigar** y la
   limitación a daños **directos** (excluyendo *consequential/indirect damages*), afinando el
-  art. 2110.
+  art. 2110 ⟳.
 
 > **Cómo razona el socio:** "El SPA es un sistema de **obligaciones y remedios**. Las *reps*
 > reparten quién garantiza qué; el *indemnity* convierte su falsedad en dinero; los *caps* y
@@ -547,7 +550,7 @@ indemnización.
   derecho supletorio; los definen (qué se indemniza, exclusión de *consequential damages*,
   *caps*, deber de mitigar), porque el common law y el civil law calculan distinto.
 - **Hadley v. Baxendale y previsibilidad:** la regla anglosajona limita los daños a los
-  **previsibles** al contratar; equivale funcionalmente al art. 2110 y debe coordinarse en
+  **previsibles** al contratar; equivale funcionalmente al art. 2110 ⟳ y debe coordinarse en
   cláusulas cross-border.
 - **Liquidated damages vs. penalty:** en el common law, una pena **punitiva** es inejecutable
   (*penalty rule*); la cláusula debe ser una estimación razonable del daño. Al redactar para un
@@ -567,7 +570,7 @@ indemnización.
 tiempo; el comprador reclama, además del mayor costo de reposición, la pérdida de un contrato
 con un tercero. *Análisis:* el daño emergente (mayor costo) procede; el lucro cesante (contrato
 perdido) procede **solo si** es consecuencia inmediata y directa y razonablemente previsible
-(art. 2110; *Hadley v. Baxendale* en clave comparada). Lección: la previsibilidad y la
+(art. 2110 ⟳; *Hadley v. Baxendale* en clave comparada). Lección: la previsibilidad y la
 causalidad **acotan** la indemnización.
 
 **Caso 2. Solidaridad que salva al acreedor.** Un banco prestó a una empresa con dos
@@ -601,19 +604,19 @@ unilateral de la voluntad; enriquecimiento sin causa; gestión de negocios; y he
 
 **P2. Distinga daño y perjuicio y enuncie el requisito de causalidad.** *R.* Daño = pérdida
 sufrida (daño emergente); perjuicio = ganancia lícita no obtenida (lucro cesante). Ambos deben
-ser **consecuencia inmediata y directa** del incumplimiento (art. 2110 CCF).
+ser **consecuencia inmediata y directa** del incumplimiento (art. 2110 CCF ⟳).
 
 **P3. ¿Qué es la mora y qué efectos produce?** *R.* Retraso jurídicamente relevante en cumplir
 una obligación exigible. Efectos: hace correr intereses/indemnización del retraso y **traslada
 el riesgo** (el moroso responde aun del caso fortuito).
 
-**P4. Explique la facultad resolutoria tácita.** *R.* Art. 1949 CCF: en obligaciones
+**P4. Explique la facultad resolutoria tácita.** *R.* Art. 1949 CCF ⟳: en obligaciones
 recíprocas, ante el incumplimiento de una parte, la otra puede exigir el **cumplimiento** o la
 **resolución**, en ambos casos con daños y perjuicios. Deriva de la *lex commissoria* romana.
 
 **P5. ¿Qué es la solidaridad y por qué no se presume?** *R.* Modalidad con pluralidad de
 sujetos donde cada deudor debe el todo (o cada acreedor puede exigir el todo). No se presume
-(art. 1988): debe pactarse o imponerla la ley, porque agrava la posición del deudor.
+(art. 1988 ⟳): debe pactarse o imponerla la ley, porque agrava la posición del deudor.
 
 ## 22. Casos complejos (nivel "socio")
 
@@ -624,7 +627,7 @@ contingencia perdió una línea de crédito (daño "indirecto"). El SPA pactó: 
 precio, *basket* del 1%, exclusión de *consequential damages* y deber de mitigar. Analice: (i)
 la falsedad de la *rep* como **incumplimiento** y la indemnización como **responsabilidad por
 daños**; (ii) qué parte del daño es **directa** (la contingencia) y cuál **indirecta** (la
-línea perdida) y cómo opera la exclusión pactada y el art. 2110; (iii) el efecto del *cap* y el
+línea perdida) y cómo opera la exclusión pactada y el art. 2110 ⟳; (iii) el efecto del *cap* y el
 *basket* como **limitación de responsabilidad**; (iv) el **deber de mitigar** y su recepción
 en México; (v) cómo el **escrow** asegura el cobro. Construya el cálculo de lo efectivamente
 indemnizable.
@@ -653,14 +656,14 @@ hay novación?
   gestión de negocios, hechos ilícitos.
 - **¿Daño vs. perjuicio?** → Daño emergente (pérdida sufrida) vs. lucro cesante (ganancia no
   obtenida).
-- **¿Requisito del art. 2110?** → Los daños y perjuicios deben ser consecuencia **inmediata y
+- **¿Requisito del art. 2110 ⟳?** → Los daños y perjuicios deben ser consecuencia **inmediata y
   directa** del incumplimiento.
 - **¿Qué es la mora?** → Retraso jurídicamente relevante; hace correr intereses y traslada el
   riesgo.
 - **¿*Mora perpetuat obligationem*?** → El moroso responde aun del caso fortuito.
-- **¿Facultad resolutoria tácita?** → Art. 1949: cumplir o resolver, con daños, ante
+- **¿Facultad resolutoria tácita?** → Art. 1949 ⟳: cumplir o resolver, con daños, ante
   incumplimiento recíproco.
-- **¿La solidaridad se presume?** → No (art. 1988): se pacta o la impone la ley.
+- **¿La solidaridad se presume?** → No (art. 1988 ⟳): se pacta o la impone la ley.
 - **¿Obligación de medios vs. resultado?** → Medios = diligencia; resultado = lograr el
   resultado concreto.
 - **¿Cesión de créditos vs. asunción de deuda?** → Transmisión del lado activo vs. del pasivo
@@ -725,7 +728,7 @@ OBLIGACIONES
 
 | | Resolución (1949) | Nulidad (Libro 4) | Rescisión por lesión |
 |---|---|---|---|
-| Causa | Incumplimiento posterior | Vicio de origen | Desproporción (art. 17) |
+| Causa | Incumplimiento posterior | Vicio de origen | Desproporción (art. 17 ⟳) |
 | Efecto | Deshace por incumplir | Acto inválido | Anula o reduce |
 
 **Civil law vs. common law (daños)**
@@ -775,9 +778,9 @@ enriquecimiento sin causa, gestión de negocios y hechos ilícitos. Se clasifica
 se presumen—) y modalidad (puras/condicionales/a plazo).
 
 El corazón profesional del libro es el **incumplimiento**: el acreedor puede exigir
-**cumplimiento forzoso**, **resolver** el contrato (art. 1949) y, en todo caso, reclamar **daños
+**cumplimiento forzoso**, **resolver** el contrato (art. 1949 ⟳) y, en todo caso, reclamar **daños
 y perjuicios** —daño emergente y lucro cesante— que deben ser **consecuencia inmediata y
-directa** (art. 2110). La **mora** hace correr intereses y traslada el riesgo; el **caso
+directa** (art. 2110 ⟳). La **mora** hace correr intereses y traslada el riesgo; el **caso
 fortuito** libera salvo pacto, mora o culpa; la **cláusula penal** fija o limita la
 indemnización. Las obligaciones **circulan** (cesión de créditos, subrogación, asunción de
 deuda) y **se extinguen** (pago, compensación, novación, confusión, remisión, prescripción).
@@ -803,7 +806,7 @@ cifra **acotada por causalidad, mora y pacto**: la destreza central del derecho 
 - *Hadley v. Baxendale* (1854) y CISG / Principios UNIDROIT (régimen comparado de daños).
 
 **Legislación:**
-- Código Civil Federal, Libro Cuarto "De las obligaciones" (arts. 1792 y ss.; daños 2104-2118;
+- Código Civil Federal, Libro Cuarto "De las obligaciones" (arts. 1792 ⟳ y ss.; daños 2104-2118;
   resolución 1949; mora; cláusula penal 1840 y ss.; solidaridad 1984-1996; cesión 2029 y ss.;
   extinción 2185 y ss.). (Verificar el código de la entidad.)
 - Código de Comercio (obligaciones y mora mercantiles; supletoriedad del derecho civil).

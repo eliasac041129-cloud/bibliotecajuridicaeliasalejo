@@ -1,5 +1,8 @@
 # [Nivel IV · Libro 7] Private Equity y Venture Capital
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Hasta aquí aprendiste a **comprar** (M&A), **financiar** (deuda) y **colaborar** (JV). Ahora subes al
 > lugar donde todas esas herramientas se usan con la **máxima intensidad y sofisticación**: el mundo de
 > los **inversionistas profesionales**. El **private equity (PE)** y el **venture capital (VC)** son los

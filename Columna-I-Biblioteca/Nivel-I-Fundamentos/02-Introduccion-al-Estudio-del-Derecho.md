@@ -1,5 +1,8 @@
 # [Nivel I · Libro 2] Tratado de Introducción al Estudio del Derecho
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Si el Derecho Romano nos dio las *piezas* (persona, cosa, obligación, contrato, acción),
 > la Introducción al Estudio del Derecho nos enseña a ver el *tablero completo*: qué es el
 > derecho, de dónde sale, cómo se ordena, cómo se interpreta y cómo se aplica. Es la
@@ -166,7 +169,7 @@ para el incumplimiento.
     autoridad persuasiva.
   - **Principios generales del derecho:** criterios fundamentales (buena fe, nadie puede
     beneficiarse de su propio dolo, *pacta sunt servanda*) que sirven para integrar lagunas
-    (art. 14 constitucional, último párrafo; art. 19 CCF).
+    (art. 14 ⟳ constitucional, último párrafo; art. 19 CCF ⟳).
 - **Fuentes reales:** los factores políticos, económicos y sociales que dan contenido a la
   norma.
 - **Fuentes históricas:** los documentos del pasado (las XII Tablas, el Código Napoleón).
@@ -189,7 +192,7 @@ estos planos es la prueba de fuego del jurista formado.
 Las normas no flotan: forman un **sistema jerárquico**. Kelsen lo expresó con la imagen de
 la **pirámide normativa**: cada norma obtiene su validez de otra superior, hasta llegar a la
 Constitución, y por encima de ella a una hipotética **norma fundamental** (*Grundnorm*). En
-México la cúspide es la **Constitución** (art. 133), seguida —tras la reforma de derechos
+México la cúspide es la **Constitución** (art. 133 ⟳), seguida —tras la reforma de derechos
 humanos de 2011 y el caso *Varios 912/2010 / Radilla*— de los tratados internacionales en
 materia de derechos humanos (que integran el "bloque de constitucionalidad" / parámetro de
 regularidad constitucional), las leyes generales y federales, y así sucesivamente.
@@ -202,7 +205,7 @@ regularidad constitucional), las leyes generales y federales, y así sucesivamen
   —*lex superior derogat inferiori*—), **cronológico** (la posterior deroga a la anterior
   —*lex posterior*—) y de **especialidad** (la especial prevalece sobre la general —*lex
   specialis*—).
-- **Lagunas:** el juez no puede dejar de resolver alegando silencio de la ley (art. 18 CCF).
+- **Lagunas:** el juez no puede dejar de resolver alegando silencio de la ley (art. 18 CCF ⟳).
   Debe **integrar**: por **analogía** (*ubi eadem ratio, idem ius*) y, en su defecto, por
   los **principios generales del derecho**.
 
@@ -300,17 +303,17 @@ por *New York law* se lee distinto de uno regido por derecho mexicano.
 
 ## 9. Relación con México
 
-- **Pirámide normativa mexicana:** Constitución (art. 133) → tratados, con rango especial
-  los de **derechos humanos** (art. 1º, reforma de 2011; *parámetro de regularidad
+- **Pirámide normativa mexicana:** Constitución (art. 133 ⟳) → tratados, con rango especial
+  los de **derechos humanos** (art. 1º ⟳, reforma de 2011; *parámetro de regularidad
   constitucional*) → leyes generales → leyes federales y locales → reglamentos → normas
   individualizadas (sentencias, contratos, actos administrativos).
-- **Interpretación constitucional:** los arts. 1º y 14 imponen la interpretación **conforme**
-  y el principio **pro persona**; el art. 14 prohíbe la analogía en materia penal pero la
+- **Interpretación constitucional:** los arts. 1º y 14 ⟳ imponen la interpretación **conforme**
+  y el principio **pro persona**; el art. 14 ⟳ prohíbe la analogía en materia penal pero la
   admite (vía principios generales) en la civil.
-- **Fuentes en el Código Civil Federal:** art. 18 (el juez no puede dejar de resolver por
-  silencio u oscuridad de la ley), art. 19 (las controversias se deciden conforme a la letra
+- **Fuentes en el Código Civil Federal:** art. 18 ⟳ (el juez no puede dejar de resolver por
+  silencio u oscuridad de la ley), art. 19 ⟳ (las controversias se deciden conforme a la letra
   o a la interpretación jurídica de la ley, y a falta de ley, por los **principios generales
-  del derecho**), art. 20 (conflicto de derechos), art. 21 (ignorancia de la ley no excusa).
+  del derecho**), art. 20 ⟳ (conflicto de derechos), art. 21 ⟳ (ignorancia de la ley no excusa).
 - **Jurisprudencia:** la Ley de Amparo regula su formación (por reiteración, por
   contradicción de criterios y por precedentes de la SCJN tras la reforma de 2021, que dio
   fuerza de **precedente obligatorio** a las razones de las sentencias del Pleno y Salas
@@ -343,10 +346,10 @@ por *New York law* se lee distinto de uno regido por derecho mexicano.
    estatuto social, el contrato entre partes o el uso mercantil? Resolver esto bien evita
    nulidades y litigios.
 2. **Interpretar contratos y estatutos:** aplicar los métodos (literal, sistemático,
-   teleológico) y las reglas de interpretación contractual (arts. 1851 y ss. CCF: la
+   teleológico) y las reglas de interpretación contractual (arts. 1851 ⟳ y ss. CCF: la
    intención de las partes sobre las palabras).
 3. **Integrar lagunas contractuales:** cuando el contrato calla, acudir a la ley supletoria,
-   los usos y la buena fe integradora (art. 1796 CCF).
+   los usos y la buena fe integradora (art. 1796 CCF ⟳).
 4. **Resolver antinomias:** entre cláusulas contradictorias de un mismo contrato o entre
    contratos vinculados (jerárquico, cronológico, especialidad).
 5. **Argumentar la validez/invalidez** de un acto: distinguir si un vicio afecta la validez
@@ -389,9 +392,9 @@ por *New York law* se lee distinto de uno regido por derecho mexicano.
 
 ## 14. Cómo aparece en un juicio
 
-- **La fundamentación y motivación** (art. 16 constitucional) obliga al juez a citar la
+- **La fundamentación y motivación** (art. 16 ⟳ constitucional) obliga al juez a citar la
   norma (fundamentación) y a explicar por qué aplica al caso (motivación): IED pura.
-- **El conflicto de leyes en el tiempo** (irretroactividad, art. 14 constitucional) y en el
+- **El conflicto de leyes en el tiempo** (irretroactividad, art. 14 ⟳ constitucional) y en el
   espacio (derecho internacional privado) se resuelve con la teoría de la vigencia.
 - **La interpretación de la norma controvertida:** las partes litigan, muchas veces, no
   sobre los hechos sino sobre *qué significa* el texto aplicable; cada una propone un método
@@ -403,7 +406,7 @@ por *New York law* se lee distinto de uno regido por derecho mexicano.
 
 ## 15. Cómo aparece en un contrato
 
-- **Interpretación contractual:** los arts. 1851–1859 CCF son IED aplicada al contrato: si
+- **Interpretación contractual:** los arts. 1851 ⟳–1859 CCF son IED aplicada al contrato: si
   los términos son claros, se está a su letra; si hay duda, prevalece la **intención común**
   de las partes; las cláusulas se interpretan unas por otras (interpretación sistemática);
   el uso y costumbre del lugar integran.
@@ -503,12 +506,12 @@ en conflicto entre sí; entonces se pondera, privilegiando usualmente jerarquía
 
 **P3. ¿Qué son los principios generales del derecho y qué función cumplen en México?** *R.*
 Criterios fundamentales del ordenamiento (buena fe, *pacta sunt servanda*, prohibición del
-abuso del derecho); función **integradora** de lagunas (arts. 14 constitucional y 19 CCF) e
+abuso del derecho); función **integradora** de lagunas (arts. 14 ⟳ constitucional y 19 CCF) e
 **interpretativa**.
 
-**P4. Explique la pirámide de Kelsen y su recepción en el art. 133 constitucional.** *R.*
+**P4. Explique la pirámide de Kelsen y su recepción en el art. 133 ⟳ constitucional.** *R.*
 Sistema escalonado donde cada norma deriva su validez de una superior hasta la Constitución y
-la *Grundnorm*. El art. 133 ubica a la Constitución como ley suprema, con los tratados; tras
+la *Grundnorm*. El art. 133 ⟳ ubica a la Constitución como ley suprema, con los tratados; tras
 2011, los de derechos humanos integran el parámetro de regularidad constitucional.
 
 ## 22. Casos complejos (nivel "socio")
@@ -541,7 +544,7 @@ contrato/Disclosure Schedule resuelve la duda.
   eficacia = cumplimiento real.
 - **¿Tres criterios de antinomias?** → Jerárquico, cronológico, especialidad.
 - **¿Cómo se integran las lagunas en México?** → Analogía y principios generales del derecho
-  (arts. 14 const. y 19 CCF).
+  (arts. 14 ⟳ const. y 19 CCF).
 - **¿Cuatro métodos clásicos de interpretación (Savigny)?** → Gramatical, sistemático,
   histórico, teleológico.
 - **¿Qué es la Grundnorm?** → Norma fundamental hipotética que da validez al sistema
@@ -552,7 +555,7 @@ contrato/Disclosure Schedule resuelve la duda.
   optimización que se ponderan.
 - **¿Fuente formal dominante en México?** → La legislación.
 - **¿Dónde es relevante la costumbre en México?** → En materia mercantil (usos del comercio).
-- **¿Qué dice el art. 18 CCF?** → El juez no puede dejar de resolver por silencio u oscuridad
+- **¿Qué dice el art. 18 CCF ⟳?** → El juez no puede dejar de resolver por silencio u oscuridad
   de la ley.
 - **¿Iusnaturalismo en una frase?** → *Lex iniusta non est lex*: la ley injusta no es
   verdadero derecho.
@@ -670,8 +673,8 @@ sus piezas.
 - Nino, Carlos Santiago, *Introducción al Análisis del Derecho*.
 
 **Legislación clave:**
-- Constitución Política de los Estados Unidos Mexicanos (arts. 1º, 14, 16, 133).
-- Código Civil Federal (arts. 18–21; 1851–1859).
+- Constitución Política de los Estados Unidos Mexicanos (arts. 1º, 14, 16, 133 ⟳).
+- Código Civil Federal (arts. 18 ⟳–21; 1851–1859).
 - Ley de Amparo (formación de jurisprudencia y precedente).
 
 ## 30. Ruta para continuar

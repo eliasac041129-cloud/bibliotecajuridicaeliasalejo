@@ -1,5 +1,8 @@
 # [Ramas Esenciales · Libro 3] Derecho Administrativo
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Entre el ciudadano y el Estado hay un actor gigantesco que decide casi todo lo que le pasa a una
 > empresa día con día: la **Administración Pública**. Ella otorga y revoca **permisos, licencias,
 > concesiones y autorizaciones**; **regula** industrias enteras; **inspecciona, multa y clausura**; y
@@ -193,7 +196,7 @@ fiscal o la laboral.
   finalidad de interés público, **fundamentación y motivación**, forma escrita, entre otros.
 - **Concesión:** acto por el que el Estado transfiere a un particular la explotación de un **bien** del
   dominio público o la prestación de un **servicio público**, temporalmente y bajo condiciones.
-- **Expropiación (art. 27 CPEUM y Ley de Expropiación ⚠️):** privación de la propiedad por **causa de
+- **Expropiación (art. 27 CPEUM ⟳ y Ley de Expropiación ⚠️):** privación de la propiedad por **causa de
   utilidad pública** mediante **indemnización**.
 
 ## 12. Definición sencilla
@@ -240,7 +243,7 @@ Todo el litigio administrativo gira en torno a **si el acto es válido**. Un act
 - **Objeto:** lícito, posible y determinado.
 - **Motivo:** los hechos y razones que lo justifican (deben existir y ser ciertos).
 - **Fin:** de interés público (usarlo para otro fin es **desvío de poder**).
-- **Forma:** por **escrito, fundado y motivado** (arts. 14 y 16 CPEUM ⚠️; conéctalo con el Libro 02).
+- **Forma:** por **escrito, fundado y motivado** (arts. 14 y 16 CPEUM ⚠️ ⟳; conéctalo con el Libro 02).
 
 Los **vicios** (causas de nulidad) son el reverso: **incompetencia**, **falta o indebida fundamentación
 y motivación** (el más común), **vicios del procedimiento** (no dar audiencia), **desvío de poder**
@@ -267,7 +270,7 @@ puede impugnar) ⚠️.
   públicos. Son **activos valiosísimos** y su **transferibilidad** es clave en M&A.
 - **Sanciones administrativas:** multas, clausuras, inhabilitaciones. Se rigen por principios
   **cuasi-penales**: legalidad, tipicidad, proporcionalidad, presunción de inocencia.
-- **Expropiación (art. 27 ⚠️):** requiere **utilidad pública** e **indemnización**. Su versión discutida
+- **Expropiación (art. 27 ⚠️ ⟳):** requiere **utilidad pública** e **indemnización**. Su versión discutida
   es la **expropiación regulatoria** (regulación que destruye el valor sin transferir la propiedad).
 
 ### 14.4 La regulación económica y los órganos reguladores
@@ -292,7 +295,7 @@ especializada con enorme mercado (infraestructura, salud, tecnología).
 ### 14.6 La responsabilidad del Estado
 
 El Estado responde por los **daños** que causa su actividad administrativa **irregular**
-(responsabilidad patrimonial del Estado, con base constitucional en el art. 113 ⚠️). Es la contracara de
+(responsabilidad patrimonial del Estado, con base constitucional en el art. 113 ⚠️ ⟳). Es la contracara de
 sus prerrogativas: si te daña ilegalmente, debe **indemnizarte**. Además, los servidores públicos tienen
 **responsabilidades administrativas** (Ley General de Responsabilidades Administrativas), penales y
 políticas — el andamiaje del combate a la corrupción.
@@ -327,7 +330,7 @@ abre los candados indebidos (litiga clausuras y negativas).
 ## 16. Ejemplos simples
 
 1. **Negativa de permiso sin motivar.** Te niegan una licencia con un oficio que no dice por qué → vicio
-   de **motivación** (art. 16 ⚠️) → recurso o juicio de nulidad.
+   de **motivación** (art. 16 ⚠️ ⟳) → recurso o juicio de nulidad.
 2. **Multa desproporcionada.** Una sanción que no atiende a la gravedad ni a la capacidad económica →
    viola **proporcionalidad** de las sanciones.
 3. **Reglamento que excede la ley.** Un reglamento crea un requisito que la ley no prevé → viola
@@ -407,8 +410,8 @@ ambas. ⚠️ *Verificar tratados aplicables.* (Conéctalo con DIP/Arbitraje, Li
 
 ## 23. Derecho mexicano (régimen positivo)
 
-- **Constitucional:** fundamento de la función administrativa, de la expropiación (art. 27 ⚠️) y de la
-  responsabilidad patrimonial del Estado (art. 113 ⚠️).
+- **Constitucional:** fundamento de la función administrativa, de la expropiación (art. 27 ⚠️ ⟳) y de la
+  responsabilidad patrimonial del Estado (art. 113 ⚠️ ⟳).
 - **Leyes marco:** **LFPA** (acto y procedimiento federal), **LFPCA** (juicio de nulidad), **LOAPF**
   (organización), **Ley Federal de Responsabilidades / Ley General de Responsabilidades
   Administrativas**.
@@ -421,7 +424,7 @@ ambas. ⚠️ *Verificar tratados aplicables.* (Conéctalo con DIP/Arbitraje, Li
 ## 24. Jurisprudencia relevante
 
 Líneas temáticas para estudiar y **verificar en el SJF** (no citar de memoria):
-- **Fundamentación y motivación** de actos de molestia (art. 16 ⚠️): el criterio más socorrido.
+- **Fundamentación y motivación** de actos de molestia (art. 16 ⚠️ ⟳): el criterio más socorrido.
 - **Formalidades de las visitas de inspección** y valor probatorio de las actas.
 - **Reserva de ley**: reglamentos y NOM que no pueden crear cargas no previstas en la ley.
 - **Proporcionalidad de las sanciones** administrativas.
@@ -517,7 +520,7 @@ inspector **no se identificó** y **no citó** el fundamento de su competencia. 
 revisión optativo. ¿Qué haces?
 
 **Respuesta modelo.** El acto tiene **vicios** de origen: la falta de identificación del inspector y de
-fundamentación de la competencia violan las formalidades de la visita y el art. 16 ⚠️. Como el recurso es
+fundamentación de la competencia violan las formalidades de la visita y el art. 16 ⚠️ ⟳. Como el recurso es
 **optativo**, puedo ir directo al **juicio de nulidad** ante el **TFJA** (o interponer el recurso). Lo
 **primero** e ineludible: solicitar la **suspensión** de la clausura para reabrir, acreditando apariencia
 del buen derecho (los vicios saltan a la vista) y peligro en la demora (daño diario). Agravios centrales:
@@ -544,7 +547,7 @@ incompetencia/indebida fundamentación y vicios del procedimiento de la visita. 
   discrecional = margen razonable (no arbitrariedad).
 - **P:** ¿Concesión? · **R:** Acto que transfiere al particular la explotación de un bien del dominio
   público o un servicio público.
-- **P:** ¿Requisitos de la expropiación (art. 27 ⚠️)? · **R:** Utilidad pública + indemnización.
+- **P:** ¿Requisitos de la expropiación (art. 27 ⚠️ ⟳)? · **R:** Utilidad pública + indemnización.
 - **P:** ¿Vía contenciosa administrativa? · **R:** Recurso (optativo) → juicio de nulidad (TFJA) →
   amparo.
 
@@ -620,7 +623,7 @@ instrumento típico es el **acto administrativo**, válido si reúne sus **eleme
 motivo, fin, forma —fundado y motivado—) y nulo si tiene **vicios** (incompetencia, falta de motivación,
 vicios de procedimiento, desvío de poder). Sus grandes instrumentos son reglamentos/NOM (limitados por la
 **reserva de ley**), permisos, **concesiones**, sanciones (con principios cuasi-penales) y la
-**expropiación** (art. 27 ⚠️). La **regulación económica** opera por medio de órganos reguladores cuya
+**expropiación** (art. 27 ⚠️ ⟳). La **regulación económica** opera por medio de órganos reguladores cuya
 **autonomía** está en disputa tras la reforma de 2024 (que creó la **CNA** en lugar de la COFECE/IFT). El
 particular se defiende con **recurso → juicio de nulidad (TFJA) → amparo**, y la **suspensión** es
 decisiva por la ejecutoriedad del acto. Para el corporativo, es la fuente del **riesgo regulatorio** que

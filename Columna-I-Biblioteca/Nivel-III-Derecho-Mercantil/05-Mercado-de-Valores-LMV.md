@@ -1,5 +1,8 @@
 # [Nivel III · Libro 5] Mercado de Valores (LMV)
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Cuando una empresa necesita capital a una escala que ningún banco le presta, acude al **público
 > inversionista**: emite **valores** (acciones, deuda) que se negocian en la **bolsa**. El mercado
 > de valores es el sistema que canaliza el ahorro de millones hacia las empresas, bajo una premisa:
@@ -207,25 +210,25 @@ antesala directa del M&A del Nivel IV.
 
 ## 11. Definiciones legales (LMV — verificar versión vigente)
 
-- **Objeto de la LMV (art. 1):** regular la oferta pública de valores, su intermediación, las
+- **Objeto de la LMV (art. 1 ⟳):** regular la oferta pública de valores, su intermediación, las
   actividades de las personas y entidades del mercado, la organización de las bolsas y del depósito
   (Indeval), y la protección del público inversionista y la transparencia del mercado.
-- **Valor (art. 2):** las acciones, obligaciones, bonos, certificados, **certificados bursátiles** y
+- **Valor (art. 2 ⟳):** las acciones, obligaciones, bonos, certificados, **certificados bursátiles** y
   demás títulos y documentos que se emitan **en serie o en masa** y sean objeto de oferta pública o
   intermediación.
-- **Oferta pública (art. 2):** el ofrecimiento, con o sí intermediación, que se haga **al público en
+- **Oferta pública (art. 2 ⟳):** el ofrecimiento, con o sí intermediación, que se haga **al público en
   general** o a ciertas clases de inversionistas, a través de medios masivos, para suscribir,
   enajenar o adquirir valores.
 - **Emisora / S.A.B.:** sociedad anónima **bursátil**, cuyas acciones (o valores) están inscritas en
   el **Registro Nacional de Valores (RNV)** y cotizan; sujeta a gobierno corporativo reforzado (arts.
-  22 y ss.: consejo, comités, deberes de los consejeros y del director general).
+  22 ⟳ y ss.: consejo, comités, deberes de los consejeros y del director general).
 - **S.A.P.I. y S.A.P.I.B.:** etapas previas/de transición hacia la S.A.B. (Libro 2 Nivel III).
 - **Intermediarios (casas de bolsa) y bolsas:** régimen de las casas de bolsa, de las bolsas (BMV,
   BIVA) y del **Indeval** (depósito, administración y liquidación de valores).
-- **Información privilegiada y manipulación (arts. 362 y ss., y delitos arts. 376 y ss.):** prohibición
+- **Información privilegiada y manipulación (arts. 362 ⟳ y ss., y delitos arts. 376 ⟳ y ss.):** prohibición
   del **uso de información privilegiada** (*insider trading*) y de la **manipulación del mercado**,
   con sanciones administrativas y **penales**.
-- **Oferta pública de adquisición (OPA) — arts. 92 y ss.:** régimen de las ofertas para adquirir el
+- **Oferta pública de adquisición (OPA) — arts. 92 ⟳ y ss.:** régimen de las ofertas para adquirir el
   control de emisoras y la protección de los accionistas minoritarios.
 
 ## 12. Definición sencilla
@@ -347,7 +350,7 @@ La **IPO** (salida a bolsa) es una de las operaciones más complejas del derecho
 
 ### 14.D · La S.A.B. y el gobierno corporativo reforzado
 
-Ser pública impone un **gobierno corporativo robusto** (LMV, arts. 22 y ss.), mucho más exigente que
+Ser pública impone un **gobierno corporativo robusto** (LMV, arts. 22 ⟳ y ss.), mucho más exigente que
 el de la S.A. privada (Libro 2 Nivel III):
 - **Consejo de administración** con un mínimo de **consejeros independientes** (al menos el 25%): la
   independencia busca proteger a los **minoritarios** y resolver el problema de agencia.
@@ -383,7 +386,7 @@ administrativo y penal— y el centro del **compliance** financiero.
 ### 14.F · El M&A público: la Oferta Pública de Adquisición (OPA)
 
 Cuando se quiere **adquirir el control** de una emisora (sociedad pública), no se negocia solo con un
-vendedor: hay que dirigirse a **todos los accionistas** mediante una **OPA** (arts. 92 y ss. LMV):
+vendedor: hay que dirigirse a **todos los accionistas** mediante una **OPA** (arts. 92 ⟳ y ss. LMV):
 - **OPA voluntaria:** quien quiere comprar lanza una oferta a los accionistas.
 - **OPA obligatoria (*forzosa*):** al pretender rebasar ciertos **umbrales de control** (típicamente
   el 30% o la toma de control), la ley **obliga** a lanzar una OPA por un porcentaje significativo (a
@@ -542,10 +545,10 @@ Todo este libro trata de cómo funciona esa "feria del dinero" y cómo el derech
 
 ## 23. Derecho mexicano
 
-- **LMV (2005, reformada):** objeto y valores (arts. 1-2); **S.A.P.I., S.A.P.I.B. y S.A.B.** (arts. 12
+- **LMV (2005, reformada):** objeto y valores (arts. 1-2 ⟳); **S.A.P.I., S.A.P.I.B. y S.A.B.** (arts. 12 ⟳
   y ss.); gobierno corporativo de la S.A.B. (consejo, independientes, comités de auditoría y prácticas
-  societarias, deberes de diligencia y lealtad, arts. 22-44); oferta pública e inscripción en el RNV;
-  **OPA** (arts. 92-109); información privilegiada y manipulación (arts. 362-380); régimen de
+  societarias, deberes de diligencia y lealtad, arts. 22-44 ⟳); oferta pública e inscripción en el RNV;
+  **OPA** (arts. 92-109 ⟳); información privilegiada y manipulación (arts. 362-380 ⟳); régimen de
   intermediarios, bolsas e Indeval; sanciones y delitos.
 - **CNBV:** Ley de la CNBV; facultades de autorización, supervisión y sanción.
 - **Ley Fintech (2018):** instituciones de financiamiento colectivo (*crowdfunding*) y de fondos de

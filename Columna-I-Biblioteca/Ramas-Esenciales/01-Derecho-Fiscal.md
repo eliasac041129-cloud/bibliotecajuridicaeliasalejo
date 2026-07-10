@@ -1,5 +1,8 @@
 # [Ramas Esenciales · Libro 1] Derecho Fiscal (Base)
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > El Estado necesita dinero para existir, y lo obtiene, sobre todo, de los particulares: eso es el
 > **derecho fiscal**. Para un abogado corporativo no es una materia más: es el **idioma en que se mide
 > el éxito de una operación**. Un *deal* brillante en lo jurídico puede ser un desastre si nadie pensó
@@ -30,34 +33,34 @@ medios de defensa. Después, salta a IV-09.*
 > y **LISR** (TEXTO VIGENTE, última reforma **DOF 01-04-2024**).
 >
 > **Verificado ✅ verbatim contra el CFF (texto vigente):**
-> - **Art. 1º** — obligación de las personas físicas y morales de contribuir al gasto público. ✅
-> - **Art. 2º** — clasificación de contribuciones: impuestos, aportaciones de seguridad social, contribuciones de mejoras y derechos. ✅
-> - **Art. 4º** — concepto de **crédito fiscal**. ✅
-> - **Art. 5º-A** — **razón de negocios** (norma general antiabuso). ✅
-> - **Art. 6º** — **causación**: las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho. ✅
-> - **Art. 17-A** — **actualización** por transcurso del tiempo y cambios de precios (INPC). ✅
-> - **Art. 21** — **recargos** y actualización por pago extemporáneo. ✅
-> - **Art. 26** — **responsables solidarios**. ✅
-> - **Art. 42** — **facultades de comprobación**. ✅
-> - **Art. 67** — **caducidad** de las facultades: plazo de **cinco años**. ✅
-> - **Art. 69-B** — **EFOS** (comprobantes de operaciones inexistentes). ✅
-> - **Art. 146** — **prescripción** del crédito fiscal: **cinco años**. ✅
+> - **Art. 1º ⟳** — obligación de las personas físicas y morales de contribuir al gasto público. ✅
+> - **Art. 2º ⟳** — clasificación de contribuciones: impuestos, aportaciones de seguridad social, contribuciones de mejoras y derechos. ✅
+> - **Art. 4º ⟳** — concepto de **crédito fiscal**. ✅
+> - **Art. 5º-A ⟳** — **razón de negocios** (norma general antiabuso). ✅
+> - **Art. 6º ⟳** — **causación**: las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho. ✅
+> - **Art. 17-A ⟳** — **actualización** por transcurso del tiempo y cambios de precios (INPC). ✅
+> - **Art. 21 ⟳** — **recargos** y actualización por pago extemporáneo. ✅
+> - **Art. 26 ⟳** — **responsables solidarios**. ✅
+> - **Art. 42 ⟳** — **facultades de comprobación**. ✅
+> - **Art. 67 ⟳** — **caducidad** de las facultades: plazo de **cinco años**. ✅
+> - **Art. 69-B ⟳** — **EFOS** (comprobantes de operaciones inexistentes). ✅
+> - **Art. 146 ⟳** — **prescripción** del crédito fiscal: **cinco años**. ✅
 >
 > **Verificado ✅ verbatim contra la LISR (texto vigente):**
-> - **Art. 9** — personas morales: ISR = **tasa del 30%** sobre el resultado fiscal. ✅
-> - **Art. 27** — **requisitos de las deducciones** autorizadas. ✅
-> - **Art. 28** — conceptos **no deducibles**. ✅
-> - **Art. 57** — **pérdida fiscal**: se disminuye de la utilidad de los **diez ejercicios siguientes**. ✅
-> - **Art. 152** — **tarifa del ISR de personas físicas** (cálculo del impuesto del ejercicio). ✅
+> - **Art. 9 ⟳** — personas morales: ISR = **tasa del 30%** sobre el resultado fiscal. ✅
+> - **Art. 27 ⟳** — **requisitos de las deducciones** autorizadas. ✅
+> - **Art. 28 ⟳** — conceptos **no deducibles**. ✅
+> - **Art. 57 ⟳** — **pérdida fiscal**: se disminuye de la utilidad de los **diez ejercicios siguientes**. ✅
+> - **Art. 152 ⟳** — **tarifa del ISR de personas físicas** (cálculo del impuesto del ejercicio). ✅
 >
-> **Verificado ✅ contra fuentes SAT (pasada anterior):** ISR PM 30%; IVA 16% / 0% (art. 1 y 2-A LIVA); dividendos factor **1.4286** × 30%.
+> **Verificado ✅ contra fuentes SAT (pasada anterior):** ISR PM 30%; IVA 16% / 0% (art. 1 y 2-A LIVA ⟳); dividendos factor **1.4286** × 30%.
 >
 > **Permanece ⚠️ por confirmar contra su fuente propia** (no están en el CFF ni en la LISR subidos):
-> **art. 31-IV CPEUM** (verificar en la Constitución), artículos del **IVA** (contra la LIVA), la **tasa marginal
+> **art. 31-IV CPEUM ⟳** (verificar en la Constitución), artículos del **IVA** (contra la LIVA), la **tasa marginal
 > máxima de PF (~35%)** y demás **montos/UMA/tarifas anuales** (cambian cada ejercicio con la Miscelánea y la Ley de Ingresos).
 
 > **Aviso de método.** Tratado, no repaso. Vas a entender el impuesto desde su **raíz constitucional**
-> (art. 31, fr. IV ⚠️) hasta el **litigio fiscal**, con la mirada puesta siempre en lo que le importa
+> (art. 31, fr.  ⟳IV ⚠️) hasta el **litigio fiscal**, con la mirada puesta siempre en lo que le importa
 > a un abogado de M&A: **el costo fiscal decide estructuras, precios y hasta si un deal se hace**.
 
 ---
@@ -99,17 +102,17 @@ coactivo) y los **medios de defensa** del particular (recurso, juicio, amparo).
 Para el abogado corporativo, este libro es **doblemente** vital. Primero, porque **estructurar una
 empresa o una operación es, en gran medida, optimizar su carga fiscal dentro de la ley** (planeación
 fiscal, no evasión). Segundo, porque el **riesgo fiscal** es uno de los que más *deals* mata: pasivos
-fiscales ocultos, operaciones simuladas (art. 69-B CFF ✅), contingencias por reestructuras mal
+fiscales ocultos, operaciones simuladas (art. 69-B CFF ✅ ⟳), contingencias por reestructuras mal
 hechas. Quien no entiende el impuesto, no entiende el verdadero costo de nada.
 
 ## 2. Objetivos del libro
 
 Al terminar, el lector será capaz de:
 
-- **Ubicar el fundamento constitucional** de la obligación de contribuir (art. 31, fr. IV ⚠️) y los
+- **Ubicar el fundamento constitucional** de la obligación de contribuir (art. 31, fr.  ⟳IV ⚠️) y los
   **cuatro principios** que la limitan: legalidad, proporcionalidad, equidad y destino al gasto público.
 - **Clasificar las contribuciones** conforme al Código Fiscal de la Federación (impuestos, aportaciones
-  de seguridad social, contribuciones de mejoras y derechos — art. 2 CFF ✅).
+  de seguridad social, contribuciones de mejoras y derechos — art. 2 CFF ✅ ⟳).
 - **Descomponer la relación jurídico-tributaria**: hecho imponible, sujetos, base, tasa/tarifa, época
   de pago, y el nacimiento y la extinción de la obligación fiscal.
 - **Comprender los grandes impuestos federales**: **ISR** (renta), **IVA** (consumo) e **IEPS**
@@ -152,7 +155,7 @@ representación** —*no taxation without representation*—, grito de la indepe
 raíz del **principio de legalidad tributaria**. El impuesto dejó de ser voluntad del soberano para
 volverse **ley aprobada por el pueblo a través de sus representantes**.
 
-En **México**, el fundamento moderno está en la **Constitución de 1917**, cuyo artículo 31, fracción
+En **México**, el fundamento moderno está en la **Constitución de 1917**, cuyo artículo 31, fracc ⟳ión
 IV ⚠️, consagra el deber de contribuir "de manera proporcional y equitativa". A lo largo del siglo XX
 el sistema pasó de impuestos dispersos y cedulares a un sistema **global** de renta y a un impuesto
 general al **consumo** (el IVA, que sustituyó al viejo impuesto sobre ingresos mercantiles). ⚠️
@@ -171,8 +174,8 @@ Las tendencias de las últimas décadas, que debes tener presentes:
 
 1. **Digitalización total.** Factura electrónica (**CFDI**), contabilidad electrónica, **buzón
    tributario**, declaraciones prellenadas. El fisco hoy **ve casi todo** en tiempo casi real.
-2. **Combate a la simulación.** El **art. 69-B del CFF ✅** (empresas que facturan operaciones
-   inexistentes: **EFOS/EDOS**) y la **cláusula anti-abuso** (art. 5-A CFF ✅: la autoridad puede
+2. **Combate a la simulación.** El **art. 69-B del CFF ✅ ⟳** (empresas que facturan operaciones
+   inexistentes: **EFOS/EDOS**) y la **cláusula anti-abuso** (art. 5-A CFF ✅ ⟳: la autoridad puede
    recaracterizar actos sin *razón de negocios*) marcaron un antes y un después en la planeación.
 3. **Estándares internacionales.** México adoptó el proyecto **BEPS** de la OCDE (contra la erosión de
    la base y el traslado de utilidades), precios de transferencia y reglas de intercambio de información.
@@ -237,17 +240,17 @@ entiende de impuestos vale el doble.
 
 ## 11. Definiciones legales
 
-- **Contribuciones (art. 2 CFF ✅):** el CFF las clasifica en **impuestos, aportaciones de seguridad
+- **Contribuciones (art. 2 CFF ✅ ⟳):** el CFF las clasifica en **impuestos, aportaciones de seguridad
   social, contribuciones de mejoras y derechos**, y define cada una. Los **impuestos** son las
   contribuciones a cargo de quienes realizan la situación jurídica o de hecho prevista por la ley,
   distintas de las otras tres categorías.
-- **Crédito fiscal (art. 4 CFF ✅):** lo que el Estado tiene derecho a percibir por contribuciones, sus
+- **Crédito fiscal (art. 4 CFF ✅ ⟳):** lo que el Estado tiene derecho a percibir por contribuciones, sus
   accesorios (recargos, multas, gastos de ejecución) o aprovechamientos.
-- **Obligación de contribuir (art. 31, fr. IV, CPEUM ⚠️):** el deber de los mexicanos de contribuir al
+- **Obligación de contribuir (art. 31, fr.  ⟳IV, CPEUM ⚠️):** el deber de los mexicanos de contribuir al
   gasto público de la Federación, estados y municipios, de manera **proporcional y equitativa** que
   dispongan las **leyes**.
 - **Época de pago, actualización y recargos:** el CFF define cómo y cuándo se paga, cómo se actualiza el
-  crédito por inflación (art. 17-A ✅) y cómo se calculan los recargos por mora (art. 21 ✅).
+  crédito por inflación (art. 17-A ✅ ⟳) y cómo se calculan los recargos por mora (art. 21 ✅ ⟳).
 
 > ⚠️ **Recordatorio:** todos los números de artículo de esta sección son de alto riesgo. Confírmalos
 > contra el CFF vigente antes de usarlos.
@@ -271,7 +274,7 @@ fiscal: **una cuota obligatoria, con reglas claras y con defensa para el que pag
   **hace nacer** la obligación (obtener ingresos → ISR; enajenar o prestar servicios → IVA).
 - **Sujeto activo:** el Estado (Federación, entidades, municipios) que tiene derecho a cobrar.
 - **Sujeto pasivo:** el **contribuyente** (obligado directo) y, en su caso, el **responsable solidario**
-  (p. ej. el liquidador, el socio en ciertos casos, el retenedor — art. 26 CFF ✅).
+  (p. ej. el liquidador, el socio en ciertos casos, el retenedor — art. 26 CFF ✅ ⟳).
 - **Base gravable:** la magnitud sobre la que se calcula el impuesto (la utilidad, el valor del acto).
 - **Tasa o tarifa:** el porcentaje (tasa, p. ej. IVA 16% ✅) o la escala progresiva (tarifa, p. ej.
   ISR de personas físicas ⚠️) que se aplica a la base.
@@ -283,15 +286,15 @@ fiscal: **una cuota obligatoria, con reglas claras y con defensa para el que pag
 - **CFDI:** Comprobante Fiscal Digital por Internet (la factura electrónica) — la columna vertebral del
   control fiscal moderno.
 - **Caducidad:** extinción de las **facultades del fisco** para determinar créditos por el transcurso
-  del tiempo (regla general 5 años — art. 67 CFF ✅).
+  del tiempo (regla general 5 años — art. 67 CFF ✅ ⟳).
 - **Prescripción:** extinción del **crédito fiscal ya determinado** por el transcurso del tiempo (5 años
-  — art. 146 CFF ✅). *No confundir con caducidad.*
+  — art. 146 CFF ✅ ⟳). *No confundir con caducidad.*
 
 ## 14. Desarrollo absoluto (núcleo doctrinal)
 
 ### 14.1 El fundamento constitucional y los cuatro principios
 
-Toda la materia cuelga del **art. 31, fr. IV de la Constitución ⚠️**: obligación de contribuir al gasto
+Toda la materia cuelga del **art. 31, fr.  ⟳IV de la Constitución ⚠️**: obligación de contribuir al gasto
 público de forma **proporcional y equitativa** y **conforme a las leyes**. De ahí la doctrina y la SCJN
 derivan **cuatro principios** que son, a la vez, **garantías del contribuyente** y **causas de
 inconstitucionalidad** de un impuesto:
@@ -316,14 +319,14 @@ inconstitucionalidad** de un impuesto:
 ### 14.2 La relación jurídico-tributaria y el nacimiento de la obligación
 
 La obligación fiscal **nace** cuando se realiza el **hecho imponible** previsto en la ley (art. 6 CFF
-⚠️: las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho previstas).
+⚠️ ⟳: las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho previstas).
 No nace del acto de la autoridad: nace **de la ley + el hecho**. La autoridad, cuando "determina" un
 crédito, solo **reconoce y cuantifica** una obligación que ya existía. Esto tiene consecuencias
 prácticas enormes: por eso importan la **fecha de causación** (qué ley estaba vigente) y la distinción
 entre **autodeterminación** (regla general en México: el propio contribuyente calcula y declara) y
 **determinación por la autoridad** (excepción, tras una auditoría).
 
-### 14.3 Las cuatro clases de contribuciones (art. 2 CFF ✅)
+### 14.3 Las cuatro clases de contribuciones (art. 2 CFF ✅ ⟳)
 
 - **Impuestos:** sin contraprestación directa (pagas ISR y no recibes "algo" a cambio identificable).
 - **Aportaciones de seguridad social:** a cargo de quienes se benefician de servicios de seguridad
@@ -339,7 +342,7 @@ planeación corporativa.
 - **Personas morales:** tasa **30% ✅** (verificada, SAT 2026-07) sobre el **resultado fiscal** (ingresos acumulables − deducciones
   autorizadas − PTU pagada − pérdidas fiscales de ejercicios anteriores). Concepto clave: solo se
   deduce lo que cumple **requisitos** (estrictamente indispensable, con CFDI, pagado en ciertas formas)
-  — art. 27 y 28 LISR ✅ (deducciones y no deducibles).
+  — art. 27 y 28 LISR ✅ ⟳ (deducciones y no deducibles).
 - **Personas físicas:** **tarifa progresiva** por cédulas de ingreso (salarios, honorarios, arrendamiento,
   actividad empresarial, enajenación, dividendos, intereses), con tasa marginal máxima en torno al
   **35% ⚠️**.
@@ -348,7 +351,7 @@ planeación corporativa.
   una **retención adicional** sobre dividendos a personas físicas y residentes en el extranjero ⚠️).
   *Esto es central en M&A y en la salida de inversionistas.*
 - **Pérdidas fiscales:** se pueden **amortizar** contra la utilidad fiscal de los **diez ejercicios
-  siguientes** (art. 57 LISR ✅, verificado verbatim) — un **activo fiscal** que se valora en toda adquisición de acciones.
+  siguientes** (art. 57 LISR ✅ ⟳, verificado verbatim) — un **activo fiscal** que se valora en toda adquisición de acciones.
 
 **B) IVA — Impuesto al Valor Agregado.** Grava el **consumo**. Tasa general **16% ✅** (verificada, SAT 2026-07) (con tasa **0%**
 para ciertos actos —exportación, alimentos y medicinas básicos— y actos **exentos**). Su lógica es de
@@ -378,15 +381,15 @@ CSD (por irregularidades), la empresa **no puede facturar** — una sanción dev
 
 ### 14.6 Facultades del fisco y sus límites
 
-El fisco tiene **facultades de comprobación** (art. 42 CFF ✅): **visita domiciliaria**, **revisión de
+El fisco tiene **facultades de comprobación** (art. 42 CFF ✅ ⟳): **visita domiciliaria**, **revisión de
 gabinete/escritorio**, **revisiones electrónicas**, compulsas. Terminada la revisión, si detecta
 omisiones, **determina un crédito fiscal** (impuesto omitido + actualización + recargos + multas). Si
 el crédito no se paga ni se garantiza ni se impugna, la autoridad ejerce el **Procedimiento
 Administrativo de Ejecución (PAE)**: requerimiento, **embargo**, remate. Frente a este poder, el
 contribuyente tiene dos grandes escudos temporales:
-- **Caducidad (art. 67 CFF ✅):** el fisco pierde la facultad de determinar tras **5 años** (plazo que
+- **Caducidad (art. 67 CFF ✅ ⟳):** el fisco pierde la facultad de determinar tras **5 años** (plazo que
   puede ampliarse a 10 en ciertos supuestos, p. ej. no inscrito o no lleva contabilidad).
-- **Prescripción (art. 146 CFF ✅):** el crédito ya determinado se extingue si no se cobra en **5 años**
+- **Prescripción (art. 146 CFF ✅ ⟳):** el crédito ya determinado se extingue si no se cobra en **5 años**
   (plazo que se interrumpe con gestiones de cobro).
 
 
@@ -417,12 +420,12 @@ negativa de devolución), hay una **escalera de defensa**:
   de **menor carga fiscal**, con **razón de negocios** real. Es legítimo y es el corazón del trabajo del
   fiscalista-corporativo.
 - **Elusión (ZONA GRIS):** aprovechar **lagunas o formas artificiosas** para reducir el impuesto sin
-  sustancia económica. Es el terreno donde muerde la **cláusula anti-abuso (art. 5-A CFF ✅)**: si un
+  sustancia económica. Es el terreno donde muerde la **cláusula anti-abuso (art. 5-A CFF ✅ ⟳)**: si un
   acto **carece de razón de negocios** y su único fin es el beneficio fiscal, la autoridad puede
   **recaracterizarlo** conforme a su efecto económico real.
 - **Evasión / defraudación fiscal (DELITO):** ocultar, simular, usar comprobantes falsos para no pagar.
   Es delito (CFF ⚠️), y en ciertos montos y supuestos se equipara a **delincuencia organizada** y detona
-  **lavado de dinero**. El emblema es el **art. 69-B CFF (EFOS/EDOS)**: quien emite facturas de
+  **lavado de dinero**. El emblema es el **art. 69-B CFF ⟳ (EFOS/EDOS)**: quien emite facturas de
   operaciones inexistentes (EFOS) y quien las deduce (EDOS) enfrentan consecuencias graves.
 
 > **Ética del Principio 2 hecha norma:** el abogado corporativo **planea**, no **defrauda**. La
@@ -467,7 +470,7 @@ ISR por **ganancia de capital** para las personas físicas (con reglas de costo 
 adquisición y, a veces, dictamen ⚠️); vender **activos** genera ISR e **IVA** a nivel de la sociedad y
 luego el problema de **sacar** el dinero a los socios (otra vez dividendo). Una reestructura **con razón
 de negocios** puede optimizar; una **sin sustancia**, hecha semanas antes de la venta solo para bajar
-el impuesto, es el escenario perfecto para que la autoridad aplique el **art. 5-A ✅**.
+el impuesto, es el escenario perfecto para que la autoridad aplique el **art. 5-A ✅ ⟳**.
 
 ## 18. Casos reales (estilizados y jurisprudenciales)
 
@@ -519,7 +522,7 @@ caso por caso.*
 - **España:** sistema maduro con **Ley General Tributaria** (equivalente funcional al CFF), IRPF, IS
   (sociedades) e IVA armonizado con la **UE**. Fuerte doctrina sobre el **conflicto en la aplicación de
   la norma** (su cláusula anti-abuso) y el **fraude de ley** tributario — antecedente conceptual del
-  art. 5-A mexicano.
+  art. 5-A ⟳ mexicano.
 - **Estados Unidos:** el **Internal Revenue Code (IRC)** administrado por el **IRS**; distinción
   célebre entre *tax avoidance* (lícito) y *tax evasion* (delito), y doctrinas jurisprudenciales de
   **sustancia sobre forma**, *business purpose* y *step transaction* — que México ha ido incorporando.
@@ -529,8 +532,8 @@ caso por caso.*
 
 ## 23. Derecho mexicano (régimen positivo)
 
-- **Constitucional:** art. 31, fr. IV (obligación de contribuir) y el reparto de potestades entre
-  Federación, entidades y municipios (arts. 73, 117, 118, 124, 131 ⚠️).
+- **Constitucional:** art. 31, fr.  ⟳IV (obligación de contribuir) y el reparto de potestades entre
+  Federación, entidades y municipios (arts. 73, 117, 118, 124, 131 ⚠️ ⟳).
 - **Código adjetivo:** **Código Fiscal de la Federación (CFF)** — definiciones, causación,
   procedimiento, facultades, infracciones, delitos y recurso de revocación.
 - **Leyes sustantivas:** **LISR, LIVA, LIEPS**, Ley Federal de Derechos, entre otras; **Ley de Ingresos**
@@ -559,7 +562,7 @@ sobre qué viola **proporcionalidad**, **equidad** y **legalidad**. Ejemplos de 
 
 ## 25. Criterios de la Suprema Corte
 
-La **SCJN** es la intérprete final de los principios del art. 31, fr. IV. Su **Primera** y **Segunda
+La **SCJN** es la intérprete final de los principios del art. 31, fr.  ⟳IV. Su **Primera** y **Segunda
 Salas** y el **Pleno** han construido, a lo largo de décadas, la **doctrina de la capacidad
 contributiva**, los límites de la **facultad reglamentaria** en materia fiscal, la **irretroactividad**
 tributaria y la **proporcionalidad** de multas. Para el litigante, conocer la **postura vigente de la
@@ -611,9 +614,9 @@ El equilibrio —**planear con sustancia, defender con la Constitución**— es 
 ## 30. Errores comunes (del estudiante y del practicante)
 
 1. **Confundir caducidad y prescripción.** Caducidad = mueren las **facultades** del fisco para
-   determinar (art. 67 ✅). Prescripción = muere el **crédito ya determinado** (art. 146 ✅).
+   determinar (art. 67 ✅ ⟳). Prescripción = muere el **crédito ya determinado** (art. 146 ✅ ⟳).
 2. **Creer que la obligación nace con la determinación de la autoridad.** Nace con el **hecho
-   imponible** y la ley (art. 6 CFF ✅); la autoridad solo la cuantifica.
+   imponible** y la ley (art. 6 CFF ✅ ⟳); la autoridad solo la cuantifica.
 3. **Confundir tasa 0% con exento.** **0%** permite acreditar el IVA de insumos; **exento** no (se
    vuelve costo). Error caro en IVA.
 4. **Deducir sin requisitos.** Un gasto real pero sin CFDI, no "estrictamente indispensable" o pagado en
@@ -625,7 +628,7 @@ El equilibrio —**planear con sustancia, defender con la Constitución**— es 
 
 ## 31. Mitos frecuentes
 
-- *"Si es legal en el papel, no importa la sustancia."* **Falso:** el art. 5-A y la doctrina de
+- *"Si es legal en el papel, no importa la sustancia."* **Falso:** el art. 5-A ⟳ y la doctrina de
   sustancia sobre forma permiten recaracterizar actos sin razón de negocios.
 - *"El SAT no puede tocarme si tengo mis facturas."* **Falso:** si el proveedor es EFOS (69-B) o la
   operación no tiene **materialidad**, la factura no te salva.
@@ -641,7 +644,7 @@ El equilibrio —**planear con sustancia, defender con la Constitución**— es 
 1. ¿Puede un impuesto ser **legal** (aprobado por ley) y a la vez **inconstitucional**? ¿Por qué?
 2. Si la obligación nace con el hecho imponible, ¿qué ley aplica a una operación iniciada bajo una ley y
    consumada bajo otra reformada? (irretroactividad).
-3. ¿Dónde termina la **economía de opción** y empieza el **abuso** del art. 5-A? Da un criterio operativo.
+3. ¿Dónde termina la **economía de opción** y empieza el **abuso** del art. 5-A ⟳? Da un criterio operativo.
 4. En una adquisición, ¿por qué el comprador **valora** las pérdidas fiscales de la objetivo, y qué
    riesgo tiene "comprarlas"?
 5. ¿Es proporcional una **multa** fija que no atiende a la capacidad económica del infractor?
@@ -674,12 +677,12 @@ posterior. (5) Reunir la **prueba de materialidad** de las deducciones. Conclusi
 
 ## 35. Flashcards (recuperación activa)
 
-- **P:** ¿Fundamento constitucional de la obligación de contribuir? · **R:** Art. 31, fr. IV CPEUM ⚠️
+- **P:** ¿Fundamento constitucional de la obligación de contribuir? · **R:** Art. 31, fr.  ⟳IV CPEUM ⚠️
   (proporcional, equitativa y conforme a las leyes).
-- **P:** ¿Cuatro clases de contribuciones (art. 2 CFF ✅)? · **R:** Impuestos, aportaciones de seguridad
+- **P:** ¿Cuatro clases de contribuciones (art. 2 CFF ✅ ⟳)? · **R:** Impuestos, aportaciones de seguridad
   social, contribuciones de mejoras y derechos.
 - **P:** ¿Caducidad vs. prescripción? · **R:** Caducidad = mueren facultades del fisco (5 años, art. 67
-  ⚠️); prescripción = muere el crédito determinado (5 años, art. 146 ✅).
+  ⚠️ ⟳); prescripción = muere el crédito determinado (5 años, art. 146 ✅ ⟳).
 - **P:** ¿Tasa general de ISR personas morales? · **R:** 30% ✅ sobre resultado fiscal.
 - **P:** ¿Tasa general de IVA y su mecánica? · **R:** 16% ✅; traslado y acreditamiento (lo soporta el
   consumidor final).
@@ -717,7 +720,7 @@ DERECHO FISCAL
 |----------|----------------|-------------|-------------|
 | Legalidad | Legal | Zona gris | Ilegal (delito) |
 | Sustancia/razón de negocios | Sí | Débil/artificiosa | Simulada/inexistente |
-| Herramienta del fisco | — | Art. 5-A (recaracterizar) ⚠️ | 69-B, delito, lavado ⚠️ |
+| Herramienta del fisco | — | Art. 5-A ⟳ (recaracterizar) ⚠️ | 69-B, delito, lavado ⚠️ |
 
 | Criterio | **Caducidad** | **Prescripción** |
 |----------|---------------|------------------|
@@ -762,9 +765,9 @@ NOTIFICACIÓN DE CRÉDITO FISCAL
 ## 40. Resumen ejecutivo
 
 El derecho fiscal regula cómo el Estado obtiene recursos de los particulares, con **límites
-constitucionales** (legalidad, proporcionalidad, equidad, destino al gasto — art. 31-IV ⚠️). La
+constitucionales** (legalidad, proporcionalidad, equidad, destino al gasto — art. 31-IV ⚠️ ⟳). La
 obligación **nace con el hecho imponible y la ley**, no con el acto de autoridad. Las contribuciones se
-clasifican en impuestos, aportaciones de seguridad social, mejoras y derechos (art. 2 CFF ✅). Los tres
+clasifican en impuestos, aportaciones de seguridad social, mejoras y derechos (art. 2 CFF ✅ ⟳). Los tres
 grandes impuestos federales son **ISR** (renta, PM al 30% ✅), **IVA** (consumo, 16% con traslado y
 acreditamiento ⚠️) e **IEPS**. El contribuyente tiene **obligaciones formales** (RFC, CFDI,
 declaraciones, buzón, CSD) y el fisco, **facultades de comprobación y cobro (PAE)** limitadas por
@@ -830,7 +833,7 @@ Un socio de **Chevez, Ruiz, Zamarripa** (el referente fiscal mexicano), de **Cre
 **Galicia** no ve el impuesto como un trámite posterior: lo integra **desde el *term sheet***. Piensa en
 **capas**: (1) *¿cuál es el costo fiscal de la operación tal como está planteada?*; (2) *¿qué estructura
 alternativa, con razón de negocios real, lo reduce legalmente?*; (3) *¿qué contingencias fiscales tiene la
-objetivo y cómo las cubro en el contrato?*; y (4) *¿resiste esto una auditoría y el art. 5-A?*. Nunca
+objetivo y cómo las cubro en el contrato?*; y (4) *¿resiste esto una auditoría y el art. 5-A ⟳?*. Nunca
 propone una estructura que no pueda **defender ante el SAT con la cara en alto**. Su valor no está en
 "pagar menos" a cualquier costo, sino en **maximizar el valor después de impuestos sin crear riesgo
 penal ni reputacional**. Y sabe que un *opinion* fiscal mal fundado puede costarle al despacho su

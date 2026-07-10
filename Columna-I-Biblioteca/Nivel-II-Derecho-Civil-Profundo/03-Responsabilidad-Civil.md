@@ -1,5 +1,8 @@
 # [Nivel II · Libro 3] Responsabilidad Civil
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Todo contrato puede romperse y todo acto puede dañar. La responsabilidad civil es la materia
 > que responde **qué pasa cuando algo sale mal**: quién responde, por qué, hasta dónde y cuánto.
 > Es la base de **toda indemnización**, de las cláusulas de *liability* y *cap* de un SPA, de la
@@ -93,12 +96,12 @@ origen remoto de la responsabilidad **extracontractual** (de ahí "responsabilid
 Roma trató los daños de forma **casuística**; la idea de un **principio general** de reparación
 ("todo el que causa un daño a otro debe repararlo") es obra de la modernidad.
 
-El **Code Napoléon** (1804) consagró el principio general en su célebre art. 1382 (hoy 1240):
+El **Code Napoléon** (1804) consagró el principio general en su célebre art. 1382 ⟳ (hoy 1240):
 *"Tout fait quelconque de l'homme qui cause à autrui un dommage oblige celui par la faute duquel
 il est arrivé à le réparer"* — todo hecho del hombre que causa daño a otro obliga a repararlo a
 aquel por cuya culpa sucedió. El **Código Civil mexicano de 1928** recogió este principio (art.
-1910) y, de forma pionera, incorporó la **responsabilidad objetiva** por uso de cosas peligrosas
-(art. 1913).
+1910 ⟳) y, de forma pionera, incorporó la **responsabilidad objetiva** por uso de cosas peligrosas
+(art. 1913 ⟳).
 
 ## 5. Evolución histórica
 
@@ -108,7 +111,7 @@ aquel por cuya culpa sucedió. El **Código Civil mexicano de 1928** recogió es
 - **Revolución industrial (s. XIX-XX):** las máquinas, los ferrocarriles y las fábricas causan
   daños **masivos** sin culpa fácilmente atribuible. Surge la **responsabilidad objetiva** (por
   **riesgo creado**): quien crea un riesgo y se beneficia de él responde del daño aunque no haya
-  culpa. México la adopta tempranamente (art. 1913, 1928).
+  culpa. México la adopta tempranamente (art. 1913, 1928 ⟳).
 - **Siglo XX-XXI:** expansión del **daño moral** y de los daños extrapatrimoniales; responsabilidad
   de **producto**, **ambiental**, del **Estado**; auge del **seguro** como mecanismo de
   distribución del riesgo; y los **daños punitivos** (de origen anglosajón), debatidos e
@@ -140,7 +143,7 @@ objetiva (proteger a víctimas de actividades peligrosas, daño ambiental, produ
 **seguros obligatorios**, y fija (o no) límites a las indemnizaciones. Es una decisión política de
 equilibrio entre **proteger a las víctimas** (reparación amplia) y **no asfixiar la actividad
 económica** (responsabilidad previsible y asegurable). La constitucionalización (derecho a la
-**reparación integral** del daño, art. 1º y criterios de la SCJN/Corte IDH) ha **expandido** la
+**reparación integral** del daño, art. 1º ⟳ y criterios de la SCJN/Corte IDH) ha **expandido** la
 reparación, especialmente del daño moral y del proyecto de vida.
 
 ## 8. Contexto social
@@ -191,25 +194,25 @@ corporativo diseña ese triángulo.
 
 ## 11. Definiciones legales (CCF — verificar versión vigente y código local)
 
-- **Principio general (hecho ilícito) — art. 1910:** "El que obrando ilícitamente o contra las
+- **Principio general (hecho ilícito) — art. 1910 ⟳:** "El que obrando ilícitamente o contra las
   buenas costumbres cause daño a otro, está obligado a repararlo, a menos que demuestre que el
   daño se produjo como consecuencia de culpa o negligencia inexcusable de la víctima."
-- **Responsabilidad objetiva (riesgo creado) — art. 1913:** quien usa **mecanismos, instrumentos,
+- **Responsabilidad objetiva (riesgo creado) — art. 1913 ⟳:** quien usa **mecanismos, instrumentos,
   aparatos o sustancias peligrosas** por sí mismos, responde del daño que causen, **aunque no obre
   ilícitamente**, a no ser que demuestre que el daño se produjo por culpa o negligencia inexcusable
   de la víctima.
-- **Daño y perjuicio — arts. 2108-2109:** **daño** = pérdida o menoscabo en el patrimonio;
+- **Daño y perjuicio — arts. 2108-2109 ⟳:** **daño** = pérdida o menoscabo en el patrimonio;
   **perjuicio** = privación de cualquier ganancia lícita que debiera haberse obtenido.
-- **Reparación — art. 1915:** la reparación debe consistir, a elección del ofendido, en el
+- **Reparación — art. 1915 ⟳:** la reparación debe consistir, a elección del ofendido, en el
   **restablecimiento** de la situación anterior (cuando sea posible) o en el **pago de daños y
   perjuicios**.
-- **Daño moral — art. 1916:** afectación que una persona sufre en sus **sentimientos, afectos,
+- **Daño moral — art. 1916 ⟳:** afectación que una persona sufre en sus **sentimientos, afectos,
   creencias, decoro, honor, reputación, vida privada, aspecto físico, o en la consideración que de
   sí misma tienen los demás**; se repara con una **indemnización** en dinero, con independencia del
   daño material.
-- **Responsabilidad contractual — arts. 2104-2118:** daños y perjuicios por incumplimiento;
-  consecuencia **inmediata y directa** (art. 2110); responsabilidad por dolo y por culpa.
-- **Responsabilidad por hechos de terceros y de cosas — arts. 1919-1932:** de los padres, tutores,
+- **Responsabilidad contractual — arts. 2104-2118 ⟳:** daños y perjuicios por incumplimiento;
+  consecuencia **inmediata y directa** (art. 2110 ⟳); responsabilidad por dolo y por culpa.
+- **Responsabilidad por hechos de terceros y de cosas — arts. 1919-1932 ⟳:** de los padres, tutores,
   patrones (por sus dependientes), dueños de animales, propietarios de edificios, etc.
 
 ## 12. Definición sencilla
@@ -222,16 +225,16 @@ valga el daño (lo que perdió + lo que dejó de ganar + el sufrimiento, si apli
 ## 13. Conceptos fundamentales
 
 - **Responsabilidad contractual:** surge del **incumplimiento de un contrato** (una obligación
-  preexistente entre las partes). Régimen: arts. 2104 y ss.
+  preexistente entre las partes). Régimen: arts. 2104 ⟳ y ss.
 - **Responsabilidad extracontractual (aquiliana):** surge de un **hecho ilícito** sin contrato
-  previo (atropellar a un peatón, difamar). Régimen: arts. 1910 y ss.
+  previo (atropellar a un peatón, difamar). Régimen: arts. 1910 ⟳ y ss.
 - **Los tres pilares (+ uno):** **(1) hecho generador** (conducta antijurídica con culpa, o
   actividad riesgosa); **(2) daño**; **(3) nexo causal** entre ambos; **(+ en la contractual) un
   incumplimiento** de obligación previa.
 - **Culpa (responsabilidad subjetiva):** negligencia, imprudencia o impericia; se responde porque
   se obró mal (sin la diligencia debida). Incluye el **dolo** (intención de dañar).
 - **Riesgo creado (responsabilidad objetiva):** se responde **sin culpa**, por crear y
-  aprovecharse de una actividad o cosa peligrosa (art. 1913).
+  aprovecharse de una actividad o cosa peligrosa (art. 1913 ⟳).
 - **Antijuridicidad:** que la conducta sea contraria a derecho; se excluye por **causas de
   justificación** (legítima defensa, estado de necesidad, ejercicio de un derecho, consentimiento
   del ofendido).
@@ -239,9 +242,9 @@ valga el daño (lo que perdió + lo que dejó de ganar + el sufrimiento, si apli
   destruyó).
 - **Lucro cesante (perjuicio):** la **ganancia lícita** que se dejó de obtener.
 - **Daño moral:** afectación a bienes **extrapatrimoniales** (sentimientos, honor, dignidad,
-  proyecto de vida); art. 1916.
+  proyecto de vida); art. 1916 ⟳.
 - **Nexo causal:** relación de causa-efecto entre el hecho y el daño. Límite: **consecuencia
-  inmediata y directa** (art. 2110); teorías de la causalidad **adecuada** (solo se responde de las
+  inmediata y directa** (art. 2110 ⟳); teorías de la causalidad **adecuada** (solo se responde de las
   consecuencias normales/previsibles).
 - **Reparación integral (*restitutio in integrum*):** devolver a la víctima, en lo posible, al
   estado anterior al daño; principio reforzado por la jurisprudencia constitucional.
@@ -253,7 +256,7 @@ valga el daño (lo que perdió + lo que dejó de ganar + el sufrimiento, si apli
   en México no existen como tales, pero la SCJN ha admitido que la indemnización del daño moral
   puede tener una **función disuasiva** (caso *Mayan Palace*).
 - **Responsabilidad solidaria por daño:** si varios causan el daño, responden **solidariamente**
-  frente a la víctima (art. 1917).
+  frente a la víctima (art. 1917 ⟳).
 
 
 ## 14. Desarrollo absoluto
@@ -271,7 +274,7 @@ Toda reclamación se construye —y se desmonta— verificando estos elementos:
 2. **Daño:** debe ser **cierto** (real, no hipotético), **personal** (lo sufre quien reclama) y,
    por regla, **directo**. Puede ser patrimonial (daño emergente, lucro cesante) o moral.
 3. **Nexo causal:** que el daño sea **consecuencia** del hecho (causalidad **adecuada**;
-   consecuencia **inmediata y directa**, art. 2110).
+   consecuencia **inmediata y directa**, art. 2110 ⟳).
 4. **Antijuridicidad / ausencia de causa de justificación:** que no exista legítima defensa,
    estado de necesidad, ejercicio de un derecho o consentimiento que justifique el daño.
 
@@ -283,30 +286,30 @@ demandado ataca el eslabón más débil (casi siempre **causalidad** o **cuantí
 ### 14.B · Responsabilidad contractual
 
 Surge del **incumplimiento** de un contrato (obligación previa entre las partes). Régimen (arts.
-2104 y ss.):
+2104 ⟳ y ss.):
 - **Presupuesto:** existencia de obligación válida + incumplimiento (total, parcial, defectuoso o
   tardío) + **mora** (Libro 1) cuando se requiere.
 - **Graduación:** se responde por **dolo** (siempre, no se puede condonar anticipadamente) y por
   **culpa** (negligencia). El caso fortuito libera (salvo pacto, mora o culpa).
 - **Daños indemnizables:** daño emergente + lucro cesante, **consecuencia inmediata y directa**
-  (art. 2110). La doctrina (Pothier) y el common law (*Hadley v. Baxendale*) limitan, además, a lo
+  (art. 2110 ⟳). La doctrina (Pothier) y el common law (*Hadley v. Baxendale*) limitan, además, a lo
   **previsible** al contratar.
-- **Remedios (recuerda Libro 1):** cumplimiento forzoso, **resolución** (art. 1949) y/o **daños**;
+- **Remedios (recuerda Libro 1):** cumplimiento forzoso, **resolución** (art. 1949 ⟳) y/o **daños**;
   **cláusula penal** (1840) que fija o limita la indemnización.
 
 ### 14.C · Responsabilidad extracontractual y objetiva
 
-**Extracontractual subjetiva (por culpa, art. 1910):** el que obrando **ilícitamente** o contra
+**Extracontractual subjetiva (por culpa, art. 1910 ⟳):** el que obrando **ilícitamente** o contra
 las buenas costumbres causa un daño debe repararlo. Requiere **culpa o dolo** del agente. Ejemplo:
 un conductor distraído atropella a un peatón.
 
-**Objetiva (por riesgo creado, art. 1913):** quien usa cosas o realiza actividades **peligrosas
+**Objetiva (por riesgo creado, art. 1913 ⟳):** quien usa cosas o realiza actividades **peligrosas
 por su naturaleza** (vehículos, maquinaria, sustancias, energía) responde del daño **aunque no
 haya culpa**, salvo que pruebe **culpa o negligencia inexcusable de la víctima**. La razón: quien
 crea el riesgo y se beneficia de él debe soportar sus costos (internalización de la externalidad).
 Ejemplos modernos: responsabilidad de **producto**, **ambiental**, por actividades industriales.
 
-**Responsabilidad por hecho ajeno y por cosas (arts. 1919-1932):** los **patrones** responden de
+**Responsabilidad por hecho ajeno y por cosas (arts. 1919-1932 ⟳):** los **patrones** responden de
 los daños causados por sus **trabajadores** en el ejercicio de sus funciones (clave para la
 empresa); los padres por los hijos; los dueños de animales y edificios. Es responsabilidad
 **indirecta** o **refleja**.
@@ -325,8 +328,8 @@ Aquí se decide **cuánto** se paga. Categorías:
 - **Daño emergente:** la pérdida concreta (reparaciones, gastos, valor de lo destruido). Se prueba
   con facturas, peritajes.
 - **Lucro cesante:** la ganancia dejada de obtener. Difícil de probar; exige acreditar que la
-  ganancia era **razonablemente cierta** (no meramente hipotética) y **directa** (art. 2110).
-- **Daño moral (art. 1916):** afectación extrapatrimonial. Su cuantificación es **prudencial**: el
+  ganancia era **razonablemente cierta** (no meramente hipotética) y **directa** (art. 2110 ⟳).
+- **Daño moral (art. 1916 ⟳):** afectación extrapatrimonial. Su cuantificación es **prudencial**: el
   juez pondera el tipo de derecho lesionado, el grado de responsabilidad, la situación económica
   del responsable y de la víctima, y las circunstancias. La SCJN ha desarrollado parámetros para
   evitar la arbitrariedad y ha reconocido su **función disuasiva**.
@@ -334,7 +337,7 @@ Aquí se decide **cuánto** se paga. Categorías:
   la reparación sea **justa e integral**, comprendiendo el daño material, el moral y, en su caso, el
   **proyecto de vida**.
 
-**Límites a la cuantía:** (i) **causalidad inmediata y directa** (art. 2110) —no se responde de
+**Límites a la cuantía:** (i) **causalidad inmediata y directa** (art. 2110 ⟳) —no se responde de
 daños remotos—; (ii) **previsibilidad** (lo previsible al contratar, en la contractual); (iii)
 **deber de mitigar** (la víctima no puede agravar el daño y debe tomar medidas razonables para
 reducirlo —principio creciente, expreso en CISG y en cláusulas contractuales—); (iv) **concurrencia
@@ -360,7 +363,7 @@ límite contractual de la responsabilidad. Cuantificar es donde se gana o se pie
 ### 14.F · La asignación contractual de la responsabilidad (el puente con el SPA)
 
 Las partes pueden **modular** la responsabilidad por contrato, dentro de los límites del orden
-público (no se puede condonar anticipadamente el **dolo**, art. 2106). Herramientas:
+público (no se puede condonar anticipadamente el **dolo**, art. 2106 ⟳). Herramientas:
 - **Cláusula de indemnización (*indemnity*):** define **qué daños** se reparan y por **qué
   supuestos** (incumplimiento de reps, contingencias específicas).
 - **Limitación de responsabilidad (*cap*):** **tope máximo** de lo que se responde (p. ej., un % del
@@ -371,7 +374,7 @@ público (no se puede condonar anticipadamente el **dolo**, art. 2106). Herramie
   **directos**.
 - **Supervivencia (*survival*):** plazo durante el cual subsisten las reps y la posibilidad de
   reclamar (la prescripción pactada).
-- **Cláusula penal (art. 1840):** fija anticipadamente la indemnización o una pena (moderable por
+- **Cláusula penal (art. 1840 ⟳):** fija anticipadamente la indemnización o una pena (moderable por
   desproporción).
 - **Hold harmless / defensa:** una parte se obliga a **defender e indemnizar** a la otra frente a
   terceros.
@@ -379,7 +382,7 @@ público (no se puede condonar anticipadamente el **dolo**, art. 2106). Herramie
   insurance en M&A).
 
 > **Límite imperativo:** no se puede **renunciar anticipadamente** a la responsabilidad por
-> **dolo** (art. 2106), ni excluir la responsabilidad por daños a la **vida o integridad** o que
+> **dolo** (art. 2106 ⟳), ni excluir la responsabilidad por daños a la **vida o integridad** o que
 > contraríe el orden público. El *cap* y las exclusiones operan para la culpa y el riesgo, no para
 > el fraude.
 
@@ -410,14 +413,14 @@ medida, **decidir por anticipado quién paga si algo sale mal**.
    (negligencia), **daño** (la reparación) y **nexo causal**: debe indemnizarte el daño emergente
    (reparación) y, en su caso, el lucro cesante (si usabas el auto para trabajar).
 2. **Objetiva (riesgo creado).** Una fábrica de explosivos sufre una detonación que daña casas
-   vecinas. Aunque haya operado con todo cuidado, responde **sin culpa** (art. 1913): la actividad
+   vecinas. Aunque haya operado con todo cuidado, responde **sin culpa** (art. 1913 ⟳): la actividad
    es peligrosa por sí misma.
 3. **Contractual.** Un proveedor no entrega a tiempo y el cliente pierde una venta. El proveedor
-   responde del daño emergente y del lucro cesante **previsible y directo** (art. 2110).
+   responde del daño emergente y del lucro cesante **previsible y directo** (art. 2110 ⟳).
 4. **Daño moral.** Un medio difunde una nota falsa que daña la reputación de una persona; procede
-   indemnización por **daño moral** (art. 1916), aunque no haya daño patrimonial.
+   indemnización por **daño moral** (art. 1916 ⟳), aunque no haya daño patrimonial.
 5. **Responsabilidad del patrón.** Un repartidor de una empresa atropella a alguien durante su
-   jornada: el **patrón** responde por el hecho de su dependiente (art. 1924).
+   jornada: el **patrón** responde por el hecho de su dependiente (art. 1924 ⟳).
 
 ## 17. Ejemplos complejos
 
@@ -427,7 +430,7 @@ medida, **decidir por anticipado quién paga si algo sale mal**.
 2. **Daño indirecto y causalidad.** Una empresa incumple entregar un componente; el cliente alega
    que, por ello, perdió un **contrato futuro con un tercero** y, además, su acción bursátil cayó.
    ¿Hasta dónde responde? El daño **directo** (mayor costo de reposición) sí; los **remotos**
-   (caída bursátil) probablemente no (art. 2110, falta de causalidad inmediata/directa). En un
+   (caída bursátil) probablemente no (art. 2110 ⟳, falta de causalidad inmediata/directa). En un
    contrato bien hecho, los **consequential damages** estarían **excluidos**.
 3. **Responsabilidad de producto y seguro.** Un electrodoméstico defectuoso provoca un incendio.
    El fabricante responde (objetiva/producto); pero tiene un **seguro de responsabilidad de
@@ -448,7 +451,7 @@ medida, **decidir por anticipado quién paga si algo sale mal**.
 - **Reparación integral (Corte IDH / SCJN):** el derecho a una **reparación justa e integral**
   comprende daño material, moral y proyecto de vida; ha **expandido** la cuantía de las
   indemnizaciones, especialmente frente a violaciones graves.
-- **Responsabilidad objetiva por actividades peligrosas:** criterios que aplican el art. 1913 a
+- **Responsabilidad objetiva por actividades peligrosas:** criterios que aplican el art. 1913 ⟳ a
   vehículos, energía eléctrica, sustancias y maquinaria, invirtiendo la carga (la víctima no
   prueba culpa; el demandado debe probar la eximente).
 
@@ -500,13 +503,13 @@ medida, **decidir por anticipado quién paga si algo sale mal**.
 
 | Sistema | Rasgos de la responsabilidad civil |
 |---|---|
-| **México** | Principio general por culpa (art. 1910) + **responsabilidad objetiva** temprana (art. 1913); daño moral amplio (1916); reparación integral (influencia Corte IDH). |
-| **España** | Art. 1902 CC (culpa aquiliana) y 1101 (contractual); objetivación jurisprudencial en actividades de riesgo; baremos para daños corporales. |
+| **México** | Principio general por culpa (art. 1910 ⟳) + **responsabilidad objetiva** temprana (art. 1913 ⟳); daño moral amplio (1916); reparación integral (influencia Corte IDH). |
+| **España** | Art. 1902 ⟳ CC (culpa aquiliana) y 1101 (contractual); objetivación jurisprudencial en actividades de riesgo; baremos para daños corporales. |
 | **Estados Unidos** | *Tort law* desarrollado: *negligence*, *strict liability* (responsabilidad de producto), **punitive damages**; *duty to mitigate*; *contributory/comparative negligence*. |
 | **Delaware** | Relevante en responsabilidad de **administradores**: *business judgment rule*, *duty of care* y *duty of loyalty*; estándares de revisión (Revlon, Unocal) y *exculpation* (§102(b)(7)). |
 | **Unión Europea** | Directiva de **responsabilidad por productos defectuosos** (objetiva); directiva de **daño ambiental**; tendencias de armonización (PETL — Principles of European Tort Law). |
 | **UNIDROIT** | Principios sobre contratos internacionales: daños por incumplimiento, **previsibilidad**, deber de **mitigar**, certeza del daño. |
-| **UNCITRAL / CISG** | CISG: daños por incumplimiento limitados a lo **previsible**; deber de **mitigar** expreso (art. 77); no cubre daño a la persona. |
+| **UNCITRAL / CISG** | CISG: daños por incumplimiento limitados a lo **previsible**; deber de **mitigar** expreso (art. 77 ⟳); no cubre daño a la persona. |
 | **Common Law** | Distingue *contract* (expectation damages, previsibilidad de *Hadley*, mitigación) y *tort* (negligence, strict liability, punitive damages). |
 | **Civil Law** | Responsabilidad por culpa como regla, objetiva como excepción creciente; reparación integral; daño moral reconocido. |
 
@@ -518,14 +521,14 @@ medida, **decidir por anticipado quién paga si algo sale mal**.
 ## 23. Derecho mexicano
 
 Régimen en el CCF (verificar versión vigente y código local):
-- **Extracontractual:** arts. 1910 (hecho ilícito), 1913 (objetiva), 1915 (formas de reparación),
+- **Extracontractual:** arts. 1910 ⟳ (hecho ilícito), 1913 (objetiva), 1915 (formas de reparación),
   1916 (daño moral), 1917 (solidaridad de coautores), 1919-1932 (responsabilidad por hecho ajeno y
   por cosas/animales/edificios).
-- **Contractual:** arts. 2104-2118 (daños y perjuicios), 2106 (no se condona anticipadamente el
+- **Contractual:** arts. 2104-2118 ⟳ (daños y perjuicios), 2106 (no se condona anticipadamente el
   dolo), 2110 (consecuencia inmediata y directa); cláusula penal 1840-1850; resolución 1949.
 - **Sectorial:** responsabilidad ambiental (Ley Federal de Responsabilidad Ambiental, régimen de
   reparación del daño ambiental); responsabilidad de administradores (LGSM, LMV — Nivel III/IV);
-  protección al consumidor (LFPC); responsabilidad patrimonial del Estado (art. 113 const. y ley
+  protección al consumidor (LFPC); responsabilidad patrimonial del Estado (art. 113 ⟳ const. y ley
   reglamentaria).
 
 ## 24. Jurisprudencia relevante
@@ -534,23 +537,23 @@ Régimen en el CCF (verificar versión vigente y código local):
 - **Daño moral:** parámetros de cuantificación y **función disuasiva** (Primera Sala, SCJN).
 - **Reparación integral:** estándar de reparación justa e integral (material + moral + proyecto de
   vida), de raíz convencional (Corte IDH) recibido por la SCJN.
-- **Responsabilidad objetiva (art. 1913):** inversión de la carga; el demandado debe probar la
+- **Responsabilidad objetiva (art. 1913 ⟳):** inversión de la carga; el demandado debe probar la
   eximente (culpa inexcusable de la víctima, caso fortuito).
 - **Concurrencia de responsabilidad contractual y extracontractual:** criterios sobre la opción o
   acumulación de acciones cuando un hecho es a la vez incumplimiento e ilícito.
 - **Cláusula penal:** posibilidad de **moderación** judicial por desproporción o cumplimiento
-  parcial (art. 1844).
+  parcial (art. 1844 ⟳).
 
 ## 25. Criterios de la Suprema Corte
 
 - **Constitucionalización de la reparación:** la SCJN ha vinculado la responsabilidad civil con el
-  **derecho a la reparación integral** (art. 1º), elevando su rango y ampliando su contenido.
+  **derecho a la reparación integral** (art. 1º ⟳), elevando su rango y ampliando su contenido.
 - **Daño moral y libertad de expresión:** ponderación entre la reparación del honor/vida privada y
   la libertad de expresión e información (estándares de "real malicia" para figuras públicas).
 - **Función disuasiva del daño moral:** aproximación funcional a los daños punitivos, manteniendo
   la naturaleza compensatoria.
 - **Responsabilidad patrimonial del Estado:** régimen **objetivo y directo** por la actividad
-  administrativa irregular (art. 113 const.).
+  administrativa irregular (art. 113 ⟳ const.).
 
 ## 26. Doctrina nacional
 
@@ -579,7 +582,7 @@ Régimen en el CCF (verificar versión vigente y código local):
    disuasión y previsibilidad (clave para asegurar y para valuar contingencias en M&A).
 2. **La asignación contractual de la responsabilidad debe respetar el límite del dolo.** Los *caps*
    y exclusiones son legítimos para la culpa y el riesgo, pero **no** pueden blindar el **fraude**
-   (art. 2106). El Consejo advierte contra cláusulas que pretendan excluir la responsabilidad por
+   (art. 2106 ⟳). El Consejo advierte contra cláusulas que pretendan excluir la responsabilidad por
    dolo: son nulas.
 3. **México hace bien en no adoptar los daños punitivos puros**, pero la "función disuasiva" del
    daño moral debe usarse con **mesura** para no convertir la reparación en lotería ni en
@@ -607,34 +610,34 @@ Régimen en el CCF (verificar versión vigente y código local):
 - **Confundir responsabilidad contractual y extracontractual** (y elegir mal la acción): cambian la
   prueba, la prescripción y la extensión del daño.
 - **No probar el nexo causal.** El error más frecuente: hay daño y hay hecho, pero no se demuestra
-  que **uno causó el otro** (consecuencia inmediata y directa, art. 2110).
+  que **uno causó el otro** (consecuencia inmediata y directa, art. 2110 ⟳).
 - **Reclamar daños remotos o hipotéticos.** El lucro cesante debe ser **razonablemente cierto**;
   los daños indirectos suelen estar **excluidos** por contrato.
 - **Olvidar el deber de mitigar.** No tomar medidas razonables para reducir el daño puede recortar
   la indemnización.
-- **Pretender excluir el dolo por contrato.** Nulo (art. 2106): los *caps* y exclusiones no cubren
+- **Pretender excluir el dolo por contrato.** Nulo (art. 2106 ⟳): los *caps* y exclusiones no cubren
   el fraude.
-- **Ignorar la responsabilidad objetiva (art. 1913).** Creer que sin culpa no se responde, cuando
+- **Ignorar la responsabilidad objetiva (art. 1913 ⟳).** Creer que sin culpa no se responde, cuando
   la actividad es peligrosa por su naturaleza.
 - **Confundir daño moral con daño patrimonial** y no fundamentar su cuantificación.
 
 ## 31. Mitos frecuentes
 
 - *"Si no hubo culpa, no hay responsabilidad."* **Falso:** existe la responsabilidad **objetiva**
-  por riesgo creado (art. 1913).
-- *"El daño moral no se paga en México."* **Falso:** se indemniza (art. 1916), con función incluso
+  por riesgo creado (art. 1913 ⟳).
+- *"El daño moral no se paga en México."* **Falso:** se indemniza (art. 1916 ⟳), con función incluso
   disuasiva.
 - *"Con un *cap* me blindo de todo."* **Falso:** el *cap* no cubre el **dolo/fraude** ni daños a la
   vida/integridad.
 - *"En México existen los daños punitivos."* **Inexacto:** no como tales; existe la **función
   disuasiva** del daño moral.
 - *"La empresa no responde por lo que haga su empleado."* **Falso:** responde por hechos de sus
-  **dependientes** en funciones (art. 1924).
+  **dependientes** en funciones (art. 1924 ⟳).
 
 ## 32. Preguntas difíciles
 
 1. ¿Debe responder el desarrollador de una **IA** por los daños que esta cause: bajo culpa, bajo
-   riesgo creado (art. 1913), o se necesita un régimen nuevo?
+   riesgo creado (art. 1913 ⟳), o se necesita un régimen nuevo?
 2. ¿Hasta dónde puede un SPA excluir el **lucro cesante** y los **consequential damages** sin dejar
    al comprador sin remedio efectivo?
 3. ¿La "función disuasiva" del daño moral encubre, de facto, daños punitivos prohibidos? ¿Es
@@ -646,13 +649,13 @@ Régimen en el CCF (verificar versión vigente y código local):
 ## 33. Casos de examen (con respuesta modelo)
 
 **P1.** *Distinga responsabilidad contractual y extracontractual.* **R.** La contractual surge del
-**incumplimiento** de una obligación previa entre las partes (arts. 2104 y ss.); la
-extracontractual, de un **hecho ilícito** sin relación previa (arts. 1910 y ss.). Difieren en
+**incumplimiento** de una obligación previa entre las partes (arts. 2104 ⟳ y ss.); la
+extracontractual, de un **hecho ilícito** sin relación previa (arts. 1910 ⟳ y ss.). Difieren en
 carga de la prueba, prescripción, extensión del daño y posibilidad de pactar límites.
 
 **P2.** *¿Qué es la responsabilidad objetiva y en qué artículo se funda?* **R.** La obligación de
 reparar **sin culpa**, por el uso de cosas o actividades **peligrosas por su naturaleza**;
-art. 1913 CCF. El demandado solo se libera probando culpa/negligencia inexcusable de la víctima o
+art. 1913 CCF ⟳. El demandado solo se libera probando culpa/negligencia inexcusable de la víctima o
 caso fortuito.
 
 **P3.** *Enumere los elementos de la responsabilidad civil.* **R.** Hecho generador (culpa/dolo o
@@ -660,10 +663,10 @@ riesgo; en la contractual, incumplimiento), daño (cierto, personal, directo), n
 antijuridicidad (ausencia de causa de justificación).
 
 **P4.** *¿Hasta dónde se responde de los daños (límites de cuantía)?* **R.** Consecuencia
-**inmediata y directa** (art. 2110), **previsibilidad** (en la contractual), **deber de mitigar** y
+**inmediata y directa** (art. 2110 ⟳), **previsibilidad** (en la contractual), **deber de mitigar** y
 **concurrencia de culpas** (reducción). No se responde de daños remotos.
 
-**P5.** *¿Puede excluirse por contrato la responsabilidad por dolo?* **R.** No: el art. 2106
+**P5.** *¿Puede excluirse por contrato la responsabilidad por dolo?* **R.** No: el art. 2106 ⟳
 prohíbe la renuncia anticipada a la responsabilidad por **dolo**; sería nula.
 
 ## 34. Simulador (ejercicio tipo despacho)
@@ -675,7 +678,7 @@ prohíbe la renuncia anticipada a la responsabilidad por **dolo**; sería nula.
 > pasivos ambientales (sin cap), *survival* de 3 años, y exclusión de *consequential damages*.
 >
 > **Tarea:** elabora una **estrategia integral** que cubra: (1) la **responsabilidad frente a
-> terceros** (vecinos): ¿objetiva por actividad peligrosa (art. 1913)?, ¿daño material y moral?,
+> terceros** (vecinos): ¿objetiva por actividad peligrosa (art. 1913 ⟳)?, ¿daño material y moral?,
 > ¿defensa y mitigación?; (2) la **responsabilidad ambiental** (remediación) y su régimen; (3) el
 > **recobro contra el vendedor** vía la **indemnidad específica** del SPA (¿aplica?, ¿dentro del
 > *survival*?, ¿se excluye por *consequential*?); (4) el papel del **seguro** (responsabilidad
@@ -691,14 +694,14 @@ el vendedor —regido por el SPA: indemnidad específica, survival, exclusiones�
 
 - **¿Tres pilares de la responsabilidad?** → Hecho generador, daño, nexo causal (+ incumplimiento
   en la contractual).
-- **¿Responsabilidad objetiva (art. 1913)?** → Reparar sin culpa por actividad/cosa peligrosa.
-- **¿Principio general (art. 1910)?** → Quien obra ilícitamente y causa daño debe repararlo.
+- **¿Responsabilidad objetiva (art. 1913 ⟳)?** → Reparar sin culpa por actividad/cosa peligrosa.
+- **¿Principio general (art. 1910 ⟳)?** → Quien obra ilícitamente y causa daño debe repararlo.
 - **¿Daño emergente vs. lucro cesante?** → Pérdida sufrida vs. ganancia dejada de obtener.
-- **¿Daño moral (art. 1916)?** → Afectación a bienes extrapatrimoniales (honor, sentimientos,
+- **¿Daño moral (art. 1916 ⟳)?** → Afectación a bienes extrapatrimoniales (honor, sentimientos,
   dignidad).
-- **¿Límite causal?** → Consecuencia inmediata y directa (art. 2110).
-- **¿Se puede excluir el dolo por contrato?** → No (art. 2106).
-- **¿Quién responde por los empleados?** → El patrón, por hechos en funciones (art. 1924).
+- **¿Límite causal?** → Consecuencia inmediata y directa (art. 2110 ⟳).
+- **¿Se puede excluir el dolo por contrato?** → No (art. 2106 ⟳).
+- **¿Quién responde por los empleados?** → El patrón, por hechos en funciones (art. 1924 ⟳).
 - **¿Eximentes?** → Caso fortuito, culpa de la víctima, hecho de tercero.
 - **¿Daños punitivos en México?** → No como tales; sí "función disuasiva" del daño moral.
 - **¿Reparación integral?** → Material + moral + proyecto de vida (restitutio in integrum).
@@ -796,18 +799,18 @@ PREVENCIÓN (compliance, calidad) → TRANSFERENCIA CONTRACTUAL (indemnity, cap,
 La responsabilidad civil es la materia que **convierte un daño en una obligación de reparar**. Se
 construye sobre tres pilares —**hecho generador** (culpa/dolo o riesgo; o, en la contractual, el
 **incumplimiento**), **daño** y **nexo causal**— más la **antijuridicidad**. Distingue dos grandes
-clases: la **contractual** (por incumplir un contrato; arts. 2104 y ss.) y la **extracontractual**
-(por hecho ilícito; arts. 1910 y ss.), esta última con su variante **objetiva** por **riesgo
-creado** (art. 1913), que obliga a reparar **sin culpa** cuando se realiza una actividad peligrosa.
-El **daño** se cuantifica como daño emergente + lucro cesante + **daño moral** (art. 1916), con
-**límites** decisivos: causalidad **inmediata y directa** (art. 2110), **previsibilidad**, **deber
+clases: la **contractual** (por incumplir un contrato; arts. 2104 ⟳ y ss.) y la **extracontractual**
+(por hecho ilícito; arts. 1910 ⟳ y ss.), esta última con su variante **objetiva** por **riesgo
+creado** (art. 1913 ⟳), que obliga a reparar **sin culpa** cuando se realiza una actividad peligrosa.
+El **daño** se cuantifica como daño emergente + lucro cesante + **daño moral** (art. 1916 ⟳), con
+**límites** decisivos: causalidad **inmediata y directa** (art. 2110 ⟳), **previsibilidad**, **deber
 de mitigar** y **concurrencia de culpas**. La tendencia contemporánea —constitucionalizada— es la
 **reparación integral**.
 
 Para el abogado corporativo, esta es la teoría que late bajo **toda indemnización**: el régimen de
 *indemnity* del SPA (qué daños, **cap**, **basket**, **survival**, exclusión de
 **consequential damages**) es responsabilidad civil **diseñada por contrato**, con el límite
-imperativo de que **no se puede excluir el dolo** (art. 2106). También funda la **responsabilidad
+imperativo de que **no se puede excluir el dolo** (art. 2106 ⟳). También funda la **responsabilidad
 de administradores** (gobierno corporativo, cubierta con seguros **D&O**) y la **gestión de
 riesgos** de la empresa, articulada en tres capas: **prevención**, **transferencia contractual** y
 **seguro**. Dominar la responsabilidad civil es saber **quién paga cuando algo sale mal**, cuánto y
@@ -894,7 +897,7 @@ ruinosas o inservibles.
    pérdida de oportunidades) o, al revés, dejar al comprador sin reparación de daños reales.
    *Prevención:* definir con precisión qué daños se indemnizan y cuáles se excluyen.
 2. **Pretender blindar el dolo con un *cap*.** Toda cláusula que excluya o limite la
-   responsabilidad por **fraude** es nula (art. 2106): el vendedor que mintió responde **sin
+   responsabilidad por **fraude** es nula (art. 2106 ⟳): el vendedor que mintió responde **sin
    límite**. *Prevención:* aceptar que el *cap* solo protege frente a la culpa, no al dolo.
 3. **No tomar indemnidad específica para contingencias conocidas.** Si la due diligence reveló un
    litigio o pasivo ambiental y no se pactó **indemnidad específica** (sin cap ni basket), ese
@@ -902,7 +905,7 @@ ruinosas o inservibles.
    la contingencia.
 4. **Ignorar la responsabilidad objetiva.** Asumir que "sin culpa no hay responsabilidad" en
    actividades peligrosas (química, energía, transporte) expone a la empresa a indemnizaciones que
-   creía no le correspondían (art. 1913).
+   creía no le correspondían (art. 1913 ⟳).
 5. **Subestimar el daño moral / reparación integral.** En litigios con personas físicas, ignorar la
    creciente cuantía del daño moral y de la reparación integral lleva a provisiones insuficientes.
 

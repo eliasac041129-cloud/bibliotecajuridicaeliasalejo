@@ -1,5 +1,8 @@
 # [Ramas Esenciales · Libro 11] Ética Profesional y Responsabilidad del Abogado
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Puedes dominar cada rama del derecho y aun así **destruir tu carrera en un solo acto**: una traición al
 > secreto profesional, un conflicto de interés no revelado, un documento falsificado, una mentira al
 > cliente o al tribunal. La **ética profesional** no es un adorno ni una materia "blanda": es el
@@ -394,9 +397,9 @@ gestiona la información en consecuencia. ⚠️ *Verificar marcos aplicables.*
 
 ## 23. Derecho mexicano (régimen positivo)
 
-- **Constitucional:** libertad de profesión (art. 5 ⚠️); el **secreto profesional** se vincula a la
+- **Constitucional:** libertad de profesión (art. 5 ⚠️ ⟳); el **secreto profesional** se vincula a la
   privacidad y al derecho de defensa.
-- **Leyes de profesiones:** estatales (y la reglamentaria del art. 5 en su ámbito), que regulan el
+- **Leyes de profesiones:** estatales (y la reglamentaria del art. 5 ⟳ en su ámbito), que regulan el
   ejercicio y la responsabilidad del profesionista ⚠️.
 - **Códigos de ética:** de la **Barra Mexicana, Colegio de Abogados**, **ANADE** y otros colegios (fuente
   deontológica) ⚠️.

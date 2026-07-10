@@ -6,7 +6,35 @@
 
 ---
 
-## [3.1] — 2026-07 · «Referencia Verificada — Fiscal» — *rama `v3.1-verificacion-fiscal`, PR*
+## [3.2] — 2026-07 · «Núcleo corporativo verificado + Apóstrofe de vigencia» — *rama `v3.2-corpus-y-vigencia`, PR*
+
+> **Qué es la v3.2.** Dos saltos grandes: (1) el **núcleo del derecho corporativo** pasa a **fuente primaria
+> verificada** con 7 leyes más cotejadas verbatim; (2) nace la **⟳ apóstrofe de vigencia**, que educa al
+> lector para que **nunca** confíe en una cita como eterna y la recontraste en el código.
+
+### Añadido — fuentes oficiales (Word `.doc` → UTF-8)
+- **7 leyes nuevas** en [`fuentes-legales/`](./fuentes-legales/), extraídas de los `.doc` oficiales de la
+  Cámara de Diputados con un conversor propio ([`tools/doc2txt.py`](./tools/doc2txt.py), parseo del *piece
+  table* de Word): **LGSM** (DOF 20-10-2023), **LGTOC** (26-03-2024), **LMV** (14-11-2025), **CCF**
+  (14-11-2025), **LFT** (14-05-2026), **CPF** (13-03-2026), **Ley de Amparo** (16-10-2025).
+
+### Verificado (✅ verbatim — número de artículo ↔ contenido)
+- **LGSM:** 1º, 25, 58, 87, 88, 89 · **LGTOC:** 5º, 76, 170, 175 · **LMV:** 1, 2, 22 ·
+  **CCF:** 1792, 1794, 1803, 2248 · **LFT:** 47, 48, 123, 132 · **CPF:** 7º, 386 (y **390 = «Derogado»**) ·
+  **Amparo:** 1º, 5º, 107, 170.
+
+### Añadido — convención ⟳ (apóstrofe de vigencia)
+- Marcador **⟳** tras **cada artículo citado** de toda la biblioteca (**982 marcas**), aplicado con un
+  script idempotente y seguro (no toca bloques de código).
+- **Callout explicativo** bajo el título de los **58 tratados**, con el caso real del **art. 390 CPF derogado**.
+- Símbolo definido en el **Protocolo §II**; registro en **§V/§VI**; `CONTROL-DE-CALIDAD` actualizado.
+
+### Nota de calidad
+- Verificación automática: **0** marcas dentro de bloques de código y **0** archivos con markdown roto.
+
+---
+
+## [3.1] — 2026-07 · «Referencia Verificada — Fiscal» — *rama `v3.1-verificacion-fiscal`, PR #5 fusionado*
 
 > **Qué es la v3.1.** Primer bloque del sello "**Referencia Verificada plena**" hecho realidad: con los
 > textos oficiales del **CFF** y la **LISR** ya disponibles, se cotejó **palabra por palabra** el

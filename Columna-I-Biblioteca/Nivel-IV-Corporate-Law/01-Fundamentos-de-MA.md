@@ -1,5 +1,8 @@
 # [Nivel IV · Libro 1] Fundamentos de Fusiones y Adquisiciones (M&A)
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Aquí empieza el **verdadero objetivo** de toda la biblioteca. Todo lo aprendido —Roma, obligaciones,
 > contratos, sociedades, títulos, garantías, valores, gobierno corporativo— **converge** en una sola
 > disciplina: comprar y vender empresas. Una operación de M&A es la **catedral** del derecho
@@ -221,9 +224,9 @@ y prestigioso del derecho de los negocios —y el destino de esta biblioteca—.
 
 El M&A **no** tiene una "ley de M&A" única: es una **práctica** que se construye sobre múltiples
 cuerpos legales (de ahí que integre todo):
-- **Fusión y escisión:** **LGSM**, arts. 222-228 bis (Libro 2 Nivel III): requisitos, asamblea
+- **Fusión y escisión:** **LGSM**, arts. 222-228 bis ⟳ (Libro 2 Nivel III): requisitos, asamblea
   extraordinaria, **derecho de oposición de acreedores**, efectos.
-- **Compraventa de acciones:** **LGSM** (transmisión por endoso + libro de registro, art. 128) +
+- **Compraventa de acciones:** **LGSM** (transmisión por endoso + libro de registro, art. 128 ⟳) +
   **Código Civil/Código de Comercio** (compraventa, saneamiento — Libros 2 Nivel II y 4 Nivel III).
 - **Compraventa de activos:** Código de Comercio/Civil; transmisión de cada activo y **cesión** de
   contratos (con consentimientos — Libro 8 Nivel I).
@@ -591,7 +594,7 @@ El M&A en México **integra** múltiples cuerpos (no hay "ley de M&A"):
   neutralidad fiscal si se cumplen requisitos).
 - **Laboral (LFT):** **sustitución patronal** en asset deals.
 - **Civil/Mercantil:** la compraventa, el saneamiento, las garantías, los contratos y su cesión.
-- **El SPA:** autonomía de la voluntad (art. 78 C. Com.; Libro 8 Nivel I); a menudo regido por ley
+- **El SPA:** autonomía de la voluntad (art. 78 ⟳ C. Com.; Libro 8 Nivel I); a menudo regido por ley
   extranjera en operaciones cross-border.
 
 ## 24. Jurisprudencia relevante

@@ -1,5 +1,8 @@
 # [Nivel III · Libro 3] Títulos y Operaciones de Crédito (LGTOC)
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > El crédito necesita **circular** con la misma seguridad que el dinero. El genio del derecho
 > mercantil fue inventar un documento que **incorpora** un derecho de crédito y lo hace viajar de
 > mano en mano con certeza: el **título de crédito**. La letra de cambio, el pagaré y el cheque
@@ -203,20 +206,20 @@ juicio. Es una de las áreas más técnicas y mejor pagadas, especialmente en **
 
 ## 11. Definiciones legales (LGTOC — verificar versión vigente)
 
-- **Título de crédito — art. 5 LGTOC:** "Son títulos de crédito los **documentos necesarios** para
+- **Título de crédito — art. 5 LGTOC ⟳:** "Son títulos de crédito los **documentos necesarios** para
   ejercitar el derecho **literal** que en ellos se consigna." (La autonomía se desarrolla en otros
   artículos.)
-- **Autonomía — art. 8 (excepciones):** enumera las **excepciones** que se pueden oponer contra la
+- **Autonomía — art. 8 ⟳ (excepciones):** enumera las **excepciones** que se pueden oponer contra la
   acción derivada de un título de crédito; las **no** enumeradas no son oponibles (protección del
   tenedor). Eje de la autonomía.
-- **Literalidad — art. 5 y concordantes:** el derecho se mide por el **texto** del documento.
-- **Letra de cambio — arts. 76 y ss.;** **pagaré — arts. 170 y ss.;** **cheque — arts. 175 y ss.**
-- **Endoso — arts. 26 y ss.:** forma de transmisión de los títulos "a la orden"; tipos: en
+- **Literalidad — art. 5 ⟳ y concordantes:** el derecho se mide por el **texto** del documento.
+- **Letra de cambio — arts. 76 ⟳ y ss.;** **pagaré — arts. 170 ⟳ y ss.;** **cheque — arts. 175 ⟳ y ss.**
+- **Endoso — arts. 26 ⟳ y ss.:** forma de transmisión de los títulos "a la orden"; tipos: en
   **propiedad**, en **procuración** (para cobro) y en **garantía** (prenda).
-- **Aval — arts. 109-116:** garantía del pago del título; el avalista se obliga **autónomamente**
-  (su obligación es válida aun si la garantizada es nula por vicio de forma; art. 114).
-- **Protesto — arts. 139 y ss.;** **acciones cambiarias** (directa y de regreso) **— arts. 150 y ss.**
-- **Operaciones de crédito:** reporto (arts. 259-261), depósito (267 y ss.), descuento de créditos en
+- **Aval — arts. 109-116 ⟳:** garantía del pago del título; el avalista se obliga **autónomamente**
+  (su obligación es válida aun si la garantizada es nula por vicio de forma; art. 114 ⟳).
+- **Protesto — arts. 139 ⟳ y ss.;** **acciones cambiarias** (directa y de regreso) **— arts. 150 ⟳ y ss.**
+- **Operaciones de crédito:** reporto (arts. 259-261 ⟳), depósito (267 y ss.), descuento de créditos en
   libros (288 y ss.), apertura de crédito (291 y ss.), cuenta corriente (302 y ss.), créditos
   **refaccionario y de habilitación o avío** (321 y ss.), carta de crédito (311 y ss.), **fideicomiso**
   (381 y ss.), prenda sin transmisión de posesión (346 y ss.).
@@ -249,7 +252,7 @@ fideicomisos).
 
 **Abstracción:** muchos títulos son **abstractos** (se desligan de la **causa** o negocio
 subyacente): el deudor debe pagar el título aunque el negocio que lo originó haya fallado, frente al
-tenedor de buena fe (con el límite del enriquecimiento injusto y de las excepciones del art. 8).
+tenedor de buena fe (con el límite del enriquecimiento injusto y de las excepciones del art. 8 ⟳).
 
 **Clasificación de los títulos:**
 - **Por la ley de circulación:** **nominativos** (a nombre de persona determinada, se transmiten por
@@ -266,7 +269,7 @@ tenedor de buena fe (con el límite del enriquecimiento injusto y de las excepci
 - **Endoso:** transmisión del título "a la orden"; en **propiedad** (transmite todos los derechos),
   en **procuración** (solo para cobrar/gestionar) o en **garantía** (constituye prenda).
 - **Aval:** garantía **autónoma** del pago del título (distinta de la fianza: el aval subsiste aunque
-  la obligación avalada sea nula por vicio de forma, art. 114).
+  la obligación avalada sea nula por vicio de forma, art. 114 ⟳).
 - **Protesto:** acto formal que acredita la falta de aceptación o de pago (a veces dispensado por la
   cláusula "sin protesto").
 - **Acción cambiaria:** la acción para cobrar el título; **directa** (contra el aceptante/suscriptor
@@ -308,7 +311,7 @@ Los cuatro pilares no son teoría abstracta; **resuelven problemas concretos**:
   ni el deudor oponer pactos no incorporados frente al tercero de buena fe. *Práctica:* redactar el
   título con precisión (monto, fecha, lugar, beneficiario).
 - **Autonomía** → el tenedor de buena fe adquiere un derecho **limpio**; no se le oponen las
-  excepciones personales contra anteriores tenedores (art. 8). *Práctica:* por eso el descuento y la
+  excepciones personales contra anteriores tenedores (art. 8 ⟳). *Práctica:* por eso el descuento y la
   circulación funcionan: quien compra un pagaré no hereda los líos del negocio original.
 - **Legitimación** → quien posee el título según su ley de circulación cobra **sin probar** la
   propiedad; el deudor que paga a quien aparece legitimado **se libera**. *Práctica:* verificar la
@@ -316,27 +319,27 @@ Los cuatro pilares no son teoría abstracta; **resuelven problemas concretos**:
 
 ### 14.B · Los títulos en particular
 
-**Letra de cambio (arts. 76 y ss.).** Documento por el que el **girador** ordena al **girado** pagar
+**Letra de cambio (arts. 76 ⟳ y ss.).** Documento por el que el **girador** ordena al **girado** pagar
 una suma a un **beneficiario**. Tres partes. El girado, al **aceptar**, se vuelve **aceptante** y
-obligado principal. Requisitos esenciales (art. 76): mención de ser letra, orden incondicional de
+obligado principal. Requisitos esenciales (art. 76 ⟳): mención de ser letra, orden incondicional de
 pagar suma determinada, nombre del girado, lugar y época de pago, beneficiario, fecha y lugar de
 suscripción, firma del girador. Es el título cambiario "completo" y la base teórica de los demás.
 
-**Pagaré (arts. 170 y ss.).** **Promesa incondicional** del suscriptor de pagar una suma a un
+**Pagaré (arts. 170 ⟳ y ss.).** **Promesa incondicional** del suscriptor de pagar una suma a un
 beneficiario. Dos partes (suscriptor y beneficiario). Es el título **más usado** en la práctica
 mexicana (documenta créditos, ventas a plazo, garantías). Requisitos: mención de ser pagaré, promesa
 incondicional de pagar suma determinada, beneficiario, época y lugar de pago, fecha y lugar de
 suscripción, firma. *Conexión bancaria:* casi todo crédito se documenta con un **pagaré** que da la
 vía ejecutiva.
 
-**Cheque (arts. 175 y ss.).** **Orden incondicional** de pago contra un **banco** (librado), en el
+**Cheque (arts. 175 ⟳ y ss.).** **Orden incondicional** de pago contra un **banco** (librado), en el
 que el librador tiene fondos disponibles. Es un instrumento de **pago** (no de crédito): pagadero **a
 la vista**. Tipos: nominativo/al portador, cruzado, para abono en cuenta, certificado, de caja, de
 viajero. El libramiento **sin fondos** puede tener consecuencias civiles y penales (fraude).
 
 ### 14.C · La circulación y las garantías cambiarias
 
-**Endoso (arts. 26 y ss.).** Es la forma de transmitir los títulos "a la orden". Debe constar en el
+**Endoso (arts. 26 ⟳ y ss.).** Es la forma de transmitir los títulos "a la orden". Debe constar en el
 título, ser **puro y simple** (no condicionado) y por el **importe total**. Tipos:
 - **En propiedad:** transmite **todos** los derechos del título (la forma normal de circular).
 - **En procuración (al cobro):** solo faculta para **cobrar/gestionar** (mandato), no transmite la
@@ -344,9 +347,9 @@ título, ser **puro y simple** (no condicionado) y por el **importe total**. Tip
 - **En garantía (en prenda):** constituye **prenda** sobre el título (garantía — Libro 4 Nivel II).
 El **endoso en blanco** (solo firma) convierte el título, de hecho, en transmisible por entrega.
 
-**Aval (arts. 109-116).** Garantía del pago del título. Notas clave (¡examen!):
+**Aval (arts. 109-116 ⟳).** Garantía del pago del título. Notas clave (¡examen!):
 - Es una garantía **autónoma**: el avalista se obliga **igual que** aquel por quien avala, pero su
-  obligación es **válida aun si la del avalado es nula por un vicio de forma** (art. 114) —a
+  obligación es **válida aun si la del avalado es nula por un vicio de forma** (art. 114 ⟳) —a
   diferencia de la **fianza**, que es **accesoria** (Libro 2 Nivel II)—.
 - Si no se indica por quién se avala, se entiende que avala al **aceptante** (o al suscriptor en el
   pagaré).
@@ -355,7 +358,7 @@ El **endoso en blanco** (solo firma) convierte el título, de hecho, en transmis
 
 ### 14.D · El cobro: protesto, acciones cambiarias, vía ejecutiva y excepciones
 
-**Protesto (arts. 139 y ss.).** Acto **formal** (ante notario/corredor) que acredita la **falta de
+**Protesto (arts. 139 ⟳ y ss.).** Acto **formal** (ante notario/corredor) que acredita la **falta de
 aceptación** o de **pago** del título; es presupuesto de la acción de regreso, salvo cláusula "**sin
 protesto**" (que lo dispensa, muy común).
 
@@ -370,40 +373,40 @@ Prescriben en plazos cortos (la directa, 3 años; la de regreso, plazos menores)
 ejecución): permite demandar por la **vía ejecutiva mercantil**, embargando bienes desde el inicio y
 con un debate **limitado**. Esta es la gran ventaja práctica del título.
 
-**Excepciones (art. 8 LGTOC).** Frente a la acción cambiaria, el demandado **solo** puede oponer las
-excepciones **enumeradas** en el art. 8 (incompetencia, falta de personalidad, falta de requisitos
+**Excepciones (art. 8 LGTOC ⟳).** Frente a la acción cambiaria, el demandado **solo** puede oponer las
+excepciones **enumeradas** en el art. 8 ⟳ (incompetencia, falta de personalidad, falta de requisitos
 del título, alteración, falta de legitimación, **excepciones personales** que el demandado tenga
 contra el actor —no contra anteriores tenedores—, prescripción, pago, etc.). **No** puede oponer al
 tenedor de buena fe las excepciones derivadas del **negocio subyacente** con tenedores anteriores
-(autonomía). *Cómo razona un litigante:* atacar el título por sus **requisitos formales** (art. 76/
+(autonomía). *Cómo razona un litigante:* atacar el título por sus **requisitos formales** (art. 76 ⟳/
 170/175), por **alteración**, por **prescripción**, por **falta de legitimación** (cadena de endosos
 rota) o por **excepción personal directa** contra el actor; difícilmente por el negocio de fondo si
 el actor es tercero de buena fe.
 
 ### 14.E · Las operaciones de crédito
 
-- **Apertura de crédito (arts. 291 y ss.):** el banco (acreditante) pone a disposición del acreditado
+- **Apertura de crédito (arts. 291 ⟳ y ss.):** el banco (acreditante) pone a disposición del acreditado
   una suma o su crédito; el acreditado **dispone** (en una o varias veces, revolvente o simple) y
   **restituye** con intereses y comisiones. Es la **línea de crédito**: el financiamiento revolvente
   del capital de trabajo. Suele documentarse y garantizarse (pagaré, prenda, hipoteca, fideicomiso).
-- **Descuento (arts. 288 y ss. / práctica bancaria):** el banco adquiere un crédito **no vencido**
+- **Descuento (arts. 288 ⟳ y ss. / práctica bancaria):** el banco adquiere un crédito **no vencido**
   (pagaré, factura) pagando su valor menos el **descuento** (interés anticipado). Da **liquidez** al
   cedente. El **factoraje** es su versión sobre cuentas por cobrar (Libro 1 Nivel II: cesión).
-- **Reporto (arts. 259 y ss.):** el reportador adquiere títulos del reportado, pagando un precio, con
+- **Reporto (arts. 259 ⟳ y ss.):** el reportador adquiere títulos del reportado, pagando un precio, con
   pacto de **devolverlos** contra el reembolso del precio más un premio. Instrumento de **liquidez**
   y de mercado de dinero.
-- **Cuenta corriente (arts. 302 y ss.):** las partes se conceden crédito recíproco, anotando sus
+- **Cuenta corriente (arts. 302 ⟳ y ss.):** las partes se conceden crédito recíproco, anotando sus
   remesas y liquidando el **saldo** periódicamente (compensación — Libro 1 Nivel II).
-- **Carta de crédito (arts. 311 y ss. + UCP 600):** instrumento de **comercio exterior**: un banco se
+- **Carta de crédito (arts. 311 ⟳ y ss. + UCP 600):** instrumento de **comercio exterior**: un banco se
   obliga a pagar al beneficiario (exportador) contra la **presentación de documentos** conformes
   (embarque, factura). Sustituye la confianza entre partes lejanas por la del banco.
-- **Crédito refaccionario y de habilitación o avío (arts. 321 y ss.):** créditos con **destino
+- **Crédito refaccionario y de habilitación o avío (arts. 321 ⟳ y ss.):** créditos con **destino
   específico** y **garantía** sobre lo financiado: el **refaccionario** para activos fijos (con
   garantía sobre fincas, construcciones, maquinaria) y el de **avío** para insumos/capital de trabajo
   (con garantía sobre materias primas y productos). Muy usados en financiamiento productivo y
   agroindustrial.
 
-### 14.F · El fideicomiso (arts. 381 y ss.): el vehículo versátil
+### 14.F · El fideicomiso (arts. 381 ⟳ y ss.): el vehículo versátil
 
 Negocio por el que el **fideicomitente** transmite bienes o derechos a una **fiduciaria** (institución
 financiera autorizada) para destinarlos a un **fin lícito y determinado**, en beneficio del
@@ -421,7 +424,7 @@ caso, **ejecución/administración ágil**. Es una de las herramientas más usad
 estructurado mexicano.
 
 > **Cómo razona un socio (títulos y financiamiento).** *"En litigio, el título es mi mejor amigo: me
-> da la **vía ejecutiva** y limita las excepciones del deudor a la lista del **art. 8** —difícilmente
+> da la **vía ejecutiva** y limita las excepciones del deudor a la lista del **art. 8 ⟳** —difícilmente
 > me oponen el negocio de fondo si mi cliente es tenedor de buena fe—. Por eso documento todo crédito
 > con un **pagaré** bien redactado (literalidad). En financiamiento, pienso en capas: la **apertura
 > de crédito** (la línea), el **pagaré** que la documenta (la vía ejecutiva), las **garantías**
@@ -444,7 +447,7 @@ hace algo parecido con un crédito privado: **mete el derecho a cobrar dentro de
 Por eso el título **circula** (endoso = pasarlo a otro) y se puede **vender hoy con descuento** (si
 te deben $100 a 90 días, un banco te da $97 hoy y él cobra los $100 después). Y si no te pagan, no
 necesitas un juicio largo: tienes la **vía ejecutiva**, rápida, donde el deudor casi no puede alegar
-el negocio de fondo (solo la lista corta del art. 8).
+el negocio de fondo (solo la lista corta del art. 8 ⟳).
 
 Las **operaciones de crédito** son las distintas "máquinas" con que los bancos usan el crédito: la
 **línea de crédito** (te abren un grifo de dinero que abres y cierras), el **descuento** (te
@@ -458,13 +461,13 @@ la economía.
 
 1. **Autonomía.** A le vende mercancía defectuosa a B, quien firma un pagaré. A endosa el pagaré a C
    (tercero de buena fe). B **no puede oponer a C** el defecto de la mercancía (excepción personal
-   contra A): debe pagarle a C y luego reclamar a A. Esa es la **autonomía** (art. 8).
+   contra A): debe pagarle a C y luego reclamar a A. Esa es la **autonomía** (art. 8 ⟳).
 2. **Literalidad.** Un pagaré dice "$50,000". El beneficiario alega que "en realidad se acordaron
    $80,000". Frente al título, vale **lo escrito**: $50,000.
 3. **Vía ejecutiva.** El deudor no paga un pagaré vencido. El tenedor demanda por la **vía ejecutiva
    mercantil**: embarga bienes desde el inicio, sin discutir el negocio de fondo.
 4. **Aval autónomo.** Un avalista garantiza un pagaré que resulta nulo porque el suscriptor era
-   incapaz (vicio de fondo del avalado). El avalista **igual responde** (art. 114: el aval vale aun
+   incapaz (vicio de fondo del avalado). El avalista **igual responde** (art. 114 ⟳: el aval vale aun
    si la obligación avalada es nula —salvo vicio de **forma** del propio título—).
 5. **Endoso en procuración.** Una empresa endosa "en procuración al cobro" sus pagarés a un
    despacho: el despacho puede **cobrar** pero no es dueño de los títulos.
@@ -475,10 +478,10 @@ la economía.
    garantiza con **hipoteca**. El banco endosa el pagaré (lo descuenta) a un tercero. El deudor, al
    ser demandado por el tercero, intenta oponer que "el banco no le entregó todo el crédito"
    (excepción del negocio subyacente). Frente al tercero de buena fe, esa excepción **no procede**
-   (autonomía/abstracción, art. 8); el deudor paga y reclama al banco. Lección: el pagaré
+   (autonomía/abstracción, art. 8 ⟳); el deudor paga y reclama al banco. Lección: el pagaré
    **desconecta** el cobro del negocio de fondo.
 2. **Cadena de endosos rota (legitimación).** Un pagaré llega al actor con una cadena de endosos
-   **interrumpida** (falta un eslabón). El demandado opone **falta de legitimación** (art. 8): el
+   **interrumpida** (falta un eslabón). El demandado opone **falta de legitimación** (art. 8 ⟳): el
    actor no está legitimado porque la cadena no es regular. Lección: verificar la cadena de endosos
    es esencial antes de demandar.
 3. **Cheque sin fondos.** Un proveedor recibe un cheque que rebota por falta de fondos. Tiene la
@@ -492,14 +495,14 @@ la economía.
 
 ## 18. Casos reales (jurisprudencia y operaciones estilizadas)
 
-- **Excepciones oponibles (art. 8):** los tribunales reiteran que frente a la acción cambiaria
-  **solo** proceden las excepciones del art. 8, protegiendo al tenedor de buena fe; no se opone el
+- **Excepciones oponibles (art. 8 ⟳):** los tribunales reiteran que frente a la acción cambiaria
+  **solo** proceden las excepciones del art. 8 ⟳, protegiendo al tenedor de buena fe; no se opone el
   negocio causal a terceros.
-- **Requisitos del pagaré (art. 170):** la falta de un requisito esencial (p. ej., la promesa
+- **Requisitos del pagaré (art. 170 ⟳):** la falta de un requisito esencial (p. ej., la promesa
   incondicional, el lugar, la firma) puede hacer que el documento **no valga** como título de
   crédito (aunque pueda valer como prueba de un crédito ordinario).
 - **Usura en títulos (intereses):** la SCJN extendió el **control de usura** (Primera Sala, art.
-  21.3 CADH) a los intereses pactados en **pagarés**: el juez puede analizarlos de oficio y
+  21 ⟳.3 CADH) a los intereses pactados en **pagarés**: el juez puede analizarlos de oficio y
   **reducirlos** si son notoriamente excesivos, aun en la vía ejecutiva.
 - **Pagaré en blanco:** validez de su llenado conforme a lo convenido; riesgos del abuso en su
   integración (criterios sobre la carga de la prueba).
@@ -552,7 +555,7 @@ la economía.
 | **México** | LGTOC (1932, influencia italiana/Vivante): letra, pagaré, cheque; principios de incorporación, literalidad, autonomía; fideicomiso y operaciones de crédito; vía ejecutiva. |
 | **España** | Ley Cambiaria y del Cheque (1985, sobre la Ley Uniforme de Ginebra); régimen cambiario afín; juicio cambiario. |
 | **Estados Unidos** | **UCC Article 3** (*Negotiable Instruments*): *notes* y *drafts*; figura del *holder in due course* (tenedor de buena fe que cobra limpio = autonomía); **Article 4** (bank deposits/cheques); **Article 5** (cartas de crédito). |
-| **Delaware/EE. UU.** | Operaciones de crédito y *secured lending* (UCC Art. 9); fideicomisos (*trusts*) muy desarrollados; *security trustee*. |
+| **Delaware/EE. UU.** | Operaciones de crédito y *secured lending* (UCC Art. 9 ⟳); fideicomisos (*trusts*) muy desarrollados; *security trustee*. |
 | **Unión Europea** | Derecho cambiario nacional (Ley Uniforme de Ginebra en la mayoría); regulación armonizada de pagos y servicios financieros. |
 | **UNIDROIT** | Principios y trabajos sobre instrumentos financieros y garantías. |
 | **UNCITRAL** | Convención sobre **letras de cambio y pagarés internacionales**; ley modelo sobre comercio electrónico (títulos electrónicos transferibles). |
@@ -567,27 +570,27 @@ la economía.
 
 ## 23. Derecho mexicano
 
-- **LGTOC (1932, reformada):** teoría general (arts. 1-22), endoso (26 y ss.), aval (109-116), letra
+- **LGTOC (1932, reformada):** teoría general (arts. 1-22 ⟳), endoso (26 y ss.), aval (109-116), letra
   (76 y ss.), pagaré (170 y ss.), cheque (175 y ss.), protesto (139 y ss.), acciones cambiarias
   (150 y ss.); operaciones: reporto (259), descuento (288), apertura de crédito (291), cuenta
   corriente (302), carta de crédito (311), créditos refaccionario y de avío (321), **fideicomiso**
   (381), prenda sin transmisión (346).
-- **Código de Comercio:** vía **ejecutiva mercantil** (arts. 1391 y ss.) y juicios mercantiles.
+- **Código de Comercio:** vía **ejecutiva mercantil** (arts. 1391 ⟳ y ss.) y juicios mercantiles.
 - **Ley de Instituciones de Crédito y normas de la CNBV/Banxico:** regulación bancaria de las
   operaciones de crédito y sistemas de pago.
-- **Control de usura:** criterios de la SCJN (art. 21.3 CADH) aplicables a intereses en títulos.
+- **Control de usura:** criterios de la SCJN (art. 21 ⟳.3 CADH) aplicables a intereses en títulos.
 
 ## 24. Jurisprudencia relevante
 
 > Verificar vigencia antes de citar.
-- **Excepciones del art. 8:** carácter **taxativo**; no se opone el negocio causal al tenedor de
+- **Excepciones del art. 8 ⟳:** carácter **taxativo**; no se opone el negocio causal al tenedor de
   buena fe.
 - **Usura en pagarés (SCJN, Primera Sala):** análisis oficioso y reducción de intereses notoriamente
   excesivos, incluso en la vía ejecutiva.
 - **Requisitos esenciales del título:** consecuencias de su falta (el documento puede no valer como
   título de crédito).
 - **Pagaré en blanco:** validez del llenado conforme a lo pactado; límites al abuso.
-- **Aval vs. fianza:** autonomía del aval (art. 114) frente a la accesoriedad de la fianza.
+- **Aval vs. fianza:** autonomía del aval (art. 114 ⟳) frente a la accesoriedad de la fianza.
 
 ## 25. Criterios de la Suprema Corte
 
@@ -625,7 +628,7 @@ la economía.
 
 1. **El pagaré bien documentado es la mejor herramienta del acreedor**, por la vía ejecutiva y la
    autonomía. El Consejo recomienda documentar **todo** crédito relevante con un pagaré redactado con
-   precisión (literalidad), cuidando los requisitos del art. 170 para que no degenere en simple
+   precisión (literalidad), cuidando los requisitos del art. 170 ⟳ para que no degenere en simple
    prueba de un crédito ordinario.
 2. **El control de usura, siendo justo, exige redactar tasas defendibles.** Tras la jurisprudencia
    de la SCJN, una tasa excesiva en un pagaré puede ser **moderada de oficio**; el Consejo
@@ -658,13 +661,13 @@ la economía.
 - **Firmar un pagaré "en blanco" sin entender la literalidad y la autonomía.** Quien lo llene puede
   fijar monto y fecha; y si circula, el deudor casi no podrá defenderse del negocio de fondo.
 - **Creer que se puede oponer el negocio causal a cualquier tenedor.** Frente al **tercero de buena
-  fe**, solo proceden las excepciones del **art. 8** (autonomía).
+  fe**, solo proceden las excepciones del **art. 8 ⟳** (autonomía).
 - **Descuidar los requisitos esenciales del título.** Un pagaré sin promesa incondicional, sin firma
-  o sin los datos esenciales (art. 170) puede **no valer** como título (se pierde la vía ejecutiva).
+  o sin los datos esenciales (art. 170 ⟳) puede **no valer** como título (se pierde la vía ejecutiva).
 - **No verificar la cadena de endosos.** Una cadena rota = **falta de legitimación**; el actor no
   puede cobrar.
 - **Confundir aval (autónomo) con fianza (accesoria).** El aval vale aun si la obligación avalada es
-  nula por vicio de fondo (art. 114); la fianza, no.
+  nula por vicio de fondo (art. 114 ⟳); la fianza, no.
 - **Librar cheques sin fondos.** Consecuencias civiles **y penales**.
 - **Pactar intereses usurarios en pagarés.** Riesgo de **moderación judicial** de oficio.
 
@@ -672,7 +675,7 @@ la economía.
 
 - *"Si la mercancía salió mala, no pago el pagaré."* **Falso** frente a un tercero de buena fe
   (autonomía): pagas y reclamas a tu vendedor.
-- *"El aval es lo mismo que la fianza."* **No:** el aval es **autónomo** (art. 114).
+- *"El aval es lo mismo que la fianza."* **No:** el aval es **autónomo** (art. 114 ⟳).
 - *"Un pagaré sin fecha de pago no vale."* **Matiz:** si falta la época de pago, se considera
   **pagadero a la vista** (regla supletoria), pero faltar requisitos esenciales sí lo invalida como
   título.
@@ -702,12 +705,12 @@ para ejercer el derecho **literal** y **autónomo** que en él se menciona. Prin
 derecho propio) y legitimación (quien lo posee según su ley de circulación puede ejercerlo).
 
 **P2.** *¿Qué excepciones pueden oponerse a la acción cambiaria?* **R.** Solo las **enumeradas en el
-art. 8 LGTOC** (incompetencia, falta de personalidad/legitimación, requisitos del título,
+art. 8 LGTOC ⟳** (incompetencia, falta de personalidad/legitimación, requisitos del título,
 alteración, prescripción, pago, y las **personales** del demandado **contra el actor**); no las
 derivadas del negocio causal frente al tenedor de buena fe (autonomía).
 
 **P3.** *Distinga aval y fianza.* **R.** El **aval** es garantía **cambiaria autónoma**: vale aun si
-la obligación avalada es nula por vicio de fondo (art. 114). La **fianza** es **accesoria**: sigue la
+la obligación avalada es nula por vicio de fondo (art. 114 ⟳). La **fianza** es **accesoria**: sigue la
 suerte de la obligación principal.
 
 **P4.** *¿Qué es la apertura de crédito y para qué sirve?* **R.** Operación por la que el acreditante
@@ -726,25 +729,25 @@ extrajudicial pactada) y blinda flujos —base del financiamiento estructurado y
 >
 > **Tarea:** estructura la operación: (1) ¿qué **operación de crédito** para cada destino —**avío**
 > (insumos) y **refaccionario** (maquinaria)— y por qué?; (2) cómo **documentar** el crédito para
-> tener vía ejecutiva (**pagaré** con requisitos del art. 170, tasa defendible ante usura); (3) qué
+> tener vía ejecutiva (**pagaré** con requisitos del art. 170 ⟳, tasa defendible ante usura); (3) qué
 > **garantías** tomar (prenda sobre maquinaria/RUG, sobre cosechas/productos —avío—, hipoteca,
 > **fideicomiso de fuente de pago** sobre los flujos de exportación); (4) cómo asegurar el cobro de
 > las **exportaciones** (carta de crédito / UCP 600); (5) qué **excepciones** podría oponer la empresa
-> si no paga y cómo blindarse (art. 8). Concluye con el "paquete" de instrumentos y por qué da al
+> si no paga y cómo blindarse (art. 8 ⟳). Concluye con el "paquete" de instrumentos y por qué da al
 > banco cobro rápido y seguro.
 
 *(Pista de evaluación: la mejor respuesta combina **avío + refaccionario** según el destino,
 **pagaré** para la vía ejecutiva, **fideicomiso de fuente de pago** sobre los flujos de exportación,
 **carta de crédito** para el cobro internacional, y anticipa el control de **usura** y las
-excepciones del art. 8.)*
+excepciones del art. 8 ⟳.)*
 
 ## 35. Flashcards
 
 - **¿Definición de Vivante?** → Documento necesario para ejercer el derecho literal y autónomo que en
   él se menciona.
 - **¿Cuatro principios?** → Incorporación, literalidad, autonomía, legitimación.
-- **¿Excepciones a la acción cambiaria?** → Solo las del **art. 8** (taxativas).
-- **¿Aval vs. fianza?** → Autónomo (art. 114) vs. accesorio.
+- **¿Excepciones a la acción cambiaria?** → Solo las del **art. 8 ⟳** (taxativas).
+- **¿Aval vs. fianza?** → Autónomo (art. 114 ⟳) vs. accesorio.
 - **¿Tipos de endoso?** → En propiedad, en procuración (cobro), en garantía (prenda).
 - **¿Cheque?** → Orden de pago contra un banco, **a la vista** (instrumento de pago, no de crédito).
 - **¿Acción cambiaria directa vs. de regreso?** → Contra aceptante/suscriptor (sin protesto) vs.
@@ -797,7 +800,7 @@ TÍTULOS Y OPERACIONES DE CRÉDITO (LGTOC)
 | | Aval | Fianza |
 |---|---|---|
 | Naturaleza | Cambiaria, **autónoma** | Civil/mercantil, **accesoria** |
-| Si la obligación es nula por fondo | El aval **subsiste** (art. 114) | La fianza se afecta |
+| Si la obligación es nula por fondo | El aval **subsiste** (art. 114 ⟳) | La fianza se afecta |
 | Beneficios de orden/excusión | No | Sí (renunciables) |
 
 **Operaciones de crédito (selección)**
@@ -839,13 +842,13 @@ Flujos (peajes/rentas/exportación) → FIDEICOMISO (fiduciaria)
 - **Principios del título:** **"ILA-L"** → **I**ncorporación, **L**iteralidad, **A**utonomía,
   **L**egitimación.
 - **Vivante:** *"documento NECESARIO para un derecho LITERAL y AUTÓNOMO"*.
-- **Excepciones:** *"solo las del art. 8; el negocio de fondo no se le opone al de buena fe"*.
-- **Aval:** *"el aval no se cae aunque el avalado sea nulo (art. 114)"*.
+- **Excepciones:** *"solo las del art. 8 ⟳; el negocio de fondo no se le opone al de buena fe"*.
+- **Aval:** *"el aval no se cae aunque el avalado sea nulo (art. 114 ⟳)"*.
 - **Cheque:** *"pago a la vista, no crédito"*.
 - **Refaccionario vs. avío:** *"Refaccionario = fierros (activos fijos); Avío = avíos (insumos)"*.
 - **Fideicomiso:** *"caja fuerte con dueño nuevo (fiduciaria) y un fin"*.
 
-> Memoriza **"ILA-L"** y la lista del **art. 8**: con eso litigas y estructuras la mayor parte de la
+> Memoriza **"ILA-L"** y la lista del **art. 8 ⟳**: con eso litigas y estructuras la mayor parte de la
 > práctica cambiaria.
 
 
@@ -855,11 +858,11 @@ El **título de crédito** es la invención que hizo **circular el crédito con 
 dinero**. Siguiendo a Vivante, es el "documento **necesario** para ejercer el derecho **literal** y
 **autónomo** que en él se menciona", sobre cuatro pilares: **incorporación** (el derecho va en el
 documento), **literalidad** (vale lo escrito), **autonomía** (cada adquirente de buena fe tiene un
-derecho **propio y limpio**, sin que se le opongan los líos entre tenedores anteriores —art. 8—) y
+derecho **propio y limpio**, sin que se le opongan los líos entre tenedores anteriores —art. 8 ⟳—) y
 **legitimación** (quien lo posee según su ley de circulación cobra sin probar la propiedad). De ahí
 nacen sus ventajas prácticas: la **circulación** por **endoso**, la garantía por **aval** (autónomo,
-art. 114, distinto de la fianza accesoria) y, sobre todo, la **vía ejecutiva mercantil** con
-excepciones **tasadas** (art. 8). Los títulos clave: **letra de cambio**, **pagaré** (el más usado)
+art. 114 ⟳, distinto de la fianza accesoria) y, sobre todo, la **vía ejecutiva mercantil** con
+excepciones **tasadas** (art. 8 ⟳). Los títulos clave: **letra de cambio**, **pagaré** (el más usado)
 y **cheque** (pago a la vista).
 
 Las **operaciones de crédito** son la maquinaria del financiamiento: la **apertura de crédito**
@@ -869,17 +872,17 @@ más poderosa— el **fideicomiso** (patrimonio autónomo para garantía, fuente
 base del project finance). Para el abogado corporativo y bancario, este libro da dos superpoderes:
 el **pagaré** para cobrar rápido (vía ejecutiva, autonomía) y el **fideicomiso** para estructurar y
 garantizar financiamientos. Domina **"ILA-L"** (incorporación, literalidad, autonomía, legitimación)
-y la lista del **art. 8**, y tendrás la llave del litigio cambiario y del financiamiento.
+y la lista del **art. 8 ⟳**, y tendrás la llave del litigio cambiario y del financiamiento.
 
 ## 41. Checklist
 
 **Documentar/cobrar un título:**
-- [ ] ¿El pagaré/letra reúne los **requisitos esenciales** (arts. 76/170/175)?
+- [ ] ¿El pagaré/letra reúne los **requisitos esenciales** (arts. 76 ⟳/170/175)?
 - [ ] ¿La **tasa** de interés es defendible (riesgo de usura)?
 - [ ] ¿La **cadena de endosos** es regular (legitimación)?
 - [ ] ¿Procede **protesto** o hay cláusula "sin protesto"?
 - [ ] ¿Qué **acción** (directa/de regreso) y contra quién? ¿Prescripción?
-- [ ] ¿Qué **excepciones** (art. 8) podría oponer el demandado?
+- [ ] ¿Qué **excepciones** (art. 8 ⟳) podría oponer el demandado?
 
 **Estructurar financiamiento:**
 - [ ] ¿Qué **operación** (apertura, descuento, refaccionario, avío) según el destino?
@@ -897,7 +900,7 @@ y la lista del **art. 8**, y tendrás la llave del litigio cambiario y del finan
   crédito*.** Las fuentes doctrinales de la teoría general; para profundizar el "porqué".
 - **Reglas de la CCI (UCP 600, URDG 758).** Indispensables para cartas de crédito y garantías a
   demanda en comercio exterior.
-- **LGTOC (texto vigente) y Código de Comercio (vía ejecutiva, arts. 1391 y ss.).** El derecho
+- **LGTOC (texto vigente) y Código de Comercio (vía ejecutiva, arts. 1391 ⟳ y ss.).** El derecho
   positivo; estúdialo con el código a la mano.
 
 ## 43. Ruta hacia el siguiente libro
@@ -923,7 +926,7 @@ Porque **el crédito y su circulación son el combustible de los negocios**, y e
 sus herramientas. El **pagaré** documenta y da vía ejecutiva a casi todo crédito (incluido el precio
 diferido o el *earn-out* de un SPA); el **fideicomiso** estructura garantías y fuentes de pago en
 todo financiamiento de adquisición o de infraestructura; la **carta de crédito** asegura el comercio
-exterior; y la **autonomía** (art. 8) es lo que permite que el crédito se compre, venda y descuente
+exterior; y la **autonomía** (art. 8 ⟳) es lo que permite que el crédito se compre, venda y descuente
 con seguridad. El abogado que domina los títulos litiga y cobra con ventaja, y el que domina las
 operaciones de crédito —especialmente el fideicomiso— estructura los financiamientos que hacen
 posibles las grandes operaciones.
@@ -931,7 +934,7 @@ posibles las grandes operaciones.
 ## ✦ Cómo piensa un socio de un despacho internacional
 
 > *"Tengo dos herramientas favoritas en banca y financiamiento: el **pagaré** y el **fideicomiso**.
-> El pagaré, porque me da **vía ejecutiva** y la autonomía del art. 8 —si mi cliente es tenedor de
+> El pagaré, porque me da **vía ejecutiva** y la autonomía del art. 8 ⟳ —si mi cliente es tenedor de
 > buena fe, al deudor casi no le quedan defensas—. El fideicomiso, porque es la **navaja suiza** del
 > financiamiento estructurado: garantía con **ejecución ágil**, **fuente de pago** que blinda los
 > flujos antes de que lleguen al deudor, y **patrimonio autónomo** que protege a los acreedores. En
@@ -943,12 +946,12 @@ posibles las grandes operaciones.
 
 1. **Pagaré mal redactado (sin requisitos esenciales).** Pierde la condición de título y, con ella,
    la **vía ejecutiva**: el acreedor queda con un simple documento probatorio y un juicio largo.
-   *Prevención:* redactar conforme al art. 170 (promesa incondicional, suma, fecha, firma).
+   *Prevención:* redactar conforme al art. 170 ⟳ (promesa incondicional, suma, fecha, firma).
 2. **Tasa usuraria en el título.** Puede ser **moderada de oficio** por el juez (SCJN), reduciendo la
    recuperación. *Prevención:* tasas de mercado y documentadas.
 3. **Novar/cancelar el crédito sin cuidar los títulos y garantías.** Cancelar un pagaré o liberar un
    fideicomiso sin coordinarlo con la reestructura puede dejar al acreedor sin vía ejecutiva o sin
-   garantía (conexión con la trampa de la novación, art. 2220 — Libros 1 y 4 Nivel II).
+   garantía (conexión con la trampa de la novación, art. 2220 ⟳ — Libros 1 y 4 Nivel II).
 4. **Carta de crédito mal documentada (UCP 600).** Documentos **no conformes** = el banco no paga;
    el exportador se queda sin cobro. *Prevención:* revisar minuciosamente los términos documentales.
 5. **No usar fideicomiso de fuente de pago en project finance.** Dejar que los flujos lleguen al

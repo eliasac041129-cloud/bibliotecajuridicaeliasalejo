@@ -153,7 +153,7 @@ puede pactarse con razonable seguridad de que un tribunal la haga cumplir?
 **Sí es válida en principio, pero 5 años en todo el país es agresivo y expone la cláusula a ser
 declarada parcial o totalmente inexigible.** La no competencia pactada como parte de la
 **compraventa de un negocio** (no como restricción laboral) se sostiene en la libertad
-contractual, pero encuentra dos límites: (i) el orden público y la libertad de comercio (art. 5º
+contractual, pero encuentra dos límites: (i) el orden público y la libertad de comercio (art. 5º ⟳
 constitucional) y (ii) los límites del objeto lícito y de las cláusulas que aniquilan la libertad
 de comerciar (régimen general de contratos del Código Civil + criterios sobre cláusulas abusivas;
 **verificar el número de artículo aplicable**). La práctica de
@@ -166,7 +166,7 @@ territorio nacional acotado por actividad, como posición negociadora.
 > Todo lo demás es soporte. Nota que la respuesta **ya trae la recomendación numérica** (2-3 años):
 > el cliente preguntó "hasta dónde apretar" y se le contesta con un número, no con teoría.*
 >
-> ▸ *Principio Supremo en acción: el art. 5º constitucional se cita con seguridad (es la base de
+> ▸ *Principio Supremo en acción: el art. 5º ⟳ constitucional se cita con seguridad (es la base de
 > la libertad de trabajo, profesión y comercio); en cambio, el número exacto del artículo civil se
 > deja **marcado como "verificar"** en lugar de inventarlo. Ese es el modelo a imitar: afirma solo
 > lo que sostendrías ante un socio, y señala expresamente lo que falta confirmar. Nunca un número
@@ -190,7 +190,7 @@ territorio nacional acotado por actividad, como posición negociadora.
 un activo que el comprador efectivamente pagó (el *goodwill*). Confundir ambas figuras es el primer
 error.
 
-*4.2. El límite constitucional y civil.* El art. 5º constitucional protege la libertad de trabajo,
+*4.2. El límite constitucional y civil.* El art. 5º ⟳ constitucional protege la libertad de trabajo,
 profesión y comercio; un pacto no puede aniquilarla. De ahí que las restricciones se midan por su
 **razonabilidad**: deben ser *accesorias* a una operación legítima y *no más amplias de lo
 necesario* para proteger el interés tutelado.
@@ -230,7 +230,7 @@ conviene (i) redactarla con parámetros razonables y (ii) incluir una **cláusul
 
 **6. Salvedades**
 - Análisis basado en principios generales del derecho mexicano; **debe verificarse contra el
-  Código Civil aplicable (federal o de la entidad), el art. 5º constitucional y los criterios
+  Código Civil aplicable (federal o de la entidad), el art. 5º ⟳ constitucional y los criterios
   judiciales vigentes** antes de emitir opinión formal. *(No se citan tesis con número porque no
   se confirmaron; se recomienda búsqueda específica en el SJF.)*
 - Se asume que la operación es compraventa de acciones y que el precio incorpora *goodwill*; si la
@@ -289,7 +289,7 @@ BLUF. Cronométrate: un memo corto no debería tomarte más de 90 minutos cuando
 1. **Variante directa (misma materia).** El cliente ahora quiere imponer la no competencia a
    **tres gerentes** que se quedan empleados tras el cierre (no son vendedores). Escribe el memo:
    *¿cambia el análisis respecto del vendedor-fundador? ¿por qué la restricción laboral es más
-   frágil?* (Pista: separa restricción de venta vs. restricción laboral; piensa en el art. 5º.)
+   frágil?* (Pista: separa restricción de venta vs. restricción laboral; piensa en el art. 5º ⟳.)
 
 2. **Variante de obligaciones (Columna I, Nivel I-07 y II-01).** Una empresa entregó un anticipo
    del 30 % por una maquinaria que el proveedor no entregó en la fecha pactada. El cliente

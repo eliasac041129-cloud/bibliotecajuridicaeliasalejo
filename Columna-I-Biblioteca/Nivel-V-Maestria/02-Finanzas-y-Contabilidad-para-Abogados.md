@@ -1,5 +1,8 @@
 # [Nivel V · Libro 2] Finanzas y Contabilidad para Abogados
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Hay un abismo entre el abogado que "sabe derecho" y el que **entiende el negocio**. Toda operación que
 > aprendiste a estructurar —una adquisición, un financiamiento, una inversión— es, en el fondo, una
 > **decisión sobre dinero y riesgo**: cuánto vale algo, cuánto cuesta, cuánto rinde, qué tan arriesgado es.
@@ -933,7 +936,7 @@ Criterios mexicanos relevantes (en las áreas donde finanzas y derecho se cruzan
   utilidades (solo las realmente existentes y aprobadas).
 - **Responsabilidad de administradores por los estados financieros (LMV/LGSM):** el deber de presentar
   información veraz.
-- **Operaciones simuladas / EFOS (art. 69-B CFF):** la contabilidad que documenta operaciones inexistentes
+- **Operaciones simuladas / EFOS (art. 69-B CFF ⟳):** la contabilidad que documenta operaciones inexistentes
   (conexión con la due diligence fiscal —Libro 2 del Nivel IV—).
 
 En el plano técnico, el marco lo dan las **NIF/IFRS** (no la jurisprudencia); la doctrina financiera es la

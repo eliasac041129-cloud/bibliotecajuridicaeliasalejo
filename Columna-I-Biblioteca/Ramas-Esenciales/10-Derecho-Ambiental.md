@@ -1,5 +1,8 @@
 # [Ramas Esenciales · Libro 10] Derecho Ambiental
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Hay pasivos que no aparecen en el balance y que pueden estallar años después de una operación: un suelo
 > contaminado, un permiso ambiental vencido, una descarga ilegal, una multa millonaria. El **derecho
 > ambiental** regula la relación entre la actividad económica y el **medio ambiente**: qué autorizaciones
@@ -75,7 +78,7 @@ Al terminar, el lector será capaz de:
 
 - **Explicar los principios** del derecho ambiental: prevención, precaución, "quien contamina paga",
   desarrollo sustentable, responsabilidad.
-- **Ubicar el fundamento** (art. 4 CPEUM: derecho a un medio ambiente sano ⚠️) y el reparto de competencias
+- **Ubicar el fundamento** (art. 4 CPEUM ⟳: derecho a un medio ambiente sano ⚠️) y el reparto de competencias
   (federal, estatal, municipal).
 - **Dominar las autorizaciones ambientales**: **evaluación de impacto ambiental (MIA)**, licencia
   ambiental, permisos de emisiones y descargas, manejo de **residuos** (peligrosos), y su papel para operar.
@@ -107,7 +110,7 @@ internacional; el **Informe Brundtland (1987 ⚠️)** que acuñó el **desarrol
 Río (1992 ⚠️)** con sus principios (precaución, "quien contamina paga"); y, en clima, el **Protocolo de
 Kioto** y el **Acuerdo de París (2015 ⚠️)**. México desarrolló su marco a partir de los años ochenta, con
 la **LGEEPA (en vigor desde 1988 ✅)** como ley marco, y elevó a rango **constitucional** el derecho a un
-**medio ambiente sano** (art. 4 ⚠️).
+**medio ambiente sano** (art. 4 ⚠️ ⟳).
 
 ## 5. Evolución histórica
 
@@ -149,7 +152,7 @@ relevante como la norma escrita. ⚠️
 
 ## 8. Contexto social
 
-El derecho a un **medio ambiente sano** (art. 4 ⚠️) es un derecho humano, y su defensa moviliza a
+El derecho a un **medio ambiente sano** (art. 4 ⚠️ ⟳) es un derecho humano, y su defensa moviliza a
 comunidades, pueblos indígenas y organizaciones. Han ganado fuerza la **justicia ambiental** (que los
 daños no recaigan solo sobre los más vulnerables), el **derecho a la consulta** de comunidades afectadas
 por proyectos, y la protección de **defensores ambientales**. Para la empresa, la dimensión social es hoy
@@ -181,7 +184,7 @@ responsabilidad ambiental, **pueden pasar al comprador**.
 
 ## 11. Definiciones legales
 
-- **Medio ambiente sano (art. 4 CPEUM ⚠️):** derecho de toda persona a un medio ambiente sano para su
+- **Medio ambiente sano (art. 4 CPEUM ⚠️ ⟳):** derecho de toda persona a un medio ambiente sano para su
   desarrollo y bienestar; el Estado garantiza su respeto y el daño genera responsabilidad.
 - **Impacto ambiental (LGEEPA ⚠️):** modificación del ambiente por una obra o actividad; ciertas obras
   requieren **autorización** previa en materia de impacto ambiental (con base en una **Manifestación de
@@ -226,7 +229,7 @@ económica no destruya el ambiente —y para saber quién paga cuando lo daña.*
 
 ### 14.1 Fundamento y principios
 
-Todo cuelga del **art. 4 CPEUM ⚠️** (derecho a un medio ambiente sano; el daño ambiental genera
+Todo cuelga del **art. 4 CPEUM ⚠️ ⟳** (derecho a un medio ambiente sano; el daño ambiental genera
 responsabilidad) y de la **LGEEPA** como ley marco. Los **principios** guían la interpretación: **prevención**
 (mejor evitar el daño que repararlo), **precaución** (ante riesgo grave, actuar aunque falte certeza),
 **"quien contamina paga"** (internalizar el costo), **desarrollo sustentable** (equilibrio entre economía y
@@ -381,7 +384,7 @@ puede tener repercusiones comerciales y reputacionales internacionales—. ⚠�
 
 ## 23. Derecho mexicano (régimen positivo)
 
-- **Constitucional:** **art. 4** (medio ambiente sano) y **art. 27** (recursos naturales, propiedad
+- **Constitucional:** **art. 4 ⟳** (medio ambiente sano) y **art. 27 ⟳** (recursos naturales, propiedad
   originaria de la Nación) ⚠️.
 - **Ley marco:** **LGEEPA** (impacto ambiental, áreas protegidas, contaminación).
 - **Leyes especiales:** **LGPGIR** (residuos), **Ley de Aguas Nacionales**, **Ley General de Cambio
@@ -393,7 +396,7 @@ puede tener repercusiones comerciales y reputacionales internacionales—. ⚠�
 ## 24. Jurisprudencia relevante
 
 Líneas para estudiar y **verificar en el SJF**:
-- **Derecho a un medio ambiente sano** (art. 4) y su exigibilidad; principio de **no regresión** y de
+- **Derecho a un medio ambiente sano** (art. 4 ⟳) y su exigibilidad; principio de **no regresión** y de
   **precaución**.
 - **Derecho a la consulta** de comunidades y pueblos indígenas en proyectos.
 - **Responsabilidad ambiental** (LFRA): alcance y reparación del daño.
@@ -501,7 +504,7 @@ vigentes ⚠️.
 
 ## 35. Flashcards
 
-- **P:** ¿Fundamento constitucional? · **R:** **Art. 4 CPEUM** (medio ambiente sano; el daño genera
+- **P:** ¿Fundamento constitucional? · **R:** **Art. 4 CPEUM ⟳** (medio ambiente sano; el daño genera
   responsabilidad) ⚠️.
 - **P:** ¿Principio "quien contamina paga"? · **R:** El costo de la contaminación recae en quien la genera.
 - **P:** ¿Qué autoriza operar una obra que impacta el ambiente? · **R:** La **autorización de impacto
@@ -576,7 +579,7 @@ ACTIVO FÍSICO (fábrica, terreno, mina)
 ## 40. Resumen ejecutivo
 
 El derecho ambiental regula la relación entre la actividad económica y el **medio ambiente** (fundamento:
-art. 4 CPEUM ⚠️; ley marco: **LGEEPA**), guiado por principios (**prevención, precaución, "quien contamina
+art. 4 CPEUM ⚠️ ⟳; ley marco: **LGEEPA**), guiado por principios (**prevención, precaución, "quien contamina
 paga", desarrollo sustentable**). Para operar, la empresa necesita **autorizaciones** (impacto ambiental/
 MIA, licencias, descargas, residuos peligrosos) y debe respetar **NOMs**; la **PROFEPA** inspecciona y
 sanciona (multa, clausura, remediación). La **LFRA** regula la **responsabilidad por daño ambiental** (que
@@ -605,7 +608,7 @@ indemnización, escrow, remediación).
 - **Documentos de Río 1992, Brundtland y Acuerdo de París.** Para los principios y el marco internacional.
 - **Literatura sobre CERCLA/Superfund y ESG.** Para entender el pasivo ambiental y las finanzas
   sostenibles.
-- **Textos vigentes (obligatorio):** **CPEUM art. 4 y 27**, **LGEEPA**, **LFRA**, **LGPGIR**, Ley de Aguas
+- **Textos vigentes (obligatorio):** **CPEUM art. 4 y 27 ⟳**, **LGEEPA**, **LFRA**, **LGPGIR**, Ley de Aguas
   Nacionales, **LGCC** y NOMs, en el **DOF**; criterios en el **SJF**. ⚠️ *Verificar vigencia y límites.*
 
 ## 43. Ruta hacia el siguiente libro

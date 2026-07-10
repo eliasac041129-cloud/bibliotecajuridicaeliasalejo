@@ -1,5 +1,8 @@
 # [Nivel II · Libro 2] Contratos Civiles en Particular
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > La parte general del contrato (Nivel I) te dio la **gramática**; aquí aprendes el
 > **vocabulario vivo**: los contratos típicos que son la materia prima de toda operación. La
 > **compraventa** es la matriz del *Share Purchase Agreement*; el **mutuo**, la base del
@@ -191,24 +194,24 @@ el puente: del contrato civil típico al contrato corporativo.
 
 ## 11. Definiciones legales (CCF — verificar versión vigente y código local)
 
-- **Compraventa — art. 2248:** "Habrá compraventa cuando uno de los contratantes se obliga a
+- **Compraventa — art. 2248 ⟳:** "Habrá compraventa cuando uno de los contratantes se obliga a
   transferir la propiedad de una cosa o de un derecho, y el otro a su vez se obliga a pagar por
   ellos un precio cierto y en dinero."
-- **Transmisión de propiedad — art. 2014:** la propiedad de cosa **cierta y determinada** se
+- **Transmisión de propiedad — art. 2014 ⟳:** la propiedad de cosa **cierta y determinada** se
   transmite por **mero efecto del contrato** (consensualismo), sin dependencia de la entrega
   (salvo pacto o casos especiales). **Oponibilidad** frente a terceros: inscripción (inmuebles).
-- **Saneamiento por evicción — arts. 2119 y ss.** y **por vicios ocultos — arts. 2142 y ss.**
-- **Mutuo — art. 2384:** "El mutuo es un contrato por el cual el mutuante se obliga a transferir
+- **Saneamiento por evicción — arts. 2119 ⟳ y ss.** y **por vicios ocultos — arts. 2142 ⟳ y ss.**
+- **Mutuo — art. 2384 ⟳:** "El mutuo es un contrato por el cual el mutuante se obliga a transferir
   la propiedad de una suma de dinero o de otras cosas fungibles al mutuatario, quien se obliga a
-  devolver otro tanto de la misma especie y calidad." **Interés — arts. 2393-2397.**
-- **Mandato — art. 2546:** "El mandato es un contrato por el que el mandatario se obliga a ejecutar
+  devolver otro tanto de la misma especie y calidad." **Interés — arts. 2393-2397 ⟳.**
+- **Mandato — art. 2546 ⟳:** "El mandato es un contrato por el que el mandatario se obliga a ejecutar
   por cuenta del mandante los actos jurídicos que éste le encarga." **Poderes y representación —
-  arts. 2554 y ss.** (la célebre redacción de los poderes para **pleitos y cobranzas**, **actos de
+  arts. 2554 ⟳ y ss.** (la célebre redacción de los poderes para **pleitos y cobranzas**, **actos de
   administración** y **actos de dominio**).
-- **Fianza — art. 2794:** "La fianza es un contrato por el cual una persona se compromete con el
+- **Fianza — art. 2794 ⟳:** "La fianza es un contrato por el cual una persona se compromete con el
   acreedor a pagar por el deudor, si éste no lo hace." **Beneficios de orden y excusión — arts.
-  2814 y ss.**
-- **Arrendamiento — art. 2398;** **prenda — art. 2856; hipoteca — art. 2893** (vistos en Bienes,
+  2814 ⟳ y ss.**
+- **Arrendamiento — art. 2398 ⟳;** **prenda — art. 2856 ⟳; hipoteca — art. 2893 ⟳** (vistos en Bienes,
   Libro 6).
 
 ## 12. Definición sencilla
@@ -237,14 +240,14 @@ el puente: del contrato civil típico al contrato corporativo.
 - **Mutuo simple vs. con interés:** con interés se paga un **rédito**; el **interés legal** y el
   **convencional** tienen límites (usura). **Interés ordinario** (precio del dinero) vs.
   **moratorio** (sanción del retraso).
-- **Usura:** interés **excesivo**; sujeto a moderación judicial de oficio (SCJN, art. 21.3 CADH —
+- **Usura:** interés **excesivo**; sujeto a moderación judicial de oficio (SCJN, art. 21 ⟳.3 CADH —
   visto en el Libro 1).
 - **Mandato con/sin representación:** **con** representación, los efectos recaen **directamente** en
   el mandante (actúa "en su nombre"); **sin** representación, el mandatario se obliga frente al
   tercero y luego traslada los efectos al mandante. Crucial para entender la **comisión mercantil**
   y los vehículos de adquisición.
 - **Poder (apoderamiento):** acto unilateral que **faculta** a otro para representar; el art. 2554
-  CCF gradúa los **tres grandes poderes**: (i) **pleitos y cobranzas** (litigio), (ii) **actos de
+  CCF ⟳ gradúa los **tres grandes poderes**: (i) **pleitos y cobranzas** (litigio), (ii) **actos de
   administración** (operar) y (iii) **actos de dominio** (disponer/gravar). **Auditar facultades =
   verificar qué poder tiene quien firma.**
 - **Beneficios de orden y excusión (fianza):** el **orden** exige al acreedor demandar primero al
@@ -252,9 +255,9 @@ el puente: del contrato civil típico al contrato corporativo.
   Suelen **renunciarse** en las fianzas comerciales, convirtiendo al fiador en obligado casi
   solidario.
 - **Accesoriedad de la fianza:** sigue la suerte del crédito principal (si se extingue o nova el
-  principal, la fianza se afecta — conexión con el art. 2220 del Libro 1).
+  principal, la fianza se afecta — conexión con el art. 2220 ⟳ del Libro 1).
 - **Contrato de transacción:** acuerdo por el que las partes, **haciéndose concesiones recíprocas**,
-  evitan o terminan un litigio (art. 2944 CCF). Tiene fuerza de **cosa juzgada** entre las partes;
+  evitan o terminan un litigio (art. 2944 CCF ⟳). Tiene fuerza de **cosa juzgada** entre las partes;
   herramienta clave para cerrar disputas (y *claims* post-closing en M&A).
 - **Permuta, donación, depósito, comodato:** intercambio de cosa por cosa; transmisión gratuita;
   guarda de cosa ajena; préstamo de uso gratuito, respectivamente.
@@ -271,7 +274,7 @@ hipoteca—; y (E) otros relevantes. En cada uno: régimen, puntos finos y **con
 **Naturaleza y elementos.** Es bilateral, oneroso, conmutativo y **traslativo de dominio**. Tres
 elementos esenciales: (i) **consentimiento** sobre cosa y precio; (ii) **cosa** (existente o
 futura, en el comercio, determinada o determinable); (iii) **precio** (cierto y **en dinero**;
-si es en especie, es permuta). En México rige el **consensualismo** (art. 2014): la propiedad de
+si es en especie, es permuta). En México rige el **consensualismo** (art. 2014 ⟳): la propiedad de
 cosa cierta se transmite **por el solo consentimiento**, aunque no se haya entregado ni pagado
 (salvo pacto en contrario). La **oponibilidad** a terceros, en inmuebles, requiere **escritura
 pública e inscripción** en el Registro Público de la Propiedad.
@@ -284,12 +287,12 @@ corporativo—.
 la cosa; (3) pagar intereses si se pactó precio a plazo.
 
 **El saneamiento (la raíz de las *reps & warranties*).**
-- **Por evicción (arts. 2119 y ss.):** si el comprador es **privado** de la cosa (total o
+- **Por evicción (arts. 2119 ⟳ y ss.):** si el comprador es **privado** de la cosa (total o
   parcialmente) por sentencia firme que reconoce el mejor derecho de un tercero, el vendedor
   responde: debe devolver el precio, gastos, e incluso daños si hubo mala fe. *Traducción
   corporativa:* la **title warranty** del SPA (el vendedor declara que **es dueño** de las acciones
   y que están **libres de gravámenes**) es saneamiento por evicción contractualizado.
-- **Por vicios ocultos (arts. 2142 y ss.):** defectos **ocultos** que hacen la cosa impropia para
+- **Por vicios ocultos (arts. 2142 ⟳ y ss.):** defectos **ocultos** que hacen la cosa impropia para
   su uso o disminuyen su valor. El comprador puede: **rescindir** (acción redhibitoria) o pedir
   **reducción del precio** (acción quanti minoris). *Traducción corporativa:* las *reps* sobre el
   **estado del negocio** (pasivos, contingencias, cumplimiento) + la **indemnización** son
@@ -312,18 +315,18 @@ responsabilidad. Negociar un SPA es negociar un saneamiento sofisticado."*
 
 **Naturaleza.** Préstamo de **consumo**: el mutuante **transfiere la propiedad** de dinero o cosas
 **fungibles**, y el mutuatario debe **devolver otro tanto** de la misma especie y calidad (art.
-2384). Por ser fungibles, el mutuatario se hace **dueño** (puede consumirlas) — a diferencia del
+2384 ⟳). Por ser fungibles, el mutuatario se hace **dueño** (puede consumirlas) — a diferencia del
 **comodato**, préstamo de **uso** de cosa no fungible que debe devolverse **idéntica**.
 
 **Mutuo simple vs. con interés.** El **interés** es el precio del dinero en el tiempo (Libro 10,
 Nivel I). Distingue:
 - **Interés ordinario:** rédito por el uso del capital durante el plazo.
 - **Interés moratorio:** sanción por el retraso (corre desde la mora — Libro 1, Nivel II).
-- **Interés legal vs. convencional** (arts. 2393-2395): el legal suple cuando no se pacta; el
+- **Interés legal vs. convencional** (arts. 2393-2395 ⟳): el legal suple cuando no se pacta; el
   convencional lo fijan las partes, **con límite en la usura**.
 
 **El control de la usura (decisivo).** El interés convencional **no puede ser excesivo**. La SCJN
-(Primera Sala, a la luz del art. 21.3 CADH) facultó a los jueces para **analizar de oficio** y
+(Primera Sala, a la luz del art. 21 ⟳.3 CADH) facultó a los jueces para **analizar de oficio** y
 **reducir** prudencialmente los intereses notoriamente usurarios. *Práctica:* pactar tasas
 documentadas, de mercado y proporcionales; en lo mercantil/bancario, observar las reglas
 específicas (LGTOC, leyes financieras).
@@ -345,7 +348,7 @@ masivo y garantizado.
 
 **Mandato vs. poder vs. representación.** Tres nociones que conviene separar:
 - **Mandato:** el **contrato** por el que el mandatario se obliga a ejecutar actos jurídicos por
-  cuenta del mandante (relación interna, art. 2546).
+  cuenta del mandante (relación interna, art. 2546 ⟳).
 - **Poder (apoderamiento):** el **acto unilateral** por el que se **faculta** a otro para
   representar (la cara externa, frente a terceros).
 - **Representación:** el **efecto** de que lo actuado por el representante recaiga en la esfera del
@@ -357,14 +360,14 @@ en **nombre propio**; se obliga frente al tercero y luego traslada los efectos a
 la **comisión mercantil** y de ciertos vehículos de adquisición donde se actúa por cuenta de otro
 sin revelarlo).
 
-**Los tres grandes poderes (art. 2554 CCF).** La redacción de los poderes en México se estructura
+**Los tres grandes poderes (art. 2554 CCF ⟳).** La redacción de los poderes en México se estructura
 en tres niveles, de menor a mayor amplitud:
 1. **Pleitos y cobranzas:** para litigar y cobrar (representación procesal).
 2. **Actos de administración:** para **operar** el patrimonio (contratar en el giro ordinario,
    arrendar, contratar empleados).
 3. **Actos de dominio:** para **disponer y gravar** (vender, hipotecar, prendar) — el poder más
    amplio.
-Además, se otorgan **poderes especiales** (para suscribir títulos de crédito —art. 9 LGTOC—, para
+Además, se otorgan **poderes especiales** (para suscribir títulos de crédito —art. 9 LGTOC ⟳—, para
 actos específicos). *Regla de oro:* un apoderado **solo puede lo que su poder le faculta**; un
 poder de administración **no** alcanza para vender o gravar.
 
@@ -388,10 +391,10 @@ fideicomiso) afectan **bienes concretos** con persecución y preferencia. El fin
 combina ambas.
 
 **La fianza (garantía personal).** Contrato por el que el fiador se obliga a **pagar por el
-deudor** si este no lo hace (art. 2794). Notas clave:
+deudor** si este no lo hace (art. 2794 ⟳). Notas clave:
 - **Accesoriedad:** sigue la suerte del crédito principal (si se extingue o se nova sin reserva, la
-  fianza se afecta — art. 2220, Libro 1).
-- **Beneficios de orden y excusión (arts. 2814 y ss.):** el fiador puede exigir que se demande y se
+  fianza se afecta — art. 2220 ⟳, Libro 1).
+- **Beneficios de orden y excusión (arts. 2814 ⟳ y ss.):** el fiador puede exigir que se demande y se
   persigan **primero** los bienes del deudor. **En la práctica comercial se renuncian**,
   convirtiendo al fiador en obligado **casi solidario** (de cobro inmediato).
 - **Fianza de empresa (afianzadora):** versión mercantil/financiera, regulada y onerosa
@@ -417,16 +420,16 @@ preferido en financiamientos estructurados.
 
 ### 14.E · Otros contratos relevantes (en clave corporativa)
 
-- **Arrendamiento (arts. 2398 y ss.):** uso/goce temporal por renta. Evoluciona al **arrendamiento
+- **Arrendamiento (arts. 2398 ⟳ y ss.):** uso/goce temporal por renta. Evoluciona al **arrendamiento
   financiero (leasing)** mercantil. Cláusulas clave: plazo, renta, mejoras, terminación,
   *change of control*.
-- **Permuta (art. 2327):** cosa por cosa; se rige por reglas de la compraventa. Base de las
+- **Permuta (art. 2327 ⟳):** cosa por cosa; se rige por reglas de la compraventa. Base de las
   operaciones de **canje de acciones** (*stock-for-stock*).
-- **Donación (arts. 2332 y ss.):** transmisión **gratuita**; relevante en **planeación
+- **Donación (arts. 2332 ⟳ y ss.):** transmisión **gratuita**; relevante en **planeación
   patrimonial** y empresa familiar (donación de acciones, anticipos de herencia).
 - **Depósito y comodato:** guarda de cosa ajena / préstamo de uso gratuito; el depósito mercantil y
   el de valores tienen reglas propias.
-- **Transacción (arts. 2944 y ss.):** concesiones recíprocas para evitar/terminar un litigio; tiene
+- **Transacción (arts. 2944 ⟳ y ss.):** concesiones recíprocas para evitar/terminar un litigio; tiene
   fuerza de **cosa juzgada**. *Conexión:* los *settlement agreements* y la resolución de *claims*
   post-closing son transacciones.
 
@@ -452,7 +455,7 @@ dominio, y **garantizada** con prenda sobre las acciones e hipoteca sobre los in
 ## 16. Ejemplos simples
 
 1. **Compraventa con consensualismo.** A vende a B su automóvil; acuerdan cosa y precio. Aunque B
-   no haya pagado ni recibido el coche, **la propiedad ya es de B** (art. 2014), salvo pacto en
+   no haya pagado ni recibido el coche, **la propiedad ya es de B** (art. 2014 ⟳), salvo pacto en
    contrario. Si un tercero choca el coche, el riesgo lo corre B (es dueño).
 2. **Saneamiento por vicios ocultos.** B compra una maquinaria que, semanas después, resulta tener
    un defecto de fábrica oculto que la inutiliza. B puede **rescindir** (devolver y recuperar el
@@ -483,7 +486,7 @@ dominio, y **garantizada** con prenda sobre las acciones e hipoteca sobre los in
    saneamiento). Si el SPA limita con un *cap*, la recuperación se topa ahí.
 4. **Fianza y novación que la libera.** Un fiador garantizó un crédito de $5M. El acreedor y el
    deudor **novan** el crédito (nuevo monto y plazo) **sin** que el fiador consienta. La fianza, por
-   accesoria, se **extingue** (art. 2220 + 2220-2221): el fiador queda liberado. *Lección:* todo
+   accesoria, se **extingue** (art. 2220 ⟳ + 2220-2221): el fiador queda liberado. *Lección:* todo
    garante debe **ratificar** cualquier novación.
 
 ## 18. Casos reales (jurisprudencia y operaciones estilizadas)
@@ -493,10 +496,10 @@ dominio, y **garantizada** con prenda sobre las acciones e hipoteca sobre los in
   y perjuicios; el comprador debe **denunciar el pleito** al vendedor (llamarlo a juicio) para
   conservar la acción.
 - **Usura en mutuos (SCJN):** análisis oficioso y reducción de intereses excesivos (línea de la
-  Primera Sala, art. 21.3 CADH) — aplica a mutuos civiles y, con sus reglas, a operaciones de
+  Primera Sala, art. 21 ⟳.3 CADH) — aplica a mutuos civiles y, con sus reglas, a operaciones de
   crédito.
 - **Poderes y suscripción de títulos:** la jurisprudencia exige **poder especial** (o cláusula
-  expresa, art. 9 LGTOC) para suscribir títulos de crédito a nombre de otro; un poder general de
+  expresa, art. 9 LGTOC ⟳) para suscribir títulos de crédito a nombre de otro; un poder general de
   administración **no** basta.
 
 > *Nota de método (Manifiesto XI.5):* verificar la vigencia de los criterios en el Semanario
@@ -546,9 +549,9 @@ dominio, y **garantizada** con prenda sobre las acciones e hipoteca sobre los in
 
 | Sistema | Rasgos en los contratos típicos clave |
 |---|---|
-| **México** | Consensualismo en compraventa (art. 2014); saneamiento por evicción y vicios; mutuo con control de usura; poderes graduados (art. 2554); fianza con beneficios renunciables. |
+| **México** | Consensualismo en compraventa (art. 2014 ⟳); saneamiento por evicción y vicios; mutuo con control de usura; poderes graduados (art. 2554 ⟳); fianza con beneficios renunciables. |
 | **España** | Compraventa con **teoría del título y el modo** (contrato + entrega/*traditio* para transmitir); saneamiento similar; mandato y fianza afines. |
-| **Estados Unidos** | Venta de bienes muebles regida por el **UCC Art. 2** (*warranties* expresas e implícitas —*merchantability*, *fitness*—, base directa de las *reps & warranties*); *agency law* para mandato; *secured transactions* (UCC Art. 9) para garantías. |
+| **Estados Unidos** | Venta de bienes muebles regida por el **UCC Art. 2 ⟳** (*warranties* expresas e implícitas —*merchantability*, *fitness*—, base directa de las *reps & warranties*); *agency law* para mandato; *secured transactions* (UCC Art. 9 ⟳) para garantías. |
 | **Delaware** | *Contract law* estatal con amplia libertad; en M&A, las *reps & warranties* y la indemnización se rigen por el acuerdo y la jurisprudencia de la Court of Chancery. |
 | **Unión Europea** | Diversidad: el **BGB** alemán mantiene título/modo y *abstracción*; Francia (Code reformado 2016) modernizó compraventa y garantías; directivas de protección al consumidor armonizan ventas B2C. |
 | **UNIDROIT** | Principios sobre contratos comerciales internacionales: reglas supletorias de cumplimiento, conformidad y remedios; muy usados en compraventa y suministro internacionales. |
@@ -565,7 +568,7 @@ dominio, y **garantizada** con prenda sobre las acciones e hipoteca sobre los in
 ## 23. Derecho mexicano
 
 Régimen en el CCF, Libro Cuarto, 2ª parte (verificar versión vigente y código local):
-- **Compraventa:** arts. 2248-2326 (elementos, modalidades, obligaciones); transmisión: 2014;
+- **Compraventa:** arts. 2248-2326 ⟳ (elementos, modalidades, obligaciones); transmisión: 2014;
   saneamiento por evicción 2119-2141; por vicios ocultos 2142-2162; reserva de dominio 2310-2312.
 - **Permuta:** 2327-2331. **Donación:** 2332-2383.
 - **Mutuo:** 2384-2397 (interés 2393-2397). **Comodato:** 2497-2515. **Depósito:** 2516-2545.
@@ -585,7 +588,7 @@ Régimen en el CCF, Libro Cuarto, 2ª parte (verificar versión vigente y códig
   probar el carácter **oculto** y **anterior** del vicio.
 - **Usura en mutuo:** análisis oficioso y reducción (SCJN, Primera Sala).
 - **Poderes:** insuficiencia del poder de administración para actos de **dominio** y para
-  **suscribir títulos** (se requiere poder/cláusula especial, art. 9 LGTOC).
+  **suscribir títulos** (se requiere poder/cláusula especial, art. 9 LGTOC ⟳).
 - **Fianza:** efecto liberatorio para el fiador de la **novación** o **prórroga** concedida al
   deudor sin su consentimiento.
 
@@ -597,7 +600,7 @@ Régimen en el CCF, Libro Cuarto, 2ª parte (verificar versión vigente y códig
   (en conexión con la LFPC).
 - **Buena fe e interpretación contractual:** criterios sobre la prevalencia de la intención común y
   la integración por buena fe.
-- **Lesión:** estándar subjetivo-objetivo (art. 17 CCF) aplicado a compraventas notoriamente
+- **Lesión:** estándar subjetivo-objetivo (art. 17 CCF ⟳) aplicado a compraventas notoriamente
   desproporcionadas con explotación.
 
 ## 26. Doctrina nacional
@@ -616,11 +619,11 @@ Régimen en el CCF, Libro Cuarto, 2ª parte (verificar versión vigente y códig
   internacional.
 - **Treitel / Peel, *The Law of Contract*** — *warranties*, *guarantee* vs. *indemnity* en el
   common law.
-- **Farnsworth, *Contracts*; UCC (Art. 2 y 9)** — venta de bienes y garantías en EE. UU.
+- **Farnsworth, *Contracts*; UCC (Art. 2 y 9 ⟳)** — venta de bienes y garantías en EE. UU.
 
 ## 28. Opiniones críticas (postura del Consejo)
 
-1. **El consensualismo mexicano (art. 2014) genera riesgos de "doble venta".** Que la propiedad pase
+1. **El consensualismo mexicano (art. 2014 ⟳) genera riesgos de "doble venta".** Que la propiedad pase
    sin entrega ni registro facilita el tráfico pero crea inseguridad frente a terceros; el Consejo
    subraya la importancia del **registro** (inmuebles) y de pactar entrega y reserva de dominio para
    proteger al vendedor a plazo.
@@ -654,9 +657,9 @@ Régimen en el CCF, Libro Cuarto, 2ª parte (verificar versión vigente y códig
   produce un acto **ineficaz**.
 - **Olvidar que la propiedad ya pasó (consensualismo).** Creer que sin entrega/pago no hay
   transmisión: en cosa cierta, la propiedad —y el **riesgo**— pasan por el solo contrato (art.
-  2014), salvo pacto.
+  2014 ⟳), salvo pacto.
 - **Novar el crédito sin que el fiador/garante consienta.** Libera al garante (accesoriedad +
-  art. 2220).
+  art. 2220 ⟳).
 - **No denunciar el pleito al vendedor** en un caso de evicción: puede perderse la acción de
   saneamiento.
 - **Pactar intereses sin atender la usura:** riesgo de moderación judicial.
@@ -680,7 +683,7 @@ Régimen en el CCF, Libro Cuarto, 2ª parte (verificar versión vigente y códig
 
 ## 32. Preguntas difíciles
 
-1. Si la propiedad pasa por el solo consentimiento (art. 2014), ¿quién soporta el riesgo de pérdida
+1. Si la propiedad pasa por el solo consentimiento (art. 2014 ⟳), ¿quién soporta el riesgo de pérdida
    de la cosa entre el contrato y la entrega? ¿Cómo se reparte contractualmente en un SPA
    (signing/closing)?
 2. ¿Puede una **garantía a primera demanda** (autónoma) sobrevivir en derecho mexicano sin volverse
@@ -695,7 +698,7 @@ Régimen en el CCF, Libro Cuarto, 2ª parte (verificar versión vigente y códig
 ## 33. Casos de examen (con respuesta modelo)
 
 **P1.** *¿Qué transmite la compraventa en México y desde cuándo?* **R.** La **propiedad** de cosa
-cierta y determinada, **desde el solo consentimiento** (art. 2014), sin necesidad de entrega o
+cierta y determinada, **desde el solo consentimiento** (art. 2014 ⟳), sin necesidad de entrega o
 pago, salvo pacto; frente a terceros, la oponibilidad de inmuebles requiere inscripción.
 
 **P2.** *Explique el saneamiento por evicción y por vicios ocultos.* **R.** Evicción: el vendedor
@@ -704,10 +707,10 @@ responde por defectos ocultos que la hacen impropia o disminuyen su valor; el co
 acción **redhibitoria** (rescindir) o **quanti minoris** (reducir el precio).
 
 **P3.** *¿Qué facultad necesita un apoderado para vender un inmueble de la sociedad?* **R.** Poder
-para **actos de dominio** (art. 2554); el de administración no basta.
+para **actos de dominio** (art. 2554 ⟳); el de administración no basta.
 
 **P4.** *¿Qué efecto tiene sobre la fianza la novación del crédito principal sin consentimiento del
-fiador?* **R.** La **extingue** (accesoriedad; arts. 2220-2221): el fiador queda liberado salvo que
+fiador?* **R.** La **extingue** (accesoriedad; arts. 2220-2221 ⟳): el fiador queda liberado salvo que
 consienta.
 
 **P5.** *Diferencie mutuo y comodato.* **R.** Mutuo: préstamo de **consumo** de cosas fungibles; se
@@ -737,12 +740,12 @@ acciones + garantía corporativa.)*
 ## 35. Flashcards
 
 - **¿Elementos de la compraventa?** → Consentimiento, cosa, **precio cierto y en dinero**.
-- **¿Desde cuándo se transmite la propiedad (cosa cierta)?** → Desde el consentimiento (art. 2014).
+- **¿Desde cuándo se transmite la propiedad (cosa cierta)?** → Desde el consentimiento (art. 2014 ⟳).
 - **¿Saneamiento por evicción?** → Responder si un tercero priva de la cosa por mejor derecho.
 - **¿Acciones por vicios ocultos?** → Redhibitoria (rescindir) y quanti minoris (reducir precio).
 - **¿Mutuo vs. comodato?** → Consumo (devuelve otro tanto) vs. uso (devuelve la misma cosa).
 - **¿Límite del interés?** → La usura (moderación judicial, SCJN/CADH).
-- **¿Tres poderes del art. 2554?** → Pleitos y cobranzas, administración, dominio.
+- **¿Tres poderes del art. 2554 ⟳?** → Pleitos y cobranzas, administración, dominio.
 - **¿Mandato con vs. sin representación?** → Efectos directos en el mandante vs. el mandatario se
   obliga y luego traslada.
 - **¿Beneficios de la fianza?** → Orden y excusión (renunciables).
@@ -792,7 +795,7 @@ CONTRATOS CIVILES EN PARTICULAR
 | Vicios | Defectos ocultos | Reps sobre estado del negocio |
 | Remedio | Rescindir / reducir precio / daños | Indemnización (con cap/basket) |
 
-**Los tres poderes (art. 2554)**
+**Los tres poderes (art. 2554 ⟳)**
 
 | Poder | Alcance | Ejemplo |
 |---|---|---|
@@ -836,18 +839,18 @@ SHARE PURCHASE AGREEMENT
 - **Mutuo vs. comodato:** *"Mutuo se consume y se paga otro tanto; comodato se usa y se devuelve
   igualito"*.
 - **Fianza:** *"orden y excusión... salvo que renuncies (y entonces pagas tú, ya)"*.
-- **Consensualismo:** *"en cosa cierta, el 'sí' ya transmite (art. 2014)"*.
+- **Consensualismo:** *"en cosa cierta, el 'sí' ya transmite (art. 2014 ⟳)"*.
 
 
 ## 40. Resumen ejecutivo
 
 Los contratos civiles típicos son las **plantillas de obligaciones** con las que se arma toda
 operación. La **compraventa** —cosa, precio cierto y en dinero, consentimiento— es la más
-importante: en México transmite la propiedad por **consensualismo** (art. 2014) y trae de fábrica
+importante: en México transmite la propiedad por **consensualismo** (art. 2014 ⟳) y trae de fábrica
 el **saneamiento** (por **evicción** y por **vicios ocultos**), que es el ancestro directo de las
 **representations & warranties** y de la **indemnización** de un SPA. El **mutuo** es la base del
 **crédito**: entrega de capital a devolver con interés, limitado por la **usura**; evoluciona al
-crédito bancario y al *acquisition finance*. El **mandato** y los **poderes** (art. 2554: pleitos y
+crédito bancario y al *acquisition finance*. El **mandato** y los **poderes** (art. 2554 ⟳: pleitos y
 cobranzas, administración y **dominio**) son la raíz de la **representación** corporativa: auditar
 facultades —que quien firma tenga poder de **dominio** y, en su caso, para suscribir títulos— es de
 las verificaciones más críticas de la práctica. Las **garantías** —**fianza** (personal, accesoria,

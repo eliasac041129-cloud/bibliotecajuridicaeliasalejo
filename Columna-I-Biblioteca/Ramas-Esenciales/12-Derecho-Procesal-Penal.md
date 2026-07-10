@@ -1,5 +1,8 @@
 # [Ramas Esenciales · Libro 12] Derecho Procesal Penal
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > El derecho penal (Libro 6) dice **qué es delito y qué pena merece**; el **derecho procesal penal** dice
 > **cómo se prueba, se juzga y se castiga** —o se absuelve— a una persona, con las garantías más intensas
 > de todo el sistema, porque lo que está en juego es la **libertad**. Desde 2016 México vive bajo un
@@ -17,7 +20,7 @@ proceso acusatorio → las medidas cautelares y la prisión preventiva → las s
 terminación anticipada → la prueba, los recursos, el amparo y la ejecución penal.*
 
 > **⚠️ AVISO DE VERIFICACIÓN. Contenido a fecha: 2026-07.** El proceso penal se rige por el **Código
-> Nacional de Procedimientos Penales (CNPP)** y por los arts. 16, 17, 19, 20 y 21 de la Constitución. Los
+> Nacional de Procedimientos Penales (CNPP)** y por los arts. 16, 17, 19, 20 y 21 de la ⟳ Constitución. Los
 > **plazos** (p. ej. control de detención, plazo para la vinculación a proceso), los **catálogos de
 > prisión preventiva oficiosa** y los artículos **cambian con reformas**. Siguiendo el
 > [Protocolo de Verificación](../../PROTOCOLO_DE_VERIFICACION.md), este tratado enseña la **lógica y la
@@ -77,7 +80,7 @@ compliance previene; aquí ves **cómo se defiende** a la persona física (el di
 
 Al terminar, el lector será capaz de:
 
-- **Dominar los principios y garantías** del proceso penal (art. 20 CPEUM ⚠️): presunción de inocencia,
+- **Dominar los principios y garantías** del proceso penal (art. 20 CPEUM ⚠️ ⟳): presunción de inocencia,
   contradicción, inmediación, publicidad, concentración, continuidad e igualdad.
 - **Identificar a los sujetos**: **Ministerio Público** y policía, **imputado** y **defensa**, **víctima u
   ofendido** y su **asesor jurídico**, **juez de control**, **tribunal de enjuiciamiento** y **juez de
@@ -122,12 +125,12 @@ inquisitiva**, hasta la gran ruptura de 2008-2016. ⚠️ *Verificar referencias
 
 En **México**, la transformación es reciente y radical (✅ verificado 2026-07, ver Libro 06 y Protocolo §V):
 1. **Reforma constitucional del 18 de junio de 2008:** ordenó la transición al **sistema penal acusatorio**
-   (arts. 16-22 CPEUM), con un plazo máximo de **ocho años** para su implementación.
+   (arts. 16-22 CPEUM ⟳), con un plazo máximo de **ocho años** para su implementación.
 2. **CNPP (publicado en el DOF el 5 de marzo de 2014):** **unificó** el procedimiento penal en un solo
    código nacional (antes cada estado tenía el suyo), con reformas posteriores ⚠️.
 3. **Plena vigencia el 18 de junio de 2016:** el sistema acusatorio rige en **todo el país**.
 Tendencias y tensiones posteriores (⚠️ verificar estado vigente): la expansión del catálogo de **prisión
-preventiva oficiosa** (art. 19 CPEUM) y su choque con la **Corte Interamericana**; el debate sobre la
+preventiva oficiosa** (art. 19 CPEUM ⟳) y su choque con la **Corte Interamericana**; el debate sobre la
 eficacia del sistema; y la interacción con la **reforma judicial de 2024** (que cambió a los juzgadores que
 resuelven estos procesos).
 
@@ -186,15 +189,15 @@ conflicto comercial y cómo responder sin sobreactuar.
 
 ## 11. Definiciones legales
 
-- **Presunción de inocencia (art. 20-B CPEUM ⚠️):** toda persona se presume inocente hasta que se declare
+- **Presunción de inocencia (art. 20-B CPEUM ⚠️ ⟳):** toda persona se presume inocente hasta que se declare
   su responsabilidad por sentencia firme.
-- **Debido proceso y defensa adecuada (arts. 14, 20 CPEUM ⚠️):** derecho a un juicio con las formalidades
+- **Debido proceso y defensa adecuada (arts. 14, 20 CPEUM ⚠️ ⟳):** derecho a un juicio con las formalidades
   esenciales y a una defensa técnica por abogado.
-- **Detención (art. 16 CPEUM ⚠️):** solo por **orden de aprehensión** de juez, en **flagrancia** o en
+- **Detención (art. 16 CPEUM ⚠️ ⟳):** solo por **orden de aprehensión** de juez, en **flagrancia** o en
   **caso urgente**; toda detención se somete a **control judicial**.
-- **Prisión preventiva (art. 19 CPEUM ⚠️):** medida cautelar; **justificada** (a petición del MP, si otras
+- **Prisión preventiva (art. 19 CPEUM ⚠️ ⟳):** medida cautelar; **justificada** (a petición del MP, si otras
   medidas no bastan) u **oficiosa** (obligatoria para un **catálogo** de delitos que fija la Constitución).
-- **Auto de vinculación a proceso (art. 19 CPEUM ⚠️):** resolución del juez de control que, con datos de
+- **Auto de vinculación a proceso (art. 19 CPEUM ⚠️ ⟳):** resolución del juez de control que, con datos de
   prueba suficientes, sujeta al imputado al proceso.
 
 ## 12. Definición sencilla
@@ -234,7 +237,7 @@ se decide si es culpable.**
 
 ## 14. Desarrollo absoluto (núcleo doctrinal)
 
-### 14.1 Principios y garantías (art. 20 CPEUM ⚠️)
+### 14.1 Principios y garantías (art. 20 CPEUM ⚠️ ⟳)
 
 El proceso acusatorio se rige por principios que son, a la vez, garantías: **publicidad** (audiencias
 abiertas), **contradicción** (cada parte controvierte lo del otro), **concentración** y **continuidad** (el
@@ -253,7 +256,7 @@ El diseño acusatorio **separa funciones** para garantizar imparcialidad: el **M
 la reparación). Y el **imputado** tiene **defensa técnica** obligatoria desde la detención. *La separación
 juez de control / tribunal de juicio es clave: el que decide la condena no vio la investigación.*
 
-### 14.3 La detención y su control (art. 16 CPEUM ⚠️)
+### 14.3 La detención y su control (art. 16 CPEUM ⚠️ ⟳)
 
 Nadie puede ser detenido salvo: (a) **orden de aprehensión** librada por un juez a petición del MP; (b)
 **flagrancia** (en el momento del delito o inmediatamente después); o (c) **caso urgente** (delito grave,
@@ -280,7 +283,7 @@ obtenida. *La legalidad de la detención es el primer campo de batalla de la def
 *El plazo constitucional para resolver la vinculación (72 horas, prorrogable a 144 ⚠️) y los tiempos de
 cada etapa son datos duros a verificar.*
 
-### 14.5 Medidas cautelares y prisión preventiva (art. 19 CPEUM ⚠️)
+### 14.5 Medidas cautelares y prisión preventiva (art. 19 CPEUM ⚠️ ⟳)
 
 Las **medidas cautelares** aseguran que el imputado no se sustraiga, no obstaculice la investigación ni sea
 un riesgo: van de la **presentación periódica**, la **garantía económica** o la **prohibición de salir del
@@ -334,7 +337,7 @@ reloj.*
 
 1. **Detención ilegal.** Detienen a alguien sin flagrancia, sin orden y sin caso urgente → en el **control
    de detención** el juez la declara ilegal ⚠️, con efectos sobre la prueba.
-2. **Prisión preventiva oficiosa.** El delito imputado está en el **catálogo** del art. 19 → la prisión es
+2. **Prisión preventiva oficiosa.** El delito imputado está en el **catálogo** del art. 19 ⟳ → la prisión es
    obligatoria mientras dura el proceso ⚠️ (aunque haya presunción de inocencia).
 3. **Prueba ilícita.** El MP obtiene una confesión sin defensor o sin advertir derechos → **se excluye**.
 
@@ -537,7 +540,7 @@ salidas. Regla: **la defensa se gana en las primeras 48-72 horas.**
 > carpeta); (b) la **teoría del caso** defensiva; (c) cómo proteges a la **persona moral** (compliance como
 > defensa, Libro 06); (d) la coordinación con las contingencias **fiscal y regulatoria**; y (e) cuándo
 > considerarías una **salida** (acuerdo/abreviado). Marca ⚠️ lo que debas verificar (CNPP, catálogo del
-> art. 19).
+> art. 19 ⟳).
 
 ## 35. Flashcards
 
@@ -547,9 +550,9 @@ salidas. Regla: **la defensa se gana en las primeras 48-72 horas.**
   **ejecución**.
 - **P:** ¿Etapas del proceso? · **R:** Investigación (inicial/complementaria) → intermedia → juicio oral →
   ejecución.
-- **P:** ¿Formas de detención (art. 16)? · **R:** Orden de aprehensión, flagrancia, caso urgente ⚠️.
+- **P:** ¿Formas de detención (art. 16 ⟳)? · **R:** Orden de aprehensión, flagrancia, caso urgente ⚠️.
 - **P:** ¿Prisión preventiva justificada vs. oficiosa? · **R:** Justificada = la pide el MP y la concede el
-  juez; oficiosa = obligatoria para un catálogo constitucional (art. 19 ⚠️).
+  juez; oficiosa = obligatoria para un catálogo constitucional (art. 19 ⚠️ ⟳).
 - **P:** ¿Estándar para condenar? · **R:** Culpabilidad **más allá de toda duda razonable**.
 - **P:** ¿Qué es "prueba" en el acusatorio? · **R:** Solo la **desahogada en juicio** ante el tribunal
   (inmediación y contradicción).
@@ -612,7 +615,7 @@ NOTICIA DEL DELITO (denuncia/querella)
 - **Etapas — "I-I-J-E"**: **I**nvestigación · (audiencia) **I**nicial/**I**ntermedia · **J**uicio ·
   **E**jecución.
 - **Tres jueces — "Control, Juicio, Ejecución"** (el de juicio **no** vio la investigación).
-- **Detención (art. 16) — "O-F-U"**: **O**rden · **F**lagrancia · caso **U**rgente.
+- **Detención (art. 16 ⟳) — "O-F-U"**: **O**rden · **F**lagrancia · caso **U**rgente.
 - **"El caso se gana en la investigación, no en el juicio."**
 - **"Inocente hasta la sentencia; el que acusa, prueba."**
 
@@ -621,12 +624,12 @@ NOTICIA DEL DELITO (denuncia/querella)
 
 El derecho procesal penal regula **cómo** se investiga, juzga y castiga —o absuelve— a una persona, con las
 garantías más intensas del sistema porque está en juego la **libertad**. Desde 2016 rige el **sistema
-acusatorio, oral y adversarial** (CNPP; arts. 16-22 CPEUM), regido por la **presunción de inocencia** y la
+acusatorio, oral y adversarial** (CNPP; arts. 16-22 CPEUM ⟳), regido por la **presunción de inocencia** y la
 **duda razonable**, con funciones **separadas** (MP acusa, juez de control vigila, tribunal distinto juzga,
 juez de ejecución supervisa). El proceso corre por **etapas** (investigación → audiencia inicial con
 **vinculación** y **medidas cautelares** → intermedia → **juicio oral** → ejecución), con **salidas
 alternas** (acuerdos, suspensión, **abreviado**). Los puntos calientes: la legalidad de la **detención**
-(control en 48 h ⚠️) y la **prisión preventiva** (justificada u **oficiosa** por catálogo, art. 19 ⚠️ —muy
+(control en 48 h ⚠️) y la **prisión preventiva** (justificada u **oficiosa** por catálogo, art. 19 ⚠️ ⟳ —muy
 polémica—). Para el corporativo, es la materia de la **defensa white-collar** de directivos y consejeros y
 de la **responsabilidad penal de la persona moral**: y su verdad central es que **el caso se gana en la
 investigación**, no en el juicio.
@@ -651,7 +654,7 @@ investigación**, no en el juicio.
 - **Manuales de litigación oral y del sistema acusatorio** (García Ramírez, Moreno Hernández, Carbonell).
   Para la mecánica del CNPP y la técnica de juicio.
 - **Zamora Pierce, *Garantías y proceso penal*.** Clásico de las garantías (cotejar con el CNPP vigente).
-- **Textos vigentes (obligatorio):** **CPEUM arts. 16-22**, **CNPP**, **Ley Nacional de Ejecución Penal**,
+- **Textos vigentes (obligatorio):** **CPEUM arts. 16-22 ⟳**, **CNPP**, **Ley Nacional de Ejecución Penal**,
   en el **DOF**; criterios en el **SJF** y de la **Corte IDH**. ⚠️ *Nunca cites un plazo o artículo sin
   confirmarlo vigente.*
 

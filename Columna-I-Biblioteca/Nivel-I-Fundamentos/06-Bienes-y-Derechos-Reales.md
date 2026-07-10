@@ -1,5 +1,8 @@
 # [Nivel I · Libro 6] Tratado de Bienes y Derechos Reales
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Ya tenemos al sujeto (la persona) y a su herramienta creadora (el acto jurídico). Falta el
 > **objeto**: las cosas sobre las que recaen los derechos. Este libro estudia el patrimonio
 > por su lado activo —los bienes— y los **derechos reales** que permiten apropiarlos, usarlos
@@ -84,16 +87,16 @@ son los ancestros directos de la prenda e hipoteca modernas.
 En el feudalismo, la propiedad se **fragmentó** y vinculó a relaciones de poder (dominio
 directo del señor y dominio útil del vasallo): una propiedad "dividida" y cargada de
 vínculos. La modernidad —con la Revolución Francesa y el Código Napoleón— **liberó** la
-propiedad: la concibió como un derecho **individual, absoluto y exclusivo** (art. 544 del
+propiedad: la concibió como un derecho **individual, absoluto y exclusivo** (art. 544 ⟳ del
 Code: el derecho de gozar y disponer de las cosas del modo más absoluto). Es la propiedad
 liberal, base del capitalismo.
 
 ### 2.3 La función social de la propiedad
 El siglo XX matizó ese absolutismo. La idea de **función social de la propiedad** (León
 Duguit; Constitución de Weimar; y de modo pionero la **Constitución mexicana de 1917, art.
-27**) sostiene que la propiedad no es solo un derecho individual sino que debe servir
+27 ⟳**) sostiene que la propiedad no es solo un derecho individual sino que debe servir
 también al interés colectivo, lo que justifica la regulación, las modalidades y la
-expropiación por causa de utilidad pública. El art. 27 mexicano es un hito mundial:
+expropiación por causa de utilidad pública. El art. 27 ⟳ mexicano es un hito mundial:
 subordina la propiedad privada al interés público y reserva al Estado el dominio de ciertos
 recursos.
 
@@ -192,7 +195,7 @@ Clasificar no es un ejercicio escolar; cada categoría dispara **reglas distinta
 ### 5.2 La propiedad: contenido y límites
 La propiedad reúne las tres facultades romanas: **usar, disfrutar y disponer**. Pero no es
 absoluta. Tiene límites:
-- **Legales y de interés público:** la **función social** (art. 27 constitucional), las
+- **Legales y de interés público:** la **función social** (art. 27 ⟳ constitucional), las
   modalidades que dicte el interés público, las restricciones urbanísticas y ambientales.
 - **La expropiación:** el Estado puede privar de la propiedad por **causa de utilidad
   pública** mediante **indemnización** (recuerda el Libro 3).
@@ -202,7 +205,7 @@ absoluta. Tiene límites:
 Modos de adquirir la propiedad: **originarios** (sin un titular anterior que la transmita:
 ocupación, accesión, usucapión) y **derivativos** (de un titular a otro: contrato + modo,
 herencia). Recuerda del Libro 1 que en México, para bienes ciertos, el **contrato transmite
-la propiedad por el solo consentimiento** (consensualismo, art. 2014 CCF), pero su
+la propiedad por el solo consentimiento** (consensualismo, art. 2014 CCF ⟳), pero su
 **oponibilidad** frente a terceros depende de la **inscripción registral** (inmuebles) o de
 la entrega/posesión (muebles).
 
@@ -303,7 +306,7 @@ hipoteca, fideicomiso).
 
 **Propiedad absoluta vs. función social.** El debate del siglo XX (sección 2.3): la propiedad
 liberal (absoluta y exclusiva, Code 1804) frente a la propiedad como función social (Duguit,
-art. 27 mexicano). Hoy nadie sostiene la propiedad ilimitada; la discusión es **cuánta**
+art. 27 ⟳ mexicano). Hoy nadie sostiene la propiedad ilimitada; la discusión es **cuánta**
 regulación e intervención admite sin vaciar el derecho (relevante en expropiaciones,
 regulación ambiental, urbanismo).
 
@@ -333,7 +336,7 @@ clave al estructurar la transmisión de activos en un *asset deal*.
 
 ## 8. Derecho comparado
 
-- **Francia:** propiedad "absoluta" del Code (art. 544), matizada por la función social;
+- **Francia:** propiedad "absoluta" del Code (art. 544 ⟳), matizada por la función social;
   hipoteca registral; reforma de garantías (2006, 2021) que modernizó prendas y garantías
   mobiliarias.
 - **Alemania (BGB):** sistema **abstracto** de transmisión; *Hypothek* y *Grundschuld* (deuda
@@ -355,20 +358,20 @@ clave al estructurar la transmisión de activos en un *asset deal*.
 ## 9. Relación con México
 
 Régimen en el **Código Civil Federal** (Libro Segundo, "De los Bienes") y leyes especiales:
-- **Clasificación de bienes:** arts. 747 y ss. (muebles e inmuebles, corporales e
+- **Clasificación de bienes:** arts. 747 ⟳ y ss. (muebles e inmuebles, corporales e
   incorporales, etc.).
-- **Propiedad:** arts. 830 y ss.; límites y función social en el **art. 27 constitucional**.
-- **Posesión:** arts. 790 y ss.; usucapión: arts. 1135 y ss.
-- **Copropiedad:** arts. 938 y ss.; **usufructo, uso y habitación:** arts. 980 y ss.;
-  **servidumbres:** arts. 1057 y ss.
-- **Transmisión:** art. 2014 (la propiedad de cosa cierta se transmite por mero efecto del
-  contrato); oponibilidad por inscripción (arts. 3007 y ss., Registro Público).
-- **Garantías reales:** **prenda** e **hipoteca** en el CCF (arts. 2856 y ss. prenda; 2893 y
+- **Propiedad:** arts. 830 ⟳ y ss.; límites y función social en el **art. 27 ⟳ constitucional**.
+- **Posesión:** arts. 790 ⟳ y ss.; usucapión: arts. 1135 ⟳ y ss.
+- **Copropiedad:** arts. 938 ⟳ y ss.; **usufructo, uso y habitación:** arts. 980 ⟳ y ss.;
+  **servidumbres:** arts. 1057 ⟳ y ss.
+- **Transmisión:** art. 2014 ⟳ (la propiedad de cosa cierta se transmite por mero efecto del
+  contrato); oponibilidad por inscripción (arts. 3007 ⟳ y ss., Registro Público).
+- **Garantías reales:** **prenda** e **hipoteca** en el CCF (arts. 2856 ⟳ y ss. prenda; 2893 y
   ss. hipoteca); **prenda sin transmisión de posesión** y **fideicomiso de garantía** en la
-  **LGTOC** (arts. 346 y ss. y 395 y ss., reformas de 2000/2003).
+  **LGTOC** (arts. 346 ⟳ y ss. y 395 y ss., reformas de 2000/2003).
 - **Registro Único de Garantías Mobiliarias (RUG):** previsto en el **Código de Comercio**,
   publicidad electrónica de garantías sobre muebles.
-- **Recursos del Estado:** el **art. 27 constitucional** reserva a la Nación el dominio de
+- **Recursos del Estado:** el **art. 27 ⟳ constitucional** reserva a la Nación el dominio de
   recursos del subsuelo, aguas y otros, y regula la propiedad de extranjeros (zona
   restringida: franja de 100 km en fronteras y 50 km en playas, salvo vía fideicomiso).
 
@@ -429,7 +432,7 @@ Régimen en el **Código Civil Federal** (Libro Segundo, "De los Bienes") y leye
 
 - *"Distinga derecho real y derecho personal, con sus caracteres y un ejemplo de cada uno."*
 - *"¿Qué facultades integran la propiedad y cuáles son sus límites en el derecho mexicano?"*
-  (Función social, art. 27; expropiación; abuso del derecho.)
+  (Función social, art. 27 ⟳; expropiación; abuso del derecho.)
 - *"Explique los poderes de persecución y preferencia de las garantías reales."*
 - *"Compare prenda, hipoteca y fideicomiso de garantía: objeto, posesión, forma y registro."*
 - *"¿Por qué las acciones de una S.A. se dan en prenda y no en hipoteca?"*
@@ -564,7 +567,7 @@ domina en financiamientos estructurados.
    modernas (prenda sin posesión, fideicomiso) la difuminan?
 2. ¿Debería México adoptar un sistema unificado de garantías mobiliarias al estilo del
    Article 9 del UCC, superando la dispersión de figuras?
-3. ¿Hasta dónde debe llegar la función social de la propiedad (art. 27) sin desincentivar la
+3. ¿Hasta dónde debe llegar la función social de la propiedad (art. 27 ⟳) sin desincentivar la
    inversión?
 4. ¿Es eficiente la zona restringida para extranjeros, o el fideicomiso la vuelve un mero
    trámite costoso?
@@ -579,7 +582,7 @@ hipoteca). El personal recae sobre la conducta de un deudor (dar/hacer/no hacer)
 partes* (crédito). El real se publicita por registro; el personal no.
 
 **P2. ¿Qué facultades integran la propiedad y qué la limita?** *R.* Usar (*ius utendi*),
-disfrutar (*ius fruendi*) y disponer (*ius abutendi*). Límites: función social (art. 27),
+disfrutar (*ius fruendi*) y disponer (*ius abutendi*). Límites: función social (art. 27 ⟳),
 expropiación por utilidad pública con indemnización, relaciones de vecindad, prohibición del
 abuso del derecho y regulación administrativa.
 
@@ -629,7 +632,7 @@ individual de garantías (suspensión, masa). Argumente quién cobra qué y por 
   preferencia).
 - **¿Derecho personal?** → Facultad de exigir una prestación a otra persona; *inter partes*.
 - **¿Tres facultades de la propiedad?** → Usar, disfrutar, disponer.
-- **¿Límite constitucional de la propiedad en México?** → Función social (art. 27).
+- **¿Límite constitucional de la propiedad en México?** → Función social (art. 27 ⟳).
 - **¿Propiedad vs. posesión?** → Propiedad = señorío jurídico; posesión = poder de hecho
   protegido.
 - **¿Qué es la usucapión?** → Adquirir la propiedad por posesión prolongada (buena fe, justo
@@ -748,7 +751,7 @@ Bienes y Derechos Reales estudia la relación jurídica entre las personas y las
 sobre una cosa, oponible *erga omnes*, con **persecución** y **preferencia**— y **derecho
 personal** —facultad de exigir una prestación a otro, *inter partes*—. El derecho real por
 excelencia es la **propiedad** (usar, disfrutar, disponer), limitada por la **función social**
-(art. 27 constitucional) y la expropiación; junto a ella, la **posesión** (poder de hecho
+(art. 27 ⟳ constitucional) y la expropiación; junto a ella, la **posesión** (poder de hecho
 protegido, que conduce a la usucapión), la copropiedad y los derechos sobre cosa ajena
 (usufructo, servidumbres).
 
@@ -782,13 +785,13 @@ su aseguramiento.
 - *Uniform Commercial Code*, Article 9 (garantías mobiliarias, EE. UU.).
 
 **Legislación:**
-- Código Civil Federal, Libro Segundo "De los Bienes" (arts. 747 y ss.; propiedad 830 y ss.;
+- Código Civil Federal, Libro Segundo "De los Bienes" (arts. 747 ⟳ y ss.; propiedad 830 y ss.;
   posesión 790 y ss.; usucapión 1135 y ss.; usufructo/servidumbres 980 y ss., 1057 y ss.;
   prenda 2856 y ss.; hipoteca 2893 y ss.; Registro Público 3007 y ss.).
 - Ley General de Títulos y Operaciones de Crédito (prenda sin transmisión de posesión y
   fideicomiso de garantía).
 - Código de Comercio (Registro Único de Garantías Mobiliarias).
-- Constitución, art. 27 (propiedad, función social, zona restringida).
+- Constitución, art. 27 ⟳ (propiedad, función social, zona restringida).
 
 ## 30. Ruta para continuar
 

@@ -1,5 +1,8 @@
 # [Nivel I · Libro 5] Tratado de Personas
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > El acto jurídico necesita un protagonista: alguien que quiera, declare y soporte los
 > efectos. Ese protagonista es la **persona**. Y aquí ocurre el milagro técnico sobre el
 > que se levanta todo el derecho corporativo: el derecho reconoce como "persona" no solo al
@@ -115,8 +118,8 @@ Este debate, lejos de ser bizantino, determina cómo se resuelven problemas real
 sociedad "voluntad" propia?, ¿responde penalmente?, ¿cuándo se "levanta el velo"?).
 
 ### 2.6 Recepción mexicana
-El Código Civil de 1928 reconoce expresamente a las personas físicas y morales (arts. 22 y
-ss.), enumera las personas morales (art. 25) y consagra sus atributos. La **responsabilidad
+El Código Civil de 1928 reconoce expresamente a las personas físicas y morales (arts. 22 ⟳ y
+ss.), enumera las personas morales (art. 25 ⟳) y consagra sus atributos. La **responsabilidad
 penal de las personas morales** se incorporó al sistema penal mexicano en el siglo XXI
 (Código Nacional de Procedimientos Penales), cerrando un largo debate.
 
@@ -184,7 +187,7 @@ penal de las personas morales** se incorporó al sistema penal mexicano en el si
 
 ### 5.1 La persona física: del nacimiento a la muerte
 La persona física es el ser humano. En México, la capacidad jurídica (de goce) se adquiere
-con el **nacimiento** y se pierde con la **muerte** (art. 22 CCF); pero el concebido
+con el **nacimiento** y se pierde con la **muerte** (art. 22 CCF ⟳); pero el concebido
 (*nasciturus*) entra bajo la protección de la ley y se le tiene por nacido para los efectos
 que le favorecen, si nace vivo y viable. La persona física tiene **todos** los atributos:
 nombre, domicilio, **estado civil** (soltero, casado, etc.), patrimonio, capacidad y
@@ -204,7 +207,7 @@ Libro 4:* los actos del incapaz adolecen de **nulidad relativa**, que lo protege
 
 ### 5.2 La persona moral: la gran herramienta del derecho de los negocios
 Aquí está el corazón del libro para el corporativo. La **persona moral** es un ente al que el
-derecho reconoce personalidad **distinta** de la de sus integrantes. El art. 25 CCF enumera
+derecho reconoce personalidad **distinta** de la de sus integrantes. El art. 25 CCF ⟳ enumera
 varias: la Nación, los Estados y Municipios; las demás corporaciones de carácter público; las
 **sociedades civiles y mercantiles**; los sindicatos y asociaciones profesionales; las
 sociedades cooperativas y mutualistas; las asociaciones con fines políticos, científicos,
@@ -356,15 +359,15 @@ compliance** (Nivel IV).
 
 Régimen en el **Código Civil Federal** (y códigos estatales), complementado por leyes
 mercantiles:
-- **Art. 22:** capacidad jurídica desde el nacimiento; protección del concebido.
-- **Art. 23:** la minoría de edad y los estados de incapacidad son restricciones a la
+- **Art. 22 ⟳:** capacidad jurídica desde el nacimiento; protección del concebido.
+- **Art. 23 ⟳:** la minoría de edad y los estados de incapacidad son restricciones a la
   personalidad (de ejercicio), pero el incapaz puede ejercer derechos por representante.
-- **Art. 24:** libertad para disponer de la persona y bienes dentro de la ley.
-- **Art. 25:** **enumeración de las personas morales**.
-- **Arts. 26-28:** capacidad, alcance y nacionalidad de las personas morales (obran por sus
+- **Art. 24 ⟳:** libertad para disponer de la persona y bienes dentro de la ley.
+- **Art. 25 ⟳:** **enumeración de las personas morales**.
+- **Arts. 26-28 ⟳:** capacidad, alcance y nacionalidad de las personas morales (obran por sus
   representantes; se rigen por sus estatutos y la ley; nacionalidad).
-- **Arts. 29-32:** domicilio (de personas físicas y morales).
-- **Nombre y registro civil** (arts. 35 y ss.): atributos de la persona física.
+- **Arts. 29-32 ⟳:** domicilio (de personas físicas y morales).
+- **Nombre y registro civil** (arts. 35 ⟳ y ss.): atributos de la persona física.
 - **Leyes mercantiles:** la **LGSM** regula la constitución, personalidad, órganos y
   responsabilidad de las sociedades mercantiles (se estudia a fondo en el Nivel III); el
   **Código de Comercio** y la **Ley de Inversión Extranjera** (nacionalidad y límites a
@@ -374,7 +377,7 @@ mercantiles:
   Ley Federal de Competencia Económica –"agente económico"/"unidad económica"–, materia
   laboral).
 - **Responsabilidad penal de personas morales:** Código Nacional de Procedimientos Penales
-  (arts. 421 y ss.) y códigos penales.
+  (arts. 421 ⟳ y ss.) y códigos penales.
 
 ## 10. Relación con otras materias
 
@@ -752,11 +755,11 @@ empresa, las sociedades y las operaciones de M&A.
 - *Salomon v. Salomon & Co. Ltd.* [1897] (Reino Unido), sobre separación de personalidad.
 
 **Legislación:**
-- Código Civil Federal: arts. 22-32 y 35 y ss. (verificar el código de la entidad
+- Código Civil Federal: arts. 22-32 y 35 ⟳ y ss. (verificar el código de la entidad
   aplicable).
 - Ley General de Sociedades Mercantiles (personalidad, órganos, responsabilidad).
 - Ley de Inversión Extranjera (nacionalidad y límites).
-- Código Nacional de Procedimientos Penales, arts. 421 y ss. (responsabilidad penal de
+- Código Nacional de Procedimientos Penales, arts. 421 ⟳ y ss. (responsabilidad penal de
   personas morales).
 
 ## 30. Ruta para continuar
