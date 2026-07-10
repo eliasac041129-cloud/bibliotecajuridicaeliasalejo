@@ -918,3 +918,24 @@ Ante el incumplimiento, el *civil law* privilegia el **cumplimiento forzoso** (*
 - **Intermedio:** Gutiérrez y González, *Derecho de las obligaciones*.
 - **Avanzado:** Messineo, *Doctrina general del contrato*; Von Tuhr, *Tratado de las obligaciones*.
 - **Internacional:** Díez-Picazo, *Fundamentos del Derecho Civil Patrimonial*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La obligación es el **vínculo jurídico** que permite confiar en promesas: sin ella, no habría crédito, ni contrato a plazo, ni intercambio diferido. Es la institución que convierte una promesa (aire) en un derecho exigible (activo). Toda la economía del intercambio descansa en que las obligaciones se cumplan —o se remedien.
+
+**El debate.** **¿Por qué obliga la promesa?** Teorías de la voluntad, de la confianza (*reliance*, Fuller & Perdue: se protege la confianza que la promesa genera) y de la eficiencia. Debate de los **remedios**: cumplimiento forzoso (civil law, regla) vs. indemnización (common law, regla) —Holmes: el contrato da a elegir entre cumplir o pagar daños (*efficient breach*). ¿Debe el derecho permitir incumplir eficientemente (pagar daños y quedarse con la ganancia) o exigir cumplir?
+
+**Mirada de AED.** Los remedios contractuales son **incentivos**: la indemnización por *expectation* (poner a la víctima como si se hubiera cumplido) incentiva el cumplimiento salvo cuando incumplir es eficiente (el recurso vale más en otro uso). La cláusula penal y los *liquidated damages* asignan ex ante el costo del incumplimiento, ahorrando el litigio sobre daños.
+
+**Comparado y lección para México.** *Civil law*: cumplimiento en especie como regla; *common law*: daños como regla, *specific performance* excepcional. La **CISG** y los Principios UNIDROIT armonizan para el comercio internacional. **Lección:** al redactar remedios (penas, indemnidad, *specific performance*) hay que saber qué régimen aplica —una cláusula puede ser reductible aquí y no allá.
+
+**Crítica.** La teoría del *efficient breach* es criticada por **erosionar la moral del pacto** (santidad de la palabra) y por ignorar costos de transacción del litigio de daños. La cláusula penal excesiva, por punitiva.
+
+**Jurisprudencia y operación real.** *Hadley v. Baxendale* (RU, 1854): regla clásica de previsibilidad del daño contractual —viva en toda cláusula de limitación de responsabilidad. En la práctica, el diseño de indemnización, mora e intereses en un contrato es teoría de las obligaciones convertida en dinero.
+
+**Para leer más:** Fuller & Perdue, *The Reliance Interest in Contract Damages* (Yale L.J., 1936); Holmes, *The Path of the Law* (1897); *Hadley v. Baxendale* (1854); Díez-Picazo, *Fundamentos*.

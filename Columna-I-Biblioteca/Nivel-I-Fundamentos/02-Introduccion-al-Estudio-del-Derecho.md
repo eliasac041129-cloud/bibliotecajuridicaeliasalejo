@@ -783,3 +783,24 @@ En *civil law* la **ley** es la fuente primaria y la jurisprudencia la interpret
 - **Intermedio:** Kelsen, *Teoría pura del derecho*.
 - **Avanzado:** Hart, *El concepto de derecho*; Dworkin, *Los derechos en serio*.
 - **Internacional:** Alexy, *Teoría de los derechos fundamentales*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La teoría del derecho existe para responder la pregunta que todo abogado esquiva pero necesita: **¿qué es el derecho y por qué obliga?** Sin una respuesta, no se puede resolver un conflicto de normas, ni saber cuándo una ley injusta deja de obligar, ni interpretar en los casos difíciles. Es el sistema operativo sobre el que corre todo lo demás.
+
+**El debate (el más profundo del derecho).** **Positivismo vs. no-positivismo.** Kelsen: derecho y moral separados; la validez viene de la norma superior (*Grundnorm*). Hart: el derecho es unión de reglas primarias y secundarias, identificadas por una **regla de reconocimiento** social; en los "casos difíciles" el juez tiene **discreción**. Dworkin lo refuta: no hay discreción fuerte porque además de reglas hay **principios** que ya contienen la respuesta correcta (*Hercules*). Alexy: los principios son mandatos de optimización que se **ponderan**. El **debate Hart–Dworkin** es el eje de la filosofía jurídica del siglo XX. Y **Radbruch**: la ley extremadamente injusta no es derecho (respuesta al nazismo).
+
+**Mirada de AED.** Una tercera vía: el realismo y el AED ven el derecho como **predicción e incentivos** (Holmes: "el derecho es lo que los tribunales harán de hecho"; el *bad man* solo quiere saber las consecuencias). El derecho como sistema de precios de conductas.
+
+**Comparado y lección para México.** *Civil law* (primacía de la ley) vs. *common law* (precedente). Tras 2011, México incorporó el **bloque de constitucionalidad**: la pirámide de Kelsen se volvió más compleja. **Lección:** el abogado que domina jerarquía de fuentes y criterios de antinomia (jerarquía, especialidad, temporalidad) resuelve en minutos lo que a otro le toma días.
+
+**Crítica.** Al positivismo se le reprocha no poder condenar el "derecho" injusto (Núremberg); a Dworkin, presuponer una "única respuesta correcta" idealizada; a la ponderación (Alexy), encubrir decisionismo judicial con apariencia de método.
+
+**Jurisprudencia y operación real.** *Radilla* (912/2010) ⚠️ reordenó la pirámide en México (control de convencionalidad). En la práctica, invocar la regla de reconocimiento correcta y la jerarquía de fuentes es la base de todo dictamen que resista impugnación.
+
+**Para leer más:** Hart, *El concepto de derecho*; Dworkin, *Los derechos en serio* y *El imperio de la justicia*; Kelsen, *Teoría pura del derecho*; Radbruch, *Arbitrariedad legal y derecho supralegal*.

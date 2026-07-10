@@ -870,3 +870,24 @@ El abogado corporativo trata con el Estado todos los días: regulador, recaudado
 - **Intermedio:** Jellinek, *Teoría General del Estado*.
 - **Avanzado:** Hermann Heller, *Teoría del Estado*; Weber, *La política como vocación*.
 - **Internacional:** Bobbio, *Estado, gobierno y sociedad*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La teoría del Estado responde por qué **existe y obliga** el poder político. El **contractualismo** (Hobbes, Locke, Rousseau) lo funda en un pacto: renunciamos a parte de la libertad natural a cambio de seguridad y orden. Para el abogado corporativo, entender el origen y los **límites** del poder estatal es entender al regulador, al recaudador y al legislador con los que trata a diario.
+
+**El debate.** **Hobbes (Leviatán absoluto para escapar de la guerra) vs. Locke (poder limitado, derechos de propiedad previos al Estado) vs. Rousseau (voluntad general).** Debate del siglo XX: **Schmitt vs. Kelsen** —¿la soberanía es "quien decide sobre el estado de excepción" (Schmitt, decisionismo) o una construcción normativa sin soberano personal (Kelsen)? Reaparece en cada emergencia (pandemias, seguridad). Y **Weber**: el Estado como monopolio de la violencia legítima y la tensión entre los tres tipos de legitimidad (tradicional, carismática, legal-racional).
+
+**Mirada de AED.** El Estado existe para proveer **bienes públicos** (seguridad, justicia, moneda) que el mercado no produce, y para definir y proteger los **derechos de propiedad** sin los cuales no hay intercambio (North: las instituciones explican por qué unas naciones prosperan y otras no). Pero el Estado también es un actor con incentivos propios (*public choice*, Buchanan): puede ser capturado o expropiar.
+
+**Comparado y lección para México.** **Presidencialismo** (México/EE. UU., rígido) vs. **parlamentarismo** (RU, flexible); federalismo. **Lección:** la **calidad institucional** (independencia judicial, límites al poder, seguridad jurídica) es la variable que más pesa en el riesgo-país y en la decisión de invertir —teoría del Estado convertida en tasa de descuento.
+
+**Crítica.** El contractualismo es criticado por ficticio (nadie firmó el pacto); el Estado moderno, por su expansión (*Leviatán* fiscal y regulatorio) o, del otro lado, por su captura y debilidad.
+
+**Jurisprudencia y operación real.** La **reforma judicial 2024** (elección de jueces ⟳) es teoría del Estado en vivo: toca la división de poderes (Montesquieu) y la independencia judicial —con impacto directo en la seguridad jurídica que evalúa cada inversionista.
+
+**Para leer más:** Hobbes, *Leviatán*; Weber, *Economía y sociedad*; Douglass North, *Instituciones, cambio institucional y desempeño económico*; Acemoglu & Robinson, *Por qué fracasan los países*.

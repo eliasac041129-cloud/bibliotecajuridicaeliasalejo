@@ -1025,3 +1025,24 @@ México pertenece a la familia **romano-germánica** (*civil law*): derecho codi
 - **Intermedio:** Iglesias, *Derecho Romano*; Álvaro d'Ors, *Derecho Privado Romano*.
 - **Avanzado:** Fritz Schulz, *Principles of Roman Law*.
 - **Internacional:** Reinhard Zimmermann, *The Law of Obligations: Roman Foundations of the Civilian Tradition*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** El derecho romano es la **gramática profunda** del derecho privado occidental: creó las categorías (obligación, contrato, propiedad, posesión, persona) con las que aún pensamos. No sobrevive porque sea antiguo, sino porque resolvió, con elegancia lógica, los problemas permanentes del intercambio y la convivencia. Estudiarlo es estudiar el **código fuente** del sistema.
+
+**El debate.** **Escuela Histórica (Savigny): el derecho brota del *Volksgeist*** (no se "inventa", se descubre en la tradición) vs. **codificación racionalista** (Thibaut: un código racional para el presente). El debate Savigny–Thibaut sobre codificar Alemania definió la ciencia jurídica moderna. Después, **Ihering** rompió con la "jurisprudencia de conceptos" (lógica pura) hacia la **jurisprudencia de intereses** (el derecho como resultado de fines e intereses en pugna) —crítica temprana al formalismo que resuena hoy en el AED.
+
+**Mirada de AED.** Muchas instituciones romanas eran **soluciones de eficiencia** intuitivas: la *hypotheca* (garantía sin desposesión) permitía financiar sin paralizar el activo; el *fideicommissum* separaba propiedad y beneficio (embrión del *trust*). Roma "descubrió" reducciones de costos de transacción que el AED apenas formalizó dos milenios después.
+
+**Comparado y lección para México.** La familia **romano-germánica** (México) razona desde la ley y el concepto; el *common law*, desde el caso. Pero ambos beben de Roma (el *common law* vía el derecho canónico y la equidad). **Lección:** dominar las categorías romanas permite al abogado mexicano "traducir" instituciones anglosajonas (*trust* ≈ *fideicommissum*; *security interest* ≈ *hypotheca*) sin perderse.
+
+**Crítica.** El romanismo ha sido acusado de **historicismo estéril** (dogmática desconectada de la realidad económica) —crítica que el propio Ihering inició y que el AED radicalizó. La respuesta: sin las categorías, no hay pensamiento jurídico riguroso.
+
+**Jurisprudencia y operación real.** El **fideicomiso de garantía** (heredero del *fideicommissum*) fue el campo de batalla de reestructuras como Vitro ⚠️. En la práctica, quien entiende la naturaleza romana de una figura (real vs. personal, propiedad vs. posesión) no se deja engañar por su etiqueta comercial.
+
+**Para leer más:** Savigny, *De la vocación de nuestro siglo para la legislación*; Ihering, *La lucha por el derecho* y *El fin en el derecho*; Zimmermann, *The Law of Obligations*.
