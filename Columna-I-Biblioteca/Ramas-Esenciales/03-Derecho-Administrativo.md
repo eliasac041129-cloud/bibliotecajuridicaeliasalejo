@@ -243,7 +243,7 @@ Todo el litigio administrativo gira en torno a **si el acto es válido**. Un act
 - **Objeto:** lícito, posible y determinado.
 - **Motivo:** los hechos y razones que lo justifican (deben existir y ser ciertos).
 - **Fin:** de interés público (usarlo para otro fin es **desvío de poder**).
-- **Forma:** por **escrito, fundado y motivado** (arts. 14 y 16 CPEUM ⚠️ ⟳; conéctalo con el Libro 02).
+- **Forma:** por **escrito, fundado y motivado** (arts. 14 y 16 CPEUM ✅ ⟳; conéctalo con el Libro 02).
 
 Los **vicios** (causas de nulidad) son el reverso: **incompetencia**, **falta o indebida fundamentación
 y motivación** (el más común), **vicios del procedimiento** (no dar audiencia), **desvío de poder**

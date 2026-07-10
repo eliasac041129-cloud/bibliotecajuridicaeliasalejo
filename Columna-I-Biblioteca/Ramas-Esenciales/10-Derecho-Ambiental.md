@@ -110,7 +110,7 @@ internacional; el **Informe Brundtland (1987 ⚠️)** que acuñó el **desarrol
 Río (1992 ⚠️)** con sus principios (precaución, "quien contamina paga"); y, en clima, el **Protocolo de
 Kioto** y el **Acuerdo de París (2015 ⚠️)**. México desarrolló su marco a partir de los años ochenta, con
 la **LGEEPA (en vigor desde 1988 ✅)** como ley marco, y elevó a rango **constitucional** el derecho a un
-**medio ambiente sano** (art. 4 ⚠️ ⟳).
+**medio ambiente sano** (art. 4 ✅ ⟳).
 
 ## 5. Evolución histórica
 
@@ -152,7 +152,7 @@ relevante como la norma escrita. ⚠️
 
 ## 8. Contexto social
 
-El derecho a un **medio ambiente sano** (art. 4 ⚠️ ⟳) es un derecho humano, y su defensa moviliza a
+El derecho a un **medio ambiente sano** (art. 4 ✅ ⟳) es un derecho humano, y su defensa moviliza a
 comunidades, pueblos indígenas y organizaciones. Han ganado fuerza la **justicia ambiental** (que los
 daños no recaigan solo sobre los más vulnerables), el **derecho a la consulta** de comunidades afectadas
 por proyectos, y la protección de **defensores ambientales**. Para la empresa, la dimensión social es hoy
@@ -184,7 +184,7 @@ responsabilidad ambiental, **pueden pasar al comprador**.
 
 ## 11. Definiciones legales
 
-- **Medio ambiente sano (art. 4 CPEUM ⚠️ ⟳):** derecho de toda persona a un medio ambiente sano para su
+- **Medio ambiente sano (art. 4 CPEUM ✅ ⟳):** derecho de toda persona a un medio ambiente sano para su
   desarrollo y bienestar; el Estado garantiza su respeto y el daño genera responsabilidad.
 - **Impacto ambiental (LGEEPA ⚠️):** modificación del ambiente por una obra o actividad; ciertas obras
   requieren **autorización** previa en materia de impacto ambiental (con base en una **Manifestación de
@@ -229,7 +229,7 @@ económica no destruya el ambiente —y para saber quién paga cuando lo daña.*
 
 ### 14.1 Fundamento y principios
 
-Todo cuelga del **art. 4 CPEUM ⚠️ ⟳** (derecho a un medio ambiente sano; el daño ambiental genera
+Todo cuelga del **art. 4 CPEUM ✅ ⟳** (derecho a un medio ambiente sano; el daño ambiental genera
 responsabilidad) y de la **LGEEPA** como ley marco. Los **principios** guían la interpretación: **prevención**
 (mejor evitar el daño que repararlo), **precaución** (ante riesgo grave, actuar aunque falte certeza),
 **"quien contamina paga"** (internalizar el costo), **desarrollo sustentable** (equilibrio entre economía y
@@ -520,7 +520,7 @@ vigentes ⚠️.
 ## 36. Mapa mental
 
 ```
-DERECHO AMBIENTAL (art. 4 CPEUM ⚠️ · LGEEPA · LFRA)
+DERECHO AMBIENTAL (art. 4 CPEUM ✅ · LGEEPA · LFRA)
 ├── PRINCIPIOS: prevención · precaución · "quien contamina paga" · desarrollo sustentable · participación
 ├── AUTORIZACIONES (para operar)
 │   └── Impacto ambiental (MIA) · licencia/COA · descargas (CONAGUA) · emisiones · residuos peligrosos
@@ -579,7 +579,7 @@ ACTIVO FÍSICO (fábrica, terreno, mina)
 ## 40. Resumen ejecutivo
 
 El derecho ambiental regula la relación entre la actividad económica y el **medio ambiente** (fundamento:
-art. 4 CPEUM ⚠️ ⟳; ley marco: **LGEEPA**), guiado por principios (**prevención, precaución, "quien contamina
+art. 4 CPEUM ✅ ⟳; ley marco: **LGEEPA**), guiado por principios (**prevención, precaución, "quien contamina
 paga", desarrollo sustentable**). Para operar, la empresa necesita **autorizaciones** (impacto ambiental/
 MIA, licencias, descargas, residuos peligrosos) y debe respetar **NOMs**; la **PROFEPA** inspecciona y
 sanciona (multa, clausura, remediación). La **LFRA** regula la **responsabilidad por daño ambiental** (que

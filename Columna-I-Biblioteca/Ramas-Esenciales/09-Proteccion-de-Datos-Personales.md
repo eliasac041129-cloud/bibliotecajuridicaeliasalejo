@@ -88,7 +88,7 @@ transferible—.
 Al terminar, el lector será capaz de:
 
 - **Definir el dato personal** (y el **dato sensible**) y explicar la **autodeterminación informativa** y
-  su base constitucional (art. 16 CPEUM ⚠️ ⟳).
+  su base constitucional (art. 16 CPEUM ✅ ⟳).
 - **Dominar los principios** del tratamiento: **licitud, consentimiento, información, calidad, finalidad,
   lealtad, proporcionalidad y responsabilidad**.
 - **Manejar los deberes**: **aviso de privacidad**, seguridad, confidencialidad y la gestión de los
@@ -119,7 +119,7 @@ alemán sobre el censo, 1983 ⚠️). Europa lideró con el **Convenio 108** (19
 que culminaron en el **Reglamento General de Protección de Datos (GDPR)** de la Unión Europea (adoptado el
 27-abr-2016, **aplicable desde el 25-may-2018** ✅) —hoy
 el **estándar de oro** mundial, con multas de hasta un porcentaje de la facturación global—. México elevó
-la protección de datos a rango **constitucional** (reformas a los arts. 6 y 16 ⚠️ ⟳) y expidió la
+la protección de datos a rango **constitucional** (reformas a los arts. 6 y 16 ✅ ⟳) y expidió la
 **LFPDPPP** para el sector privado. ⚠️ *Verificar fechas.*
 
 ## 5. Evolución histórica
@@ -233,7 +233,7 @@ corto: **el derecho que te da control sobre tu información y obliga a las empre
 
 ### 14.1 Fundamento y ámbito
 
-La protección de datos tiene base **constitucional** (arts. 6 y 16 CPEUM ⚠️ ⟳: protección de datos como
+La protección de datos tiene base **constitucional** (arts. 6 y 16 CPEUM ✅ ⟳: protección de datos como
 derecho, autodeterminación informativa) y legal: la **LFPDPPP** rige el **sector privado** (empresas), y
 otra ley rige a los **sujetos obligados** (sector público). El derecho protege a la **persona física**
 (titular) frente a quien trata sus datos (**responsable**). *Para la empresa, la primera pregunta es
@@ -530,7 +530,7 @@ indemnización y **escrow** por contingencias. Verifica autoridad y montos vigen
 ## 36. Mapa mental
 
 ```
-PROTECCIÓN DE DATOS PERSONALES (arts. 6 y 16 CPEUM ⚠️ · LFPDPPP)
+PROTECCIÓN DE DATOS PERSONALES (arts. 6 y 16 CPEUM ✅ · LFPDPPP)
 ├── QUÉ: dato personal / dato SENSIBLE (protección reforzada)
 ├── QUIÉN: titular · RESPONSABLE · encargado
 ├── PRINCIPIOS: licitud · consentimiento · información · calidad · finalidad · lealtad · proporcionalidad · responsabilidad
@@ -587,7 +587,7 @@ SALIDA (cancelación / oposición / olvido — derechos ARCO)
 ## 40. Resumen ejecutivo
 
 La protección de datos personales garantiza la **autodeterminación informativa**: el control de la persona
-sobre su información (base constitucional en los arts. 6 y 16 ⚠️ ⟳; ley del sector privado: **LFPDPPP**).
+sobre su información (base constitucional en los arts. 6 y 16 ✅ ⟳; ley del sector privado: **LFPDPPP**).
 Impone al **responsable** deberes: respetar los **principios** (licitud, consentimiento, información,
 calidad, finalidad, lealtad, proporcionalidad, responsabilidad), informar mediante **aviso de privacidad**,
 obtener **consentimiento** (expreso y por escrito para datos **sensibles**), atender los **derechos ARCO**,

@@ -80,7 +80,7 @@ compliance previene; aquí ves **cómo se defiende** a la persona física (el di
 
 Al terminar, el lector será capaz de:
 
-- **Dominar los principios y garantías** del proceso penal (art. 20 CPEUM ⚠️ ⟳): presunción de inocencia,
+- **Dominar los principios y garantías** del proceso penal (art. 20 CPEUM ✅ ⟳): presunción de inocencia,
   contradicción, inmediación, publicidad, concentración, continuidad e igualdad.
 - **Identificar a los sujetos**: **Ministerio Público** y policía, **imputado** y **defensa**, **víctima u
   ofendido** y su **asesor jurídico**, **juez de control**, **tribunal de enjuiciamiento** y **juez de
@@ -189,15 +189,15 @@ conflicto comercial y cómo responder sin sobreactuar.
 
 ## 11. Definiciones legales
 
-- **Presunción de inocencia (art. 20-B CPEUM ⚠️ ⟳):** toda persona se presume inocente hasta que se declare
+- **Presunción de inocencia (art. 20-B CPEUM ✅ ⟳):** toda persona se presume inocente hasta que se declare
   su responsabilidad por sentencia firme.
-- **Debido proceso y defensa adecuada (arts. 14, 20 CPEUM ⚠️ ⟳):** derecho a un juicio con las formalidades
+- **Debido proceso y defensa adecuada (arts. 14, 20 CPEUM ✅ ⟳):** derecho a un juicio con las formalidades
   esenciales y a una defensa técnica por abogado.
-- **Detención (art. 16 CPEUM ⚠️ ⟳):** solo por **orden de aprehensión** de juez, en **flagrancia** o en
+- **Detención (art. 16 CPEUM ✅ ⟳):** solo por **orden de aprehensión** de juez, en **flagrancia** o en
   **caso urgente**; toda detención se somete a **control judicial**.
-- **Prisión preventiva (art. 19 CPEUM ⚠️ ⟳):** medida cautelar; **justificada** (a petición del MP, si otras
+- **Prisión preventiva (art. 19 CPEUM ✅ ⟳):** medida cautelar; **justificada** (a petición del MP, si otras
   medidas no bastan) u **oficiosa** (obligatoria para un **catálogo** de delitos que fija la Constitución).
-- **Auto de vinculación a proceso (art. 19 CPEUM ⚠️ ⟳):** resolución del juez de control que, con datos de
+- **Auto de vinculación a proceso (art. 19 CPEUM ✅ ⟳):** resolución del juez de control que, con datos de
   prueba suficientes, sujeta al imputado al proceso.
 
 ## 12. Definición sencilla
@@ -237,7 +237,7 @@ se decide si es culpable.**
 
 ## 14. Desarrollo absoluto (núcleo doctrinal)
 
-### 14.1 Principios y garantías (art. 20 CPEUM ⚠️ ⟳)
+### 14.1 Principios y garantías (art. 20 CPEUM ✅ ⟳)
 
 El proceso acusatorio se rige por principios que son, a la vez, garantías: **publicidad** (audiencias
 abiertas), **contradicción** (cada parte controvierte lo del otro), **concentración** y **continuidad** (el
@@ -256,7 +256,7 @@ El diseño acusatorio **separa funciones** para garantizar imparcialidad: el **M
 la reparación). Y el **imputado** tiene **defensa técnica** obligatoria desde la detención. *La separación
 juez de control / tribunal de juicio es clave: el que decide la condena no vio la investigación.*
 
-### 14.3 La detención y su control (art. 16 CPEUM ⚠️ ⟳)
+### 14.3 La detención y su control (art. 16 CPEUM ✅ ⟳)
 
 Nadie puede ser detenido salvo: (a) **orden de aprehensión** librada por un juez a petición del MP; (b)
 **flagrancia** (en el momento del delito o inmediatamente después); o (c) **caso urgente** (delito grave,
@@ -283,7 +283,7 @@ obtenida. *La legalidad de la detención es el primer campo de batalla de la def
 *El plazo constitucional para resolver la vinculación (72 horas, prorrogable a 144 ⚠️) y los tiempos de
 cada etapa son datos duros a verificar.*
 
-### 14.5 Medidas cautelares y prisión preventiva (art. 19 CPEUM ⚠️ ⟳)
+### 14.5 Medidas cautelares y prisión preventiva (art. 19 CPEUM ✅ ⟳)
 
 Las **medidas cautelares** aseguran que el imputado no se sustraiga, no obstaculice la investigación ni sea
 un riesgo: van de la **presentación periódica**, la **garantía económica** o la **prohibición de salir del
@@ -552,7 +552,7 @@ salidas. Regla: **la defensa se gana en las primeras 48-72 horas.**
   ejecución.
 - **P:** ¿Formas de detención (art. 16 ⟳)? · **R:** Orden de aprehensión, flagrancia, caso urgente ⚠️.
 - **P:** ¿Prisión preventiva justificada vs. oficiosa? · **R:** Justificada = la pide el MP y la concede el
-  juez; oficiosa = obligatoria para un catálogo constitucional (art. 19 ⚠️ ⟳).
+  juez; oficiosa = obligatoria para un catálogo constitucional (art. 19 ✅ ⟳).
 - **P:** ¿Estándar para condenar? · **R:** Culpabilidad **más allá de toda duda razonable**.
 - **P:** ¿Qué es "prueba" en el acusatorio? · **R:** Solo la **desahogada en juicio** ante el tribunal
   (inmediación y contradicción).
@@ -562,14 +562,14 @@ salidas. Regla: **la defensa se gana en las primeras 48-72 horas.**
 ## 36. Mapa mental
 
 ```
-DERECHO PROCESAL PENAL (acusatorio · CNPP · arts. 16-22 CPEUM ⚠️)
+DERECHO PROCESAL PENAL (acusatorio · CNPP · arts. 16-22 CPEUM ✅)
 ├── PRINCIPIOS (art. 20): publicidad · contradicción · concentración · continuidad · inmediación · igualdad
 │   └── PRESUNCIÓN DE INOCENCIA + duda razonable
 ├── SUJETOS: MP/policía · imputado/DEFENSA · víctima/asesor · Juez de control · Tribunal de juicio · Juez de ejecución
 ├── DETENCIÓN (art. 16): orden · flagrancia · caso urgente → CONTROL (48 h ⚠️)
 ├── ETAPAS
 │   └── Investigación → Audiencia inicial (vinculación + cautelares) → Intermedia → JUICIO ORAL → Ejecución
-├── MEDIDAS CAUTELARES → PRISIÓN PREVENTIVA (justificada / OFICIOSA art. 19 ⚠️)
+├── MEDIDAS CAUTELARES → PRISIÓN PREVENTIVA (justificada / OFICIOSA art. 19 ✅)
 ├── SALIDAS: acuerdos reparatorios · suspensión condicional · procedimiento abreviado
 └── PRUEBA (lícita, en juicio) · RECURSOS · AMPARO penal · EJECUCIÓN (Ley Nacional de Ejecución Penal ⚠️)
 ```
@@ -629,7 +629,7 @@ acusatorio, oral y adversarial** (CNPP; arts. 16-22 CPEUM ⟳), regido por la **
 juez de ejecución supervisa). El proceso corre por **etapas** (investigación → audiencia inicial con
 **vinculación** y **medidas cautelares** → intermedia → **juicio oral** → ejecución), con **salidas
 alternas** (acuerdos, suspensión, **abreviado**). Los puntos calientes: la legalidad de la **detención**
-(control en 48 h ⚠️) y la **prisión preventiva** (justificada u **oficiosa** por catálogo, art. 19 ⚠️ ⟳ —muy
+(control en 48 h ⚠️) y la **prisión preventiva** (justificada u **oficiosa** por catálogo, art. 19 ✅ ⟳ —muy
 polémica—). Para el corporativo, es la materia de la **defensa white-collar** de directivos y consejeros y
 de la **responsabilidad penal de la persona moral**: y su verdad central es que **el caso se gana en la
 investigación**, no en el juicio.

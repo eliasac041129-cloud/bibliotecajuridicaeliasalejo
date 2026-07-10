@@ -319,7 +319,7 @@ inconstitucionalidad** de un impuesto:
 ### 14.2 La relación jurídico-tributaria y el nacimiento de la obligación
 
 La obligación fiscal **nace** cuando se realiza el **hecho imponible** previsto en la ley (art. 6 CFF
-⚠️ ⟳: las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho previstas).
+✅ ⟳: las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho previstas).
 No nace del acto de la autoridad: nace **de la ley + el hecho**. La autoridad, cuando "determina" un
 crédito, solo **reconoce y cuantifica** una obligación que ya existía. Esto tiene consecuencias
 prácticas enormes: por eso importan la **fecha de causación** (qué ley estaba vigente) y la distinción
@@ -533,7 +533,7 @@ caso por caso.*
 ## 23. Derecho mexicano (régimen positivo)
 
 - **Constitucional:** art. 31, fr. IV ⟳ (obligación de contribuir) y el reparto de potestades entre
-  Federación, entidades y municipios (arts. 73, 117, 118, 124, 131 ⚠️ ⟳).
+  Federación, entidades y municipios (arts. 73, 117, 118, 124, 131 ✅ ⟳).
 - **Código adjetivo:** **Código Fiscal de la Federación (CFF)** — definiciones, causación,
   procedimiento, facultades, infracciones, delitos y recurso de revocación.
 - **Leyes sustantivas:** **LISR, LIVA, LIEPS**, Ley Federal de Derechos, entre otras; **Ley de Ingresos**
@@ -682,7 +682,7 @@ posterior. (5) Reunir la **prueba de materialidad** de las deducciones. Conclusi
 - **P:** ¿Cuatro clases de contribuciones (art. 2 CFF ✅ ⟳)? · **R:** Impuestos, aportaciones de seguridad
   social, contribuciones de mejoras y derechos.
 - **P:** ¿Caducidad vs. prescripción? · **R:** Caducidad = mueren facultades del fisco (5 años, art. 67
-  ⚠️ ⟳); prescripción = muere el crédito determinado (5 años, art. 146 ✅ ⟳).
+  ✅ ⟳); prescripción = muere el crédito determinado (5 años, art. 146 ✅ ⟳).
 - **P:** ¿Tasa general de ISR personas morales? · **R:** 30% ✅ sobre resultado fiscal.
 - **P:** ¿Tasa general de IVA y su mecánica? · **R:** 16% ✅; traslado y acreditamiento (lo soporta el
   consumidor final).

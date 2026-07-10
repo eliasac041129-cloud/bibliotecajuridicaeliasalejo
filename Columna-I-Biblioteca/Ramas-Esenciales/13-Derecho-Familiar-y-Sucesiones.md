@@ -119,7 +119,7 @@ igualitario). ⚠️ *Verificar fechas y referencias históricas.*
 En **México**, el derecho familiar vive una doble tendencia (⚠️ verificar por entidad):
 1. **Autonomía y codificación familiar:** varias entidades sacaron la materia del Código Civil y crearon
    **Códigos Familiares** propios, con soluciones distintas.
-2. **Constitucionalización y derechos humanos:** el **interés superior del menor** (art. 4 CPEUM ⚠️ ⟳), la
+2. **Constitucionalización y derechos humanos:** el **interés superior del menor** (art. 4 CPEUM ✅ ⟳), la
    **igualdad**, la protección de la familia en todas sus formas, y criterios de la **SCJN** que
    reconfiguraron la materia (divorcio incausado, matrimonio igualitario, compensación económica).
 3. **Divorcio incausado:** la SCJN validó que baste la **voluntad** de uno de los cónyuges para divorciarse
@@ -257,7 +257,7 @@ La **filiación** (vínculo padres-hijos) genera **patria potestad** (deberes y 
 incluida la administración de sus bienes) y **alimentos**. La obligación **alimentaria** es **recíproca**
 (entre cónyuges, padres e hijos, y otros parientes), **proporcional** (a la posibilidad de quien da y la
 necesidad de quien recibe) e **irrenunciable**. Todo se rige por el **interés superior del menor** (art. 4
-CPEUM ⚠️ ⟳). *Relevancia patrimonial:* los **alimentos** son un pasivo/obligación que la planeación debe
+CPEUM ✅ ⟳). *Relevancia patrimonial:* los **alimentos** son un pasivo/obligación que la planeación debe
 prever, y la **administración de bienes de menores** (p. ej. acciones heredadas por un hijo menor) exige
 reglas y a veces autorización judicial.
 
