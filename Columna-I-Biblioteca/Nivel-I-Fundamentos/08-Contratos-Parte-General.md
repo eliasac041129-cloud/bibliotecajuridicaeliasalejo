@@ -1,5 +1,8 @@
 # [Nivel I · Libro 8] Tratado de Contratos (Parte General)
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > El contrato es la **fuente reina** de las obligaciones y la herramienta de trabajo diaria
 > del abogado corporativo. Si el acto jurídico es el átomo y la obligación el motor, el
 > contrato es la **máquina** con la que las personas construyen sus relaciones económicas. Un
@@ -108,9 +111,9 @@ contratos que mezclan la **técnica anglosajona** (estructura) y el **derecho su
 mexicano** (régimen aplicable). Entender ambas tradiciones es la competencia clave.
 
 ### 2.6 Recepción mexicana
-El CCF regula el contrato dentro del Libro Cuarto (arts. 1792 y ss.): lo define, fija sus
+El CCF regula el contrato dentro del Libro Cuarto (arts. 1792 ⟳ y ss.): lo define, fija sus
 elementos y requisitos (remitiendo a la teoría del acto jurídico), su clasificación,
-formación, interpretación (arts. 1851 y ss.) y las reglas de los contratos en particular. El
+formación, interpretación (arts. 1851 ⟳ y ss.) y las reglas de los contratos en particular. El
 **Código de Comercio** y leyes especiales regulan los contratos mercantiles (Nivel III).
 
 ---
@@ -139,12 +142,12 @@ formación, interpretación (arts. 1851 y ss.) y las reglas de los contratos en 
 ## 4. Conceptos
 
 - **Contrato:** acuerdo de dos o más voluntades para **crear o transmitir** derechos y
-  obligaciones (art. 1793 CCF). El **convenio** es el género (crea, transmite, modifica o
+  obligaciones (art. 1793 CCF ⟳). El **convenio** es el género (crea, transmite, modifica o
   extingue); el contrato, la especie que crea o transmite.
 - **Autonomía de la voluntad:** poder de autorregular las relaciones jurídicas; comprende la
   libertad de **contratar** (o no) y de **configurar** el contenido, dentro de la ley.
 - **Pacta sunt servanda:** los contratos legalmente celebrados obligan como ley entre las
-  partes (art. 1796).
+  partes (art. 1796 ⟳).
 - **Oferta (policitación):** propuesta de contratar, seria, completa y dirigida a otro.
 - **Aceptación:** conformidad con la oferta; al coincidir con ella, se forma el
   **consentimiento**.
@@ -174,7 +177,7 @@ formación, interpretación (arts. 1851 y ss.) y las reglas de los contratos en 
 - **Rescisión:** ineficacia por incumplimiento (en la práctica mexicana se usa a veces como
   sinónimo de resolución) o por lesión.
 - **Resolución:** dejar sin efecto el contrato por incumplimiento (facultad resolutoria, art.
-  1949) o por cumplirse una condición resolutoria.
+  1949 ⟳) o por cumplirse una condición resolutoria.
 - **Terminación / revocación:** modos de poner fin al contrato (por mutuo acuerdo, por
   voluntad unilateral cuando la ley o el contrato lo permiten, por vencimiento del plazo).
 
@@ -189,14 +192,14 @@ licitud, forma); y su falta produce inexistencia o nulidad. No repetimos esa teo
 obligatoria** y las reglas propias de formación, efectos e interpretación.
 
 ### 5.2 La autonomía de la voluntad y sus límites: tu margen como abogado
-El art. 1796 CCF consagra que los contratos se perfeccionan por el mero consentimiento (salvo
+El art. 1796 CCF ⟳ consagra que los contratos se perfeccionan por el mero consentimiento (salvo
 los que exigen forma) y **obligan** no solo a lo expresamente pactado, sino a las
 consecuencias conformes a la **buena fe, al uso o a la ley**. Esto significa dos cosas: (i)
 los particulares pueden **configurar** el contenido libremente; (ii) ese contenido se
 **integra** con la buena fe, los usos y la ley supletoria.
 
 Los **límites** (recuerda Libros 2 y 4): las **leyes imperativas / de orden público** (art. 6
-CCF: la voluntad no puede eximir de su observancia), las **buenas costumbres** y los
+CCF ⟳: la voluntad no puede eximir de su observancia), las **buenas costumbres** y los
 **derechos de terceros**. *Cómo lo usa el abogado:* antes de redactar una cláusula audaz, se
 pregunta "¿esto choca con una norma imperativa?" (p. ej., no se puede pactar un interés
 usurario, ni renunciar anticipadamente a derechos irrenunciables, ni violar normas de
@@ -228,20 +231,20 @@ todo abogado debe dominar:
   a un tercero, se necesita **cesión** y, a menudo, el **consentimiento del otro contratante**
   (*change of control / assignment clauses*).
 - **El contenido se integra:** además de lo pactado, obligan la buena fe, los usos y la ley
-  supletoria (art. 1796). Por eso un contrato "incompleto" no es un vacío: se **integra**.
+  supletoria (art. 1796 ⟳). Por eso un contrato "incompleto" no es un vacío: se **integra**.
 
 ### 5.5 La interpretación del contrato: el campo de batalla
 Cuando las partes discrepan sobre **qué significa** una cláusula, entran las reglas de
-interpretación (arts. 1851-1859 CCF). Domínalas como herramientas:
-1. **Primacía de la intención común sobre la letra (art. 1851):** si los términos son claros y
+interpretación (arts. 1851-1859 CCF ⟳). Domínalas como herramientas:
+1. **Primacía de la intención común sobre la letra (art. 1851 ⟳):** si los términos son claros y
    no dejan duda sobre la intención, se está a su **letra**; pero si las palabras parecen
    contrarias a la intención evidente, **prevalece la intención**.
-2. **Interpretación sistemática (art. 1854):** las cláusulas se interpretan **unas por
+2. **Interpretación sistemática (art. 1854 ⟳):** las cláusulas se interpretan **unas por
    otras**, atribuyendo a las dudosas el sentido que resulte del conjunto.
 3. **Interpretación útil / conservación (favor negotii):** se prefiere el sentido que produzca
-   **efecto** sobre el que no produzca ninguno (art. 1853).
-4. **Uso y costumbre (art. 1856):** el uso del lugar integra las cláusulas ambiguas.
-5. **Contra proferentem (art. 1857, parte final / principio general):** la duda en un contrato
+   **efecto** sobre el que no produzca ninguno (art. 1853 ⟳).
+4. **Uso y costumbre (art. 1856 ⟳):** el uso del lugar integra las cláusulas ambiguas.
+5. **Contra proferentem (art. 1857 ⟳, parte final / principio general):** la duda en un contrato
    de adhesión o cuya redacción provino de una parte se interpreta **en contra de quien la
    redactó** y a favor de la otra.
 6. **Buena fe:** estándar transversal de interpretación e integración.
@@ -266,8 +269,8 @@ aplica contra proferentem; (7) verifica coherencia con la buena fe*. Quien hace 
 Distingue con precisión (es un error frecuente confundirlas):
 - **Nulidad** (Libro 4): por **vicio de origen** (falta de validez); el contrato nunca debió
   valer.
-- **Rescisión por lesión** (art. 17): por desproporción + explotación al momento de contratar.
-- **Resolución** (art. 1949): por **incumplimiento** posterior de una parte; deshace el
+- **Rescisión por lesión** (art. 17 ⟳): por desproporción + explotación al momento de contratar.
+- **Resolución** (art. 1949 ⟳): por **incumplimiento** posterior de una parte; deshace el
   contrato hacia atrás (con restituciones) y da derecho a daños.
 - **Terminación / revocación / mutuo disenso:** por vencimiento del plazo, por voluntad
   unilateral cuando se permite, o por acuerdo de ambas partes de extinguirlo (*mutuo
@@ -298,7 +301,7 @@ práctica:* la "causa" sirve para anular contratos con fines ilícitos disfrazad
 fraude).
 
 **Interpretación subjetiva vs. objetiva.** El civil law parte de la **intención común real**
-(subjetiva, art. 1851); el common law tiende a una interpretación más **objetiva y literal**
+(subjetiva, art. 1851 ⟳); el common law tiende a una interpretación más **objetiva y literal**
 del texto (lo que un destinatario razonable entendería), con la **parol evidence rule** que
 limita la prueba de negociaciones previas para contradecir el texto. *Por qué importa:* un
 contrato regido por *NY/English law* se interpreta de forma más literal; por eso esos contratos
@@ -352,20 +355,20 @@ mera asignación rígida de prestaciones.
 ## 9. Relación con México
 
 Régimen en el **Código Civil Federal**:
-- **Definición y elementos:** arts. 1792-1793 (convenio y contrato), 1794-1795 (elementos y
+- **Definición y elementos:** arts. 1792-1793 ⟳ (convenio y contrato), 1794-1795 (elementos y
   validez, remite al acto jurídico), 1796 (perfeccionamiento por consentimiento y obligación de
   buena fe).
-- **Clasificación:** arts. 1835-1838 (uni/bilaterales, onerosos/gratuitos,
+- **Clasificación:** arts. 1835-1838 ⟳ (uni/bilaterales, onerosos/gratuitos,
   conmutativos/aleatorios).
-- **Formación (consentimiento):** arts. 1803-1811 (oferta, aceptación, contratos entre
+- **Formación (consentimiento):** arts. 1803-1811 ⟳ (oferta, aceptación, contratos entre
   ausentes, medios electrónicos).
-- **Interpretación:** arts. 1851-1859.
+- **Interpretación:** arts. 1851-1859 ⟳.
 - **Vicisitudes:** facultad resolutoria (1949); nulidades (2224 y ss.); lesión (17);
   saneamiento (2119 y ss.).
 - **Contratos en particular** (compraventa, arrendamiento, mutuo, mandato, fianza, prenda,
   hipoteca, sociedad civil, etc.): se estudian en el Nivel II.
-- **Materia mercantil:** **Código de Comercio** (arts. 78-88: los contratos mercantiles se
-  rigen por la voluntad de las partes y, en su defecto, por el Código; el **art. 78** consagra
+- **Materia mercantil:** **Código de Comercio** (arts. 78-88 ⟳: los contratos mercantiles se
+  rigen por la voluntad de las partes y, en su defecto, por el Código; el **art. 78 ⟳** consagra
   que en las convenciones mercantiles cada uno se obliga **en la manera y términos en que
   quiso obligarse**, sin requisitos sacramentales); **firma electrónica** y contratación
   electrónica; leyes especiales (consumidor —LFPC—, seguros, etc.).
@@ -422,10 +425,10 @@ Régimen en el **Código Civil Federal**:
 
 ## 13. Cómo lo preguntaría un profesor
 
-- *"Defina contrato y distíngalo del convenio. Fundamente en los arts. 1792-1793."*
+- *"Defina contrato y distíngalo del convenio. Fundamente en los arts. 1792-1793 ⟳."*
 - *"Explique la autonomía de la voluntad y sus límites."*
 - *"¿Cómo se forma el consentimiento entre ausentes en México?"* (Teoría de la recepción.)
-- *"Enuncie y explique las reglas de interpretación de los arts. 1851-1859."*
+- *"Enuncie y explique las reglas de interpretación de los arts. 1851-1859 ⟳."*
 - *"Distinga nulidad, rescisión, resolución y terminación de un contrato."*
 - *"¿Qué es un contrato de adhesión y cómo se controlan sus cláusulas abusivas?"*
 - *"Compare la interpretación contractual del civil law y del common law."*
@@ -438,12 +441,12 @@ Régimen en el **Código Civil Federal**:
 
 ## 14. Cómo aparece en un juicio
 
-- **Acción de cumplimiento o de resolución (art. 1949):** el actor elige exigir el
+- **Acción de cumplimiento o de resolución (art. 1949 ⟳):** el actor elige exigir el
   cumplimiento o resolver, con daños. La calificación de la acción es decisiva.
 - **Acción de nulidad** (vicio de origen) vs. **resolución** (incumplimiento): no confundir;
   determinan legitimación, prescripción y restituciones.
 - **La interpretación como objeto del litigio:** gran parte de los pleitos contractuales
-  discuten **qué significa** una cláusula; el juez aplica los arts. 1851-1859. El abogado
+  discuten **qué significa** una cláusula; el juez aplica los arts. 1851-1859 ⟳. El abogado
   construye su caso sobre estas reglas.
 - **Excepciones contractuales:** *exceptio non adimpleti contractus* (no cumplo porque tú no
   cumpliste), pago, prescripción, nulidad, falta de personalidad.
@@ -575,11 +578,11 @@ debe delimitar deberes y exclusividad.
 ## 21. Preguntas tipo examen (con respuesta modelo)
 
 **P1. Defina contrato y distíngalo del convenio.** *R.* El convenio (género) crea, transmite,
-modifica o extingue obligaciones (art. 1792); el contrato (especie) las **crea o transmite**
-(art. 1793). Todo contrato es convenio, no todo convenio es contrato.
+modifica o extingue obligaciones (art. 1792 ⟳); el contrato (especie) las **crea o transmite**
+(art. 1793 ⟳). Todo contrato es convenio, no todo convenio es contrato.
 
 **P2. ¿Qué significa que el contrato sea "ley entre las partes"?** *R.* La **fuerza
-obligatoria** (*pacta sunt servanda*, art. 1796): lo legalmente pactado vincula a las partes y
+obligatoria** (*pacta sunt servanda*, art. 1796 ⟳): lo legalmente pactado vincula a las partes y
 debe cumplirse de buena fe; el contrato obliga a lo pactado y a las consecuencias conformes a
 la buena fe, el uso y la ley.
 
@@ -626,13 +629,13 @@ desenlace. Construya el argumento de cada parte.
 
 - **¿Contrato vs. convenio?** → Convenio (género): crea/transmite/modifica/extingue; contrato
   (especie): crea o transmite obligaciones.
-- **¿Pacta sunt servanda (art. 1796)?** → El contrato es ley entre las partes; obliga de buena
+- **¿Pacta sunt servanda (art. 1796 ⟳)?** → El contrato es ley entre las partes; obliga de buena
   fe.
 - **¿Cómo se forma el consentimiento?** → Encuentro de oferta y aceptación (lisa y llana).
 - **¿Aceptación que modifica la oferta?** → Es contraoferta; no hay contrato.
 - **¿Teoría de la formación entre ausentes en México?** → Recepción (al recibir el oferente la
   aceptación).
-- **¿Regla de interpretación principal?** → Intención común sobre la letra (art. 1851).
+- **¿Regla de interpretación principal?** → Intención común sobre la letra (art. 1851 ⟳).
 - **¿Contra proferentem?** → La duda se interpreta contra quien redactó (a favor del
   adherente).
 - **¿Relatividad del contrato?** → Solo obliga a las partes (*res inter alios acta*); no a
@@ -739,14 +742,14 @@ CONTRATO (acto jurídico bilateral)
 El contrato es el **acto jurídico bilateral** que crea o transmite obligaciones, y la
 herramienta central del derecho de los negocios. Descansa en la **autonomía de la voluntad**
 —libertad de contratar y de configurar el contenido— limitada por el **orden público** y las
-**normas imperativas**, y en la **fuerza obligatoria** (*pacta sunt servanda*, art. 1796): el
+**normas imperativas**, y en la **fuerza obligatoria** (*pacta sunt servanda*, art. 1796 ⟳): el
 contrato es **ley entre las partes** y obliga de buena fe a lo pactado y a sus consecuencias
 conformes a la buena fe, el uso y la ley. Se **forma** por el encuentro de oferta y aceptación
 (con responsabilidad **precontractual** por mala fe), produce efectos **solo entre las partes**
-(relatividad) y se **interpreta** buscando la **intención común** (art. 1851), de modo
+(relatividad) y se **interpreta** buscando la **intención común** (art. 1851 ⟳), de modo
 sistemático, útil, conforme al uso, **contra proferentem** y según la buena fe. Sus
 **vicisitudes** —nulidad (vicio de origen), rescisión (lesión), **resolución** (incumplimiento,
-art. 1949), terminación e imprevisión— deben distinguirse con precisión.
+art. 1949 ⟳), terminación e imprevisión— deben distinguirse con precisión.
 
 Para el abogado corporativo, este es el libro que convierte la teoría en **producto**: el SPA,
 el APA, el SHA, el term sheet y el contrato de crédito son contratos cuya **anatomía**
@@ -774,10 +777,10 @@ los instrumentos con los que se realiza toda operación corporativa.
 - CISG y Principios UNIDROIT sobre los Contratos Comerciales Internacionales.
 
 **Legislación:**
-- Código Civil Federal: arts. 1792-1859 (convenio/contrato, formación, clasificación,
+- Código Civil Federal: arts. 1792-1859 ⟳ (convenio/contrato, formación, clasificación,
   interpretación); 1949 (resolución); 2224 y ss. (nulidades). (Verificar el código de la
   entidad.)
-- Código de Comercio, arts. 78-88 (contratos mercantiles) y normas de contratación
+- Código de Comercio, arts. 78-88 ⟳ (contratos mercantiles) y normas de contratación
   electrónica.
 - Ley Federal de Protección al Consumidor (contratos de adhesión y cláusulas abusivas).
 

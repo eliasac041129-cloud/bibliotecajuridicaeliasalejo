@@ -1,5 +1,8 @@
 # [Nivel I · Libro 1] Tratado de Derecho Romano
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > *Ubi societas, ibi ius*: donde hay sociedad, hay derecho. Roma no inventó la ley,
 > pero inventó la **ciencia jurídica**: el arte de pensar los problemas humanos con
 > categorías precisas. Quien domina Roma, lee el derecho privado mexicano como lengua
@@ -47,7 +50,7 @@ construir reglas— es exactamente el método del abogado transaccional que anal
 operación. Roma entrena el músculo del *legal reasoning*.
 
 **Tercera: revela el *por qué* de las instituciones.** El estudiante que solo memoriza
-el artículo 2248 del Código Civil Federal (definición de compraventa) sabe *qué* dice la
+el artículo 2248 ⟳ del Código Civil Federal (definición de compraventa) sabe *qué* dice la
 ley. El que conoce la *emptio venditio* romana entiende *por qué* la compraventa
 transmite obligaciones y no de inmediato la propiedad en el modelo clásico, por qué
 existen los vicios ocultos, por qué hay saneamiento por evicción. Comprender el porqué
@@ -414,16 +417,16 @@ Alfonso X, fuertemente romanizadas) → Derecho indiano colonial → Código Civ
 - *Obligaciones* (Libro Cuarto del CCF): la definición, las fuentes (contrato, declaración
   unilateral, enriquecimiento sin causa —*condictio*—, gestión de negocios —*negotiorum
   gestio*—, hechos ilícitos), el dolo, la culpa, la mora, el caso fortuito: todo es romano.
-- *Compraventa* (arts. 2248 y ss.): saneamiento por **evicción** (arts. 2119 y ss.) y por
-  **vicios ocultos** (arts. 2142 y ss.) son la *actio* de evicción y las acciones edilicias
+- *Compraventa* (arts. 2248 ⟳ y ss.): saneamiento por **evicción** (arts. 2119 ⟳ y ss.) y por
+  **vicios ocultos** (arts. 2142 ⟳ y ss.) son la *actio* de evicción y las acciones edilicias
   romanas.
 - *Derechos reales*: propiedad, usufructo, uso, habitación, **servidumbres**, **prenda** e
   **hipoteca**: catálogo romano.
-- *Prescripción* adquisitiva (*usucapio*) y liberatoria: arts. 1135 y ss.
+- *Prescripción* adquisitiva (*usucapio*) y liberatoria: arts. 1135 ⟳ y ss.
 - *Personas y familia*: capacidad, representación, tutela: matriz romana.
 - *Sucesiones*: testamento, herencia, legado: estructura romana.
 
-**Buena fe:** principio transversal del derecho mexicano (arts. 1796 y 2284 CCF, y en
+**Buena fe:** principio transversal del derecho mexicano (arts. 1796 y 2284 CCF ⟳, y en
 materia mercantil), heredero directo de la *bona fides* romana.
 
 > **Conclusión para el estudiante:** estudiar Roma no es un lujo histórico; es estudiar el
@@ -521,10 +524,10 @@ Aunque nadie litiga "derecho romano" directamente, sus categorías son munición
 
 - **Acciones reales vs. personales:** la distinción romana (¿reclamo una *cosa* frente a
   todos, o una *prestación* frente a un obligado?) determina hoy qué acción ejercer:
-  reivindicatoria (art. 4 CPC y normas sustantivas) vs. acción personal de cumplimiento.
+  reivindicatoria (art. 4 ⟳ CPC y normas sustantivas) vs. acción personal de cumplimiento.
 - **Excepciones:** muchas defensas procesales descienden de las *exceptiones* pretorias
   (p. ej. *exceptio non adimpleti contractus*: la excepción de contrato no cumplido, viva
-  en el art. 1949 CCF).
+  en el art. 1949 CCF ⟳).
 - **Prescripción:** la *usucapio* y la prescripción liberatoria son defensas cotidianas.
 - **Carga de la prueba:** *ei incumbit probatio qui dicit, non qui negat* (la prueba
   incumbe al que afirma) es regla procesal romana plenamente vigente.
@@ -537,17 +540,17 @@ Aunque nadie litiga "derecho romano" directamente, sus categorías son munición
 
 Todo contrato moderno está tejido con hilos romanos:
 
-- **Objeto, causa y consentimiento:** los elementos esenciales (arts. 1794 y 2224 CCF)
+- **Objeto, causa y consentimiento:** los elementos esenciales (arts. 1794 y 2224 CCF ⟳)
   derivan de la reflexión romana sobre *res*, *causa* y *conventio*.
 - **Cláusulas de saneamiento:** la garantía por evicción y por vicios ocultos se pacta,
   amplía o limita expresamente; en un SPA reaparece como *title warranties* e
   indemnización.
 - **Estipulaciones penales:** la *stipulatio poenae* romana es la cláusula penal del art.
-  1840 CCF y la *liquidated damages* anglosajona.
+  1840 CCF ⟳ y la *liquidated damages* anglosajona.
 - **Condición y término:** *condicio* y *dies* romanos son las *conditions precedent* y los
   plazos de un contrato corporativo.
 - **Pacto comisorio y resolución:** la *lex commissoria* romana late en la facultad
-  resolutoria por incumplimiento (art. 1949 CCF).
+  resolutoria por incumplimiento (art. 1949 CCF ⟳).
 
 ---
 
@@ -677,7 +680,7 @@ acreedor cuenta con una *actio*. La obligación natural carece de acción pero p
 (entregar y garantizar), no un acto traslativo. La propiedad se transmitía por el **modo**
 correspondiente (*mancipatio*, *in iure cessio* o *traditio* con justa causa). Rige el
 sistema de **título y modo**, recogido por el derecho alemán; el Código Civil mexicano, en
-cambio, adopta el consensualismo francés para bienes ciertos (art. 2014 CCF).
+cambio, adopta el consensualismo francés para bienes ciertos (art. 2014 CCF ⟳).
 
 **P3. Clasifique los contratos romanos.**
 *R.* Por su modo de perfeccionarse: **reales** (mutuo, comodato, depósito, prenda —se
@@ -716,7 +719,7 @@ Por *stipulatio*, X promete a Y pagar 1,000 como "precio" de una influencia inde
 un magistrado. Y reclama el pago. Discuta: validez formal de la *stipulatio*, *exceptio
 doli*, *condictio ob turpem causam* y la imposibilidad de repetir lo pagado por causa
 torpe de ambas partes (*in pari causa turpitudinis*). Conecte con el control de **causa
-ilícita** del art. 1795-IV CCF y con las cláusulas **anticorrupción** de un contrato
+ilícita** del art. 1795-IV CCF ⟳ y con las cláusulas **anticorrupción** de un contrato
 internacional moderno (FCPA/UK Bribery Act). ¿La forma abstracta puede "lavar" una causa
 ilícita? Argumente.
 
@@ -726,7 +729,7 @@ Tres personas constituyen una *societas*: dos aportan capital y una solo su trab
 *societas leonina* (pacto que asigna a uno todas las pérdidas o a otro todas las ganancias)
 y su prohibición. Proyecte el problema al derecho societario moderno: cláusulas leoninas en
 estatutos, *liquidation preferences* en venture capital y el límite del pacto que priva a
-un socio de toda utilidad (art. 17 LGSM). ¿Dónde está hoy la frontera entre libertad
+un socio de toda utilidad (art. 17 LGSM ⟳). ¿Dónde está hoy la frontera entre libertad
 contractual y prohibición de pacto leonino?
 
 
@@ -829,7 +832,7 @@ DERECHO ROMANO PRIVADO
 | Sistema | ¿El contrato transmite la propiedad? | Ejemplo |
 |---|---|---|
 | Romano clásico / Alemán (BGB) | No: hace falta el modo (entrega) | Compraventa + *traditio* |
-| Francés / Mexicano (bienes ciertos) | Sí: por el solo consentimiento | Art. 2014 CCF |
+| Francés / Mexicano (bienes ciertos) | Sí: por el solo consentimiento | Art. 2014 CCF ⟳ |
 
 ---
 

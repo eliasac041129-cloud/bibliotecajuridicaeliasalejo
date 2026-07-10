@@ -1,5 +1,8 @@
 # [Nivel III · Libro 7] Gobierno Corporativo
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > ¿Quién manda en una empresa, cómo decide y ante quién responde? El **gobierno corporativo** es el
 > sistema de **poder, control y responsabilidad** dentro de la sociedad: cómo se reparte el poder
 > entre accionistas, consejo y dirección; cómo se vigila a quienes administran dinero ajeno; y cómo se
@@ -217,17 +220,17 @@ rol de mayor responsabilidad y prestigio—.
 
 ## 11. Definiciones legales (LGSM y LMV — verificar versión vigente)
 
-- **Administración (LGSM, arts. 142 y ss.):** la sociedad se administra por uno o varios mandatarios
+- **Administración (LGSM, arts. 142 ⟳ y ss.):** la sociedad se administra por uno o varios mandatarios
   (administrador único o **consejo de administración**); representan a la sociedad y ejecutan la
   voluntad social.
-- **Responsabilidad de los administradores (LGSM, arts. 157-163):** los administradores son
+- **Responsabilidad de los administradores (LGSM, arts. 157-163 ⟳):** los administradores son
   **solidariamente responsables** frente a la sociedad por el cumplimiento de sus obligaciones; la
   **acción social de responsabilidad** puede ejercerla la sociedad (asamblea) o una **minoría del
-  25%** (art. 163).
-- **Vigilancia (LGSM, arts. 164-171):** el **comisario** fiscaliza la gestión.
-- **Gobierno corporativo de la emisora (LMV, arts. 22 y ss.):** para la **S.A.B.**:
+  25%** (art. 163 ⟳).
+- **Vigilancia (LGSM, arts. 164-171 ⟳):** el **comisario** fiscaliza la gestión.
+- **Gobierno corporativo de la emisora (LMV, arts. 22 ⟳ y ss.):** para la **S.A.B.**:
   - **Consejo de administración** con **consejeros independientes** (al menos el **25%**).
-  - **Deberes de diligencia y lealtad** de consejeros y director general **codificados** (arts. 30-37),
+  - **Deberes de diligencia y lealtad** de consejeros y director general **codificados** (arts. 30-37 ⟳),
     con la **regla de juicio de negocio** (no se les responsabiliza por decisiones de negocio tomadas
     informadamente y de buena fe, aunque resulten desfavorables).
   - **Comités** de **auditoría** y de **prácticas societarias**, integrados por independientes.
@@ -282,7 +285,7 @@ ruina.
   los riesgos (integrado por independientes).
 - **Comité de prácticas societarias:** vigila las OPR, las compensaciones y los conflictos de interés.
 - **Acción social de responsabilidad:** la vía para exigir a los administradores que **reparen** el
-  daño causado a la sociedad por violar sus deberes (sociedad o minoría del 25%, LGSM art. 163).
+  daño causado a la sociedad por violar sus deberes (sociedad o minoría del 25%, LGSM art. 163 ⟳).
 - **Regla de juicio de negocio (*business judgment rule*):** protege a los administradores diligentes
   de ser segundo-adivinados por los tribunales; presume que actuaron bien si decidieron informados, de
   buena fe y sin conflicto.
@@ -336,7 +339,7 @@ El **consejo** es el corazón del gobierno corporativo. Buen diseño:
 
 ### 14.C · Los deberes fiduciarios: el corazón de la responsabilidad
 
-Los administradores manejan **dinero ajeno**; por eso tienen **deberes fiduciarios** (LMV arts. 30-37
+Los administradores manejan **dinero ajeno**; por eso tienen **deberes fiduciarios** (LMV arts. 30-37 ⟳
 para la S.A.B.; principios generales para toda sociedad):
 
 **1) Deber de diligencia (o de cuidado).** Actuar **informadamente**, con la diligencia de un buen
@@ -356,7 +359,7 @@ empresarial razonable; castiga la **negligencia** y el **conflicto**.)
 
 **Responsabilidad:** la violación de estos deberes genera **responsabilidad** (deber de **reparar** el
 daño a la sociedad), exigible por la sociedad o por una **minoría del 25%** (acción social de
-responsabilidad, LGSM art. 163). En la S.A.B., el régimen es más detallado (LMV). El **deber de
+responsabilidad, LGSM art. 163 ⟳). En la S.A.B., el régimen es más detallado (LMV). El **deber de
 lealtad** es más estricto que el de diligencia: el conflicto de interés **no** está protegido por la
 regla de juicio de negocio.
 
@@ -562,7 +565,7 @@ los débiles.
 - **LGSM (sociedades en general):** administración (142 y ss.), responsabilidad de administradores
   (157-163), acción social de responsabilidad (163, minoría del 25%), vigilancia (164-171).
 - **LMV (emisoras / S.A.B.):** consejo y **consejeros independientes** (≥25%); **comités de auditoría y
-  de prácticas societarias**; **deberes de diligencia y lealtad** codificados (arts. 30-37) con
+  de prácticas societarias**; **deberes de diligencia y lealtad** codificados (arts. 30-37 ⟳) con
   **business judgment rule**; régimen de **operaciones con partes relacionadas**; **S.A.P.I.** (gobierno
   pactable).
 - **Código de Principios de Gobierno Corporativo (CCE):** mejores prácticas (recomendatorias) que

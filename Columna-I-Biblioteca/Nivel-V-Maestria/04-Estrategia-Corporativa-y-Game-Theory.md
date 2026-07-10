@@ -1,5 +1,8 @@
 # [Nivel V · Libro 4] Estrategia Corporativa y Game Theory
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Este es el **último libro de la biblioteca** —y el que corona la maestría—. Has aprendido a negociar
 > (Libro 1), a entender los números (Libro 2) y a valuar (Libro 3). Pero hay una pregunta que está **por
 > encima** de todas: **¿por qué y para qué?** ¿Por qué esta adquisición tiene sentido?, ¿crea ventaja

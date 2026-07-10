@@ -1,5 +1,8 @@
 # [Nivel II · Libro 4] Garantías y Derechos Reales de Garantía
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > El crédito vive del riesgo de que no le paguen; la **garantía** es la respuesta del derecho a
 > ese riesgo. Si la responsabilidad civil (Libro 3) repara el daño **después** de que ocurre, la
 > garantía lo **previene**: asegura el cumplimiento con un patrimonio adicional (garantía
@@ -64,7 +67,7 @@ Al terminar, el lector será capaz de:
   cobrar).
 - **Diseñar un *security package*** idóneo para cada activo del deudor y coordinar su **inscripción
   simultánea** al cierre.
-- **Manejar la accesoriedad** y sus trampas (novación, art. 2220) y las garantías **autónomas** (a
+- **Manejar la accesoriedad** y sus trampas (novación, art. 2220 ⟳) y las garantías **autónomas** (a
   primera demanda).
 - **Anticipar la prelación** en **concurso mercantil** y entre acreedores (*intercreditor
   agreements*, subordinación).
@@ -197,21 +200,21 @@ derecho civil profundo y la antesala directa del Nivel IV (financiamiento y M&A)
 
 ## 11. Definiciones legales (verificar versión vigente)
 
-- **Fianza — art. 2794 CCF:** contrato por el cual una persona se compromete con el acreedor a
-  **pagar por el deudor** si éste no lo hace. **Beneficios de orden y excusión:** arts. 2814 y ss.
+- **Fianza — art. 2794 CCF ⟳:** contrato por el cual una persona se compromete con el acreedor a
+  **pagar por el deudor** si éste no lo hace. **Beneficios de orden y excusión:** arts. 2814 ⟳ y ss.
   (renunciables).
-- **Prenda (con desplazamiento) — art. 2856 CCF:** derecho real constituido sobre un bien mueble
+- **Prenda (con desplazamiento) — art. 2856 CCF ⟳:** derecho real constituido sobre un bien mueble
   enajenable para **garantizar** el cumplimiento de una obligación y su preferencia en el pago.
-- **Hipoteca — art. 2893 CCF:** garantía real constituida sobre bienes **que no se entregan** al
+- **Hipoteca — art. 2893 CCF ⟳:** garantía real constituida sobre bienes **que no se entregan** al
   acreedor, y que da derecho, en caso de incumplimiento, a ser pagado con el valor de los bienes,
   con la preferencia que la ley establece.
-- **Prohibición del pacto comisorio — art. 2887 CCF (prenda) y reglas análogas en hipoteca:** es
+- **Prohibición del pacto comisorio — art. 2887 CCF ⟳ (prenda) y reglas análogas en hipoteca:** es
   **nulo** el pacto que autorice al acreedor a **apropiarse** de la cosa dada en garantía sin las
   formalidades de venta/remate (protege al deudor).
-- **Prenda sin transmisión de posesión — arts. 346 y ss. LGTOC:** el deudor **conserva la posesión**
+- **Prenda sin transmisión de posesión — arts. 346 ⟳ y ss. LGTOC:** el deudor **conserva la posesión**
   y el uso del bien (inventario, maquinaria, materias primas) que queda gravado; se inscribe en el
   **RUG**.
-- **Fideicomiso de garantía — arts. 395 y ss. LGTOC:** afectación de bienes en fideicomiso para
+- **Fideicomiso de garantía — arts. 395 ⟳ y ss. LGTOC:** afectación de bienes en fideicomiso para
   garantizar obligaciones, con reglas de ejecución (incluso extrajudicial pactada).
 - **Registro Único de Garantías Mobiliarias (RUG) — Código de Comercio:** publicidad electrónica de
   las garantías sobre bienes muebles; fija **prelación** por la fecha de inscripción.
@@ -233,7 +236,7 @@ prioridad) y **se puede cobrar rápido** (ejecutable).
 - **Garantía personal vs. real:** patrimonio(s) adicional(es) que responde(n) vs. bien concreto
   afectado con persecución y preferencia.
 - **Accesoriedad:** la garantía **sigue la suerte del crédito** que garantiza (si se extingue o se
-  **nova** sin reserva, la garantía cae — art. 2220, Libro 1). Excepción: las garantías
+  **nova** sin reserva, la garantía cae — art. 2220 ⟳, Libro 1). Excepción: las garantías
   **autónomas**.
 - **Persecución (*ius persequendi*):** el acreedor con garantía real persigue el bien **aunque pase
   a un tercero**.
@@ -274,14 +277,14 @@ package** y la prelación en concurso.
 ### 14.A · Las garantías personales (fianza, aval, garantía corporativa)
 
 **Fianza.** Contrato accesorio por el que el fiador **paga por el deudor** si este no lo hace
-(art. 2794). Ciclo de vida:
+(art. 2794 ⟳). Ciclo de vida:
 - **Constitución:** por contrato; debe ser **expresa** y no se presume; no puede exceder ni ser más
   onerosa que la obligación principal (accesoriedad).
-- **Beneficios de orden y excusión (arts. 2814 y ss.):** el fiador puede exigir que se demande y se
+- **Beneficios de orden y excusión (arts. 2814 ⟳ y ss.):** el fiador puede exigir que se demande y se
   persigan **primero** los bienes del deudor. **En la práctica comercial se renuncian**, volviendo
   al fiador un obligado de **cobro inmediato** (casi solidario).
 - **Extinción:** se extingue con el crédito principal; la **novación** o la **prórroga** concedida
-  al deudor sin consentimiento del fiador lo **liberan** (arts. 2220-2222). *Trampa:* todo garante
+  al deudor sin consentimiento del fiador lo **liberan** (arts. 2220-2222 ⟳). *Trampa:* todo garante
   debe **ratificar** cualquier modificación/novación.
 
 **Aval** (título de crédito, LGTOC — se profundiza en Nivel III): garantía **autónoma y solidaria**
@@ -301,7 +304,7 @@ un tercero). Ciclo:
   perfeccionamiento frente a terceros.
 - **Prioridad:** la posesión del acreedor publicita la prenda.
 - **Ejecución:** ante incumplimiento, **venta/remate** (no apropiación: pacto comisorio **prohibido**,
-  art. 2887); el acreedor cobra con **preferencia** sobre el producto.
+  art. 2887 ⟳); el acreedor cobra con **preferencia** sobre el producto.
 
 **Prenda sin transmisión de posesión (LGTOC, la moderna y más usada en empresa).** El deudor
 **conserva y usa** el bien (inventario, maquinaria, materias primas, equipo). Ciclo:
@@ -321,7 +324,7 @@ financió la compra, el banco se queda con (o realiza) **las acciones de la *tar
 
 Ciclo de vida:
 - **Constitución:** sobre bienes **inmuebles** (y ciertos derechos, p. ej. una concesión); requiere
-  **escritura pública** (art. 2917). El deudor **conserva la posesión y el uso** (sigue operando la
+  **escritura pública** (art. 2917 ⟳). El deudor **conserva la posesión y el uso** (sigue operando la
   planta hipotecada).
 - **Perfeccionamiento:** **inscripción en el Registro Público de la Propiedad**; sin inscripción,
   no es oponible a terceros.
@@ -349,9 +352,9 @@ fuente de pago** son piezas centrales de los financiamientos estructurados.
 Las garantías (salvo las autónomas) son **accesorias**: siguen al crédito. Consecuencias críticas:
 - Si el crédito **se extingue** (pago, prescripción), la garantía **se extingue**.
 - Si el crédito **se nova** sin **reserva expresa**, las garantías accesorias **se extinguen**
-  (art. 2220) y los garantes terceros solo subsisten si **consienten**. *El error más caro de las
+  (art. 2220 ⟳) y los garantes terceros solo subsisten si **consienten**. *El error más caro de las
   reestructuras* (visto en el Libro 1).
-- Si el crédito **se cede**, la garantía **se transmite con él** (art. 2032) — pero conviene
+- Si el crédito **se cede**, la garantía **se transmite con él** (art. 2032 ⟳) — pero conviene
   **reinscribir** a nombre del cesionario para su oponibilidad.
 
 Frente a ello, las **garantías autónomas / a primera demanda** (independientes del crédito
@@ -430,7 +433,7 @@ de candados** bien puestos sobre el patrimonio del deudor.
    incumplimiento. Para tener prioridad, **hay que tomar y registrar** garantía real.
 2. **Novación que extingue la garantía corporativa.** Una matriz **afianza** el crédito de su
    filial. El banco y la filial **novan** el crédito (nuevo monto y plazo) **sin** que la matriz
-   consienta. La fianza corporativa se **extingue** (accesoriedad + arts. 2220-2222): el banco
+   consienta. La fianza corporativa se **extingue** (accesoriedad + arts. 2220-2222 ⟳): el banco
    pierde la garantía del grupo. *Solución:* ratificación de la matriz en toda novación.
 3. **Garantía constituida en periodo de retroacción.** Un deudor en dificultades constituye una
    hipoteca a favor de un acreedor preexistente poco antes de caer en concurso. El conciliador o
@@ -447,11 +450,11 @@ de candados** bien puestos sobre el patrimonio del deudor.
 ## 18. Casos reales (jurisprudencia y operaciones estilizadas)
 
 - **Prohibición del pacto comisorio:** los tribunales reiteran la **nulidad** del pacto que permite
-  al acreedor **apropiarse** del bien dado en garantía sin remate (arts. 2887 y análogos); la
+  al acreedor **apropiarse** del bien dado en garantía sin remate (arts. 2887 ⟳ y análogos); la
   garantía se ejecuta por **venta/remate** o conforme al fideicomiso. Protege al deudor frente a
   ejecuciones abusivas.
 - **Fianza: liberación por prórroga/novación sin consentimiento del fiador** (arts. 2846-2849 y
-  2220): criterios que liberan al fiador cuando el acreedor altera la obligación principal sin su
+  2220 ⟳): criterios que liberan al fiador cuando el acreedor altera la obligación principal sin su
   anuencia.
 - **Prelación registral:** criterios que aplican *prior in tempore, potior in iure* a hipotecas y a
   garantías inscritas en el RUG; la **fecha de inscripción** decide.
@@ -524,14 +527,14 @@ de candados** bien puestos sobre el patrimonio del deudor.
 
 ## 23. Derecho mexicano
 
-- **Fianza:** arts. 2794-2855 CCF (beneficios de orden y excusión 2814 y ss.; liberación del
+- **Fianza:** arts. 2794-2855 CCF ⟳ (beneficios de orden y excusión 2814 y ss.; liberación del
   fiador 2846-2849). Fianza de empresa: regulada (afianzadoras).
-- **Prenda (con desplazamiento):** arts. 2856-2892 CCF; **pacto comisorio prohibido** (2887).
-- **Hipoteca:** arts. 2893-2943 CCF; escritura pública (2917); inscripción en el Registro Público
+- **Prenda (con desplazamiento):** arts. 2856-2892 CCF ⟳; **pacto comisorio prohibido** (2887).
+- **Hipoteca:** arts. 2893-2943 CCF ⟳; escritura pública (2917); inscripción en el Registro Público
   de la Propiedad; grados hipotecarios.
-- **Prenda sin transmisión de posesión:** arts. 346-380 LGTOC; **RUG** (Código de Comercio).
-- **Fideicomiso de garantía:** arts. 395-414 LGTOC; reglas de ejecución.
-- **Aval:** arts. 109-116 LGTOC (garantía cambiaria autónoma — Nivel III).
+- **Prenda sin transmisión de posesión:** arts. 346-380 LGTOC ⟳; **RUG** (Código de Comercio).
+- **Fideicomiso de garantía:** arts. 395-414 LGTOC ⟳; reglas de ejecución.
+- **Aval:** arts. 109-116 LGTOC ⟳ (garantía cambiaria autónoma — Nivel III).
 - **Prelación en concurso:** Ley de Concursos Mercantiles (acreedores con garantía real,
   singularmente privilegiados, con privilegio especial, comunes; periodo de retroacción).
 - **Ejecución:** juicio hipotecario y vía ejecutiva mercantil (Código de Comercio); ejecución de
@@ -588,7 +591,7 @@ de candados** bien puestos sobre el patrimonio del deudor.
    **ejecución ágil**; pero su uso debe cuidar el **fraude de acreedores** y el **concurso** (los
    bienes "blindados" pueden ser atacados si la afectación fue tardía o fraudulenta).
 3. **La accesoriedad es una virtud y una trampa.** Protege al garante (si el crédito se extingue,
-   se libera), pero **destruye garantías** en novaciones descuidadas (art. 2220). El Consejo
+   se libera), pero **destruye garantías** en novaciones descuidadas (art. 2220 ⟳). El Consejo
    recomienda **garantías autónomas** cuando el acreedor necesite blindaje frente a las vicisitudes
    del crédito, y **reserva expresa + ratificación de garantes** en toda novación.
 
@@ -615,7 +618,7 @@ de candados** bien puestos sobre el patrimonio del deudor.
   terceros y perder prioridad. El error más caro del financiamiento.
 - **Confundir el bien con su garantía.** Inmueble → **hipoteca**; mueble (incluidas **acciones**) →
   **prenda**. Querer "hipotecar" acciones o "prendar" un edificio es un error de base.
-- **Novar el crédito sin reservar garantías ni que los garantes consientan** (art. 2220): se
+- **Novar el crédito sin reservar garantías ni que los garantes consientan** (art. 2220 ⟳): se
   **extinguen** (visto en Libros 1 y 3).
 - **Pactar pacto comisorio.** Nulo: la garantía se ejecuta por **remate**, no por apropiación.
 - **Confiar en el *negative pledge* como si fuera garantía real.** Solo da acción por
@@ -667,7 +670,7 @@ terceros ni dar prioridad.
 (endoso en garantía + anotación en el libro de registro).
 
 **P4.** *¿Qué es el pacto comisorio y cuál es su régimen?* **R.** El pacto que permite al acreedor
-**apropiarse** del bien dado en garantía sin remate; es **nulo** (art. 2887). La garantía se ejecuta
+**apropiarse** del bien dado en garantía sin remate; es **nulo** (art. 2887 ⟳). La garantía se ejecuta
 por **venta/remate**.
 
 **P5.** *¿Qué ventaja tiene el fideicomiso de garantía frente a la hipoteca?* **R.** Permite una
@@ -805,7 +808,7 @@ se venda) y **preferencia** (cobrar antes que los demás)—. Lo decisivo es el 
 Público o el **RUG**), **prioridad** (*prior in tempore* registral: quien inscribe primero, gana) y
 **ejecución** (por **remate**, nunca por apropiación —pacto comisorio nulo—; o por la vía **ágil**
 del fideicomiso). La **accesoriedad** protege al garante pero esconde la trampa de la **novación
-sin reserva** (art. 2220), frente a la cual existen las **garantías autónomas** (a primera demanda).
+sin reserva** (art. 2220 ⟳), frente a la cual existen las **garantías autónomas** (a primera demanda).
 
 Para el abogado corporativo, este libro es el plano del **security package**: a cada activo, su
 garantía idónea (inmueble→hipoteca; maquinaria/inventario→prenda sin transmisión/RUG;
@@ -842,7 +845,7 @@ Mercantil** (Nivel III).
 ## 42. Bibliografía comentada
 
 - **LGTOC y su doctrina (prenda sin transmisión, fideicomiso de garantía).** Lectura **esencial**:
-  es el derecho vigente y más usado en financiamiento; estudia los arts. 346 y ss. y 395 y ss.
+  es el derecho vigente y más usado en financiamiento; estudia los arts. 346 ⟳ y ss. y 395 y ss.
 - **Barrera Graf, J., *Instituciones de Derecho Mercantil*.** Operaciones de crédito y garantías
   con visión sistemática.
 - **Rojina Villegas / Gutiérrez y González** (fianza, prenda e hipoteca civiles). Para los
@@ -898,7 +901,7 @@ de las especialidades mejor pagadas del mercado.
 1. **Garantía no inscrita / mal perfeccionada.** El día del impago, una hipoteca no inscrita o una
    prenda no registrada en el RUG puede ser **inoponible** y perder prioridad frente a otro acreedor
    que sí inscribió. Pérdida potencial: **toda** la recuperación esperada.
-2. **Novar el crédito y perder las garantías (art. 2220).** Reestructurar como "novación" sin
+2. **Novar el crédito y perder las garantías (art. 2220 ⟳).** Reestructurar como "novación" sin
    reservar las garantías ni obtener la ratificación de los garantes las **extingue**. El acreedor
    pasa de privilegiado a quirografario.
 3. **Confiar en el negative pledge como garantía.** El acreedor que solo tiene un *negative pledge*

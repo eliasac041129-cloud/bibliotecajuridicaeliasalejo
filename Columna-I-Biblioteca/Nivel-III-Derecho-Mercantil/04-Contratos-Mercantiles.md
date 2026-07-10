@@ -1,5 +1,8 @@
 # [Nivel III · Libro 4] Contratos Mercantiles
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Si los contratos civiles (Nivel II) son la gramática, los **contratos mercantiles** son el
 > lenguaje vivo de los negocios: la compraventa mercantil que mueve el comercio, la comisión y la
 > distribución que llevan los productos al mercado, el **factoraje** y el **leasing** que financian
@@ -41,7 +44,7 @@ Una empresa **es**, en buena medida, un **haz de contratos** (Libro 8, Nivel I; 
 Libro 9): contratos con proveedores, clientes, distribuidores, financiadores, franquiciatarios.
 Los **contratos mercantiles** son esos contratos en su versión profesional: más rápidos, más
 estandarizados, con presunción de **onerosidad**, regidos por la **autonomía de la voluntad** (art.
-78 C. Com.) y los **usos**, y con frecuencia **atípicos** (creados por la práctica: leasing,
+78 ⟳ C. Com.) y los **usos**, y con frecuencia **atípicos** (creados por la práctica: leasing,
 factoraje, franquicia, no regulados en detalle por la ley).
 
 La idea central: sobre la **parte general del contrato** (Nivel I) y los **contratos civiles típicos**
@@ -169,14 +172,14 @@ vivo de la empresa que se compra y se vende.
 ## 10. Definiciones doctrinales
 
 - **Contrato mercantil (doctrina):** contrato regido por el derecho mercantil, sea por su
-  **naturaleza** (acto de comercio, art. 75 C. Com.), por la **calidad** de las partes
+  **naturaleza** (acto de comercio, art. 75 ⟳ C. Com.), por la **calidad** de las partes
   (comerciantes/empresas) o por su **objeto** (operaciones de empresa). Se rige por la voluntad de las
   partes y, supletoriamente, por el Código de Comercio y el derecho civil.
 - **Contrato de empresa (doctrina moderna):** contratos cuya función es **organizar la actividad
   empresarial** (suministro, distribución, franquicia, factoraje, leasing); reflejan el tránsito del
   "acto de comercio" al "derecho de la empresa" (Libro 1, Nivel III).
 - **Contrato atípico (doctrina):** el no regulado específicamente por la ley; válido por la
-  **autonomía de la voluntad** (art. 78 C. Com.); se integra por lo pactado + analogía con figuras
+  **autonomía de la voluntad** (art. 78 ⟳ C. Com.); se integra por lo pactado + analogía con figuras
   típicas afines + usos + buena fe.
 - **Contratos relacionales (Macneil):** los de **larga duración** y cooperación continua
   (distribución, franquicia, suministro), donde importa más la **relación** que el intercambio
@@ -189,23 +192,23 @@ vivo de la empresa que se compra y se vende.
 
 ## 11. Definiciones legales (verificar versión vigente)
 
-- **Mercantilidad del contrato — arts. 75 y 78 C. Com.:** son mercantiles los contratos que recaen
+- **Mercantilidad del contrato — arts. 75 y 78 ⟳ C. Com.:** son mercantiles los contratos que recaen
   sobre actos de comercio; y "en las convenciones mercantiles cada uno se obliga **en la manera y
-  términos en que quiso obligarse**" (art. 78: autonomía y libertad de forma).
-- **Compraventa mercantil — arts. 371-387 C. Com.:** compraventa hecha con propósito de
+  términos en que quiso obligarse**" (art. 78 ⟳: autonomía y libertad de forma).
+- **Compraventa mercantil — arts. 371-387 ⟳ C. Com.:** compraventa hecha con propósito de
   **especulación comercial** (reventa con lucro); reglas propias de **mora** (en obligaciones a día
   cierto, sin interpelación), entrega, riesgos e intereses; supletoriamente, la compraventa civil
   (Libro 2 Nivel II).
-- **Comisión mercantil — arts. 273-308 C. Com.:** mandato aplicado a actos de comercio; el comisionista
+- **Comisión mercantil — arts. 273-308 ⟳ C. Com.:** mandato aplicado a actos de comercio; el comisionista
   actúa por cuenta del comitente (con o sin representación).
-- **Factoraje financiero y arrendamiento financiero — LGTOC (arts. 408 y ss. factoraje; 408 y ss.
+- **Factoraje financiero y arrendamiento financiero — LGTOC (arts. 408 ⟳ y ss. factoraje; 408 y ss.
   arrendamiento financiero, tras su incorporación a la LGTOC).** Operaciones reguladas; pueden
   realizarlas entidades financieras (SOFOMES, bancos).
 - **Franquicia — Ley Federal de Protección a la Propiedad Industrial (antes LPI):** licencia de uso de
   marca + transmisión de **conocimientos técnicos / asistencia** para producir o vender bienes o
   servicios de manera uniforme; obligación de entregar la **Circular de Oferta de Franquicia (COF)**
   con información precontractual.
-- **Contratos atípicos — art. 78 C. Com. + supletoriedad civil:** validez por la autonomía de la
+- **Contratos atípicos — art. 78 ⟳ C. Com. + supletoriedad civil:** validez por la autonomía de la
   voluntad; integración por analogía, usos y buena fe.
 - **Comercio electrónico — Código de Comercio (Título II, "Del comercio electrónico"):** mensajes de
   datos, **firma electrónica**, validez de la contratación electrónica.
@@ -216,7 +219,7 @@ Los **contratos mercantiles** son los contratos "de negocios": las versiones rá
 de los contratos, que usan las empresas para **vender** (compraventa mercantil), **vender a través de
 otros** (comisión, distribución, franquicia), **financiarse** (factoraje, leasing) y **organizarse**.
 Muchos son **atípicos**: no están en un código, sino que las partes los **inventan** según lo que
-necesitan, con la libertad que el derecho mercantil les da (art. 78). En una compra de empresa, estos
+necesitan, con la libertad que el derecho mercantil les da (art. 78 ⟳). En una compra de empresa, estos
 contratos son los **activos** que generan los ingresos —y hay que revisar si se pueden **transmitir**
 y si la otra parte puede **cancelarlos** porque cambió el dueño—.
 
@@ -330,7 +333,7 @@ Cómo la empresa **financia su operación y sus activos** sin un crédito tradic
 
 ### 14.D · Contratos atípicos y el joint venture
 
-- **Atípicos en general:** válidos por la **autonomía de la voluntad** (art. 78); se integran con
+- **Atípicos en general:** válidos por la **autonomía de la voluntad** (art. 78 ⟳); se integran con
   analogía a figuras típicas, usos y buena fe. El abogado debe **redactarlos con detalle** (porque la
   ley no los "rellena").
 - **Joint venture (coinversión):** dos o más empresas se asocian para un **proyecto común**. Dos
@@ -379,7 +382,7 @@ Piensa en una empresa como un **cuerpo** y en los contratos mercantiles como sus
 - El **joint venture** es **darse la mano con otra empresa** para un proyecto que ninguna haría sola.
 
 Y muchos de estos contratos son **trajes a la medida** (atípicos): la ley no los tiene en un cajón,
-así que el abogado los **cose** según lo que el negocio necesita, usando la libertad del art. 78. En
+así que el abogado los **cose** según lo que el negocio necesita, usando la libertad del art. 78 ⟳. En
 una compra de empresa, estos contratos son los **órganos vitales** que se transfieren: hay que revisar
 que **funcionen tras el trasplante** (que sean cedibles, que la otra parte no los cancele por el cambio
 de dueño). Por eso, leer y gestionar contratos mercantiles es buena parte del trabajo diario —y de la
@@ -485,9 +488,9 @@ due diligence— del abogado de negocios.
 
 | Sistema | Rasgos de los contratos mercantiles |
 |---|---|
-| **México** | Código de Comercio (compraventa, comisión, transporte, seguro) + LGTOC (factoraje, leasing) + LFPPI (franquicia); muchos **atípicos** (distribución, agencia, JV) regidos por la autonomía (art. 78). |
+| **México** | Código de Comercio (compraventa, comisión, transporte, seguro) + LGTOC (factoraje, leasing) + LFPPI (franquicia); muchos **atípicos** (distribución, agencia, JV) regidos por la autonomía (art. 78 ⟳). |
 | **España** | Código de Comercio + leyes especiales; **Ley del Contrato de Agencia** (protege al agente, indemnización por clientela); franquicia regulada. |
-| **Estados Unidos** | **UCC** (venta de bienes —Art. 2—, leasing —Art. 2A—, factoring vía Art. 9); franquicia regulada por la **FTC Franchise Rule** (disclosure) y leyes estatales; distribución/agencia por *common law* y antitrust. |
+| **Estados Unidos** | **UCC** (venta de bienes —Art. 2 ⟳—, leasing —Art. 2 ⟳A—, factoring vía Art. 9 ⟳); franquicia regulada por la **FTC Franchise Rule** (disclosure) y leyes estatales; distribución/agencia por *common law* y antitrust. |
 | **Delaware/EE. UU.** | Amplia libertad contractual; *joint ventures* y contratos complejos muy desarrollados; fuerte rol del antitrust en restricciones verticales. |
 | **Unión Europea** | **Directiva de Agencia Comercial** (indemnización por clientela); **Reglamento de restricciones verticales** (exenciones por categorías a acuerdos de distribución/franquicia); protección del franquiciado. |
 | **UNIDROIT** | **Guía sobre acuerdos de franquicia principal internacional**; Principios de contratos comerciales; Convención de Ottawa sobre **factoring** y leasing internacional. |
@@ -504,7 +507,7 @@ due diligence— del abogado de negocios.
 
 ## 23. Derecho mexicano
 
-- **Código de Comercio:** mercantilidad (arts. 75, 78); compraventa mercantil (371-387); comisión
+- **Código de Comercio:** mercantilidad (arts. 75, 78 ⟳); compraventa mercantil (371-387); comisión
   (273-308); transporte; depósito mercantil; comercio electrónico (Título II); vía ejecutiva y
   juicios mercantiles.
 - **LGTOC:** **factoraje financiero** y **arrendamiento financiero** (incorporados a la LGTOC);
@@ -605,7 +608,7 @@ due diligence— del abogado de negocios.
 ## 31. Mitos frecuentes
 
 - *"Si no está en un código, el contrato no vale."* **Falso:** los atípicos valen por la **autonomía
-  de la voluntad** (art. 78).
+  de la voluntad** (art. 78 ⟳).
 - *"El distribuidor y el agente son lo mismo."* **No:** el distribuidor compra para revender; el
   agente solo promueve.
 - *"El leasing es solo una renta."* **Falso:** es **financiamiento para adquirir** (con opción de
@@ -631,7 +634,7 @@ due diligence— del abogado de negocios.
 ## 33. Casos de examen (con respuesta modelo)
 
 **P1.** *¿Qué distingue al contrato mercantil del civil?* **R.** El régimen mercantil (Código de
-Comercio + leyes especiales + usos), aplicable por la **mercantilidad** (art. 75/78); difiere en
+Comercio + leyes especiales + usos), aplicable por la **mercantilidad** (art. 75 ⟳/78); difiere en
 onerosidad presunta, mora (sin interpelación a día cierto), prescripción, libertad de forma y
 relevancia de los usos. El civil es **supletorio**.
 
@@ -673,7 +676,7 @@ control, IP—, conectando con la due diligence del comprador.)*
 
 ## 35. Flashcards
 
-- **¿Mercantilidad del contrato?** → Por acto de comercio (art. 75) / partes comerciantes / objeto de
+- **¿Mercantilidad del contrato?** → Por acto de comercio (art. 75 ⟳) / partes comerciantes / objeto de
   empresa; rige el derecho mercantil (civil supletorio).
 - **¿Compraventa mercantil?** → Con propósito de especulación; mora sin interpelación a día cierto.
 - **¿Comisión?** → Mandato mercantil (por cuenta del comitente, con/sin representación).
@@ -682,7 +685,7 @@ control, IP—, conectando con la due diligence del comprador.)*
 - **¿Factoraje con/sin recurso?** → El cedente responde del impago / no responde (riesgo del
   factorante).
 - **¿Leasing?** → Adquirir un bien y arrendarlo con **opción de compra** (financia la adquisición).
-- **¿Contrato atípico?** → No regulado; válido por autonomía (art. 78); se integra por analogía/usos.
+- **¿Contrato atípico?** → No regulado; válido por autonomía (art. 78 ⟳); se integra por analogía/usos.
 - **¿Joint venture?** → Coinversión: contractual o vía sociedad (equity JV, S.A.P.I.).
 - **¿Change of control?** → Cláusula que permite terminar/consentir si cambia el dueño (clave en M&A).
 - **¿Cesión de contrato?** → Requiere, por la relatividad, el consentimiento de la contraparte.
@@ -732,7 +735,7 @@ CONTRATOS MERCANTILES (contratos de empresa)
 
 | | Típico | Atípico |
 |---|---|---|
-| Regulación | Ley específica | Autonomía (art. 78) |
+| Regulación | Ley específica | Autonomía (art. 78 ⟳) |
 | Integración | Norma supletoria | Analogía + usos + buena fe |
 | Ejemplos | Compraventa, comisión | Leasing, factoraje, franquicia, JV |
 
@@ -760,13 +763,13 @@ Cliente elige el bien → ARRENDADORA lo compra → lo arrienda al cliente (pago
 - **Leasing:** *"alquilo con opción de quedármelo"* (financia el activo).
 - **Franquicia:** *"marca + know-how + COF + uniformidad"*.
 - **M&A:** *"primero busca el CHANGE OF CONTROL"* (la cláusula que traba el deal).
-- **Atípico:** *"si la ley no lo tiene, lo coso yo (art. 78)"*.
+- **Atípico:** *"si la ley no lo tiene, lo coso yo (art. 78 ⟳)"*.
 
 
 ## 40. Resumen ejecutivo
 
 Los **contratos mercantiles** son los contratos de la empresa: las versiones profesionales, ágiles y
-con frecuencia **atípicas** de los contratos, regidas por la **autonomía de la voluntad** (art. 78
+con frecuencia **atípicas** de los contratos, regidas por la **autonomía de la voluntad** (art. 78 ⟳
 C. Com.), los **usos** y el derecho civil supletorio. La **compraventa mercantil** (con propósito de
 especulación; mora sin interpelación a día cierto) es la base del comercio y del *asset deal*. Los
 contratos de **colaboración y distribución** —comisión, agencia, **distribución** (compra y revende)

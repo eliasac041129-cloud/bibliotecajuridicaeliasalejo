@@ -1,5 +1,8 @@
 # [Nivel II · Libro 1] Teoría General de las Obligaciones — Profundización
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > El Nivel I te dio el **mapa** de las obligaciones. Este libro te da el **terreno a escala**:
 > las clasificaciones que deciden litigios, las modalidades que estructuran operaciones, la
 > transmisión que mueve la cartera de los bancos, la extinción que reestructura deudas
@@ -133,7 +136,7 @@ jurídica del tiempo y el riesgo** aplicada al dinero.
 El Estado (Libro 3, Nivel I) garantiza el cumplimiento de las obligaciones —sin coacción estatal
 el crédito sería frágil— y, a la vez, las **limita** por razones de política pública: topes a la
 **usura** (un límite político-moral al interés, hoy con sustento convencional —*caso Banco
-Ahorro Famsa* y la doctrina de la SCJN sobre usura, arts. 21.3 CADH—), normas imperativas de
+Ahorro Famsa* y la doctrina de la SCJN sobre usura, arts. 21 ⟳.3 CADH—), normas imperativas de
 protección al deudor (consumidor), y reglas concursales que alteran la prelación de los
 acreedores en aras del interés general. La tensión **libertad contractual ↔ protección del
 deudor** es una decisión política que recorre toda la materia.
@@ -181,7 +184,7 @@ fricción posible.
   **responsabilidad** patrimonial (Haftung); el acreedor tiene una pretensión (*Anspruch*).
 - **Pothier** (puente hacia el Code y México): centra la obligación en el **vínculo de derecho**
   que sujeta a dar, hacer o no hacer, y desarrolla con finura la teoría de los **daños**
-  (consecuencia directa y previsible), que México hereda en el art. 2110.
+  (consecuencia directa y previsible), que México hereda en el art. 2110 ⟳.
 
 > **Lectura del Consejo:** las definiciones coinciden en tres notas —vínculo, prestación
 > patrimonial y coercibilidad— pero difieren en el **acento**: la latina subraya la *necesidad
@@ -194,15 +197,15 @@ fricción posible.
 El **Código Civil Federal** no define la "obligación" en una sola fórmula; la construye a través
 de su régimen (Libro Cuarto). Disposiciones nucleares:
 
-- **Art. 1792-1793:** convenio y contrato (fuente principal de obligaciones).
-- **Art. 1796:** los contratos se perfeccionan por el consentimiento y **obligan** a lo pactado
+- **Art. 1792-1793 ⟳:** convenio y contrato (fuente principal de obligaciones).
+- **Art. 1796 ⟳:** los contratos se perfeccionan por el consentimiento y **obligan** a lo pactado
   y a las consecuencias conformes a la **buena fe**, al uso y a la ley.
-- **Art. 2011:** las obligaciones de **dar** consisten en la traslación de dominio, la
+- **Art. 2011 ⟳:** las obligaciones de **dar** consisten en la traslación de dominio, la
   enajenación temporal del uso o goce, la restitución de cosa ajena o el pago de cosa debida.
-- **Art. 2027:** la obligación de **hacer**; **art. 2028:** la de **no hacer**.
-- **Art. 1984 y ss.:** obligaciones **mancomunadas** y **solidarias**; **art. 1988:** la
+- **Art. 2027 ⟳:** la obligación de **hacer**; **art. 2028 ⟳:** la de **no hacer**.
+- **Art. 1984 ⟳ y ss.:** obligaciones **mancomunadas** y **solidarias**; **art. 1988 ⟳:** la
   solidaridad **no se presume**, resulta de la ley o de la voluntad de las partes.
-- **Art. 2104 y ss.:** responsabilidad por incumplimiento (daños y perjuicios); **art. 2110:**
+- **Art. 2104 ⟳ y ss.:** responsabilidad por incumplimiento (daños y perjuicios); **art. 2110 ⟳:**
   daños y perjuicios deben ser **consecuencia inmediata y directa**.
 
 > Recuerda la **advertencia federalista**: la materia civil es local; el CCF rige en lo federal
@@ -230,7 +233,7 @@ que sale de uno entra en el otro, y el Estado vigila que el hilo se respete.
   **negligencia**.
 - **Obligación mancomunada (simple) vs. solidaria:** con pluralidad de sujetos. **Mancomunada**:
   cada deudor debe **su parte** (la deuda se divide). **Solidaria**: cada deudor debe el
-  **todo** (y luego repite contra los codeudores). **No se presume** (art. 1988).
+  **todo** (y luego repite contra los codeudores). **No se presume** (art. 1988 ⟳).
 - **Solidaridad activa y pasiva:** activa, varios **acreedores** pueden exigir el todo; pasiva,
   varios **deudores** deben el todo (la relevante en financiamiento).
 - **Obligación divisible vs. indivisible:** según la prestación admita o no cumplimiento parcial
@@ -268,13 +271,13 @@ operación**.
 ### 14.A · Clasificaciones de las obligaciones (con consecuencias prácticas)
 
 **1) Por el objeto: dar, hacer, no hacer.**
-- *Dar* (art. 2011 CCF): transmitir dominio, conceder uso/goce, restituir o pagar. Su
+- *Dar* (art. 2011 CCF ⟳): transmitir dominio, conceder uso/goce, restituir o pagar. Su
   incumplimiento permite, según el caso, **ejecución forzada** sobre la cosa o el patrimonio.
-- *Hacer* (art. 2027): un servicio u obra. **No se puede coaccionar físicamente** a la persona
+- *Hacer* (art. 2027 ⟳): un servicio u obra. **No se puede coaccionar físicamente** a la persona
   (nadie es obligado a actuar con violencia); ante incumplimiento, se ejecuta **a costa del
   deudor** (que un tercero lo haga) o se resuelve en **daños**. Por eso, en contratos de
   servicios clave, se refuerza con **cláusula penal** y garantías.
-- *No hacer* (art. 2028): abstención. Se incumple al **ejecutar** la conducta prohibida; permite
+- *No hacer* (art. 2028 ⟳): abstención. Se incumple al **ejecutar** la conducta prohibida; permite
   exigir la **destrucción** de lo hecho en contravención y daños. Base de las cláusulas de **no
   competencia** y de **exclusividad**.
 
@@ -290,10 +293,10 @@ el contrato, porque de su naturaleza (medios/resultado) depende el litigio.
 
 **3) Mancomunadas vs. solidarias (la palabra que vale millones).**
 - *Mancomunada (simple):* la deuda **se divide**; cada deudor debe su parte y cada acreedor cobra
-  la suya (art. 1984-1987). Si un deudor es insolvente, su parte la pierde el acreedor.
+  la suya (art. 1984-1987 ⟳). Si un deudor es insolvente, su parte la pierde el acreedor.
 - *Solidaria:* cada deudor debe el **todo**; el acreedor elige a quién cobrarle el 100% y este
-  repite (acción de regreso) contra los codeudores por la parte de cada uno (art. 1987 y ss.).
-  **No se presume** (art. 1988): debe pactarse expresamente o imponerla la ley.
+  repite (acción de regreso) contra los codeudores por la parte de cada uno (art. 1987 ⟳ y ss.).
+  **No se presume** (art. 1988 ⟳): debe pactarse expresamente o imponerla la ley.
 *Aplicación bancaria/M&A:* el financiamiento exige **solidaridad pasiva** de codeudores y
 **avales** para concentrar el riesgo de cobro; los grupos otorgan **garantías solidarias**
 cruzadas (matriz garantiza a filiales). *Errores que cuestan millones (anticipo):* redactar
@@ -307,12 +310,12 @@ hecho, por la naturaleza de la cosa).
 **5) Principales vs. accesorias (la suerte de las garantías).** *Accessorium sequitur
 principale.* La fianza, la prenda y la hipoteca son **accesorias** del crédito garantizado: si
 el crédito se extingue (pago, prescripción), **caen** las garantías; si se **nova** la obligación
-principal, las garantías se extinguen **salvo reserva expresa** (art. 2220 CCF). *Trampa de
+principal, las garantías se extinguen **salvo reserva expresa** (art. 2220 CCF ⟳). *Trampa de
 reestructura:* al novar un crédito sin reservar las garantías, el banco puede **perder** sus
 prendas e hipotecas. (Lo retomamos en 14.D.)
 
 **6) Líquidas vs. ilíquidas.** La **liquidez** (monto cierto o fácilmente determinable) es
-requisito para que opere la **compensación legal** (art. 2188: deudas líquidas y exigibles) y
+requisito para que opere la **compensación legal** (art. 2188 ⟳: deudas líquidas y exigibles) y
 suele condicionar los **intereses moratorios**. *Práctica:* convertir un crédito en "líquido y
 exigible" (p. ej., mediante reconocimiento o estado de cuenta certificado) es un paso clave para
 ejecutar y compensar.
@@ -326,7 +329,7 @@ unas unidades no libera (el deudor consigue otras del género). Importa en sumin
 obligaciones dinerarias (el dinero es el género por excelencia: nunca "perece").
 
 **9) Alternativas y facultativas.** En la **alternativa** se deben varias prestaciones y se
-cumple con una (con derecho de elección, por regla del deudor —art. 1962); en la **facultativa**
+cumple con una (con derecho de elección, por regla del deudor —art. 1962 ⟳); en la **facultativa**
 se debe una pero puede sustituirse por otra prevista. *Uso:* cláusulas de pago "en efectivo o en
 especie", opciones de cumplimiento.
 
@@ -334,18 +337,18 @@ especie", opciones de cumplimiento.
 
 Las modalidades (recuerda el Libro 4) **modulan** la existencia o exigibilidad de la obligación.
 
-- **Condición** (art. 1938 y ss.): acontecimiento **futuro e incierto**. **Suspensiva**: la
+- **Condición** (art. 1938 ⟳ y ss.): acontecimiento **futuro e incierto**. **Suspensiva**: la
   obligación no nace/no es exigible hasta que se cumpla (germen de las *conditions precedent*).
   **Resolutoria**: la obligación existe pero se extingue si la condición se cumple. Reglas finas:
-  la condición **imposible** o **ilícita** vicia (art. 1943); cumplida la condición, sus efectos
-  se **retrotraen** al nacimiento del acto (art. 1941), salvo pacto. *Cómo razona el socio:* el
+  la condición **imposible** o **ilícita** vicia (art. 1943 ⟳); cumplida la condición, sus efectos
+  se **retrotraen** al nacimiento del acto (art. 1941 ⟳), salvo pacto. *Cómo razona el socio:* el
   *closing* de un M&A es un **haz de condiciones suspensivas** (autorización COFECE, *no MAC*,
   veracidad de *reps* a la fecha de cierre); su redacción precisa —qué condición, a cargo de
   quién, plazo, consecuencia si no se cumple (*walk-right*)— es ingeniería de modalidades.
-- **Término o plazo** (art. 1953 y ss.): acontecimiento **futuro y cierto**; fija la
+- **Término o plazo** (art. 1953 ⟳ y ss.): acontecimiento **futuro y cierto**; fija la
   **exigibilidad** (suspensivo) o la **extinción** (resolutorio). El plazo se presume en
-  beneficio del **deudor** (art. 1958), salvo pacto. La **pérdida del beneficio del plazo**
-  (art. 1959: insolvencia, no otorgar garantías prometidas, su disminución) es la base civil de
+  beneficio del **deudor** (art. 1958 ⟳), salvo pacto. La **pérdida del beneficio del plazo**
+  (art. 1959 ⟳: insolvencia, no otorgar garantías prometidas, su disminución) es la base civil de
   las cláusulas de **vencimiento anticipado** (*acceleration*) de los créditos.
 - **Modo o carga:** obligación accesoria impuesta al beneficiario de una liberalidad (dono este
   inmueble "con la carga" de mantener una beca). Su incumplimiento puede revocar la liberalidad.
@@ -363,12 +366,12 @@ Aquí está una de las ideas más potentes para el abogado de negocios: la oblig
 vínculo congelado entre dos personas**, sino un **activo que puede circular**. Tres mecanismos:
 
 **1) Cesión de créditos (transmisión del lado activo).** El acreedor (cedente) transmite a un
-tercero (cesionario) su derecho a cobrar (art. 2029 y ss. CCF).
+tercero (cesionario) su derecho a cobrar (art. 2029 ⟳ y ss. CCF).
 - *Requisitos y efectos:* la cesión transmite el crédito **con sus accesorios y garantías**
-  (art. 2032). Es **oponible al deudor** desde que se le **notifica** (art. 2036): mientras no se
+  (art. 2032 ⟳). Es **oponible al deudor** desde que se le **notifica** (art. 2036 ⟳): mientras no se
   le notifique, el deudor se libera pagando al cedente original. El cedente responde de la
   **existencia y legitimidad** del crédito, no de la **solvencia** del deudor, salvo pacto
-  (art. 2042-2043) —distinción clave en la venta de cartera—.
+  (art. 2042-2043 ⟳) —distinción clave en la venta de cartera—.
 - *Aplicación corporativa:* el **factoraje** (cesión de cuentas por cobrar para obtener
   liquidez), la **venta de cartera** de bancos, la **titulización/securitización** (ceder un
   paquete de créditos a un vehículo que emite valores respaldados por ellos) son **cesión de
@@ -377,20 +380,20 @@ tercero (cesionario) su derecho a cobrar (art. 2029 y ss. CCF).
 
 **2) Subrogación (cambio de acreedor por pago de un tercero).** Quien paga una deuda ajena,
 teniendo interés jurídico (o por pacto/ley), se **subroga** en los derechos del acreedor
-(art. 2058 y ss.): se queda con el crédito **y sus garantías**. *Aplicación:* el
+(art. 2058 ⟳ y ss.): se queda con el crédito **y sus garantías**. *Aplicación:* el
 **refinanciamiento** —un nuevo banco paga al anterior y se subroga en sus garantías— y el pago
 por el fiador que se subroga contra el deudor principal.
 
 **3) Asunción de deuda (transmisión del lado pasivo).** Un tercero **asume** la deuda en lugar
 del deudor original. Como al acreedor le importa la **solvencia** de su deudor, requiere el
-**consentimiento del acreedor** (art. 2051 y ss.). *Aplicación:* en M&A, cuando el comprador
+**consentimiento del acreedor** (art. 2051 ⟳ y ss.). *Aplicación:* en M&A, cuando el comprador
 asume pasivos de la *target*; en reestructuras, cuando una entidad del grupo asume la deuda de
 otra. **Efecto sobre garantías:** las otorgadas por terceros pueden extinguirse si no consienten
 la asunción.
 
 > **Cómo piensa un socio de un despacho internacional (transversal).** "El crédito es
 > **inventario negociable**. En una venta de cartera reviso: ¿la cesión transmite las garantías
-> (art. 2032)?, ¿está bien la **notificación** al deudor para que me sea oponible?, ¿es *pro
+> (art. 2032 ⟳)?, ¿está bien la **notificación** al deudor para que me sea oponible?, ¿es *pro
 > soluto* o *pro solvendo* (quién carga la insolvencia)?, ¿hay prohibiciones de cesión en los
 > contratos subyacentes? En un refinanciamiento, exijo **subrogación** para no perder el rango
 > de las garantías existentes. En una asunción de deuda, **consentimiento del acreedor** y
@@ -401,40 +404,40 @@ la asunción.
 El **pago** es el modo natural; los demás son modos **anormales** o sustitutivos. En cada uno,
 la pregunta del experto es: *¿qué pasa con las garantías?*
 
-**1) Pago (cumplimiento).** Reglas finas (art. 2062 y ss.): debe ser **idéntico** (lo mismo
+**1) Pago (cumplimiento).** Reglas finas (art. 2062 ⟳ y ss.): debe ser **idéntico** (lo mismo
 debido), **íntegro** (todo) e **indivisible** (de una vez, salvo pacto). Importan **quién** paga
 (deudor o tercero, con o sin interés —el tercero con interés se subroga—), **a quién** (al
 acreedor o a su representante legitimado; el pago al acreedor aparente de buena fe puede
 liberar), **dónde**, **cuándo** e **imputación** (a qué deuda se aplica si hay varias —arts.
-2092-2094). El **ofrecimiento de pago y la consignación** (art. 2097 y ss.) permiten al deudor
+2092-2094 ⟳). El **ofrecimiento de pago y la consignación** (art. 2097 ⟳ y ss.) permiten al deudor
 liberarse si el acreedor se niega a recibir (*mora accipiendi*).
 
 **2) Dación en pago (*datio in solutum*).** El acreedor acepta recibir una prestación **distinta**
 de la debida (p. ej., un inmueble en vez de dinero). Extingue la obligación. *Uso en reestructura:*
 entregar activos para saldar deuda; cuidado con el saneamiento por evicción de lo dado.
 
-**3) Compensación (art. 2185 y ss.).** Cuando dos personas son **recíprocamente** deudoras y
+**3) Compensación (art. 2185 ⟳ y ss.).** Cuando dos personas son **recíprocamente** deudoras y
 acreedoras, las deudas se extinguen hasta el importe menor. La **compensación legal** exige que
-ambas sean **líquidas y exigibles** (art. 2188). *Aplicación:* las cláusulas de *set-off* en
+ambas sean **líquidas y exigibles** (art. 2188 ⟳). *Aplicación:* las cláusulas de *set-off* en
 contratos financieros y de M&A (compensar la indemnización contra el precio diferido o el
 *earn-out*); el **netting** en mercados financieros es compensación a gran escala (vital en
 ISDA/derivados).
 
-**4) Novación (art. 2213 y ss.).** Se **extingue** una obligación creando una **nueva** que la
-sustituye (cambiando objeto, deudor o acreedor). **Punto crítico para garantías (art. 2220):**
+**4) Novación (art. 2213 ⟳ y ss.).** Se **extingue** una obligación creando una **nueva** que la
+sustituye (cambiando objeto, deudor o acreedor). **Punto crítico para garantías (art. 2220 ⟳):**
 la novación **extingue las obligaciones accesorias** (prendas, hipotecas, fianzas) **salvo
 reserva expresa**, y las de terceros solo subsisten si **consienten**. *Errores que cuestan
 millones (anticipo):* reestructurar un crédito mediante novación **sin reservar** las garantías
 = el banco pierde sus prendas e hipotecas y queda como acreedor **quirografario**. La novación
-**no se presume** (art. 2215): debe constar la voluntad inequívoca de novar (de lo contrario,
+**no se presume** (art. 2215 ⟳): debe constar la voluntad inequívoca de novar (de lo contrario,
 hay mera **modificación** que conserva las garantías).
 
-**5) Confusión (art. 2206).** Se reúnen en una sola persona las calidades de acreedor y deudor
+**5) Confusión (art. 2206 ⟳).** Se reúnen en una sola persona las calidades de acreedor y deudor
 (p. ej., por **fusión** de sociedades o por herencia): la obligación se extingue. *Aplicación en
 M&A:* al **fusionar** acreedora y deudora, los créditos intercompañía se **confunden** y
 extinguen —hay que anticipar el efecto contable y fiscal—.
 
-**6) Remisión o condonación (art. 2209 y ss.).** El acreedor **perdona** la deuda (total o
+**6) Remisión o condonación (art. 2209 ⟳ y ss.).** El acreedor **perdona** la deuda (total o
 parcial). *Uso en reestructura:* la **quita** es una remisión parcial; su tratamiento **fiscal**
 (ingreso por condonación de deuda) debe preverse.
 
@@ -442,7 +445,7 @@ parcial). *Uso en reestructura:* la **quita** es una remisión parcial; su trata
 fortuito/fuerza mayor sin culpa ni mora del deudor, la obligación se extingue (en las de cuerpo
 cierto; recuerda *genus nunquam perit* en las genéricas).
 
-**8) Prescripción liberatoria (art. 1135 y ss.).** El transcurso del tiempo **extingue la
+**8) Prescripción liberatoria (art. 1135 ⟳ y ss.).** El transcurso del tiempo **extingue la
 acción** (no necesariamente el débito: lo pagado tras prescribir no se repite —obligación
 natural—). Debe **oponerse** como excepción; el juez no la declara de oficio. Vigilar los plazos
 es deber profesional.
@@ -494,16 +497,16 @@ inunde el patrimonio de su cliente.
 1. **Novación que destruye garantías.** Un banco tiene un crédito de $10M garantizado con
    **hipoteca**. En una reestructura, firma un "nuevo contrato de crédito" que sustituye al
    anterior (cambio de objeto: nuevo monto, plazo, tasa), **sin reservar** la hipoteca. Resultado:
-   por el art. 2220, la novación **extinguió** la garantía accesoria; el banco quedó
+   por el art. 2220 ⟳, la novación **extinguió** la garantía accesoria; el banco quedó
    **quirografario**. *Solución correcta:* o bien **modificar** (no novar) conservando el crédito
    original, o novar **reservando expresamente** la hipoteca y reinscribiéndola.
 2. **Cadena de cesiones y oponibilidad.** Un crédito se cede de A a B y luego de B a C, pero **no
-   se notifica** al deudor, que paga de buena fe a A. El pago **libera** al deudor (art. 2036);
+   se notifica** al deudor, que paga de buena fe a A. El pago **libera** al deudor (art. 2036 ⟳);
    C debe reclamar a B, y B a A. *Lección:* la **notificación** es el acto que hace oponible la
    cesión; sin ella, la cadena se rompe.
 3. **Solidaridad y acción de regreso con insolvencia.** Tres codeudores solidarios de $900,000;
    el banco cobra el total a X. Y es insolvente. ¿Cuánto recupera X de Z? La cuota del insolvente
-   (Y) se **distribuye** entre los solventes (art. 1999): X y Z absorben $150,000 cada uno además
+   (Y) se **distribuye** entre los solventes (art. 1999 ⟳): X y Z absorben $150,000 cada uno además
    de su parte; X recupera de Z $450,000 (su parte $300,000 + la mitad de la de Y, $150,000).
 4. **Compensación en M&A (set-off contra earn-out).** El comprador descubre, tras el cierre, una
    contingencia indemnizable de $5M; debe aún $8M de *earn-out*. Si el SPA pactó **compensación**,
@@ -514,7 +517,7 @@ inunde el patrimonio de su cliente.
 ## 18. Casos reales (jurisprudencia y operaciones estilizadas)
 
 - **Usura e intereses (criterio SCJN).** La Primera Sala de la SCJN estableció que los jueces
-  deben analizar **de oficio** la posible usura en intereses (a la luz del art. 21.3 de la
+  deben analizar **de oficio** la posible usura en intereses (a la luz del art. 21 ⟳.3 de la
   Convención Americana sobre Derechos Humanos), pudiendo **reducir** prudencialmente la tasa si
   resulta notoriamente excesiva (jurisprudencia derivada de la contradicción de tesis 350/2013).
   *Implicación:* las tasas moratorias de un contrato pueden ser **moderadas judicialmente**;
@@ -572,8 +575,8 @@ inunde el patrimonio de su cliente.
 | Sistema | Rasgos en materia de obligaciones (transmisión/extinción) |
 |---|---|
 | **México** | Sistema romano-germánico (CCF, Libro Cuarto). Cesión oponible por **notificación**; novación extingue accesorios salvo reserva (2220); compensación legal exige liquidez y exigibilidad. |
-| **España** | Código Civil afín; cesión de créditos (arts. 1526 y ss.); el cedente responde de la existencia, no de la solvencia, salvo pacto; novación con reglas paralelas. |
-| **Estados Unidos** | *Contract law* estatal + **UCC Art. 9** para *assignment* de cuentas (cesión) y garantías mobiliarias; fuerte desarrollo de la **securitization**; *set-off* y *netting* muy elaborados. |
+| **España** | Código Civil afín; cesión de créditos (arts. 1526 ⟳ y ss.); el cedente responde de la existencia, no de la solvencia, salvo pacto; novación con reglas paralelas. |
+| **Estados Unidos** | *Contract law* estatal + **UCC Art. 9 ⟳** para *assignment* de cuentas (cesión) y garantías mobiliarias; fuerte desarrollo de la **securitization**; *set-off* y *netting* muy elaborados. |
 | **Delaware** | Referente societario; las obligaciones contractuales se rigen por *contract law* estatal; libertad contractual amplia; eficacia robusta de cláusulas de *set-off* y *waiver*. |
 | **Unión Europea** | Diversidad de códigos (BGB alemán con **Schuldübernahme** y **Abtretung**; Code francés reformado 2016 con imprevisión); esfuerzos de armonización (PECL, **DCFR**). |
 | **UNIDROIT** | *Principios sobre los Contratos Comerciales Internacionales*: regulan cesión de créditos, transferencia de obligaciones y de contratos; régimen neutral muy usado en arbitraje. |
@@ -611,16 +614,16 @@ Mapa positivo (CCF, Libro Cuarto; verificar versión vigente y código local apl
 > citarlas en un escrito.
 
 - **Usura (intereses):** los juzgadores deben analizarla **de oficio** y reducir tasas
-  notoriamente excesivas, conforme al art. 21.3 CADH (línea de la Primera Sala de la SCJN,
+  notoriamente excesivas, conforme al art. 21 ⟳.3 CADH (línea de la Primera Sala de la SCJN,
   contradicción de tesis 350/2013 y posteriores).
 - **Cesión de créditos:** la **notificación** al deudor determina la oponibilidad; el pago hecho
   al acreedor original antes de la notificación libera (tribunales colegiados).
 - **Pena convencional:** los tribunales han admitido la **reducción** de la cláusula penal cuando
-  resulta desproporcionada o cuando hubo cumplimiento parcial (art. 1844 CCF y criterios).
-- **Novación:** debe constar la **voluntad inequívoca** de novar (no se presume, art. 2215); la
+  resulta desproporcionada o cuando hubo cumplimiento parcial (art. 1844 CCF ⟳ y criterios).
+- **Novación:** debe constar la **voluntad inequívoca** de novar (no se presume, art. 2215 ⟳); la
   mera modificación de condiciones (plazo, tasa) no nova ni extingue garantías si no hay *animus
   novandi*.
-- **Compensación:** requiere deudas **líquidas y exigibles** (art. 2188); criterios sobre su
+- **Compensación:** requiere deudas **líquidas y exigibles** (art. 2188 ⟳); criterios sobre su
   operatividad en juicio.
 
 ## 25. Criterios de la Suprema Corte
@@ -664,7 +667,7 @@ La SCJN ha sido especialmente activa en:
    presume", la práctica de enterrarla en el clausulado genera litigios; el Consejo recomienda
    cláusulas de solidaridad **visibles y específicas**, con renuncia expresa a los beneficios de
    orden y excusión cuando proceda.
-2. **El art. 2220 (extinción de accesorios por novación) es una trampa subestimada.** Demasiadas
+2. **El art. 2220 ⟳ (extinción de accesorios por novación) es una trampa subestimada.** Demasiadas
    reestructuras se documentan como "novación" sin advertir el efecto sobre garantías. El Consejo
    sostiene que **modificar** (no novar) suele ser preferible, y que toda novación debe llevar
    **reserva expresa y reinscripción** de garantías.
@@ -690,7 +693,7 @@ La SCJN ha sido especialmente activa en:
 
 ## 30. Errores comunes
 
-- **Presumir la solidaridad.** No se presume (art. 1988). Si no se pactó expresamente, la deuda
+- **Presumir la solidaridad.** No se presume (art. 1988 ⟳). Si no se pactó expresamente, la deuda
   es **mancomunada** y se divide.
 - **Confundir modificación con novación.** Cambiar plazo o tasa **no** nova si no hay *animus
   novandi*; creer que se "novó" puede llevar a creer (erróneamente) que se extinguieron
@@ -712,11 +715,11 @@ La SCJN ha sido especialmente activa en:
   **crédito** solo requiere **notificarle**; el consentimiento se exige para la **asunción de
   deuda** (cambia el deudor, importa al acreedor).
 - *"Reestructurar siempre conviene como 'nuevo crédito'."* **Peligroso:** novar sin reservar
-  garantías las extingue (art. 2220).
+  garantías las extingue (art. 2220 ⟳).
 - *"El dinero puede 'perecer' por caso fortuito."* **Falso:** las obligaciones genéricas (y el
   dinero es género) no se extinguen por pérdida —*genus nunquam perit*—.
 - *"La cláusula penal siempre se cobra íntegra."* **No necesariamente:** puede **moderarse** por
-  desproporción o cumplimiento parcial (art. 1844).
+  desproporción o cumplimiento parcial (art. 1844 ⟳).
 
 ## 32. Preguntas difíciles
 
@@ -737,20 +740,20 @@ La SCJN ha sido especialmente activa en:
 **P1.** *Tres deudores firman "obligándose conjunta y solidariamente" por $1,200,000. Uno es
 insolvente. ¿Cuánto puede el acreedor cobrar a cada solvente y cómo opera el regreso?* **R.** El
 acreedor puede cobrar **el total** a cualquiera de los solventes (solidaridad pasiva). Internamente,
-la cuota del insolvente se **reparte** entre los solventes (art. 1999): si eran tres por partes
+la cuota del insolvente se **reparte** entre los solventes (art. 1999 ⟳): si eran tres por partes
 iguales ($400,000 c/u), los dos solventes absorben los $400,000 del insolvente ($200,000 c/u),
 quedando cada uno con $600,000 en la relación interna.
 
 **P2.** *Un banco "novó" un crédito hipotecario sin mención de la hipoteca. ¿Subsiste la
 garantía?* **R.** No, salvo reserva expresa: la novación extingue las obligaciones accesorias
-(art. 2220). Para conservarla debió **reservarse** la hipoteca (y reinscribirse) o haber
+(art. 2220 ⟳). Para conservarla debió **reservarse** la hipoteca (y reinscribirse) o haber
 **modificado** sin novar.
 
 **P3.** *¿Desde cuándo es oponible al deudor una cesión de crédito?* **R.** Desde que se le
-**notifica** (art. 2036); antes, el pago al cedente lo libera.
+**notifica** (art. 2036 ⟳); antes, el pago al cedente lo libera.
 
 **P4.** *¿Cuándo opera la compensación legal?* **R.** Cuando dos personas son recíprocamente
-deudoras y acreedoras de deudas **líquidas y exigibles**, fungibles y homogéneas (art. 2185-2188);
+deudoras y acreedoras de deudas **líquidas y exigibles**, fungibles y homogéneas (art. 2185-2188 ⟳);
 se extinguen hasta el importe menor.
 
 **P5.** *Diferencia entre obligación de medios y de resultado y su efecto en la prueba.* **R.** En
@@ -766,7 +769,7 @@ probar la **falta de diligencia** del deudor.
 > $10M (conversión a acciones) y que una filial **asuma** $20M.
 >
 > **Tarea:** redacta una **nota de estructura** que responda: (1) ¿documentamos como **modificación
-> o novación**, y por qué, a la luz del art. 2220 y las garantías?; (2) si hay novación parcial,
+> o novación**, y por qué, a la luz del art. 2220 ⟳ y las garantías?; (2) si hay novación parcial,
 > ¿cómo **reservamos y reinscribimos** la hipoteca y la prenda?; (3) la **asunción** por la filial,
 > ¿qué consentimientos y ratificaciones de garantes exige?; (4) la **quita**, ¿qué efecto fiscal
 > tiene para el deudor (ingreso por condonación)?; (5) la **capitalización**, ¿cómo afecta el
@@ -779,23 +782,23 @@ fiscal de la quita; y blinda la compensación con cláusula expresa de *set-off*
 
 ## 35. Flashcards
 
-- **¿La solidaridad se presume?** → No (art. 1988).
+- **¿La solidaridad se presume?** → No (art. 1988 ⟳).
 - **¿Qué transmite la cesión de crédito?** → El crédito **con sus accesorios y garantías**
-  (art. 2032).
-- **¿Desde cuándo es oponible la cesión al deudor?** → Desde la **notificación** (art. 2036).
+  (art. 2032 ⟳).
+- **¿Desde cuándo es oponible la cesión al deudor?** → Desde la **notificación** (art. 2036 ⟳).
 - **¿Responde el cedente de la solvencia del deudor?** → No, salvo pacto (responde de la
   existencia/legitimidad).
 - **¿Qué requiere la asunción de deuda?** → Consentimiento del **acreedor**.
 - **¿Efecto de la novación sobre garantías?** → Las extingue, **salvo reserva expresa**
-  (art. 2220).
-- **¿La novación se presume?** → No (art. 2215): exige *animus novandi*.
+  (art. 2220 ⟳).
+- **¿La novación se presume?** → No (art. 2215 ⟳): exige *animus novandi*.
 - **¿Requisitos de la compensación legal?** → Deudas recíprocas, **líquidas y exigibles**,
-  fungibles (art. 2185-2188).
+  fungibles (art. 2185-2188 ⟳).
 - **¿Genus nunquam perit?** → El género (y el dinero) nunca perece: no libera la pérdida.
 - **¿Subrogación?** → El tercero que paga con interés ocupa el lugar del acreedor, con garantías.
 - **¿Medios vs. resultado?** → Diligencia vs. resultado concreto (cambia la carga de la prueba).
 - **¿Pérdida del beneficio del plazo?** → Insolvencia o falta/disminución de garantías
-  (art. 1959) → base del vencimiento anticipado.
+  (art. 1959 ⟳) → base del vencimiento anticipado.
 
 ## 36. Mapas mentales
 
@@ -832,7 +835,7 @@ OBLIGACIONES (PROFUNDIZACIÓN)
 |---|---|---|
 | ¿Cuánto debe cada uno? | Su parte | El todo |
 | Insolvencia de un deudor | La pierde el acreedor | La absorben los solventes (regreso) |
-| ¿Se presume? | Sí (regla) | No (art. 1988) |
+| ¿Se presume? | Sí (regla) | No (art. 1988 ⟳) |
 
 **Cesión de crédito vs. asunción de deuda**
 
@@ -895,7 +898,7 @@ La teoría profunda de las obligaciones es el **idioma operativo del crédito**.
 Nivel I, este libro afina las distinciones que tienen **consecuencias patrimoniales directas**:
 *medios vs. resultado* (decide la carga de la prueba y el sentido de "esfuerzos" en un contrato),
 *mancomunada vs. solidaria* (decide si el acreedor cobra el todo o una fracción —y **no se
-presume**, art. 1988), *principal vs. accesoria* (decide la suerte de las garantías), *líquida vs.
+presume**, art. 1988 ⟳), *principal vs. accesoria* (decide la suerte de las garantías), *líquida vs.
 ilíquida* (decide la compensación y los intereses). Las **modalidades** (condición, plazo, modo)
 son el esqueleto temporal de toda operación: las *conditions precedent* y el *acceleration* son
 modalidades disfrazadas de inglés.
@@ -905,7 +908,7 @@ notificación, transmite garantías), la **subrogación** (el que paga con inter
 garantías) y la **asunción de deuda** (requiere consentimiento del acreedor) convierten al crédito
 en un **activo negociable** —base del factoraje, la venta de cartera y la titulización—. En la
 **extinción**, la regla de oro es preguntar siempre *¿qué pasa con las garantías?*: la **novación**
-las **extingue salvo reserva expresa** (art. 2220) y **no se presume** (art. 2215), por lo que en
+las **extingue salvo reserva expresa** (art. 2220 ⟳) y **no se presume** (art. 2215 ⟳), por lo que en
 reestructuras suele ser preferible **modificar** que novar. La **compensación/netting**, la
 **confusión** (en fusiones), la **remisión** (quita, con su costo fiscal) y la **prescripción**
 completan el toolkit. Todo, hoy, leído también en clave **constitucional** (control de usura por la
@@ -921,14 +924,14 @@ valor: una de las destrezas mejor pagadas del derecho de los negocios.
 - [ ] ¿Incluí **pérdida del beneficio del plazo** / *acceleration* y **set-off**?
 
 **Al transmitir un crédito (factoraje/venta de cartera):**
-- [ ] ¿La cesión transmite **garantías** (art. 2032)? ¿*Pro soluto* o *pro solvendo*?
+- [ ] ¿La cesión transmite **garantías** (art. 2032 ⟳)? ¿*Pro soluto* o *pro solvendo*?
 - [ ] ¿**Notifiqué** al deudor para hacerla oponible? ¿Hay prohibición de cesión en el contrato?
 - [ ] ¿Reinscribí las garantías a nombre del cesionario?
 
 **Al reestructurar:**
 - [ ] ¿Documento como **modificación** (conserva garantías) o **novación**?
 - [ ] Si novo: ¿**reservé expresamente** las garantías y obtuve el **consentimiento de los
-  garantes** (art. 2220)?
+  garantes** (art. 2220 ⟳)?
 - [ ] ¿La **asunción** de deuda cuenta con el **consentimiento del acreedor**?
 - [ ] ¿Previne los efectos **fiscales** (quita = ingreso) y **contables** (confusión)?
 
@@ -980,7 +983,7 @@ frágiles y se destruye valor en las reestructuras.
 
 > *"Cuando reviso un financiamiento o una reestructura, mis reflejos son tres. Primero,
 > **garantías**: ¿están bien tomadas, perfeccionadas, inscritas, y se **conservan** si modificamos
-> o novamos? El art. 2220 me obsesiona: una novación descuidada deja a mi cliente quirografario.
+> o novamos? El art. 2220 ⟳ me obsesiona: una novación descuidada deja a mi cliente quirografario.
 > Segundo, **solidaridad y avales**: concentro el riesgo de cobro: solidaridad expresa, renuncia a
 > beneficios de orden y excusión, garantes que ratifican toda modificación. Tercero,
 > **circulación**: si voy a vender o ceder el crédito, cuido la notificación, la transmisión de
@@ -991,7 +994,7 @@ frágiles y se destruye valor en las reestructuras.
 
 ## ✦ Errores que cuestan millones
 
-1. **Novar sin reservar garantías (art. 2220).** El error clásico de la reestructura: documentar
+1. **Novar sin reservar garantías (art. 2220 ⟳).** El error clásico de la reestructura: documentar
    un "nuevo crédito" que sustituye al anterior, sin reservar la hipoteca/prenda. La garantía se
    **extingue** y el acreedor pasa de privilegiado a **quirografario**. Pérdida potencial: el 100%
    del colateral. *Prevención:* modificar en vez de novar, o novar con **reserva expresa y

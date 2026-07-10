@@ -1,5 +1,8 @@
 # [Nivel III · Libro 6] Concurso Mercantil
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Toda empresa puede fracasar. El **concurso mercantil** es el derecho de las empresas que ya no
 > pueden pagar: el mecanismo ordenado para, primero, intentar **salvarlas** (reestructurarlas) y, si
 > no es posible, **liquidarlas** repartiendo lo que queda entre los acreedores conforme a una
@@ -157,7 +160,7 @@ El concurso es una decisión de política económica de **equilibrio** entre int
 preservar empresas viables y reasignar recursos). El Estado fija la **prelación** (quién cobra primero)
 con criterios políticos: protege a los **trabajadores** (créditos singularmente privilegiados) y al
 **fisco**, a veces por encima de las garantías privadas. La materia es **federal** (es comercio,
-art. 73-X). La calidad del sistema concursal es un indicador clave del **clima de negocios** y del
+art. 73-X ⟳). La calidad del sistema concursal es un indicador clave del **clima de negocios** y del
 *country risk* (Doing Business del Banco Mundial mide "resolución de la insolvencia").
 
 ## 8. Contexto social
@@ -217,29 +220,29 @@ deuda en *distress*. Es una especialidad técnica, intensa y de alto valor.
 
 ## 11. Definiciones legales (LCM — verificar versión vigente)
 
-- **Finalidad — art. 1 LCM:** el concurso mercantil es de **interés público** y tiene por objeto
+- **Finalidad — art. 1 ⟳ LCM:** el concurso mercantil es de **interés público** y tiene por objeto
   **conservar las empresas** y evitar que el incumplimiento generalizado ponga en riesgo su viabilidad
   y la de las demás con las que tenga relación.
-- **Presupuesto (incumplimiento generalizado) — arts. 9-10:** el comerciante incurre en incumplimiento
+- **Presupuesto (incumplimiento generalizado) — arts. 9-10 ⟳:** el comerciante incurre en incumplimiento
   generalizado cuando **incumple sus obligaciones** de pago a **dos o más acreedores** y se cumplen
   ciertas condiciones (p. ej., que las obligaciones vencidas representen al menos el **35%** de todas
   sus obligaciones, o que no tenga activos para cubrir al menos el **80%** de sus obligaciones
   vencidas).
-- **Etapas — art. 2 y ss.:** el concurso consta de **dos etapas sucesivas**: la **conciliación**
+- **Etapas — art. 2 ⟳ y ss.:** el concurso consta de **dos etapas sucesivas**: la **conciliación**
   (finalidad: lograr la **conservación** mediante el **convenio**) y la **quiebra** (finalidad: la
   **venta** de la empresa o sus bienes para el pago a los acreedores).
 - **Órganos:** el **juez** (de distrito), el **IFECOM** (designa y supervisa a los especialistas) y los
   **especialistas**: el **visitador** (verifica si procede el concurso), el **conciliador** (gestiona la
   reestructura y el convenio) y el **síndico** (administra y liquida en la quiebra).
-- **Prelación de acreedores — arts. 217 y ss.:** orden de pago: **singularmente privilegiados**
+- **Prelación de acreedores — arts. 217 ⟳ y ss.:** orden de pago: **singularmente privilegiados**
   (gastos de entierro y de enfermedad del comerciante persona física), **con garantía real** (prenda,
   hipoteca), **con privilegio especial** (los que tengan un privilegio especial conforme a leyes), y
   **comunes** (quirografarios, a prorrata). Los **créditos laborales** (salarios e indemnizaciones del
   último año) y los **fiscales** tienen reglas de preferencia destacadas.
-- **Retroacción y actos en fraude de acreedores — arts. 112 y ss.:** los actos del deudor en perjuicio
+- **Retroacción y actos en fraude de acreedores — arts. 112 ⟳ y ss.:** los actos del deudor en perjuicio
   de la masa, realizados en el **periodo de retroacción** (anterior a la sentencia de concurso), pueden
   ser declarados **ineficaces**.
-- **Insolvencia transfronteriza — arts. 278 y ss.:** incorpora la **Ley Modelo UNCITRAL** sobre
+- **Insolvencia transfronteriza — arts. 278 ⟳ y ss.:** incorpora la **Ley Modelo UNCITRAL** sobre
   reconocimiento de procedimientos extranjeros y cooperación.
 
 ## 12. Definición sencilla
@@ -256,7 +259,7 @@ prorrata. El día del concurso se ve **quién tomó bien sus garantías** y qui�
 ## 13. Conceptos fundamentales
 
 - **Incumplimiento generalizado:** el presupuesto del concurso (no pagar a dos o más acreedores,
-  rebasando los umbrales del art. 10). No basta un solo impago.
+  rebasando los umbrales del art. 10 ⟳). No basta un solo impago.
 - **Conciliación:** la **primera etapa**; busca **conservar** la empresa mediante un **convenio
   concursal** con los acreedores (reestructura: quitas, esperas, conversión). El deudor suele conservar
   la administración (con vigilancia del **conciliador**).
@@ -309,7 +312,7 @@ declaración; (C) la **conciliación** (reestructura); (D) la **quiebra** (liqui
 ### 14.A · El presupuesto y la apertura del concurso
 
 **Presupuesto objetivo: el incumplimiento generalizado.** No basta un solo impago: la LCM exige
-(arts. 9-10) que el comerciante incumpla con **dos o más acreedores** y que se cumplan condiciones
+(arts. 9-10 ⟳) que el comerciante incumpla con **dos o más acreedores** y que se cumplan condiciones
 cuantitativas —en esencia, que las obligaciones **vencidas** representen al menos el **35%** de todas
 sus obligaciones, **o** que no tenga activos líquidos suficientes para cubrir al menos el **80%** de
 sus obligaciones vencidas—. La idea: un problema **generalizado y estructural** de pagos, no un
@@ -367,7 +370,7 @@ Si la conciliación fracasa (o el deudor pide la quiebra), se **liquida**:
 - **El síndico:** desplaza al deudor en la administración, **realiza** (vende) los bienes —idealmente
   la **empresa como unidad** (going concern), para conservar el goodwill y el empleo, en vez de
   venderla "en pedazos"— y **paga** conforme a la prelación.
-- **La prelación de acreedores (el corazón del concurso, arts. 217 y ss.):** el orden de pago es:
+- **La prelación de acreedores (el corazón del concurso, arts. 217 ⟳ y ss.):** el orden de pago es:
   1. **Singularmente privilegiados** (gastos de entierro y de enfermedad del comerciante persona
      física): un rango menor en monto pero primero en orden.
   2. **Acreedores con garantía real** (prenda, hipoteca): cobran con **preferencia sobre el producto
@@ -556,12 +559,12 @@ naufragio —y a prepararse para él **antes** de que ocurra—.
 ## 23. Derecho mexicano
 
 - **Ley de Concursos Mercantiles (LCM, 2000; reformas 2007 y 2014):** finalidad y carácter de interés
-  público (art. 1); presupuesto de incumplimiento generalizado (arts. 9-10); etapas (conciliación y
+  público (art. 1 ⟳); presupuesto de incumplimiento generalizado (arts. 9-10 ⟳); etapas (conciliación y
   quiebra); órganos (juez, **IFECOM**, visitador, conciliador, síndico); reconocimiento, graduación y
-  **prelación** de créditos (arts. 217 y ss.); **retroacción** y actos en fraude (arts. 112 y ss.);
+  **prelación** de créditos (arts. 217 ⟳ y ss.); **retroacción** y actos en fraude (arts. 112 ⟳ y ss.);
   convenio concursal y *cram down*; financiamiento durante el concurso; insolvencia transfronteriza
-  (arts. 278 y ss., Ley Modelo UNCITRAL); planes prepactados.
-- **Competencia:** jueces de distrito (materia federal — comercio, art. 73-X).
+  (arts. 278 ⟳ y ss., Ley Modelo UNCITRAL); planes prepactados.
+- **Competencia:** jueces de distrito (materia federal — comercio, art. 73-X ⟳).
 - **Normas conexas:** LGSM (responsabilidad de administradores en la zona de insolvencia), leyes
   financieras (regímenes especiales para bancos y entidades financieras, que tienen procedimientos
   propios), Ley de Instituciones de Crédito, fiscal (preferencia de créditos fiscales) y laboral
@@ -683,7 +686,7 @@ naufragio —y a prepararse para él **antes** de que ocurra—.
 ## 33. Casos de examen (con respuesta modelo)
 
 **P1.** *¿Cuál es el presupuesto del concurso mercantil?* **R.** El **incumplimiento generalizado** de
-pagos (a dos o más acreedores) que rebase los umbrales del art. 10 LCM (vencidas ≥35% del total, o sin
+pagos (a dos o más acreedores) que rebase los umbrales del art. 10 ⟳ LCM (vencidas ≥35% del total, o sin
 activos para cubrir el 80% de las vencidas). No basta un solo impago.
 
 **P2.** *¿Cuáles son las dos etapas y sus finalidades?* **R.** La **conciliación** (finalidad:
@@ -728,7 +731,7 @@ sobre sus bienes, tras laborales/fiscales aplicables); nota que las garantías d
 
 ## 35. Flashcards
 
-- **¿Presupuesto del concurso?** → Incumplimiento **generalizado** (umbrales del art. 10).
+- **¿Presupuesto del concurso?** → Incumplimiento **generalizado** (umbrales del art. 10 ⟳).
 - **¿Dos etapas?** → Conciliación (salvar) → Quiebra (liquidar).
 - **¿Finalidad prioritaria?** → **Conservar** la empresa.
 - **¿Quién media en la conciliación / quién liquida?** → Conciliador / síndico (designados por el

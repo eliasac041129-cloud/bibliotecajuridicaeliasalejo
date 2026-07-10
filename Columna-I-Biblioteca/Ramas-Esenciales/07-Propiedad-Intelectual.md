@@ -1,5 +1,8 @@
 # [Ramas Esenciales · Libro 7] Propiedad Intelectual
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > En la economía del siglo XXI, las empresas más valiosas del mundo casi no tienen fábricas: su valor está
 > en **intangibles** —una marca, un algoritmo, una patente, un catálogo de contenidos, una base de
 > datos—. La **propiedad intelectual (PI)** es el derecho que convierte esas ideas y signos en **activos
@@ -386,7 +389,7 @@ internacionales para proteger marcas y patentes en múltiples países de forma e
 
 ## 23. Derecho mexicano (régimen positivo)
 
-- **Constitucional:** el art. 28 ⚠️ aclara que los privilegios a inventores y autores **no** constituyen
+- **Constitucional:** el art. 28 ⚠️ ⟳ aclara que los privilegios a inventores y autores **no** constituyen
   monopolios prohibidos.
 - **Propiedad industrial:** **Ley Federal de Protección a la Propiedad Industrial (LFPPI, 2020 ⚠️)**;
   autoridad: **IMPI** (registro, infracciones).

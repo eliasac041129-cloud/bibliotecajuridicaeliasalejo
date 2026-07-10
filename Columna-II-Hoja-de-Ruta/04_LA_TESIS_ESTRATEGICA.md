@@ -97,7 +97,7 @@ manual" — y ese trabajo es justo lo que la vuelve valiosa y publicable.
 
 > **Hipótesis a defender (tentativa — la afinas al investigar):**
 > *Las R&W constituyen **obligaciones contractuales autónomas de garantía**, válidas en virtud de la
-> **libertad contractual** (⚠️ art. 1839 y concordantes del CCF — verificar); su falsedad genera una
+> **libertad contractual** (⚠️ art. 1839 ⟳ y concordantes del CCF — verificar); su falsedad genera una
 > responsabilidad **contractual pactada** cuyo régimen de indemnización (caps, baskets, survival)
 > **desplaza válidamente**, como ley entre las partes, el régimen supletorio civil de saneamiento,
 > dentro de los límites del **orden público** y de la prohibición de cláusulas abusivas.*

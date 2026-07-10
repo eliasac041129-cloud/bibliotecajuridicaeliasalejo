@@ -19,17 +19,17 @@ Las marcadas **[CASO]** son de aplicación (piensa como abogado, no solo recites
 **1.1** Explica los cuatro principios constitucionales tributarios y por qué son, a la vez, garantías del
 contribuyente.
 > **Modelo:** legalidad (elementos esenciales en ley), proporcionalidad (capacidad contributiva), equidad
-> (tratar igual a los iguales) y destino al gasto público (art. 31-IV ⚠️). Son garantías porque su
+> (tratar igual a los iguales) y destino al gasto público (art. 31-IV ⚠️ ⟳). Son garantías porque su
 > violación vuelve **inconstitucional** el tributo y fundamenta el amparo.
 
 **1.2** Distingue caducidad y prescripción en materia fiscal.
-> **Modelo:** caducidad = extinción de las **facultades del fisco** para determinar (art. 67, ~5 años ⚠️);
-> prescripción = extinción del **crédito ya determinado** (art. 146, ~5 años, se interrumpe con gestiones
+> **Modelo:** caducidad = extinción de las **facultades del fisco** para determinar (art. 67 ⟳, ~5 años ⚠️);
+> prescripción = extinción del **crédito ya determinado** (art. 146 ⟳, ~5 años, se interrumpe con gestiones
 > de cobro ⚠️). No confundirlas.
 
 **1.3** Diferencia planeación, elusión y evasión, y ubica la cláusula anti-abuso.
 > **Modelo:** planeación = economía de opción legal con razón de negocios; elusión = zona gris, artificiosa
-> (muerde el art. 5-A: recaracterización si no hay razón de negocios ⚠️); evasión = delito (defraudación,
+> (muerde el art. 5-A ⟳: recaracterización si no hay razón de negocios ⚠️); evasión = delito (defraudación,
 > 69-B/EFOS-EDOS).
 
 **1.4 [CASO]** Recibes una liquidación del SAT por $5M notificada hoy. ¿Qué haces y en qué orden?
@@ -48,7 +48,7 @@ honorarios. ¿Riesgos fiscales antes de una ronda?
 **2.1** Explica el cambio de paradigma de la reforma de derechos humanos de 2011.
 > **Modelo:** de "garantías otorgadas" a "derechos reconocidos"; bloque de constitucionalidad
 > (Constitución + tratados), deberes de toda autoridad, principio pro persona, control de convencionalidad
-> y difuso (art. 1º ⚠️).
+> y difuso (art. 1º ⚠️ ⟳).
 
 **2.2** Amparo directo vs. indirecto: contra qué, ante quién.
 > **Modelo:** directo = sentencias/laudos definitivos, ante Tribunal Colegiado; indirecto = leyes
@@ -60,7 +60,7 @@ honorarios. ¿Riesgos fiscales antes de una ronda?
 > declaratoria general como excepción ⚠️).
 
 **2.4 [CASO]** Clausuran la planta de tu cliente por oficio sin fundar. ¿Estrategia?
-> **Modelo:** amparo indirecto (acto de autoridad) por violación a los arts. 14/16 ⚠️; pedir **suspensión**
+> **Modelo:** amparo indirecto (acto de autoridad) por violación a los arts. 14 ⟳/16 ⚠️; pedir **suspensión**
 > para reabrir (apariencia del buen derecho + peligro en la demora); verificar **definitividad** (¿recurso
 > previo obligatorio?) y **plazo** (15 días ⚠️).
 
@@ -241,7 +241,7 @@ qué busca cada una.
 horas?
 > **Modelo:** defensa presente antes de declarar (no autoincriminación); verificar legalidad de la
 > detención (control en 48 h ⚠️); combatir vinculación (atipicidad/dolo) y **prisión preventiva** (¿está
-> en el catálogo oficioso del art. 19? ⚠️ → amparo); acceder a la carpeta; valorar salidas. Proteger a la
+> en el catálogo oficioso del art. 19 ⟳? ⚠️ → amparo); acceder a la carpeta; valorar salidas. Proteger a la
 > persona moral (compliance).
 
 ## 14. Derecho Familiar y Sucesiones

@@ -1,5 +1,8 @@
 # [Ramas Esenciales · Libro 6] Derecho Penal Económico y Compliance Penal
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Hay una frontera que ningún abogado de negocios puede cruzar ni dejar cruzar a su cliente: la que
 > separa lo **ilícito** de lo **delictivo**. Cuando la planeación fiscal se vuelve **defraudación**, cuando
 > el dinero de origen turbio se **lava**, cuando un directivo **soborna** para ganar un contrato, cuando
@@ -184,9 +187,9 @@ sus directivos.
 ## 11. Definiciones legales
 
 - **Delito (Código Penal Federal ⚠️):** el acto u omisión que sancionan las leyes penales.
-- **Legalidad penal (art. 14 CPEUM ⚠️):** no hay delito ni pena sin ley previa, exacta y escrita (*nullum
+- **Legalidad penal (art. 14 CPEUM ⚠️ ⟳):** no hay delito ni pena sin ley previa, exacta y escrita (*nullum
   crimen, nulla poena sine lege*); prohibición de analogía en perjuicio.
-- **Presunción de inocencia (art. 20 CPEUM ⚠️):** toda persona es inocente hasta que se declare su
+- **Presunción de inocencia (art. 20 CPEUM ⚠️ ⟳):** toda persona es inocente hasta que se declare su
   responsabilidad por sentencia.
 - **Defraudación fiscal (CFF ⚠️):** omitir total o parcialmente el pago de contribuciones mediante engaño
   o aprovechamiento de error, con perjuicio al fisco.
@@ -396,8 +399,8 @@ internacional** dejaron de ser opcionales. ⚠️ *Verificar leyes y guías vige
 
 ## 23. Derecho mexicano (régimen positivo)
 
-- **Constitucional:** legalidad penal (art. 14), debido proceso y presunción de inocencia (arts. 16, 19,
-  20 ⚠️), prisión preventiva oficiosa (art. 19 ⚠️).
+- **Constitucional:** legalidad penal (art. 14 ⟳), debido proceso y presunción de inocencia (arts. 16, 19,
+  20 ⚠️ ⟳), prisión preventiva oficiosa (art. 19 ⚠️ ⟳).
 - **Sustantivo:** **Código Penal Federal** y códigos penales locales; **CFF** (delitos fiscales); **CPF /
   ley especial** para lavado; **LMV** (delitos bursátiles); leyes ambientales.
 - **Adjetivo:** **Código Nacional de Procedimientos Penales (CNPP)** — proceso acusatorio y
@@ -527,7 +530,7 @@ estrategia). (4) **Remediar**: suspender los pagos, sancionar internamente, refo
 
 - **P:** ¿Elementos del delito? · **R:** Conducta **típica, antijurídica y culpable**.
 - **P:** ¿Principio de legalidad penal? · **R:** No hay delito ni pena sin ley previa, exacta y escrita
-  (art. 14 ⚠️).
+  (art. 14 ⚠️ ⟳).
 - **P:** ¿Cohecho? · **R:** Dar/recibir dádiva a/de un servidor público por un acto de su función.
 - **P:** ¿Qué es el "debido control"? · **R:** El programa de compliance que puede **atenuar/excluir** la
   responsabilidad penal de la empresa.

@@ -1,5 +1,8 @@
 # [Ramas Esenciales · Libro 5] Derecho Laboral
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Detrás de toda empresa hay **personas que trabajan**, y esa relación —entre quien pone el capital y
 > quien pone el trabajo— es la más regulada, la más protegida y la que más **pasivos ocultos** genera. El
 > **derecho laboral** parte de una idea distinta a la del derecho civil: el trabajador **no** negocia de
@@ -113,13 +116,13 @@ El derecho del trabajo nace con la **Revolución Industrial**: el maquinismo cre
 condiciones brutales (jornadas de 14 horas, trabajo infantil, sin seguridad), y la respuesta fue doble: la
 **organización obrera** (sindicatos) y la **intervención del Estado** (leyes de fábrica, límites de
 jornada). México tiene un lugar de honor: la **Constitución de 1917** fue la **primera del mundo** en
-elevar los derechos laborales a **rango constitucional**, en su célebre **artículo 123 ⚠️** (jornada
+elevar los derechos laborales a **rango constitucional**, en su célebre **artículo 123 ⚠️ ⟳** (jornada
 máxima, salario mínimo, descanso, derecho de huelga, indemnización por despido). De ahí deriva la **Ley
 Federal del Trabajo (LFT)**, reglamentaria del 123. ⚠️ *Verificar fechas.*
 
 ## 5. Evolución histórica
 
-La **LFT** (originalmente de 1931, reexpedida en 1970 ⚠️) desarrolló el art. 123. Las grandes reformas
+La **LFT** (originalmente de 1931, reexpedida en 1970 ⚠️) desarrolló el art. 123 ⟳. Las grandes reformas
 recientes reconfiguraron la materia (⚠️ verificar):
 1. **Reforma laboral 2012:** flexibilizó ciertas modalidades de contratación e introdujo límites a los
    salarios caídos ⚠️.
@@ -131,7 +134,7 @@ recientes reconfiguraron la materia (⚠️ verificar):
    **servicios especializados** ajenos al objeto social, con registro **REPSE**.
 4. **Reforma de "vacaciones dignas" ✅ (verificada, 2026-07):** publicada en el DOF el **27-dic-2022**,
    en vigor el **1-ene-2023**; aumentó el mínimo de vacaciones del primer año de **6 a 12 días**, con +2
-   días por cada año subsecuente hasta llegar a 20 (reforma a los arts. 76 y 78 LFT ⚠️).
+   días por cada año subsecuente hasta llegar a 20 (reforma a los arts. 76 y 78 LFT ⚠️ ⟳).
 5. **Debates recientes:** reducción de la **jornada laboral** (hacia 40 horas ⚠️) y otros ajustes en
    proceso. *Verificar estado vigente.*
 
@@ -394,12 +397,12 @@ volvió un tema de **comercio internacional**: una violación puede detonar sanc
   salvo excepciones y discriminación prohibida); contraste radical con la **estabilidad** mexicana.
 - **OIT:** estándares mínimos universales (convenios sobre libertad sindical, negociación colectiva,
   trabajo forzoso, infantil, discriminación).
-- **México:** modelo **tutelar** de raíz constitucional (art. 123), con **estabilidad** fuerte;
+- **México:** modelo **tutelar** de raíz constitucional (art. 123 ⟳), con **estabilidad** fuerte;
   recientemente alineado con el **T-MEC** en libertad sindical y justicia laboral. ⚠️
 
 ## 23. Derecho mexicano (régimen positivo)
 
-- **Constitucional:** **art. 123** (apartado A —trabajadores en general— y apartado B —servidores
+- **Constitucional:** **art. 123 ⟳** (apartado A —trabajadores en general— y apartado B —servidores
   públicos—) ⚠️.
 - **Ley Federal del Trabajo (LFT):** desarrolla el 123-A; relación individual y colectiva, terminación,
   proceso.
@@ -644,7 +647,7 @@ estructura** en una adquisición.
 - **De Buen, *Derecho del Trabajo*.** Sistematización crítica y moderna.
 - **Dávalos, *Derecho del Trabajo*.** Manual claro y didáctico.
 - **Plá Rodríguez, *Los principios del Derecho del Trabajo*.** Para el principio protector.
-- **Textos vigentes (obligatorio):** **CPEUM art. 123**, **LFT**, **Ley del Seguro Social**, **Ley del
+- **Textos vigentes (obligatorio):** **CPEUM art. 123 ⟳**, **LFT**, **Ley del Seguro Social**, **Ley del
   INFONAVIT**, reglas del **REPSE**, en el **DOF**; criterios en el **SJF**. ⚠️ *Cotejar con las reformas
   2019/2021/2023 y posteriores.*
 

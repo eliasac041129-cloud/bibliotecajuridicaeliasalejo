@@ -1,5 +1,8 @@
 # [Ramas Esenciales · Libro 14] Derecho Agrario
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Más de la mitad del territorio de México es **propiedad social** —ejidos y comunidades—, y ahí está buena
 > parte de la tierra donde se construyen **parques industriales, plantas de energía, carreteras, desarrollos
 > inmobiliarios y proyectos mineros**. El **derecho agrario** regula esa tierra: quién es su dueño, cómo se
@@ -12,11 +15,11 @@
 **Prerrequisitos:** [Bienes y Derechos Reales (I-06)](../Nivel-I-Fundamentos/06-Bienes-y-Derechos-Reales.md), [Constitucional y Amparo (02)](./02-Derecho-Constitucional-y-Amparo.md), [Administrativo (03)](./03-Derecho-Administrativo.md). **Se conecta con** [Ambiental (10)](./10-Derecho-Ambiental.md) y con la due diligence inmobiliaria.
 **Estándar:** V3 (43 secciones + secciones transversales).
 **⏱ Tiempo estimado de dominio:** 3–5 semanas (≈ 35–50 h de estudio activo). Lectura de
-reconocimiento: 5–7 h. *Estúdialo así: el régimen de propiedad (art. 27) → la propiedad social (ejido y
+reconocimiento: 5–7 h. *Estúdialo así: el régimen de propiedad (art. 27 ⟳) → la propiedad social (ejido y
 comunidad) y sus órganos → los tipos de tierra y derechos → cómo la empresa accede a tierra ejidal →
 justicia agraria → due diligence agraria en proyectos.*
 
-> **⚠️ AVISO DE VERIFICACIÓN. Contenido a fecha: 2026-07.** El derecho agrario se rige por el **art. 27
+> **⚠️ AVISO DE VERIFICACIÓN. Contenido a fecha: 2026-07.** El derecho agrario se rige por el **art. 27 ⟳
 > constitucional** y la **Ley Agraria** (reforma de 1992), con autoridades como el **Registro Agrario
 > Nacional (RAN)**, la **Procuraduría Agraria** y los **Tribunales Agrarios**. Artículos, órganos y reglas
 > **cambian con reformas**. Siguiendo el [Protocolo de Verificación](../../PROTOCOLO_DE_VERIFICACION.md),
@@ -58,7 +61,7 @@ inembargable en su origen) para evitar que volvieran a concentrarse los latifund
 laboral, la rama emblemática del **derecho social** mexicano.
 
 Durante casi todo el siglo XX, la tierra ejidal fue **intocable para el mercado**: no se podía vender ni
-usar como garantía. Eso cambió radicalmente con la **reforma al artículo 27 constitucional de 1992** y la
+usar como garantía. Eso cambió radicalmente con la **reforma al artículo 27 ⟳ constitucional de 1992** y la
 nueva **Ley Agraria**: se **declaró concluido el reparto agrario** y se abrió la puerta a que los ejidatarios
 adquirieran el **dominio pleno** de sus parcelas (convirtiéndolas en propiedad privada), a que los ejidos
 **aportaran tierras a sociedades** y a que la propiedad social entrara —bajo reglas— al **mercado y a los
@@ -74,7 +77,7 @@ puede **anular** la operación y derrumbar el proyecto **años después**, con l
 
 Al terminar, el lector será capaz de:
 
-- **Comprender el régimen de propiedad** del art. 27 (privada, pública y **social**) y el significado de la
+- **Comprender el régimen de propiedad** del art. 27 ⟳ (privada, pública y **social**) y el significado de la
   **reforma de 1992**.
 - **Dominar la propiedad social**: **ejido** y **comunidad**, sus **órganos** (asamblea, comisariado,
   consejo de vigilancia) y sus tipos de tierra (**parcelada**, de **uso común**, para **asentamiento
@@ -105,7 +108,7 @@ firme —jurídicamente— o sobre arena**.
 
 El derecho agrario mexicano es hijo de la **Revolución de 1910**, cuyo grito —"**tierra y libertad**"—
 respondía a la brutal concentración de la tierra en **haciendas** durante el porfiriato. La **Constitución
-de 1917**, en su **artículo 27**, consagró la **propiedad originaria de la Nación** sobre tierras y aguas,
+de 1917**, en su **artículo 27 ⟳**, consagró la **propiedad originaria de la Nación** sobre tierras y aguas,
 y sentó las bases del **reparto agrario** (dotación de tierras a los pueblos) y del **ejido** como régimen
 de propiedad social protegido. Durante décadas, el Estado repartió millones de hectáreas bajo un régimen
 **tutelar**: la tierra ejidal era **inalienable, imprescriptible e inembargable** (no se podía vender,
@@ -114,7 +117,7 @@ usucapir ni embargar), para proteger al campesino. ⚠️ *Verificar fechas y da
 ## 5. Evolución histórica
 
 El **giro histórico** ocurrió en **1992** (⚠️ verificar):
-1. **Reforma al artículo 27 constitucional (1992):** **declaró concluido el reparto agrario** y transformó
+1. **Reforma al artículo 27 ⟳ constitucional (1992):** **declaró concluido el reparto agrario** y transformó
    el régimen: permitió a los ejidatarios adquirir el **dominio pleno** de sus parcelas, autorizó a los
    ejidos a **asociarse y aportar tierras a sociedades** mercantiles, y abrió (con límites) la propiedad
    social al **mercado**.
@@ -143,7 +146,7 @@ titularidad** que ahuyenta al capital.
 ## 7. Contexto político
 
 La tierra es, en México, un tema **profundamente político y simbólico** (la Revolución, Zapata, "la tierra
-es de quien la trabaja"). Las reformas al **art. 27** tocan fibras sensibles, y la relación entre
+es de quien la trabaja"). Las reformas al **art. 27 ⟳** tocan fibras sensibles, y la relación entre
 **grandes proyectos** (energía, minería, infraestructura) y las **comunidades** afectadas es fuente de
 **conflicto social y político** recurrente. El **derecho a la consulta** de pueblos y comunidades (conéctalo
 con el Libro 10 ambiental y con el Convenio 169 de la OIT ⚠️) se ha vuelto central: un proyecto sin
@@ -176,7 +179,7 @@ titularidad y derrumbar el proyecto.
 
 ## 10. Definiciones doctrinales
 
-- **La propiedad originaria de la Nación (art. 27):** la Nación tuvo/tiene la propiedad **originaria** de
+- **La propiedad originaria de la Nación (art. 27 ⟳):** la Nación tuvo/tiene la propiedad **originaria** de
   tierras y aguas, y de ella deriva la propiedad privada y la social; puede imponer **modalidades** al
   interés público.
 - **El ejido como propiedad social *sui generis*:** ni pública ni privada pura; un régimen **colectivo y
@@ -214,7 +217,7 @@ la tierra social —de quién es, cómo se usa y cómo una empresa puede acceder
 
 ## 13. Conceptos fundamentales (glosario riguroso)
 
-- **Régimen de propiedad (art. 27):** **privada**, **pública** (bienes de la Nación) y **social** (ejidos y
+- **Régimen de propiedad (art. 27 ⟳):** **privada**, **pública** (bienes de la Nación) y **social** (ejidos y
   comunidades).
 - **Tipos de tierra ejidal:** **parcelada** (asignada a ejidatarios), de **uso común** (aprovechamiento
   colectivo), y para el **asentamiento humano** (donde vive la gente).
@@ -235,9 +238,9 @@ la tierra social —de quién es, cómo se usa y cómo una empresa puede acceder
 
 ## 14. Desarrollo absoluto (núcleo doctrinal)
 
-### 14.1 El régimen de propiedad del art. 27 y la reforma de 1992
+### 14.1 El régimen de propiedad del art. 27 ⟳ y la reforma de 1992
 
-El **art. 27** establece que la propiedad de tierras y aguas corresponde **originariamente a la Nación**,
+El **art. 27 ⟳** establece que la propiedad de tierras y aguas corresponde **originariamente a la Nación**,
 que constituyó la propiedad **privada** y reconoció la **social** (ejidos y comunidades). La **reforma de
 1992** ⚠️ marcó un **antes y un después**: declaró **concluido el reparto agrario**, dio **certeza y
 libertad** a la propiedad social (dominio pleno, asociación, mercado) y creó la institucionalidad moderna
@@ -379,7 +382,7 @@ regularizar (dominio pleno, asambleas), **indemnización** y a veces **exclusió
 ## 21. Casos internacionales (*cross-border*)
 
 Los inversionistas **extranjeros** en proyectos sobre tierra en México enfrentan, además del régimen
-agrario: el **art. 27** y la **cláusula Calvo** / límites a la propiedad extranjera en la **zona
+agrario: el **art. 27 ⟳** y la **cláusula Calvo** / límites a la propiedad extranjera en la **zona
 restringida** (fronteras y costas —donde suelen usarse **fideicomisos** para inmuebles—) ⚠️; los estándares
 internacionales de **consulta** a pueblos indígenas (**Convenio 169 de la OIT**, jurisprudencia de la Corte
 IDH); y las protecciones/riesgos de los **tratados de inversión** (Libro 08) si un acto estatal —o una
@@ -401,7 +404,7 @@ lo **agrario + ambiental + regulatorio + inversión** es lo que hace **bancable*
 
 ## 23. Derecho mexicano (régimen positivo)
 
-- **Constitucional:** **art. 27** (propiedad originaria de la Nación; propiedad privada, pública y social;
+- **Constitucional:** **art. 27 ⟳** (propiedad originaria de la Nación; propiedad privada, pública y social;
   bases del régimen ejidal; reforma de 1992) ⚠️.
 - **Ley reglamentaria:** **Ley Agraria (1992)** y su reglamento; normas del **RAN**.
 - **Autoridades:** **Registro Agrario Nacional (RAN)**, **Procuraduría Agraria**, **Tribunal Superior
@@ -418,7 +421,7 @@ Líneas para estudiar y **verificar en el SJF** y en criterios de los Tribunales
 - **Derecho a la consulta** de pueblos y comunidades (Convenio 169 OIT; suspensión de proyectos).
 - **Restitución de tierras** y conflictos de límites.
 
-> ⚠️ **Advertencia de integridad (Protocolo):** verifica los artículos de la Ley Agraria y del art. 27
+> ⚠️ **Advertencia de integridad (Protocolo):** verifica los artículos de la Ley Agraria y del art. 27 ⟳
 > **vigentes**, y los criterios de la SCJN y los Tribunales Agrarios, antes de invocarlos.
 
 ## 25. Criterios de la Suprema Corte
@@ -478,7 +481,7 @@ derrumba.
 4. **Ignorar el RAN**: no verificar la inscripción y el estado registral de la propiedad social.
 5. **Omitir la consulta/licencia social** de comunidades → bloqueos y amparos que paralizan el proyecto.
 6. **No detectar posesionarios o conflictos** de límites pendientes ante Tribunales Agrarios.
-7. **Citar de memoria** artículos de la Ley Agraria o del art. 27: verifica el texto vigente.
+7. **Citar de memoria** artículos de la Ley Agraria o del art. 27 ⟳: verifica el texto vigente.
 
 ## 31. Mitos frecuentes
 
@@ -514,7 +517,7 @@ superficial), mediante **asamblea válida** con formalidades reforzadas (quórum
 Procuraduría Agraria/fedatario donde aplique ⚠️) e inscripción en el RAN; alternativamente, **dominio pleno**
 (si se busca adquirir) o **aportación a sociedad**. (3) **Consulta y licencia social** a la comunidad
 (Convenio 169 OIT ⚠️) para evitar bloqueos/amparos. (4) Cláusulas de **titularidad y saneamiento** en el
-contrato. Verifica Ley Agraria y art. 27 vigentes ⚠️.
+contrato. Verifica Ley Agraria y art. 27 ⟳ vigentes ⚠️.
 
 ## 34. Simulador (ejercicio tipo despacho)
 
@@ -524,11 +527,11 @@ contrato. Verifica Ley Agraria y art. 27 vigentes ⚠️.
 > RAN, posesionarios, conflictos, consulta); (b) los **riesgos** de titularidad y cómo los valúas; (c) la
 > **estructura** de acceso recomendada y su blindaje (asamblea, dominio pleno/aportación/arrendamiento,
 > registro); y (d) las **cláusulas** del SPA/APA para trasladar el riesgo agrario. Marca ⚠️ lo que debas
-> verificar (Ley Agraria, art. 27).
+> verificar (Ley Agraria, art. 27 ⟳).
 
 ## 35. Flashcards
 
-- **P:** ¿Los tres regímenes de propiedad (art. 27)? · **R:** **Privada, pública y social** (ejidos y
+- **P:** ¿Los tres regímenes de propiedad (art. 27 ⟳)? · **R:** **Privada, pública y social** (ejidos y
   comunidades).
 - **P:** ¿Qué cambió la reforma de 1992? · **R:** Concluyó el reparto agrario; permitió **dominio pleno**,
   **aportación a sociedades** y la entrada (con reglas) de la tierra social al mercado ⚠️.
@@ -600,7 +603,7 @@ TERRENO PARA EL PROYECTO
 
 ## 39. Mnemotecnias
 
-- **Regímenes (art. 27) — "P-P-S"**: **P**rivada · **P**ública · **S**ocial.
+- **Regímenes (art. 27 ⟳) — "P-P-S"**: **P**rivada · **P**ública · **S**ocial.
 - **"La ASAMBLEA es la llave"**: casi todo acto sobre tierra social pasa por asamblea válida → sin ella,
   **nulidad**.
 - **Vías de acceso — "D-A-A"**: **D**ominio pleno · **A**portación · **A**rrendamiento.
@@ -612,8 +615,8 @@ TERRENO PARA EL PROYECTO
 ## 40. Resumen ejecutivo
 
 El derecho agrario regula la **tierra**, en especial la **propiedad social** (ejidos y comunidades) que
-abarca más de la mitad del territorio mexicano. Nació de la Revolución y del **reparto agrario** (art. 27),
-bajo un régimen protegido (tierra intocable). La **reforma de 1992** al art. 27 y la **Ley Agraria**
+abarca más de la mitad del territorio mexicano. Nació de la Revolución y del **reparto agrario** (art. 27 ⟳),
+bajo un régimen protegido (tierra intocable). La **reforma de 1992** al art. 27 ⟳ y la **Ley Agraria**
 **concluyeron el reparto** y abrieron la tierra social al mercado y a los proyectos: **dominio pleno**
 (parcela → propiedad privada), **aportación a sociedades**, **arrendamiento** y **ocupación** —siempre bajo
 reglas estrictas, con la **asamblea** del núcleo como llave y las **formalidades** cuya inobservancia
@@ -634,7 +637,7 @@ de nulidad** enterrada.
       bien instrumentada?
 - [ ] ¿Se hizo la **consulta** a la comunidad (Convenio 169 OIT ⚠️) y hay **licencia social**?
 - [ ] En M&A: ¿trasladé el **riesgo agrario** al SPA/APA (R&W de titularidad, condiciones, indemnización)?
-- [ ] ¿Verifiqué el **art. 27 y la Ley Agraria vigentes** y los criterios de la SCJN/Tribunales Agrarios? ⚠️
+- [ ] ¿Verifiqué el **art. 27 ⟳ y la Ley Agraria vigentes** y los criterios de la SCJN/Tribunales Agrarios? ⚠️
 
 ## 42. Bibliografía comentada
 
@@ -642,7 +645,7 @@ de nulidad** enterrada.
 - **Chávez Padrón, *El Derecho Agrario en México*.** Sistematización de referencia.
 - **Rivera Rodríguez / Medina Cervantes**, obra de derecho agrario post-1992 (dominio pleno, sociedades).
 - **Convenio 169 de la OIT** y jurisprudencia de la Corte IDH sobre **consulta** y tierras indígenas.
-- **Textos vigentes (obligatorio):** **CPEUM art. 27**, **Ley Agraria** y reglamento, normas del **RAN**,
+- **Textos vigentes (obligatorio):** **CPEUM art. 27 ⟳**, **Ley Agraria** y reglamento, normas del **RAN**,
   en el **DOF**; criterios en el **SJF** y de los **Tribunales Agrarios**. ⚠️ *Verifica el texto vigente.*
 
 ## 43. Ruta hacia el siguiente libro
@@ -651,7 +654,7 @@ Con el derecho agrario dominado, completas el mapa de las **materias que la carr
 necesita** (Ramas Esenciales 01–14). Este libro cierra la **oleada v2.2** de materias faltantes y se conecta
 de forma natural con el [**Ambiental (10)**](./10-Derecho-Ambiental.md) (pasivos y consulta en proyectos),
 el [**Administrativo (03)**](./03-Derecho-Administrativo.md) (permisos y regulación sectorial), el
-[**Constitucional/Amparo (02)**](./02-Derecho-Constitucional-y-Amparo.md) (art. 27 y consulta) y la
+[**Constitucional/Amparo (02)**](./02-Derecho-Constitucional-y-Amparo.md) (art. 27 ⟳ y consulta) y la
 [**Due Diligence (IV-02)**](../Nivel-IV-Corporate-Law/02-Due-Diligence.md) de proyectos. Con esto, la
 Biblioteca cubre el **espectro completo** que un abogado corporativo mexicano necesita —de lo civil a lo
 público, de lo penal a lo agrario— para titularse y ejercer con solidez.
@@ -714,10 +717,10 @@ Empresa Familiar     ★★★☆☆
 
 > **Cierre.** El derecho agrario es donde los grandes proyectos se encuentran con la **tierra** de México —y
 > con su historia social—. Domínalo para que un proyecto se asiente sobre **titularidad firme** y con la
-> comunidad de su lado, no sobre un vicio que lo derrumbe. Recuerda el Principio Supremo: el art. 27 y la
+> comunidad de su lado, no sobre un vicio que lo derrumbe. Recuerda el Principio Supremo: el art. 27 ⟳ y la
 > Ley Agraria **se reforman**, y la consulta evoluciona con la jurisprudencia; **verifica el texto vigente y
 > los criterios de la SCJN y los Tribunales Agrarios** antes de aconsejar.
 
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 14 · Estándar V3. Contenido conceptual a 2026-07;
-verifica todo artículo (art. 27 CPEUM, Ley Agraria), órgano y procedimiento contra su texto vigente (DOF) y
+verifica todo artículo (art. 27 CPEUM ⟳, Ley Agraria), órgano y procedimiento contra su texto vigente (DOF) y
 los criterios en el SJF y los Tribunales Agrarios.*

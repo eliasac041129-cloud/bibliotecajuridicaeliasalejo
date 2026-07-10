@@ -1,5 +1,8 @@
 # [Nivel I · Libro 12] Tratado de Lógica Jurídica
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Si la argumentación es el arte de persuadir, la lógica es la **estructura** que hace que un
 > razonamiento sea **válido** y no una trampa. La lógica jurídica enseña a razonar **con
 > rigor**: a distinguir lo que se sigue de lo que no, a detectar contradicciones e
@@ -268,7 +271,7 @@ a cálculo: la decisión jurídica combina lógica, argumentación y valoración
   y lógico-jurídicos) sobre lo prohibido, lo permitido y lo obligatorio.
 - **Estructura de la norma en el derecho mexicano:** supuesto de hecho → consecuencia jurídica
   (estructura condicional), base del silogismo de aplicación.
-- **Fundamentación y motivación (art. 16):** exige coherencia lógica entre la norma invocada, los
+- **Fundamentación y motivación (art. 16 ⟳):** exige coherencia lógica entre la norma invocada, los
   hechos y la conclusión; la falta de esa conexión lógica vicia el acto.
 - **Antinomias y lagunas:** resueltas con los criterios y técnicas vistos en el Libro 2
   (jerárquico, cronológico, especialidad; analogía y principios), que son operaciones
@@ -595,7 +598,7 @@ de excelencia.
 - Atienza, Manuel, *El derecho como argumentación* (capítulos sobre lógica).
 
 **Legislación:**
-- Constitución, art. 16 (coherencia lógica de la fundamentación y motivación).
+- Constitución, art. 16 ⟳ (coherencia lógica de la fundamentación y motivación).
 
 ## 30. Ruta para continuar
 

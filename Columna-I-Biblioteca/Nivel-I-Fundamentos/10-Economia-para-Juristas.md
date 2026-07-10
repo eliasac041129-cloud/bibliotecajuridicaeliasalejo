@@ -1,5 +1,8 @@
 # [Nivel I · Libro 10] Tratado de Economía para Juristas
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > El abogado corporativo trabaja con dinero, empresas, riesgo y valor. Si no entiende cómo
 > funcionan los precios, los mercados, las tasas de interés, la inflación o un estado
 > financiero, será siempre un técnico al servicio de quien sí entiende. Este libro entrega las
@@ -269,7 +272,7 @@ descontado), el método de valuación estrella (Nivel V).
   Hacienda (política fiscal).
 - **Mercado financiero:** la Bolsa Mexicana de Valores y BIVA; la CNBV regula; las empresas
   públicas reportan bajo **IFRS**.
-- **Marco económico-constitucional:** arts. 25-28 (rectoría económica, planeación, competencia),
+- **Marco económico-constitucional:** arts. 25-28 ⟳ (rectoría económica, planeación, competencia),
   vistos en el Libro 9.
 - **Régimen fiscal:** el ISR, el IVA y la deducibilidad de intereses afectan la estructura de
   capital y la valuación (la fiscalidad es central en el diseño de operaciones).

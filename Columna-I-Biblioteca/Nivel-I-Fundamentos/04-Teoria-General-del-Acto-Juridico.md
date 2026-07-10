@@ -1,5 +1,8 @@
 # [Nivel I · Libro 4] Tratado de Teoría General del Acto Jurídico
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Si los contratos, las sociedades, los testamentos y las operaciones de M&A fueran
 > moléculas, el **acto jurídico** sería el átomo. Toda la vida del derecho privado —y, por
 > tanto, todo el derecho corporativo— se construye con manifestaciones de voluntad que
@@ -156,17 +159,17 @@ La teoría ordena un conjunto de problemas prácticos:
 - **Objeto:** lo que se debe (la cosa o la conducta); debe existir o poder existir, estar en
   el comercio y ser determinado o determinable.
 - **Causa / motivo determinante:** la razón o fin del acto; en México el fin o motivo
-  determinante debe ser lícito (art. 1795, fr. III, e interpretación de los arts. 1830 y
-  1831 CCF).
+  determinante debe ser lícito (art. 1795, fr.  ⟳III, e interpretación de los arts. 1830 y
+  1831 CCF ⟳).
 - **Vicios del consentimiento:** **error**, **dolo**, **mala fe**, **violencia** (física o
   moral) y **lesión**.
 - **Inexistencia:** el acto no llegó a nacer por falta de un elemento esencial; no produce
-  efecto alguno, no se convalida ni prescribe (art. 2224 CCF).
+  efecto alguno, no se convalida ni prescribe (art. 2224 CCF ⟳).
 - **Nulidad absoluta:** el acto existe pero contraría una norma de orden público; cualquiera
   la invoca, no se convalida por confirmación ni prescripción, y por regla produce efectos
-  provisionales hasta su declaración (arts. 2225–2226 CCF).
+  provisionales hasta su declaración (arts. 2225 ⟳–2226 CCF).
 - **Nulidad relativa:** vicio que protege un interés particular; solo la invoca el afectado,
-  **se convalida** por confirmación o por prescripción (arts. 2227–2228 CCF).
+  **se convalida** por confirmación o por prescripción (arts. 2227 ⟳–2228 CCF).
 - **Confirmación / ratificación:** acto por el que se sanea un acto anulable.
 - **Conversión del acto nulo:** un acto nulo que reúne los requisitos de otro distinto puede
   valer como ese otro.
@@ -192,13 +195,13 @@ es el motor), no en los hechos.
 
 ### 5.2 La autonomía de la voluntad y sus límites
 El acto jurídico es la expresión técnica de la **autonomía de la voluntad**: los
-particulares pueden crear las reglas de su relación (art. 1796 CCF: los contratos se
+particulares pueden crear las reglas de su relación (art. 1796 CCF ⟳: los contratos se
 perfeccionan por el consentimiento y obligan no solo a lo pactado sino a las consecuencias
 conformes a la buena fe, al uso o a la ley). Pero esta libertad tiene **tres murallas**:
-1. **Las leyes de orden público / imperativas** (art. 6 CCF: la voluntad no puede eximir de
+1. **Las leyes de orden público / imperativas** (art. 6 CCF ⟳: la voluntad no puede eximir de
    su observancia ni alterarlas).
 2. **El orden público** y las **buenas costumbres** (límite a la licitud del objeto, motivo
-   o fin: arts. 1830–1831 CCF).
+   o fin: arts. 1830 ⟳–1831 CCF).
 3. **Los derechos de terceros.**
 
 Detectar la frontera entre lo disponible (normas dispositivas) y lo indisponible (normas
@@ -219,13 +222,13 @@ elementos esenciales y no hay acto que analizar:
    ciertas formas). Si la ley eleva la forma a elemento de existencia, su ausencia es
    inexistencia, no mera nulidad.
 
-**Consecuencia de la inexistencia (art. 2224 CCF):** el acto "no produce efecto legal
+**Consecuencia de la inexistencia (art. 2224 CCF ⟳):** el acto "no produce efecto legal
 alguno; no es susceptible de valer por confirmación ni por prescripción". Es la nada
 jurídica. Cualquier interesado puede alegarla en cualquier tiempo.
 
 ### 5.4 Requisitos de validez: el acto existe, ¿pero vale?
 Un acto puede existir y, sin embargo, estar enfermo. Los requisitos de validez (art. 1795
-CCF, a contrario) son cuatro:
+CCF ⟳, a contrario) son cuatro:
 
 1. **Capacidad** de las partes. La incapacidad (p. ej., de un menor o de un interdicto)
    genera **nulidad relativa** (protege al incapaz).
@@ -234,23 +237,23 @@ CCF, a contrario) son cuatro:
 3. **Licitud** en el objeto, motivo o fin. La ilicitud (contra leyes de orden público o
    buenas costumbres) genera **nulidad absoluta** (protege a la sociedad).
 4. **Forma** exigida por la ley (cuando no es solemnidad esencial). Su falta genera, por
-   regla, **nulidad relativa** y el acto puede sanearse otorgando la forma (art. 2231 CCF:
+   regla, **nulidad relativa** y el acto puede sanearse otorgando la forma (art. 2231 CCF ⟳:
    la falta de forma estipulada produce nulidad relativa subsanable).
 
 ### 5.5 Los vicios del consentimiento, en concreto
 - **Error:** falsa apreciación de la realidad. Solo invalida el **error determinante**
   (motivo decisivo del acto) o el error de derecho/hecho que recae sobre el motivo
-  determinante (art. 1813 CCF). El error de cálculo solo da lugar a rectificación. *Ejemplo:*
+  determinante (art. 1813 CCF ⟳). El error de cálculo solo da lugar a rectificación. *Ejemplo:*
   compro un cuadro creyendo que es de un autor famoso, siendo ese el motivo determinante.
 - **Dolo y mala fe:** el **dolo** es cualquier sugestión o artificio para inducir al error o
-  mantenerlo (art. 1815 CCF); la **mala fe**, la disimulación del error conocido. El dolo que
+  mantenerlo (art. 1815 CCF ⟳); la **mala fe**, la disimulación del error conocido. El dolo que
   **determina** la voluntad anula el acto (nulidad relativa). *Ejemplo corporativo:* el
   vendedor oculta deliberadamente un pasivo: dolo. **Aquí está el puente con las
   *misrepresentations* del M&A.**
 - **Violencia (intimidación):** empleo de fuerza física o amenazas que infunden temor de un
-  mal grave a la persona o bienes (art. 1819 CCF). Vicia por nulidad relativa.
+  mal grave a la persona o bienes (art. 1819 CCF ⟳). Vicia por nulidad relativa.
 - **Lesión:** desproporción enorme entre las prestaciones por explotación de la suma
-  ignorancia, notoria inexperiencia o extrema miseria de una parte (art. 17 CCF). Da derecho
+  ignorancia, notoria inexperiencia o extrema miseria de una parte (art. 17 CCF ⟳). Da derecho
   a la nulidad o a la reducción equitativa.
 
 ### 5.6 El régimen de ineficacias: el mapa que debes memorizar
@@ -282,7 +285,7 @@ decisión resuelve el 90% de los problemas de ineficacia.
   órganos) y para el tráfico (apoderados). Sus vicios (falta o exceso de poder) son fuente
   frecuente de litigio corporativo.
 - **Interpretación del acto:** se busca la **intención común** real por encima de las
-  palabras (arts. 1851 y ss. CCF), interpretando las cláusulas unas por otras y a favor de
+  palabras (arts. 1851 ⟳ y ss. CCF), interpretando las cláusulas unas por otras y a favor de
   la validez y la buena fe.
 
 > **Respuesta al ejercicio de arranque:** el contrato celebrado por engaño determinante
@@ -303,7 +306,7 @@ sujeto *quiso* difiere de lo que *declaró*? La doctrina alemana clásica (teor�
 voluntad, *Willenstheorie*: Savigny) prioriza la voluntad interna real. La teoría de la
 declaración (*Erklärungstheorie*) prioriza lo manifestado, para proteger la confianza del
 destinatario y la seguridad del tráfico. Los sistemas modernos (y el mexicano) adoptan
-posiciones **intermedias**: parten de la voluntad real (art. 1851 CCF), pero protegen la
+posiciones **intermedias**: parten de la voluntad real (art. 1851 CCF ⟳), pero protegen la
 buena fe y la apariencia frente a terceros. *Por qué importa:* en un contrato corporativo,
 la tensión entre "lo que quisimos negociar" y "lo que dice el texto" es el origen de casi
 todo litigio interpretativo; por eso se usan cláusulas de *entire agreement*.
@@ -312,7 +315,7 @@ todo litigio interpretativo; por eso se usan cláusulas de *entire agreement*.
 **causa** como elemento del acto; los anticausalistas (Planiol) sostienen que la causa se
 confunde con el objeto o el consentimiento y es superflua. La doctrina mexicana, siguiendo
 a Bonnecase, suele incorporar el "motivo o fin determinante" como elemento relevante para la
-licitud (arts. 1795-III, 1830-1831 CCF). El debate sigue vivo: el reformado Code Civil
+licitud (arts. 1795-III, 1830-1831 CCF ⟳). El debate sigue vivo: el reformado Code Civil
 francés (2016) **suprimió** la causa como tal, sustituyéndola por requisitos de contenido y
 fin lícitos. *Lección:* la "causa" es una de las nociones más debatidas del derecho privado.
 
@@ -320,14 +323,14 @@ fin lícitos. *Lección:* la "causa" es una de las nociones más debatidas del d
 inexistencia para casos donde "no había nada que anular" (matrimonio entre personas del
 mismo sexo bajo el código decimonónico, falta de objeto). Parte de la doctrina alemana y
 algunos autores mexicanos critican la inexistencia como categoría superflua (bastaría la
-nulidad absoluta). El CCF mexicano la **mantiene** expresamente (art. 2224), por lo que en
+nulidad absoluta). El CCF mexicano la **mantiene** expresamente (art. 2224 ⟳), por lo que en
 México es derecho positivo, no mera teoría. *Debate práctico:* distinguir inexistencia de
 nulidad absoluta tiene consecuencias (la inexistencia no produce *ningún* efecto, ni
 provisional).
 
 **Concepción de los vicios: subjetiva vs. objetiva de la lesión.** La lesión se concibe en
 unos sistemas de modo **objetivo** (basta la desproporción matemática de prestaciones) y en
-otros —como México (art. 17 CCF)— de modo **subjetivo-objetivo** (desproporción **más**
+otros —como México (art. 17 CCF ⟳)— de modo **subjetivo-objetivo** (desproporción **más**
 explotación de la ignorancia, inexperiencia o miseria). Esto eleva el estándar para anular
 por lesión y protege la seguridad de los negocios entre partes sofisticadas.
 
@@ -371,7 +374,7 @@ por lesión y protege la seguridad de los negocios entre partes sofisticadas.
   lesión.
 - **Lección para el corporativo internacional:** al negociar un contrato cross-border debes
   "traducir" categorías: una *fraudulent misrepresentation* del derecho inglés tiene como
-  pariente civil el dolo del art. 1815 CCF, pero los **remedios** y la **carga de la prueba**
+  pariente civil el dolo del art. 1815 CCF ⟳, pero los **remedios** y la **carga de la prueba**
   difieren.
 
 ## 9. Relación con México
@@ -379,7 +382,7 @@ por lesión y protege la seguridad de los negocios entre partes sofisticadas.
 El régimen está en el **Código Civil Federal** (y, casi idéntico, en los códigos
 estatales). Mapa de artículos esenciales:
 
-- **Autonomía y límites:** arts. 6 (renuncia de derechos privados y orden público), 8
+- **Autonomía y límites:** arts. 6 ⟳ (renuncia de derechos privados y orden público), 8
   (actos contra leyes prohibitivas o de interés público son nulos), 1796 (obligatoriedad y
   buena fe).
 - **Elementos y requisitos:** art. **1794** (elementos de existencia: consentimiento y
@@ -393,7 +396,7 @@ estatales). Mapa de artículos esenciales:
   **2227–2230** (nulidad relativa y sus efectos), **2231** (falta de forma), **2239–2242**
   (efectos de la nulidad: restituciones).
 - **Interpretación:** arts. **1851–1859**.
-- **Modalidades:** condición y término en sede de obligaciones (arts. 1938 y ss.).
+- **Modalidades:** condición y término en sede de obligaciones (arts. 1938 ⟳ y ss.).
 
 > **Advertencia federalista (recuerda el Libro 3):** la materia civil es **local**. Cada
 > estado tiene su Código Civil. El CCF rige en materia federal y como modelo, pero al
@@ -453,11 +456,11 @@ estatales). Mapa de artículos esenciales:
 
 - *"Distinga hecho jurídico de acto jurídico y dé un ejemplo de cada uno."*
 - *"Enumere los elementos de existencia y los requisitos de validez del acto jurídico,
-  fundamentando en los arts. 1794 y 1795 CCF."*
+  fundamentando en los arts. 1794 y 1795 CCF ⟳."*
 - *"Explique las diferencias de régimen entre inexistencia, nulidad absoluta y nulidad
   relativa. ¿Cuál se convalida y por qué?"*
 - *"¿Cuándo el error vicia el consentimiento? ¿Y el dolo?"*
-- *"¿Qué es la lesión en el art. 17 CCF y por qué su concepción es subjetiva-objetiva?"*
+- *"¿Qué es la lesión en el art. 17 CCF ⟳ y por qué su concepción es subjetiva-objetiva?"*
 - *"Una sociedad celebra un contrato a través de quien no tenía poder. ¿Qué tipo de
   ineficacia hay y cómo se sanea?"*
 
@@ -470,7 +473,7 @@ estatales). Mapa de artículos esenciales:
 ## 14. Cómo aparece en un juicio
 
 - **Acción de nulidad:** el pleito típico. El actor pide declarar la nulidad (absoluta o
-  relativa) y las **restituciones** consiguientes (arts. 2239–2242 CCF: las partes se
+  relativa) y las **restituciones** consiguientes (arts. 2239 ⟳–2242 CCF: las partes se
   devuelven lo recibido). La calificación correcta del tipo de nulidad define legitimación,
   prescripción y posibilidad de convalidación.
 - **Excepción de nulidad:** el demandado por cumplimiento puede excepcionar que el contrato
@@ -532,7 +535,7 @@ El M&A es teoría del acto jurídico a escala industrial. Conexiones precisas:
   de *disclosure* sirve para **excluir el error/dolo** revelando la verdad.
 - **Conditions precedent ≈ condición suspensiva:** el *closing* solo ocurre si se cumplen
   condiciones (autorizaciones COFECE/CNBV, *no MAC*, veracidad de *reps* a la fecha de
-  cierre). Pura modalidad del acto (art. 1938 y ss. CCF).
+  cierre). Pura modalidad del acto (art. 1938 ⟳ y ss. CCF).
 - **Nulidad vs. terminación:** distinguir si una patología hace el SPA **nulo** (vicio de
   origen) o solo da derecho a **terminarlo/indemnizar** (incumplimiento posterior) define la
   estrategia. La buena práctica anglosajona prefiere remedios contractuales (indemnity) a la
@@ -569,7 +572,7 @@ El M&A es teoría del acto jurídico a escala industrial. Conexiones precisas:
 
 **Caso 1. Dolo por reticencia en una compraventa de empresa.** El vendedor calla un litigio
 millonario inminente que conocía. El comprador, tras el cierre, descubre el pasivo.
-*Análisis:* hay **dolo** por omisión (reticencia dolosa, arts. 1815-1816 CCF) si el silencio
+*Análisis:* hay **dolo** por omisión (reticencia dolosa, arts. 1815-1816 CCF ⟳) si el silencio
 fue determinante; el comprador puede pedir **nulidad relativa** o **confirmar y reclamar
 daños**. En un SPA, esto se canaliza como *breach of representation* + indemnización (a
 menudo más eficiente que la nulidad).
@@ -581,7 +584,7 @@ aparente) según las circunstancias. *Lección:* verificar facultades es insusti
 
 **Caso 3. Objeto ilícito.** Dos partes pactan repartirse un mercado para excluir a
 competidores (práctica monopólica absoluta). *Análisis:* objeto/fin **ilícito** (contra el
-art. 28 const. y la Ley de Competencia): **nulidad absoluta**, invocable por cualquiera, no
+art. 28 ⟳ const. y la Ley de Competencia): **nulidad absoluta**, invocable por cualquiera, no
 convalidable, además de sanciones administrativas.
 
 ## 20. Preguntas abiertas
@@ -600,22 +603,22 @@ convalidable, además de sanciones administrativas.
 ## 21. Preguntas tipo examen (con respuesta modelo)
 
 **P1. Elementos de existencia vs. requisitos de validez.** *R.* Existencia: consentimiento,
-objeto y (si la ley lo exige) solemnidad (art. 1794); su falta = inexistencia (2224).
-Validez: capacidad, ausencia de vicios, licitud y forma (art. 1795); su falta = nulidad
+objeto y (si la ley lo exige) solemnidad (art. 1794 ⟳); su falta = inexistencia (2224).
+Validez: capacidad, ausencia de vicios, licitud y forma (art. 1795 ⟳); su falta = nulidad
 absoluta (ilicitud) o relativa (incapacidad, vicios, forma).
 
 **P2. ¿Cuándo el error vicia el consentimiento?** *R.* Cuando recae sobre el **motivo
-determinante** de la voluntad (art. 1813 CCF). El error de cálculo solo da derecho a
+determinante** de la voluntad (art. 1813 CCF ⟳). El error de cálculo solo da derecho a
 rectificación; el error indiferente no invalida.
 
 **P3. Diferencie nulidad absoluta y relativa.** *R.* Absoluta: protege el orden público,
 la invoca cualquiera, no se convalida por confirmación ni prescripción. Relativa: protege un
 interés particular, la invoca solo el afectado, se convalida por confirmación o prescripción
-(arts. 2226-2228).
+(arts. 2226-2228 ⟳).
 
 **P4. ¿Qué es la lesión y qué remedios genera?** *R.* Desproporción enorme entre
 prestaciones por explotación de la suma ignorancia, notoria inexperiencia o extrema miseria
-(art. 17 CCF). Remedios: nulidad o reducción equitativa de la prestación.
+(art. 17 CCF ⟳). Remedios: nulidad o reducción equitativa de la prestación.
 
 **P5. Un menor celebra un contrato sin representante. ¿Qué ineficacia opera?** *R.* Nulidad
 **relativa** (la incapacidad protege al menor); puede convalidarse al cesar la incapacidad o
@@ -650,17 +653,17 @@ de error sobre **expectativas** (riesgo del negocio).
 - **¿Hecho jurídico vs. acto jurídico?** → En el hecho, el efecto no se quiere como tal; en
   el acto, la voluntad busca el efecto jurídico.
 - **¿Elementos de existencia?** → Consentimiento, objeto y (si la ley lo exige) solemnidad
-  (art. 1794 CCF).
+  (art. 1794 CCF ⟳).
 - **¿Requisitos de validez?** → Capacidad, ausencia de vicios, licitud (objeto/motivo/fin) y
-  forma (art. 1795 CCF).
+  forma (art. 1795 CCF ⟳).
 - **¿Consecuencia de la inexistencia?** → No produce efecto alguno; no se convalida ni
-  prescribe (art. 2224).
+  prescribe (art. 2224 ⟳).
 - **¿Quién invoca la nulidad absoluta?** → Cualquier interesado; no se convalida (2225-2226).
 - **¿Se convalida la nulidad relativa?** → Sí, por confirmación o prescripción (2227-2228).
-- **¿Cuándo vicia el error?** → Si recae sobre el motivo determinante (art. 1813).
-- **¿Qué es el dolo?** → Sugestión o artificio para inducir o mantener el error (art. 1815);
+- **¿Cuándo vicia el error?** → Si recae sobre el motivo determinante (art. 1813 ⟳).
+- **¿Qué es el dolo?** → Sugestión o artificio para inducir o mantener el error (art. 1815 ⟳);
   vicia si es determinante.
-- **¿Qué es la lesión (art. 17)?** → Desproporción enorme por explotación de ignorancia,
+- **¿Qué es la lesión (art. 17 ⟳)?** → Desproporción enorme por explotación de ignorancia,
   inexperiencia o miseria.
 - **¿Tres modalidades del acto?** → Condición, término (plazo) y modo (carga).
 - **¿Vicio típico de la representación?** → Falta o exceso de poder (acto ineficaz salvo
@@ -763,8 +766,8 @@ orden jurídico, crea, modifica o extingue derechos y obligaciones: es la teorí
 la **autonomía de la voluntad** y sus límites (orden público, normas imperativas, derechos de
 terceros). Distingue el **hecho jurídico** (efecto no querido como tal) del **acto jurídico**
 (efecto querido), y construye la arquitectura que usarás toda tu vida profesional: los
-**elementos de existencia** (consentimiento, objeto, solemnidad; art. 1794 CCF), los
-**requisitos de validez** (capacidad, ausencia de vicios, licitud, forma; art. 1795) y el
+**elementos de existencia** (consentimiento, objeto, solemnidad; art. 1794 CCF ⟳), los
+**requisitos de validez** (capacidad, ausencia de vicios, licitud, forma; art. 1795 ⟳) y el
 régimen escalonado de **ineficacias** —inexistencia (2224), nulidad absoluta (2225-2226) y
 nulidad relativa (2227-2228)—, junto con la teoría de los **vicios del consentimiento**
 (error, dolo, violencia, lesión), las **modalidades** (condición, término, modo) y la
@@ -796,7 +799,7 @@ el cimiento técnico del derecho de los negocios.
 
 **Legislación:**
 - Código Civil Federal: arts. 6, 8, 17, 1794-1795, 1812-1823, 1827, 1830-1831, 1851-1859,
-  1938 y ss., 2224-2242. (Verificar el Código Civil de la entidad aplicable.)
+  1938 ⟳ y ss., 2224-2242. (Verificar el Código Civil de la entidad aplicable.)
 
 ## 30. Ruta para continuar
 

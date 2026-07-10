@@ -1,5 +1,8 @@
 # [Nivel III · Libro 2] Sociedades Mercantiles (LGSM)
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Si la empresa es el cliente, la **sociedad mercantil** es su cuerpo jurídico. La sociedad
 > anónima es, probablemente, la institución jurídica más importante del capitalismo: permite
 > **reunir capital de muchos**, **limitar el riesgo** de cada inversor y **organizar el poder**
@@ -210,24 +213,24 @@ cercano al corazón del objetivo.
 
 ## 11. Definiciones legales (LGSM y LMV — verificar versión vigente)
 
-- **Tipos de sociedad — art. 1 LGSM:** la ley reconoce: (I) Sociedad en Nombre Colectivo; (II)
+- **Tipos de sociedad — art. 1 LGSM ⟳:** la ley reconoce: (I) Sociedad en Nombre Colectivo; (II)
   Sociedad en Comandita Simple; (III) Sociedad de Responsabilidad Limitada (**S. de R.L.**); (IV)
   **Sociedad Anónima** (**S.A.**); (V) Sociedad en Comandita por Acciones; (VI) Sociedad Cooperativa.
   Cualquiera (salvo la cooperativa) puede ser de **capital variable**.
-- **Sociedad Anónima — art. 87 LGSM:** "Sociedad anónima es la que existe bajo una denominación y se
+- **Sociedad Anónima — art. 87 LGSM ⟳:** "Sociedad anónima es la que existe bajo una denominación y se
   compone exclusivamente de socios cuya **obligación se limita al pago de sus acciones**."
-- **Requisitos de constitución de la S.A. — art. 89 LGSM:** dos o más socios (cada uno suscriba al
+- **Requisitos de constitución de la S.A. — art. 89 LGSM ⟳:** dos o más socios (cada uno suscriba al
   menos una acción); capital suscrito íntegramente; exhibición mínima del 20% en aportaciones en
   efectivo; íntegra en aportaciones en especie.
-- **S. de R.L. — art. 58 LGSM:** capital dividido en **partes sociales** (no acciones), socios de
+- **S. de R.L. — art. 58 LGSM ⟳:** capital dividido en **partes sociales** (no acciones), socios de
   responsabilidad limitada; número máximo de socios (50).
-- **S.A.P.I. — Ley del Mercado de Valores (arts. 12 y ss.):** modalidad de S.A. con **mayor
+- **S.A.P.I. — Ley del Mercado de Valores (arts. 12 ⟳ y ss.):** modalidad de S.A. con **mayor
   flexibilidad** estatutaria (acciones de voto limitado/restringido, restricciones a la transmisión,
   exclusión de socios, derechos de minoría reforzados, *drag/tag along* estatutarios), pensada para
   recibir inversión (VC/PE) y transitar eventualmente al mercado de valores.
-- **Asambleas — arts. 178 y ss. LGSM:** la asamblea de accionistas es el **órgano supremo**;
-  ordinarias y extraordinarias, con quórums y mayorías distintos. **Administración — arts. 142 y
-  ss.** (consejo o administrador único). **Vigilancia — arts. 164 y ss.** (comisario).
+- **Asambleas — arts. 178 ⟳ y ss. LGSM:** la asamblea de accionistas es el **órgano supremo**;
+  ordinarias y extraordinarias, con quórums y mayorías distintos. **Administración — arts. 142 ⟳ y
+  ss.** (consejo o administrador único). **Vigilancia — arts. 164 ⟳ y ss.** (comisario).
 
 ## 12. Definición sencilla
 
@@ -327,8 +330,8 @@ Delaware dentro del derecho mexicano. Para estructuras con inversión estadounid
 ### 14.B · La Sociedad Anónima: constitución, capital y acciones
 
 **Constitución.** Por **contrato social** (acta constitutiva) ante **fedatario público** (notario o
-corredor), con los requisitos del art. 89 (dos o más socios, capital suscrito, exhibición mínima del
-20% en efectivo, íntegra en especie) y los estatutos del art. 6 (denominación, objeto, duración,
+corredor), con los requisitos del art. 89 ⟳ (dos o más socios, capital suscrito, exhibición mínima del
+20% en efectivo, íntegra en especie) y los estatutos del art. 6 ⟳ (denominación, objeto, duración,
 capital, domicilio, órganos, reglas de reparto). Se **inscribe** en el Registro Público de Comercio
 para que la sociedad tenga personalidad **plena** frente a terceros (antes, sociedad irregular).
 
@@ -346,14 +349,14 @@ el capital); (ii) **medida** de los derechos del socio (proporción de voto y di
 **Las acciones.** Representan el capital y el *status* de socio. Clasificaciones clave:
 - **Por sus derechos:** **ordinarias** (plenos derechos de voto y dividendo) y **preferentes / de
   voto limitado** (privilegio económico —dividendo preferente— a cambio de voto restringido; art.
-  113 LGSM). En **series** (A, B, C…) con derechos distintos.
+  113 LGSM ⟳). En **series** (A, B, C…) con derechos distintos.
 - **Por su exhibición:** **liberadas** (pagadas) y **pagadoras** (pendientes de pago).
 - **Por su circulación:** la regla en la S.A. es la **libre transmisibilidad**; los estatutos
-  pueden establecer que la transmisión requiera **autorización del consejo** (art. 130 LGSM) —y la
+  pueden establecer que la transmisión requiera **autorización del consejo** (art. 130 LGSM ⟳) —y la
   S.A.P.I. permite restricciones más amplias (derechos de preferencia, *lock-up*, *tag/drag*)—.
 - **Documentación y registro:** las acciones se documentan en **títulos** (o se mantienen de forma
   desmaterializada) y la titularidad se acredita por la inscripción en el **libro de registro de
-  acciones** (art. 128 LGSM): *quien aparece en el libro es el accionista frente a la sociedad*.
+  acciones** (art. 128 LGSM ⟳): *quien aparece en el libro es el accionista frente a la sociedad*.
   **Punto crítico de due diligence y de la prenda de acciones.**
 
 **Transmisión de acciones.** Por **endoso** del título + **inscripción en el libro de registro**.
@@ -366,28 +369,28 @@ verificar el libro de registro es esencial para confirmar quién es dueño de qu
 La S.A. actúa por sus órganos (teoría del órgano — Libro 5, Nivel I):
 
 **1) La Asamblea de Accionistas (órgano supremo).** Forma la voluntad social. Tipos:
-- **Ordinaria (art. 181):** se reúne al menos una vez al año; aprueba el **informe** y los **estados
+- **Ordinaria (art. 181 ⟳):** se reúne al menos una vez al año; aprueba el **informe** y los **estados
   financieros**, decreta **dividendos**, nombra y remueve al **consejo** y al **comisario**, fija
   sus emolumentos. *Quórum:* instalación, mayoría de las acciones (50%+); votación, mayoría de los
   presentes. En **segunda convocatoria**, se resuelve con cualquier número de acciones.
-- **Extraordinaria (art. 182):** para los asuntos **graves** que modifican la estructura: reforma
+- **Extraordinaria (art. 182 ⟳):** para los asuntos **graves** que modifican la estructura: reforma
   de estatutos, **aumento o reducción de capital** (en la parte fija), **cambio de objeto o de
   nacionalidad**, **transformación, fusión, escisión**, **disolución**, emisión de acciones
   privilegiadas. *Quórum:* instalación, **75%** de las acciones (en primera convocatoria); votación,
   voto de acciones que representen el **50%** del capital (mínimos legales; los estatutos pueden
   exigir **más**, no menos).
 - **Convocatoria, orden del día y formalidades:** vicios en la convocatoria o el quórum pueden
-  **anular** los acuerdos (impugnación, art. 188 y ss.).
+  **anular** los acuerdos (impugnación, art. 188 ⟳ y ss.).
 
-**2) La Administración (consejo de administración o administrador único, arts. 142 y ss.).** Órgano
+**2) La Administración (consejo de administración o administrador único, arts. 142 ⟳ y ss.).** Órgano
 de **gestión y representación**. Puede ser **unipersonal** (administrador único) o **colegiado**
 (consejo de administración). Funciones: dirigir el negocio, ejecutar los acuerdos de la asamblea,
 representar a la sociedad (otorgar poderes — Libro 2, Nivel II). **Deberes fiduciarios** (deber de
 **diligencia/cuidado** y de **lealtad**), cuya violación genera **responsabilidad** (acción social
-de responsabilidad, art. 161; reforzada en LMV para sociedades bursátiles — Nivel IV). El consejo
+de responsabilidad, art. 161 ⟳; reforzada en LMV para sociedades bursátiles — Nivel IV). El consejo
 suele apoyarse en **comités** (auditoría, prácticas societarias) y en un **director general**.
 
-**3) La Vigilancia (comisario, arts. 164 y ss.).** Órgano fiscalizador, designado por la asamblea;
+**3) La Vigilancia (comisario, arts. 164 ⟳ y ss.).** Órgano fiscalizador, designado por la asamblea;
 vigila la gestión, revisa los estados financieros y rinde dictamen. En sociedades bursátiles, esta
 función se moderniza con el **comité de auditoría** y el **auditor externo** (LMV). *Tendencia:* el
 modelo del comisario único evoluciona hacia órganos de vigilancia más robustos y profesionales
@@ -410,10 +413,10 @@ El *status* de accionista confiere dos clases de derechos:
 **Derechos patrimoniales (económicos):**
 - **Dividendo:** participación en las utilidades, cuando la asamblea lo decreta y hay utilidades
   **reales** (no se reparten dividendos ficticios; primero se constituye la **reserva legal** —5% de
-  las utilidades hasta alcanzar el 20% del capital, art. 20—).
+  las utilidades hasta alcanzar el 20% del capital, art. 20 ⟳—).
 - **Cuota de liquidación:** lo que corresponde al socio al disolverse y liquidarse la sociedad,
   tras pagar a los acreedores.
-- **Derecho de preferencia (suscripción preferente, art. 132):** en los **aumentos de capital**, el
+- **Derecho de preferencia (suscripción preferente, art. 132 ⟳):** en los **aumentos de capital**, el
   accionista tiene preferencia para suscribir las nuevas acciones **en proporción** a las que posee,
   para **no diluirse**. Es el derecho que protege contra la **dilución** —tema central en las rondas
   de inversión de VC—.
@@ -422,17 +425,17 @@ El *status* de accionista confiere dos clases de derechos:
 - **Voto:** participar y votar en las asambleas (regla: un voto por acción ordinaria; las de voto
   limitado, restringido).
 - **Información:** acceder a la información social (estados financieros, informe del consejo; art.
-  186-187).
+  186-187 ⟳).
 - **Impugnación:** demandar la **nulidad** de acuerdos de asamblea contrarios a la ley o los
-  estatutos (art. 188 y ss.).
+  estatutos (art. 188 ⟳ y ss.).
 - **Derechos de minoría (protección del que no controla):** la LGSM otorga a minorías que reúnan
   ciertos porcentajes herramientas defensivas:
   - **Convocar asamblea** (titulares del **33%**, o 25% en ciertos casos; en S.A.P.I./bursátil,
     porcentajes menores).
-  - **Nombrar un consejero** (minoría del **25%**, art. 144; en bursátil, 10%).
-  - **Aplazar la votación** de un asunto no suficientemente informado (33%, art. 199).
+  - **Nombrar un consejero** (minoría del **25%**, art. 144 ⟳; en bursátil, 10%).
+  - **Aplazar la votación** de un asunto no suficientemente informado (33%, art. 199 ⟳).
   - **Oponerse judicialmente** a las resoluciones y ejercer la **acción de responsabilidad** contra
-    administradores (minoría del **25%**, art. 163).
+    administradores (minoría del **25%**, art. 163 ⟳).
   - **Derecho de retiro/separación** en ciertos supuestos (cambio de objeto, nacionalidad,
     transformación).
 
@@ -467,13 +470,13 @@ dentro de México.*
   acreedores (derecho de oposición, publicidad).
 - **Transformación:** cambiar de tipo social (p. ej., S. de R.L. → S.A. o S.A.P.I.) conservando la
   personalidad.
-- **Fusión (arts. 222 y ss.):** dos o más sociedades se **unen** —por incorporación (una absorbe a
+- **Fusión (arts. 222 ⟳ y ss.):** dos o más sociedades se **unen** —por incorporación (una absorbe a
   otra) o por integración (nace una nueva)—; transmisión universal de patrimonio; protección de
   acreedores (derecho de oposición; efectos a los 3 meses salvo pago/garantía). *Base del M&A por
   fusión (Nivel IV).*
-- **Escisión (art. 228 bis):** una sociedad **divide** su patrimonio, transmitiéndolo a una o varias
+- **Escisión (art. 228 bis ⟳):** una sociedad **divide** su patrimonio, transmitiéndolo a una o varias
   sociedades nuevas o existentes. *Clave en reestructuras y carve-outs (Nivel IV).*
-- **Disolución y liquidación (arts. 229 y ss.):** causas de disolución (vencimiento del plazo,
+- **Disolución y liquidación (arts. 229 ⟳ y ss.):** causas de disolución (vencimiento del plazo,
   imposibilidad del objeto, acuerdo, pérdida de 2/3 del capital, reducción de socios); seguida de la
   **liquidación** (realizar activos, pagar pasivos, repartir el remanente) por los liquidadores.
 
@@ -544,16 +547,16 @@ lo que estudiamos aquí es lo que se negocia y se transfiere ese día.
    cláusulas de **buy-sell** (*shotgun*: uno ofrece comprar/vender a un precio, el otro elige), o
    disolución. Lección: prever el *deadlock* es esencial en sociedades paritarias.
 4. **Impugnación de acuerdos.** Una asamblea extraordinaria aprueba una fusión sin alcanzar el quórum
-   del 75% o sin convocatoria debida. Un accionista impugna la **nulidad** del acuerdo (art. 188).
+   del 75% o sin convocatoria debida. Un accionista impugna la **nulidad** del acuerdo (art. 188 ⟳).
    Lección: los **vicios formales** (convocatoria, quórum, orden del día) pueden tumbar decisiones
    estructurales —y, en M&A, una fusión—.
 
 ## 18. Casos reales (jurisprudencia y operaciones estilizadas)
 
 - **Impugnación de acuerdos de asamblea:** criterios sobre la nulidad por vicios de convocatoria,
-  quórum o materia, y sobre la legitimación y plazos para impugnar (arts. 188-191).
+  quórum o materia, y sobre la legitimación y plazos para impugnar (arts. 188-191 ⟳).
 - **Responsabilidad de administradores:** criterios sobre la acción social de responsabilidad
-  (art. 161-163) por actos contrarios al interés social o a la ley.
+  (art. 161-163 ⟳) por actos contrarios al interés social o a la ley.
 - **Derechos de minoría:** aplicación de los porcentajes para convocar asamblea, designar consejero
   y ejercer la acción de responsabilidad; en sociedades **bursátiles**, los porcentajes se **reducen**
   (LMV) para proteger más al inversionista.
@@ -630,11 +633,11 @@ lo que estudiamos aquí es lo que se negocia y se transfiere ese día.
 
 ## 23. Derecho mexicano
 
-- **LGSM (1934, reformada):** tipos (art. 1), constitución y estatutos (arts. 5-6, 89), capital y
-  acciones (arts. 87, 111-141), asambleas (arts. 178-206), administración (arts. 142-163), vigilancia
-  (arts. 164-171), derechos de minoría (arts. 144, 163, 199, 201), reserva legal (art. 20), fusión
+- **LGSM (1934, reformada):** tipos (art. 1 ⟳), constitución y estatutos (arts. 5-6, 89 ⟳), capital y
+  acciones (arts. 87, 111-141 ⟳), asambleas (arts. 178-206 ⟳), administración (arts. 142-163 ⟳), vigilancia
+  (arts. 164-171 ⟳), derechos de minoría (arts. 144, 163, 199, 201 ⟳), reserva legal (art. 20 ⟳), fusión
   (222-226), escisión (228 bis), disolución y liquidación (229-249), capital variable (213-221).
-- **Ley del Mercado de Valores (LMV):** **S.A.P.I.** (arts. 12-37) y **S.A.B.** (sociedad anónima
+- **Ley del Mercado de Valores (LMV):** **S.A.P.I.** (arts. 12-37 ⟳) y **S.A.B.** (sociedad anónima
   bursátil), con gobierno corporativo reforzado (consejo, comités de auditoría y de prácticas
   societarias, consejeros independientes, deberes de diligencia y lealtad).
 - **Código de Comercio:** Registro Público de Comercio; supletoriedad.
@@ -645,12 +648,12 @@ lo que estudiamos aquí es lo que se negocia y se transfiere ese día.
 ## 24. Jurisprudencia relevante
 
 > Verificar vigencia antes de citar.
-- **Nulidad de acuerdos de asamblea:** por vicios de convocatoria, quórum o materia (arts. 188-191).
+- **Nulidad de acuerdos de asamblea:** por vicios de convocatoria, quórum o materia (arts. 188-191 ⟳).
 - **Acción de responsabilidad contra administradores:** procedencia y legitimación (mayoría y
-  minoría del 25%, arts. 161-163).
+  minoría del 25%, arts. 161-163 ⟳).
 - **Derechos de minoría:** alcance de las facultades para convocar, designar consejero y aplazar.
 - **Libro de registro de acciones:** valor probatorio de la inscripción para acreditar la calidad de
-  accionista frente a la sociedad (art. 128-129).
+  accionista frente a la sociedad (art. 128-129 ⟳).
 - **Capital variable:** efectos de los aumentos y reducciones en la parte variable sin reforma
   estatutaria.
 
@@ -764,7 +767,7 @@ lo que estudiamos aquí es lo que se negocia y se transfiere ese día.
 
 **P1.** *¿Qué caracteriza a la sociedad anónima?* **R.** Sociedad de **capitales** bajo
 denominación, con capital dividido en **acciones** y socios cuya **responsabilidad se limita** al
-pago de sus acciones (art. 87 LGSM); acciones, en principio, libremente transmisibles.
+pago de sus acciones (art. 87 LGSM ⟳); acciones, en principio, libremente transmisibles.
 
 **P2.** *Distinga asamblea ordinaria y extraordinaria.* **R.** La **ordinaria** trata asuntos del
 giro (estados financieros, dividendos, nombrar consejo); quórum/mayoría simples. La
@@ -772,11 +775,11 @@ giro (estados financieros, dividendos, nombrar consejo); quórum/mayoría simple
 fusión, escisión, disolución); quórum del **75%** y votación del **50%** (mínimos legales).
 
 **P3.** *¿Qué es el derecho de preferencia y para qué sirve?* **R.** El derecho del accionista a
-suscribir, en proporción, las acciones de un **aumento de capital** (art. 132), para **no
+suscribir, en proporción, las acciones de un **aumento de capital** (art. 132 ⟳), para **no
 diluirse**. Es la protección anti-dilución básica.
 
 **P4.** *Mencione tres derechos de minoría.* **R.** Convocar asamblea (33%), designar un consejero
-(25%, art. 144) y ejercer la acción de responsabilidad contra administradores (25%, art. 163); en
+(25%, art. 144 ⟳) y ejercer la acción de responsabilidad contra administradores (25%, art. 163 ⟳); en
 bursátiles, los porcentajes se reducen.
 
 **P5.** *¿Por qué la S.A.P.I. es el vehículo predilecto de VC/PE?* **R.** Porque flexibiliza la S.A.:
@@ -806,17 +809,17 @@ parasocial, equilibra el control de los fundadores con las protecciones del fond
 
 ## 35. Flashcards
 
-- **¿S.A. (art. 87)?** → Sociedad de capitales, capital en acciones, responsabilidad limitada.
+- **¿S.A. (art. 87 ⟳)?** → Sociedad de capitales, capital en acciones, responsabilidad limitada.
 - **¿Capital vs. patrimonio?** → Cifra estatutaria vs. activos/pasivos reales.
 - **¿Suscribir vs. exhibir?** → Comprometerse vs. pagar la aportación.
 - **¿Cómo se transmiten las acciones?** → Endoso + inscripción en el **libro de registro**.
 - **¿Quórum extraordinaria?** → 75% instalación / 50% votación (mínimos legales).
 - **¿Triple noción de acción?** → Parte del capital + conjunto de derechos + título negociable.
-- **¿Derecho de preferencia?** → Suscribir nuevas acciones en proporción (anti-dilución, art. 132).
+- **¿Derecho de preferencia?** → Suscribir nuevas acciones en proporción (anti-dilución, art. 132 ⟳).
 - **¿Tres órganos?** → Asamblea, administración (consejo), vigilancia (comisario).
 - **¿Derechos de minoría?** → Convocar (33%), designar consejero (25%), acción de responsabilidad
   (25%).
-- **¿Reserva legal?** → 5% de utilidades hasta el 20% del capital (art. 20).
+- **¿Reserva legal?** → 5% de utilidades hasta el 20% del capital (art. 20 ⟳).
 - **¿S.A.P.I.?** → S.A. flexible (LMV) para VC/PE: restricciones, series, tag/drag, vetos.
 - **¿Fusión vs. escisión?** → Unir sociedades vs. dividir el patrimonio.
 
@@ -1017,7 +1020,7 @@ el que estructura operaciones sólidas y protege a su cliente.
    aprobada con el quórum de la ordinaria (en vez de la extraordinaria 75%/50%) es **nula** y puede
    echar abajo todo un M&A. *Prevención:* verificar quórums y convocatoria.
 4. **Diluir a un inversionista ignorando su derecho de preferencia o anti-dilución.** Genera
-   impugnaciones y responsabilidad. *Prevención:* respetar el art. 132 y las cláusulas pactadas.
+   impugnaciones y responsabilidad. *Prevención:* respetar el art. 132 ⟳ y las cláusulas pactadas.
 5. **No prever el *deadlock* en una sociedad 50/50.** La parálisis destruye valor; *prevención:*
    cláusulas de desempate, *buy-sell* o salida.
 

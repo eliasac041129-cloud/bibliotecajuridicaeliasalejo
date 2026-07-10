@@ -1,5 +1,8 @@
 # [Nivel IV · Libro 2] Due Diligence (Debida Diligencia)
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Si el Libro 1 fue el **plano maestro** del M&A, este es el **arte de mirar antes de comprar**. La
 > *due diligence* es la investigación sistemática mediante la cual el comprador descubre **qué está
 > comprando realmente**: qué vale, qué riesgos esconde, qué contratos pueden caerse, qué pasivos
@@ -923,7 +926,7 @@ de forma autónoma:
 - **Ley Federal de Competencia Económica (LFCE).** Régimen de **concentraciones**: notificación a la
   **COFECE** según umbrales, prohibición de consumar antes de la autorización (*gun jumping*), y reglas
   sobre el intercambio de información sensible entre competidores durante la DD (*clean teams*).
-- **Régimen fiscal (CFF) y el riesgo EFOS/EDOS.** El **artículo 69-B del Código Fiscal** y el régimen de
+- **Régimen fiscal (CFF) y el riesgo EFOS/EDOS.** El **artículo 69-B ⟳ del Código Fiscal** y el régimen de
   operaciones simuladas hacen de la DD fiscal un área de altísima sensibilidad: comprar una empresa que
   facturó o dedujo operaciones simuladas puede heredar contingencias graves.
 - **Materia laboral (LFT) y subcontratación.** La reforma que **prohibió la subcontratación de personal**
@@ -969,7 +972,7 @@ obligado**, porque modela cómo se redactan e interpretan las cláusulas en todo
 - **COFECE:** sus **guías y resoluciones** sobre concentraciones definen umbrales de notificación,
   plazos, el tratamiento del **gun jumping** y el manejo de información sensible entre competidores
   durante la DD (relevante para diseñar *clean teams*).
-- **SAT:** sus criterios y el régimen del **art. 69-B CFF** (operaciones simuladas) marcan el riesgo
+- **SAT:** sus criterios y el régimen del **art. 69-B CFF ⟳** (operaciones simuladas) marcan el riesgo
   central de la DD fiscal en México.
 - **CNBV (para emisoras):** en operaciones sobre empresas públicas, el régimen de la LMV (revelación,
   OPAs, información privilegiada) condiciona qué y cómo se revela en la DD.
@@ -1341,7 +1344,7 @@ valorarlo y asignarlo**.
   Cómo la DD se conecta con el derecho del consejo y con la salida del deal.
 - **Ley Federal de Competencia Económica y guías de la COFECE.** Concentraciones, *gun jumping* y manejo
   de información sensible (clean teams) durante la DD.
-- **Código Fiscal de la Federación, art. 69-B (operaciones simuladas).** El núcleo del riesgo de la DD
+- **Código Fiscal de la Federación, art. 69-B ⟳ (operaciones simuladas).** El núcleo del riesgo de la DD
   fiscal en México.
 - **Doctrina civil sobre buena fe, dolo y saneamiento (CCF).** La red de seguridad que el derecho
   mexicano añade a las protecciones contractuales.

@@ -1,5 +1,8 @@
 # [Ramas Esenciales · Libro 4] Derecho Procesal Civil y Mercantil
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Todo lo que aprendiste a **construir** —obligaciones, contratos, títulos de crédito, garantías,
 > sociedades— vale, en el mundo real, exactamente lo que puedas **hacer valer ante un juez** cuando el
 > otro incumple. El **derecho procesal** es ese "cómo": las reglas del juicio, las pruebas, la sentencia
@@ -158,7 +161,7 @@ el código.
 
 El proceso es la promesa de que los conflictos se resuelven **civilizadamente**, con reglas y ante un
 tercero imparcial, y no por la fuerza. El **acceso a la justicia** (que sea barata, rápida y comprensible)
-es un derecho humano (art. 17 CPEUM ⚠️: justicia pronta, completa e imparcial, y gratuita). La lentitud y
+es un derecho humano (art. 17 CPEUM ⚠️ ⟳: justicia pronta, completa e imparcial, y gratuita). La lentitud y
 el costo excluyen a los más débiles, de ahí el impulso a la **oralidad**, a los **medios alternativos**
 (mediación, conciliación) y a la justicia digital. Para la empresa, la dimensión social se traduce en
 **reputación**: litigar de forma abusiva o dilatoria daña la marca; resolver bien los conflictos la
@@ -197,7 +200,7 @@ Y en el diseño de cualquier contrato, la empresa decide **de antemano** cómo r
   en ciertos supuestos, instrumentos públicos.
 - **Cosa juzgada:** la calidad de **inmutable** que adquiere la sentencia firme (ya no admite recurso ni
   puede volver a discutirse).
-- **Justicia pronta y completa (art. 17 CPEUM ⚠️):** derecho a que los tribunales resuelvan en plazos y
+- **Justicia pronta y completa (art. 17 CPEUM ⚠️ ⟳):** derecho a que los tribunales resuelvan en plazos y
   términos que fijen las leyes.
 
 ## 12. Definición sencilla
@@ -324,7 +327,7 @@ obligación: documenta, firma, obtiene pagarés y garantías.
 1. **Cobro de un pagaré.** El deudor no paga un pagaré vencido → **juicio ejecutivo mercantil**: embargo
    desde el auto inicial; el deudor solo opone excepciones tasadas (pago, prescripción, falsedad ⚠️).
 2. **Emplazamiento viciado.** Al demandado nunca se le notificó bien → nulidad de actuaciones o **amparo**
-   por violación al debido proceso (art. 14 ⚠️).
+   por violación al debido proceso (art. 14 ⚠️ ⟳).
 3. **Sentencia firme incumplida.** Ganaste y el deudor no paga → **vía de apremio**: embargo, avalúo,
    remate.
 
@@ -346,7 +349,7 @@ meses. Lección procesal-preventiva: la cláusula de **jurisdicción/arbitraje**
 ## 18. Casos reales (estilizados y jurisprudenciales)
 
 - **Doctrina del debido emplazamiento (SCJN ⚠️):** el emplazamiento es una formalidad esencial del
-  procedimiento; su ausencia o vicio viola el art. 14 y anula lo actuado. Es de los amparos más
+  procedimiento; su ausencia o vicio viola el art. 14 ⟳ y anula lo actuado. Es de los amparos más
   frecuentes en la práctica.
 - **Excepciones en el juicio ejecutivo mercantil:** criterios sobre su carácter **tasado** y sobre la
   autonomía del título ejecutivo (conecta con la abstracción de los títulos de crédito).
@@ -399,7 +402,7 @@ profundiza en el [Libro 08 (DIP y Arbitraje)](./08-Derecho-Internacional-Privado
 
 ## 23. Derecho mexicano (régimen positivo)
 
-- **Constitucional:** art. 14 (debido proceso, formalidades esenciales), art. 16 (legalidad), art. 17
+- **Constitucional:** art. 14 ⟳ (debido proceso, formalidades esenciales), art. 16 ⟳ (legalidad), art. 17 ⟳
   (acceso a la justicia, prohibición de autotutela, MASC) ⚠️.
 - **Mercantil:** **Código de Comercio** (juicio ejecutivo mercantil, oral mercantil, vía ordinaria) y
   leyes especiales; **RUG** para garantías mobiliarias.
@@ -426,7 +429,7 @@ Líneas para estudiar y **verificar en el SJF**:
 
 La SCJN ha fijado estándares sobre el **debido proceso** (formalidades esenciales del procedimiento:
 emplazamiento, oportunidad de probar y alegar, resolución), sobre la **tutela judicial efectiva** (art.
-17) y sobre la relación entre **oralidad** y garantías. En materia mercantil, ha resuelto sobre la
+17 ⟳) y sobre la relación entre **oralidad** y garantías. En materia mercantil, ha resuelto sobre la
 naturaleza del juicio ejecutivo y de sus excepciones. La implementación del **CNPCF** y la reforma
 judicial generarán nueva doctrina — a **verificar**. ⚠️
 

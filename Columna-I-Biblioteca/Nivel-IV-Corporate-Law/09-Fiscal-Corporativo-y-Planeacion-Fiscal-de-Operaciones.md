@@ -1,5 +1,8 @@
 # [Nivel IV · Libro 9] Fiscal Corporativo y Planeación Fiscal de Operaciones
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Ninguna operación corporativa se decide solo por su lógica jurídica o de negocio: se decide,
 > casi siempre, por **cuánto impuesto deja**. El mismo *deal* —comprar una empresa— puede costar
 > millones de más o de menos según **cómo se estructure fiscalmente**. Este libro enseña a pensar
@@ -16,10 +19,10 @@
 > **✅ Registro de verificación (2026-07 · cotejo verbatim).** Los fundamentos fiscales que usa este
 > libro fueron cotejados **palabra por palabra** contra los textos oficiales vigentes archivados en
 > [`fuentes-legales/`](../../fuentes-legales/): **CFF** (última reforma DOF 09-04-2026) y **LISR** (última
-> reforma DOF 01-04-2024). **Verificado ✅:** ISR de personas morales **30%** (art. 9 LISR); **razón de
-> negocios / norma antiabuso** (art. 5º-A CFF); **operaciones inexistentes EFOS** (art. 69-B CFF);
-> **pérdidas fiscales = diez ejercicios siguientes** (art. 57 LISR); **facultades de comprobación**
-> (art. 42 CFF); **caducidad 5 años** (art. 67 CFF); **prescripción 5 años** (art. 146 CFF). Detalle en
+> reforma DOF 01-04-2024). **Verificado ✅:** ISR de personas morales **30%** (art. 9 LISR ⟳); **razón de
+> negocios / norma antiabuso** (art. 5º-A CFF ⟳); **operaciones inexistentes EFOS** (art. 69-B CFF ⟳);
+> **pérdidas fiscales = diez ejercicios siguientes** (art. 57 LISR ⟳); **facultades de comprobación**
+> (art. 42 CFF ⟳); **caducidad 5 años** (art. 67 CFF ⟳); **prescripción 5 años** (art. 146 CFF ⟳). Detalle en
 > [Derecho Fiscal](../Ramas-Esenciales/01-Derecho-Fiscal.md) y en el [Protocolo](../../PROTOCOLO_DE_VERIFICACION.md).
 > **⚠️** Tasas, tarifas, montos (UMA) y estímulos cambian cada ejercicio: reverifícalos con la ley del año.
 

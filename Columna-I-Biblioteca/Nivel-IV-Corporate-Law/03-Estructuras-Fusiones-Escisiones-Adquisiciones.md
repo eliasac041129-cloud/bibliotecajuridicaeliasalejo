@@ -1,5 +1,8 @@
 # [Nivel IV · Libro 3] Estructuras de la Operación: Fusiones, Escisiones y Adquisiciones
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > El Libro 1 te dio el **mapa** del M&A y el Libro 2, el arte de **mirar antes de comprar**. Este libro
 > responde la pregunta técnica de la que depende toda la ejecución: **¿con qué arquitectura jurídica se
 > hace la operación?** Comprar acciones (*share deal*), comprar activos (*asset deal*), **fusionar** dos
@@ -289,14 +292,14 @@ El marco normativo mexicano de las estructuras se asienta, principalmente, en la
 escisión) y en el **derecho común de los contratos** (para las compraventas de acciones y de activos),
 complementado por la legislación fiscal:
 
-- **Fusión — LGSM, artículos 222 a 226.** La ley regula: el **acuerdo de fusión** por cada sociedad
+- **Fusión — LGSM, artículos 222 ⟳ a 226.** La ley regula: el **acuerdo de fusión** por cada sociedad
   (asamblea extraordinaria), su **inscripción** en el Registro Público de Comercio y **publicación**; la
   regla de que la fusión surte efectos **tres meses** después de la inscripción, salvo que se pague a los
   acreedores, se obtenga su consentimiento o se deposite el importe de las deudas (mecanismo de
   **protección de acreedores**); el **derecho de oposición** judicial de los acreedores durante ese plazo;
   y la **transmisión** del patrimonio a la sociedad fusionante. La fusión puede surtir efectos de inmediato
   si se cumplen las condiciones de pago/garantía a acreedores.
-- **Escisión — LGSM, artículo 228 Bis** (incorporado en 1992). Regula con detalle: el **acuerdo de
+- **Escisión — LGSM, artículo 228 Bis ⟳** (incorporado en 1992). Regula con detalle: el **acuerdo de
   escisión** (asamblea extraordinaria con mayoría reforzada), su contenido obligatorio (descripción de la
   forma de repartir activos, pasivos y capital), su **publicación** y **resoluciones**, el **derecho de
   oposición** de acreedores (plazo de 45 días naturales desde la última publicación/inscripción), el
@@ -507,7 +510,7 @@ deal*: la continuidad es máxima (con la salvedad, otra vez, de las cláusulas d
 algunos contratos puedan tener). La contracara: como todo pasa en bloque, también pasan **todos los
 pasivos** (igual que en el share deal).
 
-**El proceso de la fusión paso a paso (LGSM, arts. 222-226).** Memoriza esta secuencia; es el esqueleto
+**El proceso de la fusión paso a paso (LGSM, arts. 222-226 ⟳).** Memoriza esta secuencia; es el esqueleto
 de la ejecución:
 
 1. **Negociación y proyecto/convenio de fusión.** Las sociedades negocian las bases: quién absorbe a
@@ -522,7 +525,7 @@ de la ejecución:
    extinguir el pasivo). La publicidad busca **proteger a los acreedores** (que se enteren y puedan
    reaccionar).
 4. **Plazo de espera y derecho de oposición de los acreedores (la regla de los 3 meses).** Por regla
-   general (art. 224-225), la fusión surte efectos **tres meses** después de la inscripción. Durante ese
+   general (art. 224-225 ⟳), la fusión surte efectos **tres meses** después de la inscripción. Durante ese
    plazo, **cualquier acreedor** puede **oponerse judicialmente** a la fusión si considera que perjudica su
    garantía; la oposición **suspende** la fusión hasta que cause ejecutoria la sentencia que la declare
    infundada, o hasta que la sociedad pague o garantice el crédito.
@@ -578,14 +581,14 @@ beneficiaria, sin necesidad de cederlos individualmente. Esto distingue la escis
 la escisión, segregar un negocio **no** exige transferir activo por activo ni (en principio) pedir
 consentimiento contrato por contrato —lo que la hace una herramienta poderosísima para los *carve-outs*—.
 
-**El proceso de la escisión paso a paso (LGSM, art. 228 Bis).** Memoriza la secuencia:
+**El proceso de la escisión paso a paso (LGSM, art. 228 Bis ⟳).** Memoriza la secuencia:
 
 1. **Proyecto de escisión.** Se diseña **cómo se divide** el patrimonio: qué activos, pasivos y capital
    van a cada beneficiaria, la forma del reparto, los estados financieros base, y las acciones que
    recibirán los socios en las beneficiarias. Este diseño es el corazón técnico de la escisión.
 2. **Acuerdo en asamblea extraordinaria con mayoría reforzada.** La escisión debe aprobarse en asamblea
    general **extraordinaria**, con la **mayoría exigida para modificar el contrato social** (mayoría
-   reforzada). La resolución debe contener los elementos que exige el art. 228 Bis (la descripción de la
+   reforzada). La resolución debe contener los elementos que exige el art. 228 Bis ⟳ (la descripción de la
    forma en que se segregan activos, pasivos y capital; los estados financieros; la forma de reparto de
    las acciones; etc.).
 3. **Protección de los socios.** Como regla, las acciones de las beneficiarias se reparten entre los
@@ -924,7 +927,7 @@ regulación y en las protecciones. Tabla comparada para el abogado de M&A:
 
 | Jurisdicción / sistema | Tratamiento de las estructuras (fusión, escisión, adquisiciones) |
 |---|---|
-| **México (Civil Law)** | Fusión y escisión reguladas en la **LGSM** (arts. 222-226 y 228 Bis); protección de acreedores por **oposición** (3 meses fusión / 45 días escisión) y **responsabilidad solidaria** (escisión); **derecho de separación** del socio disidente; neutralidad fiscal condicionada (LISR/CFF). Share/asset deal por derecho común + LGSM. |
+| **México (Civil Law)** | Fusión y escisión reguladas en la **LGSM** (arts. 222-226 y 228 ⟳ Bis); protección de acreedores por **oposición** (3 meses fusión / 45 días escisión) y **responsabilidad solidaria** (escisión); **derecho de separación** del socio disidente; neutralidad fiscal condicionada (LISR/CFF). Share/asset deal por derecho común + LGSM. |
 | **EE.UU. (Common Law)** | Régimen **estatal** (cada estado su ley societaria). La **fusión** es muy flexible (incluye la *triangular merger* —fusión a través de una subsidiaria— y la *reverse triangular merger*, muy usadas en M&A). Fuerte desarrollo de los ***appraisal rights*** (derecho de separación) y de los deberes fiduciarios. |
 | **Delaware** | El estándar de referencia: **DGCL** muy sofisticada en fusiones (incluida la *short-form merger* de matriz-subsidiaria y, hoy, la fusión sin nuevo voto tras una OPA exitosa). *Case law* riquísimo sobre **appraisal** y deberes del consejo. La "lengua franca" de las estructuras de M&A. |
 | **España (Civil Law)** | **Ley de Modificaciones Estructurales** regula con detalle fusión, escisión, cesión global de activo/pasivo y traslado de domicilio; fuerte protección de acreedores y socios; armonización con directivas de la UE. |
@@ -944,11 +947,11 @@ internacionales y en la estructura de adquisiciones de empresas con presencia en
 El régimen mexicano de las estructuras se concentra en la **LGSM** y se complementa con la legislación
 fiscal, laboral y de competencia:
 
-- **Fusión (LGSM, arts. 222-226):** acuerdo en asamblea extraordinaria de **cada** sociedad; inscripción
+- **Fusión (LGSM, arts. 222-226 ⟳):** acuerdo en asamblea extraordinaria de **cada** sociedad; inscripción
   en el RPC y publicación; **efectos a los 3 meses** salvo pago/garantía/consentimiento de acreedores;
   **derecho de oposición** judicial de los acreedores (suspende la fusión); transmisión universal del
   patrimonio a la fusionante o nueva sociedad; extinción de las fusionadas sin liquidación.
-- **Escisión (LGSM, art. 228 Bis):** acuerdo en asamblea extraordinaria con **mayoría reforzada**;
+- **Escisión (LGSM, art. 228 Bis ⟳):** acuerdo en asamblea extraordinaria con **mayoría reforzada**;
   contenido obligatorio de la resolución (reparto de activos, pasivos y capital; estados financieros);
   publicación e inscripción; **derecho de oposición** de acreedores (**45 días naturales**);
   **responsabilidad solidaria** de las beneficiarias (y escindente en la parcial) frente a acreedores
@@ -1350,7 +1353,7 @@ estructuras; en el Libro 4 aprenderás a **documentarlas**.
   ¿Permisos transferibles o nuevos? ¿Pasivos que siguen al negocio (laboral/fiscal/ambiental)?
 - [ ] **Fusión:** ¿acuerdo en asamblea extraordinaria de cada sociedad? ¿Inscripción y publicación?
   ¿Plazo de **3 meses** o pago/garantía a acreedores? ¿Relación de canje? ¿Derecho de separación?
-- [ ] **Escisión:** ¿asamblea con mayoría reforzada? ¿Contenido del art. 228 Bis (reparto de activos/
+- [ ] **Escisión:** ¿asamblea con mayoría reforzada? ¿Contenido del art. 228 Bis ⟳ (reparto de activos/
   pasivos/capital)? ¿Publicación? ¿Plazo de **oposición 45 días**? ¿Responsabilidad solidaria? ¿Reparto
   de acciones y derecho de separación?
 
@@ -1362,7 +1365,7 @@ estructuras; en el Libro 4 aprenderás a **documentarlas**.
 
 ## 42. Bibliografía comentada
 
-- **Ley General de Sociedades Mercantiles (arts. 222-226 y 228 Bis).** **Lectura imprescindible:** el
+- **Ley General de Sociedades Mercantiles (arts. 222-226 y 228 ⟳ Bis).** **Lectura imprescindible:** el
   derecho positivo de la fusión y la escisión en México (proceso, oposición, solidaridad). Estúdialo con
   el texto vigente en la mano.
 - **Ley del Impuesto sobre la Renta y Código Fiscal de la Federación (reorganizaciones y norma

@@ -1,5 +1,8 @@
 # [Ramas Esenciales · Libro 13] Derecho Familiar y Sucesiones
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > Detrás de la mayoría de las empresas del mundo —y de casi todas en México— hay una **familia**. Y donde
 > hay familia hay **régimen patrimonial del matrimonio**, **sucesiones** y **conflictos** que deciden quién
 > controla la empresa cuando el fundador se divorcia, se incapacita o muere. El **derecho familiar y
@@ -116,7 +119,7 @@ igualitario). ⚠️ *Verificar fechas y referencias históricas.*
 En **México**, el derecho familiar vive una doble tendencia (⚠️ verificar por entidad):
 1. **Autonomía y codificación familiar:** varias entidades sacaron la materia del Código Civil y crearon
    **Códigos Familiares** propios, con soluciones distintas.
-2. **Constitucionalización y derechos humanos:** el **interés superior del menor** (art. 4 CPEUM ⚠️), la
+2. **Constitucionalización y derechos humanos:** el **interés superior del menor** (art. 4 CPEUM ⚠️ ⟳), la
    **igualdad**, la protección de la familia en todas sus formas, y criterios de la **SCJN** que
    reconfiguraron la materia (divorcio incausado, matrimonio igualitario, compensación económica).
 3. **Divorcio incausado:** la SCJN validó que baste la **voluntad** de uno de los cónyuges para divorciarse
@@ -254,7 +257,7 @@ La **filiación** (vínculo padres-hijos) genera **patria potestad** (deberes y 
 incluida la administración de sus bienes) y **alimentos**. La obligación **alimentaria** es **recíproca**
 (entre cónyuges, padres e hijos, y otros parientes), **proporcional** (a la posibilidad de quien da y la
 necesidad de quien recibe) e **irrenunciable**. Todo se rige por el **interés superior del menor** (art. 4
-CPEUM ⚠️). *Relevancia patrimonial:* los **alimentos** son un pasivo/obligación que la planeación debe
+CPEUM ⚠️ ⟳). *Relevancia patrimonial:* los **alimentos** son un pasivo/obligación que la planeación debe
 prever, y la **administración de bienes de menores** (p. ej. acciones heredadas por un hijo menor) exige
 reglas y a veces autorización judicial.
 
@@ -408,7 +411,7 @@ servicio de altísimo valor. ⚠️
 
 ## 23. Derecho mexicano (régimen positivo)
 
-- **Constitucional:** **art. 4** (igualdad, protección de la familia, interés superior del menor) ⚠️.
+- **Constitucional:** **art. 4 ⟳** (igualdad, protección de la familia, interés superior del menor) ⚠️.
 - **Sustantivo (LOCAL):** el **Código Civil** de cada entidad (o **Código Familiar** donde existe) regula
   matrimonio, regímenes, filiación, alimentos, divorcio y **sucesiones**. **Varía por estado.** ⚠️
 - **Adjetivo:** el **CNPCF** (✅ 2023, entrada escalonada — Libro 04) rige el **procedimiento familiar y

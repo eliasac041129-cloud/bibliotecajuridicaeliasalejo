@@ -1,5 +1,8 @@
 # [Nivel I · Libro 11] Tratado de Argumentación Jurídica
 
+> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+
+
 > El derecho no se "aplica" como una fórmula: se **argumenta**. Toda demanda, sentencia,
 > dictamen, opinión jurídica y negociación es un ejercicio de **persuasión razonada**. El
 > abogado que no sabe construir, justificar y refutar argumentos no convence a un juez, no gana
@@ -149,7 +152,7 @@ Tras el dominio del formalismo, a mediados del siglo XX hubo un **giro argumenta
 - **Carga de la argumentación:** quién debe argumentar/probar (vinculada a la carga de la
   prueba).
 - **Motivación:** la exposición de las razones que justifican una decisión (deber
-  constitucional, art. 16).
+  constitucional, art. 16 ⟳).
 
 ## 5. Explicación completa
 
@@ -163,7 +166,7 @@ distinguen.
 
 ### 5.2 La estructura del argumento: del silogismo a Toulmin
 El modelo básico es el **silogismo jurídico**:
-- *Premisa mayor (norma):* "Quien causa un daño por su culpa debe repararlo" (art. 1910 CCF).
+- *Premisa mayor (norma):* "Quien causa un daño por su culpa debe repararlo" (art. 1910 CCF ⟳).
 - *Premisa menor (hechos):* "Pedro causó un daño a Juan por su negligencia."
 - *Conclusión:* "Pedro debe reparar el daño a Juan."
 
@@ -290,10 +293,10 @@ es **funcional**: cada palabra sirve a la persuasión.
 
 ## 9. Relación con México
 
-- **Deber de fundamentación y motivación (art. 16 constitucional):** toda autoridad debe
+- **Deber de fundamentación y motivación (art. 16 ⟳ constitucional):** toda autoridad debe
   **fundar** (citar la norma) y **motivar** (explicar por qué aplica) sus actos. La motivación es
   argumentación obligatoria y su ausencia o deficiencia es causa de nulidad/amparo.
-- **Interpretación conforme y pro persona (art. 1º):** imponen argumentar conforme a la
+- **Interpretación conforme y pro persona (art. 1º ⟳):** imponen argumentar conforme a la
   Constitución y los derechos humanos, eligiendo la interpretación más favorable a la persona.
 - **Proporcionalidad en la SCJN:** la Suprema Corte usa habitualmente el **test de
   proporcionalidad** y la **ponderación** en materia de derechos fundamentales.
@@ -493,7 +496,7 @@ vendedor responde que (i) el litigio fue **revelado** en la *disclosure schedule
 "material" según la definición pactada; (iii) el daño no es consecuencia directa (Libro 7).
 Construye el argumento de **cada parte** usando: interpretación de la *rep* y de "material"
 (literal, sistemática con definiciones, contra proferentem), el efecto de la *disclosure* (¿
-excluye el dolo/error?), la causalidad del daño (art. 2110) y la carga de la prueba. Anticipa y
+excluye el dolo/error?), la causalidad del daño (art. 2110 ⟳) y la carga de la prueba. Anticipa y
 refuta el mejor contraargumento de cada lado. Determina qué posición es **más fuerte** y por qué.
 
 ---
@@ -514,7 +517,7 @@ refuta el mejor contraargumento de cada lado. Determina qué posición es **más
   estricto.
 - **¿Falacia ad hominem?** → Atacar a la persona, no al argumento.
 - **¿Hombre de paja?** → Refutar una versión deformada del argumento contrario.
-- **¿Deber del art. 16?** → Fundamentación (norma) y motivación (razones) de los actos de
+- **¿Deber del art. 16 ⟳?** → Fundamentación (norma) y motivación (razones) de los actos de
   autoridad.
 
 ## 24. Mapas mentales
@@ -610,7 +613,7 @@ acumula argumentos **convergentes**, **anticipa y refuta** el contrario, detecta
 Para el abogado corporativo, esta es la habilidad transversal por excelencia: sustenta las
 **legal opinions**, los **memorandos de due diligence**, la **negociación** del SPA cláusula por
 cláusula y los **claims** post-closing, además del deber constitucional de **fundar y motivar**
-(art. 16) y los estándares de **interpretación conforme** y **pro persona** (art. 1º). Quien
+(art. 16 ⟳) y los estándares de **interpretación conforme** y **pro persona** (art. 1º ⟳). Quien
 argumenta mejor —con estructura, convergencia de razones, anticipación del contrario y
 claridad— gana negociaciones, convence a consejos y prevalece en disputas. La argumentación es,
 literalmente, el oficio del jurista en acción.
@@ -634,7 +637,7 @@ literalmente, el oficio del jurista en acción.
 - Manuales de escritura jurídica y de redacción de opiniones (legal writing).
 
 **Legislación:**
-- Constitución, arts. 1º (interpretación conforme, pro persona) y 16 (fundamentación y
+- Constitución, arts. 1º ⟳ (interpretación conforme, pro persona) y 16 (fundamentación y
   motivación).
 
 ## 30. Ruta para continuar
