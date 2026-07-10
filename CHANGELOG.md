@@ -6,6 +6,35 @@
 
 ---
 
+## [4.3] — 2026-07 · «Consejo Editorial: elevación de los 52 capítulos» — *rama `v4.3-elevacion-editorial`, PR*
+
+> **Qué es la v4.3.** La ejecución del [prompt del Consejo Editorial](./Consejo-Editorial/PROMPT-Revision-Editorial.md):
+> se elevó **cada uno de los 52 capítulos** al estándar de obra de referencia internacional, sin tocar
+> el contenido bueno preexistente (se **añadió**, no se recortó).
+
+### Añadido — «⚖️ Suplemento del Consejo Editorial» en los 52 capítulos
+Cada capítulo (Partes I a VI) recibió un suplemento con siete secciones:
+- **Cómo piensa un socio internacional** · **Doctrina y debate** (autores clásicos y contemporáneos) ·
+  **Derecho comparado** · **Caso real** · **Errores que cuestan millones** · **Preguntas**
+  (criterio / entrevista / examen) · **Bibliografía por niveles**.
+
+### Profundidad incorporada
+- **Doctrina:** Savigny, Ihering, Kelsen, Hart, Dworkin, Alexy, Coase, Calabresi, Posner, Berle & Means,
+  Jensen & Meckling, Easterbrook & Fischel, Gilson, Bebchuk, Jackson, Ferrajoli, Coffee, Warren & Brandeis, entre otros.
+- **Casos reales:** Disney–Fox, Microsoft–Activision, Bayer–Monsanto, Grupo Modelo–AB InBev, Twitter/X–Musk,
+  WeWork, FTX, Enron, Wirecard, SVB, Credit Suisse, Odebrecht, Apple–Irlanda, Cambridge Analytica, BP Deepwater, Vitro/Aeroméxico.
+- **Comparado y finanzas:** Delaware, *Magic Circle*, UCC, Chapter 11, GDPR, CERCLA, FCPA, BEPS; DCF/WACC, IRR/MOIC, LBO, *cap table*, *covenants*.
+- **Debates:** *survival* de las *reps & warranties*, ¿el PE crea o extrae valor?, Chicago vs. neo-brandeisianos, ¿el *compliance* genera valor?, prisión preventiva oficiosa.
+
+### Disciplina de verificación
+- Toda cifra o caso con dato incierto se marcó **⚠️** *(verificar)*; los artículos conservan **⟳**; la
+  jurisprudencia remite al **SJF** (sin inventar registros).
+
+### Calidad
+- Libro regenerado (58 capítulos, ~6.1 MB). **0 enlaces `.md` rotos**, **0 markdown roto**, sin asteriscos crudos.
+
+---
+
 ## [4.0] — 2026-07 · «Referencia Verificada — cierre definitivo» — *rama `v4.0-cierre-definitivo`, PR*
 
 > **Qué es la v4.0.** El sello definitivo. Con las **27 leyes** ya verificadas (v3.x), esta versión
