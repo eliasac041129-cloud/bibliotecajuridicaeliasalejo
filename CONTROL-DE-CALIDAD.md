@@ -46,10 +46,14 @@ La pasada detectó **tres formatos** conviviendo. Se **homologan por norma** (ve
   42, 69-B CFF · Ley de Amparo 2013 · reforma judicial 15-sep-2024 · CNPCF 7-jun-2023 · vacaciones dignas
   2022/2023 · penal 2008/2016 · CNPP 2014 · LFPPI 2020 (**+ reforma 2026**) · NY 1958/1971 · UNCITRAL
   1985/1993 · GDPR 2018 · INAI→Secretaría Anticorrupción 2025 · LGEEPA 1988 (**+ iniciativa 2026**).
-- ⚠️ **Pendiente (bloquea el sello "referencia verificada"):** el **verbatim de los números de artículo**
-  (CFF, LISR, LGSM, LGTOC, LMV, CCF, LFT, CPF, Ley de Amparo, LFPPI…). Requiere una fuente de texto legal
-  íntegro navegable. Hasta entonces, **todo número de artículo se trata como ⚠️** y se coteja en la fuente
-  vigente antes de citarlo.
+- ✅ **VERBATIM COMPLETADO en el nicho fiscal (v3.1):** con los textos oficiales del **CFF** (DOF 09-04-2026)
+  y la **LISR** (DOF 01-04-2024) ya en [`fuentes-legales/`](./fuentes-legales/), se cotejó **palabra por
+  palabra** el articulado fiscal: **CFF** arts. 1º, 2º, 4º, 5º-A, 6º, 17-A, 21, 26, 42, 67, 69-B, 146;
+  **LISR** arts. 9, 27, 28, 57, 152. En 01-Fiscal se voltearon **30 marcas ⚠️→✅**. Detalle en Protocolo §V.
+- ⚠️ **Pendiente (para "referencia verificada" plena):** el **verbatim de los artículos de las demás leyes**
+  (LGSM, LGTOC, LMV, CCF, LFT, CPF, Ley de Amparo, LFPPI…). Requiere subir su **texto íntegro** a
+  `fuentes-legales/` y repetir el cotejo (metodología ya probada con CFF/LISR). Hasta entonces, esos números
+  de artículo se tratan como ⚠️ y se cotejan en la fuente vigente antes de citarlos.
 
 ## 5. Fechado global
 

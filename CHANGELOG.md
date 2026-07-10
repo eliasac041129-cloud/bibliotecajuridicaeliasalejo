@@ -6,7 +6,32 @@
 
 ---
 
-## [3.0] — 2026-07 · «Referencia y enriquecimiento» — *en curso (rama `v3.0-referencia`, PR)*
+## [3.1] — 2026-07 · «Referencia Verificada — Fiscal» — *rama `v3.1-verificacion-fiscal`, PR*
+
+> **Qué es la v3.1.** Primer bloque del sello "**Referencia Verificada plena**" hecho realidad: con los
+> textos oficiales del **CFF** y la **LISR** ya disponibles, se cotejó **palabra por palabra** el
+> articulado del **nicho fiscal-corporativo** (el nicho objetivo del proyecto). Los números de artículo
+> del área fiscal dejan de ser "por confirmar" y pasan a **fuente primaria verificada**.
+
+### Añadido
+- **Carpeta `fuentes-legales/`** — textos oficiales vigentes en **UTF-8** (convertidos desde Latin-1) que
+  sirven de **fuente primaria** para el sello: **CFF** (última reforma DOF 09-04-2026) y **LISR** (última
+  reforma DOF 01-04-2024), con su propio `README.md` y protocolo para añadir más leyes.
+
+### Verificado (✅ verbatim — número de artículo ↔ contenido)
+- **CFF:** arts. **1º, 2º, 4º, 5º-A (razón de negocios), 6º, 17-A, 21, 26, 42, 67 (caducidad 5 años),
+  69-B (EFOS), 146 (prescripción 5 años)**.
+- **LISR:** arts. **9 (ISR PM 30%), 27, 28, 57 (pérdidas = 10 ejercicios), 152 (tarifa PF)**.
+- En **01-Derecho-Fiscal** se voltearon **30 marcas ⚠️→✅**; se añadió *Registro de verificación* verbatim
+  en **01-Fiscal** e **IV-09 Fiscal Corporativo**; se registró todo en el **Protocolo §V** y §VI.
+
+### Pendiente (para "Referencia Verificada plena")
+- Verbatim de las demás leyes (Ley de Amparo, LFT, CPF, LGTOC, LMV, CCF, LFPPI…): subir su texto íntegro
+  a `fuentes-legales/` y repetir el cotejo. La **metodología ya está probada** con CFF/LISR.
+
+---
+
+## [3.0] — 2026-07 · «Referencia y enriquecimiento» — *sellada (rama `v3.0-referencia`, PR #3 fusionado)*
 
 > **Qué es la v3.0.** Añade la **capa de enriquecimiento** que separa una biblioteca "completa" de una "de
 > referencia": glosario bilingüe, sistema de repaso ampliado y avance de verificación. **Honestidad
