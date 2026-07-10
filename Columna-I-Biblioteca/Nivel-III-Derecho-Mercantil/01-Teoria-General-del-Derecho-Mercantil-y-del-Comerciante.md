@@ -900,3 +900,38 @@ sueltos"; con él, ve **empresas y sistemas**, que es como piensa un asesor corp
 > la empresa** —la sociedad mercantil—, donde nacen la S.A., los accionistas, el consejo y todo lo
 > que hará posible, más adelante, comprar y vender empresas. Entramos al corazón del Derecho
 > Corporativo.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El derecho mercantil es el **sistema operativo del comercio**: define quién es comerciante, qué actos son de comercio y qué régimen especial (celeridad, buena fe, onerosidad) aplica. El socio piensa en **calificación**: si el acto es mercantil, cambian la prescripción, los intereses, la jurisdicción y hasta la carga de la prueba. La primera pregunta ante cualquier operación es *"¿esto es civil o mercantil?"*, porque de ahí cuelga todo el régimen.
+
+### Doctrina y debate
+- **Sistema objetivo (acto de comercio, art. 75 CCom ⟳) vs. subjetivo (el comerciante):** el derecho mexicano es mixto. Debate: ¿tiene sentido mantener la dualidad civil/mercantil o debe unificarse el derecho privado (como en Italia y Suiza)?
+- **Tendencia contemporánea:** hacia un **derecho de la empresa** y del mercado, más que del "comerciante" decimonónico.
+
+### Derecho comparado
+Italia (Código Civil de 1942) y Suiza **unificaron** el derecho privado, eliminando la dualidad. El *common law* nunca tuvo un "código de comercio" separado (aunque EE. UU. adoptó el **UCC** como ley uniforme estatal). México conserva la dualidad, con un Código de Comercio de 1889 parcheado por leyes especiales (LGSM, LGTOC, LMV).
+
+### Caso real
+**La informalidad y el comerciante:** millones de negocios mexicanos operan sin constituirse; determinar si un acto fue "de comercio" define si aplica la vía ejecutiva mercantil o el juicio civil. En cobranza empresarial, calificar bien el acto (art. 75 CCom ⟳) acelera o entierra la recuperación.
+
+### Errores que cuestan millones
+- Litigar en la **vía equivocada** (civil vs. mercantil) por no calificar el acto.
+- Aplicar la **prescripción** civil (más larga) cuando corría la mercantil (más corta), perdiendo la acción.
+
+### Preguntas
+- **Criterio:** ¿debe México unificar el derecho civil y el mercantil?
+- **Entrevista:** ¿cómo determina si un contrato es mercantil y por qué importa?
+- **Examen:** enuncie tres actos de comercio del art. 75 CCom.
+
+### Bibliografía por niveles
+- **Básico:** Mantilla Molina, *Derecho mercantil*.
+- **Intermedio:** Barrera Graf, *Instituciones de derecho mercantil*.
+- **Avanzado:** Rocco, *Principios de derecho mercantil*.
+- **Internacional:** Goode, *Commercial Law*.

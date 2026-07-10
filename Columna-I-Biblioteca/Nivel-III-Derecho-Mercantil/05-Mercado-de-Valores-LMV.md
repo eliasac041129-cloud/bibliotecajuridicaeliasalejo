@@ -933,3 +933,39 @@ de las grandes corporaciones.
 > Nivel III, estudiar qué pasa cuando una empresa **cae** —el **concurso mercantil**— y consolidar el
 > **gobierno corporativo**. Después, el **Nivel IV** reunirá todo en el corazón del objetivo: las
 > **Fusiones y Adquisiciones**. Estás a un paso.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El mercado de valores es cómo una empresa **se financia con el público** (capital o deuda) a cambio de someterse a un régimen severo de **revelación (*disclosure*)** y de proteger al inversionista. El socio piensa en tres ejes: **oferta pública vs. privada** (qué desencadena la regulación), **revelación** (qué hay que decir y cuándo) y **abuso de mercado** (uso de información privilegiada, manipulación). Aquí un error de *disclosure* no es multa: es responsabilidad civil colectiva y penal.
+
+### Doctrina y debate
+- **Hipótesis del mercado eficiente (Fama):** los precios incorporan la información disponible; fundamento teórico del *mandatory disclosure*.
+- **Debate sobre la revelación obligatoria:** ¿debe el Estado imponerla (Coffee) o el mercado la produciría solo (Easterbrook & Fischel)? Es el corazón del derecho bursátil.
+- **Costos de agencia** entre accionistas dispersos y administradores (Berle & Means; Jensen & Meckling).
+
+### Derecho comparado
+EE. UU. edificó el modelo: ***Securities Act* 1933** (oferta) y ***Exchange Act* 1934** (mercado secundario, SEC), reforzados por **Sarbanes-Oxley** (2002, tras Enron) y **Dodd-Frank** (2010, tras la crisis). La UE tiene el **MAR** (*Market Abuse Regulation*). México: **LMV** y **CNBV** ⟳, con influencia directa del modelo estadounidense.
+
+### Caso real
+**Elon Musk y Twitter/X (2022):** además de la batalla del SPA (intento de desistirse y litigio en Delaware que lo forzó a cerrar en ~44,000 mdd ⚠️ *verificar*), Musk fue señalado por **revelar tarde** su participación relevante (*Schedule 13D*). Lección doble: en mercados públicos, *disclosure* tardío y "arrepentimiento" de comprador tienen consecuencias severas.
+
+### Errores que cuestan millones
+- **Uso de información privilegiada** (*insider trading*) o **revelación selectiva**.
+- Estructurar como "privada" una colocación que en realidad fue **oferta pública** (sanción y nulidad).
+
+### Preguntas
+- **Criterio:** ¿la revelación obligatoria es necesaria o el mercado la generaría solo?
+- **Entrevista:** ¿qué distingue una oferta pública de una privada y por qué importa?
+- **Examen:** explique en qué consiste el uso indebido de información privilegiada.
+
+### Bibliografía por niveles
+- **Básico:** Ignacio Gómez-Palacio, *Derecho de los mercados de valores*.
+- **Intermedio:** documentos regulatorios de la CNBV y la LMV.
+- **Avanzado:** Coffee & Sale, *Securities Regulation*.
+- **Internacional:** Easterbrook & Fischel, *The Economic Structure of Corporate Law* (disclosure).

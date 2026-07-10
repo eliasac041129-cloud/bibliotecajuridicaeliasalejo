@@ -964,3 +964,40 @@ prestigio del derecho de los negocios—.
 > Ahora cruzamos el umbral del verdadero objetivo: el **Nivel IV · Corporate Law**, donde todo lo
 > aprendido converge en las **Fusiones y Adquisiciones**. El abogado corporativo de élite está cada
 > vez más a tu alcance.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Gobierno corporativo es **cómo se distribuye y controla el poder** dentro de la empresa: consejo, dirección, accionistas y órganos de vigilancia. El socio lo diseña para resolver el **problema de agencia** (que quien decide no arriesga su dinero) y para proteger a la minoría. En un *deal*, el gobierno es lo que el inversionista negocia con más fiereza: asientos en el consejo, materias reservadas, información y salidas.
+
+### Doctrina y debate
+- **Berle & Means (1932):** la **separación entre propiedad y control** en la corporación moderna: el problema fundacional del campo.
+- **Teoría de la agencia (Jensen & Meckling):** consejo, auditoría e incentivos como mecanismos para alinear al administrador con el accionista.
+- **Bebchuk (*Pay Without Performance*):** la remuneración ejecutiva como síntoma —no solución— del problema de agencia.
+- **Shareholder vs. stakeholder:** Friedman ("la responsabilidad social de la empresa es aumentar sus utilidades") vs. Freeman (teoría de los *stakeholders*) y el actual auge del **ESG**. Debate: ¿el ESG crea valor o es *greenwashing*?
+
+### Derecho comparado
+Consejo **unitario** (*one-tier*, EE. UU./Reino Unido) vs. **dual** (*two-tier*, Alemania, con *codeterminación* de trabajadores). El **Informe Cadbury** (1992, RU) y los **Principios de la OCDE** fijaron el estándar (consejeros independientes, comités de auditoría, *say-on-pay*). México los incorporó en la **LMV** y el **Código de Principios de Gobierno Corporativo** ⟳.
+
+### Caso real
+**WeWork (2019):** el gobierno disfuncional —poder desmedido del fundador Adam Neumann, autocontratos, acciones de voto múltiple— hizo colapsar la OPI y desplomó la valuación de ~47,000 mdd ⚠️ *verificar*. **Enron, WorldCom, Wells Fargo (cuentas falsas), Theranos:** todos, fallas de gobierno antes que de negocio. Lección: el mercado castiga el mal gobierno con descuento de valuación.
+
+### Errores que cuestan millones
+- Consejos **capturados** por el fundador/accionista de control, sin independencia real.
+- Acciones de **voto múltiple** sin contrapesos (riesgo para la minoría).
+
+### Preguntas
+- **Criterio:** ¿la empresa debe servir solo al accionista (Friedman) o a todos los *stakeholders* (Freeman)? ¿El ESG genera valor?
+- **Entrevista:** ¿qué protecciones de gobierno exigiría como inversionista minoritario?
+- **Examen:** explique el problema de agencia y dos mecanismos para mitigarlo.
+
+### Bibliografía por niveles
+- **Básico:** OCDE, *Principios de Gobierno Corporativo*.
+- **Intermedio:** Informe Cadbury; Código de Principios de Gobierno Corporativo (México).
+- **Avanzado:** Berle & Means, *The Modern Corporation and Private Property*.
+- **Internacional:** Bebchuk & Fried, *Pay Without Performance*; Kraakman et al., *The Anatomy of Corporate Law*.
