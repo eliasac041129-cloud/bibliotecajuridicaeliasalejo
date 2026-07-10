@@ -93,88 +93,105 @@ toc.append(("Anexo A","Banco de Formatos",[(t,a) for t,a,_ in anexo]))
 
 # ---------- CSS estilo Porrúa ----------
 CSS = r"""
-:root{ --ink:#211c15; --paper:#fbf7ee; --gold:#8a6d23; --burgundy:#6e1420; --rule:#c9b98f; }
+:root{ --ink:#1a1610; --accent:#6b1420; --paper:#fdfbf6; --rule:#cdc7ba; --tint:#f1eee7; }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{margin:0;background:#4a4137;color:var(--ink);
+body{margin:0;background:#dedacf;color:var(--ink);
  font-family:"Iowan Old Style","Palatino Linotype","Book Antiqua",Palatino,Georgia,"Times New Roman",serif;
- font-size:12.5pt;line-height:1.62;}
-.page{background:var(--paper);width:18.5cm;min-height:26cm;margin:26px auto;padding:2.4cm 2.6cm;
- box-shadow:0 10px 40px rgba(0,0,0,.45);position:relative;}
-p{ text-align:justify; hyphens:auto; margin:0 0 .7em; }
-h1,h2,h3,h4{ font-weight:600; line-height:1.25; color:#1b1610; }
-h2{ font-size:1.45rem; margin:1.6em 0 .5em; border-bottom:1px solid var(--rule); padding-bottom:.2em;}
-h3{ font-size:1.18rem; margin:1.3em 0 .4em; color:var(--burgundy);}
-h4{ font-size:1.02rem; margin:1.1em 0 .3em; font-variant:small-caps; letter-spacing:.02em;}
-a{ color:var(--burgundy); }
-blockquote{ margin:1em 0; padding:.6em 1em; border-left:3px solid var(--gold);
- background:#f3ecd9; font-style:italic; color:#3a3226;}
-blockquote p{ text-align:left; }
-table{ border-collapse:collapse; width:100%; margin:1em 0; font-size:.92em;}
-th,td{ border:1px solid var(--rule); padding:.4em .6em; text-align:left; vertical-align:top;}
-th{ background:#efe6cf; font-variant:small-caps;}
-code{ font-family:"Courier New",monospace; font-size:.9em; background:#efe7d3; padding:.05em .3em;border-radius:3px;}
-pre{ background:#2b2419; color:#f3ecd9; padding:1em; overflow:auto; border-radius:4px; font-size:.82em;}
-pre code{ background:none; color:inherit;}
-hr{ border:0; height:1px; background:var(--rule); margin:1.4em 0;}
-ul,ol{ margin:.4em 0 .9em 1.3em;}
-li{ margin:.2em 0;}
-.escudo svg{ display:block; margin:0 auto; }
-.escudo.grande svg{ width:150px; height:auto; }
-.escudo.mediano svg{ width:96px; height:auto; }
-.ornamento{ text-align:center; color:var(--gold); font-size:1.3rem; letter-spacing:.5em; margin:1.2em 0;}
-.ornamento:after{ content:"❧"; }
+ font-size:10pt;line-height:1.38;}
+.page{background:var(--paper);width:15.6cm;margin:16px auto;padding:1.5cm 1.5cm;
+ box-shadow:0 3px 14px rgba(0,0,0,.22);position:relative;}
+p{ text-align:justify; hyphens:auto; margin:0 0 .38em; }
+h1,h2,h3,h4{ font-weight:700; line-height:1.18; color:var(--ink); }
+h2{ font-size:1.08rem; margin:1em 0 .3em; letter-spacing:.01em;}
+h3{ font-size:.97rem; margin:.8em 0 .25em; color:var(--accent); font-variant:small-caps; letter-spacing:.03em;}
+h4{ font-size:.9rem; margin:.65em 0 .2em; font-style:italic; font-weight:600;}
+a{ color:var(--accent); text-decoration:none;}
+strong{font-weight:700;} em{font-style:italic;}
+
+/* CUERPO A DOS COLUMNAS (libro real) */
+.cuerpo{ column-count:2; column-gap:.85cm; }
+.cuerpo table, .cuerpo pre, .cuerpo figure { column-span:all; }
+
+/* blockquote formal: sin caja, solo filete fino */
+blockquote{ margin:.5em 0; padding:.05em 0 .05em .7em; border-left:2px solid var(--accent);
+ font-size:.9em; line-height:1.32; color:#332c22;}
+blockquote p{ text-align:left; margin:.2em 0;}
+
+/* tablas estilo académico (solo reglas horizontales) */
+table{ border-collapse:collapse; width:100%; margin:.6em 0; font-size:.8em; line-height:1.26;
+ border-top:1.3px solid var(--ink); border-bottom:1.3px solid var(--ink);}
+th,td{ padding:.26em .5em; text-align:left; vertical-align:top; border:0;}
+thead th{ border-bottom:1px solid var(--ink); font-variant:small-caps; letter-spacing:.02em;}
+tbody tr{ border-bottom:.5px solid var(--rule);}
+tbody tr:last-child{ border-bottom:0;}
+
+/* diagramas / mapas: figura con forma */
+pre{ border:1px solid var(--rule); background:var(--tint); padding:.55em .7em; margin:.7em 0;
+ font-family:"Courier New",monospace; font-size:7.4pt; line-height:1.22; overflow-x:auto; white-space:pre;}
+code{ font-family:"Courier New",monospace; font-size:.85em;}
+pre code{ font-size:inherit;}
+hr{ border:0; border-top:1px solid var(--rule); margin:.8em 0;}
+ul,ol{ margin:.28em 0 .5em 1.05em;}
+li{ margin:.08em 0;}
+
+.escudo svg{ display:block; margin:0 auto;}
+.escudo.grande svg{ width:118px; height:auto;}
+.escudo.mediano svg{ width:78px; height:auto;}
+.ornamento{ text-align:center; color:var(--accent); margin:.7em 0; font-size:.8rem; letter-spacing:.5em;}
+.ornamento:after{ content:"\2766";}
+.filete{ width:38%; height:0; border-top:1px solid var(--accent); margin:.9em auto;}
 
 /* PORTADA */
-.portada{ text-align:center; display:flex; flex-direction:column; justify-content:center; min-height:25cm;}
-.portada .univ{ font-variant:small-caps; letter-spacing:.14em; font-size:1rem; color:#463b28; margin:.2em 0;}
-.portada .facultad{ font-variant:small-caps; letter-spacing:.1em; font-size:.86rem; color:#6b5b3e; margin-bottom:1.5em;}
-.filete{ width:60%; height:2px; background:linear-gradient(90deg,transparent,var(--gold),transparent); margin:1.4em auto;}
-.portada .titulo{ font-size:2.55rem; line-height:1.15; margin:.3em 0; color:#1b1610; font-weight:700; letter-spacing:.01em;}
-.portada .subtitulo{ font-size:1.12rem; font-style:italic; color:#4d4130; max-width:24em; margin:.8em auto 0;}
-.portada .especialidad{ font-variant:small-caps; letter-spacing:.08em; color:var(--burgundy); font-size:1.05rem; margin-top:1.2em;}
-.portada .autor{ margin-top:auto; font-size:1.25rem; font-variant:small-caps; letter-spacing:.08em;}
-.portada .sello{ font-size:.95rem; color:#5b4c33; margin-top:.2em;}
-.portada .fecha{ font-style:italic; color:#5b4c33; margin-top:.4em;}
+.portada{ text-align:center; display:flex; flex-direction:column; justify-content:center; min-height:24cm;}
+.portada .univ{ font-variant:small-caps; letter-spacing:.16em; font-size:.92rem; margin:.2em 0;}
+.portada .facultad{ font-variant:small-caps; letter-spacing:.1em; font-size:.8rem; color:#4a4133; margin-bottom:1.2em;}
+.portada .titulo{ font-size:2.15rem; line-height:1.12; margin:.2em 0; font-weight:700;}
+.portada .subtitulo{ font-size:.98rem; font-style:italic; color:#3c342a; max-width:24em; margin:.7em auto 0;}
+.portada .especialidad{ font-variant:small-caps; letter-spacing:.06em; color:var(--accent); font-size:.92rem; margin:1em auto 0; max-width:26em;}
+.portada .autor{ margin-top:auto; font-size:1.15rem; font-variant:small-caps; letter-spacing:.08em;}
+.portada .sello{ font-size:.85rem; color:#4a4133; margin-top:.2em;}
+.portada .fecha{ font-style:italic; color:#4a4133; margin-top:.3em; font-size:.9rem;}
 
-/* Secciones preliminares */
-.seccion-titulo{ text-align:center; font-variant:small-caps; letter-spacing:.1em; font-size:1.7rem;
- margin:.2em 0 1.2em; color:#1b1610;}
-.carta{ font-size:12.8pt; }
-.carta p{ margin-bottom:.9em;}
-.firma{ text-align:right; font-style:italic; margin-top:1.4em;}
-.frase-vida{ text-align:center; font-style:italic; font-size:1.28rem; color:var(--burgundy);
- border-top:1px solid var(--rule); border-bottom:1px solid var(--rule); padding:1em .5em; margin:1.6em 0;}
-.dropcap:first-letter{ float:left; font-size:3.4rem; line-height:.8; padding:.05em .1em 0 0; color:var(--burgundy); font-weight:700;}
+/* Preliminares */
+.seccion-titulo{ text-align:center; font-variant:small-caps; letter-spacing:.1em; font-size:1.4rem; margin:.2em 0 1em;}
+.carta{ font-size:10.4pt; line-height:1.5; max-width:31em; margin:0 auto;}
+.carta p{ margin-bottom:.6em;}
+.firma{ text-align:right; font-style:italic; margin-top:1.2em;}
+.frase-vida{ text-align:center; font-style:italic; font-size:1.08rem; color:var(--accent);
+ border-top:1px solid var(--rule); border-bottom:1px solid var(--rule); padding:.8em .5em; margin:1.3em auto; max-width:30em;}
+.dropcap:first-letter{ float:left; font-size:2.5rem; line-height:.82; padding:.02em .09em 0 0; color:var(--accent); font-weight:700;}
 
 /* Portadilla de Parte */
-.parte-portada{ text-align:center; min-height:24cm; display:flex; flex-direction:column; justify-content:center;}
-.parte-portada .plabel{ font-variant:small-caps; letter-spacing:.24em; color:var(--gold); font-size:1.2rem;}
-.parte-portada .ptitulo{ font-size:2.1rem; margin-top:.3em; color:#1b1610;}
+.parte-portada{ text-align:center; min-height:23cm; display:flex; flex-direction:column; justify-content:center;}
+.parte-portada .plabel{ font-variant:small-caps; letter-spacing:.24em; color:var(--accent); font-size:1rem;}
+.parte-portada .ptitulo{ font-size:1.7rem; margin-top:.2em;}
 
 /* Índice */
-.toc h3{ color:var(--gold); font-variant:small-caps; letter-spacing:.06em; border:0; margin-top:1.2em;}
+.toc{ font-size:.95em;}
+.toc h3{ color:var(--accent); font-variant:small-caps; letter-spacing:.06em; margin-top:1em;}
 .toc ul{ list-style:none; margin-left:0;}
-.toc li{ display:flex; justify-content:space-between; border-bottom:1px dotted var(--rule); padding:.15em 0;}
+.toc li{ border-bottom:1px dotted var(--rule); padding:.12em 0;}
 .toc a{ text-decoration:none; color:var(--ink);}
-.cap-num{ color:var(--gold); font-variant:small-caps; letter-spacing:.1em; font-size:.9rem;}
-.cap-titulo{ font-size:1.75rem; color:#1b1610; margin:.1em 0 1em; }
+.cap-num{ color:var(--accent); font-variant:small-caps; letter-spacing:.1em; font-size:.8rem;}
+.cap-titulo{ font-size:1.4rem; color:var(--ink); margin:.05em 0 .7em; padding-bottom:.2em; border-bottom:1px solid var(--rule);}
 
 /* Botón */
-#barra{ position:fixed; right:22px; bottom:22px; z-index:99; display:flex; gap:10px;}
-#barra button{ font-family:inherit; background:var(--burgundy); color:#f7efdc; border:1px solid #4a0d15;
- padding:12px 20px; border-radius:8px; font-size:1rem; cursor:pointer; box-shadow:0 6px 18px rgba(0,0,0,.35);}
-#barra button:hover{ background:#8a1a28;}
+#barra{ position:fixed; right:20px; bottom:20px; z-index:99;}
+#barra button{ font-family:inherit; background:var(--accent); color:#fdfbf6; border:0;
+ padding:11px 18px; border-radius:6px; font-size:.95rem; cursor:pointer; box-shadow:0 5px 16px rgba(0,0,0,.3);}
+#barra button:hover{ background:#84172a;}
 
 @media print{
- @page{ size:letter; margin:2cm 2.1cm; }
- body{ background:#fff; font-size:11pt;}
- .page{ width:auto; min-height:auto; margin:0; padding:0; box-shadow:none; }
- #barra{ display:none !important; }
- .parte-portada,.portada,.colofon{ min-height:92vh; }
- .nueva-pagina{ break-before:page; }
- h2,h3,h4{ break-after:avoid; }
- table,blockquote,pre,figure{ break-inside:avoid; }
+ @page{ size:letter; margin:1.5cm 1.5cm; }
+ body{ background:#fff; color:#000; font-size:9pt; line-height:1.32;}
+ .page{ width:auto; margin:0; padding:0; box-shadow:none;}
+ .cuerpo{ column-gap:.7cm;}
+ #barra{ display:none !important;}
+ .nueva-pagina{ break-before:page;}
+ h2,h3,h4{ break-after:avoid;}
+ table,pre,blockquote,figure{ break-inside:avoid;}
+ .portada,.parte-portada,.colofon{ min-height:90vh;}
 }
 """
 
@@ -326,7 +343,8 @@ def parte_portada(plabel,ptitle):
 def capitulo(plabel,cap_title,anchor,html):
     return (f'<section class="page nueva-pagina" id="{anchor}">'
             f'<div class="cap-num">{plabel}</div>'
-            f'<h1 class="cap-titulo">{cap_title}</h1>{html}</section>')
+            f'<h1 class="cap-titulo">{cap_title}</h1>'
+            f'<div class="cuerpo">{html}</div></section>')
 
 def colofon():
     return f"""<section class="page nueva-pagina colofon portada">
