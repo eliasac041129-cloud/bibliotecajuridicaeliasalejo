@@ -998,3 +998,24 @@ El *civil law* regula minuciosamente cada contrato típico; el *common law* deja
 - **Intermedio:** Sánchez Medal, *De los contratos civiles*.
 - **Avanzado:** Lorenzetti, *Tratado de los contratos*.
 - **Internacional:** CISG (Convención de Viena, 1980); Schlechtriem & Schwenzer, *Commentary on the CISG*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** Los contratos típicos (compraventa, arrendamiento, mandato, mutuo, fianza…) existen porque el derecho **estandariza** las relaciones más frecuentes, ahorrando a las partes negociar todo desde cero: cada tipo trae un **régimen supletorio** que llena lo que el contrato calla. Son, en clave económica, **cláusulas por defecto** (*default rules*) que reducen costos de transacción —el contrato solo negocia las desviaciones.
+
+**El debate.** ***Default rules*: ¿mayoritarias o penalizadoras?** (Ayres & Gertner): ¿la regla supletoria debe ser la que la mayoría querría (ahorra negociación) o una "penalizadora" que fuerce a las partes informadas a revelar información (*information-forcing*)? Debate del **saneamiento** (vicios ocultos, evicción): ¿protección imperativa o renunciable? Y el gran tema: cómo se integran los **contratos atípicos y mixtos** (analogía con el tipo más cercano + buena fe).
+
+**Mirada de AED.** La compraventa es el contrato madre; su régimen de **saneamiento** asigna el riesgo de defectos y de evicción —el mismo riesgo que el SPA "contractualiza" y amplía con *reps & warranties*. Entender la *default rule* legal permite saber **qué gana el cliente por callar** (la ley lo protege) y qué debe negociar expresamente.
+
+**Comparado y lección para México.** El civil law regula minuciosamente cada tipo; el *common law* deja más a *implied terms* y al acuerdo. La **CISG** (Viena, 1980) desplaza al derecho local en compraventa internacional salvo pacto. **Lección:** al redactar, saber qué régimen supletorio aplica evita reinventar (o perder) protecciones que la ley ya da gratis.
+
+**Crítica.** La tipificación puede volverse **camisa de fuerza** ante negocios nuevos (llamar "arrendamiento" a un *leasing* financiero, con efectos fiscales distintos ⟳); y el saneamiento legal, insuficiente para operaciones complejas —de ahí la migración al SPA.
+
+**Jurisprudencia y operación real.** El régimen de **evicción y vicios ocultos** reaparece en M&A cuando, tras el cierre, un activo resulta ajeno o defectuoso. En la práctica, el buen abogado reconoce el **tipo base** bajo el contrato complejo para importar su régimen y anticipar lo que calla.
+
+**Para leer más:** Ayres & Gertner, *Filling Gaps in Incomplete Contracts* (Yale L.J., 1989); CISG (1980); Lorenzetti, *Tratado de los contratos*.

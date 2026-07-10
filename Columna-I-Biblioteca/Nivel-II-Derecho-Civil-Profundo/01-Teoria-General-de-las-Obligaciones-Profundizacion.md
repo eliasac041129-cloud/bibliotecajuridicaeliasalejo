@@ -1054,3 +1054,24 @@ La **cesión de créditos** (*assignment*) es central en la titulización (*secu
 - **Intermedio:** Rojina Villegas, *Obligaciones*.
 - **Avanzado:** Díez-Picazo, *Fundamentos del Derecho Civil Patrimonial*, t. II.
 - **Internacional:** Zimmermann, *The Law of Obligations*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La teoría de las obligaciones es la **gramática del intercambio**: define cómo se crea, transmite, garantiza y extingue el deber de dar, hacer o no hacer. La **circulación del crédito** (cesión, subrogación, novación) existe porque el crédito es un **activo**: poder transmitirlo lo hace líquido, y la liquidez es valor. Sin transmisibilidad del crédito no hay factoraje, titulización ni mercado de deuda.
+
+**El debate.** **Cesión vs. novación:** ¿se transmite la misma obligación (cesión, las garantías la siguen) o nace una nueva que extingue la anterior (novación, las garantías pueden caer)? El debate importa millones en reestructuras. **Perfección de la cesión frente a terceros:** ¿basta el acuerdo (consensualismo) o se exige notificación al deudor / registro? El sistema elegido define el riesgo del cesionario y el costo de la titulización.
+
+**Mirada de AED.** La transmisibilidad del crédito reduce **costos de transacción** y permite que el riesgo migre a quien mejor lo soporta (el mercado de deuda). Pero la cesión "en masa" (titulización) crea **riesgo moral** en el originador (si va a vender el crédito, se esfuerza menos en originar bien) —exactamente lo que falló en 2008 (*originate-to-distribute*).
+
+**Comparado y lección para México.** La *assignment* y el *true sale* estadounidenses (aislamiento del riesgo de quiebra del originador) son la base de la titulización; el civil law exige notificación al deudor para oponer la cesión. **Lección:** para desarrollar mercados de deuda y factoraje, México necesita reglas claras de **perfección y aislamiento** (*true sale*) que den certeza al cesionario.
+
+**Crítica.** La sofisticación de la cesión y la titulización puede **desconectar** el riesgo de quien lo origina (el problema *originate-to-distribute*), sembrando crisis sistémicas. La lección de 2008 sigue vigente.
+
+**Jurisprudencia y operación real.** La titulización *subprime* (2008) fue teoría de las obligaciones a escala billonaria: cesión, subrogación y aislamiento de riesgo que, al fallar, colapsaron el sistema. En la práctica, estructurar un fideicomiso emisor o un factoraje exige dominar el punto exacto en que el crédito "sale" del patrimonio del cedente.
+
+**Para leer más:** Díez-Picazo, *Fundamentos del Derecho Civil Patrimonial*, t. II; Zimmermann, *The Law of Obligations*; literatura sobre *securitization* y *true sale*.
