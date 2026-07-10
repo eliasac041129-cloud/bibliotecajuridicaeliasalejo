@@ -1,931 +1,238 @@
-# [Nivel I · Libro 4] Tratado de Teoría General del Acto Jurídico
+# [Nivel I · Libro 4] El Átomo del Negocio: Teoría General del Acto Jurídico
+#### *Existencia, validez y nulidades — la anatomía de todo contrato y de las reps & warranties del SPA*
 
-> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+> ⟳ **Apóstrofe de vigencia.** Todo artículo citado (CCF) pudo cambiar después de la fecha de su fuente. El
+> símbolo **⟳** significa: reitéralo en su código vigente ([`../../fuentes-legales/`](../../fuentes-legales/))
+> antes de citarlo (la materia civil es **local**: verifica el código de la entidad).
 
-
-> Si los contratos, las sociedades, los testamentos y las operaciones de M&A fueran
-> moléculas, el **acto jurídico** sería el átomo. Toda la vida del derecho privado —y, por
-> tanto, todo el derecho corporativo— se construye con manifestaciones de voluntad que
-> producen efectos queridos por el derecho. Dominar esta teoría es dominar la mecánica
-> profunda de cualquier contrato.
-
-**Etiquetas:** fundamentos · teoría central del derecho privado · voluntad · validez · nulidad
+**Etiquetas:** teoría central del derecho privado · voluntad · existencia · validez · vicios · nulidad
 **Prerrequisitos:** [Derecho Romano](./01-Derecho-Romano.md), [IED](./02-Introduccion-al-Estudio-del-Derecho.md).
-**Nivel de tratamiento:** TRATADO (materia nuclear: es la base técnica de todo contrato y operación).
+**⏱ Dominio:** materia nuclear (la base técnica de todo contrato y operación).
 
-> **Cómo está escrito este libro.** Cada figura se define, se explica *por qué* existe, se
-> ilustra con un ejemplo concreto y se conecta con una cláusula real de un contrato. El
-> objetivo no es que reconozcas "nulidad relativa", sino que sepas **detectarla, alegarla y
-> redactarla**.
-
----
-
-## Índice de las 30 secciones
-
-1. ¿Por qué existe? · 2. Historia · 3. Problema que resolvió · 4. Conceptos ·
-5. Explicación completa · 6. Comparación doctrinal · 7. Autores · 8. Derecho comparado ·
-9. Relación con México · 10. Relación con otras materias · 11. Aplicación profesional ·
-12. Errores comunes · 13. Cómo lo preguntaría un profesor · 14. En un juicio ·
-15. En un contrato · 16. En una empresa · 17. En M&A · 18. Práctica internacional ·
-19. Casos · 20. Preguntas abiertas · 21. Preguntas tipo examen · 22. Casos complejos ·
-23. Flashcards · 24. Mapas mentales · 25. Cuadros comparativos · 26. Mnemotecnias ·
-27. Checklist · 28. Resumen ejecutivo · 29. Bibliografía · 30. Ruta.
+> Si los contratos, las sociedades y las operaciones de M&A fueran moléculas, el **acto jurídico** sería el
+> átomo. Toda la vida del derecho privado se construye con manifestaciones de voluntad que producen efectos
+> queridos por el derecho. Dominar esta teoría es dominar la mecánica profunda de cualquier contrato.
 
 ---
 
-## 1. ¿Por qué esta materia existe?
+## 1. Firmaste por un engaño: ¿el contrato no existe, es nulo o es anulable?
 
-Razonemos. En el libro de Roma viste que las obligaciones nacen de fuentes (contrato,
-delito, etc.). En la IED viste que el derecho atribuye consecuencias a ciertos supuestos de
-hecho. Ahora unimos ambas ideas y preguntamos: *¿cómo es que la voluntad de un particular
-puede crear, modificar o extinguir derechos y obligaciones?* ¿Por qué, cuando dos personas
-dicen "acuerdo", el Estado pone su fuerza coactiva detrás de ese acuerdo?
+Una persona firma un contrato porque la otra le **mintió** sobre un hecho determinante. El contrato, ¿no
+existe, es nulo de pleno derecho, o es válido hasta que la víctima pida anularlo? Guarda tu respuesta.
 
-La Teoría General del Acto Jurídico existe para responder esto. Estudia el mecanismo por el
-cual la **voluntad humana**, reconocida por el orden jurídico, se convierte en **fuente de
-efectos de derecho**. Es la teoría del **poder creador de la autonomía privada**.
+Este pequeño enigma es la puerta a la teoría más práctica del derecho privado. Ella responde una pregunta
+mayor: *¿cómo es que la voluntad de un particular crea, modifica o extingue derechos, y por qué el Estado
+pone su fuerza detrás de ese acuerdo?* La respuesta es el **acto jurídico**: la manifestación de voluntad
+encaminada a producir **efectos jurídicos queridos** y reconocidos por el derecho —la herramienta con la que
+los particulares "legislan" para sí mismos, dentro de los límites del orden público—. Su importancia para el
+corporativo es absoluta: un SPA, un contrato de crédito, unos estatutos, un pagaré, una fusión, **todos son
+actos jurídicos**, y sus reglas de existencia, validez, vicios y nulidad son las que aquí estudiamos. La
+diferencia entre **inexistencia**, **nulidad absoluta** y **nulidad relativa** decide si una operación
+multimillonaria es válida, anulable o nunca existió.
 
-Su importancia para el abogado corporativo es absoluta y por eso este es un tratado, no un
-manual:
+> **Tesis del libro:** comprender los **elementos de existencia** y los **requisitos de validez** del acto
+> es comprender la **anatomía de todo negocio jurídico** —y saber detectar, alegar y redactar sus
+> patologías—.
 
-**Primero: es la columna vertebral de todo contrato.** Un SPA, un contrato de crédito, unos
-estatutos sociales, un pagaré, una fusión: todos son actos jurídicos. Sus reglas de
-existencia, validez, vicios y nulidad son las mismas que estudiarás aquí, aplicadas. Si no
-dominas esta teoría, redactas contratos sin entender qué los sostiene o los derrumba.
+## 2. Hecho vs. acto, y la autonomía de la voluntad
 
-**Segundo: explica cuándo un acto vale y cuándo se cae.** La diferencia entre
-**inexistencia**, **nulidad absoluta** y **nulidad relativa** decide si una operación
-multimillonaria es válida, anulable o nunca existió. Un error aquí puede costar una fusión.
+Hay una escala de intervención de la voluntad: el **hecho jurídico** (el efecto se produce **sin** quererlo
+como tal —un rayo destruye un bien asegurado; quien por negligencia daña, debe reparar—) y el **acto
+jurídico** (el sujeto **quiere** el efecto: obligarse, transmitir, constituir una sociedad). La distinción no
+es académica: los **vicios del consentimiento** solo tienen sentido en los actos, donde la voluntad es el
+motor. El acto es la expresión de la **autonomía de la voluntad** (art. 1796 CCF ⟳), con **tres murallas**:
+las leyes **imperativas / de orden público** (art. 6 ⟳: la voluntad no las altera), el **orden público y las
+buenas costumbres** (límite a la licitud, arts. 1830-1831 ⟳) y los **derechos de terceros**. Detectar la
+frontera entre lo **disponible** (normas dispositivas) y lo **indisponible** (imperativas) es una destreza
+fina: pactar contra una imperativa es nulidad asegurada.
 
-**Tercero: es la teoría de los vicios del consentimiento.** El **dolo** (engaño), el
-**error**, la **violencia** y la **lesión** son las patologías que invalidan acuerdos. En
-M&A, las *misrepresentations* y el *fraud* son, en clave civil mexicana, vicios del
-consentimiento. Saber detectarlos es proteger a tu cliente.
+## 3. Elementos de existencia: ¿el acto nació?
 
-> **Tesis del libro:** el acto jurídico es la herramienta con la que los particulares
-> "legislan" para sí mismos dentro de los límites del orden público. Comprender sus
-> elementos de existencia y validez es comprender la **anatomía de todo negocio jurídico**.
+Antes de preguntar si un acto **vale**, hay que preguntar si **existe**. Faltan tres elementos esenciales y
+no hay nada que analizar (art. 1794 ⟳):
+- **Consentimiento:** el encuentro de oferta y aceptación. Sin acuerdo sobre lo esencial, no hay contrato.
+- **Objeto:** posible física y jurídicamente, en el comercio, determinado o determinable. (Vender una cosa
+  que ya pereció totalmente = inexistencia.)
+- **Solemnidad** (solo cuando la ley la eleva a elemento esencial).
 
-**Ejercicio de arranque:** una persona firma un contrato porque la otra le mintió sobre un
-hecho determinante. El contrato, ¿no existe, es nulo de pleno derecho, o es válido hasta que
-la víctima pida anularlo? *Piensa tu respuesta* y contrástala al final de la sección 5.
+**Consecuencia (art. 2224 ⟳):** el acto inexistente "no produce efecto legal alguno; no es susceptible de
+valer por confirmación ni por prescripción". Es la **nada jurídica**; cualquiera la alega, en cualquier
+tiempo.
 
----
+## 4. Requisitos de validez y los vicios del consentimiento
 
-## 2. Historia
+Un acto puede existir y, sin embargo, estar **enfermo**. Cuatro requisitos de validez (art. 1795 ⟳):
+- **Capacidad** de las partes → su falta = **nulidad relativa** (protege al incapaz).
+- **Ausencia de vicios** del consentimiento → **nulidad relativa** (protege a la víctima).
+- **Licitud** en el objeto, motivo o fin → su falta = **nulidad absoluta** (protege a la sociedad).
+- **Forma** exigida por la ley → **nulidad relativa** subsanable otorgando la forma (art. 2231 ⟳).
 
-### 2.1 La raíz romana: actos típicos, no teoría general
-Roma, como vimos, no tuvo una teoría general del acto o del negocio jurídico. Tuvo **actos
-típicos** (*mancipatio*, *stipulatio*, *traditio*, testamento) cada uno con su forma y sus
-efectos. El consentimiento importaba (en los contratos consensuales), pero no existía una
-categoría abstracta y unificadora de "acto jurídico". Lo que Roma sí aportó fueron los
-**materiales**: la *voluntas*, el *dolus*, el *error*, la *causa*, la distinción entre
-forma y fondo.
+Los **vicios del consentimiento** son las patologías de la voluntad: el **error** (falsa apreciación; solo
+vicia el **determinante**, art. 1813 ⟳); el **dolo** (sugestión o artificio para inducir o mantener el error,
+art. 1815 ⟳ —el vendedor que oculta un pasivo comete dolo—); la **violencia** (fuerza o amenaza grave, art.
+1819 ⟳); y la **lesión** (desproporción enorme por explotación de la suma ignorancia, notoria inexperiencia o
+extrema miseria, art. 17 ⟳ —concepción **subjetivo-objetiva**: no basta la desproporción, se exige la
+explotación—).
 
-### 2.2 La construcción de la categoría: la pandectística alemana
-La gran abstracción —el concepto de **negocio jurídico** (*Rechtsgeschäft*)— es obra de la
-ciencia jurídica alemana del siglo XIX (Savigny, Windscheid y la Pandectística). Ellos
-tomaron los materiales romanos y construyeron una teoría unitaria: *todo* acto de voluntad
-dirigido a producir efectos jurídicos comparte una estructura común (sujetos, voluntad,
-objeto, causa, forma) y un régimen común de vicios y nulidades. El **BGB** alemán (1900)
-consagró el *negocio jurídico* como categoría central de su Parte General.
+> 🧭 **Detente y piensa.** ¿De dónde salieron las *representations & warranties* del SPA? Son **control de error y dolo** contractualizado. Una *rep* falsa **a sabiendas** es **dolo** (*fraud*); una *rep* falsa **sin culpa** activa la **indemnización** contractual; y el régimen de ***disclosure*** (los *disclosure schedules*) sirve para **excluir el error/dolo** revelando la verdad —convierte lo "sabido" en oponible y **desactiva** el dolo—. Por eso las *reps* se redactan con obsesión: fijan por escrito la **declaración** para no tener que litigar la **voluntad**. La *misrepresentation* del common law tiene como pariente civil el **dolo** del art. 1815 ⟳ —pero los remedios y la carga de la prueba difieren—.
 
-### 2.3 La tradición francesa y latina: el "acto jurídico"
-Francia y los sistemas latinos prefirieron hablar de **acto jurídico** (*acte juridique*) y
-centraron la teoría en el **contrato** (el Code Civil de 1804 regula sobre todo el
-contrato). La doctrina latina (Bonnecase, los hermanos Mazeaud, y en México Gutiérrez y
-González, Borja Soriano, Rojina Villegas) desarrolló la distinción —decisiva en México—
-entre **hecho jurídico** y **acto jurídico**, y entre **elementos de existencia** y
-**requisitos de validez**.
-
-### 2.4 La recepción mexicana
-El Código Civil de 1928 (CCF) adopta una teoría del acto jurídico de raíz francesa pero con
-sistematización propia, distinguiendo con nitidez:
-- elementos de **existencia** (consentimiento, objeto, y en su caso solemnidad);
-- requisitos de **validez** (capacidad, ausencia de vicios, licitud, forma);
-- y un régimen escalonado de ineficacias: **inexistencia**, **nulidad absoluta** y
-  **nulidad relativa**.
-Esta arquitectura —que muchos atribuyen a la influencia de Bonnecase— es la que estudiarás
-y la que usarás toda tu carrera.
-
----
-
-## 3. Problema jurídico que resolvió
-
-La teoría ordena un conjunto de problemas prácticos:
-
-1. **¿Cómo crea efectos la voluntad privada?** Establece el mecanismo de la autonomía de la
-   voluntad y sus límites (orden público, leyes imperativas).
-2. **¿Qué necesita un acto para *existir*?** Define los elementos esenciales sin los cuales
-   no hay acto (no hay "nada que anular": simplemente no existe).
-3. **¿Qué necesita para ser *válido*?** Distingue existir de valer: un acto puede existir
-   pero estar viciado (incapacidad, dolo, ilicitud).
-4. **¿Qué pasa cuando falta un elemento o un requisito?** Construye el régimen de
-   ineficacias (inexistencia, nulidad absoluta, nulidad relativa) y sus consecuencias.
-5. **¿Cómo se protege la voluntad libre y consciente?** Teoría de los **vicios del
-   consentimiento** (error, dolo, violencia, lesión).
-6. **¿Cómo se interpreta y se integra el acto?** Reglas de interpretación de la voluntad y
-   de integración de lo no previsto.
-
-> Para el corporativo, los problemas 3, 4 y 5 son oro puro: deciden si un contrato es
-> exigible, si una garantía es válida y si una declaración falsa permite deshacer la
-> operación.
-
----
-
-## 4. Conceptos
-
-- **Hecho jurídico (en sentido amplio):** todo acontecimiento, natural o humano, que
-  produce consecuencias de derecho. *Ejemplo:* la muerte (abre la sucesión), el nacimiento,
-  un accidente.
-- **Hecho jurídico en sentido estricto:** acontecimiento en el que la consecuencia se
-  produce **sin** que el sujeto la haya querido como tal. *Ejemplo:* quien por negligencia
-  causa un daño genera la obligación de repararlo aunque no la quisiera.
-- **Acto jurídico:** manifestación de voluntad encaminada a producir **efectos jurídicos
-  queridos** por el autor y reconocidos por el derecho. *Ejemplo:* celebrar un contrato,
-  otorgar un testamento, constituir una sociedad.
-- **Negocio jurídico:** sinónimo en la tradición alemana del acto jurídico (voluntad
-  dirigida a efectos queridos).
-- **Autonomía de la voluntad:** poder de los particulares de autorregular sus relaciones
-  jurídicas dentro de los límites de la ley, el orden público y las buenas costumbres.
-- **Elementos de existencia (esenciales):** **consentimiento**, **objeto** (posible y
-  física/jurídicamente determinable) y, cuando la ley lo exige, **solemnidad**. Su falta =
-  **inexistencia**.
-- **Requisitos de validez:** **capacidad** de las partes, **ausencia de vicios** del
-  consentimiento, **licitud** en el objeto/motivo/fin, y **forma** prescrita por la ley. Su
-  falta = **nulidad** (absoluta o relativa).
-- **Consentimiento:** acuerdo de dos o más voluntades (en actos bilaterales) o manifestación
-  de una (en unilaterales) sobre el objeto y la causa del acto.
-- **Objeto:** lo que se debe (la cosa o la conducta); debe existir o poder existir, estar en
-  el comercio y ser determinado o determinable.
-- **Causa / motivo determinante:** la razón o fin del acto; en México el fin o motivo
-  determinante debe ser lícito (art. 1795, fr. III ⟳, e interpretación de los arts. 1830 y
-  1831 CCF ⟳).
-- **Vicios del consentimiento:** **error**, **dolo**, **mala fe**, **violencia** (física o
-  moral) y **lesión**.
-- **Inexistencia:** el acto no llegó a nacer por falta de un elemento esencial; no produce
-  efecto alguno, no se convalida ni prescribe (art. 2224 CCF ⟳).
-- **Nulidad absoluta:** el acto existe pero contraría una norma de orden público; cualquiera
-  la invoca, no se convalida por confirmación ni prescripción, y por regla produce efectos
-  provisionales hasta su declaración (arts. 2225 ⟳–2226 CCF).
-- **Nulidad relativa:** vicio que protege un interés particular; solo la invoca el afectado,
-  **se convalida** por confirmación o por prescripción (arts. 2227 ⟳–2228 CCF).
-- **Confirmación / ratificación:** acto por el que se sanea un acto anulable.
-- **Conversión del acto nulo:** un acto nulo que reúne los requisitos de otro distinto puede
-  valer como ese otro.
-- **Representación:** actuar en nombre y por cuenta de otro, produciendo efectos en su esfera
-  jurídica (legal, orgánica o voluntaria –poder/mandato).
-- **Modalidades del acto:** **condición** (acontecimiento futuro e incierto), **término o
-  plazo** (futuro y cierto) y **modo o carga**.
-
-## 5. Explicación completa
-
-### 5.1 Del hecho al acto: el lugar de la voluntad
-Imagina una escala de "intervención de la voluntad":
-- En el extremo sin voluntad están los **hechos jurídicos naturales** (un rayo destruye un
-  bien asegurado: nace el derecho a la indemnización, nadie lo "quiso").
-- En el medio, los **hechos jurídicos humanos** donde hay conducta pero el efecto no fue
-  querido como tal (el responsable de un daño debe repararlo aunque no quisiera "obligarse").
-- En el extremo de plena voluntad creadora está el **acto jurídico**: el sujeto **quiere** el
-  efecto jurídico (quiere obligarse, transmitir, constituir una sociedad).
-
-Esta distinción no es académica: determina **qué reglas aplican**. Los vicios del
-consentimiento, por ejemplo, solo tienen sentido en los actos jurídicos (donde la voluntad
-es el motor), no en los hechos.
-
-### 5.2 La autonomía de la voluntad y sus límites
-El acto jurídico es la expresión técnica de la **autonomía de la voluntad**: los
-particulares pueden crear las reglas de su relación (art. 1796 CCF ⟳: los contratos se
-perfeccionan por el consentimiento y obligan no solo a lo pactado sino a las consecuencias
-conformes a la buena fe, al uso o a la ley). Pero esta libertad tiene **tres murallas**:
-1. **Las leyes de orden público / imperativas** (art. 6 CCF ⟳: la voluntad no puede eximir de
-   su observancia ni alterarlas).
-2. **El orden público** y las **buenas costumbres** (límite a la licitud del objeto, motivo
-   o fin: arts. 1830 ⟳–1831 CCF).
-3. **Los derechos de terceros.**
-
-Detectar la frontera entre lo disponible (normas dispositivas) y lo indisponible (normas
-imperativas) es una de las destrezas más finas del abogado: pactar contra una norma
-imperativa es nulidad asegurada.
-
-### 5.3 Elementos de existencia: ¿el acto nació?
-Antes de preguntar si un acto es válido, hay que preguntar si **existe**. Faltan tres
-elementos esenciales y no hay acto que analizar:
-
-1. **Consentimiento.** En los actos bilaterales, el encuentro de oferta y aceptación. Sin
-   acuerdo de voluntades sobre lo esencial, no hay contrato. *Ejemplo de inexistencia:* las
-   partes creen contratar sobre cosas distintas (no hay verdadero acuerdo).
-2. **Objeto.** Debe ser posible (física y jurídicamente). *Ejemplo de inexistencia:* vender
-   una cosa que ya pereció totalmente al momento del contrato; o un objeto imposible.
-3. **Solemnidad** (solo cuando la ley la exige como esencial). Ciertos actos requieren una
-   forma sacramental para *existir* (clásicamente, el matrimonio o el testamento en cuanto a
-   ciertas formas). Si la ley eleva la forma a elemento de existencia, su ausencia es
-   inexistencia, no mera nulidad.
-
-**Consecuencia de la inexistencia (art. 2224 CCF ⟳):** el acto "no produce efecto legal
-alguno; no es susceptible de valer por confirmación ni por prescripción". Es la nada
-jurídica. Cualquier interesado puede alegarla en cualquier tiempo.
-
-### 5.4 Requisitos de validez: el acto existe, ¿pero vale?
-Un acto puede existir y, sin embargo, estar enfermo. Los requisitos de validez (art. 1795
-CCF ⟳, a contrario) son cuatro:
-
-1. **Capacidad** de las partes. La incapacidad (p. ej., de un menor o de un interdicto)
-   genera **nulidad relativa** (protege al incapaz).
-2. **Ausencia de vicios del consentimiento** (error, dolo, violencia, lesión). Su presencia
-   genera **nulidad relativa** (protege a la víctima del vicio).
-3. **Licitud** en el objeto, motivo o fin. La ilicitud (contra leyes de orden público o
-   buenas costumbres) genera **nulidad absoluta** (protege a la sociedad).
-4. **Forma** exigida por la ley (cuando no es solemnidad esencial). Su falta genera, por
-   regla, **nulidad relativa** y el acto puede sanearse otorgando la forma (art. 2231 CCF ⟳:
-   la falta de forma estipulada produce nulidad relativa subsanable).
-
-### 5.5 Los vicios del consentimiento, en concreto
-- **Error:** falsa apreciación de la realidad. Solo invalida el **error determinante**
-  (motivo decisivo del acto) o el error de derecho/hecho que recae sobre el motivo
-  determinante (art. 1813 CCF ⟳). El error de cálculo solo da lugar a rectificación. *Ejemplo:*
-  compro un cuadro creyendo que es de un autor famoso, siendo ese el motivo determinante.
-- **Dolo y mala fe:** el **dolo** es cualquier sugestión o artificio para inducir al error o
-  mantenerlo (art. 1815 CCF ⟳); la **mala fe**, la disimulación del error conocido. El dolo que
-  **determina** la voluntad anula el acto (nulidad relativa). *Ejemplo corporativo:* el
-  vendedor oculta deliberadamente un pasivo: dolo. **Aquí está el puente con las
-  *misrepresentations* del M&A.**
-- **Violencia (intimidación):** empleo de fuerza física o amenazas que infunden temor de un
-  mal grave a la persona o bienes (art. 1819 CCF ⟳). Vicia por nulidad relativa.
-- **Lesión:** desproporción enorme entre las prestaciones por explotación de la suma
-  ignorancia, notoria inexperiencia o extrema miseria de una parte (art. 17 CCF ⟳). Da derecho
-  a la nulidad o a la reducción equitativa.
-
-### 5.6 El régimen de ineficacias: el mapa que debes memorizar
-Esta es la sección más importante del libro para la práctica. Tres grados:
+## 5. El régimen de ineficacias (el mapa que debes memorizar)
 
 | | Inexistencia | Nulidad absoluta | Nulidad relativa |
 |---|---|---|---|
-| **Causa** | Falta elemento esencial (consentimiento, objeto, solemnidad) | Ilicitud / violación de norma de orden público | Vicio del consentimiento, incapacidad, falta de forma |
+| **Causa** | Falta un elemento esencial (consentimiento, objeto, solemnidad) | Ilicitud / violación de norma de orden público | Vicio del consentimiento, incapacidad, falta de forma |
 | **Interés protegido** | — (no hay acto) | El de la sociedad | El de un particular |
 | **¿Quién la invoca?** | Cualquiera | Cualquier interesado | Solo el afectado |
-| **¿Se convalida?** | No | No (no por confirmación ni prescripción) | **Sí** (confirmación o prescripción) |
-| **¿Produce efectos provisionales?** | No | Sí, hasta la declaración judicial | Sí, hasta la declaración |
-| **Fundamento CCF** | 2224 | 2225–2226 | 2227–2228, 2230–2231 |
-
-**Cómo razona un experto (walkthrough de diagnóstico):** ante cualquier acto cuestionado,
-recorre tres preguntas en orden: (1) *¿Existe?* — ¿hay consentimiento, objeto y, si aplica,
-solemnidad? Si no, inexistencia. (2) *Si existe, ¿es lícito?* — ¿viola una norma de orden
-público? Si sí, nulidad absoluta. (3) *Si es lícito, ¿hubo capacidad, voluntad libre y
-forma?* — si falta capacidad, hubo vicio o falta forma, nulidad relativa. Este árbol de
-decisión resuelve el 90% de los problemas de ineficacia.
-
-### 5.7 Modalidades, representación e interpretación
-- **Modalidades:** la **condición** (suspende o resuelve el acto según un hecho futuro e
-  incierto; base de las *conditions precedent* de un SPA), el **término** (hecho futuro y
-  cierto que fija exigibilidad) y el **modo/carga** (obligación accesoria impuesta al
-  beneficiario).
-- **Representación:** permite que los efectos del acto recaigan en una persona distinta de
-  quien lo celebra (el representante). Fundamental para las personas morales (actúan por sus
-  órganos) y para el tráfico (apoderados). Sus vicios (falta o exceso de poder) son fuente
-  frecuente de litigio corporativo.
-- **Interpretación del acto:** se busca la **intención común** real por encima de las
-  palabras (arts. 1851 ⟳ y ss. CCF), interpretando las cláusulas unas por otras y a favor de
-  la validez y la buena fe.
-
-> **Respuesta al ejercicio de arranque:** el contrato celebrado por engaño determinante
-> **existe** (hay consentimiento, objeto) y es **lícito**, pero el consentimiento está
-> **viciado por dolo**. Por tanto es **válido pero anulable**: produce efectos hasta que la
-> víctima ejerza la acción de **nulidad relativa** (o, alternativamente, confirme el acto y
-> reclame daños). No es inexistente ni nulo de pleno derecho. Entender esta diferencia es
-> entender por qué en M&A las *reps* falsas no "destruyen" el contrato automáticamente, sino
-> que **activan remedios** (indemnización y, en casos graves, rescisión).
-
-
----
-
-## 6. Comparación doctrinal
-
-**Teoría de la voluntad vs. teoría de la declaración.** ¿Qué prevalece cuando lo que el
-sujeto *quiso* difiere de lo que *declaró*? La doctrina alemana clásica (teoría de la
-voluntad, *Willenstheorie*: Savigny) prioriza la voluntad interna real. La teoría de la
-declaración (*Erklärungstheorie*) prioriza lo manifestado, para proteger la confianza del
-destinatario y la seguridad del tráfico. Los sistemas modernos (y el mexicano) adoptan
-posiciones **intermedias**: parten de la voluntad real (art. 1851 CCF ⟳), pero protegen la
-buena fe y la apariencia frente a terceros. *Por qué importa:* en un contrato corporativo,
-la tensión entre "lo que quisimos negociar" y "lo que dice el texto" es el origen de casi
-todo litigio interpretativo; por eso se usan cláusulas de *entire agreement*.
-
-**Causalismo vs. anticausalismo.** La doctrina francesa clásica (causalista) exige una
-**causa** como elemento del acto; los anticausalistas (Planiol) sostienen que la causa se
-confunde con el objeto o el consentimiento y es superflua. La doctrina mexicana, siguiendo
-a Bonnecase, suele incorporar el "motivo o fin determinante" como elemento relevante para la
-licitud (arts. 1795-III, 1830-1831 CCF ⟳). El debate sigue vivo: el reformado Code Civil
-francés (2016) **suprimió** la causa como tal, sustituyéndola por requisitos de contenido y
-fin lícitos. *Lección:* la "causa" es una de las nociones más debatidas del derecho privado.
-
-**Inexistencia vs. nulidad: ¿categorías separadas o una sola?** La doctrina francesa creó la
-inexistencia para casos donde "no había nada que anular" (matrimonio entre personas del
-mismo sexo bajo el código decimonónico, falta de objeto). Parte de la doctrina alemana y
-algunos autores mexicanos critican la inexistencia como categoría superflua (bastaría la
-nulidad absoluta). El CCF mexicano la **mantiene** expresamente (art. 2224 ⟳), por lo que en
-México es derecho positivo, no mera teoría. *Debate práctico:* distinguir inexistencia de
-nulidad absoluta tiene consecuencias (la inexistencia no produce *ningún* efecto, ni
-provisional).
-
-**Concepción de los vicios: subjetiva vs. objetiva de la lesión.** La lesión se concibe en
-unos sistemas de modo **objetivo** (basta la desproporción matemática de prestaciones) y en
-otros —como México (art. 17 CCF ⟳)— de modo **subjetivo-objetivo** (desproporción **más**
-explotación de la ignorancia, inexperiencia o miseria). Esto eleva el estándar para anular
-por lesión y protege la seguridad de los negocios entre partes sofisticadas.
-
-## 7. Autores más importantes
-
-**Tradición alemana (negocio jurídico):**
-- **Savigny** y **Windscheid:** construcción del *Rechtsgeschäft* y de la teoría de la
-  voluntad.
-- **Andreas von Tuhr:** sistematización del negocio jurídico.
-
-**Tradición francesa/latina (acto jurídico):**
-- **Julien Bonnecase:** gran influencia en la teoría mexicana del acto jurídico y de las
-  ineficacias.
-- **Marcel Planiol y Georges Ripert; los hermanos Mazeaud:** tratadistas franceses de
-  referencia.
-
-**Doctrina mexicana (imprescindible para el estudiante):**
-- **Manuel Borja Soriano**, *Teoría General de las Obligaciones*: clásico mexicano que trata
-  a fondo el acto jurídico y sus ineficacias.
-- **Rafael Rojina Villegas**, *Derecho Civil Mexicano* (especialmente los tomos de
-  obligaciones) y *Compendio de Derecho Civil*: la exposición más usada en las facultades.
-- **Ernesto Gutiérrez y González**, *Derecho de las Obligaciones*: enérgico, crítico y
-  profundo en materia de nulidades.
-- **Jorge Alfredo Domínguez Martínez**, *Derecho Civil. Teoría general del acto jurídico*.
-- **Ramón Sánchez Medal** (en materia contractual).
-
-## 8. Derecho comparado
-
-- **Alemania (BGB):** el *negocio jurídico* es categoría central de la Parte General;
-  régimen detallado de declaraciones de voluntad, vicios (*Willensmängel*) e impugnación
-  (*Anfechtung*). Principio de **abstracción** (el negocio dispositivo se separa del
-  obligacional).
-- **Francia (Code Civil reformado 2016):** se reorganizó el derecho de contratos; se
-  **eliminó la causa** como elemento, exigiendo contenido lícito y cierto y consentimiento
-  no viciado; se codificaron la buena fe precontractual y la *violence économique* (abuso de
-  dependencia).
-- **Common law:** no usa la categoría "acto jurídico". Trabaja con *offer and acceptance*,
-  *consideration*, *capacity*, *legality*, y con *vitiating factors* (*misrepresentation*,
-  *mistake*, *duress*, *undue influence*, *unconscionability*). El paralelo funcional es
-  claro: la *misrepresentation* ≈ dolo/error; *duress* ≈ violencia; *unconscionability* ≈
-  lesión.
-- **Lección para el corporativo internacional:** al negociar un contrato cross-border debes
-  "traducir" categorías: una *fraudulent misrepresentation* del derecho inglés tiene como
-  pariente civil el dolo del art. 1815 CCF ⟳, pero los **remedios** y la **carga de la prueba**
-  difieren.
-
-## 9. Relación con México
-
-El régimen está en el **Código Civil Federal** (y, casi idéntico, en los códigos
-estatales). Mapa de artículos esenciales:
-
-- **Autonomía y límites:** arts. 6 ⟳ (renuncia de derechos privados y orden público), 8
-  (actos contra leyes prohibitivas o de interés público son nulos), 1796 (obligatoriedad y
-  buena fe).
-- **Elementos y requisitos:** art. **1794** (elementos de existencia: consentimiento y
-  objeto), art. **1795** (requisitos de validez: capacidad, ausencia de vicios, objeto/
-  motivo/fin lícitos, forma).
-- **Vicios del consentimiento:** arts. **1812–1823** (error, dolo, mala fe, violencia);
-  **lesión**: art. **17**.
-- **Licitud:** arts. **1827, 1830, 1831** (objeto, hecho ilícito, fin contrario a leyes de
-  orden público o buenas costumbres).
-- **Ineficacias:** art. **2224** (inexistencia), **2225–2226** (nulidad absoluta),
-  **2227–2230** (nulidad relativa y sus efectos), **2231** (falta de forma), **2239–2242**
-  (efectos de la nulidad: restituciones).
-- **Interpretación:** arts. **1851–1859**.
-- **Modalidades:** condición y término en sede de obligaciones (arts. 1938 ⟳ y ss.).
-
-> **Advertencia federalista (recuerda el Libro 3):** la materia civil es **local**. Cada
-> estado tiene su Código Civil. El CCF rige en materia federal y como modelo, pero al
-> asesorar debes verificar el código de la entidad aplicable. Los artículos suelen coincidir
-> en numeración y contenido con el CCF, pero **siempre confírmalo**.
-
-## 10. Relación con otras materias
-
-- **Derecho Romano (Libro 1):** aporta *voluntas*, *dolus*, *error*, *causa*, la
-  *stipulatio* y los actos típicos.
-- **IED (Libro 2):** el acto jurídico es una norma individualizada; su validez se analiza con
-  la teoría de validez/eficacia.
-- **Personas (Libro 5):** la **capacidad** (requisito de validez) y la representación se
-  desarrollan allí.
-- **Obligaciones (Libro 7):** el acto jurídico es la principal **fuente** de obligaciones;
-  este libro es su antesala directa.
-- **Contratos (Libro 8):** el contrato es el acto jurídico bilateral por excelencia; aquí
-  está su teoría base.
-- **Sociedades / LGSM (Nivel III):** la constitución de una sociedad y los acuerdos de
-  asamblea son actos jurídicos; sus nulidades se rigen, supletoriamente, por esta teoría.
-- **Títulos de crédito / LGTOC (Nivel III):** la suscripción de un título es un acto
-  jurídico (unilateral) con reglas especiales (abstracción, literalidad).
-- **M&A (Nivel IV):** el SPA, sus *reps & warranties*, condiciones y la representación de las
-  partes son pura teoría del acto jurídico aplicada.
-
-## 11. Aplicación profesional
-
-1. **Diagnóstico de validez de un contrato o acuerdo corporativo:** aplicar el árbol
-   existencia → licitud → validez para detectar riesgos de nulidad antes de firmar.
-2. **Verificación de capacidad y facultades:** confirmar que quien firma tiene capacidad y
-   **poder suficiente** (representación); revisar poderes notariales, actas y estatutos. El
-   error más caro y frecuente en la práctica.
-3. **Detección y documentación de vicios:** ante señales de dolo/error, decidir entre
-   confirmar (y reclamar daños) o anular; preservar pruebas.
-4. **Redacción de condiciones y plazos:** estructurar *conditions precedent*, plazos de
-   exigibilidad y cargas con técnica de modalidades del acto.
-5. **Saneamiento:** subsanar defectos de forma (otorgar escritura, ratificar ante notario),
-   confirmar actos anulables, convertir actos nulos.
-
-## 12. Errores comunes
-
-- **Confundir inexistencia con nulidad.** No es lo mismo "no hay contrato" que "hay contrato
-  anulable". Las consecuencias y la legitimación cambian radicalmente.
-- **Confundir nulidad absoluta con relativa.** La relativa se **convalida** (confirmación,
-  prescripción) y solo la invoca el afectado; la absoluta, no. Equivocarse aquí arruina una
-  estrategia procesal.
-- **Ignorar el problema de la representación.** Firmar con quien carece de poder suficiente
-  produce un acto ineficaz frente al "representado". Verificar facultades es ineludible.
-- **Creer que todo engaño anula.** Solo el **dolo determinante** (motivo decisivo) vicia; el
-  *dolus bonus* (exageración propia del comercio) no.
-- **Pactar contra normas imperativas** creyendo que "lo que las partes quieren, vale". El
-  orden público es muralla infranqueable.
-- **Olvidar la forma:** ciertos actos exigen escritura pública (inmuebles, ciertos poderes,
-  modificaciones societarias); omitirla acarrea nulidad relativa o inoponibilidad.
-
-## 13. Cómo lo preguntaría un profesor
-
-- *"Distinga hecho jurídico de acto jurídico y dé un ejemplo de cada uno."*
-- *"Enumere los elementos de existencia y los requisitos de validez del acto jurídico,
-  fundamentando en los arts. 1794 y 1795 CCF ⟳."*
-- *"Explique las diferencias de régimen entre inexistencia, nulidad absoluta y nulidad
-  relativa. ¿Cuál se convalida y por qué?"*
-- *"¿Cuándo el error vicia el consentimiento? ¿Y el dolo?"*
-- *"¿Qué es la lesión en el art. 17 CCF ⟳ y por qué su concepción es subjetiva-objetiva?"*
-- *"Una sociedad celebra un contrato a través de quien no tenía poder. ¿Qué tipo de
-  ineficacia hay y cómo se sanea?"*
-
-> El sinodal valora el **árbol de diagnóstico** (existencia → licitud → validez) y que
-> identifiques el **interés protegido** por cada tipo de ineficacia.
-
----
-
-
-## 14. Cómo aparece en un juicio
-
-- **Acción de nulidad:** el pleito típico. El actor pide declarar la nulidad (absoluta o
-  relativa) y las **restituciones** consiguientes (arts. 2239 ⟳–2242 CCF: las partes se
-  devuelven lo recibido). La calificación correcta del tipo de nulidad define legitimación,
-  prescripción y posibilidad de convalidación.
-- **Excepción de nulidad:** el demandado por cumplimiento puede excepcionar que el contrato
-  es nulo. Defensa frecuente en juicios mercantiles de cobro.
-- **Prueba del vicio:** quien alega dolo, error o violencia debe **probarlo** (carga de la
-  prueba). En dolo, demostrar el artificio y su carácter **determinante**.
-- **Prescripción de la acción de nulidad relativa:** corre desde que cesa el vicio
-  (violencia) o se conoce el error/dolo; pasado el plazo, el acto queda convalidado. Litigar
-  esto exige precisión en fechas.
-- **Falta o exceso de representación:** se discute la eficacia del acto frente al
-  "representado" y la posible ratificación tácita por actos propios.
-
-## 15. Cómo aparece en un contrato
-
-Aquí la teoría se vuelve cláusula. En un contrato bien redactado verás:
-
-- **Declaraciones (*representations*):** cada parte declara que tiene **capacidad** y
-  **facultades** suficientes (existencia y validez del acto). Es el primer bloque de todo
-  contrato serio.
-- **Cláusula de inexistencia/nulidad y salvaguarda (*severability*):** si una cláusula es
-  nula, las demás subsisten (busca aislar el vicio para no contaminar todo el acto).
-- **Condiciones suspensivas y resolutorias:** modalidades del acto que sujetan la eficacia a
-  hechos futuros e inciertos (autorizaciones, etc.).
-- **Forma:** la cláusula que exige que las modificaciones consten por escrito y, en su caso,
-  ante notario o en escritura pública.
-- **Cláusula de no dependencia (*non-reliance*) y de declaraciones:** delimita qué
-  manifestaciones cuentan, para controlar el riesgo de **error/dolo** por declaraciones
-  extracontractuales.
-- **Vicios y remedios:** el contrato puede pactar consecuencias de declaraciones falsas
-  (indemnización), articulando contractualmente lo que la ley trata como dolo/error.
-
-## 16. Cómo aparece en una empresa
-
-- **Actos corporativos como actos jurídicos:** la constitución de la sociedad, los acuerdos
-  de asamblea y de consejo, los aumentos de capital, las emisiones: todos son actos
-  jurídicos sujetos a existencia, validez y posibles nulidades.
-- **Nulidad de acuerdos sociales:** un acuerdo de asamblea tomado sin quórum, sin
-  convocatoria debida o con objeto ilícito puede ser **nulo**; su impugnación se rige por la
-  LGSM con apoyo supletorio en esta teoría.
-- **Representación orgánica:** la sociedad actúa por sus órganos (consejo, administrador,
-  apoderados). La validez de cada acto depende de que el firmante tenga **facultades**
-  vigentes y suficientes: revisar poderes es rutina diaria.
-- **Saneamiento societario:** ratificar actos celebrados sin facultades, confirmar acuerdos
-  anulables, protocolizar lo que requiere forma.
-
-## 17. Cómo aparece en una operación de M&A
-
-El M&A es teoría del acto jurídico a escala industrial. Conexiones precisas:
-
-- **El SPA es un acto jurídico bilateral:** requiere consentimiento (firma), objeto (las
-  acciones/activos, su precio) y, para ciertos efectos, forma (a veces escritura pública o
-  ratificación).
-- **Capacidad y *authority*:** las primeras *representations* del SPA son que cada parte
-  está **debidamente constituida** y que la persona que firma tiene **facultades** (poderes,
-  resoluciones del consejo). Es el requisito de validez "capacidad/representación" del acto.
-- **Representations & Warranties ≈ control de error y dolo:** las *reps* asignan quién
-  responde por la veracidad de los hechos. Una *rep* falsa a sabiendas es **dolo**
-  (*fraud*); una *rep* falsa sin culpa activa la **indemnización** contractual. El régimen
-  de *disclosure* sirve para **excluir el error/dolo** revelando la verdad.
-- **Conditions precedent ≈ condición suspensiva:** el *closing* solo ocurre si se cumplen
-  condiciones (autorizaciones COFECE/CNBV, *no MAC*, veracidad de *reps* a la fecha de
-  cierre). Pura modalidad del acto (art. 1938 ⟳ y ss. CCF).
-- **Nulidad vs. terminación:** distinguir si una patología hace el SPA **nulo** (vicio de
-  origen) o solo da derecho a **terminarlo/indemnizar** (incumplimiento posterior) define la
-  estrategia. La buena práctica anglosajona prefiere remedios contractuales (indemnity) a la
-  incierta nulidad civil.
-- **Saneamiento de defectos de la *target*:** en due diligence se detectan actos de la
-  sociedad objetivo afectados de nulidad (poderes mal otorgados, acuerdos sin quórum); se
-  exige **subsanarlos** como condición de cierre o se cubren con *specific indemnities*.
-
-> **Cómo razona el socio:** "Cuando reviso una *target*, busco actos potencialmente nulos
-> (¿quién firmó esos contratos clave?, ¿con qué facultades?, ¿hubo autorizaciones?). Cada
-> nulidad latente es un pasivo contingente: o se subsana antes del closing, o se traslada al
-> vendedor vía indemnización específica." Eso es teoría del acto jurídico convertida en
-> dinero.
-
-## 18. Cómo aparece en la práctica internacional
-
-- **Traducción de categorías:** *misrepresentation* (inocente, negligente, fraudulenta) ↔
-  error/dolo; *duress* y *undue influence* ↔ violencia; *mistake* ↔ error;
-  *unconscionability* ↔ lesión. El abogado cross-border mapea estas equivalencias y sus
-  distintos remedios (rescisión vs. *damages*).
-- **Capacidad y *authority* en operaciones internacionales:** se emiten **legal opinions**
-  que certifican la debida constitución, capacidad y facultades de las partes y la validez y
-  exigibilidad (*due authorization, execution and delivery; valid and binding*) del
-  contrato. Son la versión profesional del análisis de existencia/validez.
-- **Ley aplicable a la validez:** la validez sustantiva del acto puede regirse por una ley
-  distinta de la de la forma (*locus regit actum*); el derecho internacional privado decide.
-- **Buena fe precontractual:** sistemas civiles (y el Code francés reformado) imponen deberes
-  de información en la negociación; el common law es más reacio. Define cuánto debe revelarse
-  antes de firmar.
-
----
-
-## 19. Casos
-
-**Caso 1. Dolo por reticencia en una compraventa de empresa.** El vendedor calla un litigio
-millonario inminente que conocía. El comprador, tras el cierre, descubre el pasivo.
-*Análisis:* hay **dolo** por omisión (reticencia dolosa, arts. 1815-1816 CCF ⟳) si el silencio
-fue determinante; el comprador puede pedir **nulidad relativa** o **confirmar y reclamar
-daños**. En un SPA, esto se canaliza como *breach of representation* + indemnización (a
-menudo más eficiente que la nulidad).
-
-**Caso 2. Acto celebrado por falso representante.** Quien dice ser apoderado firma un
-contrato sin poder vigente. *Análisis:* el acto es **ineficaz frente al "representado"**,
-salvo **ratificación**. El tercero de buena fe puede invocar la apariencia (mandato
-aparente) según las circunstancias. *Lección:* verificar facultades es insustituible.
-
-**Caso 3. Objeto ilícito.** Dos partes pactan repartirse un mercado para excluir a
-competidores (práctica monopólica absoluta). *Análisis:* objeto/fin **ilícito** (contra el
-art. 28 ⟳ const. y la Ley de Competencia): **nulidad absoluta**, invocable por cualquiera, no
-convalidable, además de sanciones administrativas.
-
-## 20. Preguntas abiertas
-
-1. ¿Tiene sentido mantener la "inexistencia" como categoría distinta de la nulidad absoluta,
-   o el CCF conserva una distinción más teórica que práctica?
-2. ¿Debería el derecho mexicano, como el francés de 2016, abandonar la "causa" y hablar solo
-   de fin lícito?
-3. Entre partes sofisticadas y bien asesoradas (un M&A), ¿debería limitarse la posibilidad de
-   anular por error o lesión, en aras de la seguridad del tráfico?
-4. ¿Hasta dónde llega el deber de informar en la negociación? ¿Cuándo el silencio se vuelve
-   dolo?
-5. ¿La autonomía de la voluntad puede "contratar fuera" de las nulidades civiles mediante
-   remedios contractuales (indemnity), o el orden público lo impide?
-
-## 21. Preguntas tipo examen (con respuesta modelo)
-
-**P1. Elementos de existencia vs. requisitos de validez.** *R.* Existencia: consentimiento,
-objeto y (si la ley lo exige) solemnidad (art. 1794 ⟳); su falta = inexistencia (2224).
-Validez: capacidad, ausencia de vicios, licitud y forma (art. 1795 ⟳); su falta = nulidad
-absoluta (ilicitud) o relativa (incapacidad, vicios, forma).
-
-**P2. ¿Cuándo el error vicia el consentimiento?** *R.* Cuando recae sobre el **motivo
-determinante** de la voluntad (art. 1813 CCF ⟳). El error de cálculo solo da derecho a
-rectificación; el error indiferente no invalida.
-
-**P3. Diferencie nulidad absoluta y relativa.** *R.* Absoluta: protege el orden público,
-la invoca cualquiera, no se convalida por confirmación ni prescripción. Relativa: protege un
-interés particular, la invoca solo el afectado, se convalida por confirmación o prescripción
-(arts. 2226-2228 ⟳).
-
-**P4. ¿Qué es la lesión y qué remedios genera?** *R.* Desproporción enorme entre
-prestaciones por explotación de la suma ignorancia, notoria inexperiencia o extrema miseria
-(art. 17 CCF ⟳). Remedios: nulidad o reducción equitativa de la prestación.
-
-**P5. Un menor celebra un contrato sin representante. ¿Qué ineficacia opera?** *R.* Nulidad
-**relativa** (la incapacidad protege al menor); puede convalidarse al cesar la incapacidad o
-por prescripción, y solo la invoca el incapaz o su representante.
-
-## 22. Casos complejos (nivel "socio")
-
-**Caso A. Cadena de nulidades en una due diligence.** Al revisar una *target*, encuentras
-que: (i) un aumento de capital de hace 3 años se aprobó en una asamblea sin quórum; (ii)
-varios contratos clave fueron firmados por un "apoderado" cuyo poder había sido revocado;
-(iii) la empresa pactó con un competidor cláusulas de no competencia que rozan lo
-anticompetitivo. Clasifica cada vicio (inexistencia / nulidad absoluta / relativa),
-determina quién puede invocarlo y en qué plazo, evalúa qué puede **convalidarse** y diseña la
-solución transaccional: ¿condición de cierre para subsanar?, ¿indemnización específica?,
-¿ajuste de precio?, ¿*walk-right*? Argumenta el riesgo residual para el comprador.
-
-**Caso B. Error vs. asignación contractual del riesgo.** En un SPA, el comprador alega que
-celebró por **error** sobre la rentabilidad futura de la empresa, que resultó muy inferior a
-lo proyectado. El vendedor responde que el contrato **asignó ese riesgo** al comprador
-(cláusula de no dependencia en proyecciones; *as is* salvo *reps* expresas). Discute: ¿el
-error sobre expectativas futuras vicia el consentimiento o es riesgo asumido? ¿Qué peso tiene
-la cláusula de *non-reliance*? ¿Puede la autonomía de la voluntad excluir la acción de
-nulidad por error? Construye el argumento de cada parte y la solución que un tribunal o
-árbitro probablemente adoptaría, distinguiendo error sobre **hechos presentes** (protegible)
-de error sobre **expectativas** (riesgo del negocio).
-
-
----
-
-## 23. Flashcards
-
-- **¿Hecho jurídico vs. acto jurídico?** → En el hecho, el efecto no se quiere como tal; en
-  el acto, la voluntad busca el efecto jurídico.
-- **¿Elementos de existencia?** → Consentimiento, objeto y (si la ley lo exige) solemnidad
-  (art. 1794 CCF ⟳).
-- **¿Requisitos de validez?** → Capacidad, ausencia de vicios, licitud (objeto/motivo/fin) y
-  forma (art. 1795 CCF ⟳).
-- **¿Consecuencia de la inexistencia?** → No produce efecto alguno; no se convalida ni
-  prescribe (art. 2224 ⟳).
-- **¿Quién invoca la nulidad absoluta?** → Cualquier interesado; no se convalida (2225-2226).
-- **¿Se convalida la nulidad relativa?** → Sí, por confirmación o prescripción (2227-2228).
-- **¿Cuándo vicia el error?** → Si recae sobre el motivo determinante (art. 1813 ⟳).
-- **¿Qué es el dolo?** → Sugestión o artificio para inducir o mantener el error (art. 1815 ⟳);
-  vicia si es determinante.
-- **¿Qué es la lesión (art. 17 ⟳)?** → Desproporción enorme por explotación de ignorancia,
-  inexperiencia o miseria.
-- **¿Tres modalidades del acto?** → Condición, término (plazo) y modo (carga).
-- **¿Vicio típico de la representación?** → Falta o exceso de poder (acto ineficaz salvo
-  ratificación).
-- **¿Equivalente civil de la *misrepresentation*?** → Error/dolo según haya o no engaño.
-- **¿Árbol de diagnóstico?** → ¿Existe? → ¿Es lícito? → ¿Hubo capacidad, voluntad libre y
-  forma?
-
-## 24. Mapas mentales
-
+| **¿Se convalida?** | No | No (ni confirmación ni prescripción) | **Sí** (confirmación o prescripción) |
+| **Fundamento CCF ⟳** | 2224 | 2225-2226 | 2227-2228, 2231 |
+
+> 🧭 **Detente y piensa.** Ante cualquier acto cuestionado, el experto recorre **tres preguntas en orden** —un árbol de diagnóstico que resuelve el 90% de los problemas de ineficacia—: **(1) ¿Existe?** (¿hay consentimiento, objeto y, si aplica, solemnidad? Si no → **inexistencia**). **(2) Si existe, ¿es lícito?** (¿viola una norma de orden público? Si sí → **nulidad absoluta**). **(3) Si es lícito, ¿hubo capacidad, voluntad libre y forma?** (si falta capacidad, hubo vicio o falta forma → **nulidad relativa**). La clave que casi todos confunden: identificar el **interés protegido** —la nulidad **relativa** protege a un particular y por eso **se convalida** y solo la invoca el afectado; la **absoluta** protege a la sociedad y **no** se convalida—.
+
+**Respuesta al enigma del inicio:** el contrato celebrado por engaño determinante **existe** (hay
+consentimiento y objeto) y es **lícito**, pero el consentimiento está **viciado por dolo**. Es **válido pero
+anulable**: produce efectos hasta que la víctima ejerza la **nulidad relativa** (o confirme y reclame daños).
+No es inexistente ni nulo de pleno derecho. Por eso, en M&A, las *reps* falsas no "destruyen" el contrato
+automáticamente: **activan remedios** (indemnización y, en casos graves, rescisión).
+
+## 6. Modalidades y representación
+
+Las **modalidades** modulan la eficacia del acto: la **condición** (hecho futuro e incierto; base de las
+*conditions precedent* del SPA), el **término/plazo** (futuro y cierto; fija la exigibilidad) y el
+**modo/carga**. Y la **representación** permite que los efectos del acto recaigan en persona distinta de
+quien lo celebra —legal, **orgánica** (la persona moral actúa por sus órganos) o **voluntaria** (poder/
+mandato)—; sus vicios (**falta o exceso de poder**) hacen el acto **ineficaz** frente al representado salvo
+**ratificación**, y son fuente frecuente de litigio corporativo. La **interpretación** del acto busca la
+**intención común** real por encima de las palabras (arts. 1851 y ss. ⟳), a favor de la validez y la buena
+fe.
+
+## 7. Comparado y régimen mexicano
+
+La gran abstracción —el **negocio jurídico** (*Rechtsgeschäft*)— es obra de la Pandectística alemana
+(Savigny, Windscheid), que tomó los materiales romanos (*voluntas*, *dolus*, *error*, *causa*) y construyó
+una teoría unitaria (BGB, 1900). Sobre ella corre el debate **teoría de la voluntad** (vale lo que
+internamente quisiste) vs. **teoría de la declaración** (vale lo que declaraste —protege la confianza del
+tercero y la seguridad del tráfico—); el derecho moderno se inclina por la **declaración** con correctivos
+—de ahí las cláusulas de *entire agreement* y *non-reliance*—. Francia (Code reformado 2016) **eliminó la
+causa**, exigiendo contenido y fin lícitos. El **common law** no usa "acto jurídico": trabaja con *offer/
+acceptance*, ***consideration***, *capacity*, *legality* y *vitiating factors* (*misrepresentation* ≈ dolo/
+error; *duress* ≈ violencia; *unconscionability* ≈ lesión). **México** adopta una teoría de raíz francesa
+(influencia de Bonnecase) con arquitectura propia: existencia (1794), validez (1795), vicios (1812-1823 y 17
+—lesión—), licitud (1827-1831) e ineficacias escalonadas (2224-2242) ⟳. *Advertencia federalista:* la
+materia civil es **local**; verifica el código de la entidad.
+
+## 8. El acto jurídico en la empresa y el M&A — y qué enseña
+
+- **Actos corporativos = actos jurídicos:** la constitución de la sociedad, los acuerdos de asamblea y
+  consejo, los aumentos de capital y las emisiones están sujetos a existencia, validez y posibles nulidades
+  (un acuerdo sin quórum o sin convocatoria debida puede ser **nulo**).
+- **El SPA es un acto jurídico bilateral:** consentimiento (firma), objeto (acciones/activos, precio) y, para
+  ciertos efectos, forma. Sus primeras *reps* son que cada parte está **debidamente constituida** y que quien
+  firma tiene **facultades** (el requisito de "capacidad/representación").
+- **Nulidad vs. terminación:** distinguir si una patología hace el SPA **nulo** (vicio de origen) o solo da
+  derecho a **terminar/indemnizar** (incumplimiento posterior) define la estrategia.
+
+**¿Qué enseña la práctica?**
+
+- *Verificar facultades es insustituible* → firmar con quien carece de **poder suficiente y vigente** produce
+  un acto **ineficaz** frente al "representado": el error más caro y frecuente.
+- *Solo el dolo determinante vicia* → el *dolus bonus* (exageración propia del comercio) no anula.
+- *Las nulidades latentes de una target son pasivos contingentes* → se **subsanan** antes del cierre
+  (condición) o se **trasladan** al vendedor (indemnización específica).
+- *El orden público es muralla* → pactar contra una norma imperativa es nulidad, por más que las partes lo
+  quieran.
+
+## 9. Cómo razona un socio
+
+> *"El acto jurídico es el átomo de todo lo que hago. No memorizo requisitos: los uso como checklist de
+> riesgo. Ante cualquier operación me pregunto, en automático: ¿hay consentimiento libre de vicios?, ¿el
+> objeto es lícito y posible?, ¿se respetó la forma?, ¿quién firma tiene poder suficiente y vigente? Ahí está
+> el 90% de las nulidades. Cuando reviso una target, busco actos potencialmente nulos —¿quién firmó esos
+> contratos clave?, ¿con qué facultades?, ¿hubo autorizaciones?—: cada nulidad latente es un pasivo
+> contingente que o se subsana antes del closing, o se traslada al vendedor vía indemnización específica. Y
+> redacto reps y disclosure schedules con obsesión, porque fijan la declaración y desactivan el dolo. Mi
+> objetivo: que el acto sea inatacable."*
+
+## 10. Errores que cuestan millones
+
+1. **Firmar sin verificar facultades.** Un poder insuficiente o vencido hace que el acto **no obligue** a la
+   parte que se creía vinculada. *Prevención:* revisar poderes, actas y estatutos antes de firmar.
+2. **Ignorar un vicio del consentimiento** (dolo/error) que luego permite a la contraparte **anular**.
+   *Prevención:* due diligence, reps y disclosure robustos.
+3. **Confundir nulidad absoluta y relativa** (quién la alega, si se convalida, si prescribe): se calcula mal
+   el riesgo de que la operación se caiga. *Prevención:* aplicar el árbol de diagnóstico.
+4. **Descuidar la forma/solemnidad** exigida (inmuebles, ciertos poderes, modificaciones societarias):
+   nulidad relativa o inoponibilidad. *Prevención:* verificar la forma legal.
+5. **Pactar contra una norma imperativa** creyendo que "lo que las partes quieren, vale": el orden público
+   es infranqueable.
+
+## 11. Debate abierto (para desarrollar criterio)
+
+- ¿Debe prevalecer la **voluntad real** o la **declaración** externa cuando difieren? (La raíz de por qué las
+  reps se redactan con tanto cuidado.)
+- ¿Tiene sentido mantener la **inexistencia** como categoría distinta de la nulidad absoluta, o el CCF
+  conserva una distinción más teórica que práctica?
+- Entre partes **sofisticadas y bien asesoradas** (un M&A), ¿debería limitarse la posibilidad de anular por
+  **error** o **lesión**, en aras de la seguridad del tráfico?
+- ¿Puede la autonomía de la voluntad "contratar fuera" de las nulidades civiles mediante remedios
+  contractuales (indemnity), o el orden público lo impide? ¿Hasta dónde el silencio se vuelve **dolo**?
+
+## 12. Herramientas de trabajo
+
+**Árbol de diagnóstico (¿existe? → ¿lícito? → ¿válido?):**
 ```
-ACTO JURÍDICO
-├── UBICACIÓN
-│   └── Hecho jurídico (amplio) → hecho en sentido estricto / ACTO jurídico (negocio)
-├── EXISTENCIA (art. 1794)
-│   ├── Consentimiento
-│   ├── Objeto (posible, en el comercio, determinable)
-│   └── Solemnidad (si la ley la exige)  ──falta──► INEXISTENCIA (2224)
-├── VALIDEZ (art. 1795)
-│   ├── Capacidad ──falta──► nulidad relativa
-│   ├── Voluntad sin vicios ──falta──► nulidad relativa
-│   │   └── Vicios: ERROR · DOLO/mala fe · VIOLENCIA · LESIÓN
-│   ├── Licitud (objeto/motivo/fin) ──falta──► NULIDAD ABSOLUTA
-│   └── Forma ──falta──► nulidad relativa (subsanable, 2231)
-├── INEFICACIAS
-│   ├── Inexistencia: nada jurídica
-│   ├── Nulidad absoluta: orden público, no se convalida
-│   └── Nulidad relativa: interés particular, SE CONVALIDA
-├── MODALIDADES
-│   └── Condición · Término · Modo
-└── REPRESENTACIÓN
-    └── Legal · Orgánica · Voluntaria (poder/mandato)
+¿EXISTE? (consentimiento + objeto + solemnidad si aplica) ── no → INEXISTENCIA (2224 ⟳)
+   │ sí ▼
+¿ES LÍCITO? (objeto/motivo/fin conforme al orden público) ── no → NULIDAD ABSOLUTA (2225-2226 ⟳)
+   │ sí ▼
+¿HUBO capacidad, voluntad libre (sin vicios) y forma? ── no → NULIDAD RELATIVA (2227-2228 ⟳; se convalida)
+   │ sí ▼
+ACTO VÁLIDO Y EFICAZ
 ```
 
-**Puente con M&A:**
-`consentimiento → firma del SPA` · `capacidad/authority → reps de constitución y poderes`
-`error/dolo → reps & warranties + disclosure` · `condición → conditions precedent`
-`nulidad latente en la target → indemnización específica / condición de cierre`.
+**Checklist de validez de un acto/contrato:**
+- [ ] **¿Existe?** ¿consentimiento real, objeto posible y solemnidad (si aplica)?
+- [ ] **¿Capacidad?** ¿el firmante tiene **poder suficiente y vigente** (representación)?
+- [ ] **¿Voluntad libre?** ¿indicios de error, dolo, violencia o lesión?
+- [ ] **¿Licitud?** ¿el objeto/motivo/fin viola el orden público o las buenas costumbres?
+- [ ] **¿Forma?** ¿la ley exige escritura pública, ratificación o registro? ¿autorizaciones?
+- [ ] **¿Modalidades?** ¿condiciones, plazos, cargas bien redactados?
+- [ ] **Si hay vicio:** ¿anular o confirmar y reclamar daños? ¿prescribió? ¿se puede sanear
+  (ratificación/forma/confirmación)?
 
-## 25. Cuadros comparativos
+**Flashcards:**
+- *Hecho vs. acto jurídico* → efecto no querido como tal vs. efecto querido.
+- *Elementos de existencia (1794 ⟳)* → consentimiento, objeto, solemnidad.
+- *Requisitos de validez (1795 ⟳)* → capacidad, ausencia de vicios, licitud, forma.
+- *Inexistencia (2224 ⟳)* → no produce efecto alguno; no se convalida ni prescribe.
+- *Nulidad absoluta vs. relativa* → orden público, no se convalida / interés particular, **sí** se convalida.
+- *¿Cuándo vicia el error?* → si recae sobre el **motivo determinante** (1813 ⟳).
+- *Dolo (1815 ⟳)* → sugestión o artificio para inducir el error; vicia si es determinante.
+- *Lesión (17 ⟳)* → desproporción + explotación (subjetivo-objetiva).
+- *Modalidades* → condición, término, modo.
+- *Vicio de la representación* → falta/exceso de poder → ineficaz salvo ratificación.
+- *Equivalente civil de la misrepresentation* → error/dolo.
 
-**Las tres ineficacias**
+**Simulador (tipo despacho).**
+> **Rol:** asociado de M&A en una due diligence. **Hallazgos en la target:** (i) un aumento de capital de
+> hace 3 años se aprobó en asamblea **sin quórum**; (ii) contratos clave firmados por un "apoderado" cuyo
+> poder había sido **revocado**; (iii) cláusulas de no competencia con un competidor que **rozan lo
+> anticompetitivo**. **Entrega:** clasifica cada vicio (inexistencia / nulidad absoluta / relativa),
+> determina **quién** puede invocarlo y en qué **plazo**, evalúa qué puede **convalidarse**, y diseña la
+> solución transaccional (¿condición de cierre para subsanar?, ¿indemnización específica?, ¿ajuste de
+> precio?, ¿*walk-right*?). *La mejor respuesta aplica el árbol de diagnóstico, identifica el interés
+> protegido y traslada el riesgo residual al vendedor.*
 
-| | Inexistencia | Nulidad absoluta | Nulidad relativa |
-|---|---|---|---|
-| Causa | Falta elemento esencial | Ilicitud / orden público | Vicio, incapacidad, forma |
-| Invoca | Cualquiera | Cualquier interesado | Solo el afectado |
-| Convalidación | No | No | Sí (confirmación/prescripción) |
-| Efectos provisionales | No | Sí | Sí |
-| Base CCF | 2224 | 2225-2226 | 2227-2228 |
+## 13. Bibliografía por niveles
 
-**Vicios del consentimiento y su pariente anglosajón**
+- **Base mexicana:** Rojina Villegas, *Compendio de Derecho Civil* y *Derecho Civil Mexicano* t. III; Borja Soriano, *Teoría General de las Obligaciones*; Gutiérrez y González (nulidades); Domínguez Martínez, *Teoría general del acto jurídico*.
+- **Comparada:** Bonnecase (influencia directa en México); Betti, *Teoría general del negocio jurídico*; Von Tuhr, *Teoría general del Derecho Civil alemán*; Flume, *El negocio jurídico*.
+- **Positivo:** CCF arts. 6, 8, 17, 1794-1795, 1812-1823, 1827-1831, 1851-1859, 2224-2242 ⟳ (verificar el código de la entidad), en [`fuentes-legales/`](../../fuentes-legales/).
 
-| Vicio civil (México) | Concepto | Equivalente common law |
-|---|---|---|
-| Error | Falsa apreciación determinante | *Mistake* |
-| Dolo | Engaño que induce el error | *Fraudulent/negligent misrepresentation* |
-| Violencia | Fuerza o amenaza grave | *Duress* / *undue influence* |
-| Lesión | Desproporción + explotación | *Unconscionability* |
+## 14. Ruta al siguiente libro
 
-**Hecho vs. acto jurídico**
+Ya tienes el átomo. Ahora, su protagonista: el **sujeto** que emite la voluntad y soporta los efectos.
 
-| | Hecho jurídico | Acto jurídico |
-|---|---|---|
-| Voluntad del efecto | No querido como tal | Querido y buscado |
-| Ejemplo | Daño por negligencia | Contrato, testamento |
-| Vicios del consentimiento | No aplican | Aplican |
+- **Siguiente:** *[Personas](./05-Personas.md)* — persona física y moral, atributos (nombre, domicilio, patrimonio, **capacidad**, nacionalidad) y, crucial para el corporativo, la **persona moral** y su actuación por órganos y representantes. La **capacidad** (aquí "requisito de validez") y la **representación** se profundizan allí; y auditar la validez de los actos de la *target* (Nivel IV) es aplicar este libro.
 
-## 26. Mnemotecnias
-
-- **Elementos de existencia:** **"C-O-S"** → **C**onsentimiento, **O**bjeto,
-  **S**olemnidad.
-- **Requisitos de validez:** **"CA-VI-LI-FO"** → **CA**pacidad, ausencia de **VI**cios,
-  **LI**citud, **FO**rma.
-- **Vicios del consentimiento:** **"EDVL"** → **E**rror, **D**olo, **V**iolencia,
-  **L**esión.
-- **Modalidades:** **"CTM"** → **C**ondición, **T**érmino, **M**odo.
-- **Regla de convalidación:** *"la relativa se cura, la absoluta no"*.
-- **Diagnóstico:** *"Existe → Lícito → Válido"* (las tres preguntas en orden).
-
-## 27. Checklist del jurista (validez de un acto/contrato)
-
-- [ ] **¿Existe?** ¿Hay consentimiento real, objeto posible y, si aplica, solemnidad?
-- [ ] **¿Capacidad?** ¿Las partes son capaces? ¿El firmante tiene **poder suficiente y
-  vigente**?
-- [ ] **¿Voluntad libre?** ¿Hay indicios de error, dolo, violencia o lesión?
-- [ ] **¿Licitud?** ¿El objeto, motivo o fin contraría leyes de orden público o buenas
-  costumbres?
-- [ ] **¿Forma?** ¿La ley exige escritura pública, ratificación o registro?
-- [ ] **¿Autorizaciones?** ¿Se requieren permisos o aprobaciones para su eficacia?
-- [ ] **¿Modalidades?** ¿Condiciones, plazos o cargas bien redactados?
-- [ ] **Si hay vicio:** ¿conviene anular o confirmar y reclamar daños? ¿Prescribió la
-  acción?
-- [ ] **Saneamiento:** ¿puede subsanarse (ratificación, otorgamiento de forma, confirmación)?
-
-## 28. Resumen ejecutivo
-
-La Teoría General del Acto Jurídico explica cómo la **voluntad privada**, reconocida por el
-orden jurídico, crea, modifica o extingue derechos y obligaciones: es la teoría del poder de
-la **autonomía de la voluntad** y sus límites (orden público, normas imperativas, derechos de
-terceros). Distingue el **hecho jurídico** (efecto no querido como tal) del **acto jurídico**
-(efecto querido), y construye la arquitectura que usarás toda tu vida profesional: los
-**elementos de existencia** (consentimiento, objeto, solemnidad; art. 1794 CCF ⟳), los
-**requisitos de validez** (capacidad, ausencia de vicios, licitud, forma; art. 1795 ⟳) y el
-régimen escalonado de **ineficacias** —inexistencia (2224), nulidad absoluta (2225-2226) y
-nulidad relativa (2227-2228)—, junto con la teoría de los **vicios del consentimiento**
-(error, dolo, violencia, lesión), las **modalidades** (condición, término, modo) y la
-**representación**.
-
-Para el abogado corporativo esto no es teoría: es la mecánica de cada contrato. El SPA y sus
-*representations & warranties* son control de error y dolo; las *conditions precedent* son
-condiciones suspensivas; las nulidades latentes de una *target* son pasivos contingentes que
-se subsanan o se trasladan al vendedor. Quien domina el **árbol de diagnóstico**
-(¿existe? → ¿es lícito? → ¿es válido?) puede auditar la validez de cualquier operación,
-detectar riesgos antes de firmar y redactar contratos que resisten. Este es, literalmente,
-el cimiento técnico del derecho de los negocios.
-
-## 29. Bibliografía
-
-**Doctrina mexicana (prioritaria):**
-- Borja Soriano, Manuel, *Teoría General de las Obligaciones*, Porrúa.
-- Rojina Villegas, Rafael, *Derecho Civil Mexicano*, t. III (Obligaciones) y *Compendio de
-  Derecho Civil*, Porrúa.
-- Gutiérrez y González, Ernesto, *Derecho de las Obligaciones*, Porrúa.
-- Domínguez Martínez, Jorge Alfredo, *Derecho Civil. Teoría general del acto jurídico*,
-  Porrúa.
-- Sánchez Medal, Ramón, *De los Contratos Civiles*, Porrúa.
-
-**Doctrina comparada:**
-- Bonnecase, Julien, *Tratado Elemental de Derecho Civil* (influencia directa en México).
-- Planiol, Marcel y Ripert, Georges, *Tratado de Derecho Civil*.
-- Von Tuhr, Andreas, *Derecho Civil. Teoría general del derecho civil alemán*.
-
-**Legislación:**
-- Código Civil Federal: arts. 6, 8, 17, 1794-1795, 1812-1823, 1827, 1830-1831, 1851-1859,
-  1938 ⟳ y ss., 2224-2242. (Verificar el Código Civil de la entidad aplicable.)
-
-## 30. Ruta para continuar
-
-Ya tienes el átomo. Ahora estudiaremos a su protagonista: el **sujeto** que emite la
-voluntad y soporta los efectos del acto.
-
-- **Siguiente libro:** *Personas* (Nivel I, Libro 5): persona física y moral, atributos
-  (nombre, domicilio, patrimonio, capacidad, nacionalidad), y —crucial para el corporativo—
-  la **persona moral** y su capacidad de obrar a través de órganos y representantes.
-- **Conexión inmediata:** la **capacidad** que aquí fue "requisito de validez" se desarrolla
-  a fondo en Personas; la **representación** que vimos como mecanismo se profundiza allí.
-- **Conexión de largo alcance:** vuelve a las secciones 5.6 (ineficacias) y 17 (M&A) cuando
-  estudies la due diligence (Nivel IV): auditar la validez de los actos de la *target* es
-  aplicar este libro.
-
-> *"Pacta sunt servanda"*, pero solo los pactos **válidos** obligan. Aprendiste a distinguir
-> el pacto que vale del que se cae: esa es la frontera donde el abogado protege —o pierde— el
-> patrimonio de su cliente.
-
-
----
-
-## ✦ Secciones transversales V3 (enriquecimiento)
-
-> Añadidas para elevar este tratado al **estándar V3**: las cuatro secciones transversales que conectan la
-> materia con la práctica corporativa (Manifiesto Editorial). *Contenido conceptual; verifica toda cita.*
-
-### ✦ ¿Por qué esto importa para un abogado corporativo?
-
-Porque **todo el derecho corporativo se construye con actos jurídicos**: un contrato, una compraventa de
-acciones, un poder, una asamblea, una fusión, son actos jurídicos. Dominar sus **elementos de existencia**
-(consentimiento, objeto, solemnidad) y de **validez** (capacidad, ausencia de vicios, licitud, forma), y
-las consecuencias de su falta (**inexistencia, nulidad absoluta o relativa**), es saber **cuándo un acto es
-sólido y cuándo es atacable**. En un SPA, cada declaración, condición y garantía es un acto o modalidad que
-debe ser válido; un vicio del consentimiento (dolo, error) o un objeto ilícito pueden **anular** la
-operación. Esta es la gramática de todo lo que firmarás.
-
-### ✦ Cómo piensa un socio de un despacho internacional
-
-Un socio revisa cada documento preguntándose: **¿este acto existe y es válido? ¿es atacable?** Verifica
-capacidad y facultades (¿quién firma tiene poder suficiente?), busca **vicios del consentimiento** (dolo,
-error, violencia) que podrían anular, y cuida la **forma** exigida (una operación sobre inmuebles o
-acciones puede requerir formalidades). Piensa en **modalidades** (condición, plazo, cargo) como las
-palancas que reparten el riesgo temporal del *deal* (condiciones suspensivas al *closing*). Su obsesión: que
-el acto sea **inatacable**.
-
-### ✦ Errores que cuestan millones
-
-- **Firmar sin verificar facultades:** un poder insuficiente o vencido hace que el acto no obligue a la
-  parte que se creía vinculada.
-- **Ignorar un vicio del consentimiento** (dolo/error) que luego permite a la contraparte **anular** el
-  contrato.
-- **Descuidar la forma o solemnidad** exigida por la ley, tornando el acto inexistente o nulo.
-- **Confundir nulidad absoluta y relativa** (quién puede alegarla, si es confirmable, si prescribe) y
-  calcular mal el riesgo de que la operación se caiga.
-
-### ✦ Nivel de importancia profesional
-```
-Litigio              ★★★★☆
-Corporate            ★★★★★
-M&A                  ★★★★★
-Mercado de Valores   ★★★★☆
-Venture Capital      ★★★★☆
-Private Equity       ★★★★☆
-Gobierno Corporativo ★★★★☆
-Compliance           ★★★☆☆
-Derecho Bancario     ★★★★☆
-Empresa Familiar     ★★★★☆
-```
-*La teoría del acto jurídico es la **gramática de los contratos y operaciones**: se usa en cada documento
-del corporativo.*
-
-
----
-
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El acto jurídico es el **átomo** de todo lo que hace un corporativo: un contrato, un aumento de capital, una fusión, un voto en asamblea, son actos jurídicos. El socio no memoriza requisitos: los usa como **checklist de riesgo**. Ante cualquier operación se pregunta, en automático: ¿hay **consentimiento** libre de vicios?, ¿el **objeto** es lícito y posible?, ¿se respetó la **forma**? Ahí está el 90% de las nulidades.
-
-### Doctrina y debate
-- **Teoría del negocio jurídico (Savigny, Windscheid):** la *Willenstheorie* (teoría de la voluntad) frente a la *Erklärungstheorie* (teoría de la declaración): ¿vale lo que quisiste o lo que declaraste? El derecho moderno protege la **confianza** en la declaración (seguridad del tráfico).
-- **Betti (*Teoría general del negocio jurídico*):** el negocio como acto de **autonomía privada** con función económico-social.
-- **Von Tuhr; en México:** Rojina Villegas, Gutiérrez y González, Borja Soriano, Domínguez Martínez.
-- **Debate:** ¿voluntad real o declaración? Es la raíz de por qué las *representations & warranties* de un SPA se redactan con obsesión: fijan por escrito la "declaración" para no litigar la "voluntad".
-
-### Derecho comparado
-El **negocio jurídico** (alemán, *Rechtsgeschäft*) es más abstracto que el **acto jurídico** francés (Domat, Pothier) que heredó México. El *common law* no tiene "acto jurídico": razona sobre *contract* con su exigencia de **consideration** (contraprestación), inexistente en el civil law. Por eso un abogado mexicano debe cuidar que un contrato "traducido" del inglés no importe figuras (como la *consideration* nominal) que aquí sobran o fallan.
-
-### Caso real
-**Dolo en declaraciones de M&A:** cuando el vendedor oculta un pasivo (contingencia fiscal o litigio) y el comprador lo descubre tras el cierre, la vía es la **nulidad por vicio del consentimiento (dolo)** o la indemnización contractual. Por eso el SPA blinda con *disclosure schedules*: convierten lo "sabido" en oponible y desactivan el dolo.
-
-### Errores que cuestan millones
-- Confundir **inexistencia** (falta objeto/consentimiento, art. 2224 CCF ⟳), **nulidad absoluta** (objeto ilícito, art. 2225 ⟳) y **nulidad relativa** (vicios, art. 2228 ⟳): el régimen de convalidación y prescripción cambia por completo.
-- Descuidar la **forma** exigida (p. ej., escritura pública) y creer que "el fondo basta".
-
-### Preguntas
-- **Criterio:** ¿debe prevalecer la voluntad real o la declaración externa? Defienda una postura.
-- **Entrevista:** ¿cómo protege un contrato contra el dolo del vendedor?
-- **Examen:** distinga inexistencia, nulidad absoluta y relativa con sus efectos.
-
-### Bibliografía por niveles
-- **Básico:** Rojina Villegas, *Compendio de Derecho Civil*.
-- **Intermedio:** Gutiérrez y González, *Derecho de las Obligaciones*.
-- **Avanzado:** Betti, *Teoría general del negocio jurídico*.
-- **Internacional:** Von Tuhr, *Derecho Civil. Teoría general del Derecho Civil alemán*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El acto jurídico es el instrumento con que la **autonomía privada** crea derecho para sí misma: contratar, testar, votar en asamblea, aportar capital. Su teoría existe para determinar cuándo esa creación es **válida y eficaz** —y cuándo el ordenamiento la desconoce (nulidad). Es el átomo de toda operación corporativa.
-
-**El debate.** **Teoría de la voluntad (Savigny, Windscheid) vs. teoría de la declaración.** ¿Vale lo que internamente quisiste o lo que externamente declaraste? La voluntad protege al autor; la declaración protege la **confianza del tercero** y la seguridad del tráfico. El derecho moderno se inclina por la **declaración** (con correctivos por vicios), y por eso los contratos se redactan con obsesión: fijan la "declaración" para no litigar la "voluntad". **Betti** aportó la visión del negocio como acto de autonomía con **función económico-social** (no vale cualquier capricho, sino el que cumple una función tutelable).
-
-**Mirada de AED.** Las reglas sobre vicios del consentimiento (error, dolo) asignan el **riesgo de la información**: el dolo (engaño) traslada el riesgo al que engañó; el error unilateral, generalmente al que erró (salvo que fuera reconocible). Es la misma lógica de Akerlof: el derecho fuerza a revelar para que el intercambio sea eficiente. Las *reps & warranties* del SPA son esta teoría llevada a la ingeniería contractual.
-
-**Comparado y lección para México.** El **negocio jurídico** alemán (abstracto) vs. el **acto jurídico** francés (heredado por México) vs. el ***contract*** anglosajón (con *consideration*, sin categoría de "acto jurídico"). **Lección:** al importar contratos anglosajones, no trasplantar figuras vacías; anclar los vicios y la nulidad al CCF.
-
-**Crítica.** La teoría clásica del acto jurídico es criticada por **abstracta y formalista**; el AED la reinterpreta en clave de incentivos e información. La distinción inexistencia/nulidad absoluta/relativa, por su complejidad práctica.
-
-**Jurisprudencia y operación real.** El **dolo en declaraciones de M&A** (ocultar un pasivo) abre la vía de nulidad o indemnización; por eso el *disclosure schedule* "contractualiza" lo sabido y desactiva el dolo. En la práctica, el 90% de las nulidades nacen en el consentimiento (vicios), el objeto (ilícito) o la forma.
-
-**Para leer más:** Betti, *Teoría general del negocio jurídico*; Von Tuhr, *Teoría general del Derecho Civil alemán*; Flume, *El negocio jurídico*.
+> *"Pacta sunt servanda"*, pero solo los pactos **válidos** obligan. Aprendiste a distinguir el pacto que
+> vale del que se cae: esa es la frontera donde el abogado protege —o pierde— el patrimonio de su cliente.
