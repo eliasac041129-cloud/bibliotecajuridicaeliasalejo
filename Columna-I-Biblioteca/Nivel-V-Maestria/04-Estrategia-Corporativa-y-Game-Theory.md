@@ -1472,3 +1472,39 @@ formación: del técnico jurídico al **asesor estratégico integral**.
 > y, sobre todo, el **criterio y la integridad** que ninguna biblioteca enseña pero toda gran carrera
 > exige—. Ve y conviértete en uno de los mejores. **Aquí termina la biblioteca; aquí comienza tu
 > leyenda.**
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El abogado de élite piensa **varios movimientos por delante**, como en ajedrez: cada cláusula, cada oferta, cada carta a la contraparte provoca una **reacción**. La teoría de juegos le da el marco: anticipar la respuesta del otro y diseñar la jugada que lo lleva al resultado que conviene a su cliente. Estrategia es **elegir en qué juego jugar** y con qué reglas.
+
+### Doctrina y debate
+- **Equilibrio de Nash; dilema del prisionero:** por qué las partes racionales llegan a resultados subóptimos (carrera de garantías, guerra de ofertas) y cómo los **contratos y compromisos creíbles** los evitan.
+- **Juegos repetidos y reputación (Axelrod, *La evolución de la cooperación*):** por qué en relaciones de largo plazo conviene cooperar; la reputación como activo del despacho y del cliente.
+- **Estrategia (Porter, *cinco fuerzas*; Brandenburger & Nalebuff, *Co-opetition*):** el marco de negocio que el abogado debe entender para asesorar, no solo redactar.
+
+### Derecho comparado / práctica
+La teoría de juegos modela **OPAs hostiles y defensas** (*poison pill* como cambio de las reglas del juego), **subastas** (Disney–Fox), **litigio como amenaza creíble** y **negociación regulatoria**. Los fondos y bancos de inversión piensan así por default; el abogado que también lo hace se sienta en la mesa de estrategia.
+
+### Caso real
+**Guerra de ofertas Disney vs. Comcast por Fox (2018):** una **subasta** de manual —cada oferta modificaba el pago del otro—; entender la teoría del juego explica por qué Disney elevó a ~71,300 mdd ⚠️ *verificar*. **OPAs hostiles y *poison pills*:** defensas que alteran los incentivos del atacante (jurisprudencia *Unocal*/*Moran* en Delaware).
+
+### Errores que cuestan millones
+- Jugar un juego **de una sola vez** (exprimir) en una relación que es **repetida** (destruye reputación y trato futuro).
+- No anticipar la **reacción** de la contraparte o del regulador.
+
+### Preguntas
+- **Criterio:** ¿cuándo conviene "quemar las naves" (compromiso irreversible) en una negociación?
+- **Entrevista:** modele una guerra de ofertas como juego: ¿cuándo conviene retirarse?
+- **Examen:** explique el dilema del prisionero aplicado a un pacto entre competidores.
+
+### Bibliografía por niveles
+- **Básico:** Dixit & Nalebuff, *El arte de la estrategia*.
+- **Intermedio:** Brandenburger & Nalebuff, *Co-opetition*.
+- **Avanzado:** Axelrod, *La evolución de la cooperación*.
+- **Internacional:** Porter, *Competitive Strategy*.

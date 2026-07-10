@@ -726,3 +726,39 @@ Empresa Familiar     ★★★★☆
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 5 · Estándar V3. Contenido conceptual a 2026-07;
 verifica todo artículo (LFT/123), monto, plazo y régimen (IMSS, INFONAVIT, REPSE) contra su texto vigente
 (DOF y SJF).*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+En M&A, el pasivo laboral es de los que **más sorpresas dan**: sustitución patronal, pasivos por indemnización, riesgos de subcontratación (REPSE), sindicatos y PTU. El socio piensa en **contingencia y continuidad**: ¿qué obligaciones hereda el comprador?, ¿hay sindicato?, ¿la nómina esconde *outsourcing* ilegal? Un pasivo laboral no visto ajusta el precio o mata el *deal*.
+
+### Doctrina y debate
+- **Principio protector y estabilidad en el empleo** (art. 123 CPEUM ✅ ⟳): el derecho laboral como derecho social, no paritario.
+- **Sustitución patronal:** el adquirente hereda la relación laboral y sus antigüedades.
+- **Debate:** flexibilidad vs. protección; ¿la reforma de subcontratación (2021) protegió al trabajador o encareció la formalidad?
+
+### Derecho comparado
+EE. UU.: ***employment at will*** (despido libre, con excepciones) —opuesto a la estabilidad mexicana. La reforma laboral mexicana de **2019** (justicia laboral, nuevos Tribunales, libertad sindical, voto libre y secreto) responde a compromisos del **T-MEC** (Anexo laboral y mecanismo de respuesta rápida).
+
+### Caso real
+**Mecanismo Laboral de Respuesta Rápida (T-MEC, 2021-2024) ⚠️ *verificar*:** EE. UU. activó quejas contra plantas en México por libertad sindical; el incumplimiento amenazó con **aranceles**. Lección: hoy el derecho laboral mexicano es **materia de comercio internacional**; una violación sindical local puede costar el acceso al mercado estadounidense.
+
+### Errores que cuestan millones
+- No detectar ***outsourcing* ilegal** (post reforma REPSE 2021) en el DD.
+- Ignorar la **sustitución patronal** y heredar antigüedades y pasivos.
+
+### Preguntas
+- **Criterio:** ¿la estabilidad en el empleo protege al trabajador o desincentiva la contratación formal?
+- **Entrevista:** ¿qué pasivos laborales revisa antes de comprar una empresa?
+- **Examen:** explique la sustitución patronal (arts. relevantes LFT ⟳).
+
+### Bibliografía por niveles
+- **Básico:** De Buen, *Derecho del trabajo*.
+- **Intermedio:** De la Cueva, *El nuevo derecho mexicano del trabajo*.
+- **Avanzado:** análisis del capítulo laboral del T-MEC.
+- **Internacional:** convenios de la OIT (libertad sindical, 87 y 98).

@@ -965,3 +965,39 @@ posibles las grandes operaciones.
 > instrumentos se insertan en las grandes relaciones comerciales—, y más adelante, en el mercado de
 > valores y el M&A, llevaremos el crédito y el fideicomiso a su máxima escala. El financiamiento
 > corporativo del Nivel IV empieza a tomar forma.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Los títulos de crédito son **valor que circula**: incorporan un derecho en un documento (o registro) que se transmite con facilidad y da acción ejecutiva. El socio piensa en **liquidez y ejecutabilidad**: un pagaré bien hecho cobra por vía ejecutiva; una garantía documentada mal se vuelve un pleito ordinario de años. En financiamiento, el título es el instrumento que convierte una promesa en un activo negociable.
+
+### Doctrina y debate
+- **Principios cambiarios:** **incorporación, literalidad, autonomía y abstracción**. La autonomía protege al tercero de buena fe (adquiere un derecho "limpio", sin excepciones personales del deudor original).
+- **Vivante** (teoría clásica del título-valor) y su recepción latinoamericana (Cervantes Ahumada, Tena).
+- **Desmaterialización:** del papel al **registro electrónico** (valores anotados en cuenta): el título ya no necesita soporte físico. Debate sobre cómo sobreviven los principios cambiarios en lo digital.
+
+### Derecho comparado
+El *common law* regula los *negotiable instruments* en el **UCC Art. 3** con lógica muy similar (autonomía = *holder in due course*). La desmaterialización de valores (Euroclear, Indeval en México) es global. El corporativo que estructura emisiones debe manejar tanto el título tradicional como el valor anotado en cuenta.
+
+### Caso real
+**Usura y pagarés (SCJN):** las jurisprudencias *1a./J. 46/2014* y *47/2014* (⟳ verificar en SJF) facultaron al juez a **reducir de oficio** intereses notoriamente excesivos en pagarés. Cambió la práctica de cobranza en todo el país: hoy nadie redacta un pagaré sin cuidar la tasa. *(Ver [Banco de Jurisprudencia](../../Banco-de-Jurisprudencia/Criterios-Clave-por-Rama.md).)*
+
+### Errores que cuestan millones
+- Omitir un **requisito esencial** (art. 170 LGTOC ⟳) y perder la vía ejecutiva.
+- Pactar intereses **usurarios** reductibles por el juez, o no distinguir ordinarios de moratorios.
+
+### Preguntas
+- **Criterio:** ¿cómo sobreviven la literalidad y la autonomía en un mundo de valores electrónicos?
+- **Entrevista:** explique la autonomía cambiaria a un cliente que va a endosar un pagaré.
+- **Examen:** enuncie los cuatro principios de los títulos de crédito.
+
+### Bibliografía por niveles
+- **Básico:** Cervantes Ahumada, *Títulos y operaciones de crédito*.
+- **Intermedio:** Felipe de J. Tena, *Derecho mercantil mexicano*.
+- **Avanzado:** Vivante, *Tratado de derecho mercantil*.
+- **Internacional:** UCC Article 3 (*Negotiable Instruments*).

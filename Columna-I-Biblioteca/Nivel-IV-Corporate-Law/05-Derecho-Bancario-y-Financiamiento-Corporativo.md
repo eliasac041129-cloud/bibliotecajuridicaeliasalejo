@@ -1447,3 +1447,39 @@ un negociador y un estructurador mucho más completo.
 > orquestar la **operación completa**. Ahora cerramos la familia contractual de tu perfil: en el **Libro 6
 > · Contratos Estratégicos y Joint Ventures** aprenderás a estructurar la **colaboración** entre empresas
 > —las alianzas que crean valor sin comprar ni prestar, sino **uniendo fuerzas**—.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Financiar es **vender riesgo a cambio de rendimiento**. El socio que documenta un crédito piensa como el banco: *¿cómo me aseguro de que me paguen y qué hago si dejan de pagar?* La respuesta vive en tres piezas: **paquete de garantías**, ***covenants*** (obligaciones de hacer/no hacer y ratios financieros) y **cláusulas de incumplimiento (*events of default*) y aceleración**. Los *covenants* son **gobierno del acreedor**: controlan a la empresa sin ser dueños.
+
+### Doctrina y debate
+- **Los *covenants* como mitigadores del costo de agencia de la deuda** (Smith & Warner): el acreedor limita al accionista para que no expropie valor (endeudarse más, repartir dividendos, vender activos).
+- **Ratios típicos:** apalancamiento (*Deuda/EBITDA*), cobertura de servicio de deuda (*DSCR*), *interest coverage*. El abogado debe entender qué miden para negociar sus *headroom* y *cure rights*.
+- **Debate:** *covenant-lite* (poca protección, era de dinero barato) vs. protección robusta: ¿quién gana cuando el ciclo cambia?
+
+### Derecho comparado
+Dos estándares de documentación dominan: **LMA** (Loan Market Association, Europa) y **LSTA** (EE. UU.). El crédito sindicado, el *project finance* (con *waterfall* de pagos) y los bonos (*high yield*, con su *indenture*) son globales. México documenta bajo ley local o Nueva York según el acreedor.
+
+### Caso real
+**Silicon Valley Bank (marzo 2023):** un *bank run* clásico por **riesgo de duración** (cartera de bonos que perdió valor al subir tasas) tumbó al banco en días. **Credit Suisse (2023):** el rescate por UBS **borró ~17,000 mdd ⚠️ *verificar* en bonos AT1** antes que a los accionistas, alterando la prelación esperada y detonando litigios. Lección: la estructura de capital y la prelación no son teoría; se activan en 72 horas.
+
+### Errores que cuestan millones
+- *Covenants* mal calibrados (sin *headroom* ni *cure rights*): un trimestre malo dispara el *default*.
+- Paquete de garantías **no perfeccionado** o *intercreditor agreement* ambiguo sobre prelación.
+
+### Preguntas
+- **Criterio:** ¿los *covenant-lite* democratizan el crédito o siembran la próxima crisis?
+- **Entrevista:** explique un *leverage covenant* y qué pasa si se incumple.
+- **Examen:** distinga *covenant* afirmativo, negativo y financiero.
+
+### Bibliografía por niveles
+- **Básico:** guías LMA/LSTA (resúmenes).
+- **Intermedio:** Wood, *Law and Practice of International Finance*.
+- **Avanzado:** Smith & Warner, *On Financial Contracting* (covenants).
+- **Internacional:** Fuller, *Corporate Borrowing: Law and Practice*.

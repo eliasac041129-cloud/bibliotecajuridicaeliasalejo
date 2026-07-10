@@ -886,3 +886,39 @@ consumidor, es una destreza central.
 > subiremos de escala: cuando la empresa necesita **capital del público**, entra al **mercado de
 > valores** —emisoras, IPO, intermediarios y regulación—. El financiamiento corporativo a gran escala
 > y la antesala del M&A público nos esperan.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Los contratos mercantiles (comisión, suministro, distribución, franquicia, factoraje, arrendamiento financiero, *leasing*) son la **infraestructura de la cadena de valor** de la empresa. El socio los lee buscando **exclusividades, terminación, indemnización por clientela y competencia**: ahí están el riesgo y el poder de negociación. Y sabe que muchos son **atípicos**, integrados por analogía y por los usos del comercio.
+
+### Doctrina y debate
+- **Onerosidad y presunción de solidaridad** mercantil; los **usos y prácticas** como fuente.
+- **Contratos de colaboración vs. de cambio;** debate sobre la protección del distribuidor/franquiciatario como "parte débil" (indemnización por clientela, inspirada en la directiva europea de agencia).
+- **Atipicidad:** cómo se integran las lagunas (analogía con el tipo más cercano + buena fe).
+
+### Derecho comparado
+La **franquicia** y la **distribución** están más protegidas en la UE (indemnización por clientela del agente) que en México o EE. UU., donde domina la libertad contractual. El *leasing* (arrendamiento financiero) tiene tratamiento contable y fiscal específico (IFRS 16) que el abogado debe conocer para no crear pasivos ocultos.
+
+### Caso real
+**Terminación de distribución y "indemnización por clientela":** multinacionales que terminan a su distribuidor local enfrentan reclamos por la clientela generada. Diseñar bien la **cláusula de terminación y no competencia** evita indemnizaciones millonarias. Lección: en los contratos de canal, la salida se negocia en la entrada.
+
+### Errores que cuestan millones
+- Confundir **distribución** con **agencia** (regímenes de terminación distintos).
+- No regular la **terminación** ni el destino del *stock*, la clientela y la marca.
+
+### Preguntas
+- **Criterio:** ¿debe la ley proteger al distribuidor como "parte débil" o dejarlo a la libertad contractual?
+- **Entrevista:** ¿cómo redactaría la salida de un contrato de distribución exclusiva?
+- **Examen:** distinga comisión mercantil, distribución y franquicia.
+
+### Bibliografía por niveles
+- **Básico:** Arce Gargollo, *Contratos mercantiles atípicos*.
+- **Intermedio:** Vásquez del Mercado, *Contratos mercantiles*.
+- **Avanzado:** Broseta Pont, *Manual de derecho mercantil*.
+- **Internacional:** Principios UNIDROIT sobre los contratos comerciales internacionales.

@@ -728,3 +728,39 @@ Empresa Familiar     ★★★☆☆
 
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 3 · Estándar V3. Contenido conceptual a 2026-07;
 verifica toda norma, autoridad, artículo y criterio contra su texto vigente (DOF y SJF).*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Toda empresa regulada vive del derecho administrativo: permisos, concesiones, licencias, actos de autoridad, contratos con el Estado. El socio piensa en **acto administrativo** (sus elementos y vicios), en **discrecionalidad vs. arbitrariedad** y en las **vías de defensa** (recurso administrativo, juicio contencioso ante el TFJA, amparo). Regular bien la relación con el Estado evita que una firma pierda su licencia de operar.
+
+### Doctrina y debate
+- **Acto administrativo:** elementos, presunción de legalidad, ejecutividad y ejecutoriedad; nulidad y anulabilidad.
+- **Servicio público, concesión y regulación** (Jèze, Hauriou, la escuela francesa; en México, Fraga, Serra Rojas, Nava Negrete).
+- **Debate:** ¿*deference* a la autoridad regulatoria (como el *Chevron* estadounidense, revertido en 2024 por *Loper Bright* ⚠️) o control judicial estricto?
+
+### Derecho comparado
+Francia creó el derecho administrativo (*Conseil d'État*, arrêt *Blanco*). EE. UU. lo estructura vía *Administrative Procedure Act* y la doctrina *Chevron* (deferencia), recientemente limitada. México: **LFPA**, la **LFPCA** (juicio ante el TFJA ⟳) y órganos reguladores.
+
+### Caso real
+**Cancelaciones de permisos y contratos públicos en energía (México, 2019-2024) ⚠️ *verificar*:** disputas sobre permisos revocados escalaron a **arbitrajes de inversión (T-MEC/TLCUEM)**. Lección: el acto administrativo adverso a una inversión extranjera puede convertirse en reclamo internacional multimillonario.
+
+### Errores que cuestan millones
+- Dejar firme un acto por **no agotar** el recurso o el juicio en plazo.
+- Confundir **nulidad** y **anulabilidad** del acto administrativo (efectos distintos).
+
+### Preguntas
+- **Criterio:** ¿deben los jueces deferir al criterio técnico del regulador?
+- **Entrevista:** ¿qué vías tiene su cliente contra una multa administrativa?
+- **Examen:** enuncie los elementos del acto administrativo.
+
+### Bibliografía por niveles
+- **Básico:** Serra Rojas, *Derecho administrativo*.
+- **Intermedio:** Nava Negrete, *Derecho administrativo mexicano*.
+- **Avanzado:** García de Enterría, *Curso de Derecho Administrativo*.
+- **Internacional:** Craig, *Administrative Law*.

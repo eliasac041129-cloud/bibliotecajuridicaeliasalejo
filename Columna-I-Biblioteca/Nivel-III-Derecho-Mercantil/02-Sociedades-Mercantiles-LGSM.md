@@ -1031,3 +1031,39 @@ el que estructura operaciones sólidas y protege a su cliente.
 > gobierna** en una empresa. En el siguiente libro estudiaremos cómo esa empresa **mueve el crédito y
 > el pago** —los títulos y operaciones de crédito—, y más adelante, en el Nivel IV, juntaremos todo
 > para comprar y vender empresas. El M&A está a la vuelta.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+La sociedad es el **vehículo** de casi todo lo corporativo. El socio no memoriza los siete tipos: piensa en **atributos de diseño** —responsabilidad (limitada/ilimitada), gobierno (quién decide qué), transmisión de participaciones y régimen fiscal— y elige o combina el vehículo que asigna mejor el poder y el riesgo. La **S.A.** y la **S. de R.L.** concentran el 95% de la práctica; el resto es historia.
+
+### Doctrina y debate
+- **La empresa como "nexo de contratos" (Jensen & Meckling; Easterbrook & Fischel):** la sociedad no es una "cosa", sino una red de contratos entre aportantes de capital, administradores y acreedores. De ahí nacen los **costos de agencia**.
+- **Responsabilidad limitada:** ¿privilegio eficiente que fomenta la inversión (Hansmann & Kraakman) o traslado de riesgo a los acreedores? Debate central del derecho societario.
+- **Capital social:** su función de garantía está en crisis (tendencia a capitales mínimos simbólicos, *cf.* la S.A.S.).
+
+### Derecho comparado
+**Delaware** domina el derecho societario estadounidense (más de la mitad de las empresas listadas): su *Court of Chancery* y su cuerpo de precedentes (deberes fiduciarios, *business judgment rule*) son el estándar global. México se acerca vía gobierno corporativo (LMV) pero sin ese acervo jurisprudencial. La **S.A.S.** mexicana imitó la agilidad de la *LLC* y las *startups*.
+
+### Caso real
+***Business judgment rule* y deberes fiduciarios:** en Delaware, casos como *Smith v. Van Gorkom* (1985) impusieron a los consejeros el deber de **informarse** antes de aprobar una venta; *Revlon* (1986) fijó el deber de maximizar valor en una venta de control. Todo consejero mexicano de empresa listada opera hoy bajo principios equivalentes (deber de diligencia y lealtad, LMV ⟳).
+
+### Errores que cuestan millones
+- Elegir el **tipo social equivocado** (p. ej. S.A. donde convenía S. de R.L. por transparencia fiscal en EE. UU.).
+- Descuidar los **deberes fiduciarios** del consejo y exponerse a responsabilidad personal.
+
+### Preguntas
+- **Criterio:** ¿la responsabilidad limitada debería existir siempre? (Hansmann vs. críticos).
+- **Entrevista:** ¿S.A. o S. de R.L. para un fondo de EE. UU. que invierte en México, y por qué?
+- **Examen:** enuncie los deberes fiduciarios de los administradores.
+
+### Bibliografía por niveles
+- **Básico:** Mantilla Molina, *Derecho mercantil* (sociedades).
+- **Intermedio:** Barrera Graf, *Las sociedades en derecho mexicano*.
+- **Avanzado:** Easterbrook & Fischel, *The Economic Structure of Corporate Law*.
+- **Internacional:** Kraakman et al., *The Anatomy of Corporate Law*.

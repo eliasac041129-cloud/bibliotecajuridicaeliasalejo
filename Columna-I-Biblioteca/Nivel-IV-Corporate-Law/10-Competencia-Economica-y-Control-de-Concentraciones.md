@@ -844,3 +844,39 @@ sin los cuales ninguna operación grande se diseña ni se cierra.*
 
 *Nivel IV · Libro 10 · Competencia Económica y Control de Concentraciones. Estándar V3. Subordinado al
 Documento Fundacional AJE y al Protocolo de Verificación.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+En una M&A grande, hoy **el mayor riesgo no es financiar ni documentar: es que la autoridad de competencia diga no** (o imponga condiciones que maten las sinergias). El socio piensa en **teoría del daño**: ¿esta operación reduce la competencia?, ¿supera los umbrales de notificación?, ¿qué desinversiones (*remedies*) evitarían el bloqueo? La estrategia antimonopolio se diseña **antes** de firmar.
+
+### Doctrina y debate
+- **Escuela de Chicago (Bork, *The Antitrust Paradox*):** el único fin del derecho de competencia es el **bienestar del consumidor** (precios/eficiencia).
+- **Neo-brandeisianos (Lina Khan, *Amazon's Antitrust Paradox*, 2017):** el poder de mercado (sobre todo *big tech*) daña aunque los precios bajen; hay que mirar estructura y poder, no solo precio. **Este es el debate más caliente del derecho corporativo actual.**
+- **Prácticas:** monopólicas **absolutas** (carteles, per se ilícitas, art. 53 LFCE ⟳) vs. **relativas** (abuso de posición dominante, regla de la razón, art. 56 ⟳).
+
+### Derecho comparado
+EE. UU.: **Sherman Act (1890)** y **Clayton Act** (control de fusiones, *Hart-Scott-Rodino*); UE: **arts. 101 y 102 TFUE** y el Reglamento de Concentraciones. México: **LFCE** y —tras la reforma 2024-2025— la **Comisión Nacional Antimonopolio (CNA)**, que sustituyó a la COFECE ⟳.
+
+### Caso real
+**Microsoft–Activision (2023):** aprobada en EE. UU. y la UE pero **bloqueada inicialmente por la CMA británica**; se cerró tras reestructurar los derechos de *streaming*. **Grupo Modelo–AB InBev** exigió **desinvertir Corona en EE. UU.** **US v. Microsoft (2001)** definió el abuso de posición dominante en tecnología. Lección: la competencia es hoy el verdadero *gatekeeper* de las megafusiones.
+
+### Errores que cuestan millones
+- No notificar una **concentración** que superaba los umbrales (nulidad y multa, art. 86 LFCE ⟳).
+- Intercambiar información sensible con competidores en el DD (riesgo de **gun jumping**).
+
+### Preguntas
+- **Criterio:** ¿debe el derecho de competencia proteger solo al consumidor (Bork) o también la estructura del mercado (Khan)?
+- **Entrevista:** ¿cómo evaluaría el riesgo antimonopolio de una fusión antes de firmar?
+- **Examen:** distinga prácticas monopólicas absolutas y relativas.
+
+### Bibliografía por niveles
+- **Básico:** guías de la CNA/COFECE sobre concentraciones.
+- **Intermedio:** Whish & Bailey, *Competition Law*.
+- **Avanzado:** Bork, *The Antitrust Paradox*.
+- **Internacional:** Lina Khan, *Amazon's Antitrust Paradox* (Yale Law Journal, 2017).

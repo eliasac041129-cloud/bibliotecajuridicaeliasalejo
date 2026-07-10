@@ -960,3 +960,39 @@ distingue al abogado de negocios completo.
 > libro para cerrar el Nivel III: el **gobierno corporativo**, que busca **prevenir** la crisis con
 > buenos consejos y deberes fiduciarios, y que es la puerta directa al **Nivel IV: Corporate Law y
 > M&A**. El objetivo está cada vez más cerca.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+La insolvencia es un **juego de suma (casi) cero** por el valor que queda: el derecho concursal decide **quién cobra, cuánto y en qué orden**, y si la empresa se **reorganiza** (conciliación) o se **liquida** (quiebra). El socio piensa en **posición relativa**: dónde queda su cliente en la prelación, si su garantía resiste, y si conviene empujar la reestructura o la venta. Aquí el tiempo destruye valor: la velocidad es estrategia.
+
+### Doctrina y debate
+- ***Creditors' bargain theory* (Thomas Jackson):** el derecho concursal simula el acuerdo que los acreedores habrían pactado *ex ante* para evitar la "carrera" por los activos.
+- ***Absolute priority rule*:** los acreedores cobran antes que los accionistas; debate sobre sus excepciones (*new value*).
+- **Reorganización vs. liquidación:** ¿preservar la empresa en marcha (valor going concern) o liquidar? El sesgo pro-reorganización de la LCM y del Chapter 11 tiene críticos.
+
+### Derecho comparado
+El **Chapter 11** estadounidense (deudor en posesión, *DIP financing*, *automatic stay*) es el modelo global de reorganización. La **LCM** mexicana (conciliación + quiebra, IFECOM) se inspira en él y en la **Ley Modelo UNCITRAL** sobre insolvencia transfronteriza. Reino Unido usa *administration* y *schemes of arrangement*.
+
+### Caso real
+**Vitro (2010-2013) ⚠️ *verificar*:** célebre caso **transfronterizo** donde un concurso mexicano chocó con acreedores en EE. UU. (reconocimiento, *comity*, trato a garantías intragrupo). **Aeroméxico** y **Grupo Oro Negro** litigaron su reestructura entre México y el Chapter 11. Lección: la insolvencia moderna es **multijurisdiccional**; quien domina ambas sillas gana.
+
+### Errores que cuestan millones
+- Llegar tarde: no detectar el **incumplimiento generalizado** (art. 10 LCM ⟳) y perder opciones de reestructura.
+- Descuidar la **perfección de garantías** antes de la insolvencia (se vuelven quirografarias).
+
+### Preguntas
+- **Criterio:** ¿el derecho debe favorecer reorganizar o liquidar a la empresa insolvente?
+- **Entrevista:** ¿qué es el *automatic stay* y por qué cambia la negociación?
+- **Examen:** distinga las etapas de conciliación y quiebra en la LCM.
+
+### Bibliografía por niveles
+- **Básico:** Dávalos Mejía, *Títulos y contratos de crédito, quiebras*.
+- **Intermedio:** análisis de la LCM y del IFECOM.
+- **Avanzado:** Thomas Jackson, *The Logic and Limits of Bankruptcy Law*.
+- **Internacional:** UNCITRAL Model Law on Cross-Border Insolvency; US Bankruptcy Code (Chapter 11).

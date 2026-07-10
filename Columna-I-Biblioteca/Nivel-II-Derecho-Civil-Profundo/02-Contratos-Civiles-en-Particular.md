@@ -962,3 +962,39 @@ que cuestan millones**.
 > veremos qué ocurre cuando algo sale mal —la **responsabilidad civil**—, la materia que da
 > contenido y límite a toda **indemnización**. Seguimos construyendo al abogado de M&A, contrato a
 > contrato.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Los contratos "civiles en particular" (compraventa, arrendamiento, mandato, mutuo, prenda, depósito, comodato, fianza) son los **ladrillos** con que se arman los contratos corporativos complejos: un SPA es una compraventa cualificada; un crédito es un mutuo con garantías; un *escrow* combina depósito y mandato. El socio reconoce el **tipo contractual base** para importar su régimen supletorio y anticipar qué calla el contrato que la ley ya resuelve.
+
+### Doctrina y debate
+- **Contratos típicos vs. atípicos y mixtos:** cómo integrar lagunas (analogía con el tipo más cercano).
+- **Compraventa** como contrato madre (art. 2248 CCF ⟳): obligaciones de sanear por **vicios ocultos** y por **evicción** —directamente conectadas con las *representations & warranties* del SPA.
+- **Mandato y representación** (base de todo poder corporativo).
+
+### Derecho comparado
+El *civil law* regula minuciosamente cada contrato típico; el *common law* deja más al acuerdo de las partes y a *implied terms*. En compraventa internacional, la **CISG** desplaza al derecho local salvo pacto en contrario: un detalle que decide qué régimen de saneamiento aplica en una operación transfronteriza.
+
+### Caso real
+**Saneamiento por evicción y vicios en M&A:** cuando tras comprar una empresa aparece que un activo clave no era del vendedor (evicción) o tenía un defecto oculto (contingencia), el comprador acude al régimen de saneamiento **más** a las garantías contractuales. Por eso el SPA "contractualiza" y amplía lo que el Código ya prevé.
+
+### Errores que cuestan millones
+- No pactar el **saneamiento** y depender solo del mínimo legal.
+- Usar un tipo contractual equivocado (llamar "arrendamiento" a lo que es *leasing* financiero, con efectos fiscales distintos ⟳).
+
+### Preguntas
+- **Criterio:** ¿conviene "contractualizar" garantías que la ley ya da? ¿Por qué el mercado lo hace?
+- **Entrevista:** ¿qué obligación de saneamiento del vendedor refuerza en un SPA?
+- **Examen:** distinga vicios ocultos y evicción.
+
+### Bibliografía por niveles
+- **Básico:** Zamora y Valencia, *Contratos civiles*.
+- **Intermedio:** Sánchez Medal, *De los contratos civiles*.
+- **Avanzado:** Lorenzetti, *Tratado de los contratos*.
+- **Internacional:** CISG (Convención de Viena, 1980); Schlechtriem & Schwenzer, *Commentary on the CISG*.

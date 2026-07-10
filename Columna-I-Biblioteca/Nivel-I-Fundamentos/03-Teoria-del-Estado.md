@@ -833,3 +833,40 @@ Derecho Bancario     ★★★★☆
 Empresa Familiar     ★★☆☆☆
 ```
 *Entender el Estado y sus autoridades es la base del **riesgo regulatorio**, que decide muchas operaciones.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El abogado corporativo trata con el Estado todos los días: regulador, recaudador, autorizador de concentraciones, contraparte en contratos públicos. Entender **de dónde viene el poder del Estado y cuáles son sus límites** es lo que separa a quien negocia una regulación de quien solo la padece. El socio piensa en **legitimidad, competencia y límites** del poder.
+
+### Doctrina y debate
+- **Contractualismo:** Hobbes (*Leviatán*: el Estado como pacto para escapar de la guerra de todos contra todos), Locke (límites y propiedad), Rousseau (voluntad general).
+- **Jellinek (*Teoría General del Estado*):** los tres elementos —**población, territorio y poder (soberanía)**— y la doctrina de la autolimitación del Estado.
+- **Weber:** el Estado como el monopolio del **uso legítimo de la violencia** física en un territorio.
+- **Schmitt vs. Kelsen:** ¿la soberanía es "quien decide sobre el estado de excepción" (Schmitt) o una construcción normativa (Kelsen)? Debate que reaparece en cada emergencia.
+
+### Derecho comparado
+**Presidencialismo** (México, EE. UU.) vs. **parlamentarismo** (Reino Unido, España): en el primero, Ejecutivo y Legislativo se eligen por separado y hay rigidez; en el segundo, el gobierno emana del parlamento y puede caer por moción de censura. El **federalismo** mexicano (art. 40 CPEUM ⟳) reparte competencias como el estadounidense, pero con un centralismo fiscal mucho mayor.
+
+### Caso real
+**La reforma judicial mexicana (DOF 15-sep-2024 ⟳):** la elección de jueces por voto popular reabrió el debate clásico sobre la **división de poderes** y la independencia judicial (Montesquieu, *El espíritu de las leyes*). Es teoría del Estado en tiempo real, con impacto directo en la seguridad jurídica que evalúa todo inversionista.
+
+### Errores que cuestan millones
+- Subestimar el **riesgo regulatorio y político** (soberanía = el Estado puede cambiar las reglas) en operaciones de largo plazo.
+- Ignorar el reparto **federal/local** de competencias al planear una operación.
+
+### Preguntas
+- **Criterio:** ¿la elección popular de jueces fortalece o debilita el Estado de derecho?
+- **Entrevista:** ¿qué es la soberanía y por qué le importa a un inversionista extranjero?
+- **Examen:** enuncie los elementos del Estado según Jellinek.
+
+### Bibliografía por niveles
+- **Básico:** Porrúa Pérez, *Teoría del Estado*.
+- **Intermedio:** Jellinek, *Teoría General del Estado*.
+- **Avanzado:** Hermann Heller, *Teoría del Estado*; Weber, *La política como vocación*.
+- **Internacional:** Bobbio, *Estado, gobierno y sociedad*.

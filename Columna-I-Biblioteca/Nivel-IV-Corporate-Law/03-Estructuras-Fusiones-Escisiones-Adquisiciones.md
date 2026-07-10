@@ -1457,3 +1457,39 @@ buscan para sus operaciones más importantes.
 > todo en **texto vinculante**: avanzamos al **Libro 4 · Documentación**, donde aprenderás, cláusula por
 > cláusula, el Term Sheet, el SPA, el APA y el SHA —el lenguaje en el que se escriben los deals—. La cadena
 > del M&A se completa: **investigar → estructurar → documentar**.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+La **estructura** es donde el abogado corporativo crea (o destruye) más valor: la misma operación —comprar un negocio— puede costar millones de más o de menos según se haga por **acciones (*share deal*) o activos (*asset deal*)**, por **fusión, escisión** o mediante un *holding*. El socio piensa en cuatro ejes simultáneos: **riesgo (pasivos), fiscalidad, control y aprobaciones regulatorias**. La estructura óptima equilibra los cuatro.
+
+### Doctrina y debate
+- ***Share deal* vs. *asset deal*:** en el primero se hereda la sociedad con **todos sus pasivos** (ocultos incluidos); en el segundo se eligen activos y pasivos, pero se disparan costos fiscales y de transferencia y consentimientos de terceros.
+- **Fusión (por absorción o por integración) y escisión:** neutralidad fiscal si se cumplen requisitos (⟳ verificar CFF/LISR).
+- **Debate:** ¿la neutralidad fiscal de las reestructuras es un beneficio legítimo o una puerta a la elusión? Conecta con la **razón de negocios** (art. 5-A CFF ⟳).
+
+### Derecho comparado
+En EE. UU. la **reorganización tipo A/B/C** del *Internal Revenue Code* define la neutralidad fiscal; existen figuras (*triangular mergers*, *reverse triangular merger*) diseñadas para preservar contratos y beneficios. México reconoce fusión y escisión (LGSM ⟳) con su propia neutralidad fiscal condicionada.
+
+### Caso real
+**Grupo Modelo–AB InBev (2013, ~20,100 mdd ⚠️ *verificar*):** para obtener luz verde antimonopolio en EE. UU. (DOJ), la estructura tuvo que incluir la **desinversión de Corona en EE. UU.** (venta a Constellation Brands). Lección: la estructura no la dicta solo la fiscalidad; la **autoridad de competencia rediseña el deal**.
+
+### Errores que cuestan millones
+- Elegir *share deal* sin blindaje y **heredar un pasivo fiscal/ambiental** oculto.
+- Perder la **neutralidad fiscal** por incumplir un requisito formal de la fusión/escisión (⟳).
+
+### Preguntas
+- **Criterio:** ¿*share* o *asset deal* para comprar una empresa con litigios ambientales? Justifique.
+- **Entrevista:** ¿por qué un comprador preferiría un *reverse triangular merger*?
+- **Examen:** distinga fusión por absorción y escisión.
+
+### Bibliografía por niveles
+- **Básico:** notas de estructuración de M&A (firmas mexicanas).
+- **Intermedio:** Depamphilis, *Mergers & Acquisitions*.
+- **Avanzado:** Ginsburg & Levin, *Mergers, Acquisitions, and Buyouts* (fiscal-estructural).
+- **Internacional:** IRC Subchapter C (reorganizaciones), materiales comparados.

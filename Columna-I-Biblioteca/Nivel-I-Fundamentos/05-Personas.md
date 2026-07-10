@@ -831,3 +831,38 @@ Empresa Familiar     ★★★★★
 ```
 *La persona moral es el **sujeto central** del derecho corporativo; su personalidad, capacidad y
 representación se verifican en cada operación.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+En un cierre, lo primero que revisa un socio no es el precio: es **quién firma y con qué facultades**. Persona, capacidad y representación son el terreno donde se caen las operaciones. Un poder mal otorgado o insuficiente (para actos de dominio, de administración o pleitos y cobranzas) puede volver **inoponible** todo el contrato. El corporativo piensa en **legitimación**: no basta querer obligarse, hay que **poder** hacerlo.
+
+### Doctrina y debate
+- **Naturaleza de la persona moral:** teoría de la **ficción** (Savigny: la persona jurídica es una creación del derecho) frente a la teoría de la **realidad** (Gierke: es un ente real con voluntad propia). El debate no es académico: determina hasta dónde se le imputan dolo, responsabilidad penal (*compliance*) y derechos fundamentales.
+- **Atributos de la personalidad:** nombre, domicilio, patrimonio, nacionalidad, capacidad; en la persona moral, además, **objeto social** (límite de su capacidad: doctrina *ultra vires*).
+
+### Derecho comparado
+La **responsabilidad limitada** y la personalidad separada de la sociedad son universales, pero su excepción —el **levantamiento del velo corporativo** (*piercing the corporate veil*)— se aplica con criterios más desarrollados en EE. UU. (fraude, *alter ego*, infracapitalización) que en México, donde es excepcional. El abogado transfronterizo debe saber **cuándo el velo protege y cuándo se rasga**.
+
+### Caso real
+**Estructuras de *holding* y velo corporativo:** en fraudes como **Enron** (2001), la manipulación mediante entidades de propósito específico (SPE) mostró el lado oscuro de la personalidad separada; la respuesta regulatoria (Sarbanes-Oxley) reforzó la responsabilidad de administradores. Lección: la persona moral es un escudo legítimo, no una capa de invisibilidad.
+
+### Errores que cuestan millones
+- Firmar con un apoderado **sin facultades para actos de dominio** (art. 2554 CCF ⟳): el acto no obliga a la sociedad.
+- No verificar la **vigencia del poder** ni su eventual revocación en el *closing*.
+
+### Preguntas
+- **Criterio:** ¿la persona moral "existe" o es una ficción útil? ¿Debe tener derechos humanos?
+- **Entrevista:** ¿qué revisaría del poder del firmante antes de un cierre?
+- **Examen:** enuncie los atributos de la personalidad de las personas física y moral.
+
+### Bibliografía por niveles
+- **Básico:** Galindo Garfias, *Derecho Civil. Primer curso*.
+- **Intermedio:** Rojina Villegas, *Compendio de Derecho Civil*.
+- **Avanzado:** Gierke, *Das Wesen der menschlichen Verbände* (naturaleza de las asociaciones).
+- **Internacional:** Easterbrook & Fischel, *The Economic Structure of Corporate Law* (persona moral e incentivos).

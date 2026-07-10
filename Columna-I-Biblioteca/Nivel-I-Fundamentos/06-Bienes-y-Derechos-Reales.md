@@ -862,3 +862,38 @@ Empresa Familiar     ★★★★☆
 ```
 *Bienes y garantías reales son el corazón de los **asset deals** y del **financiamiento garantizado**
 (banca).*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+En financiamiento y garantías, la pregunta del socio es: **¿qué tengo, cómo lo aseguro y en qué lugar quedo si el deudor cae?** Ahí la distinción entre **derecho real** (sobre la cosa, oponible *erga omnes*, con persecución y preferencia) y **derecho personal** (frente a una persona) lo es todo: un acreedor con garantía real cobra antes; uno quirografario, al final. El corporativo piensa en **prelación**.
+
+### Doctrina y debate
+- **Derecho real vs. personal:** la teoría clásica (poder directo sobre la cosa) frente a la teoría **obligacionista** (Planiol: todo derecho real esconde una obligación pasiva universal) y la tesis intermedia de **Ginossar**.
+- ***Numerus clausus*:** los derechos reales son típicos y tasados por la ley (no se crean por contrato), a diferencia de los contratos (atípicos permitidos). Debate: ¿por qué el mercado no puede "inventar" derechos reales?
+
+### Derecho comparado
+La propiedad **unitaria** del *civil law* contrasta con la propiedad **fragmentada** del *common law* (doctrina de *estates* y *title*: *fee simple*, *leasehold*, etc.). En garantías, el **Artículo 9 del UCC** estadounidense creó el concepto unificado de *security interest* con registro (*filing*) —modelo que inspiró las garantías mobiliarias modernas (RUG en México ⟳).
+
+### Caso real
+**Garantías mobiliarias en el crédito corporativo:** la prenda sin transmisión de posesión y el fideicomiso de garantía permiten a una empresa financiarse sin entregar sus activos productivos. En reestructuras (p. ej. **Aeroméxico**, Chapter 11, 2020-2022 ⚠️ *verificar*), la posición de cada acreedor dependió de la **naturaleza y perfección** de su garantía real.
+
+### Errores que cuestan millones
+- Constituir una garantía y **no perfeccionarla/inscribirla**: frente a terceros, no existe.
+- Confundir **posesión** con **propiedad** en el *due diligence* de activos.
+
+### Preguntas
+- **Criterio:** ¿por qué el derecho impide crear derechos reales por contrato (*numerus clausus*)?
+- **Entrevista:** ordene la prelación entre un acreedor hipotecario, uno prendario y uno quirografario.
+- **Examen:** distinga derecho real y derecho personal con tres consecuencias prácticas.
+
+### Bibliografía por niveles
+- **Básico:** Rojina Villegas, *Bienes, derechos reales y sucesiones*.
+- **Intermedio:** Ibarrola, *Cosas y sucesiones*.
+- **Avanzado:** Planiol y Ripert, *Tratado práctico de Derecho Civil*.
+- **Internacional:** Merrill & Smith, *Property: Principles and Policies*.

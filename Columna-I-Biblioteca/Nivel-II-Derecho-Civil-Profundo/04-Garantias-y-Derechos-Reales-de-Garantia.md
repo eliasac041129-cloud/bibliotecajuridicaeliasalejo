@@ -920,3 +920,39 @@ de las especialidades mejor pagadas del mercado.
 > corporativa—. Ahora ese sistema se "vestirá de empresa": entramos al **Nivel III · Derecho
 > Mercantil**, donde la sociedad anónima, el título de crédito y la emisora bursátil te convertirán
 > en especialista. El M&A está cada vez más cerca.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Las garantías son **el corazón del financiamiento**. La pregunta del socio y del banco es siempre la misma: *si el deudor no paga, ¿de qué me cobro, con qué rapidez y antes que quién?* Dominar prenda, hipoteca, fianza, aval, fideicomiso de garantía y garantías mobiliarias —y su **perfección y prelación**— es lo que permite estructurar deuda que el mercado acepta.
+
+### Doctrina y debate
+- **Accesoriedad:** la garantía sigue a lo principal; si la obligación se nova, la garantía puede extinguirse (clave en reestructuras).
+- **Prohibición del pacto comisorio:** el acreedor no puede quedarse la cosa sin proceso; debate moderno frente a los **pactos marcianos** y la ejecución extrajudicial que buscan agilidad.
+- **Garantías mobiliarias sin desposesión** (prenda sin transmisión de posesión, RUG): permiten financiar sin paralizar la operación de la empresa.
+
+### Derecho comparado
+El **Artículo 9 del UCC** (EE. UU.) unificó las garantías mobiliarias bajo el concepto de *security interest* con registro (*perfection by filing*) y reglas claras de prelación (*first to file*). La *Ley Modelo de la OEA* y las reformas mexicanas (RUG) siguen ese modelo. En hipoteca inmobiliaria, la inscripción registral define la prelación (*prior tempore, potior iure*).
+
+### Caso real
+**Reestructuras y "batalla de garantías":** en concursos como **Vitro** o **Aeroméxico** ⚠️ *verificar*, el resultado dependió de quién tenía garantías **reales y perfeccionadas** frente a acreedores quirografarios. La diferencia entre recuperar 90 centavos o 10 por peso estuvo en la calidad de la garantía.
+
+### Errores que cuestan millones
+- **No perfeccionar** (inscribir/notificar) la garantía: existe entre partes pero no frente a terceros.
+- Aceptar una garantía sobre un bien ya gravado sin verificar la **prelación**.
+
+### Preguntas
+- **Criterio:** ¿debe permitirse la ejecución extrajudicial de garantías para dar celeridad, o protege al deudor la vía judicial?
+- **Entrevista:** ordene la prelación entre hipoteca inscrita, prenda registrada y crédito quirografario.
+- **Examen:** explique la prohibición del pacto comisorio y su razón.
+
+### Bibliografía por niveles
+- **Básico:** Rojina Villegas, *Bienes y derechos reales*.
+- **Intermedio:** Domínguez Martínez, *Derecho civil. Contratos*.
+- **Avanzado:** Vásquez del Mercado, *Contratos mercantiles* (garantías).
+- **Internacional:** UCC Article 9; Ley Modelo Interamericana sobre Garantías Mobiliarias (OEA).

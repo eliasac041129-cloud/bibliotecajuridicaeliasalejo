@@ -694,3 +694,39 @@ Empresa Familiar     ★★★☆☆
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 7 · Estándar V3. Contenido conceptual a 2026-07;
 verifica todo artículo, plazo, clase y requisito contra su texto vigente (LFPPI, LFDA, T-MEC) en el DOF y
 ante el IMPI/INDAUTOR.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+En la economía del conocimiento, **el activo más valioso de muchas empresas es intangible**: marcas, patentes, software, secretos industriales. En una adquisición tecnológica, el socio hace **IP due diligence**: ¿la empresa **es dueña** de su tecnología o la licencia?, ¿los empleados cedieron su creación?, ¿hay infracción de terceros? Comprar una *startup* sin verificar su IP es comprar una caja que puede estar vacía.
+
+### Doctrina y debate
+- **Fundamento:** teoría **utilitarista** (la PI como incentivo a innovar, monopolio temporal a cambio de divulgación) vs. teoría del **derecho natural** del creador (Locke, trabajo intelectual).
+- ***Tragedy of the anticommons* (Heller):** demasiadas patentes fragmentadas frenan la innovación (*patent thickets*).
+- **Debate:** ¿la PI fomenta o asfixia la innovación? (patentes farmacéuticas, *patent trolls*).
+
+### Derecho comparado
+**TRIPS** (OMC) armonizó mínimos globales. Marcas y patentes son **territoriales** y suelen ser ***first-to-file***. La LFPPI mexicana (2020, ⟳) modernizó el régimen; el derecho de autor (LFDA ⟳) protege la obra sin registro. USPTO/EUIPO son referentes de práctica.
+
+### Caso real
+**Apple v. Samsung (2011-2018):** guerra global de patentes de *smartphones* con condenas de cientos de millones ⚠️ *verificar*. En M&A tecnológica, el valor de la adquisición **fue** la cartera de patentes (p. ej. compras defensivas de portafolios). Lección: la IP no es un anexo del *deal*; a veces **es** el *deal*.
+
+### Errores que cuestan millones
+- Comprar una empresa cuya IP clave está a nombre de un **fundador o proveedor** (no cedida).
+- No proteger el **secreto industrial** con NDAs y controles (una vez público, no hay marcha atrás).
+
+### Preguntas
+- **Criterio:** ¿la propiedad intelectual promueve o frena la innovación?
+- **Entrevista:** ¿qué revisa en un *IP due diligence* de una *startup* de software?
+- **Examen:** distinga marca, patente, derecho de autor y secreto industrial.
+
+### Bibliografía por niveles
+- **Básico:** Rangel Medina, *Derecho de la propiedad industrial e intelectual*.
+- **Intermedio:** LFPPI y LFDA comentadas.
+- **Avanzado:** Landes & Posner, *The Economic Structure of Intellectual Property Law*.
+- **Internacional:** Acuerdo TRIPS (OMC); WIPO materiales.

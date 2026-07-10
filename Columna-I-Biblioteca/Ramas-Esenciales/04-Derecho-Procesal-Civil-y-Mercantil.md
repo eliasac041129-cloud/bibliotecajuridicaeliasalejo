@@ -729,3 +729,39 @@ Empresa Familiar     ★★★★☆
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 4 · Estándar V3. Contenido conceptual a 2026-07;
 verifica todo artículo, cuantía, plazo y código aplicable contra su texto vigente (DOF y SJF), atendiendo
 al calendario de implementación del CNPCF.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El proceso es donde el derecho sustantivo **se cobra o se pierde**. El socio piensa en **ejecutabilidad**: ¿mi contrato me da vía ejecutiva o me condena a un ordinario de años?, ¿mi cláusula de jurisdicción/arbitraje me lleva al foro correcto?, ¿puedo asegurar el resultado con **providencias precautorias**? El mejor derecho sin proceso eficiente es una carta de buenos deseos.
+
+### Doctrina y debate
+- **Acción, jurisdicción y proceso** (la trilogía de Carnelutti, Chiovenda, Couture).
+- **Vía ejecutiva mercantil** (título ejecutivo) vs. ordinaria; medidas cautelares y su función.
+- **Debate:** la **oralidad** y el nuevo **CNPCF (2023)** ⟳ que unifica el proceso civil y familiar nacional —¿modernización real o cambio nominal?
+
+### Derecho comparado
+El *common law* tiene *discovery* (exhibición amplia de pruebas) y jurado civil, ajenos al proceso mexicano. El arbitraje comercial (CCI, LCIA, CANACO) es el foro preferido del *deal* transfronterizo por neutralidad y ejecutabilidad (Convención de Nueva York, 1958).
+
+### Caso real
+**Reconocimiento y ejecución de laudos y sentencias extranjeras:** la Convención de Nueva York (1958) permite ejecutar en México un laudo dictado en el extranjero. En *deals* internacionales, elegir bien la **sede arbitral** decide si el laudo se cobra o se queda en papel. Lección: la cláusula de solución de controversias es de las más valiosas del contrato.
+
+### Errores que cuestan millones
+- Documentar un crédito **sin título ejecutivo** y condenarse a la vía ordinaria.
+- Cláusula arbitral **patológica** (mal redactada, sede/reglas ambiguas): inejecutable.
+
+### Preguntas
+- **Criterio:** ¿arbitraje o tribunales para un contrato transfronterizo? ¿Por qué?
+- **Entrevista:** ¿qué hace "ejecutivo" a un documento?
+- **Examen:** distinga vía ejecutiva mercantil y juicio ordinario.
+
+### Bibliografía por niveles
+- **Básico:** Ovalle Favela, *Derecho procesal civil*.
+- **Intermedio:** Gómez Lara, *Teoría general del proceso*.
+- **Avanzado:** Couture, *Fundamentos del derecho procesal civil*.
+- **Internacional:** Convención de Nueva York (1958); Reglamento de Arbitraje CCI.

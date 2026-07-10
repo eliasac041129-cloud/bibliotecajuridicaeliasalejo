@@ -690,3 +690,39 @@ Empresa Familiar     ★★★☆☆
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 8 · Estándar V3. Contenido conceptual a 2026-07;
 verifica todo artículo, convención, tratado y regla institucional contra su texto vigente (Código de
 Comercio, Convención de Nueva York, T-MEC, reglas ICC/UNCITRAL).*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+En todo *deal* transfronterizo, tres preguntas deciden el resultado antes que el fondo: **¿qué ley aplica?, ¿qué foro resuelve?, y ¿dónde se ejecuta?** El socio diseña la cláusula de **ley aplicable + arbitraje** como si fuera el seguro del contrato: elige una sede neutral, reglas conocidas (CCI/ICC, LCIA) y se asegura de que el laudo sea **ejecutable** (Convención de Nueva York).
+
+### Doctrina y debate
+- **Conflicto de leyes:** puntos de conexión, autonomía conflictual (las partes eligen la ley), orden público como límite.
+- **Arbitraje comercial (Ley Modelo UNCITRAL) vs. arbitraje de inversión (ICSID, capítulos de inversión de tratados):** distinta lógica —contrato vs. protección al inversionista frente al Estado.
+- **Debate:** legitimidad del **ISDS** (solución de controversias inversionista-Estado): ¿protege la inversión o limita la soberanía regulatoria? El T-MEC lo **acotó**.
+
+### Derecho comparado
+La **Convención de Nueva York (1958)** —ratificada por 170+ Estados— hace ejecutable un laudo casi en cualquier país: la mayor ventaja del arbitraje sobre los tribunales estatales. La *lex mercatoria* y los Principios UNIDROIT dan un derecho "a-nacional" al comercio.
+
+### Caso real
+**Arbitrajes de inversión contra México (energía, T-MEC/TLCUEM) ⚠️ *verificar*:** decisiones regulatorias que afectaron inversiones detonaron reclamos internacionales por miles de millones. Lección: para el inversionista extranjero, el arbitraje de inversión es el **contrapeso** al riesgo regulatorio soberano.
+
+### Errores que cuestan millones
+- Cláusula arbitral **patológica** (sede/reglas ambiguas): inejecutable.
+- Elegir una **ley o foro** que no conviene por inercia ("los tribunales de mi ciudad").
+
+### Preguntas
+- **Criterio:** ¿el arbitraje de inversión protege la inversión o erosiona la soberanía?
+- **Entrevista:** ¿cómo redacta una cláusula de arbitraje para un contrato México-EE. UU.?
+- **Examen:** explique la Convención de Nueva York y por qué importa.
+
+### Bibliografía por niveles
+- **Básico:** Pereznieto Castro, *Derecho internacional privado*.
+- **Intermedio:** Ley Modelo UNCITRAL; Reglamento CCI.
+- **Avanzado:** Gary Born, *International Commercial Arbitration*.
+- **Internacional:** Convención de Nueva York (1958); Convenio CIADI/ICSID.

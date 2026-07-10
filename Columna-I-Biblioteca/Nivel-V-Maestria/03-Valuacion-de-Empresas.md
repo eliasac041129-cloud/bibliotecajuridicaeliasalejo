@@ -1405,3 +1405,39 @@ lenguaje en que se deciden los millones—.
 > tablero completo y anticipar los movimientos de los demás. Avanzamos al **Libro 4 · Estrategia Corporativa
 > y Game Theory** —el que cierra el Nivel V y, con él, toda la biblioteca—. El abogado corporativo de élite
 > que te propusiste ser está a un libro de distancia.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El precio de un *deal* no cae del cielo: sale de un **modelo de valuación**. El abogado que entiende cómo se valúa negocia mejor las cláusulas que **protegen ese valor**: *earn-out* (parte del precio contra resultados futuros), ajustes de capital de trabajo, *escrow*. Sabe que "valor" y "precio" no son lo mismo, y que cada método esconde supuestos negociables.
+
+### Doctrina y debate
+- **Tres enfoques:** **DCF** (flujos descontados a **WACC**), **múltiplos** (EV/EBITDA, P/E de comparables) y **valor de activos**. *Enterprise Value* vs. *Equity Value* (la diferencia es la deuda neta: origen de mil disputas de precio).
+- **WACC y CAPM:** el costo del capital como tasa de descuento; sensibilidad brutal a los supuestos (una décima cambia millones).
+- **Debate:** ¿es el DCF "ciencia" o "basura sofisticada"? (*garbage in, garbage out*): quien controla los supuestos controla el valor.
+
+### Derecho comparado / práctica
+En litigio societario (*appraisal rights* en Delaware), los tribunales **valúan** empresas: el juez arbitra entre los DCF de las partes. En México, la valuación aparece en *put/call*, disidencia y expropiación. El abogado no hace el modelo, pero **audita sus supuestos**.
+
+### Caso real
+***Appraisal* en Delaware (p. ej. *Dell*, 2016 ⚠️ *verificar*):** accionistas disidentes pidieron al tribunal fijar el "valor justo"; la corte comparó DCF y precio de mercado. **Earn-outs** en *deals* reales terminan en litigio cuando el vendedor y el comprador discrepan sobre si se "ganaron". Lección: cada supuesto de valuación es una cláusula potencial.
+
+### Errores que cuestan millones
+- Confundir **Enterprise Value** con **Equity Value** al fijar el precio.
+- Aceptar un **earn-out** con métricas ambiguas o bajo control del comprador.
+
+### Preguntas
+- **Criterio:** ¿el DCF descubre valor o solo formaliza una corazonada?
+- **Entrevista:** ¿por qué dos DCF de la misma empresa dan cifras distintas?
+- **Examen:** distinga Enterprise Value y Equity Value.
+
+### Bibliografía por niveles
+- **Básico:** Damodaran, *The Little Book of Valuation*.
+- **Intermedio:** McKinsey (Koller et al.), *Valuation*.
+- **Avanzado:** Damodaran, *Investment Valuation*.
+- **Internacional:** Brealey, Myers & Allen, *Principles of Corporate Finance*.

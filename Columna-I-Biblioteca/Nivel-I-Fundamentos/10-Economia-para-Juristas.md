@@ -674,3 +674,45 @@ Empresa Familiar     ★★★★☆
 ```
 *La economía es el **segundo idioma** del corporativo de élite: sin ella, no se entiende el negocio detrás
 del derecho.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El cliente no piensa en artículos: piensa en **flujo de caja, riesgo y retorno**. El abogado que "traduce" derecho a economía —y viceversa— se vuelve indispensable porque **habla el idioma del negocio**. Ante cada cláusula, el socio se pregunta: *¿qué incentivo crea?, ¿qué costo de transacción reduce?, ¿qué riesgo asigna y a quién?*
+
+### Doctrina y debate
+- **Análisis Económico del Derecho (AED):** **Coase** (*The Problem of Social Cost*, 1960): con costos de transacción cero, la asignación inicial de derechos no importa (teorema de Coase); como no son cero, **el derecho debe minimizar los costos de transacción**.
+- **Calabresi** (*The Cost of Accidents*): asignar el riesgo a quien puede evitarlo al menor costo (*cheapest cost avoider*).
+- **Posner:** la eficiencia como criterio explicativo del *common law*.
+- **Crítica (Behavioral Law & Economics):** Kahneman, Thaler, Sunstein: los agentes no son perfectamente racionales; existen sesgos. Debate: ¿el AED describe el derecho o solo una parte?
+
+### Derecho comparado
+El AED nació en **Chicago** y permea la regulación estadounidense (competencia, responsabilidad, contratos). Europa y México lo adoptan con matices, equilibrándolo con valores no eficientistas (dignidad, redistribución). Un abogado de competencia **no puede** ignorar el AED: es el lenguaje de la autoridad y de los economistas del caso.
+
+### Finanzas mínimas para el jurista
+- **Valor presente neto (VPN/NPV)** y **valor del dinero en el tiempo**: un peso hoy vale más que uno mañana.
+- **Costo de oportunidad**: toda decisión renuncia a la mejor alternativa.
+Estos dos conceptos bastan para entender por qué el cliente prefiere cobrar hoy y pagar después, y para diseñar calendarios de pago y *earn-outs*.
+
+### Caso real
+**Externalidades y el caso *Bayer–Monsanto*:** tras adquirir Monsanto (2018) por ~63,000 mdd ⚠️ *verificar cifra*, Bayer heredó los litigios por el herbicida glifosato: una **externalidad** (daño a terceros) que el mercado no había "precificado" en el *due diligence*. Lección: el pasivo ambiental es un costo económico que el derecho traslada.
+
+### Errores que cuestan millones
+- Redactar cláusulas que crean **incentivos perversos** (p. ej. penas tan bajas que conviene incumplir).
+- Ignorar el **costo de oportunidad** del tiempo en un litigio o cierre.
+
+### Preguntas
+- **Criterio:** ¿el análisis económico del derecho explica *de verdad* el derecho, o solo lo que conviene al mercado?
+- **Entrevista:** explique el teorema de Coase a un cliente en una frase.
+- **Examen:** defina costo de transacción y dé dos ejemplos jurídicos.
+
+### Bibliografía por niveles
+- **Básico:** Cooter & Ulen, *Derecho y economía*.
+- **Intermedio:** Posner, *El análisis económico del derecho*.
+- **Avanzado:** Coase, *The Firm, the Market and the Law*; Calabresi, *The Cost of Accidents*.
+- **Internacional:** Kahneman, *Pensar rápido, pensar despacio*; Thaler & Sunstein, *Nudge*.

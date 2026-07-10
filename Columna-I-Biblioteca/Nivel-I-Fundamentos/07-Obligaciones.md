@@ -882,3 +882,39 @@ Empresa Familiar     ★★★★☆
 ```
 *La teoría de las obligaciones es la **base de todo contrato y todo crédito**: es de las materias más
 transversales del corporativo.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El derecho de obligaciones es el **motor del contrato**: define qué se debe, cómo se cumple y qué pasa si no. El socio piensa en **remedios**: ante un incumplimiento, ¿exijo cumplimiento forzoso, resolución con daños, o ejecuto la garantía? Y sobre todo: **¿cómo asigno hoy, por escrito, el riesgo del incumplimiento de mañana?** Ahí nacen las cláusulas de indemnización, penas convencionales y *liquidated damages*.
+
+### Doctrina y debate
+- **Estructura de la obligación:** la dualidad alemana ***Schuld* (deuda) / *Haftung* (responsabilidad)**: se puede deber sin responder (obligación natural) y responder por deuda ajena (fiador).
+- **Fuentes:** contrato, cuasicontrato, hecho ilícito, enriquecimiento sin causa, declaración unilateral, ley.
+- **Doctrina:** Pothier (base del Code y del CCF), Messineo, Von Tuhr; en México Borja Soriano y Gutiérrez y González ("las obligaciones" como su gran obra).
+
+### Derecho comparado
+Ante el incumplimiento, el *civil law* privilegia el **cumplimiento forzoso** (*specific performance* como regla); el *common law* privilegia la **indemnización** (*expectation damages*) y reserva el cumplimiento forzoso para lo excepcional (Holmes: "el contrato da a elegir entre cumplir o pagar daños"). Esta diferencia explica por qué los contratos anglosajones detallan tanto los *remedies*.
+
+### Caso real
+**Cláusulas de fuerza mayor y COVID-19:** la pandemia (2020) puso a prueba miles de contratos: ¿el confinamiento liberaba de cumplir? La respuesta dependió de la redacción de la **fuerza mayor** y del *hardship*. Lección: el remedio no se improvisa en la crisis; se redacta en la calma.
+
+### Errores que cuestan millones
+- Pactar una **pena convencional** que exceda el valor de lo principal (reductible) o que se confunda con daños ya pactados.
+- Olvidar la **mora** y sus requisitos (interpelación) al reclamar intereses moratorios.
+
+### Preguntas
+- **Criterio:** ¿debe el derecho obligar a cumplir en especie o basta con pagar daños? (Holmes vs. civil law).
+- **Entrevista:** distinga cláusula penal, indemnización y *liquidated damages*.
+- **Examen:** enuncie las fuentes de las obligaciones y un ejemplo de cada una.
+
+### Bibliografía por niveles
+- **Básico:** Borja Soriano, *Teoría general de las obligaciones*.
+- **Intermedio:** Gutiérrez y González, *Derecho de las obligaciones*.
+- **Avanzado:** Messineo, *Doctrina general del contrato*; Von Tuhr, *Tratado de las obligaciones*.
+- **Internacional:** Díez-Picazo, *Fundamentos del Derecho Civil Patrimonial*.

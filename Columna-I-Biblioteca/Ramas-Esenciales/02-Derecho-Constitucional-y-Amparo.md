@@ -709,3 +709,39 @@ Empresa Familiar     ★★★☆☆
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 2 · Estándar V3. Contenido conceptual a 2026-07;
 verifica toda norma, plazo, artículo y tesis contra su texto vigente (DOF y SJF), en especial tras la
 reforma judicial 2024-2025.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El amparo es el **último recurso** del abogado corporativo frente al acto de autoridad que daña a su cliente: un crédito fiscal, una negativa de permiso, una norma inconstitucional. El socio piensa en **suspensión** (parar el acto ya) y en **conceptos de violación** (por qué es inconstitucional). Un amparo bien planteado congela una determinación millonaria mientras se litiga el fondo.
+
+### Doctrina y debate
+- **Supremacía constitucional (art. 133 ✅ ⟳)** y **bloque de constitucionalidad** (art. 1º ✅ ⟳, reforma DDHH 2011): tratados de DD. HH. a nivel constitucional.
+- **Control difuso vs. concentrado** y **control de convencionalidad ex officio** (jurisprudencias *1a./J. 84 y 85/2022* ⟳, ver [Banco de Jurisprudencia](../../Banco-de-Jurisprudencia/Criterios-Clave-por-Rama.md)).
+- **Debate:** la **reforma judicial 2024** (elección de jueces, DOF 15-sep-2024 ⟳) y su efecto sobre la independencia y la seguridad jurídica.
+
+### Derecho comparado
+El *judicial review* nació en EE. UU. (*Marbury v. Madison*, 1803); el **amparo** es aportación mexicana exportada a Latinoamérica y España (*recurso de amparo*). Alemania tiene la *Verfassungsbeschwerde*. México combina control concentrado (SCJN) y difuso.
+
+### Caso real
+***Marbury v. Madison* (1803):** fundó el control de constitucionalidad. En México, la **reforma judicial 2024** es hoy el gran laboratorio: cómo la ingeniería constitucional altera el equilibrio de poderes y el riesgo-país que evalúa todo inversionista.
+
+### Errores que cuestan millones
+- Dejar pasar el **plazo** del amparo (regla general 15 días hábiles, art. 17 LA ⟳).
+- No pedir bien la **suspensión** y dejar que se ejecute el acto.
+
+### Preguntas
+- **Criterio:** ¿la elección popular de jueces fortalece o erosiona el Estado de derecho?
+- **Entrevista:** ¿cuándo conviene el amparo indirecto y cuándo el directo?
+- **Examen:** explique la suspensión del acto reclamado y sus requisitos.
+
+### Bibliografía por niveles
+- **Básico:** Burgoa, *El juicio de amparo*.
+- **Intermedio:** Ferrer Mac-Gregor, *El amparo*.
+- **Avanzado:** Fix-Zamudio, *Ensayos sobre el derecho de amparo*.
+- **Internacional:** Cappelletti, *El control judicial de la constitucionalidad de las leyes*.

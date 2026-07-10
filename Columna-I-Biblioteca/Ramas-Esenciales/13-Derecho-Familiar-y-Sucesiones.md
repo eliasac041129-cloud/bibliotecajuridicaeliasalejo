@@ -721,3 +721,39 @@ Empresa Familiar     ★★★★★
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 13 · Estándar V3. Contenido conceptual a 2026-07;
 verifica todo artículo, régimen, porción y plazo contra el **Código Civil/Familiar de la entidad** aplicable
 y los criterios vigentes de la SCJN.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Suena lejano al *deal*, pero el **90% de las empresas mexicanas son familiares**, y ahí familiar y corporativo se funden: el **régimen matrimonial** afecta la titularidad de las acciones; la **sucesión** define el control; el **divorcio** de un socio puede fracturar la empresa. El socio piensa en **planeación patrimonial**: fideicomisos, testamentos, protocolo familiar y capitulaciones que blinden la empresa de los vaivenes de la familia.
+
+### Doctrina y debate
+- **Régimen patrimonial del matrimonio** (sociedad conyugal vs. separación de bienes): decide si las acciones son de uno o de ambos cónyuges.
+- **Sucesión testamentaria vs. legítima;** planeación sucesoria de la empresa familiar.
+- **Debate:** ¿protocolo familiar vinculante o mero acuerdo moral? Su fuerza jurídica es limitada y debe apoyarse en instrumentos duros (fideicomiso, SHA).
+
+### Derecho comparado
+Las **familias empresarias** globales usan *trusts*, *family offices* y *holdings* para separar propiedad, gobierno y gestión. México usa **fideicomisos de control** y sociedades *holding* familiares. El **CNPCF (2023)** ⟳ unificó el proceso familiar nacional.
+
+### Caso real
+**Disputas sucesorias en grupos familiares:** conflictos entre herederos han paralizado o fragmentado empresas mexicanas emblemáticas ⚠️ *(evítese citar nombres sin verificar)*. Lección: la falta de planeación sucesoria y de gobierno familiar destruye en una generación lo que tardó tres en construirse ("de camisa a camisa en tres generaciones").
+
+### Errores que cuestan millones
+- No alinear el **régimen matrimonial** con la titularidad de acciones (riesgo en divorcio/sucesión).
+- Empresa familiar **sin protocolo ni gobierno** (consejo, reglas de entrada/salida de parientes).
+
+### Preguntas
+- **Criterio:** ¿debe la empresa familiar separar propiedad, gobierno y gestión? ¿Cómo?
+- **Entrevista:** ¿cómo blinda las acciones de un fundador casado por sociedad conyugal?
+- **Examen:** distinga sucesión testamentaria y legítima.
+
+### Bibliografía por niveles
+- **Básico:** Baqueiro Rojas, *Derecho de familia y sucesiones*.
+- **Intermedio:** De Ibarrola, *Cosas y sucesiones*.
+- **Avanzado:** literatura de *family business governance* (Tagiuri & Davis, modelo de los tres círculos).
+- **Internacional:** Ward, *Keeping the Family Business Healthy*.

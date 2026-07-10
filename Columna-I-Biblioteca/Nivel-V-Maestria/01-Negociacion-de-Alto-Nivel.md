@@ -1429,3 +1429,39 @@ asesor de confianza del simple técnico—.
 > financieros y a hablar el idioma de los números —la base para dialogar de igual a igual con CFOs,
 > banqueros y fondos, y para no negociar nunca a ciegas—. El asesor estratégico de negocios que quieres ser
 > está tomando forma.
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+Los *deals* no se ganan en el papel: se ganan en la mesa. El socio negocia por **intereses, no por posiciones**, y llega con una sola pieza que le da poder: su **BATNA** (mejor alternativa al acuerdo negociado). Quien tiene alternativa creíble, manda; quien "necesita" el trato, obedece. La técnica jurídica es condición necesaria; la negociación es la que **captura el valor**.
+
+### Doctrina y debate
+- **Modelo de Harvard (Fisher & Ury, *Getting to Yes*):** separar personas de problema; intereses vs. posiciones; opciones de beneficio mutuo; criterios objetivos.
+- **BATNA, ZOPA y valor de reserva** (Raiffa, *The Art and Science of Negotiation*): el marco analítico.
+- **Debate:** ¿crear valor (*integrative*, agrandar el pastel) o reclamarlo (*distributive*, repartirlo)? El "dilema del negociador" (Lax & Sebenius): cooperar expone; competir destruye valor.
+
+### Derecho comparado / práctica internacional
+La *Big Law* estructura la negociación en torno al *term sheet* y a la gestión del *deal*; los **estilos culturales** varían (directo anglosajón vs. relacional latino/asiático). El abogado transfronterizo lee la cultura tanto como el contrato.
+
+### Caso real
+**Twitter/X–Musk (2022):** Musk negoció y firmó rápido, sin *due diligence* de *bots*; luego quiso rebajar o salir. Su **BATNA era débil** (Delaware lo forzaría a cerrar) y terminó pagando el precio pactado (~44,000 mdd ⚠️ *verificar*). Lección: el poder de negociación se define **antes** de firmar; después, el contrato manda.
+
+### Errores que cuestan millones
+- Negociar por **posiciones** ("quiero X") en vez de intereses ("necesito resolver Y").
+- Entrar sin **BATNA** y revelar la urgencia.
+
+### Preguntas
+- **Criterio:** ¿cuándo conviene competir por el valor y cuándo cooperar para crearlo?
+- **Entrevista:** su cliente "necesita" cerrar hoy; ¿cómo protege su poder de negociación?
+- **Examen:** defina BATNA y ZOPA con un ejemplo.
+
+### Bibliografía por niveles
+- **Básico:** Fisher & Ury, *Sí… ¡de acuerdo!* (*Getting to Yes*).
+- **Intermedio:** Lax & Sebenius, *3-D Negotiation*.
+- **Avanzado:** Raiffa, *The Art and Science of Negotiation*.
+- **Internacional:** Malhotra & Bazerman, *Negotiation Genius*.

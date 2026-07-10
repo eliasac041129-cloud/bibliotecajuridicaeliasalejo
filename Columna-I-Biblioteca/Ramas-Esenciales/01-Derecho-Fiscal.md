@@ -877,3 +877,39 @@ Empresa Familiar     ★★★★★
 
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 1 · Estándar V3. Contenido conceptual a
 2026-07; verifica toda norma, tasa, monto y artículo contra su texto vigente en el DOF y el SAT.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+El fiscalista corporativo mide todo **después de impuestos** y vive en la frontera entre **economía de opción (legítima)** y **elusión/evasión**. Su brújula es la **sustancia**: ¿la operación tiene razón de negocios real (art. 5-A CFF ✅ ⟳) más allá del ahorro? En un *deal*, cuantifica la contingencia fiscal hasta la **caducidad** (art. 67 CFF ✅ ⟳) y la traslada al vendedor vía *reps* fiscales e indemnización específica.
+
+### Doctrina y debate
+- **Sustancia sobre forma / cláusula antiabuso (GAAR):** el fisco recaracteriza lo carente de sustancia.
+- **Capacidad contributiva y proporcionalidad/equidad** (art. 31-IV CPEUM ✅ ⟳) como límites constitucionales al tributo.
+- **Debate:** ¿existe una "moral fiscal" o solo la legalidad? La planeación agresiva legal, ¿es legítima?
+
+### Derecho comparado
+**BEPS (OCDE)** reordenó la fiscalidad internacional; EE. UU. sumó **GILTI/BEAT** (2017); la UE persigue ayudas de Estado fiscales. México incorporó razón de negocios, esquemas reportables y precios de transferencia (LISR ⟳).
+
+### Caso real
+**Apple–Irlanda:** la Comisión Europea ordenó recuperar **~13,000 mdEUR ⚠️ *verificar*** (confirmado por el TJUE en 2024 ⚠️). Lección: la estructura sin sustancia dejó de ser "eficiencia" y pasó a ser pasivo multimillonario y reputacional.
+
+### Errores que cuestan millones
+- Estructuras **sin sustancia** recaracterizadas (5-A CFF ⟳).
+- No blindar en el SPA la **contingencia fiscal** hasta la caducidad (67 CFF ⟳).
+
+### Preguntas
+- **Criterio:** ¿la planeación fiscal agresiva pero legal es legítima?
+- **Entrevista:** ¿cómo asigna el riesgo fiscal del *target* en un SPA?
+- **Examen:** explique la razón de negocios (5-A CFF).
+
+### Bibliografía por niveles
+- **Básico:** ver el tratado base y el [Suplemento de IV-09](../Nivel-IV-Corporate-Law/09-Fiscal-Corporativo-y-Planeacion-Fiscal-de-Operaciones.md).
+- **Intermedio:** OCDE, *Acciones BEPS*.
+- **Avanzado:** Rosembuj, *El fraude de ley y el abuso de las formas*.
+- **Internacional:** OCDE, *Model Tax Convention*.

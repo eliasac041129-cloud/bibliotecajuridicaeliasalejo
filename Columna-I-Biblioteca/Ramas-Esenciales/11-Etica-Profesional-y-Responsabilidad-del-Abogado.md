@@ -716,3 +716,39 @@ Empresa Familiar     ★★★★★
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 11 · Estándar V3. Contenido conceptual a 2026-07;
 verifica el código de ética y la ley de profesiones aplicables a tu colegio y entidad, y los criterios
 relevantes en el SJF.*
+
+
+---
+
+## ⚖️ Suplemento del Consejo Editorial
+
+> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
+
+### Cómo piensa un socio internacional
+La ética no es un adorno: es el activo que tarda 20 años en construirse y 20 minutos en perderse. El socio sabe que su deber de **lealtad y confidencialidad** con el cliente convive con su deber con el **tribunal y el orden jurídico**, y que el punto de fricción —*"hasta dónde defiendo"*— define su carrera. En el mundo corporativo, el abogado es además ***gatekeeper***: su firma valida operaciones ante el mercado.
+
+### Doctrina y debate
+- **Secreto profesional, conflicto de interés y lealtad** como deberes nucleares.
+- **El "rol amoral" del abogado (Wasserstrom):** ¿puede el abogado hacer por el cliente lo que sería inmoral hacer por sí mismo? Debate fundacional de la ética jurídica.
+- **Teoría del *gatekeeper* (Coffee, *Gatekeepers*):** abogados, auditores y bancos como guardianes cuya falla causa fraudes sistémicos.
+
+### Derecho comparado
+Las **ABA Model Rules of Professional Conduct** (EE. UU.) y el ***attorney-client privilege*** son el estándar más desarrollado; la UE regula el secreto profesional con matices (caso *Akzo Nobel* sobre abogado interno). México combina códigos deontológicos y la regulación de responsabilidad profesional.
+
+### Caso real
+**Enron / Arthur Andersen (2002):** la caída de la auditora (destrucción de documentos) mostró el colapso del *gatekeeper*. En **FTX**, abogados y asesores quedaron señalados por validar lo invalidable. Lección: el profesional que "no vio" lo que debía ver responde —profesional, civil y penalmente.
+
+### Errores que cuestan millones (y la carrera)
+- **Conflicto de interés** no revelado (representar a ambas partes o intereses opuestos).
+- Ayudar a "vestir" una operación sin sustancia: de asesor se pasa a **partícipe**.
+
+### Preguntas
+- **Criterio:** ¿hasta dónde debe llegar el abogado en defensa de su cliente? ¿Dónde está el límite?
+- **Entrevista:** su cliente le pide estructurar algo en el filo de la ley; ¿qué hace?
+- **Examen:** explique el conflicto de interés y cómo se gestiona.
+
+### Bibliografía por niveles
+- **Básico:** códigos de ética de los colegios de abogados.
+- **Intermedio:** Pérez Fernández del Castillo, *Ética jurídica*.
+- **Avanzado:** Wasserstrom, *Lawyers as Professionals: Some Moral Issues*.
+- **Internacional:** ABA *Model Rules*; Coffee, *Gatekeepers*.
