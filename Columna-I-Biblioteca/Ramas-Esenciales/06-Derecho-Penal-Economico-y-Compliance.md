@@ -187,9 +187,9 @@ sus directivos.
 ## 11. Definiciones legales
 
 - **Delito (Código Penal Federal ⚠️):** el acto u omisión que sancionan las leyes penales.
-- **Legalidad penal (art. 14 CPEUM ⚠️ ⟳):** no hay delito ni pena sin ley previa, exacta y escrita (*nullum
+- **Legalidad penal (art. 14 CPEUM ✅ ⟳):** no hay delito ni pena sin ley previa, exacta y escrita (*nullum
   crimen, nulla poena sine lege*); prohibición de analogía en perjuicio.
-- **Presunción de inocencia (art. 20 CPEUM ⚠️ ⟳):** toda persona es inocente hasta que se declare su
+- **Presunción de inocencia (art. 20 CPEUM ✅ ⟳):** toda persona es inocente hasta que se declare su
   responsabilidad por sentencia.
 - **Defraudación fiscal (CFF ⚠️):** omitir total o parcialmente el pago de contribuciones mediante engaño
   o aprovechamiento de error, con perjuicio al fisco.
@@ -400,7 +400,7 @@ internacional** dejaron de ser opcionales. ⚠️ *Verificar leyes y guías vige
 ## 23. Derecho mexicano (régimen positivo)
 
 - **Constitucional:** legalidad penal (art. 14 ⟳), debido proceso y presunción de inocencia (arts. 16, 19,
-  20 ⚠️ ⟳), prisión preventiva oficiosa (art. 19 ⚠️ ⟳).
+  20 ✅ ⟳), prisión preventiva oficiosa (art. 19 ✅ ⟳).
 - **Sustantivo:** **Código Penal Federal** y códigos penales locales; **CFF** (delitos fiscales); **CPF /
   ley especial** para lavado; **LMV** (delitos bursátiles); leyes ambientales.
 - **Adjetivo:** **Código Nacional de Procedimientos Penales (CNPP)** — proceso acusatorio y
@@ -530,7 +530,7 @@ estrategia). (4) **Remediar**: suspender los pagos, sancionar internamente, refo
 
 - **P:** ¿Elementos del delito? · **R:** Conducta **típica, antijurídica y culpable**.
 - **P:** ¿Principio de legalidad penal? · **R:** No hay delito ni pena sin ley previa, exacta y escrita
-  (art. 14 ⚠️ ⟳).
+  (art. 14 ✅ ⟳).
 - **P:** ¿Cohecho? · **R:** Dar/recibir dádiva a/de un servidor público por un acto de su función.
 - **P:** ¿Qué es el "debido control"? · **R:** El programa de compliance que puede **atenuar/excluir** la
   responsabilidad penal de la empresa.

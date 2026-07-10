@@ -61,8 +61,8 @@ Empresa Familiar     ★★★☆☆
 ## 1. Introducción
 
 Todo el edificio jurídico descansa sobre una sola norma: la **Constitución Política de los Estados
-Unidos Mexicanos**. Es **suprema** (ninguna ley, reglamento o acto puede contradecirla — art. 133 ⚠️ ⟳),
-es **rígida** (solo se reforma por un procedimiento agravado — art. 135 ⚠️ ⟳) y tiene **dos grandes
+Unidos Mexicanos**. Es **suprema** (ninguna ley, reglamento o acto puede contradecirla — art. 133 ✅ ⟳),
+es **rígida** (solo se reforma por un procedimiento agravado — art. 135 ✅ ⟳) y tiene **dos grandes
 partes**: la **dogmática** (los derechos de las personas) y la **orgánica** (cómo se organiza y se
 limita el poder del Estado). El derecho constitucional estudia ambas.
 
@@ -82,13 +82,13 @@ poder; aquí ves cómo se le **pone freno**.
 
 Al terminar, el lector será capaz de:
 
-- **Explicar la supremacía constitucional** (art. 133 ⚠️ ⟳) y la estructura dogmática/orgánica de la
+- **Explicar la supremacía constitucional** (art. 133 ✅ ⟳) y la estructura dogmática/orgánica de la
   Constitución.
 - **Manejar el nuevo paradigma de derechos humanos** tras la **reforma de junio de 2011** al art. 1º
-  ⚠️ ⟳: bloque de constitucionalidad, **control de convencionalidad**, **interpretación conforme** y
+  ✅ ⟳: bloque de constitucionalidad, **control de convencionalidad**, **interpretación conforme** y
   **principio pro persona**.
 - **Identificar los derechos con impacto empresarial**: legalidad y seguridad jurídica (arts. 14 y 16
-  ⚠️ ⟳), propiedad y expropiación (art. 27 ⚠️ ⟳), libertad de trabajo y comercio (art. 5 ⚠️ ⟳),
+  ✅ ⟳), propiedad y expropiación (art. 27 ✅ ⟳), libertad de trabajo y comercio (art. 5 ✅ ⟳),
   irretroactividad, no confiscación y la obligación tributaria justa (art. 31-IV ✅ ⟳).
 - **Distinguir los medios de control constitucional**: **juicio de amparo**, **controversia
   constitucional** y **acción de inconstitucionalidad**.
@@ -126,7 +126,7 @@ La Constitución de **1917** —la vigente— fue la primera del mundo en incorp
 (trabajo, art. 123 ⟳; tierra, art. 27 ⟳). A lo largo del siglo XX y XXI ha sido reformada cientos de veces.
 Tres hitos que debes conocer:
 
-1. **Reforma de derechos humanos (junio 2011, art. 1º ⚠️ ⟳):** cambió el paradigma. Los tratados
+1. **Reforma de derechos humanos (junio 2011, art. 1º ✅ ⟳):** cambió el paradigma. Los tratados
    internacionales de derechos humanos se integran al parámetro constitucional (**bloque de
    constitucionalidad**); toda autoridad debe promover, respetar, proteger y garantizar los DH, aplicar
    el **principio pro persona** y ejercer **control de convencionalidad**.
@@ -161,7 +161,7 @@ México. ⚠️
 Los **derechos humanos** de la parte dogmática son la promesa social de la Constitución: igualdad, no
 discriminación, debido proceso, libertades. La reforma de 2011 los puso en el centro. Para la empresa,
 la dimensión social se ha vuelto tangible: derechos de **consumidores**, de **trabajadores**, a un
-**medio ambiente sano** (art. 4 ⚠️ ⟳) y a la **protección de datos** (art. 16 ⚠️ ⟳) condicionan cómo operan
+**medio ambiente sano** (art. 4 ✅ ⟳) y a la **protección de datos** (art. 16 ✅ ⟳) condicionan cómo operan
 las compañías. El constitucionalismo dejó de ser "cosa del Estado" para permear el derecho privado
 (la llamada **eficacia horizontal** de los derechos).
 
@@ -189,15 +189,15 @@ jurídico que conoce estos remedios protege a la empresa; el que no, la deja ind
 
 ## 11. Definiciones legales
 
-- **Supremacía (art. 133 ⚠️ ⟳):** la Constitución, las leyes del Congreso que emanen de ella y los
+- **Supremacía (art. 133 ✅ ⟳):** la Constitución, las leyes del Congreso que emanen de ella y los
   tratados son la **Ley Suprema** de toda la Unión.
-- **Derechos humanos (art. 1º ⚠️ ⟳):** todas las personas gozan de los DH reconocidos en la Constitución y
+- **Derechos humanos (art. 1º ✅ ⟳):** todas las personas gozan de los DH reconocidos en la Constitución y
   en los **tratados internacionales**; las normas se interpretan conforme a ambos, favoreciendo **en todo
   tiempo la protección más amplia** (pro persona).
-- **Legalidad y audiencia (arts. 14 y 16 ⚠️ ⟳):** nadie puede ser privado de la vida, libertad,
+- **Legalidad y audiencia (arts. 14 y 16 ✅ ⟳):** nadie puede ser privado de la vida, libertad,
   propiedades, posesiones o derechos sino mediante **juicio** seguido con las formalidades esenciales;
   y todo acto de molestia exige **mandamiento escrito, de autoridad competente, fundado y motivado**.
-- **Amparo (arts. 103 y 107 CPEUM ⚠️ ⟳ + Ley de Amparo):** procede contra normas generales, actos u
+- **Amparo (arts. 103 y 107 CPEUM ✅ ⟳ + Ley de Amparo):** procede contra normas generales, actos u
   omisiones de autoridad que violen derechos humanos.
 
 ## 12. Definición sencilla
@@ -240,13 +240,13 @@ efecto** — y hasta puede **congelarlo** de inmediato (la **suspensión**) mien
 - **Parte orgánica (arts. 40 ⟳ y ss. ⚠️):** la forma de Estado (**república representativa, democrática,
   federal**), la **división de poderes** (Ejecutivo, Legislativo, Judicial), el **federalismo** (reparto
   de competencias entre Federación, entidades y municipios) y los órganos constitucionales.
-- **Supremacía y rigidez (arts. 133 y 135 ⚠️ ⟳):** la Constitución vence a toda otra norma y solo se
+- **Supremacía y rigidez (arts. 133 y 135 ✅ ⟳):** la Constitución vence a toda otra norma y solo se
   reforma por el "Constituyente Permanente" (dos tercios del Congreso + mayoría de legislaturas locales).
 
 ### 14.2 El nuevo paradigma de derechos humanos (reforma 2011)
 
 Antes se hablaba de "garantías individuales" **otorgadas** por el Estado; hoy, de **derechos humanos
-reconocidos**. El art. 1º ⚠️ ⟳ impone a **toda autoridad** cuatro deberes (promover, respetar, proteger,
+reconocidos**. El art. 1º ✅ ⟳ impone a **toda autoridad** cuatro deberes (promover, respetar, proteger,
 garantizar) y tres herramientas interpretativas: **interpretación conforme** (leer la ley a la luz de la
 Constitución y los tratados), **principio pro persona** (la protección más amplia) y **control de
 convencionalidad** (contrastar con los tratados de DH). Consecuencia práctica revolucionaria: **cualquier
@@ -316,14 +316,14 @@ acto/norma de abajo contradice a la Constitución de arriba, y a mí me daña!"*
 que lo **corrija**.
 
 Segundo modelo, el del **semáforo del acto de autoridad**: ante cualquier acto del Estado, pregúntate
-tres cosas (arts. 14 y 16 ⚠️ ⟳): ¿lo emitió una **autoridad competente**?, ¿está por **escrito, fundado y
+tres cosas (arts. 14 y 16 ✅ ⟳): ¿lo emitió una **autoridad competente**?, ¿está por **escrito, fundado y
 motivado**?, ¿respetó mi **derecho de audiencia** (me oyó antes de afectarme)? Si falla alguna, el acto
 es **inconstitucional** y **amparable**. Ese test de tres pasos es el reflejo básico del litigante.
 
 ## 16. Ejemplos simples
 
 1. **Multa sin motivar.** Una autoridad te multa con un oficio que no explica **por qué** ni cita el
-   artículo. Viola el art. 16 ⚠️ ⟳ (falta de fundamentación y motivación) → **amparo indirecto**.
+   artículo. Viola el art. 16 ✅ ⟳ (falta de fundamentación y motivación) → **amparo indirecto**.
 2. **Ley que te grava con su sola entrada en vigor.** Una nueva ley fiscal te impone una carga desde el
    día uno (autoaplicativa) → amparo indirecto **contra la ley** dentro del plazo ampliado ⚠️.
 3. **Sentencia adversa firme.** Perdiste un juicio mercantil y la sentencia es definitiva → **amparo
@@ -333,7 +333,7 @@ es **inconstitucional** y **amparable**. Ese test de tres pasos es el reflejo b�
 
 **La clausura de la planta.** Un regulador clausura la fábrica de tu cliente alegando falta de un
 permiso. El daño es diario (no produce, no vende, incumple contratos). Estrategia: (1) **amparo
-indirecto** contra la clausura, alegando violación a los arts. 14 y 16 ⚠️ ⟳ (¿hubo audiencia?, ¿está
+indirecto** contra la clausura, alegando violación a los arts. 14 y 16 ✅ ⟳ (¿hubo audiencia?, ¿está
 fundado?); (2) pedir la **suspensión** para reabrir mientras se resuelve, argumentando apariencia del
 buen derecho y peligro en la demora, y ofreciendo garantía; (3) verificar la **definitividad** (¿había un
 recurso administrativo que agotar primero?). Un error en cualquiera de los tres puntos —sobre todo la
@@ -369,14 +369,14 @@ autoridad). El constitucionalista de empresa piensa en ambas dimensiones.
 En M&A, lo constitucional aparece como **riesgo regulatorio y de patrimonio**: si el activo estrella es
 una **concesión** o un **permiso**, su revocación arbitraria se combate por amparo (y ese riesgo se
 refleja en las **declaraciones y garantías** del SPA — IV-04). En operaciones con el Estado, la
-**expropiación** (art. 27 ⚠️ ⟳) o su versión indirecta (regulación que destruye el valor) es un riesgo que
+**expropiación** (art. 27 ✅ ⟳) o su versión indirecta (regulación que destruye el valor) es un riesgo que
 se cubre contractual y constitucionalmente, y —si hay inversión extranjera— vía **tratados de protección
 de inversiones** y arbitraje inversionista-Estado (conéctalo con DIP/Arbitraje, Libro 08).
 
 ## 21. Casos internacionales (*cross-border*)
 
 El amparo es **mexicano**, pero dialoga con el mundo: los **tratados de derechos humanos** integran el
-parámetro de control (art. 1º ⚠️ ⟳), y la **Corte Interamericana de Derechos Humanos** puede condenar a
+parámetro de control (art. 1º ✅ ⟳), y la **Corte Interamericana de Derechos Humanos** puede condenar a
 México. En materia de inversión, los **tratados bilaterales de inversión (TBI/APPRI)** y capítulos de
 inversión (p. ej. del **T-MEC**) ofrecen a inversionistas extranjeros **arbitraje internacional** contra
 actos del Estado —una vía **paralela** al amparo—. El abogado cross-border sabe que un mismo acto estatal
@@ -412,7 +412,7 @@ mejor ruta. ⚠️ *Verificar tratados vigentes aplicables.*
 
 La jurisprudencia constitucional es enorme. Líneas temáticas clave para el corporativo (para estudiar y
 **verificar en el SJF**, no citar de memoria):
-- **Fundamentación y motivación** (art. 16 ⚠️ ⟳): estándares de qué debe contener un acto de molestia.
+- **Fundamentación y motivación** (art. 16 ✅ ⟳): estándares de qué debe contener un acto de molestia.
 - **Legalidad tributaria** (art. 31-IV ✅ ⟳): elementos esenciales del tributo deben estar en ley.
 - **Interés legítimo**: su alcance tras la reforma de 2013.
 - **Suspensión**: apariencia del buen derecho y balance con el interés social/orden público.
@@ -511,7 +511,7 @@ primero? ¿Pedirías suspensión?
 **Respuesta modelo.** Es un **acto administrativo** (no una sentencia) → **amparo indirecto** ante Juez de
 Distrito. Primero cuida la **definitividad**: si el recurso es **optativo**, puedes ir directo al amparo;
 si fuera **obligatorio**, tendrías que agotarlo o caería en improcedencia. Agravios: violación al art. 16
-⚠️ ⟳ (falta de fundamentación y motivación). **Sí** pediría la **suspensión** para que la autoridad no
+✅ ⟳ (falta de fundamentación y motivación). **Sí** pediría la **suspensión** para que la autoridad no
 consume la negativa y, si aplica, para que se permita operar mientras se resuelve, acreditando apariencia
 del buen derecho y peligro en la demora. Verifica el **plazo de 15 días** ⚠️.
 
@@ -527,7 +527,7 @@ del buen derecho y peligro en la demora. Verifica el **plazo de 15 días** ⚠�
 
 ## 35. Flashcards
 
-- **P:** ¿Fundamento de la supremacía constitucional? · **R:** Art. 133 ⚠️ ⟳.
+- **P:** ¿Fundamento de la supremacía constitucional? · **R:** Art. 133 ✅ ⟳.
 - **P:** ¿Qué cambió la reforma de 2011 (art. 1º ⟳)? · **R:** Bloque de constitucionalidad, pro persona,
   control de convencionalidad y difuso, deberes de toda autoridad.
 - **P:** ¿Amparo directo vs. indirecto? · **R:** Directo = contra sentencias/laudos definitivos
@@ -543,8 +543,8 @@ del buen derecho y peligro en la demora. Verifica el **plazo de 15 días** ⚠�
 ## 36. Mapa mental
 
 ```
-CONSTITUCIÓN (norma suprema, art. 133 ⚠️)
-├── PARTE DOGMÁTICA (derechos, arts. 1-29 ⚠️)
+CONSTITUCIÓN (norma suprema, art. 133 ✅)
+├── PARTE DOGMÁTICA (derechos, arts. 1-29 ✅)
 │   └── Empresariales: 5 (comercio) · 14/16 (legalidad/audiencia) · 27 (propiedad) · 31-IV (tributo)
 ├── PARTE ORGÁNICA (poder, arts. 40+ ⚠️)
 │   └── División de poderes · federalismo · órganos
@@ -601,7 +601,7 @@ RECURSO DE REVISIÓN (Tribunal Colegiado / SCJN) ──► resolución final
 
 ## 40. Resumen ejecutivo
 
-La **Constitución** es la norma suprema (art. 133 ⚠️ ⟳): tiene una parte **dogmática** (derechos humanos,
+La **Constitución** es la norma suprema (art. 133 ✅ ⟳): tiene una parte **dogmática** (derechos humanos,
 transformada por la reforma de 2011 al art. 1º ⟳, que introdujo el bloque de constitucionalidad, el pro
 persona y el control difuso/de convencionalidad) y una parte **orgánica** (división de poderes,
 federalismo). Se defiende con tres medios de control: **amparo, controversia constitucional y acción de

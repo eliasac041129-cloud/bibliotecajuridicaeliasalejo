@@ -389,7 +389,7 @@ internacionales para proteger marcas y patentes en múltiples países de forma e
 
 ## 23. Derecho mexicano (régimen positivo)
 
-- **Constitucional:** el art. 28 ⚠️ ⟳ aclara que los privilegios a inventores y autores **no** constituyen
+- **Constitucional:** el art. 28 ✅ ⟳ aclara que los privilegios a inventores y autores **no** constituyen
   monopolios prohibidos.
 - **Propiedad industrial:** **Ley Federal de Protección a la Propiedad Industrial (LFPPI, 2020 ⚠️)**;
   autoridad: **IMPI** (registro, infracciones).

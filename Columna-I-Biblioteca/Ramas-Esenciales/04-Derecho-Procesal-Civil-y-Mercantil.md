@@ -161,7 +161,7 @@ el código.
 
 El proceso es la promesa de que los conflictos se resuelven **civilizadamente**, con reglas y ante un
 tercero imparcial, y no por la fuerza. El **acceso a la justicia** (que sea barata, rápida y comprensible)
-es un derecho humano (art. 17 CPEUM ⚠️ ⟳: justicia pronta, completa e imparcial, y gratuita). La lentitud y
+es un derecho humano (art. 17 CPEUM ✅ ⟳: justicia pronta, completa e imparcial, y gratuita). La lentitud y
 el costo excluyen a los más débiles, de ahí el impulso a la **oralidad**, a los **medios alternativos**
 (mediación, conciliación) y a la justicia digital. Para la empresa, la dimensión social se traduce en
 **reputación**: litigar de forma abusiva o dilatoria daña la marca; resolver bien los conflictos la
@@ -200,7 +200,7 @@ Y en el diseño de cualquier contrato, la empresa decide **de antemano** cómo r
   en ciertos supuestos, instrumentos públicos.
 - **Cosa juzgada:** la calidad de **inmutable** que adquiere la sentencia firme (ya no admite recurso ni
   puede volver a discutirse).
-- **Justicia pronta y completa (art. 17 CPEUM ⚠️ ⟳):** derecho a que los tribunales resuelvan en plazos y
+- **Justicia pronta y completa (art. 17 CPEUM ✅ ⟳):** derecho a que los tribunales resuelvan en plazos y
   términos que fijen las leyes.
 
 ## 12. Definición sencilla

@@ -116,7 +116,7 @@ El derecho del trabajo nace con la **Revolución Industrial**: el maquinismo cre
 condiciones brutales (jornadas de 14 horas, trabajo infantil, sin seguridad), y la respuesta fue doble: la
 **organización obrera** (sindicatos) y la **intervención del Estado** (leyes de fábrica, límites de
 jornada). México tiene un lugar de honor: la **Constitución de 1917** fue la **primera del mundo** en
-elevar los derechos laborales a **rango constitucional**, en su célebre **artículo 123 ⚠️ ⟳** (jornada
+elevar los derechos laborales a **rango constitucional**, en su célebre **artículo 123 ✅ ⟳** (jornada
 máxima, salario mínimo, descanso, derecho de huelga, indemnización por despido). De ahí deriva la **Ley
 Federal del Trabajo (LFT)**, reglamentaria del 123. ⚠️ *Verificar fechas.*
 
@@ -134,7 +134,7 @@ recientes reconfiguraron la materia (⚠️ verificar):
    **servicios especializados** ajenos al objeto social, con registro **REPSE**.
 4. **Reforma de "vacaciones dignas" ✅ (verificada, 2026-07):** publicada en el DOF el **27-dic-2022**,
    en vigor el **1-ene-2023**; aumentó el mínimo de vacaciones del primer año de **6 a 12 días**, con +2
-   días por cada año subsecuente hasta llegar a 20 (reforma a los arts. 76 y 78 LFT ⚠️ ⟳).
+   días por cada año subsecuente hasta llegar a 20 (reforma a los arts. 76 y 78 LFT ✅ ⟳).
 5. **Debates recientes:** reducción de la **jornada laboral** (hacia 40 horas ⚠️) y otros ajustes en
    proceso. *Verificar estado vigente.*
 
@@ -549,7 +549,7 @@ INFONAVIT, PTU y riesgo fiscal. Estructura: cuantificar el **pasivo contingente*
 ## 36. Mapa mental
 
 ```
-DERECHO LABORAL (art. 123 ⚠️ · LFT)
+DERECHO LABORAL (art. 123 ✅ · LFT)
 ├── PRINCIPIO PROTECTOR
 │   └── Irrenunciabilidad · in dubio pro operario · norma más favorable · primacía de la realidad
 ├── RELACIÓN DE TRABAJO

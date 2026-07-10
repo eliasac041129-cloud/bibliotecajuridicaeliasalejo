@@ -6,7 +6,59 @@
 
 ---
 
-## [3.3] — 2026-07 · «Corazón corporativo completo (CPEUM + 7 leyes)» — *rama `v3.3-corpus-corporativo`, PR*
+## [4.0] — 2026-07 · «Referencia Verificada — cierre definitivo» — *rama `v4.0-cierre-definitivo`, PR*
+
+> **Qué es la v4.0.** El sello definitivo. Con las **27 leyes** ya verificadas (v3.x), esta versión
+> **cierra el círculo**: alinea el semáforo, actualiza el escaparate, reconcilia el marco de datos y
+> añade tres activos de práctica profesional (mapa de artículos, formatos y jurisprudencia).
+
+### Semáforo de verificación
+- Nuevo verificador [`tools/semaforo.py`](./tools/semaforo.py): mapea cada cita a su ley (explícita o por
+  defecto del tratado), confirma que el artículo **existe y está vigente** (no derogado) en el texto
+  oficial y solo entonces voltea **⚠️→✅**. Resultado: **✅ 155 → 223** (+68). Los ⚠️ restantes (≈789) son
+  **fechas de reforma, tasas, montos y conceptos** — datos volátiles que **deben** seguir ⚠️ (es correcto).
+
+### Escaparate
+- **README** raíz e **INDICE_MAESTRO** actualizados al estado real: v4.0, 27 leyes verificadas, explicación
+  del semáforo ✅/⚠️ y de la apóstrofe ⟳, y la nueva estructura (fuentes, formatos, jurisprudencia, tools, mapa).
+
+### Contenido nuevo
+- **Datos (09):** reconciliado con la **nueva LFPDPPP (DOF 14-11-2025)** — autoridad = Secretaría
+  Anticorrupción y Buen Gobierno (art. 2-XV, 38-39), ARCO (art. 21); se marca que la LFPDPPP 2010 quedó **abrogada**.
+- [`MAPA-DE-ARTICULOS.md`](./MAPA-DE-ARTICULOS.md): tablero de **266 artículos** de **14 leyes** → tratado → estado.
+- [`Banco-de-Formatos/`](./Banco-de-Formatos/): **6 plantillas reales** (term sheet, acta de asamblea,
+  pagaré, SPA, aviso de privacidad, amparo indirecto).
+- [`Banco-de-Jurisprudencia/`](./Banco-de-Jurisprudencia/): criterios clave por rama, con clave de tesis
+  documentada y **remisión obligatoria al SJF** para verificar registro/vigencia (sin inventar registros).
+
+### Calidad
+- **0 enlaces `.md` rotos**, **0 markdown roto**. Scripts reproducibles en `tools/`.
+
+---
+
+## [3.4] — 2026-07 · «Corpus legal completo (27 leyes)» — *rama `v3.4-corpus-completo`, PR*
+
+> **Qué es la v3.4.** El cierre del corpus: se integran las **10 leyes finales** (procesal, datos,
+> responsabilidades, ambiental, consumidor, autor, seguridad social). Con ellas, **prácticamente cada
+> artículo citado en toda la biblioteca tiene su texto oficial verificado en `fuentes-legales/`**.
+
+### Añadido — 10 fuentes oficiales (Word `.doc` → UTF-8)
+- **CNPP** (DOF 28-11-2025), **CNPCF** (15-01-2026), **LFPDPPP** (14-11-2025, *nueva ley 2025*),
+  **LGRA** (15-12-2025), **LGEEPA** (19-01-2026), **LFPC** (12-12-2025), **LFPCA** (09-06-2026),
+  **LFDA** (14-05-2026), **LSS** (15-01-2026), **CFPC** (abrogado). **Corpus total: 27 leyes.**
+
+### Verificado (✅ verbatim)
+- **CNPP:** 1º, 211 · **CNPCF:** 1º · **LFPDPPP:** 1º, 3º · **LGRA:** 1º, 7º · **LGEEPA:** 1º, 3º ·
+  **LFPC:** 1º · **LFPCA:** 1º · **LFDA:** 1º, 11 · **LSS:** 1º, 2º · **CFPC:** 1º.
+
+### Hallazgo de vigencia (⟳ en acción)
+- El **Código Federal de Procedimientos Civiles (CFPC)** está **ABROGADO**: deja de regir a más tardar el
+  **1-abr-2027**, sustituido por el CNPCF. Un **código entero** de salida — el ejemplo definitivo de por
+  qué existe la apóstrofe de vigencia. Marcado como tal en el README de fuentes.
+
+---
+
+## [3.3] — 2026-07 · «Corazón corporativo completo (CPEUM + 7 leyes)» — *rama `v3.3-corpus-corporativo`, PR #7 fusionado*
 
 > **Qué es la v3.3.** Se cierran las **8 leyes de prioridad máxima** del derecho corporativo. Con esto,
 > el fiscal, el mercantil, el M&A, la competencia, el concursal, el bancario y la inversión extranjera
