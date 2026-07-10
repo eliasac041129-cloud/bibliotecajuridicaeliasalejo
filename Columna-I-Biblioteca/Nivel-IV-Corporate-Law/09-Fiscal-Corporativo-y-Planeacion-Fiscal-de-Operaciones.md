@@ -1,1012 +1,262 @@
-# [Nivel IV · Libro 9] Fiscal Corporativo y Planeación Fiscal de Operaciones
+# [Nivel IV · Libro 9] El Impuesto Sigue a la Sustancia: Fiscal Corporativo y Planeación de Operaciones
+#### *Por qué la estructura fiscal puede valer tanto como el precio — y dónde está la línea que no se cruza*
 
-> ⟳ **Apóstrofe de vigencia — léela cada vez.** El Derecho cambia sin avisar: un artículo puede mudar de número, de redacción o quedar **derogado** de un día para otro. El símbolo **⟳** que aparece tras cada artículo citado en este libro significa una sola cosa: *«¿sigue vigente —y con este mismo número— hoy? No lo cites de memoria ni desde este libro: **reitéralo en su código vigente**»* (textos oficiales en [`../../fuentes-legales/`](../../fuentes-legales/)). Caso real: el **art. 390 del CPF** que este proyecto cotejó aparece hoy como **«Derogado»**. Recuerda: un **✅** dice que el dato fue verificado *palabra por palabra a la fecha de su fuente*; la **⟳** te avisa que esa fecha ya quedó atrás y que la última palabra la tiene el código, no el libro.
+> ⟳ **Apóstrofe de vigencia.** El derecho fiscal es el que **más cambia y más se cita con números**:
+> tasas, artículos (LISR/CFF/LIVA) y reglas misceláneas se reforman **cada año**. El símbolo **⟳** tras un
+> artículo significa: *reitéralo en su código vigente* ([`../../fuentes-legales/`](../../fuentes-legales/))
+> antes de citarlo. Este libro enseña la **lógica** (que perdura), no tasas para memorizar. **Nunca**
+> apliques una cifra a un caso real sin confirmarla en la ley vigente y con un fiscalista.
 
+> **✅ Registro de verificación (cotejo verbatim contra `fuentes-legales/`):** ISR de personas morales
+> **30%** (art. 9 LISR ⟳); **razón de negocios / norma antiabuso** (art. 5º-A CFF ⟳); **operaciones
+> inexistentes / EFOS** (art. 69-B CFF ⟳); **pérdidas fiscales = 10 ejercicios siguientes** (art. 57 LISR
+> ⟳); **facultades de comprobación** (art. 42 CFF ⟳); **caducidad 5 años** (art. 67 CFF ⟳); **prescripción
+> 5 años** (art. 146 CFF ⟳). *Tasas, montos (UMA) y estímulos cambian cada ejercicio: reverifícalos.*
 
-> Ninguna operación corporativa se decide solo por su lógica jurídica o de negocio: se decide,
-> casi siempre, por **cuánto impuesto deja**. El mismo *deal* —comprar una empresa— puede costar
-> millones de más o de menos según **cómo se estructure fiscalmente**. Este libro enseña a pensar
-> la dimensión fiscal de las operaciones corporativas: por qué la estructura importa, cómo tributa
-> una compraventa de acciones frente a una de activos, qué hace "neutral" a una fusión o escisión,
-> y dónde está la línea —infranqueable— entre la **planeación legítima** y la **evasión**. Es la
-> capa que convierte a un abogado corporativo competente en uno **indispensable**: el que se sienta
-> en la mesa cuando se decide la estructura, no el que solo redacta lo ya decidido.
+**Etiquetas:** fiscal · M&A tax · planeación fiscal · neutralidad · razón de negocios · elusión vs. evasión · precios de transferencia
+**Prerrequisitos:** [Fundamentos de M&A](./01-Fundamentos-de-MA.md), [Estructuras](./03-Estructuras-Fusiones-Escisiones-Adquisiciones.md), [Sociedades (LGSM)](../Nivel-III-Derecho-Mercantil/02-Sociedades-Mercantiles-LGSM.md), [Economía para Juristas](../Nivel-I-Fundamentos/10-Economia-para-Juristas.md) y [Finanzas y Contabilidad](../Nivel-V-Maestria/02-Finanzas-y-Contabilidad-para-Abogados.md).
+**⏱ Dominio:** 6–8 semanas (≈ 60–80 h). *Bloques: lógica del ISR → fiscalidad del deal (acciones vs. activos) → neutralidad → planeación y sus límites → internacional.*
 
-**Etiquetas:** corporate law · fiscal · planeación fiscal · M&A tax · reestructuras · neutralidad fiscal · elusión vs. evasión
-**Prerrequisitos:** [Fundamentos de M&A](./01-Fundamentos-de-MA.md), [Estructuras: fusiones, escisiones, adquisiciones](./03-Estructuras-Fusiones-Escisiones-Adquisiciones.md), [Sociedades (LGSM)](../Nivel-III-Derecho-Mercantil/02-Sociedades-Mercantiles-LGSM.md), [Economía para Juristas](../Nivel-I-Fundamentos/10-Economia-para-Juristas.md) y, idealmente, [Finanzas y Contabilidad para Abogados](../Nivel-V-Maestria/02-Finanzas-y-Contabilidad-para-Abogados.md).
-**Estándar:** V3 (43 secciones + secciones transversales).
-
-> **✅ Registro de verificación (2026-07 · cotejo verbatim).** Los fundamentos fiscales que usa este
-> libro fueron cotejados **palabra por palabra** contra los textos oficiales vigentes archivados en
-> [`fuentes-legales/`](../../fuentes-legales/): **CFF** (última reforma DOF 09-04-2026) y **LISR** (última
-> reforma DOF 01-04-2024). **Verificado ✅:** ISR de personas morales **30%** (art. 9 LISR ⟳); **razón de
-> negocios / norma antiabuso** (art. 5º-A CFF ⟳); **operaciones inexistentes EFOS** (art. 69-B CFF ⟳);
-> **pérdidas fiscales = diez ejercicios siguientes** (art. 57 LISR ⟳); **facultades de comprobación**
-> (art. 42 CFF ⟳); **caducidad 5 años** (art. 67 CFF ⟳); **prescripción 5 años** (art. 146 CFF ⟳). Detalle en
-> [Derecho Fiscal](../Ramas-Esenciales/01-Derecho-Fiscal.md) y en el [Protocolo](../../PROTOCOLO_DE_VERIFICACION.md).
-> **⚠️** Tasas, tarifas, montos (UMA) y estímulos cambian cada ejercicio: reverifícalos con la ley del año.
-
-**⏱ Tiempo estimado de dominio:** 6–8 semanas (≈ 60–80 h de estudio activo). Lectura de
-reconocimiento: 10–12 h. *Estúdialo en bloques: la lógica del impuesto sobre la renta corporativo →
-la fiscalidad de la compraventa (acciones vs. activos) → la neutralidad en fusiones y escisiones →
-la planeación fiscal y sus límites → la dimensión internacional.*
-
-> **⚠️ AVISO DE VERIFICACIÓN (crítico en esta materia).** El derecho fiscal es el que **más cambia
-> y más se cita con números**: tasas, artículos de la LISR/CFF/LIVA y reglas misceláneas se
-> reforman **cada año**. Por eso este libro, siguiendo el [Protocolo de Verificación](../../PROTOCOLO_DE_VERIFICACION.md),
-> enseña la **lógica y la estructura** (que no caduca) y **marca con ⚠️ todo número de artículo,
-> tasa o regla específica como "verificar contra el texto vigente"**. **Nunca** apliques una cifra
-> de este libro a un caso real sin confirmarla en la ley vigente y con un fiscalista. Aquí aprendes
-> a *pensar* la fiscalidad de las operaciones, no a memorizar tasas que mañana serán otras.
-
-> **Aviso de método.** Tratado, no repaso. Entenderás la fiscalidad desde las dos lógicas que la
-> mueven: la del **fisco** (¿dónde se generó la riqueza y cómo la gravo?) y la del **contribuyente**
-> (¿cómo organizo legalmente mis operaciones para no pagar de más?). Cada figura se conecta con el
-> M&A (Libros 1-8): el impuesto es, muchas veces, **la variable que decide la estructura del deal**.
+> Ninguna operación se decide solo por su lógica jurídica: se decide, casi siempre, por **cuánto impuesto
+> deja**. Este libro convierte al abogado corporativo competente en **indispensable**: el que se sienta en
+> la mesa cuando se decide la estructura, no el que solo redacta lo ya decidido.
 
 ---
 
-### Nivel de importancia profesional (vista rápida)
-```
-Litigio              ★★★☆☆
-Corporate            ★★★★★
-M&A                  ★★★★★
-Mercado de Valores   ★★★★☆
-Venture Capital      ★★★★☆
-Private Equity       ★★★★★
-Gobierno Corporativo ★★★☆☆
-Compliance           ★★★★★
-Derecho Bancario     ★★★☆☆
-Empresa Familiar     ★★★★★
-```
-*Para tu perfil, esta es de las áreas de mayor ventaja competitiva: muy pocos abogados corporativos
-dominan fiscal, y casi ninguna operación se estructura sin él. Dominar la dimensión fiscal del deal
-—y, en tu caso, el ángulo fiscal-corporativo— te vuelve el abogado al que se consulta antes de
-decidir, no después.*
+## 1. El mismo precio, dos estructuras
 
-## 1. Introducción
+Imagina comprar la misma empresa por el mismo precio de dos formas. En una, el vendedor paga un impuesto
+moderado y el comprador conserva beneficios fiscales del negocio. En la otra, el vendedor paga mucho más y
+el comprador los pierde. **Mismo precio, mismo negocio, resultados económicos radicalmente distintos** —y la
+única diferencia fue *cómo se estructuró fiscalmente*—.
 
-Imagina dos formas de comprar la misma empresa por el mismo precio. En una, el vendedor paga un
-impuesto moderado y el comprador conserva ciertos beneficios fiscales del negocio adquirido. En la
-otra, el vendedor paga un impuesto mucho mayor y el comprador pierde esos beneficios. **Mismo
-precio, mismo negocio, resultados económicos radicalmente distintos** — y la única diferencia fue
-*cómo se estructuró fiscalmente la operación*. Esa es, en una imagen, la razón de ser de este libro.
-
-El **derecho fiscal corporativo** estudia cómo tributan las empresas y, sobre todo, **cómo tributan
-sus operaciones**: la obtención de utilidades, su distribución, la compraventa de negocios, las
-fusiones, las escisiones, las reestructuras y los flujos transfronterizos. La **planeación fiscal**
-es el arte —legítimo— de organizar esas operaciones, dentro de la ley, para que el costo fiscal sea
-el menor posible. No es un tema "de contadores": es una variable jurídica de primer orden que el
-abogado corporativo de élite **debe** dominar, porque la estructura legal de un *deal* y su
-estructura fiscal son dos caras de la misma moneda.
-
-La idea rectora del libro: **el impuesto sigue a la sustancia económica.** El sistema fiscal busca
-gravar la riqueza donde realmente se genera; la planeación legítima organiza la realidad económica
-de forma fiscalmente eficiente; y la evasión —el lado oscuro— finge una realidad que no existe para
-no pagar. Toda esta materia gira en torno a esa tensión entre **forma y sustancia**.
-
-## 2. Objetivos del libro
-
-Al terminar, el lector será capaz de:
-- Entender la **lógica** del impuesto sobre la renta corporativo (cómo se grava la utilidad de una
-  empresa y la distribución a sus dueños) sin depender de memorizar tasas.
-- Analizar la **fiscalidad de una compraventa de empresa**: las consecuencias, muy distintas, de
-  comprar **acciones** frente a comprar **activos**, y por qué comprador y vendedor suelen preferir
-  estructuras opuestas.
-- Comprender el régimen de **neutralidad fiscal** en fusiones y escisiones: qué requisitos hacen que
-  una reestructura **no** detone impuesto, y por qué.
-- Distinguir con claridad **planeación legítima (elusión) vs. evasión**, y operar siempre del lado
-  correcto de esa línea.
-- Reconocer la dimensión **internacional**: doble tributación, tratados, precios de transferencia y
-  el porqué de las estructuras *cross-border*.
-- Integrar lo fiscal en el diseño de una operación de M&A **desde el inicio**, no como un trámite
-  final.
-
-## 3. Importancia profesional
-
-En la práctica corporativa de élite, la pregunta fiscal aparece **antes** que casi cualquier otra:
-*"¿cómo estructuramos esto?"* es, en el fondo, una pregunta fiscal tanto como jurídica. El abogado
-que solo redacta el contrato que otros diseñaron cobra como ejecutor; el que **diseña la estructura**
-—y entiende por qué una fusión inversa, una escisión previa o una compra de activos cambia el
-resultado fiscal— se sienta en la mesa de decisiones y cobra como arquitecto.
-
-Además, lo fiscal es **transversal**: toca el M&A (estructura del deal), el financiamiento
-(deducibilidad de intereses), el gobierno corporativo (distribución de dividendos), la empresa
-familiar (sucesión patrimonial) y el venture capital/private equity (vehículos de inversión). Pocas
-áreas dan tanto apalancamiento profesional. Y son notoriamente escasos los abogados que dominan **a
-la vez** lo corporativo y lo fiscal: esa intersección es un nicho de altísimo valor.
-
-## 4. Historia de la institución
-
-El impuesto sobre la renta —gravar lo que una persona o empresa **gana**— es relativamente moderno.
-Durante siglos los Estados se financiaron sobre todo con impuestos al **consumo**, al comercio y a la
-propiedad. El impuesto sobre la renta como lo conocemos surge con fuerza a partir del siglo XIX y se
-generaliza en el XX, cuando los Estados modernos necesitaron financiar funciones crecientes y
-encontraron en la **renta** —la capacidad económica real de cada quien— la base más justa y
-productiva para tributar.
-
-> *Nota de método (Principio Supremo):* las fechas y atribuciones históricas precisas (qué país
-> introdujo primero el ISR, en qué año) deben **verificarse** en fuentes históricas; aquí interesa la
-> **lógica evolutiva** —del impuesto al consumo y al comercio hacia el impuesto a la renta— más que
-> una cronología memorizada.
-
-En México, el impuesto sobre la renta se consolidó a lo largo del siglo XX y ha sido objeto de
-**reformas constantes**; su ley vigente (Ley del Impuesto sobre la Renta) convive con el Código
-Fiscal de la Federación, la Ley del IVA y un cuerpo enorme de reglas administrativas. ⚠️ *Las leyes
-concretas y sus fechas deben verificarse contra el texto vigente.*
-
-## 5. Evolución histórica
-
-La evolución del derecho fiscal corporativo sigue tres grandes movimientos:
-
-1. **De gravar cosas a gravar riqueza.** Del impuesto sobre bienes y consumo hacia el impuesto sobre
-   la **renta** (la utilidad), que mide mejor la capacidad económica.
-2. **De lo nacional a lo internacional.** Con la globalización, las empresas operan en varios países;
-   el derecho fiscal desarrolló **tratados para evitar la doble tributación**, reglas de **precios de
-   transferencia** y, recientemente, esfuerzos globales contra la erosión de la base gravable (el
-   movimiento conocido como **BEPS**, impulsado por la OCDE). ⚠️ *Verificar el estado vigente de
-   estas iniciativas.*
-3. **De la forma a la sustancia.** La gran tendencia moderna: las autoridades y los tribunales cada
-   vez miran menos la **forma jurídica** de una operación y más su **sustancia económica** y su
-   **razón de negocios**, para combatir estructuras artificiales. Esta es la idea más importante de
-   todo el libro y la que marca el futuro de la profesión.
-
-## 6. Contexto económico
-
-El impuesto es un **costo** y, como todo costo, influye en las decisiones. Las empresas no operan en
-un vacío fiscal: deciden cómo financiarse (deuda vs. capital), dónde establecerse, cómo repartir
-utilidades y cómo estructurar sus compras **mirando el efecto fiscal**. Un sistema fiscal bien
-diseñado busca **neutralidad** (no distorsionar decisiones económicas sanas) y **eficiencia**
-(recaudar sin ahogar la actividad). Cuando el impuesto castiga una operación económicamente
-razonable, surge la planeación; cuando la planeación se vuelve abuso, surge la reacción del fisco. Es
-un equilibrio dinámico, casi un juego repetido (Nivel V), entre contribuyente y autoridad.
-
-## 7. Contexto político
-
-Los impuestos son el corazón del **pacto fiscal**: cuánto aporta cada quien al sostenimiento del
-Estado y a qué cambio. Por eso la materia fiscal es intensamente **política**: las tasas, los
-regímenes preferenciales, los estímulos y las reglas anti-abuso se debaten y reforman con cada
-gobierno y cada presupuesto. Para el abogado, esto significa una cosa práctica: **el derecho fiscal
-es inestable por naturaleza**, y mantenerse actualizado no es opcional. Lo que hoy es una estructura
-válida puede dejar de serlo con una reforma. De ahí, otra vez, la obsesión de este libro con
-**verificar lo vigente**.
-
-## 8. Contexto social
-
-Detrás del tecnicismo, lo fiscal tiene una dimensión social profunda: financia lo público (salud,
-educación, seguridad, infraestructura) y expresa una idea de **justicia distributiva** (quién paga,
-cuánto y según qué capacidad). En años recientes, la sociedad y los reguladores han elevado la
-exigencia ética: la evasión y las estructuras agresivas dejaron de verse como "viveza" y pasaron a
-ser un **riesgo reputacional y legal grave**. Para el abogado corporativo, esto refuerza el Principio
-de Integridad Ética del proyecto: la planeación legítima crea valor; la evasión destruye reputación
-y, tarde o temprano, patrimonio.
-
-## 9. Contexto empresarial
-
-En la vida de una empresa, lo fiscal está en **todo**: en cómo se constituye (qué vehículo y régimen
-elegir), en cómo factura y deduce, en cómo paga a sus dueños (sueldo vs. dividendo), en cómo se
-financia (los intereses suelen ser deducibles; los dividendos no), en cómo crece (una adquisición) y
-en cómo se reorganiza (una fusión o escisión). El director financiero y el fiscalista viven esto a
-diario; el abogado corporativo que **entiende su lenguaje** se vuelve su aliado natural y un asesor
-mucho más completo. No necesitas ser el fiscalista del *deal* —para eso hay especialistas—, pero sí
-**entender lo suficiente para diseñar la estructura con ellos y no contra ellos**.
+Y hay un límite que lo gobierna todo. En 2024 el **Tribunal de Justicia de la UE** confirmó que Irlanda
+debía recuperar de **Apple más de 13,000 millones de euros** (unos 14,300 con intereses): las ventajas
+fiscales que dos filiales irlandesas de Apple habían recibido durante décadas eran **ayuda de Estado
+ilegal** —una estructura formalmente pulcra que no reflejaba la **realidad económica**—. *(Fuentes: TJUE
+C-465/20 P; Reuters; BBC.)* Las dos ideas abren este libro: la estructura fiscal **crea o destruye valor**
+como el precio mismo; y **el impuesto sigue a la sustancia económica** —la planeación legítima organiza la
+realidad de forma eficiente; el abuso finge una realidad que no existe—. Toda la materia gira en torno a esa
+tensión entre **forma y sustancia**.
 
 
-## 10. Definiciones doctrinales
-
-La doctrina fiscal ha construido un puñado de conceptos que vale la pena fijar (parafraseados; ⚠️
-*atribuciones a autores concretos, verificar*):
-
-- **Tributo / contribución:** prestación económica que el Estado exige, con fundamento en la ley, a
-  quienes realizan el hecho que la ley considera generador de la obligación de pagar (el *hecho
-  imponible*). La doctrina lo describe como una obligación *ex lege* (nace de la ley, no del acuerdo).
-- **Hecho imponible (o hecho generador):** el suceso económico que, descrito en la ley, hace nacer la
-  obligación tributaria (p. ej., obtener un ingreso, realizar una enajenación). Sin hecho imponible
-  realizado, no hay impuesto.
-- **Capacidad contributiva:** principio según el cual cada quien debe contribuir conforme a su
-  **capacidad económica real**. Es la justificación profunda del impuesto sobre la renta y un límite
-  constitucional: no se puede gravar donde no hay riqueza.
-- **Elusión (planeación fiscal):** el uso de medios **lícitos** para reducir, diferir o evitar la
-  carga fiscal, organizando los negocios de forma fiscalmente eficiente. Es legal.
-- **Evasión:** el incumplimiento **ilícito** de la obligación tributaria —ocultar ingresos, simular
-  operaciones, falsear—. Es ilegal y a menudo delito.
-- **Razón de negocios (*business purpose*):** la idea de que una operación debe tener una finalidad
-  económica real distinta del mero ahorro fiscal; cuando solo busca el beneficio fiscal, la autoridad
-  puede recaracterizarla.
-
-## 11. Definiciones legales
-
-> **⚠️ Verificar todos los artículos contra el texto vigente.** Lo que sigue describe **dónde** vive
-> conceptualmente cada definición en el sistema mexicano, no su redacción exacta ni su numeración (que
-> cambian con las reformas).
-
-- El **Código Fiscal de la Federación (CFF)** define los conceptos generales: qué es una
-  contribución, el crédito fiscal, la enajenación, las facultades de la autoridad, las infracciones y
-  delitos, y —clave para este libro— la **cláusula general anti-abuso** (la regla que permite
-  recaracterizar actos sin razón de negocios; ⚠️ *verificar artículo y redacción vigentes*).
-- La **Ley del Impuesto sobre la Renta (LISR)** define el **ingreso acumulable**, las **deducciones
-  autorizadas**, la base del impuesto, las tasas, el régimen de personas morales y físicas, y los
-  regímenes especiales de **fusión y escisión** (la "neutralidad"), de dividendos y de enajenación de
-  acciones. ⚠️ *Artículos y tasas: verificar.*
-- La **Ley del Impuesto al Valor Agregado (LIVA)** grava el consumo (enajenación de bienes, prestación
-  de servicios, etc.); importa en operaciones que involucran **activos** (un *asset deal* puede causar
-  IVA que un *share deal* no). ⚠️ *Verificar tasas y supuestos.*
-
-> **Idea para fijar:** no memorices el número de artículo; memoriza **qué ley regula qué**: CFF =
-> reglas generales + anti-abuso + delitos; LISR = impuesto sobre la utilidad/ingreso; LIVA = impuesto
-> al consumo. Con ese mapa sabes dónde buscar, que es lo que hace un profesional.
-
-## 12. Definición sencilla
-
-Si tuvieras que explicárselo a alguien sin formación, dirías:
-
-> **El impuesto sobre la renta es el "porcentaje" que el Estado se queda de lo que ganas.** Una
-> empresa gana (ingresos menos gastos = utilidad) y sobre esa utilidad paga ISR. Cuando reparte lo que
-> queda a sus dueños (dividendos), puede haber otro impuesto. Y cuando vendes algo con ganancia (una
-> empresa, un inmueble, acciones), pagas impuesto sobre **esa ganancia**.
->
-> **La planeación fiscal** es, simplemente, **organizar tus cosas legalmente para no pagar más de lo
-> necesario** —como elegir el camino con menos casetas, pero sin saltarte ninguna—. **La evasión** es
-> no pagar las casetas que sí te tocaban: eso es ilegal.
-
-## 13. Conceptos fundamentales
-
-Glosario riguroso. Domínalo: es el vocabulario del *deal* fiscal.
-
-| Concepto | Qué es |
-|----------|--------|
-| **Ingreso acumulable** | El ingreso que la ley obliga a sumar para calcular la base del ISR. |
-| **Deducción autorizada** | El gasto que la ley permite restar del ingreso (debe ser estrictamente indispensable, estar soportado y cumplir requisitos). |
-| **Base gravable** | Ingreso acumulable − deducciones autorizadas; sobre ella se aplica la tasa. |
-| **Tasa** | El porcentaje aplicable a la base. ⚠️ *Cambia; verificar la vigente.* |
-| **Enajenación** | Concepto fiscal amplio de "transmitir la propiedad" (incluye venta, permuta, aportación, etc.); detona el impuesto sobre la ganancia. |
-| **Costo fiscal / base** | Lo que "te costó" fiscalmente un bien o acción; la ganancia gravable es precio − costo fiscal. |
-| **Ganancia de capital** | La utilidad por vender un activo o acciones por encima de su costo fiscal. |
-| **Dividendo** | Distribución de utilidades a los socios; tiene su propio régimen fiscal (y a menudo doble carga: la empresa ya pagó ISR sobre la utilidad). |
-| **CUFIN** (cuenta de utilidad fiscal neta) | Registro de las utilidades por las que la empresa **ya pagó** ISR; distribuir desde ahí evita doble impuesto. ⚠️ *Verificar régimen vigente.* |
-| **Pérdidas fiscales** | Cuando las deducciones superan los ingresos; pueden amortizarse contra utilidades futuras (con límites y reglas anti-traspaso). Activo valioso en M&A. |
-| **Neutralidad fiscal** | Régimen por el cual ciertas reestructuras (fusión, escisión) **no** detonan impuesto si se cumplen requisitos. |
-| **Diferimiento** | No evitar el impuesto, sino **posponerlo** (pagar después). Por el valor del dinero en el tiempo, diferir ya es un beneficio. |
-| **Doble tributación** | Que un mismo ingreso se grave dos veces (p. ej., en dos países, o a nivel empresa y a nivel socio). Los tratados y la CUFIN buscan mitigarla. |
-| **Precios de transferencia** | Reglas para que operaciones entre partes relacionadas se pacten a valores de mercado (*arm's length*) y no para mover artificialmente la utilidad. |
-| **Razón de negocios** | Finalidad económica real de una operación, más allá del ahorro fiscal; su ausencia activa el anti-abuso. |
-| **Cláusula general anti-abuso (GAAR)** | Norma que permite a la autoridad recaracterizar actos carentes de razón de negocios cuyo único fin fue el beneficio fiscal. ⚠️ *Verificar redacción vigente del CFF.* |
-
-
-## 14. Desarrollo absoluto
-
-El núcleo del libro. Aquí construimos, paso a paso, la forma de **pensar** la fiscalidad de una
-operación corporativa. No memorices tasas (cambian): interioriza la **lógica**.
-
-### 14.A · La lógica del ISR corporativo (de dónde sale el impuesto)
+## 2. La lógica del ISR corporativo
 
 Toda la fiscalidad corporativa parte de una cadena sencilla:
 
 ```
-INGRESOS  −  DEDUCCIONES  =  UTILIDAD (base)  ×  TASA  =  ISR de la empresa
-                                                              │
-                              (lo que queda)  →  DIVIDENDO al socio  →  (posible 2º impuesto)
+INGRESOS − DEDUCCIONES = UTILIDAD (base) × TASA (30% ⟳) = ISR de la empresa
+                                              │
+                          (lo que queda) → DIVIDENDO al socio → (posible 2º impuesto)
 ```
 
-Tres ideas que de aquí se desprenden y que gobiernan todo lo demás:
+Tres ideas gobiernan todo lo demás:
+1. **Se grava la utilidad, no el ingreso.** Por eso las **deducciones** son el campo de batalla: deben ser
+   *estrictamente indispensables*, estar *soportadas* (CFDI) y cumplir requisitos (LISR ⟳).
+2. **La doble imposición del dividendo y la CUFIN.** La empresa paga ISR sobre su utilidad; al repartirla,
+   la **CUFIN** (registro de utilidades ya gravadas) evita volver a gravarla. Distribuir por encima de CUFIN
+   sí detona impuesto.
+3. **Deuda vs. capital (la asimetría madre).** Los **intereses** suelen ser **deducibles** (bajan el ISR);
+   los **dividendos no**. Por eso financiarse con deuda es a menudo más eficiente —hasta que la ley pone
+   límites (**capitalización delgada** y topes a la deducción de intereses ⟳) para evitar el abuso—.
 
-1. **Se grava la utilidad, no el ingreso.** Por eso las **deducciones** son el campo de batalla
-   diario: un gasto deducible baja la base; uno no deducible no. La ley exige que la deducción sea
-   *estrictamente indispensable*, esté *soportada* (factura/CFDI) y cumpla requisitos. ⚠️ *Requisitos
-   concretos: verificar LISR vigente.*
-2. **La doble imposición económica del dividendo.** La empresa paga ISR sobre su utilidad; cuando
-   reparte esa utilidad ya gravada a los socios, el sistema busca **no volver a gravarla** mediante la
-   **CUFIN** (las utilidades por las que ya se pagó). Distribuir desde CUFIN no debería causar ISR
-   adicional corporativo; distribuir por encima de CUFIN sí detona un impuesto. ⚠️ *Mecánica y tasas:
-   verificar.* La lección permanente: **el dividendo carga un costo fiscal que el interés (deuda) no
-   carga** — y eso explica buena parte de la planeación de financiamiento.
-3. **Deuda vs. capital (la asimetría madre).** Los **intereses** que paga la empresa suelen ser
-   **deducibles** (bajan su ISR); los **dividendos** que paga **no** lo son. Por eso, fiscalmente,
-   financiarse con deuda es a menudo más eficiente que con capital — hasta que la ley pone límites
-   (reglas de **capitalización delgada** / *thin capitalization* y topes a la deducción de intereses,
-   precisamente para evitar el abuso). ⚠️ *Límites concretos: verificar.*
+> **Las 5 preguntas del fiscalista** (resuelven el 80% del análisis): (1) ¿qué **hecho imponible** se
+> realiza? (2) ¿quién obtiene el ingreso o la ganancia? (3) ¿cuál es su **costo fiscal/base**? (4) ¿hay un
+> **régimen especial** (neutralidad, diferimiento)? (5) ¿hay **razón de negocios**?
 
-> **Cómo piensa un fiscalista (y debes pensar tú):** ante cualquier operación, se pregunta *(1) ¿qué
-> hecho imponible se realiza?, (2) ¿quién obtiene el ingreso o la ganancia?, (3) ¿cuál es su costo
-> fiscal/base?, (4) ¿hay un régimen especial (neutralidad, diferimiento)?, (5) ¿hay razón de
-> negocios?*. Esas cinco preguntas resuelven el 80 % del análisis.
+## 3. La fiscalidad del deal: acciones vs. activos
 
-### 14.B · La dimensión fiscal del deal: por qué la estructura lo es todo
+En toda compraventa hay **dos lados con intereses fiscales opuestos**: el **vendedor** quiere minimizar el
+impuesto sobre su ganancia hoy; el **comprador** quiere maximizar lo que podrá deducir mañana y **no heredar
+contingencias**. La **estructura** reparte ese costo fiscal —igual que las reps reparten el riesgo (Libro
+4)—.
 
-En una compraventa de empresa hay **siempre dos lados con intereses fiscales opuestos**, y entender
-esa tensión es entender la negociación:
-
-- **El vendedor** quiere **minimizar el impuesto sobre su ganancia** hoy (precio − costo fiscal).
-- **El comprador** quiere **maximizar lo que podrá deducir/recuperar mañana** (depreciar lo comprado,
-  aprovechar pérdidas, intereses del financiamiento) y **no heredar contingencias fiscales** del
-  pasado del negocio.
-
-Estos intereses chocan, y la **estructura** del deal es el terreno donde se reparte ese costo fiscal
-—exactamente igual que las representaciones y garantías reparten el riesgo (Libro 4)—. Por eso el
-abogado que entiende fiscal **negocia mejor el precio y la estructura**: sabe que "el mismo precio"
-no es el mismo para cada parte una vez metido el impuesto.
-
-> **Regla de oro del deal fiscal:** *el precio nominal no es el precio real; el precio real es el
-> precio después de impuestos.* Un vendedor racional prefiere $95 con bajo impuesto a $100 con impuesto
-> alto. El abogado que sabe esto encuentra estructuras que **agrandan el pastel después de impuestos**
-> y reparten esa ganancia entre las partes — eso es crear valor, no solo dividirlo.
-
-
-### 14.C · La decisión fiscal central: comprar acciones vs. comprar activos
-
-Es la primera gran bifurcación de toda adquisición (la viste en el Libro 3 desde lo corporativo;
-aquí desde lo fiscal). La estructura cambia **quién paga, cuánto y qué se lleva el comprador**.
-
-**Compra de ACCIONES (*share deal*)** — se compra la sociedad entera, con todo lo que tiene dentro.
-- **Vendedor:** obtiene una **ganancia por enajenación de acciones** (precio − costo fiscal de las
-  acciones). Suele ser su estructura preferida: a menudo el régimen de ganancia en acciones es más
-  benigno y el cálculo del costo fiscal puede incluir utilidades retenidas. ⚠️ *Régimen y cálculo:
-  verificar.*
-- **Comprador:** hereda la sociedad **con toda su historia fiscal** — sus activos a su valor fiscal
-  actual (no puede "re-valuarlos" para depreciar más), sus pérdidas fiscales (valiosas, pero con
-  reglas anti-traspaso), **y sus contingencias** (si el SAT revisa años después, el problema es del
-  comprador). Por eso el *share deal* exige **due diligence fiscal** feroz e **indemnizaciones
-  específicas** (Laboratorio, Ej. 04).
-
-**Compra de ACTIVOS (*asset deal*)** — se compran bienes y derechos seleccionados, no la sociedad.
-- **Comprador:** suele preferirla. Elige **qué compra** (deja atrás pasivos y contingencias ocultas),
-  y a menudo puede **registrar los activos a su valor de compra** (*step-up*), lo que le da **más
-  depreciación deducible** a futuro. Pero puede causar **IVA** y otros impuestos/derechos sobre la
-  transmisión (p. ej., en inmuebles). ⚠️ *Verificar IVA y régimen.*
-- **Vendedor:** suele salir peor: la venta de activos puede generar **ganancia gravable a nivel de la
-  sociedad** y, además, si luego reparte el dinero a sus socios, **otro impuesto al dividendo** — la
-  temida **doble carga**.
-
-> **El conflicto, en una frase:** *el comprador suele preferir comprar activos (step-up, sin
-> contingencias); el vendedor suele preferir vender acciones (un solo impuesto, más benigno).* La
-> estructura final es producto de la **negociación** —y muchas veces el precio se ajusta para
-> compensar a quien carga el costo fiscal—. Aquí el abogado fiscal-corporativo vale oro.
-
-| | Share deal (acciones) | Asset deal (activos) |
+| | **Share deal** (acciones) | **Asset deal** (activos) |
 |---|---|---|
-| Suele preferirlo | **Vendedor** | **Comprador** |
+| Suele preferirlo | **Vendedor** (un solo impuesto, régimen más benigno) | **Comprador** (elige qué compra) |
 | Contingencias del pasado | Las **hereda** el comprador | Se **quedan** con el vendedor |
-| "Step-up" para depreciar | Generalmente **no** | Generalmente **sí** |
-| Pérdidas fiscales del target | Pueden pasar (con límites) | No pasan (se queda la sociedad) |
+| *Step-up* para depreciar | Generalmente **no** (hereda valor histórico) | Generalmente **sí** (registra a valor de compra) |
+| Pérdidas fiscales del *target* | Pueden pasar (con reglas **anti-traspaso**, art. 57 LISR ⟳) | No pasan |
 | IVA / impuestos de transmisión | Generalmente no en la acción | Posible (activos, inmuebles) |
-| Riesgo de doble impuesto al vendedor | Menor | Mayor |
+| Riesgo de doble impuesto al vendedor | Menor | Mayor (ganancia en la sociedad + dividendo al subir el dinero) |
 
-> ⚠️ *Todo lo anterior es la **lógica general**; cada punto tiene excepciones y depende del régimen
-> vigente. Verificar siempre con fiscalista.*
+> **Regla de oro del deal fiscal:** *el precio nominal no es el precio real; el precio real es el precio
+> después de impuestos.* El abogado fiscal-corporativo busca estructuras que **agranden el pastel después de
+> impuestos** y reparten esa ganancia en el precio —eso es crear valor, no solo dividirlo—.
 
-### 14.D · Neutralidad fiscal: fusiones y escisiones que NO pagan (si se hacen bien)
+> 🧭 **Detente y piensa.** El comprador quiere *asset deal* (step-up, sin contingencias) y el vendedor quiere *share deal* (un solo impuesto). ¿Cómo cierras un deal si cada quien prefiere lo opuesto? No imponiendo una estructura, sino calculando el **valor después de impuestos** de cada vía para cada parte y **ajustando el precio** para compensar a quien carga la mayor carga. A veces un *asset deal* con un ajuste al alza para el vendedor deja a **ambos** mejor que un *share deal*: el step-up del comprador financia la compensación. Fiscal bien hecho no reparte un pastel fijo; lo agranda.
 
-¿Cómo reorganiza una empresa su estructura —fusionarse, escindirse— sin que cada movimiento detone un
-impuesto que lo haría imposible? Mediante el régimen de **neutralidad fiscal**: la ley reconoce que en
-una **mera reorganización** no hay una verdadera "realización" de riqueza (los mismos dueños siguen
-detrás de los mismos activos, solo reordenados), y por eso permite que la operación **no cause ISR**
-*si se cumplen requisitos*.
+## 4. Neutralidad fiscal: reorganizar sin pagar (si se hace bien)
 
-La idea profunda: la neutralidad **no perdona** el impuesto, lo **difiere**. El costo fiscal "viaja"
-con los activos/acciones a la nueva estructura; el impuesto se pagará después, cuando haya una
-verdadera enajenación a un tercero. Es diferimiento, no exención.
+¿Cómo se fusiona o escinde una empresa sin que cada movimiento detone un impuesto que lo haría imposible?
+Por el régimen de **neutralidad fiscal**: la ley reconoce que en una **mera reorganización** (los mismos
+dueños siguen detrás de los mismos activos, solo reordenados) no hay verdadera "realización" de riqueza, y
+permite que **no cause ISR** *si se cumplen requisitos*.
 
-**Requisitos típicos (la lógica; ⚠️ verificar los concretos en LISR/CFF vigentes):**
-- **Continuidad en la propiedad:** los mismos accionistas deben permanecer un tiempo mínimo (evita que
-  la "fusión" sea una venta disfrazada).
-- **Continuidad del negocio:** que la actividad siga, no que se liquide.
-- **Requisitos formales:** avisos, contabilidad, valores fiscales que se conservan.
-- **Razón de negocios:** que la reorganización tenga una finalidad económica real, no solo fiscal.
+La idea profunda: la neutralidad **no perdona el impuesto, lo difiere**. El costo fiscal "viaja" con los
+activos a la nueva estructura y se pagará al enajenar a un tercero. Requisitos típicos (⟳): **continuidad en
+la propiedad** (los mismos accionistas permanecen un tiempo mínimo —evita que la "fusión" sea una venta
+disfrazada—), **continuidad del negocio**, requisitos **formales** (avisos, valores fiscales conservados) y
+**razón de negocios**. Incumplir uno **pierde la neutralidad entera**: una reorganización que debía ser
+libre de impuesto se convierte en un hecho gravado por millones. La neutralidad es un beneficio
+**condicionado**: se respeta al pie de la letra o se pierde.
 
-> **Errores que cuestan millones (anticipo):** incumplir un requisito formal o de permanencia
-> accionaria y **perder la neutralidad** — convirtiendo una reorganización que debía ser libre de
-> impuesto en un hecho gravado por millones. La neutralidad es un beneficio **condicionado**: se
-> respeta al pie de la letra o se pierde entera.
+## 5. Planeación vs. evasión: la línea infranqueable
 
-> **Cómo se usa en planeación (legítima):** a veces se hace una **escisión previa** para separar el
-> negocio que se quiere vender de los activos que se quieren conservar, y luego se vende solo esa
-> parte; o una **fusión** para integrar y aprovechar sinergias y, en su caso, pérdidas fiscales
-> (con límites estrictos). Todo **con razón de negocios documentada**.
+El corazón ético y técnico de la materia descansa en un principio reconocido: **nadie está obligado a
+estructurar sus negocios de la forma que más impuesto pague.** Elegir, entre opciones legales, la más
+eficiente es **elusión / economía de opción**, y es lícito. Las herramientas legítimas: **diferir**
+(posponer el impuesto vale, por el valor del dinero en el tiempo), **aprovechar regímenes que la ley crea**
+(neutralidad, CUFIN, tratados, estímulos) y **elegir vehículo y estructura** —siempre con **razón de
+negocios**—.
 
+La diferencia entre planeación y delito no es de grado, es de **naturaleza**:
 
-### 14.E · Planeación fiscal y la línea infranqueable
-
-Aquí está el corazón ético y técnico de la materia. La planeación fiscal **legítima** descansa en un
-principio reconocido: **nadie está obligado a estructurar sus negocios de la forma que más impuesto
-pague.** Puedes elegir, entre opciones legales, la más eficiente. Eso es **elusión / economía de
-opción**, y es lícito.
-
-Las herramientas legítimas de planeación son, casi siempre, **diferir, aprovechar regímenes que la
-ley ofrece, y elegir la estructura adecuada**:
-- **Diferimiento:** posponer el impuesto (por el valor del dinero en el tiempo, pagar en 5 años vale
-  menos que pagar hoy).
-- **Aprovechar regímenes que la propia ley crea:** neutralidad en reorganizaciones, CUFIN para evitar
-  doble impuesto, estímulos sectoriales, tratados para evitar doble tributación.
-- **Elegir vehículo y estructura:** qué tipo de sociedad, dónde, share vs. asset, deuda vs. capital —
-  todo dentro de lo que la ley permite y **con razón de negocios**.
-
-**La línea infranqueable.** La diferencia entre planeación y delito no es de grado, es de **naturaleza**:
-
-| | Elusión / planeación (LÍCITO) | Evasión (ILÍCITO — a menudo delito) |
+| | **Elusión / planeación (LÍCITO)** | **Evasión (ILÍCITO — delito)** |
 |---|---|---|
 | Qué hace | Organiza la realidad de forma eficiente | **Oculta o falsea** la realidad |
 | La realidad económica | Es **verdadera** | Es **fingida** (simulación) |
-| Ejemplo | Hacer una escisión real con razón de negocios | Facturar operaciones inexistentes; ocultar ingresos; testaferros |
-| Frente al fisco | Se sostiene a la luz | Se derrumba al revisarse |
-| Consecuencia | Ahorro legítimo | Multas, recargos, **delito fiscal (defraudación), cárcel** |
-
-> **La frontera moderna: la razón de negocios y la cláusula anti-abuso (GAAR).** Hoy no basta con que
-> una estructura sea *formalmente* legal: si su **único propósito** es el beneficio fiscal y carece de
-> **razón de negocios** real, la autoridad puede **recaracterizarla** (tratarla como lo que
-> económicamente es) mediante la cláusula general anti-abuso del CFF. ⚠️ *Verificar redacción
-> vigente.* Esto significa que la planeación agresiva "técnicamente legal pero artificial" es un
-> terreno cada vez más peligroso. **La sustancia vence a la forma.**
-
-> **Cómo piensa un socio (y el Principio de Integridad del proyecto):** el socio serio no busca la
-> estructura "más lista", busca la **más sólida** — la que tiene razón de negocios real, se documenta
-> bien y **sobrevive una auditoría dentro de cinco años**. La planeación agresiva que ahorra hoy y
-> explota mañana no es un activo: es una bomba de tiempo para el cliente y para la reputación del
-> abogado. El mejor fiscalista no es el más audaz, es **el que nunca pierde una revisión**.
-
-> **Regla permanente para ti:** ofrece a tus clientes **eficiencia fiscal con sustancia y
-> documentación**, nunca trucos. La eficiencia bien hecha crea valor y fideliza; la evasión, tarde o
-> temprano, destruye al cliente y te arrastra a ti. En fiscal, tu firma vale lo que vale tu
-> integridad.
-
-
-## 15. Explicación intuitiva (el modelo mental)
-
-Piensa en el impuesto como un **peaje sobre la riqueza nueva**. Cada vez que se genera riqueza
-*nueva y real* (una utilidad, una ganancia al vender algo más caro de lo que costó), hay un peaje. Y
-aquí están las tres intuiciones que lo explican casi todo:
-
-1. **El peaje se cobra cuando "realizas" la ganancia, no antes.** Mientras tu empresa *vale* más pero
-   no la vendes, no hay peaje (no realizaste nada). El día que vendes, realizas la ganancia y se
-   activa el peaje. → Por eso **diferir** la realización (posponer la venta, usar neutralidad) pospone
-   el peaje.
-
-2. **Reordenar tu propia casa no es realizar riqueza.** Si mueves muebles de un cuarto a otro de tu
-   casa (fusión, escisión entre los mismos dueños), no "vendiste" nada: por eso la **neutralidad** no
-   cobra peaje — hasta que saques el mueble a la calle y lo vendas a un extraño.
-
-3. **El fisco mira quién se quedó la riqueza, no la etiqueta del papel.** Si disfrazas una venta de
-   "reorganización" pero en realidad un tercero se llevó el negocio y tú el dinero, el fisco
-   **levanta la etiqueta** y cobra el peaje real (sustancia sobre forma / anti-abuso).
-
-> **La metáfora del camino con casetas (planeación):** ir de A a B legalmente puede tener varias
-> rutas; elegir la de menos casetas es tu derecho (elusión). Lo que no puedes hacer es **pasar por la
-> caseta sin pagar** (evasión) ni **poner una caseta de juguete fingiendo un camino que no recorres**
-> (simulación). Misma meta, medios distintos: unos legales, otros delito.
-
-## 16. Ejemplos simples (para asentar)
-
-> Cifras **ilustrativas e inventadas** para mostrar la *mecánica*, no valores reales. ⚠️ Tasas y
-> reglas: verificar las vigentes.
-
-**Ejemplo 1 — Utilidad y dividendo.** Una empresa tiene ingresos por 100 y deducciones por 60 →
-utilidad 40. Aplica una tasa hipotética del 30 % → paga 12 de ISR. Le quedan 28. Si reparte esos 28
-como dividendo desde su CUFIN (utilidades ya gravadas), no debería pagar ISR corporativo adicional.
-*Lección:* la utilidad se grava una vez a nivel empresa; la CUFIN evita volver a gravarla al
-repartir.
-
-**Ejemplo 2 — Ganancia de capital.** Compraste acciones en 100 (tu costo fiscal) y las vendes en 150.
-Tu **ganancia** es 50; el impuesto recae sobre esos 50, no sobre los 150. *Lección:* siempre importa
-el **costo fiscal/base**, no solo el precio.
-
-**Ejemplo 3 — Deuda vs. capital.** Una empresa paga 10 de intereses por un préstamo: suelen ser
-**deducibles** (bajan su base). Si en vez de eso pagara 10 de dividendos, **no** son deducibles.
-*Lección:* la forma de financiarse cambia el impuesto.
-
-## 17. Ejemplos complejos (multi-variable, realistas)
-
-**Compra de empresa: el mismo precio, dos estructuras.** Compradora quiere adquirir "Target".
-- **Vía share deal:** paga 1,000 por las acciones. El vendedor calcula ganancia (1,000 − su costo
-  fiscal) y paga el régimen de acciones. La Compradora hereda los activos a su valor fiscal histórico
-  (poca depreciación futura) **y** las contingencias fiscales de Target → exige due diligence fiscal e
-  indemnización específica.
-- **Vía asset deal:** paga 1,000 por los activos. Puede hacer **step-up** (registrarlos en 1,000 y
-  depreciar más → menos ISR futuro) y deja atrás las contingencias, **pero** puede causar IVA y, para
-  el vendedor, ganancia a nivel sociedad + impuesto al dividendo al subir el dinero a los socios
-  (doble carga).
-- **El abogado fiscal-corporativo** calcula el **valor después de impuestos** de cada vía para cada
-  parte, y **propone la estructura que agranda el pastel total** —p.ej., asset deal con un ajuste de
-  precio que compense al vendedor por su mayor carga, repartiendo entre ambos el beneficio del
-  step-up—. Eso es crear valor con fiscal.
-
-**Reestructura previa a la venta.** El dueño quiere vender solo una de sus tres líneas de negocio.
-Hace una **escisión** (neutral, con razón de negocios real: separar líneas para gestión independiente)
-para aislar esa línea en una nueva sociedad y luego vende **solo** esas acciones — más limpio y
-eficiente que vender activos sueltos. ⚠️ *Requisitos de neutralidad y permanencia: verificar.*
-
-## 18. Casos reales (jurisprudencia y operaciones estilizadas)
-
-> ⚠️ *No se citan números de tesis ni casos con nombre por no estar verificados (Principio Supremo).
-> Se describen patrones reales y estilizados; verificar criterios concretos en el SJF.*
-
-- **Patrón "reorganización que era venta".** La autoridad y los tribunales han desconocido
-  "reestructuras neutrales" en las que, al levantar la forma, había en realidad una **venta a un
-  tercero** (no había continuidad accionaria real): se pierde la neutralidad y se cobra el impuesto
-  diferido + accesorios. *Criterio a verificar en jurisprudencia.*
-- **Patrón "operaciones simuladas / facturas de operaciones inexistentes (EFOS/EDOS)".** Estructuras
-  que deducen con comprobantes de operaciones que nunca ocurrieron: es **evasión** y delito, con
-  consecuencias severas. Es el ejemplo arquetípico de la línea que nunca se cruza.
-- **Patrón "sin razón de negocios".** Estructuras formalmente válidas pero cuyo único fin era el
-  ahorro fiscal, recaracterizadas vía la cláusula anti-abuso. *Verificar precedentes vigentes.*
-
-## 19. Casos empresariales (en la vida de una compañía)
-
-- **Distribuir utilidades:** ¿sueldo a los dueños-administradores (deducible para la empresa, pero
-  ingreso gravado para la persona) o dividendo (no deducible, con su propio régimen)? Decisión fiscal
-  cotidiana.
-- **Financiar una expansión:** ¿deuda (intereses deducibles, con límites de capitalización delgada) o
-  aportación de capital (sin deducción, pero sin endeudar)? 
-- **Empresa familiar y sucesión:** cómo estructurar la transmisión del patrimonio empresarial a la
-  siguiente generación de forma ordenada y fiscalmente eficiente (conecta con Patrimonio, Columna V).
-  ⚠️ *Régimen de herencia/donación: verificar.*
-
-## 20. Casos corporativos (en transacciones)
-
-- **El "tax structuring" del deal:** antes de firmar, fiscal y legal diseñan juntos la estructura
-  (share/asset, escisión previa, vehículo de adquisición, cómo se financia) buscando el mejor
-  resultado después de impuestos para el cliente.
-- **Las pérdidas fiscales como activo (y trampa):** un target con pérdidas fiscales acumuladas puede
-  ser atractivo, pero las reglas **anti-traspaso de pérdidas** limitan severamente aprovecharlas tras
-  un cambio de control. Creerse que "compras las pérdidas" sin verificar es un error caro. ⚠️
-  *Verificar reglas de amortización y cambio de socios.*
-- **Cláusulas fiscales en el SPA:** *tax indemnity*, declaraciones fiscales (R&W), retenciones,
-  manejo de auditorías post-cierre (*tax contest*). Aquí el Libro 4 (documentación) y este libro se
-  encuentran.
-
-## 21. Casos internacionales (*cross-border*)
-
-- **Doble tributación:** un mismo ingreso podría gravarse en el país de la fuente y en el de
-  residencia; los **tratados para evitar la doble tributación** (modelo OCDE) reparten la potestad y
-  permiten acreditar impuestos. ⚠️ *Verificar el tratado aplicable.*
-- **Estructuras *holding*:** los grupos multinacionales usan sociedades *holding* en ciertas
-  jurisdicciones por sus tratados y régimen — legítimo si hay sustancia; abuso (*treaty shopping*) si
-  es una cáscara sin actividad. El movimiento global **BEPS** combate justamente las estructuras
-  artificiales. ⚠️ *Verificar estado vigente.*
-- **Precios de transferencia:** las operaciones entre empresas del mismo grupo en distintos países
-  deben pactarse a valor de mercado (*arm's length*) y documentarse, para que el grupo no mueva
-  artificialmente la utilidad al país de menor impuesto. Es de las áreas fiscales más técnicas y
-  litigadas del mundo corporativo.
-
-
-## 22. Derecho comparado
-
-La fiscalidad de operaciones tiene patrones comunes en el mundo, con variantes locales. ⚠️ *Cada
-régimen concreto debe verificarse en la legislación vigente del país.*
-
-| Jurisdicción | Rasgos distintivos (a grandes trazos) |
-|--------------|----------------------------------------|
-| **México** | ISR sobre utilidad; CUFIN para integrar el impuesto al dividendo; regímenes de neutralidad en fusión/escisión; cláusula anti-abuso (razón de negocios) en el CFF; IVA en asset deals. |
-| **España** | Impuesto sobre Sociedades; régimen especial de **neutralidad** en reestructuraciones (de raíz europea); doctrina del *motivo económico válido* (equivalente a la razón de negocios). |
-| **EE. UU.** | Distingue *taxable acquisitions* de **reorganizaciones libres de impuesto** (las célebres *tax-free reorganizations*, tipo "A", "B", "C" del Internal Revenue Code); elecciones como la *§338* para tratar una compra de acciones como de activos. Sistema riquísimo en *tax structuring*. |
-| **Delaware** | Su ventaja es **societaria**, no fiscal: el impuesto federal de EE. UU. aplica igual; muchas sociedades se forman ahí por su derecho corporativo, no por un régimen fiscal especial. Útil para no confundir "paraíso societario" con "paraíso fiscal". |
-| **UE** | Directivas que armonizan la **neutralidad** de fusiones transfronterizas entre Estados miembros; fuerte agenda anti-abuso. |
-| **OCDE** | No legisla, pero su **Modelo de Convenio** rige los tratados de doble tributación y su proyecto **BEPS** marca el estándar global anti-erosión. |
-| **Common law vs. Civil law** | Más allá de la tradición, en fiscal **convergen** hacia la idea de **sustancia sobre forma** y razón de negocios; es una tendencia global, no de una sola familia jurídica. |
-
-> **Lección comparada para el M&A:** la estructura "tax-free reorganization" de EE. UU. y la
-> "neutralidad" de México/España/UE responden a la **misma intuición** (no gravar la mera
-> reorganización), con requisitos distintos. Quien hace deals *cross-border* debe dominar las dos
-> lógicas y a sus fiscalistas locales.
-
-## 23. Derecho mexicano (régimen positivo)
-
-> **⚠️ Mapa conceptual; verificar artículos y tasas vigentes.** El objetivo es que sepas **dónde
-> vive** cada cosa, no memorizar numeración.
-
-- **Constitución:** la obligación de contribuir de manera **proporcional y equitativa** (principios
-  de capacidad contributiva, legalidad, proporcionalidad y equidad) es el marco superior; ningún
-  impuesto puede violarlos. ⚠️ *Artículo: verificar.*
-- **Código Fiscal de la Federación (CFF):** reglas generales, concepto de enajenación, facultades de
-  comprobación de la autoridad, infracciones y **delitos fiscales** (defraudación), y la **cláusula
-  general anti-abuso / razón de negocios**. ⚠️ *Artículos: verificar.*
-- **Ley del ISR (LISR):** el impuesto sobre la utilidad; deducciones; régimen de personas morales;
-  **dividendos y CUFIN**; **enajenación de acciones**; **fusión y escisión** (neutralidad);
-  amortización de **pérdidas fiscales** y reglas anti-traspaso; capitalización delgada; precios de
-  transferencia. ⚠️ *Artículos y tasas: verificar.*
-- **Ley del IVA (LIVA):** impuesto al consumo; relevante en **asset deals** y prestación de servicios.
-- **Resolución Miscelánea Fiscal:** reglas administrativas que **cambian cada año**; el detalle
-  operativo vive ahí. ⚠️ *Verificar la vigente.*
-
-## 24. Jurisprudencia relevante
-
-> ⚠️ *No se citan rubros ni números de tesis por no estar verificados (Principio Supremo). Se
-> describen líneas jurisprudenciales reconocibles; localizar y validar en el Semanario Judicial de la
-> Federación antes de citar.*
-
-Líneas que el estudiante debe saber que existen (y verificar):
-- Criterios sobre los **principios constitucionales** de proporcionalidad y equidad tributaria como
-  límite a las contribuciones.
-- Criterios sobre **deducciones** (qué hace a un gasto "estrictamente indispensable").
-- Criterios y precedentes sobre **simulación**, **operaciones inexistentes** y la aplicación de la
-  **razón de negocios** / cláusula anti-abuso.
-- Criterios sobre los **requisitos de la neutralidad** en fusión y escisión.
-
-## 25. Criterios de la Suprema Corte
-
-La **SCJN** ha construido la doctrina constitucional tributaria mexicana: el alcance de la
-**capacidad contributiva**, los límites de la **proporcionalidad y equidad**, y la
-constitucionalidad de diversos regímenes. ⚠️ *Tesis y jurisprudencias concretas: verificar en el
-SJF.* Para el abogado corporativo, lo relevante no es memorizar tesis, sino saber que **un impuesto o
-una interpretación puede impugnarse por inconstitucional** cuando viola esos principios — una
-herramienta estratégica más.
-
-## 26. Doctrina nacional
-
-México tiene una tradición sólida de fiscalistas y tratadistas de derecho tributario. ⚠️ *Nombres y
-obras concretas: verificar antes de citar* (no se listan aquí para no atribuir incorrectamente). Lo
-importante: la doctrina mexicana ha desarrollado con rigor los conceptos de **obligación tributaria,
-hecho imponible, capacidad contributiva y la distinción elusión/evasión**, y dialoga cada vez más con
-la doctrina internacional sobre sustancia económica y anti-abuso.
-
-## 27. Doctrina internacional
-
-A nivel global, la doctrina y los organismos (con la **OCDE** a la cabeza) han marcado la agenda
-moderna: **precios de transferencia** (*arm's length*), **BEPS** (erosión de la base y traslado de
-utilidades), **sustancia económica** y el combate al *treaty shopping*. La doctrina anglosajona
-aportó la rica teoría de las *tax-free reorganizations* y de la *substance over form*; la europea, la
-**neutralidad** armonizada y el *motivo económico válido*. ⚠️ *Autores y documentos concretos:
-verificar.*
-
-## 28. Opiniones críticas (postura del Consejo)
-
-- **El fiscal no es accesorio: es co-arquitecto del deal.** Dejar lo fiscal "para el final" o "para el
-  contador" es el error estratégico clásico. La postura del proyecto: el abogado corporativo de élite
-  **integra lo fiscal desde el diseño**.
-- **La era de la planeación agresiva terminó.** Con la cláusula anti-abuso y la transparencia global,
-  las estructuras artificiales son cada vez más un pasivo. El futuro es la **eficiencia con
-  sustancia**, no el truco.
-- **La inestabilidad es estructural, no un defecto pasajero.** Quien trabaje fiscal debe asumir que
-  **estudiará toda su vida**: cada reforma reescribe parte del tablero. Es, a la vez, una barrera de
-  entrada y una fuente de honorarios recurrentes.
-
-## 29. Debate doctrinal (controversias vivas)
-
-- **¿Dónde termina la economía de opción y empieza el abuso?** La gran frontera: cuánta "razón de
-  negocios" basta, y cuánto puede la autoridad recaracterizar sin caer en arbitrariedad. Tensión
-  permanente entre **seguridad jurídica** del contribuyente y **combate al abuso** del fisco.
-- **Sustancia vs. forma:** ¿hasta dónde puede el fisco ignorar la forma jurídica elegida por las
-  partes? El péndulo se ha movido fuerte hacia la sustancia, y no todos coinciden en sus límites.
-- **Justicia de la fiscalidad internacional:** el debate global (impuesto mínimo, dónde tributan las
-  multinacionales y las grandes tecnológicas) sigue abierto y reescribiéndose. ⚠️ *Estado vigente:
-  verificar.*
-
-
-## 30. Errores comunes
-
-| Error | Por qué es un error |
-|-------|---------------------|
-| Dejar lo fiscal "para el final" del deal | La estructura ya se decidió sin optimizarla; el impuesto se vuelve un costo evitable |
-| Confundir precio nominal con precio real | El precio real es **después de impuestos**; ignorar esto pierde dinero en la negociación |
-| Creer que comprar acciones evita todos los problemas | Heredas **toda** la historia fiscal y las contingencias del target |
-| Asumir que "compras las pérdidas fiscales" del target | Las reglas anti-traspaso por cambio de control suelen limitarlas o anularlas |
-| Diseñar una "reorganización neutral" descuidando requisitos | Un requisito incumplido **pierde la neutralidad**: la operación pasa a ser gravada |
-| Confundir elusión (legal) con evasión (delito) | Cruzar esa línea destruye al cliente y al abogado |
-| Memorizar tasas y artículos como si fueran fijos | Cambian cada año; lo que perdura es la **lógica** |
-| Olvidar el IVA en un asset deal | Puede aparecer un impuesto al consumo que no estaba en el modelo |
-
-## 31. Mitos frecuentes
-
-- **"Planear impuestos es ilegal / inmoral."** Falso: elegir, entre opciones legales, la más
-  eficiente es un **derecho** (economía de opción). Lo ilegal es ocultar o simular.
-- **"Si está en Delaware / una isla, no paga impuestos."** Falso y peligroso: Delaware da ventaja
-  **societaria**, no fiscal; y las estructuras *offshore* sin sustancia son hoy un imán de auditorías
-  y sanciones.
-- **"La neutralidad fiscal exenta el impuesto."** Falso: lo **difiere**; el costo fiscal viaja con los
-  activos y se paga al enajenar a un tercero.
-- **"Si mi estructura es formalmente legal, es intocable."** Falso desde la cláusula anti-abuso: sin
-  **razón de negocios**, puede recaracterizarse.
-- **"El fiscal es cosa del contador, no del abogado."** Falso: la estructura jurídica y la fiscal son
-  inseparables; el abogado corporativo que las integra es el valioso.
-
-## 32. Preguntas difíciles (para pensar como experto)
-
-1. ¿Cuándo una "razón de negocios" es suficiente para sostener una estructura? ¿Basta *alguna* razón,
-   o debe ser la *preponderante*? (Frontera del anti-abuso.)
-2. Si comprador y vendedor prefieren estructuras fiscales opuestas, ¿cómo diseñas una que **agrande el
-   pastel después de impuestos** y repartes ese beneficio en el precio?
-3. ¿Vale la pena comprar un target por sus pérdidas fiscales si las reglas anti-traspaso las limitan?
-   ¿Cómo lo modelas?
-4. ¿Hasta dónde puede el fisco ignorar la forma jurídica elegida sin vulnerar la **seguridad
-   jurídica** del contribuyente?
-5. En una operación *cross-border*, ¿cómo evitas la doble tributación sin caer en *treaty shopping*?
-
-## 33. Casos de examen (con respuesta modelo)
-
-**Caso A.** *Una empresa vende un inmueble que compró en 100 y hoy vale 300. ¿Sobre qué monto paga
-impuesto y por qué?*
-> **Respuesta modelo:** sobre la **ganancia** (≈ 300 − costo fiscal actualizado de 100 = 200), no
-> sobre los 300. El impuesto a la renta grava la **riqueza nueva realizada**, no el valor total. ⚠️
-> *La actualización del costo y la tasa: verificar LISR vigente.*
-
-**Caso B.** *Comprador y vendedor discuten si la operación será share o asset deal. Explica el
-conflicto fiscal.*
-> **Respuesta modelo:** el comprador suele preferir **asset deal** (step-up para depreciar más, deja
-> contingencias atrás); el vendedor suele preferir **share deal** (un solo impuesto, régimen de
-> acciones más benigno, evita la doble carga). Se resuelve negociando estructura **y** precio.
-
-**Caso C.** *¿Por qué una fusión bien hecha no paga impuesto y una mal hecha sí?*
-> **Respuesta modelo:** por el régimen de **neutralidad**, que **difiere** el impuesto si se cumplen
-> los requisitos (continuidad accionaria y del negocio, formalidades, razón de negocios). Incumplir
-> uno hace **perder la neutralidad** y la operación se grava. ⚠️ *Requisitos: verificar.*
-
-## 34. Simulador (ejercicio tipo despacho)
-
-> **Rol:** asociado del área corporativa, apoyando al fiscalista. **Cliente:** "Compradora, S.A.",
-> quiere adquirir "Dulces del Valle" (¡el del Laboratorio!). **Hechos:** Dulces del Valle tiene
-> pérdidas fiscales acumuladas, un inmueble muy apreciado, y una contingencia fiscal en revisión por
-> el SAT. La socia te pide un **memo de estructura fiscal preliminar**.
->
-> **Tu tarea:** (1) recomienda share vs. asset deal y por qué, considerando las pérdidas (¿se
-> aprovechan tras el cambio de control?), el inmueble (step-up vs. heredar costo histórico) y la
-> contingencia (¿quién la carga?); (2) propón **protecciones contractuales** (tax indemnity, escrow,
-> R&W fiscales, condición de cierre); (3) marca **qué debes verificar** con el fiscalista y contra la
-> ley vigente. Usa el formato de memo del Laboratorio (Ej. 01) y conecta con R&W (Ej. 04).
->
-> *No hay una sola respuesta correcta: se evalúa que identifiques las tensiones fiscales, conectes
-> con las protecciones del SPA y marques honestamente lo no verificado.*
-
-## 35. Flashcards (recuperación activa)
-
-- ¿Qué grava el ISR: ingreso o utilidad? → **La utilidad** (ingresos − deducciones).
-- ¿Para qué sirve la CUFIN? → Para evitar **doble impuesto** al repartir utilidades ya gravadas.
-- ¿Intereses y dividendos: cuál es deducible? → **Intereses** sí (con límites); dividendos no.
-- ¿Share deal o asset deal hereda contingencias? → **Share deal** (compras la sociedad entera).
-- ¿Qué es el step-up? → Registrar activos comprados a su valor de compra → más depreciación
-  deducible (típico del **asset deal**).
-- ¿La neutralidad exenta o difiere? → **Difiere** el impuesto.
-- ¿Elusión vs. evasión? → Elusión = legal (organizar); evasión = ilegal (ocultar/simular).
-- ¿Qué activa la cláusula anti-abuso? → Operaciones **sin razón de negocios** cuyo único fin es el
-  beneficio fiscal.
-- ¿Qué son precios de transferencia? → Que operaciones entre partes relacionadas se pacten a valor de
-  mercado (*arm's length*).
-
-## 36. Mapa mental (estructura jerárquica)
-
+| Ejemplo | Escisión real con razón de negocios | Facturar operaciones inexistentes (EFOS, 69-B CFF ⟳); ocultar ingresos |
+| Frente a auditoría | Se sostiene a la luz | Se derrumba al revisarse |
+| Consecuencia | Ahorro legítimo | Multas, recargos, **delito fiscal, cárcel** |
+
+**La frontera moderna: la razón de negocios y la cláusula antiabuso (art. 5º-A CFF ⟳).** Hoy no basta que
+una estructura sea *formalmente* legal: si su **único propósito** es el beneficio fiscal y carece de **razón
+de negocios** real, la autoridad puede **recaracterizarla** (tratarla como lo que económicamente es). **La
+sustancia vence a la forma.**
+
+> 🧭 **Detente y piensa.** ¿Por qué el mejor fiscalista no es el más audaz, sino "el que nunca pierde una revisión"? Porque una estructura agresiva que ahorra hoy y explota en una auditoría dentro de cinco años (dentro de la **caducidad**, art. 67 CFF ⟳) no es un activo: es una **bomba de tiempo** para el cliente y para la reputación del abogado. El socio serio no busca la estructura "más lista"; busca la **más sólida** —razón de negocios real, bien documentada, que sobreviva la revisión—. En fiscal, tu firma vale lo que vale tu integridad.
+
+## 6. La dimensión internacional
+
+- **Doble tributación:** un mismo ingreso podría gravarse en el país de la fuente y en el de residencia; los
+  **tratados** (modelo OCDE) reparten la potestad y permiten acreditar impuestos.
+- **Precios de transferencia:** las operaciones entre partes relacionadas de un grupo deben pactarse a valor
+  de mercado (***arm's length***) y documentarse, para que el grupo no mueva artificialmente la utilidad al
+  país de menor impuesto. De las áreas más técnicas y litigadas.
+- **Estructuras *holding* y BEPS:** los grupos usan *holdings* en ciertas jurisdicciones por sus tratados y
+  régimen —legítimo **si hay sustancia**; abuso (*treaty shopping*) si es una cáscara—. El proyecto **BEPS**
+  (OCDE) y las cláusulas antiabuso combaten las estructuras artificiales. **Apple–Irlanda** (€13,000M) es su
+  versión contemporánea: forma pulcra sin sustancia = ayuda de Estado ilegal.
+
+
+## 7. Comparado y régimen mexicano
+
+La intuición es **universal**: no gravar la mera reorganización. EE. UU. la instrumenta con las **tax-free
+reorganizations** (tipos "A", "B", "C" del *Internal Revenue Code*) y elecciones como la **§338** (tratar
+una compra de acciones como de activos); la **UE** con la **neutralidad** armonizada y el *motivo económico
+válido*; México con su propio régimen de neutralidad. Y el debate matriz del fiscal moderno son dos casos:
+***IRC v. Duke of Westminster*** (RU, 1936: cada quien puede ordenar sus negocios para reducir el impuesto —
+la **forma**) frente a ***Gregory v. Helvering*** (EE. UU., 1935: una reorganización **sin propósito de
+negocio** no surte efectos fiscales —la **sustancia**). El péndulo global se movió con fuerza hacia la
+**sustancia** (GAAR, *economic substance doctrine*), con el costo de tensionar la **seguridad jurídica**.
+
+En **México**, sabe **dónde vive** cada cosa: el **CFF** (reglas generales, enajenación, facultades de
+comprobación —art. 42 ⟳—, caducidad —art. 67 ⟳—, delitos fiscales, y la **cláusula antiabuso / razón de
+negocios** —art. 5º-A ⟳— y EFOS —art. 69-B ⟳—); la **LISR** (impuesto sobre la utilidad —tasa 30%, art. 9
+⟳—, deducciones, dividendos/CUFIN, enajenación de acciones, **fusión y escisión**, pérdidas fiscales —art.
+57 ⟳—, capitalización delgada, precios de transferencia); la **LIVA** (consumo; relevante en *asset deals*);
+y la **Resolución Miscelánea Fiscal** (el detalle operativo, que **cambia cada año**). La Constitución exige
+contribuir de forma **proporcional y equitativa** (capacidad contributiva) —un impuesto puede impugnarse por
+inconstitucional cuando viola esos principios—.
+
+## 8. Casos reales — y qué aprendió el mercado
+
+- **Apple–Irlanda (TJUE, 2024): €13,000M** de ayuda de Estado a recuperar: estructura formalmente legal sin
+  sustancia económica.
+- **Patrón "reorganización que era venta":** "reestructuras neutrales" en las que, al levantar la forma,
+  había una **venta a un tercero** (sin continuidad accionaria real) → se pierde la neutralidad + accesorios.
+- **EFOS/EDOS (operaciones simuladas, 69-B CFF ⟳):** deducir con comprobantes de operaciones que nunca
+  ocurrieron → **evasión** y delito. El arquetipo de la línea que nunca se cruza.
+
+**¿Qué aprendió el mercado?**
+
+- *Apple–Irlanda* → la planeación agresiva **sin sustancia** dejó de ser "viveza" para volverse un riesgo
+  de recuperación **multimillonario** y reputacional; la era de los "cascarones" terminó.
+- *Reorganización-venta* → la neutralidad es **diferimiento condicionado**: sin continuidad real, el fisco
+  levanta la etiqueta y cobra el impuesto diferido.
+- *EFOS* → la evasión no es planeación agresiva: es **delito**, y hoy se detecta y se castiga.
+
+## 9. Cómo razona un socio (fiscal-corporativo)
+
+> *"Un socio de M&A nunca separa lo legal de lo fiscal: arma equipos donde el corporativo y el fiscalista
+> diseñan juntos la estructura antes de redactar nada. Piensa en valor después de impuestos, modela
+> escenarios —share vs. asset, con y sin escisión previa—, y exige que toda estructura tenga razón de
+> negocios documentada, porque sabe que la pregunta del regulador, años después, será exactamente esa. Su
+> obsesión no es la estructura más agresiva, sino la que crea valor y sobrevive una auditoría. El asociado
+> que le habla en ese lenguaje —que entiende por qué una escisión previa cambia el deal— es el que sube."*
+
+## 10. Errores que cuestan millones
+
+1. **Dejar lo fiscal "para el final".** La estructura ya se decidió sin optimizarla; el impuesto evitable se
+   vuelve costo hundido. *Prevención:* integrar al fiscalista **desde el diseño**.
+2. **Comprar acciones sin due diligence fiscal.** Heredar una contingencia que el SAT factura años después.
+   *Prevención:* DD fiscal + *tax indemnity*, escrow y reps fiscales (Libro 4).
+3. **Perder la neutralidad** por un requisito formal o de permanencia incumplido → operación gravada por
+   millones. *Prevención:* cumplir **todos** los requisitos al pie de la letra.
+4. **Creer que "compras las pérdidas fiscales" del *target*.** Las reglas **anti-traspaso** por cambio de
+   control (art. 57 LISR ⟳) suelen limitarlas. *Prevención:* verificarlas antes de pagar por ellas.
+5. **Cruzar a la evasión** (operaciones simuladas, EFOS) o confiar en una estructura "lista" **sin razón de
+   negocios** → recaracterización (5º-A CFF ⟳), delito, reputación destruida. *Prevención:* eficiencia con
+   **sustancia y documentación**, nunca trucos.
+
+## 11. Debate abierto (para desarrollar criterio)
+
+- ¿Dónde termina la **economía de opción** y empieza el **abuso**? ¿Cuánta "razón de negocios" basta, y
+  cuánto puede recaracterizar la autoridad sin vulnerar la **seguridad jurídica**?
+- ¿Existe una **"moral fiscal"** o solo la legalidad? (El debate que instalaron los *Panama/Paradise
+  Papers*: lo legal puede ser ilegítimo.)
+- ¿Cómo diseñas una estructura que **agrande el pastel después de impuestos** y repartes ese beneficio en el
+  precio, cuando comprador y vendedor prefieren estructuras opuestas?
+- En una operación *cross-border*, ¿cómo evitas la doble tributación **sin** caer en *treaty shopping*?
+
+## 12. Herramientas de trabajo
+
+**Decisión de estructura (árbol):**
 ```
-FISCAL CORPORATIVO
-├── Lógica del ISR
-│   ├── Ingresos − Deducciones = Base × Tasa
-│   ├── Dividendo / CUFIN (doble imposición)
-│   └── Deuda (deducible) vs. Capital (no)
-├── Fiscalidad del deal
-│   ├── Share deal (vendedor; hereda historia/contingencias)
-│   └── Asset deal (comprador; step-up; posible IVA)
-├── Reorganizaciones
-│   └── Neutralidad = diferimiento condicionado (fusión/escisión)
-├── Planeación
-│   ├── Elusión / economía de opción (LEGAL)
-│   ├── Diferimiento · regímenes · estructura
-│   └── Límite: razón de negocios + anti-abuso (GAAR)
-├── Evasión (ILEGAL: simulación, ocultamiento) → delito
-└── Internacional
-    ├── Tratados (doble tributación)
-    ├── Precios de transferencia (arm's length)
-    └── BEPS / sustancia
+¿El target tiene contingencias/pasivos ocultos? ── Sí ─► inclina a ASSET DEAL
+¿Importa el step-up (activos muy apreciados)? ──── Sí ─► inclina a ASSET DEAL
+¿El vendedor exige carga fiscal mínima? ────────── Sí ─► inclina a SHARE DEAL
+   └─ EN TODO CASO: ¿hay RAZÓN DE NEGOCIOS y se puede DOCUMENTAR?
+        └ No ► riesgo de antiabuso (5º-A CFF ⟳): rediseñar
+        └ Sí ► estructurar + verificar con fiscalista y ley vigente
 ```
 
-## 37. Cuadros comparativos
-
-**Elusión vs. evasión** (el cuadro que nunca debes olvidar):
-
-| | Elusión | Evasión |
-|---|---|---|
-| Legalidad | Legal | Ilegal (delito) |
-| Realidad económica | Verdadera | Fingida/oculta |
-| Frente a auditoría | Se sostiene | Se derrumba |
-| Resultado | Ahorro legítimo | Multas, recargos, cárcel |
-
-**Deuda vs. capital** (para financiar):
-
-| | Deuda | Capital |
-|---|---|---|
-| Costo que paga | Intereses | Dividendos |
-| ¿Deducible? | Sí (con límites) | No |
-| Riesgo | Obliga a pagar; puede llevar a insolvencia | No obliga, pero diluye/no deduce |
-
-## 38. Diagramas (flujo de una decisión de estructura)
-
-```
-¿Adquisición?
-   │
-   ├─ ¿El target tiene contingencias/pasivos ocultos? ──Sí──► inclina a ASSET DEAL
-   │                                                   └No──► share deal viable
-   ├─ ¿Importa el step-up (activos muy apreciados)? ───Sí──► inclina a ASSET DEAL
-   ├─ ¿El vendedor exige carga fiscal mínima? ─────────Sí──► inclina a SHARE DEAL
-   └─ En todo caso: ¿hay RAZÓN DE NEGOCIOS y se puede DOCUMENTAR? 
-            └─ No ► RIESGO de anti-abuso: rediseñar
-            └─ Sí ► estructurar + verificar con fiscalista + ley vigente
-```
-
-## 39. Mnemotecnias
-
-- **"La SUSTANCIA vence a la FORMA"** — la frase que resume el fiscal moderno.
-- **"DI-RE-ES": las 3 vías legales** — **DI**ferir, aprovechar **RE**gímenes, elegir **ES**tructura.
-- **"El vendedor ama las Acciones; el comprador ama los Activos"** — para recordar la preferencia en
-  el deal (ambos empiezan con A, pero opuestos: **Acciones** = vendedor, **Activos** = comprador).
-- **"Neutral = se Difiere, no se borra."**
-- **"Sin Razón de Negocios, no hay estructura que aguante."**
-
-
-## 40. Resumen ejecutivo
-
-- El **ISR corporativo** grava la **utilidad** (ingresos − deducciones), no el ingreso; al repartirla
-  como dividendo hay un segundo nivel que la **CUFIN** integra. **Deuda** (intereses deducibles) y
-  **capital** (dividendos no deducibles) tributan distinto: de ahí gran parte de la planeación.
-- En una adquisición, **share deal** (compra de acciones) y **asset deal** (compra de activos) tienen
-  consecuencias fiscales opuestas: el vendedor suele preferir acciones; el comprador, activos
-  (step-up, sin heredar contingencias). La estructura **reparte el costo fiscal** y se negocia junto
-  con el precio.
-- Las **fusiones y escisiones** pueden ser **neutrales** (diferir el impuesto) si cumplen requisitos
-  estrictos; incumplir uno **pierde la neutralidad**.
-- La **planeación legítima** (elusión: diferir, aprovechar regímenes, elegir estructura) es un
-  derecho; la **evasión** (simular, ocultar) es delito. La frontera moderna es la **razón de
-  negocios** + la **cláusula anti-abuso**: *la sustancia vence a la forma*.
-- Dimensión **internacional**: tratados contra doble tributación, **precios de transferencia** y
-  **BEPS** combatiendo estructuras artificiales.
-- **El abogado corporativo de élite integra lo fiscal desde el diseño del deal**, no al final. Y
-  **verifica siempre** tasas y artículos contra el texto vigente.
-
-## 41. Checklist (operativo del profesional)
-
-Ante una operación con dimensión fiscal:
-- [ ] ¿Identifiqué el **hecho imponible** y **quién** obtiene la ganancia/ingreso?
-- [ ] ¿Calculé sobre la **base** correcta (precio − costo fiscal), no sobre el precio bruto?
-- [ ] ¿Comparé **share vs. asset** deal en **valor después de impuestos** para cada parte?
-- [ ] ¿Evalué **contingencias fiscales** del target (due diligence fiscal) y previne protección
-      (tax indemnity, escrow, R&W, condición de cierre)?
-- [ ] ¿Hay **pérdidas fiscales**? ¿Verifiqué las reglas **anti-traspaso** por cambio de control?
+**Checklist esencial:**
+- [ ] ¿Identifiqué el **hecho imponible** y **quién** obtiene la ganancia? ¿Calculé sobre la **base**
+  (precio − costo fiscal), no el precio bruto?
+- [ ] ¿Comparé **share vs. asset** en **valor después de impuestos** para cada parte?
+- [ ] ¿DD fiscal de contingencias + protección (*tax indemnity*, escrow, reps, condición de cierre)?
+- [ ] ¿Hay **pérdidas fiscales**? ¿Verifiqué las reglas **anti-traspaso** (art. 57 LISR ⟳)?
 - [ ] Si hay reorganización, ¿cumplo **todos** los requisitos de **neutralidad**?
-- [ ] ¿La estructura tiene **razón de negocios real y documentable** (anti-abuso)?
+- [ ] ¿La estructura tiene **razón de negocios real y documentable** (5º-A CFF ⟳)?
 - [ ] ¿Consideré **IVA** y otros impuestos de transmisión (asset deal, inmuebles)?
-- [ ] Si es *cross-border*: ¿tratado aplicable, precios de transferencia, sustancia?
-- [ ] ¿**Verifiqué** todas las tasas/artículos contra el texto vigente **y con un fiscalista**?
-- [ ] ¿La solución es **sólida** (sobrevive una auditoría en 5 años), no solo "lista"?
+- [ ] *Cross-border*: ¿tratado aplicable, precios de transferencia, sustancia?
+- [ ] ¿**Verifiqué** tasas/artículos contra el texto vigente y con un fiscalista? ¿La solución es **sólida**
+  (sobrevive una auditoría en 5 años), no solo "lista"?
 
-## 42. Bibliografía comentada
+**Flashcards:**
+- *¿ISR grava ingreso o utilidad?* → la **utilidad** (ingresos − deducciones).
+- *¿Para qué la CUFIN?* → evitar **doble impuesto** al repartir utilidades ya gravadas.
+- *¿Intereses o dividendos deducibles?* → **intereses** sí (con límites); dividendos no.
+- *¿Share o asset deal hereda contingencias?* → **share deal**.
+- *¿Step-up?* → registrar lo comprado a valor de compra → más depreciación (asset deal).
+- *¿La neutralidad exenta o difiere?* → **difiere**.
+- *¿Elusión vs. evasión?* → organizar (legal) vs. ocultar/simular (delito).
+- *¿Qué activa el antiabuso (5º-A CFF ⟳)?* → operación **sin razón de negocios** cuyo único fin es el ahorro fiscal.
+- *La frase* → "la **sustancia** vence a la **forma**".
 
-> ⚠️ *No se listan títulos ni autores concretos por no estar verificados (Principio Supremo). Se
-> indican los **tipos de fuente** que debes consultar y por qué.*
+## 13. Bibliografía por niveles
 
-- **El texto vigente de la ley** (LISR, CFF, LIVA) y la **Resolución Miscelánea Fiscal** del año en
-  curso — la fuente primaria e indispensable; **todo lo demás se verifica contra ella**.
-- **Tratados de derecho tributario mexicano** de autores reconocidos — para la dogmática (hecho
-  imponible, capacidad contributiva, obligación tributaria). *Verificar ediciones actualizadas.*
-- **Materiales de la OCDE** (Modelo de Convenio y guías de precios de transferencia; proyecto BEPS) —
-  para la dimensión internacional.
-- **Criterios del SAT, jurisprudencia del SJF y precedentes del TFJA y la SCJN** — para ver cómo se
-  aplica en la práctica y cómo se resuelve la línea elusión/abuso.
-- **Guías prácticas de *M&A tax* de despachos** — para el "cómo se estructura" real (con cautela:
-  verificar vigencia).
+- **Primaria e indispensable:** el **texto vigente** de LISR, CFF, LIVA y la **Resolución Miscelánea** del año, en [`fuentes-legales/`](../../fuentes-legales/); y [Derecho Fiscal](../Ramas-Esenciales/01-Derecho-Fiscal.md).
+- **Internacional:** OCDE, *Model Tax Convention* y guías de precios de transferencia; informes **BEPS**.
+- **Fundacional / debate:** *Gregory v. Helvering* (US, 1935) e *IRC v. Duke of Westminster* (UK, 1936); *Commission v. Ireland* (TJUE, 2024, Apple).
+- **Doctrina:** tratados de derecho tributario mexicano (ediciones vigentes); Rosembuj, *El fraude de ley y el abuso de las formas*. Criterios del SAT, TFJA y SCJN en el SJF.
 
-## 43. Ruta hacia el siguiente libro
+## 14. Ruta al siguiente libro
 
-Lo que acabas de aprender —que **la estructura fiscal puede valer tanto como el precio**— será
-indispensable para integrar todo el Nivel IV: ya dominas los **fundamentos del M&A** (Libro 1), la
-**due diligence** (2), las **estructuras** (3), la **documentación** (4), el **financiamiento** (5),
-los **contratos estratégicos y JV** (6), el **PE/VC** (7), el **gobierno corporativo/compliance** (8)
-y ahora la **dimensión fiscal** (9) que atraviesa a todos. Con esto, el Nivel IV te da la caja de
-herramientas completa del arquitecto de operaciones.
+Ya sabes que **la estructura fiscal puede valer tanto como el precio**. Con esto integras el Nivel IV: M&A,
+due diligence, estructuras, documentación, financiamiento, JV, PE/VC, gobierno/compliance **y** la dimensión
+fiscal que los atraviesa a todos. Falta un capítulo para cerrar el nivel corporativo.
 
-El **Nivel V · Maestría** te espera para subir un escalón: **Negociación de alto nivel**, **Finanzas
-y contabilidad para abogados** (que profundiza el lenguaje de los números que aquí tocaste),
-**Valuación de empresas** (cómo se pone precio a lo que estructuras fiscalmente) y **Estrategia
-corporativa y Game Theory** (cómo piensa el que mueve las piezas). El fiscal que aprendiste aquí es,
-en muchos sentidos, donde el Derecho y las Finanzas se encuentran — y por eso es la antesala perfecta
-de la Maestría.
-
----
-
-## ✦ ¿Por qué esto importa para un abogado corporativo?
-
-Porque **la estructura fiscal decide operaciones**. El abogado que solo conoce el lado societario y
-contractual ve la mitad del tablero; el que entiende también el fiscal **diseña** la operación y se
-sienta donde se decide. En M&A, financiamiento, reestructuras, empresa familiar y fondos, la pregunta
-"¿cómo lo estructuramos?" es, en buena parte, **fiscal**. Dominar esta intersección —rara entre
-abogados— te vuelve indispensable y multiplica tu valor.
-
-## ✦ Cómo piensa un socio de un despacho internacional
-
-Un socio de M&A en Galicia, Creel, Mijares, Skadden o Latham **nunca** separa lo legal de lo fiscal:
-arma equipos donde el corporativo y el fiscalista diseñan **juntos** la estructura **antes** de
-redactar nada. Piensa en *valor después de impuestos*, modela escenarios (share vs. asset, con y sin
-escisión previa), y exige que toda estructura tenga **razón de negocios documentada** porque sabe que
-la pregunta del regulador, años después, será exactamente esa. Su obsesión no es la estructura más
-agresiva, sino la que **crea valor y sobrevive una auditoría**. El asociado que le habla en ese
-lenguaje —que entiende por qué una escisión previa cambia el deal— es el que sube.
-
-## ✦ Errores que cuestan millones
-
-- **Estructurar el deal sin lo fiscal y "arreglarlo después":** la estructura ya quedó; el impuesto
-  evitable se convierte en costo hundido.
-- **Comprar acciones sin due diligence fiscal:** heredar una contingencia que el SAT factura años
-  después, sin indemnización que la cubra.
-- **Perder la neutralidad de una reorganización** por un requisito formal incumplido: convertir una
-  operación libre de impuesto en una gravada por millones.
-- **Cruzar a la evasión** (operaciones simuladas, facturas de operaciones inexistentes): multas,
-  recargos, delito y reputación destruida.
-- **Confiar en una estructura "lista" sin razón de negocios:** la cláusula anti-abuso la recaracteriza
-  y el ahorro se vuelve contingencia.
-
-## ✦ Nivel de importancia profesional
-
-```
-Litigio              ★★★☆☆
-Corporate            ★★★★★
-M&A                  ★★★★★
-Mercado de Valores   ★★★★☆
-Venture Capital      ★★★★☆
-Private Equity       ★★★★★
-Gobierno Corporativo ★★★☆☆
-Compliance           ★★★★★
-Derecho Bancario     ★★★☆☆
-Empresa Familiar     ★★★★★
-```
-*Para tu perfil y tu ángulo fiscal-corporativo, este es uno de los tratados de mayor ventaja
-competitiva de toda la biblioteca: pocos lo dominan, casi toda operación lo necesita, y es la puerta
-a honorarios altos y recurrentes.*
-
----
-
-> **Nota final de método (Principio Supremo).** Este libro enseña la **lógica** de la fiscalidad de
-> operaciones, que perdura; **no** sustituye la consulta de la ley vigente ni la asesoría de un
-> fiscalista. Toda tasa, artículo, criterio o estructura debe **verificarse** contra el texto vigente
-> antes de aplicarse a un caso real. En fiscal, más que en ningún lado: *verifica, no improvises.*
-
-*Nivel IV · Libro 9 · Fiscal Corporativo y Planeación Fiscal de Operaciones. Estándar V3.
-Subordinado al Documento Fundacional AJE y al Protocolo de Verificación.*
-
-
----
-
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El fiscalista corporativo piensa en **rendimiento después de impuestos**: una operación brillante que ignora la carga fiscal destruye valor. Su terreno es la frontera —cada vez más vigilada— entre **planeación legítima (economía de opción)** y **elusión/evasión**. La brújula es la **sustancia**: ¿la operación tiene una **razón de negocios** real (art. 5-A CFF ✅ ⟳) más allá del ahorro fiscal?
-
-### Doctrina y debate
-- **Sustancia sobre forma** y **cláusula general antiabuso (GAAR):** el fisco puede recaracterizar operaciones sin sustancia económica. Debate: ¿dónde termina la planeación y empieza el abuso?
-- **BEPS (OCDE):** erosión de la base y traslado de utilidades; *treaty shopping*, precios de transferencia (*arm's length*), establecimiento permanente.
-- **Debate:** ¿la moralidad fiscal existe o solo la legalidad? (Postura de las multinacionales vs. la opinión pública tras los *leaks*).
-
-### Derecho comparado
-El proyecto **BEPS** (OCDE/G20) reordenó la fiscalidad internacional; EE. UU. añadió **GILTI/BEAT** (2017). La UE persigue las ayudas de Estado fiscales. México incorporó **razón de negocios (5-A CFF)**, revelación de esquemas reportables y reglas de precios de transferencia (LISR ⟳).
-
-### Caso real
-**Apple–Irlanda (ayudas de Estado, UE):** la Comisión Europea ordenó recuperar **~13,000 mdEUR ⚠️ *verificar*** por un régimen fiscal considerado ayuda ilegal (confirmado por el TJUE en 2024 ⚠️). **Starbucks y Amazon** enfrentaron casos análogos. Lección: la planeación agresiva sin sustancia se volvió riesgo reputacional y de recuperación multimillonaria.
-
-### Errores que cuestan millones
-- Estructuras **sin sustancia** (sociedades instrumentales) que el fisco recaracteriza (5-A CFF ⟳).
-- Ignorar **precios de transferencia** entre partes relacionadas.
-
-### Preguntas
-- **Criterio:** ¿la "planeación fiscal agresiva" es legítima si es legal?
-- **Entrevista:** ¿qué es una "razón de negocios" y por qué salva (o hunde) una reestructura?
-- **Examen:** explique el principio de sustancia sobre forma.
-
-### Bibliografía por niveles
-- **Básico:** ver el tratado base y [Derecho Fiscal](../Ramas-Esenciales/01-Derecho-Fiscal.md).
-- **Intermedio:** OCDE, *Acciones BEPS* (resúmenes).
-- **Avanzado:** Rosembuj, *El fraude de ley y el abuso de las formas*.
-- **Internacional:** OCDE, *Model Tax Convention*; informes BEPS 2015.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La planeación fiscal existe porque el impuesto es un **costo** como cualquier otro, y el contribuyente tiene derecho a organizar sus asuntos para pagar lo que la ley exige —ni más ni menos (doctrina de la **economía de opción**, con raíz en *IRC v. Duke of Westminster*, RU 1936: "cada quien puede ordenar sus negocios para reducir el impuesto"). La frontera —y el conflicto perpetuo— es cuándo esa libertad se vuelve **abuso**.
-
-**El debate.** *Duke of Westminster* (forma) vs. **sustancia sobre forma** (*Gregory v. Helvering*, EE. UU. 1935: una reorganización sin propósito de negocio no surte efectos fiscales). Es el debate matriz del derecho fiscal: **formalismo vs. sustancia económica**. Predomina hoy la sustancia: las **GAAR** (cláusulas generales antiabuso) y la **razón de negocios** (art. 5-A CFF ⟳) recaracterizan lo artificioso. Pero la crítica formalista advierte del riesgo para la **seguridad jurídica**: si el fisco puede recaracterizar, ¿dónde queda la previsibilidad?
-
-**Mirada de AED.** El impuesto distorsiona decisiones; una buena planeación **neutraliza** distorsiones (que la fiscalidad no dicte una estructura ineficiente). Pero la planeación agresiva genera una **carrera** (competencia fiscal entre Estados, *treaty shopping*) que erosiona la base y traslada el costo a quien no puede planear —un problema de acción colectiva global que **BEPS** intenta resolver.
-
-**Comparado y lección para México.** EE. UU. codificó la **economic substance doctrine** (2010) y añadió **GILTI/BEAT** (2017); la UE persigue **ayudas de Estado** fiscales (Apple–Irlanda). México incorporó razón de negocios, esquemas reportables y precios de transferencia. **Lección:** la tendencia global es irreversible hacia la **sustancia**; el abogado que estructure "cascarones" sin sustancia asesora hacia un pasivo futuro.
-
-**Crítica.** ¿Existe una "moral fiscal" o solo la legalidad? Los *leaks* (Panama/Paradise Papers) instalaron la idea de que lo legal puede ser ilegítimo, presionando a las empresas por **riesgo reputacional**, no solo jurídico. La crítica inversa: la vaguedad de las GAAR convierte al fisco en legislador.
-
-**Jurisprudencia y operación real.** *Gregory v. Helvering* (1935) y *Duke of Westminster* (1936) son los polos; **Apple–Irlanda** (TJUE, 2024 ⚠️: ~13,000 mdEUR) es su versión contemporánea. En M&A, el fiscalista cuantifica la contingencia hasta la **caducidad (art. 67 CFF ⟳)** y la traslada al vendedor vía *reps* fiscales, indemnidad específica y *escrow*.
-
-**Para leer más:** *Gregory v. Helvering* (US 1935); *IRC v. Duke of Westminster* (UK 1936); OCDE, informes BEPS; Rosembuj, *El fraude de ley y el abuso de las formas*.
+- **Siguiente:** *[Libro 10 · Competencia Económica y Control de Concentraciones](./10-Competencia-Economica-y-Control-de-Concentraciones.md)* — el último gran filtro de las operaciones: cuándo una fusión o adquisición debe **notificarse** a la autoridad, cómo se evalúa, y por qué el *gun jumping* y la colusión son de las infracciones más graves. El fiscal decide **cuánto cuesta** el deal; la competencia decide **si se permite**.
