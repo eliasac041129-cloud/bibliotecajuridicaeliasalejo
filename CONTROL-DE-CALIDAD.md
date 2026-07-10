@@ -69,8 +69,14 @@ La pasada detectó **tres formatos** conviviendo. Se **homologan por norma** (ve
   ley 2025*), **LGRA** (1º/7º), **LGEEPA** (1º/3º), **LFPC** (1º), **LFPCA** (1º), **LFDA** (1º/11),
   **LSS** (1º/2º) y **CFPC** (1º — **código abrogado**, deja de regir a más tardar el 1-abr-2027).
   Con esto, **prácticamente toda cita de artículo de la biblioteca tiene su texto oficial detrás**.
-- ⚠️ **Único pendiente real:** afinado de 11-Ética (conceptual, sin datos duros críticos) y cualquier
-  ley de nicho que se llegara a citar en el futuro. La regla ⟳ (apóstrofe de vigencia) cubre el resto.
+- ✅ **CIERRE v4.0 "Referencia Verificada":** (1) **semáforo alineado** — 68 citas de artículo volteadas a
+  ✅ tras confirmarlas vigentes; los ⚠️ restantes son datos volátiles (fechas/tasas/cifras) que **deben**
+  seguir ⚠️; (2) **escaparate** (README/INDICE) actualizado; (3) tratado de **Datos** reconciliado con la
+  **nueva LFPDPPP 2025**; (4) [`MAPA-DE-ARTICULOS.md`](./MAPA-DE-ARTICULOS.md) (dashboard de 266 artículos);
+  (5) [`Banco-de-Formatos/`](./Banco-de-Formatos/) (6 plantillas reales); (6) [`Banco-de-Jurisprudencia/`](./Banco-de-Jurisprudencia/).
+  Integridad: **0 enlaces rotos**, **0 markdown roto**.
+- ⚠️ **Pendiente honesto (no bloquea el sello):** el semáforo ⚠️ seguirá vivo por diseño (datos volátiles);
+  el banco de jurisprudencia crece consultando el SJF; y 11-Ética es conceptual. La regla ⟳ cubre el resto.
 
 ## 5. Fechado global
 

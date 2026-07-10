@@ -6,6 +6,36 @@
 
 ---
 
+## [4.0] — 2026-07 · «Referencia Verificada — cierre definitivo» — *rama `v4.0-cierre-definitivo`, PR*
+
+> **Qué es la v4.0.** El sello definitivo. Con las **27 leyes** ya verificadas (v3.x), esta versión
+> **cierra el círculo**: alinea el semáforo, actualiza el escaparate, reconcilia el marco de datos y
+> añade tres activos de práctica profesional (mapa de artículos, formatos y jurisprudencia).
+
+### Semáforo de verificación
+- Nuevo verificador [`tools/semaforo.py`](./tools/semaforo.py): mapea cada cita a su ley (explícita o por
+  defecto del tratado), confirma que el artículo **existe y está vigente** (no derogado) en el texto
+  oficial y solo entonces voltea **⚠️→✅**. Resultado: **✅ 155 → 223** (+68). Los ⚠️ restantes (≈789) son
+  **fechas de reforma, tasas, montos y conceptos** — datos volátiles que **deben** seguir ⚠️ (es correcto).
+
+### Escaparate
+- **README** raíz e **INDICE_MAESTRO** actualizados al estado real: v4.0, 27 leyes verificadas, explicación
+  del semáforo ✅/⚠️ y de la apóstrofe ⟳, y la nueva estructura (fuentes, formatos, jurisprudencia, tools, mapa).
+
+### Contenido nuevo
+- **Datos (09):** reconciliado con la **nueva LFPDPPP (DOF 14-11-2025)** — autoridad = Secretaría
+  Anticorrupción y Buen Gobierno (art. 2-XV, 38-39), ARCO (art. 21); se marca que la LFPDPPP 2010 quedó **abrogada**.
+- [`MAPA-DE-ARTICULOS.md`](./MAPA-DE-ARTICULOS.md): tablero de **266 artículos** de **14 leyes** → tratado → estado.
+- [`Banco-de-Formatos/`](./Banco-de-Formatos/): **6 plantillas reales** (term sheet, acta de asamblea,
+  pagaré, SPA, aviso de privacidad, amparo indirecto).
+- [`Banco-de-Jurisprudencia/`](./Banco-de-Jurisprudencia/): criterios clave por rama, con clave de tesis
+  documentada y **remisión obligatoria al SJF** para verificar registro/vigencia (sin inventar registros).
+
+### Calidad
+- **0 enlaces `.md` rotos**, **0 markdown roto**. Scripts reproducibles en `tools/`.
+
+---
+
 ## [3.4] — 2026-07 · «Corpus legal completo (27 leyes)» — *rama `v3.4-corpus-completo`, PR*
 
 > **Qué es la v3.4.** El cierre del corpus: se integran las **10 leyes finales** (procesal, datos,
