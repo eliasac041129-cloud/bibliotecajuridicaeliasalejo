@@ -1,18 +1,24 @@
 # Proyecto AJE · Arquitecto Jurídico Empresarial
 
 > **De una biblioteca a un sistema.** Lo que empezó como la *Biblioteca Jurídica Elias Alejo*
-> es hoy, en su **versión 2.0**, un **sistema integral de formación** —jurídica, empresarial,
-> profesional y patrimonial— diseñado para transformar la forma de pensar, analizar, decidir y
-> actuar de su lector, hasta convertirlo en un **asesor indispensable** para quienes toman las
-> decisiones empresariales más importantes.
+> es hoy un **sistema integral de formación** —jurídica, empresarial, profesional y patrimonial—
+> diseñado para transformar la forma de pensar, analizar, decidir y actuar de su lector, hasta
+> convertirlo en un **asesor indispensable** para quienes toman las decisiones empresariales más importantes.
 
-> **Estado: `v2.2` sellada; `v3.0` en curso (2026-07).** **52 tratados** + Laboratorio (11 ejercicios) +
-> Sistema de Repaso + **Glosario Bilingüe**. La v3.0 añade la **capa de enriquecimiento** (glosario
-> español⇄inglés, mazo Anki y banco de preguntas ampliados). **Fechado global:** salvo indicación en
-> contrario, el contenido está a **2026-07**; **verifica toda norma, tasa, monto y artículo contra su texto
-> vigente** (DOF/SAT/SJF). Es un **sistema conceptual y de estudio**: los **números de artículo** están
-> marcados ⚠️ y su verificación *verbatim* (para el sello "Referencia Verificada plena") sigue pendiente
-> —ver [Control de Calidad](./CONTROL-DE-CALIDAD.md) y el CHANGELOG—.
+> **Estado: `v4.0` — "Referencia Verificada" (2026-07).** **52 tratados** (Niveles I-V + 14 Ramas
+> Esenciales) + Laboratorio (11 ejercicios) + Sistema de Repaso + **Glosario Bilingüe** + **Banco de
+> Formatos** + **Banco de Jurisprudencia**.
+>
+> **Qué hace única a esta biblioteca (v4.0):**
+> - 📚 **27 leyes oficiales verificadas verbatim** archivadas en [`fuentes-legales/`](./fuentes-legales/):
+>   número de artículo cotejado **palabra por palabra** contra el texto vigente del DOF/Cámara de Diputados.
+> - ⟳ **Apóstrofe de vigencia:** cada artículo citado lleva el símbolo **⟳** que obliga al lector a
+>   recontrastar su vigencia en el código (el Derecho cambia; ver [`fuentes-legales/`](./fuentes-legales/)).
+> - ✅ / ⚠️ **Semáforo de confianza:** ✅ = dato cotejado contra fuente oficial; ⚠️ = dato **volátil**
+>   (fecha de reforma, tasa, monto, cifra) que **debe reverificarse** en su ejercicio/año.
+>
+> **Fechado global:** salvo indicación en contrario, el contenido está a **2026-07**. Consulta el
+> [Protocolo de Verificación](./PROTOCOLO_DE_VERIFICACION.md), el [Control de Calidad](./CONTROL-DE-CALIDAD.md) y el CHANGELOG.
 
 ---
 
@@ -74,6 +80,12 @@ bibliotecajuridicaeliasalejo/
 ├── Columna-IV-Sistema-del-Socio/      ← CÓMO se construye la carrera
 ├── Columna-V-Patrimonio/              ← CÓMO se administra la riqueza
 │
+├── fuentes-legales/                   ← 27 leyes oficiales verificadas (UTF-8) + originales Word
+├── Banco-de-Formatos/                 ← plantillas reales (SPA, term sheet, acta, pagaré, amparo…)
+├── Banco-de-Jurisprudencia/           ← criterios/tesis clave por rama
+├── tools/                             ← utilidades (doc2txt, semáforo, apóstrofe, callout)
+├── MAPA-DE-ARTICULOS.md               ← tablero: artículo → tratado → estado ✅/⚠️
+│
 └── (apoyo) GUIA-METODOLOGICA · MAPA_BIBLIOTECA-A-MATERIAS ·
             PROTOCOLO_DE_VERIFICACION · PLANTILLA-LIBRO · AVANCE · CHANGELOG
 ```
@@ -129,8 +141,9 @@ El detalle está en [PLANTILLA-LIBRO.md](./PLANTILLA-LIBRO.md).
 
 ## Cómo se construye (el medio importa)
 
-- **Control de versiones (git/GitHub).** La **V1.0 está sellada en la rama `v1.0`** (foto
-  congelada de la biblioteca completa); el desarrollo de la V2.0 continúa en `main` sin dañarla.
+- **Control de versiones (git/GitHub).** Cada versión se sella en su rama/PR: v1.0 → v2.x
+  (enriquecimiento) → v3.0-v3.4 (integración de las **27 leyes** y la **apóstrofe ⟳**) → **v4.0**
+  ("Referencia Verificada": semáforo cerrado, escaparate, formatos y jurisprudencia). Ver el CHANGELOG.
 - **Construcción incremental en bloques pequeños**, con *commit* y *push* tras cada bloque.
 - **Navegabilidad y trazabilidad:** índice maestro, prerrequisitos y conexiones declaradas.
 - **Honestidad del medio:** se construye con apoyo de IA, bajo el Principio Supremo de

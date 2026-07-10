@@ -30,6 +30,11 @@
 | [Sistema de Repaso](./Sistema-de-Repaso/) | Herramientas de retención: **mazo Anki (CSV)** y **banco de preguntas** con repaso espaciado. |
 | [Control de Calidad](./CONTROL-DE-CALIDAD.md) | Registro de la pasada de QA (secciones, enlaces, fechado, estado de verificación). |
 | [Glosario Bilingüe](./GLOSARIO-BILINGUE.md) | Términos jurídicos **español ⇄ inglés** por área + "falsos amigos" (Principio 6). |
+| [**Fuentes Legales**](./fuentes-legales/) | **27 leyes oficiales verificadas verbatim** (UTF-8) + originales Word. Fuente primaria del sello "Referencia Verificada" y del símbolo ⟳. |
+| [**Mapa de Artículos**](./MAPA-DE-ARTICULOS.md) | Tablero: cada artículo citado → tratado donde se explica → estado ✅/⚠️. Dashboard de verificación y repaso. |
+| [**Banco de Formatos**](./Banco-de-Formatos/) | Plantillas reales listas para practicar: term sheet, SPA, acta de asamblea, pagaré, escrito de amparo, contrato. |
+| [**Banco de Jurisprudencia**](./Banco-de-Jurisprudencia/) | Criterios y tesis clave de la SCJN por rama, con su fuente para verificar en el SJF. |
+| [tools/](./tools/) | Utilidades del proyecto: `doc2txt` (.doc→UTF-8), `semaforo`, `apostrofe`, `callout`. |
 
 ---
 
