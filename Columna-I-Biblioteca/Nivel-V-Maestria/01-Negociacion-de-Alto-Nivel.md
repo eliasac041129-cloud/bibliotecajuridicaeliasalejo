@@ -1465,3 +1465,24 @@ La *Big Law* estructura la negociación en torno al *term sheet* y a la gestión
 - **Intermedio:** Lax & Sebenius, *3-D Negotiation*.
 - **Avanzado:** Raiffa, *The Art and Science of Negotiation*.
 - **Internacional:** Malhotra & Bazerman, *Negotiation Genius*.
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La negociación es la disciplina de **crear y repartir valor** bajo información imperfecta. Su fundamento moderno es la **teoría de juegos** (Nash) y el programa de Harvard (Fisher & Ury): pasar de un regateo posicional de suma cero a la negociación **integrativa** (agrandar el pastel antes de repartirlo). El abogado negocia todo —precio, cláusulas, plazos, con la autoridad— y su materia prima es el **BATNA**: sin alternativa, no hay poder.
+
+**El debate.** ***Creating value* vs. *claiming value*** —el "dilema del negociador" (Lax & Sebenius): cooperar para crear valor te expone a que el otro lo reclame todo; competir para reclamar destruye valor conjunto. ¿Cuál prevalece? Depende del juego (único vs. repetido). Debate conductual: los sesgos (anclaje, aversión a la pérdida, exceso de confianza —Kahneman, Bazerman) explican por qué negociadores "racionales" dejan valor sobre la mesa.
+
+**Mirada de AED.** Una negociación eficiente **maximiza el excedente conjunto** y lo reparte según poder (BATNA) y habilidad. Los **compromisos creíbles** (quemar las naves) alteran el juego: reducen las propias opciones para forzar la mano del otro (Schelling, *The Strategy of Conflict*). Las cláusulas contractuales son compromisos creíbles institucionalizados (una penalidad hace creíble la amenaza).
+
+**Comparado y lección para México.** La *Big Law* estructura la negociación en torno al *term sheet* y a la gestión de proceso; los estilos **culturales** varían (directo anglosajón vs. relacional latino). **Lección:** el negociador mexicano internacional debe leer la cultura tanto como el contrato, y llegar con BATNA construido —no improvisado en la mesa.
+
+**Crítica.** El modelo de Harvard (*win-win*) ha sido criticado por **ingenuo** ante negociadores duros y de mala fe; de ahí la literatura de "negociar con quien no quiere jugar limpio" (Ury, *Getting Past No*). La crítica: en el mundo real, mucho valor se **reclama**, no se crea.
+
+**Jurisprudencia y operación real.** El caso **Twitter/X–Musk** (2022) es una lección de negociación y BATNA: Musk firmó rápido, sin *due diligence*, y su BATNA se reveló débil (Delaware lo forzaría a cerrar); terminó pagando ~44,000 mdd ⚠️. En la práctica, el poder se define **antes** de firmar; después manda el contrato.
+
+**Para leer más:** Fisher & Ury, *Getting to Yes*; Lax & Sebenius, *3-D Negotiation*; Schelling, *The Strategy of Conflict* (1960); Bazerman & Malhotra, *Negotiation Genius*.

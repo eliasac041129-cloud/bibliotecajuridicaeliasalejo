@@ -1434,3 +1434,24 @@ Dos marcos: **IFRS** (global, incluida México vía NIF convergentes) y **US GAA
 - **Intermedio:** McKinsey, *Valuation* (caps. contables); NIF mexicanas.
 - **Avanzado:** Penman, *Financial Statement Analysis and Security Valuation*.
 - **Internacional:** IFRS Foundation, normas (IFRS 15, 16).
+
+
+---
+
+## 🎓 Profundización — Cátedra del Consejo Editorial
+
+> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
+
+**Por qué existe (fundamento).** La contabilidad es el **lenguaje con que la empresa se cuenta a sí misma y al mundo**; existe para reducir la asimetría de información entre quien gestiona y quien financia (el mismo problema de agencia de Berle & Means, visto desde los números). El principio de **devengado** (registrar cuando ocurre, no cuando entra la caja) nació para reflejar la realidad económica; pero abrió la puerta al **juicio** —y al fraude.
+
+**El debate.** ***Fair value* (valor razonable) vs. costo histórico**: el valor razonable (IFRS) da información actual pero introduce **volatilidad procíclica** (se acusó de agravar 2008, al forzar castigos en cascada); el costo histórico es estable pero desactualizado. Debate del **EBITDA**: métrica omnipresente en M&A y crédito, atacada por Buffett ("¿el *capex* no existe?") y por los *add-backs* agresivos que inflan el precio. ¿Es una medida útil de generación de caja o "utilidad antes de las cosas malas"?
+
+**Mirada de AED.** Las normas contables son **reglas de revelación** cuyo valor es reducir el costo de capital (información creíble = menor prima de riesgo). El *earnings management* (manipular resultados dentro de la norma) es un problema de agencia: el gestor "suaviza" para su bono o para la cotización. La auditoría y el comité de auditoría son los *gatekeepers* que la teoría prescribe.
+
+**Comparado y lección para México.** **IFRS** (global, base de las NIF mexicanas) vs. **US GAAP**: difieren en reconocimiento de ingresos, arrendamientos (IFRS 16 subió los *leases* al balance) y deterioro. **Lección:** en *deals* transfronterizos, saber en qué marco están los números —y cómo cambia el EBITDA y la deuda según el marco— evita sorpresas de precio.
+
+**Crítica.** La contabilidad da una **falsa objetividad**: detrás de cada cifra hay estimaciones (deterioro, provisiones, vida útil). Enron y Wirecard no violaron tanto "la aritmética" como el **juicio** y la revelación. La crítica: el número tranquiliza al abogado que no sabe leerlo.
+
+**Jurisprudencia y operación real.** Los grandes fraudes —**Enron** (SPEs fuera de balance), **WorldCom** (~11,000 mdd ⚠️ de gastos capitalizados), **Wirecard** (~1,900 mdEUR ⚠️ inexistentes)— originaron Sarbanes-Oxley y reformas de auditoría. En la práctica, el abogado de M&A negocia definiciones de EBITDA, deuda neta y capital de trabajo como cláusulas que valen millones.
+
+**Para leer más:** Penman, *Financial Statement Analysis and Security Valuation*; cartas de Warren Buffett a los accionistas de Berkshire; normas IFRS 15 y 16.
