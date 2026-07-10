@@ -58,9 +58,15 @@ La pasada detectó **tres formatos** conviviendo. Se **homologan por norma** (ve
   (**982 marcas**) más un callout explicativo en los **58 tratados**. Recuerda al lector que **✅ verifica a
   una fecha, no para siempre**, y lo obliga a recontrastar el artículo en su código. Verificado: 0 marcas
   dentro de bloques de código, 0 archivos con markdown roto.
+- ✅ **CORAZÓN CORPORATIVO COMPLETO (v3.3):** 8 leyes más cotejadas verbatim en
+  [`fuentes-legales/`](./fuentes-legales/) — **CPEUM** (1º/27/**31-IV**/103/107/123), **Código de
+  Comercio** (1º/3º/75), **LFCE** (1º/53/56/86), **LFPPI** (1º/57/111), **LIVA** (1º=**16%**, 2º-A=**0%**),
+  **LCM** (1º/10), **LIC** (2º/46), **LIE** (1º/5º/6º/7º). Con la CPEUM en mano se voltearon **11 marcas
+  ⚠️→✅** del **art. 31-IV** (la base constitucional del deber de contribuir, antes sin fuente) y se
+  corrigieron 12 marcadores ⟳ mal colocados. **17 leyes** ya son fuente primaria verificada.
 - ⚠️ **Pendiente (para "referencia verificada" plena):** el verbatim de las leyes **aún no subidas**
-  (LIVA, LFPPI, LFPDPPP, LGEEPA, Ley de Concursos Mercantiles…). Metodología ya probada; basta subir su
-  texto a `fuentes-legales/` y repetir el cotejo.
+  (LFPDPPP, LGEEPA, CNPP, CNPCF, LGRA, LFPC…). Metodología ya probada; basta subir su texto a
+  `fuentes-legales/` y repetir el cotejo.
 
 ## 5. Fechado global
 

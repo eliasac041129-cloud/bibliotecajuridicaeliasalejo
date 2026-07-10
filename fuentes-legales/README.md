@@ -19,6 +19,14 @@ contenido fueron cotejados **palabra por palabra** contra el texto de esta carpe
 | `LFT-Ley-Federal-del-Trabajo.txt` | Ley Federal del Trabajo | TEXTO VIGENTE — última reforma **DOF 14-05-2026** | UTF-8 |
 | `CPF-Codigo-Penal-Federal.txt` | Código Penal Federal | TEXTO VIGENTE — última reforma **DOF 13-03-2026** | UTF-8 |
 | `LAmp-Ley-de-Amparo.txt` | Ley de Amparo | TEXTO VIGENTE — última reforma **DOF 16-10-2025** | UTF-8 |
+| `CPEUM-Constitucion-Politica-EUM.txt` | Constitución Política de los Estados Unidos Mexicanos | TEXTO VIGENTE — últimas reformas **DOF 02-06-2026** | UTF-8 |
+| `CCom-Codigo-de-Comercio.txt` | Código de Comercio | TEXTO VIGENTE — última reforma **DOF 14-11-2025** (cantidades DOF 18-02-2026) | UTF-8 |
+| `LFCE-Ley-Federal-de-Competencia-Economica.txt` | Ley Federal de Competencia Económica | TEXTO VIGENTE — última reforma **DOF 14-11-2025** | UTF-8 |
+| `LFPPI-Ley-Federal-de-Proteccion-a-la-Propiedad-Industrial.txt` | Ley Federal de Protección a la Propiedad Industrial | TEXTO VIGENTE — última reforma **DOF 03-04-2026** | UTF-8 |
+| `LIVA-Ley-del-Impuesto-al-Valor-Agregado.txt` | Ley del Impuesto al Valor Agregado | TEXTO VIGENTE — última reforma **DOF 12-11-2021** | UTF-8 |
+| `LCM-Ley-de-Concursos-Mercantiles.txt` | Ley de Concursos Mercantiles | TEXTO VIGENTE — última reforma **DOF 14-11-2025** | UTF-8 |
+| `LIC-Ley-de-Instituciones-de-Credito.txt` | Ley de Instituciones de Crédito | TEXTO VIGENTE — última reforma **DOF 14-11-2025** | UTF-8 |
+| `LIE-Ley-de-Inversion-Extranjera.txt` | Ley de Inversión Extranjera | TEXTO VIGENTE — última reforma **DOF 27-05-2024** | UTF-8 |
 
 ## Cómo consultar un artículo
 

@@ -89,7 +89,7 @@ Al terminar, el lector será capaz de:
   **principio pro persona**.
 - **Identificar los derechos con impacto empresarial**: legalidad y seguridad jurídica (arts. 14 y 16
   ⚠️ ⟳), propiedad y expropiación (art. 27 ⚠️ ⟳), libertad de trabajo y comercio (art. 5 ⚠️ ⟳),
-  irretroactividad, no confiscación y la obligación tributaria justa (art. 31-IV ⚠️ ⟳).
+  irretroactividad, no confiscación y la obligación tributaria justa (art. 31-IV ✅ ⟳).
 - **Distinguir los medios de control constitucional**: **juicio de amparo**, **controversia
   constitucional** y **acción de inconstitucionalidad**.
 - **Dominar la anatomía del juicio de amparo**: tipos (directo e indirecto), partes, **principios**
@@ -236,7 +236,7 @@ efecto** — y hasta puede **congelarlo** de inmediato (la **suspensión**) mien
 - **Parte dogmática (arts. 1º ⟳–29 ⚠️):** los derechos humanos y sus garantías. Aquí viven los derechos
   con impacto empresarial: **igualdad y no discriminación (1º), libertad de trabajo y comercio (5º),
   legalidad y audiencia (14), seguridad jurídica y actos de molestia (16), propiedad y expropiación
-  (27), obligación tributaria justa (31-IV)** ⚠️.
+  (27), obligación tributaria justa (31-IV)** ✅.
 - **Parte orgánica (arts. 40 ⟳ y ss. ⚠️):** la forma de Estado (**república representativa, democrática,
   federal**), la **división de poderes** (Ejecutivo, Legislativo, Judicial), el **federalismo** (reparto
   de competencias entre Federación, entidades y municipios) y los órganos constitucionales.
@@ -341,7 +341,7 @@ definitividad— tira el amparo.
 
 **La ley fiscal inconstitucional.** El Congreso crea un impuesto cuyo elemento esencial (la base) queda
 definido en una regla de la Miscelánea, no en la ley. Violación al **principio de legalidad tributaria**.
-Se combate con amparo contra la norma, alegando art. 31-IV ⚠️ ⟳. Aquí lo constitucional y lo fiscal se
+Se combate con amparo contra la norma, alegando art. 31-IV ✅ ⟳. Aquí lo constitucional y lo fiscal se
 funden (conéctalo con el Libro 01).
 
 ## 18. Casos reales (estilizados y jurisprudenciales)
@@ -413,7 +413,7 @@ mejor ruta. ⚠️ *Verificar tratados vigentes aplicables.*
 La jurisprudencia constitucional es enorme. Líneas temáticas clave para el corporativo (para estudiar y
 **verificar en el SJF**, no citar de memoria):
 - **Fundamentación y motivación** (art. 16 ⚠️ ⟳): estándares de qué debe contener un acto de molestia.
-- **Legalidad tributaria** (art. 31-IV ⚠️ ⟳): elementos esenciales del tributo deben estar en ley.
+- **Legalidad tributaria** (art. 31-IV ✅ ⟳): elementos esenciales del tributo deben estar en ley.
 - **Interés legítimo**: su alcance tras la reforma de 2013.
 - **Suspensión**: apariencia del buen derecho y balance con el interés social/orden público.
 
@@ -620,7 +620,7 @@ integración del Poder Judicial (elección popular) y debe verificarse. Para la 
 - [ ] ¿Estoy dentro del **plazo** (15 días ⚠️ u otro)?
 - [ ] ¿Acredito **interés jurídico o legítimo** (agravio personal y directo)?
 - [ ] ¿Conviene y procede la **suspensión**? ¿Debo **garantizar** el interés fiscal?
-- [ ] ¿Mis **conceptos de violación** se anclan en artículos verificados (14, 16, 27, 31-IV ⚠️) y tesis
+- [ ] ¿Mis **conceptos de violación** se anclan en artículos verificados (14, 16, 27, 31-IV ✅) y tesis
       confirmadas en el SJF?
 - [ ] ¿Consideré el **contexto institucional** (reforma judicial) en la estrategia?
 

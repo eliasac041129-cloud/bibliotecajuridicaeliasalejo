@@ -60,7 +60,7 @@ medios de defensa. Después, salta a IV-09.*
 > máxima de PF (~35%)** y demás **montos/UMA/tarifas anuales** (cambian cada ejercicio con la Miscelánea y la Ley de Ingresos).
 
 > **Aviso de método.** Tratado, no repaso. Vas a entender el impuesto desde su **raíz constitucional**
-> (art. 31, fr.  ⟳IV ⚠️) hasta el **litigio fiscal**, con la mirada puesta siempre en lo que le importa
+> (art. 31, fr. IV ⟳ ✅) hasta el **litigio fiscal**, con la mirada puesta siempre en lo que le importa
 > a un abogado de M&A: **el costo fiscal decide estructuras, precios y hasta si un deal se hace**.
 
 ---
@@ -109,7 +109,7 @@ hechas. Quien no entiende el impuesto, no entiende el verdadero costo de nada.
 
 Al terminar, el lector será capaz de:
 
-- **Ubicar el fundamento constitucional** de la obligación de contribuir (art. 31, fr.  ⟳IV ⚠️) y los
+- **Ubicar el fundamento constitucional** de la obligación de contribuir (art. 31, fr. IV ⟳ ✅) y los
   **cuatro principios** que la limitan: legalidad, proporcionalidad, equidad y destino al gasto público.
 - **Clasificar las contribuciones** conforme al Código Fiscal de la Federación (impuestos, aportaciones
   de seguridad social, contribuciones de mejoras y derechos — art. 2 CFF ✅ ⟳).
@@ -155,7 +155,7 @@ representación** —*no taxation without representation*—, grito de la indepe
 raíz del **principio de legalidad tributaria**. El impuesto dejó de ser voluntad del soberano para
 volverse **ley aprobada por el pueblo a través de sus representantes**.
 
-En **México**, el fundamento moderno está en la **Constitución de 1917**, cuyo artículo 31, fracc ⟳ión
+En **México**, el fundamento moderno está en la **Constitución de 1917**, cuyo artículo 31, fracción ⟳
 IV ⚠️, consagra el deber de contribuir "de manera proporcional y equitativa". A lo largo del siglo XX
 el sistema pasó de impuestos dispersos y cedulares a un sistema **global** de renta y a un impuesto
 general al **consumo** (el IVA, que sustituyó al viejo impuesto sobre ingresos mercantiles). ⚠️
@@ -246,7 +246,7 @@ entiende de impuestos vale el doble.
   distintas de las otras tres categorías.
 - **Crédito fiscal (art. 4 CFF ✅ ⟳):** lo que el Estado tiene derecho a percibir por contribuciones, sus
   accesorios (recargos, multas, gastos de ejecución) o aprovechamientos.
-- **Obligación de contribuir (art. 31, fr.  ⟳IV, CPEUM ⚠️):** el deber de los mexicanos de contribuir al
+- **Obligación de contribuir (art. 31, fr. IV ⟳, CPEUM ✅):** el deber de los mexicanos de contribuir al
   gasto público de la Federación, estados y municipios, de manera **proporcional y equitativa** que
   dispongan las **leyes**.
 - **Época de pago, actualización y recargos:** el CFF define cómo y cuándo se paga, cómo se actualiza el
@@ -294,7 +294,7 @@ fiscal: **una cuota obligatoria, con reglas claras y con defensa para el que pag
 
 ### 14.1 El fundamento constitucional y los cuatro principios
 
-Toda la materia cuelga del **art. 31, fr.  ⟳IV de la Constitución ⚠️**: obligación de contribuir al gasto
+Toda la materia cuelga del **art. 31, fr. IV ⟳ de la Constitución ⚠️**: obligación de contribuir al gasto
 público de forma **proporcional y equitativa** y **conforme a las leyes**. De ahí la doctrina y la SCJN
 derivan **cuatro principios** que son, a la vez, **garantías del contribuyente** y **causas de
 inconstitucionalidad** de un impuesto:
@@ -532,7 +532,7 @@ caso por caso.*
 
 ## 23. Derecho mexicano (régimen positivo)
 
-- **Constitucional:** art. 31, fr.  ⟳IV (obligación de contribuir) y el reparto de potestades entre
+- **Constitucional:** art. 31, fr. IV ⟳ (obligación de contribuir) y el reparto de potestades entre
   Federación, entidades y municipios (arts. 73, 117, 118, 124, 131 ⚠️ ⟳).
 - **Código adjetivo:** **Código Fiscal de la Federación (CFF)** — definiciones, causación,
   procedimiento, facultades, infracciones, delitos y recurso de revocación.
@@ -562,7 +562,7 @@ sobre qué viola **proporcionalidad**, **equidad** y **legalidad**. Ejemplos de 
 
 ## 25. Criterios de la Suprema Corte
 
-La **SCJN** es la intérprete final de los principios del art. 31, fr.  ⟳IV. Su **Primera** y **Segunda
+La **SCJN** es la intérprete final de los principios del art. 31, fr. IV ⟳. Su **Primera** y **Segunda
 Salas** y el **Pleno** han construido, a lo largo de décadas, la **doctrina de la capacidad
 contributiva**, los límites de la **facultad reglamentaria** en materia fiscal, la **irretroactividad**
 tributaria y la **proporcionalidad** de multas. Para el litigante, conocer la **postura vigente de la
@@ -677,7 +677,7 @@ posterior. (5) Reunir la **prueba de materialidad** de las deducciones. Conclusi
 
 ## 35. Flashcards (recuperación activa)
 
-- **P:** ¿Fundamento constitucional de la obligación de contribuir? · **R:** Art. 31, fr.  ⟳IV CPEUM ⚠️
+- **P:** ¿Fundamento constitucional de la obligación de contribuir? · **R:** Art. 31, fr. IV ⟳ CPEUM ✅
   (proporcional, equitativa y conforme a las leyes).
 - **P:** ¿Cuatro clases de contribuciones (art. 2 CFF ✅ ⟳)? · **R:** Impuestos, aportaciones de seguridad
   social, contribuciones de mejoras y derechos.
@@ -697,7 +697,7 @@ posterior. (5) Reunir la **prueba de materialidad** de las deducciones. Conclusi
 
 ```
 DERECHO FISCAL
-├── FUNDAMENTO: art. 31-IV CPEUM ⚠️
+├── FUNDAMENTO: art. 31-IV CPEUM ✅
 │   └── 4 principios: legalidad · proporcionalidad · equidad · destino al gasto
 ├── SUSTANTIVO (¿cuánto se paga?)
 │   ├── Relación tributaria: hecho imponible · sujetos · base · tasa/tarifa
@@ -765,7 +765,7 @@ NOTIFICACIÓN DE CRÉDITO FISCAL
 ## 40. Resumen ejecutivo
 
 El derecho fiscal regula cómo el Estado obtiene recursos de los particulares, con **límites
-constitucionales** (legalidad, proporcionalidad, equidad, destino al gasto — art. 31-IV ⚠️ ⟳). La
+constitucionales** (legalidad, proporcionalidad, equidad, destino al gasto — art. 31-IV ✅ ⟳). La
 obligación **nace con el hecho imponible y la ley**, no con el acto de autoridad. Las contribuciones se
 clasifican en impuestos, aportaciones de seguridad social, mejoras y derechos (art. 2 CFF ✅ ⟳). Los tres
 grandes impuestos federales son **ISR** (renta, PM al 30% ✅), **IVA** (consumo, 16% con traslado y

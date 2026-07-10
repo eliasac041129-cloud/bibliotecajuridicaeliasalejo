@@ -490,7 +490,7 @@ due diligence— del abogado de negocios.
 |---|---|
 | **México** | Código de Comercio (compraventa, comisión, transporte, seguro) + LGTOC (factoraje, leasing) + LFPPI (franquicia); muchos **atípicos** (distribución, agencia, JV) regidos por la autonomía (art. 78 ⟳). |
 | **España** | Código de Comercio + leyes especiales; **Ley del Contrato de Agencia** (protege al agente, indemnización por clientela); franquicia regulada. |
-| **Estados Unidos** | **UCC** (venta de bienes —Art. 2 ⟳—, leasing —Art. 2 ⟳A—, factoring vía Art. 9 ⟳); franquicia regulada por la **FTC Franchise Rule** (disclosure) y leyes estatales; distribución/agencia por *common law* y antitrust. |
+| **Estados Unidos** | **UCC** (venta de bienes —Art. 2 ⟳—, leasing —Art. 2A ⟳—, factoring vía Art. 9 ⟳); franquicia regulada por la **FTC Franchise Rule** (disclosure) y leyes estatales; distribución/agencia por *common law* y antitrust. |
 | **Delaware/EE. UU.** | Amplia libertad contractual; *joint ventures* y contratos complejos muy desarrollados; fuerte rol del antitrust en restricciones verticales. |
 | **Unión Europea** | **Directiva de Agencia Comercial** (indemnización por clientela); **Reglamento de restricciones verticales** (exenciones por categorías a acuerdos de distribución/franquicia); protección del franquiciado. |
 | **UNIDROIT** | **Guía sobre acuerdos de franquicia principal internacional**; Principios de contratos comerciales; Convención de Ottawa sobre **factoring** y leasing internacional. |

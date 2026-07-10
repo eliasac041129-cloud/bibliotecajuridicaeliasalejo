@@ -6,7 +6,30 @@
 
 ---
 
-## [3.2] — 2026-07 · «Núcleo corporativo verificado + Apóstrofe de vigencia» — *rama `v3.2-corpus-y-vigencia`, PR*
+## [3.3] — 2026-07 · «Corazón corporativo completo (CPEUM + 7 leyes)» — *rama `v3.3-corpus-corporativo`, PR*
+
+> **Qué es la v3.3.** Se cierran las **8 leyes de prioridad máxima** del derecho corporativo. Con esto,
+> el fiscal, el mercantil, el M&A, la competencia, el concursal, el bancario y la inversión extranjera
+> quedan respaldados en **fuente primaria verificada** — y, por fin, la **Constitución** en el repo.
+
+### Añadido — 8 fuentes oficiales (Word `.doc` → UTF-8)
+- **CPEUM** (DOF 02-06-2026), **Código de Comercio** (14-11-2025), **LFCE** (14-11-2025),
+  **LFPPI** (03-04-2026), **LIVA** (12-11-2021), **LCM** (14-11-2025), **LIC** (14-11-2025),
+  **LIE** (27-05-2024). Total: **17 leyes** en [`fuentes-legales/`](./fuentes-legales/).
+
+### Verificado (✅ verbatim)
+- **CPEUM:** 1º, 27, **31-IV**, 103, 107, 123 · **CCom:** 1º, 3º, 75 · **LFCE:** 1º, 53, 56, 86 ·
+  **LFPPI:** 1º, 57, 111 · **LIVA:** 1º (**16%**), 2º-A (**0%**) · **LCM:** 1º, 10 · **LIC:** 2º, 46 ·
+  **LIE:** 1º, 5º, 6º, 7º.
+
+### Corregido
+- **Art. 31-IV CPEUM:** estaba en ⚠️ desde v3.1 (no teníamos la Constitución). Ahora verificado →
+  **11 marcas ⚠️→✅** en 01-Fiscal y 02-Constitucional.
+- **12 marcadores ⟳** que habían quedado a media cita (p. ej. «fr. ⟳IV») reubicados al final de la cita.
+
+---
+
+## [3.2] — 2026-07 · «Núcleo corporativo verificado + Apóstrofe de vigencia» — *rama `v3.2-corpus-y-vigencia`, PR #6 fusionado*
 
 > **Qué es la v3.2.** Dos saltos grandes: (1) el **núcleo del derecho corporativo** pasa a **fuente primaria
 > verificada** con 7 leyes más cotejadas verbatim; (2) nace la **⟳ apóstrofe de vigencia**, que educa al

@@ -147,7 +147,7 @@ reglas estandarizadas, ágiles y predecibles.
 
 ## 7. Contexto político
 
-La materia mercantil es **competencia federal** en México (art. 73, fr.  ⟳X constitucional: el
+La materia mercantil es **competencia federal** en México (art. 73, fr. X ⟳ constitucional: el
 Congreso de la Unión legisla en materia de comercio), a diferencia de la civil (local). Esto es una
 decisión política de **unidad del mercado nacional**: un solo derecho mercantil para todo el país,
 para que el comercio fluya entre estados. El Estado regula el comercio para proteger intereses
@@ -519,7 +519,7 @@ organizaciones (sociedades), su dinero circulante (títulos de crédito), su gra
 
 ## 23. Derecho mexicano
 
-- **Fundamento constitucional:** art. 73, fr.  ⟳X (el comercio es **materia federal**); arts. 5 y 28 ⟳
+- **Fundamento constitucional:** art. 73, fr. X ⟳ (el comercio es **materia federal**); arts. 5 y 28 ⟳
   (libertad de comercio y de empresa, prohibición de monopolios).
 - **Código de Comercio (1889, muy reformado):** comerciantes (art. 3 ⟳), actos de comercio (art. 75 ⟳),
   supletoriedad del civil (art. 2 ⟳), libertad de forma (art. 78 ⟳), obligaciones del comerciante
