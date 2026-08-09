@@ -462,6 +462,17 @@ qué autoridad lo vigile—.
 - **Datos biométricos y de menores:** nivel de protección reforzada necesario.
 
 
+- **El caso *Schrems* y por qué un abogado corporativo debe conocerlo.** Las decisiones europeas conocidas
+  por ese nombre invalidaron sucesivamente los marcos que permitían transferir datos personales de la Unión
+  Europea a Estados Unidos, al considerar que el régimen de acceso gubernamental estadounidense no ofrecía
+  protección equivalente ⚠️ *verificar el estado vigente del marco de transferencias*.
+  > **La lección práctica trasciende la materia de datos y vale para cualquier operación transfronteriza:**
+  > la transferencia internacional de información **no es un asunto de infraestructura, es un asunto
+  > jurídico**, y puede volverse ilícita por una decisión judicial ajena a tu cliente y a su contraparte. En
+  > un *due diligence* de una empresa con datos de usuarios europeos, o en un contrato de servicios en la
+  > nube, la pregunta *"¿dónde se alojan y a qué régimen de acceso están sujetos los datos?"* es una pregunta
+  > de riesgo, no de sistemas.
+
 ## 30. Errores comunes
 
 1. **No tener (o tener mal) el aviso de privacidad.** El incumplimiento más frecuente y sancionado.
@@ -697,58 +708,6 @@ Empresa Familiar     ★★☆☆☆
 verifica todo artículo, monto, plazo y la autoridad garante vigente contra su texto vigente (LFPDPPP y
 Reglamento) tras la reforma de simplificación orgánica 2024-2025.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-Los datos son **activo y pasivo** a la vez: valen (la empresa vive de ellos) y arriesgan (una brecha o una sanción hunden la valuación). En M&A, el socio hace ***privacy due diligence***: ¿la empresa trata datos con base legal?, ¿hubo brechas?, ¿puede transferir la base de datos al comprador? Comprar una empresa de datos sin revisar su cumplimiento es heredar una bomba regulatoria.
-
-### Doctrina y debate
-- **Privacidad como derecho:** Warren & Brandeis (*The Right to Privacy*, 1890, "el derecho a ser dejado en paz") y la **autodeterminación informativa** (Tribunal Constitucional alemán, sentencia del censo, 1983).
-- **Debate:** ¿consentimiento (modelo clásico) o **responsabilidad proactiva** (*accountability*, *privacy by design*) del GDPR? El consentimiento "de casilla" está en crisis.
-
-### Derecho comparado
-El **GDPR** europeo (2018) es el estándar global (extraterritorial, multas de hasta 4% de la facturación mundial). EE. UU. carece de ley federal única (modelo sectorial + CCPA en California). México: **nueva LFPDPPP (2025)** ⟳ con autoridad en la **Secretaría Anticorrupción y Buen Gobierno**.
-
-### Caso real
-**Cambridge Analytica / Facebook (2018):** uso indebido de datos de ~87 millones de usuarios ⚠️ *verificar*; costó a Meta una multa de **5,000 mdd** de la FTC y daño reputacional histórico. **Multas GDPR a Meta/Amazon** (cientos de millones de euros). Lección: los datos mal gobernados son el nuevo pasivo ambiental de la economía digital.
-
-### Errores que cuestan millones
-- Transferir una base de datos en un *deal* **sin base legal** para el nuevo tratamiento.
-- No tener **plan de respuesta a brechas** ni *privacy by design*.
-
-### Preguntas
-- **Criterio:** ¿el consentimiento sigue siendo un modelo viable o debe regir la *accountability*?
-- **Entrevista:** ¿qué revisa en un *privacy due diligence*?
-- **Examen:** explique la autodeterminación informativa.
-
-### Bibliografía por niveles
-- **Básico:** LFPDPPP (2025) y su Reglamento.
-- **Intermedio:** GDPR (texto y guías del CEPD).
-- **Avanzado:** Solove, *Understanding Privacy*.
-- **Internacional:** Warren & Brandeis, *The Right to Privacy* (Harvard Law Review, 1890).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La protección de datos nació de una intuición de 1890 (**Warren & Brandeis, *The Right to Privacy***: el "derecho a ser dejado en paz") que la tecnología volvió urgente. Su fundamento moderno es la **autodeterminación informativa** (Tribunal Constitucional alemán, sentencia del censo, 1983): la persona debe controlar quién sabe qué de ella, porque sin ese control no hay libertad real en una sociedad de vigilancia. Los datos son hoy **activo económico** (el "petróleo" digital) y **derecho fundamental** a la vez.
-
-**El debate.** **Consentimiento vs. *accountability*:** el modelo clásico (consentir cada tratamiento) colapsó ante la realidad (nadie lee las políticas); el GDPR viró hacia la **responsabilidad proactiva** (*privacy by design*, evaluaciones de impacto) del responsable. Debate de fondo: **privacidad como derecho fundamental (Europa) vs. como interés del consumidor / propiedad (EE. UU.)** —dos filosofías que chocan en las transferencias transatlánticas.
-
-**Mirada de AED.** Los datos tienen **externalidades** (mi consentimiento afecta a terceros de mi red) y asimetrías brutales (la plataforma sabe todo; el usuario, nada). La regulación corrige ese fallo de mercado, pero impone **costos de cumplimiento** que pueden favorecer a los grandes (que los absorben) sobre los pequeños —paradoja: el GDPR pudo **concentrar** el mercado que quería disciplinar.
-
-**Comparado y lección para México.** **GDPR** (UE, extraterritorial, multas de hasta 4% de facturación global) es el estándar; EE. UU. va por sectores (CCPA en California). México: **nueva LFPDPPP (2025)** ⟳ con autoridad en la Secretaría Anticorrupción y Buen Gobierno (extinto el INAI). **Lección:** para operar globalmente, las empresas mexicanas deben cumplir el GDPR aunque su ley local pida menos —el estándar más alto manda.
-
-**Crítica.** El régimen de consentimiento fue un **fracaso conductual** (*consent fatigue*); y la aplicación desigual (multas millonarias a unos, impunidad a otros) erosiona su credibilidad. Debate abierto: ¿regular el dato o regular el **uso/daño**?
-
-**Jurisprudencia y operación real.** **Cambridge Analytica/Facebook** (2018, multa FTC de 5,000 mdd ⚠️); sentencias *Schrems I y II* del TJUE que tumbaron los marcos de transferencia UE-EE. UU. En M&A, el **privacy due diligence** evalúa brechas y bases legales: heredar una base de datos mal obtenida es heredar un pasivo.
-
-**Para leer más:** Warren & Brandeis, *The Right to Privacy* (Harvard L. Rev., 1890); Solove, *Understanding Privacy*; GDPR; *Schrems II* (TJUE, 2020).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

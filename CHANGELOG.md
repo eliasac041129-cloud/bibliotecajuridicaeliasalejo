@@ -61,12 +61,34 @@
   ***kernel* de Rumelt** y las cuatro señales de mala estrategia en V-04.
 - **Sistema de Repaso: 165 → 206 tarjetas.**
 
-### Voz consolidada (C-1) — en curso
-- **2 de 53 tratados** sin apéndices. El piloto (IV-01 Fundamentos de M&A) pasó de 10,969 a **11,341
-  palabras (+3.4 %)** con **23 de 23 conceptos conservados**, integrando doctrina (Manne,
-  Bradley-Desai-Kim, Jensen, Roll), el AED del contrato (Coase, Akerlof, Holmes), el contraste
-  Delaware/*Takeover Code* y la traducción operativa de *Van Gorkom*. El **método está documentado y
-  validado** en la Auditoría §7.3.bis para continuarlo con el mismo estándar.
+### Voz consolidada (C-1) — ✅ COMPLETADA en los 53 tratados
+> **El defecto de forma más grave de la obra, corregido.** Cada tratado llevaba dos apéndices al cierre
+> (⚖️ Suplemento y 🎓 Profundización) con **estructura idéntica repetida 52 veces** —la huella que hacía que
+> la obra se leyera como un libro con dos anexos de IA pegados—. Los dos apéndices se **disolvieron dentro
+> del cuerpo** de los 53 capítulos, reubicando cada pieza en la sección donde el razonamiento la pedía.
+
+| Nivel | `main` | Consolidado | Delta |
+|-------|-------:|------------:|------:|
+| I · Fundamentos (13) | 100,700 | 94,626 | −6.0 % |
+| II · Civil Profundo (4) | 38,904 | 37,871 | −2.7 % |
+| III · Mercantil (7) | 69,665 | 68,530 | −1.6 % |
+| IV · Corporate Law (10) | 145,939 | 149,722 | **+2.6 %** |
+| V · Maestría (4 + 1 nuevo) | 66,540 | 67,412 | **+1.3 %** |
+| Ramas Esenciales (14) | 104,187 | 97,459 | −6.5 % |
+| **TOTAL** | **525,935** | **518,661** | **−1.4 %** |
+
+- **0 conceptos perdidos**, verificado capítulo por capítulo con `tools/estratos.py verificar` contra `main`.
+- El **núcleo corporativo creció** porque sus apéndices traían doctrina genuinamente aditiva: Manne y el
+  mercado por el control, Grossman-Hart-Moore y el SPA como contrato incompleto, Modigliani-Miller y el
+  *trade-off*, Schelling y el compromiso creíble, la saga del *appraisal* de Delaware, el contraste
+  Delaware/*Takeover Code*, Caremark y Marchand, el debate Chicago/neo-brandeisiano.
+- Los **Fundamentos y las Ramas se comprimieron ~6 %** porque ahí los apéndices eran mayormente redundantes
+  con un cuerpo que ya lo decía mejor. **Esa asimetría es la prueba de que la operación funcionó:** integró
+  donde había sustancia y podó donde había repetición.
+- Comparación con la rama descartada: `v5.0` habría dejado la Columna I en ~110,000 palabras (**−79 %**).
+- Método, mapeo fijo y regla de oro (detenerse si un capítulo pierde más del 10 %) documentados en la
+  [Auditoría](./AUDITORIA-EDICION-FINAL.md) §7.3.bis, con herramienta en
+  [`tools/estratos.py`](./tools/estratos.py).
 
 ### Correcciones de integridad
 - Columna IV declaraba 6 módulos y tenía 7 · el rector del Laboratorio no documentaba el Tramo 3 ·

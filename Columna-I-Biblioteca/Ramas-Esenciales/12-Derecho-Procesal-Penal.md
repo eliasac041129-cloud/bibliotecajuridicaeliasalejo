@@ -482,6 +482,21 @@ legalidad, prueba lícita— con rigor técnico y firmeza ética (Libro 11).
 - **Uso faccioso del proceso penal** y "penalización" de conflictos civiles/comerciales.
 
 
+- **La razón de Blackstone y por qué el sistema acepta absolver culpables.** La formulación clásica —*es
+  preferible que diez culpables queden libres antes que un inocente sea condenado*— no es una frase
+  sentimental: es una **decisión explícita sobre la asimetría de los errores**. Un proceso penal puede
+  equivocarse en dos direcciones —condenar a un inocente o absolver a un culpable— y el sistema declara que
+  el primer error es mucho más grave.
+  > De esa elección se deriva, en cadena, casi todo el diseño del proceso: la **presunción de inocencia**, la
+  > **carga de la prueba** en el Estado, el estándar de convicción **más allá de toda duda razonable** y la
+  > exclusión de prueba ilícita. No son obstáculos al castigo: son el precio, aceptado a conciencia, de
+  > reducir el error más costoso.
+  >
+  > **Y por qué le importa a un abogado de empresa:** en el terreno del derecho penal económico, la presión
+  > pública por sancionar tiende a erosionar exactamente estas garantías —"con los delincuentes de cuello
+  > blanco hay que ser más duros"—. Conocer la razón de Blackstone es lo que permite defender el debido
+  > proceso sin que parezca una defensa de la impunidad.
+
 ## 30. Errores comunes
 
 1. **Esperar al juicio para defenderse.** El caso se decide en la **investigación** y la audiencia inicial;
@@ -734,59 +749,6 @@ Empresa Familiar     ★★★☆☆
 verifica todo artículo (CNPP, CPEUM 16-22), plazo y catálogo contra su texto vigente (DOF) y los criterios
 en el SJF y la Corte IDH.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El corporativo cruza el proceso penal por dos puertas: **delitos económicos** (defraudación, lavado, delitos bursátiles) y **defensa de ejecutivos**. El socio piensa en **garantías** (presunción de inocencia, debido proceso, art. 20 CPEUM ✅ ⟳) y en **estrategia procesal**: medidas cautelares, criterios de oportunidad, procedimiento abreviado. Un buen penalista corporativo evita la prisión preventiva y negocia salidas antes del juicio.
-
-### Doctrina y debate
-- **Sistema acusatorio y oral** (reforma 2008, vigente 2016): principios de contradicción, inmediación, publicidad; el CNPP (⟳).
-- **Garantismo (Ferrajoli):** el proceso como límite al poder punitivo del Estado.
-- **Debate candente:** la **prisión preventiva oficiosa** (art. 19 CPEUM ⟳) —¿seguridad o violación a la presunción de inocencia? La Corte Interamericana condenó a México (caso *García Rodríguez y otro*, 2023 ⚠️ *verificar*).
-
-### Derecho comparado
-El modelo **adversarial** estadounidense (con *plea bargaining* masivo) inspiró la reforma mexicana; el **procedimiento abreviado** es su pariente. Europa continental mantiene rasgos inquisitivos atenuados. La presunción de inocencia es común; la prisión preventiva **oficiosa** mexicana es una anomalía señalada internacionalmente.
-
-### Caso real
-**Corte IDH vs. prisión preventiva oficiosa (2023) ⚠️ *verificar*:** el fallo tensó al sistema mexicano (control de convencionalidad vs. texto constitucional). Para el ejecutivo imputado por un delito económico, la diferencia entre litigar libre o preso está justo en ese debate.
-
-### Errores que cuestan millones (y la libertad)
-- No preparar la **defensa** desde la carpeta de investigación (etapa inicial).
-- Ignorar salidas alternas (**acuerdos reparatorios, criterio de oportunidad, abreviado**).
-
-### Preguntas
-- **Criterio:** ¿es constitucional/convencional la prisión preventiva oficiosa?
-- **Entrevista:** ¿qué estrategia sigue en la etapa inicial de un delito económico?
-- **Examen:** enuncie los principios del sistema acusatorio.
-
-### Bibliografía por niveles
-- **Básico:** Constantino Rivera, *Introducción al sistema acusatorio*.
-- **Intermedio:** CNPP comentado.
-- **Avanzado:** Ferrajoli, *Derecho y razón*.
-- **Internacional:** jurisprudencia de la Corte IDH sobre libertad personal.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El proceso penal es donde el poder punitivo del Estado —el más temible— se somete a límites. Su fundamento es el **garantismo** (Ferrajoli): el proceso no busca solo castigar al culpable, sino **proteger al inocente** del poder, mediante presunción de inocencia, carga de la prueba en el Estado y debido proceso. El paso de México al **sistema acusatorio** (2008/2016) fue el abandono del modelo inquisitivo (expediente escrito, secreto) por uno oral, público y contradictorio.
-
-**El debate.** **Eficacia (seguridad) vs. garantías (libertad):** la eterna tensión. La **prisión preventiva oficiosa** (art. 19 CPEUM ⟳) la encarna: ¿herramienta contra la impunidad o violación frontal de la presunción de inocencia? La Corte Interamericana condenó a México (*García Rodríguez*, 2023 ⚠️), tensionando el control de convencionalidad contra el texto constitucional. Debate del ***plea bargaining*/procedimiento abreviado**: ¿justicia negociada eficiente o coacción para que el inocente se declare culpable?
-
-**Mirada de AED.** El proceso penal minimiza la suma de **costos de error** (condenar inocentes / absolver culpables) y de operación. La presunción de inocencia refleja una decisión valorativa (Blackstone: "mejor diez culpables libres que un inocente preso") sobre qué error es peor. El abreviado descongestiona el sistema pero traslada poder al fiscal.
-
-**Comparado y lección para México.** El modelo **adversarial** estadounidense (con *plea bargaining* que resuelve el 90%+ de los casos) inspiró la reforma; Europa continental conserva rasgos inquisitivos atenuados. **Lección:** la oralidad sin **capacidades** (policías, fiscales, jueces, peritos) produce impunidad; el diseño es correcto, la implementación es el reto.
-
-**Crítica.** La prisión preventiva oficiosa es criticada internacionalmente; el abreviado, por presionar declaraciones de culpabilidad; y el sistema, por baja tasa de esclarecimiento (impunidad estructural ⚠️).
-
-**Jurisprudencia y operación real.** La condena de la **Corte IDH sobre prisión preventiva oficiosa** (2023 ⚠️) es el caso vivo. En el mundo corporativo, el ejecutivo imputado por delito económico juega su libertad en la etapa inicial: la defensa temprana y las salidas alternas (acuerdos reparatorios, abreviado) son la estrategia.
-
-**Para leer más:** Ferrajoli, *Derecho y razón*; jurisprudencia de la Corte IDH sobre libertad personal; Constantino Rivera, *Sistema acusatorio*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

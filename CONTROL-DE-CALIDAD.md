@@ -99,9 +99,9 @@ La pasada detectó **tres formatos** conviviendo. Se **homologan por norma** (ve
 - **Los ⚠️ que quedan son por diseño**, no por descuido: son datos volátiles (fechas de reforma, tasas,
   montos, cifras de operaciones) que **deben** reverificarse en el ejercicio del lector. Un ⚠️ cerrado a
   la fuerza sería menos honesto que un ⚠️ vivo.
-- **Lo que v4.0 todavía no es:** una obra **editorialmente integrada**. Cada tratado conserva dos
-  apéndices (⚖️ Suplemento y 🎓 Profundización) con estructura idéntica en los 52 —el defecto de forma
-  que la Edición Final corrige (vacío C-1 de la Auditoría).
+- **Lo que v4.0 no era y la Edición Final sí es: una obra editorialmente integrada.** Los dos apéndices
+  (⚖️ Suplemento y 🎓 Profundización) que se repetían con estructura idéntica en los 52 tratados **fueron
+  disueltos dentro del cuerpo de los 53**. Ningún capítulo lleva apéndices al cierre.
 
 ## 7. Pendientes reales (hoja de ruta viva)
 
@@ -115,7 +115,7 @@ La lista vigente es la de la **Edición Final**, clasificada por severidad en la
 
 | Prioridad | Pendiente | Estado |
 |-----------|-----------|--------|
-| **C-1** | Disolver los tres estratos en los 53 tratados (voz única, sin perder sustancia) | 🟡 **4 de 53** · método validado y herramienta en [`tools/estratos.py`](./tools/estratos.py); ver [Auditoría](./AUDITORIA-EDICION-FINAL.md) §7.3.bis |
+| **C-1** | Disolver los tres estratos en los 53 tratados (voz única, sin perder sustancia) | ✅ **53 de 53 · CERRADO.** −1.4 % global, 0 conceptos perdidos, verificado por script. Método y cifras por nivel en la [Auditoría](./AUDITORIA-EDICION-FINAL.md) §7.3.bis; herramienta en [`tools/estratos.py`](./tools/estratos.py) |
 | **C-2** | La empresa por dentro (Nivel V-05) | 🟡 |
 | **C-3 / C-4** | Columna VI · Inteligencia Humana y Comunicación Profesional | 🟡 |
 | **C-5** | Elevar la Columna V (Patrimonio) al estándar de la obra | 🟡 |

@@ -449,6 +449,25 @@ leer el contexto además de la norma—.
 - **ESG:** ¿estándar riguroso o *greenwashing*? ¿cómo verificar el desempeño ambiental real?
 
 
+- **Pigou frente a Coase: las dos formas de corregir una externalidad.** El derecho ambiental existe para
+  internalizar la externalidad por excelencia —quien contamina traslada el costo a terceros y al futuro—. Y
+  hay dos estrategias, con dos padres:
+  - **Pigou:** poner un **impuesto** igual al daño causado, de modo que el costo social entre en el precio.
+  - **Coase:** si los **derechos están bien definidos** y los costos de transacción son bajos, las partes
+    pueden **negociar** la solución eficiente por sí mismas. De aquí nacen los mercados de permisos
+    transables (*cap-and-trade*).
+  El debate práctico —**regulación de mando y control** frente a **instrumentos de mercado**— es hoy el
+  debate del precio del carbono. *Postura del Consejo:* no son excluyentes; los instrumentos de mercado son
+  eficientes cuando el daño es **agregado y fungible** (una tonelada de carbono da igual dónde se emita), y
+  la prohibición es superior cuando el daño es **local, irreversible o catastrófico** —nadie propondría un
+  mercado de permisos para verter residuos tóxicos en un acuífero—.
+- **Y la responsabilidad objetiva ambiental como aplicación de Calabresi.** Que responda el operador sin
+  necesidad de probar su culpa no es un exceso punitivo: es asignar el costo a quien puede **prevenir,
+  asegurar y precificar** el riesgo más barato —el *cheapest cost avoider* del
+  [Libro 3 del Nivel II](../Nivel-II-Derecho-Civil-Profundo/03-Responsabilidad-Civil.md)—. Y explica por qué
+  en un *due diligence* el pasivo ambiental es de los que **siguen al activo** y exigen indemnidad
+  específica.
+
 ## 30. Errores comunes
 
 1. **Comprar activos físicos sin due diligence ambiental** (ni estudios de suelo): heredar un pasivo oculto.
@@ -685,59 +704,6 @@ Empresa Familiar     ★★★☆☆
 verifica todo artículo (LGEEPA, LFRA), autoridad y límite (NOMs) contra su texto vigente en el DOF y los
 criterios en el SJF.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El pasivo ambiental es **silencioso y enorme**: no aparece en el balance, pero puede exceder el valor de la empresa. En M&A industrial o inmobiliario, el socio exige ***environmental due diligence*** (fase I/II) y, sobre todo, se pregunta: *¿el comprador hereda la contaminación previa?* La **responsabilidad del sucesor** por daño ambiental es de las que más *deals* rediseñan (precio, *escrow*, indemnidad).
-
-### Doctrina y debate
-- **Principios:** **"quien contamina paga"**, **precaución** (ante duda científica, prevenir) y **desarrollo sostenible**.
-- **Responsabilidad ambiental objetiva** (LFRA ⟳): no requiere culpa; basta el daño.
-- **Debate:** ESG y "riesgo climático" como deber fiduciario —¿obligación real de los administradores o *greenwashing*?
-
-### Derecho comparado
-EE. UU.: **CERCLA (Superfund)** impone responsabilidad **retroactiva, solidaria y del sucesor** por sitios contaminados —el terror del comprador de activos industriales. La UE tiene la Directiva de Responsabilidad Medioambiental. México: **LGEEPA (2026 reformas ⟳)** y **LFRA**.
-
-### Caso real
-**Deepwater Horizon / BP (2010):** el derrame costó a BP más de **65,000 mdd ⚠️ *verificar*** en multas, limpieza e indemnizaciones. **Bayer–Monsanto (glifosato):** pasivo ambiental/producto heredado por adquisición. Lección: lo ambiental no se "provisiona" fácil; se **diligencia y se traslada** contractualmente o mata el retorno.
-
-### Errores que cuestan millones
-- Comprar activos industriales **sin fase I/II** ambiental y heredar la contaminación.
-- No pactar **indemnidad ambiental** y *escrow* específico en el SPA.
-
-### Preguntas
-- **Criterio:** ¿el "riesgo climático" es un deber fiduciario del consejo o una moda ESG?
-- **Entrevista:** ¿cómo protege a un comprador frente a pasivos ambientales del *target*?
-- **Examen:** explique el principio "quien contamina paga" y la responsabilidad objetiva.
-
-### Bibliografía por niveles
-- **Básico:** Brañes, *Manual de derecho ambiental mexicano*.
-- **Intermedio:** LGEEPA y LFRA comentadas.
-- **Avanzado:** análisis comparado CERCLA / Directiva UE.
-- **Internacional:** Principios de Río (1992); marcos ESG (TCFD, ISSB).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El derecho ambiental existe para internalizar la **externalidad** por excelencia: quien contamina traslada el costo a terceros y al futuro (Pigou). Sin regulación, el mercado produce demasiada contaminación porque su costo no está en el precio. Los principios —**quien contamina paga, precaución, prevención**— son traducciones jurídicas de esa lógica económica. Es, además, un derecho **intergeneracional**: protege a quienes aún no votan ni contratan.
-
-**El debate.** **Regulación (*command and control*) vs. instrumentos de mercado** (impuestos al carbono, permisos transables *cap-and-trade*): Coase sugirió que, con derechos bien definidos, las partes negocian la solución eficiente; Pigou defendió el impuesto. El debate práctico: ¿mercados de carbono o prohibiciones? Y el gran debate contemporáneo: el **ESG y el deber fiduciario climático** —¿el consejo debe gestionar el riesgo climático como riesgo financiero, o es activismo disfrazado?
-
-**Mirada de AED.** La **responsabilidad objetiva** ambiental (LFRA ⟳) asigna el costo a quien mejor puede prevenir el daño (*cheapest cost avoider*, Calabresi). El riesgo climático se está **precificando** en el costo de capital (bonos verdes, primas de seguro), convirtiendo lo ambiental en variable financiera dura.
-
-**Comparado y lección para México.** EE. UU.: **CERCLA (Superfund)** impone responsabilidad **retroactiva, solidaria y del sucesor** —el terror del comprador de activos industriales. La UE tiene la Directiva de Responsabilidad Medioambiental y el mercado de carbono (ETS). México: LGEEPA y LFRA. **Lección:** el **due diligence ambiental** (fases I/II) y la indemnidad contractual son tan críticos como los financieros en operaciones con huella territorial.
-
-**Crítica.** El derecho ambiental mexicano es criticado por **débil *enforcement*** (buena ley, poca aplicación) y por usarse a veces como pretexto político para frenar proyectos. El ESG, por *greenwashing* y falta de métricas homologadas.
-
-**Jurisprudencia y operación real.** **Deepwater Horizon/BP** (2010, +65,000 mdd ⚠️); **Bayer–Monsanto/glifosato** (pasivo heredado por adquisición). La SCJN ha reconocido el **derecho a un medio ambiente sano** (art. 4 CPEUM ✅ ⟳) con dimensión colectiva. En la práctica, el pasivo ambiental —silencioso, fuera de balance— puede exceder el valor de la empresa.
-
-**Para leer más:** Coase, *The Problem of Social Cost* (1960); Calabresi, *The Cost of Accidents*; Brañes, *Manual de derecho ambiental mexicano*; Principios de Río (1992).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

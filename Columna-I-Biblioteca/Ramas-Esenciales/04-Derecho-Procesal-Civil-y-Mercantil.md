@@ -475,6 +475,20 @@ cómo cobrarás si todo sale mal.
   pactada) sin violar el debido proceso?
 
 
+- **El proceso visto con ojos económicos: ¿cuánto proceso es el óptimo?** Posner planteó la pregunta que la
+  dogmática procesal no se hace: un proceso tiene **dos costos** —el costo de administrarlo (tiempo,
+  honorarios, tribunales) y el costo de los **errores** que comete—. Más etapas, más pruebas y más recursos
+  reducen el segundo y aumentan el primero. El proceso óptimo **no es el más garantista posible**, sino el
+  que minimiza la suma de los dos. Esa es la lógica económica detrás de los procedimientos
+  **sumarios y ejecutivos** mercantiles, de la oralidad y de los medios alternativos: en materia de cobranza
+  empresarial, un año de retraso puede valer más que el error que se pretende evitar.
+- **Y de ahí por qué el arbitraje ganó el terreno transfronterizo.** Su ventaja no es principalmente la
+  confidencialidad ni la especialización: es la **ejecutabilidad**. Gracias a la Convención de Nueva York, un
+  laudo se reconoce y ejecuta en más de ciento cincuenta jurisdicciones con causales de denegación muy
+  estrechas, mientras una sentencia estatal enfrenta un régimen de reconocimiento mucho más incierto. La obra
+  de referencia es **Gary Born**, *International Commercial Arbitration*. Se desarrolla en
+  [Derecho Internacional Privado y Arbitraje](./08-Derecho-Internacional-Privado-y-Arbitraje.md).
+
 ## 30. Errores comunes
 
 1. **No documentar con título ejecutivo.** Cobrar por vía ordinaria (lenta) lo que un **pagaré** habría
@@ -730,59 +744,6 @@ Empresa Familiar     ★★★★☆
 verifica todo artículo, cuantía, plazo y código aplicable contra su texto vigente (DOF y SJF), atendiendo
 al calendario de implementación del CNPCF.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El proceso es donde el derecho sustantivo **se cobra o se pierde**. El socio piensa en **ejecutabilidad**: ¿mi contrato me da vía ejecutiva o me condena a un ordinario de años?, ¿mi cláusula de jurisdicción/arbitraje me lleva al foro correcto?, ¿puedo asegurar el resultado con **providencias precautorias**? El mejor derecho sin proceso eficiente es una carta de buenos deseos.
-
-### Doctrina y debate
-- **Acción, jurisdicción y proceso** (la trilogía de Carnelutti, Chiovenda, Couture).
-- **Vía ejecutiva mercantil** (título ejecutivo) vs. ordinaria; medidas cautelares y su función.
-- **Debate:** la **oralidad** y el nuevo **CNPCF (2023)** ⟳ que unifica el proceso civil y familiar nacional —¿modernización real o cambio nominal?
-
-### Derecho comparado
-El *common law* tiene *discovery* (exhibición amplia de pruebas) y jurado civil, ajenos al proceso mexicano. El arbitraje comercial (CCI, LCIA, CANACO) es el foro preferido del *deal* transfronterizo por neutralidad y ejecutabilidad (Convención de Nueva York, 1958).
-
-### Caso real
-**Reconocimiento y ejecución de laudos y sentencias extranjeras:** la Convención de Nueva York (1958) permite ejecutar en México un laudo dictado en el extranjero. En *deals* internacionales, elegir bien la **sede arbitral** decide si el laudo se cobra o se queda en papel. Lección: la cláusula de solución de controversias es de las más valiosas del contrato.
-
-### Errores que cuestan millones
-- Documentar un crédito **sin título ejecutivo** y condenarse a la vía ordinaria.
-- Cláusula arbitral **patológica** (mal redactada, sede/reglas ambiguas): inejecutable.
-
-### Preguntas
-- **Criterio:** ¿arbitraje o tribunales para un contrato transfronterizo? ¿Por qué?
-- **Entrevista:** ¿qué hace "ejecutivo" a un documento?
-- **Examen:** distinga vía ejecutiva mercantil y juicio ordinario.
-
-### Bibliografía por niveles
-- **Básico:** Ovalle Favela, *Derecho procesal civil*.
-- **Intermedio:** Gómez Lara, *Teoría general del proceso*.
-- **Avanzado:** Couture, *Fundamentos del derecho procesal civil*.
-- **Internacional:** Convención de Nueva York (1958); Reglamento de Arbitraje CCI.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El proceso existe porque el Estado **prohíbe la autotutela** (hacerse justicia por propia mano) y a cambio ofrece un método pacífico y reglado para resolver conflictos. Su fundamento es la **tutela judicial efectiva** y el debido proceso. El derecho sustantivo sin proceso es una promesa vacía: el proceso es donde el derecho "se cobra".
-
-**El debate.** **Adversarial (dispositivo) vs. inquisitivo:** ¿debe el juez ser árbitro pasivo (las partes controlan el proceso, *common law*) o director activo? La tendencia mexicana (oralidad, CNPCF 2023 ⟳) apuesta por un juez más activo. Debate del ***discovery*** anglosajón: exhibición amplia de pruebas (favorece la verdad, pero es costosísima y arma de presión) vs. el sistema continental de prueba tasada. Y el gran debate del **acceso a la justicia**: ¿de qué sirve el mejor proceso si dura años y cuesta fortunas?
-
-**Mirada de AED.** El proceso tiene un **costo social** (Posner): el sistema óptimo minimiza la suma de costos de error (fallos injustos) + costos de operación (tiempo, dinero). De ahí las **medidas cautelares** (evitan que el tiempo destruya el derecho) y los mecanismos alternos (arbitraje, mediación) que descongestionan. El arbitraje es, en clave económica, "privatizar" el proceso para ganar celeridad, especialización y ejecutabilidad internacional.
-
-**Comparado y lección para México.** El *common law* (jurado civil, *discovery*, precedente) contrasta con el proceso escrito continental; el **arbitraje** (Convención de Nueva York, 1958) es el foro preferido del *deal* transfronterizo por su ejecutabilidad casi universal. **Lección:** la reforma a la oralidad y el CNPCF unificado son avances, pero sin **jueces suficientes y capacitados**, la oralidad no basta.
-
-**Crítica.** El proceso mexicano es criticado por **lentitud, formalismo y rezago**; y el arbitraje, por ser justicia "de ricos" (costos elevados) y por su opacidad.
-
-**Jurisprudencia y operación real.** La Convención de Nueva York (1958) permite ejecutar laudos en 170+ países —la mayor ventaja del arbitraje. En la práctica, la **cláusula de solución de controversias** (foro, ley, arbitraje) es de las más valiosas del contrato: define si el derecho se cobra o se queda en papel.
-
-**Para leer más:** Couture, *Fundamentos del derecho procesal civil*; Posner, *An Economic Approach to Legal Procedure*; Convención de Nueva York (1958); Gary Born, *International Commercial Arbitration*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

@@ -468,6 +468,26 @@ institucional real en que se litiga.
   *forum shopping*?
 
 
+- **La «dificultad contramayoritaria» (Bickel): el problema de legitimidad del control judicial.** Si la
+  mayoría legisla por medio de representantes electos, ¿con qué autoridad unos jueces **no electos** anulan
+  esa decisión? Es la objeción democrática más seria que enfrenta esta materia, y tiene dos respuestas
+  clásicas que conviene poder articular:
+  1. **La Constitución es un precompromiso.** Es la imagen de **Elster**: como Ulises atándose al mástil para
+     resistir el canto de las sirenas, la mayoría **se ató a sí misma** en un momento de lucidez para no
+     destruir después lo que valora. El juez no impone su voluntad: hace cumplir la decisión que el propio
+     pueblo tomó al constituirse.
+  2. **Los jueces protegen las precondiciones de la democracia** (Ely, *Democracy and Distrust*): controlan
+     que el proceso siga siendo abierto y que las minorías no queden sistemáticamente excluidas. No sustituyen
+     a la mayoría; **cuidan que la mayoría siga siendo legítima**.
+- **Y el debate mexicano contemporáneo invierte el planteamiento.** La reforma judicial de 2024 —con elección
+  de juzgadores por voto ⟳ ⚠️— responde a la dificultad contramayoritaria por la vía de dar legitimidad
+  electoral a los jueces. La pregunta abierta, y hay argumentos de peso en las dos direcciones, es si eso
+  **resuelve** el problema de legitimidad o **destruye la independencia** que hacía valioso el control.
+  *Postura del Consejo:* un poder judicial independiente y predecible es, además de un valor democrático, una
+  variable económica —reduce el riesgo país y el costo de capital, como se explica en
+  [Teoría del Estado](../Nivel-I-Fundamentos/03-Teoria-del-Estado.md)—; cualquier reforma debería medirse
+  también por ese efecto.
+
 ## 30. Errores comunes
 
 1. **No agotar la definitividad.** Ir al amparo sin agotar el recurso o juicio ordinario previo →
@@ -710,59 +730,6 @@ Empresa Familiar     ★★★☆☆
 verifica toda norma, plazo, artículo y tesis contra su texto vigente (DOF y SJF), en especial tras la
 reforma judicial 2024-2025.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El amparo es el **último recurso** del abogado corporativo frente al acto de autoridad que daña a su cliente: un crédito fiscal, una negativa de permiso, una norma inconstitucional. El socio piensa en **suspensión** (parar el acto ya) y en **conceptos de violación** (por qué es inconstitucional). Un amparo bien planteado congela una determinación millonaria mientras se litiga el fondo.
-
-### Doctrina y debate
-- **Supremacía constitucional (art. 133 ✅ ⟳)** y **bloque de constitucionalidad** (art. 1º ✅ ⟳, reforma DDHH 2011): tratados de DD. HH. a nivel constitucional.
-- **Control difuso vs. concentrado** y **control de convencionalidad ex officio** (jurisprudencias *1a./J. 84 y 85/2022* ⟳, ver [Banco de Jurisprudencia](../../Banco-de-Jurisprudencia/Criterios-Clave-por-Rama.md)).
-- **Debate:** la **reforma judicial 2024** (elección de jueces, DOF 15-sep-2024 ⟳) y su efecto sobre la independencia y la seguridad jurídica.
-
-### Derecho comparado
-El *judicial review* nació en EE. UU. (*Marbury v. Madison*, 1803); el **amparo** es aportación mexicana exportada a Latinoamérica y España (*recurso de amparo*). Alemania tiene la *Verfassungsbeschwerde*. México combina control concentrado (SCJN) y difuso.
-
-### Caso real
-***Marbury v. Madison* (1803):** fundó el control de constitucionalidad. En México, la **reforma judicial 2024** es hoy el gran laboratorio: cómo la ingeniería constitucional altera el equilibrio de poderes y el riesgo-país que evalúa todo inversionista.
-
-### Errores que cuestan millones
-- Dejar pasar el **plazo** del amparo (regla general 15 días hábiles, art. 17 LA ⟳).
-- No pedir bien la **suspensión** y dejar que se ejecute el acto.
-
-### Preguntas
-- **Criterio:** ¿la elección popular de jueces fortalece o erosiona el Estado de derecho?
-- **Entrevista:** ¿cuándo conviene el amparo indirecto y cuándo el directo?
-- **Examen:** explique la suspensión del acto reclamado y sus requisitos.
-
-### Bibliografía por niveles
-- **Básico:** Burgoa, *El juicio de amparo*.
-- **Intermedio:** Ferrer Mac-Gregor, *El amparo*.
-- **Avanzado:** Fix-Zamudio, *Ensayos sobre el derecho de amparo*.
-- **Internacional:** Cappelletti, *El control judicial de la constitucionalidad de las leyes*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El control de constitucionalidad existe para resolver una paradoja democrática: si la mayoría legisla, ¿quién la limita cuando viola derechos? La respuesta —un tribunal que puede invalidar leyes— nació en *Marbury v. Madison* (EE. UU., 1803) y en México adoptó la forma del **amparo** (Rejón, Otero), aportación mexicana al mundo. Su fundamento: la **supremacía constitucional** (art. 133 ✅ ⟳) y la protección de la persona frente al poder.
-
-**El debate.** **«Dificultad contramayoritaria» (Bickel):** ¿por qué jueces no electos anulan decisiones de representantes electos? Respuestas: la Constitución es un **precompromiso** (Elster: atarse al mástil como Ulises) que la mayoría misma se dio; o los jueces protegen las **precondiciones de la democracia** (Ely). Debate mexicano contemporáneo: la **reforma judicial 2024** (elección de jueces por voto ⟳) invierte el planteamiento —¿resuelve la dificultad contramayoritaria o destruye la independencia que la justifica?
-
-**Mirada de AED.** Un poder judicial **independiente y predecible** reduce el riesgo-país y el costo de capital (protege derechos de propiedad y contratos frente al Estado). La incertidumbre sobre la independencia judicial se "precifica" en la prima de riesgo que exige todo inversionista —conexión directa entre derecho constitucional y finanzas.
-
-**Comparado y lección para México.** Control **difuso** (EE. UU.: todo juez) vs. **concentrado** (Kelsen/Europa: tribunal constitucional especializado). México combina ambos desde 2011. La *Verfassungsbeschwerde* alemana y el *recurso de amparo* español son primos del amparo. **Lección:** la fortaleza del amparo depende de la **independencia** de quien lo resuelve; sin ella, es un cascarón.
-
-**Crítica.** El amparo mexicano es criticado por su **tecnicismo** (sobreseimientos por formalismos) que lo vuelve inaccesible, y por el rezago. La reforma 2024, por politizar la judicatura.
-
-**Jurisprudencia y operación real.** *Marbury v. Madison* (1803) fundó el control; el **Expediente Varios 912/2010 (Radilla)** ⚠️ instaló el control de convencionalidad ex officio (arts. 1º y 133 ⟳). En la práctica, el amparo congela créditos fiscales, permisos negados y normas inconstitucionales mientras se litiga —de ahí que la **suspensión** sea la joya táctica.
-
-**Para leer más:** Bickel, *The Least Dangerous Branch*; Ely, *Democracy and Distrust*; Fix-Zamudio, *Ensayos sobre el derecho de amparo*; Cappelletti, *El control judicial de la constitucionalidad*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*
