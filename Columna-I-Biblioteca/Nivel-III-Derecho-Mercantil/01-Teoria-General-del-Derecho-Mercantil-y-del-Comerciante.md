@@ -145,6 +145,30 @@ Sin estas instituciones, la economía moderna —de gran escala, capital intensi
 imposible. El derecho mercantil **reduce los costos de transacción** del comercio profesional con
 reglas estandarizadas, ágiles y predecibles.
 
+**Visto en clave económica, el derecho mercantil es una máquina de reducir costos de transacción**, y cada
+una de sus instituciones características es un atajo con una función identificable:
+
+| La institución mercantil | El costo que reduce |
+|---|---|
+| Los títulos de crédito y las sociedades **estandarizados** | El costo de negociar y verificar cada operación desde cero |
+| La **presunción de solidaridad** y de onerosidad | El costo de pactar expresamente lo que el comercio da por supuesto |
+| Las **vías ejecutivas** y los plazos breves | El costo de cobrar, que es el que determina si vale la pena dar crédito |
+| Los **usos y prácticas** como fuente | El costo de que la ley persiga a un comercio que cambia más rápido que ella |
+
+> Esa es la respuesta profunda a la pregunta de por qué existe una rama separada: no por tradición
+> histórica, sino porque **el intercambio profesional y repetido necesita reglas más rápidas y más
+> predecibles que las del acto civil aislado.**
+
+**Y la crítica que hay que conocer, porque es real:** la distinción civil/mercantil genera **inseguridad**.
+Buena parte de la litigiosidad cotidiana en cobranza empresarial no es sobre el fondo, sino sobre la
+**calificación del acto** —si es mercantil o civil— porque de ella dependen la vía procesal y la
+prescripción (art. 75 CCom ⟳). Un mismo hecho, dos regímenes. Y hay una segunda objeción de fondo: al
+presumir profesionalidad en ambas partes, el derecho mercantil puede **desproteger al pequeño comerciante**
+frente al grande, que es exactamente lo contrario de lo que el legislador supuso.
+
+*Consecuencia de oficio:* en la práctica, el abogado **elige y fundamenta** la mercantilidad del acto para
+acelerar la recuperación. No es un tecnicismo: es la diferencia entre cobrar en meses y cobrar en años.
+
 ## 7. Contexto político
 
 La materia mercantil es **competencia federal** en México (art. 73, fr. X ⟳ constitucional: el
@@ -839,6 +863,18 @@ Aquí empieza la formación del **especialista**.
 - **Asquini, A., "Perfiles de la empresa".** Lectura fundacional para entender la empresa como
   categoría jurídica.
 - **Código de Comercio (arts. 1-75 ⟳) y Constitución (arts. 5, 28, 73-X ⟳).** El derecho positivo base.
+- **Alfredo Rocco, *Principios de derecho mercantil*.** El clásico italiano sobre la naturaleza y los
+  límites de la materia; sigue siendo la mejor exposición de por qué existe una rama separada.
+- **Broseta Pont, *Manual de derecho mercantil*.** La referencia española moderna, cercana a nuestra
+  tradición y útil para el estudio sistemático.
+- **Roy Goode, *Commercial Law*.** El equivalente del *common law*: cómo un sistema sin código de comercio
+  resuelve los mismos problemas. Leerlo junto a Rocco es la mejor formación comparada disponible.
+- **El *Uniform Commercial Code* estadounidense**, como modelo de **codificación privada uniforme**
+  adoptada por los estados: flexible, actualizable y orientada a los usos del comercio. Es el contraste que
+  explica la propuesta del §28 —México conserva un Código de Comercio de 1889 parcheado y ganaría con una
+  recodificación moderna, orientada a la empresa y armonizada con estándares internacionales—.
+- **Principios UNIDROIT sobre los contratos comerciales internacionales**, para el *soft law* que hoy
+  funciona como lengua común del comercio transfronterizo.
 
 ## 43. Ruta hacia el siguiente libro
 
@@ -901,58 +937,6 @@ sueltos"; con él, ve **empresas y sistemas**, que es como piensa un asesor corp
 > que hará posible, más adelante, comprar y vender empresas. Entramos al corazón del Derecho
 > Corporativo.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El derecho mercantil es el **sistema operativo del comercio**: define quién es comerciante, qué actos son de comercio y qué régimen especial (celeridad, buena fe, onerosidad) aplica. El socio piensa en **calificación**: si el acto es mercantil, cambian la prescripción, los intereses, la jurisdicción y hasta la carga de la prueba. La primera pregunta ante cualquier operación es *"¿esto es civil o mercantil?"*, porque de ahí cuelga todo el régimen.
-
-### Doctrina y debate
-- **Sistema objetivo (acto de comercio, art. 75 CCom ⟳) vs. subjetivo (el comerciante):** el derecho mexicano es mixto. Debate: ¿tiene sentido mantener la dualidad civil/mercantil o debe unificarse el derecho privado (como en Italia y Suiza)?
-- **Tendencia contemporánea:** hacia un **derecho de la empresa** y del mercado, más que del "comerciante" decimonónico.
-
-### Derecho comparado
-Italia (Código Civil de 1942) y Suiza **unificaron** el derecho privado, eliminando la dualidad. El *common law* nunca tuvo un "código de comercio" separado (aunque EE. UU. adoptó el **UCC** como ley uniforme estatal). México conserva la dualidad, con un Código de Comercio de 1889 parcheado por leyes especiales (LGSM, LGTOC, LMV).
-
-### Caso real
-**La informalidad y el comerciante:** millones de negocios mexicanos operan sin constituirse; determinar si un acto fue "de comercio" define si aplica la vía ejecutiva mercantil o el juicio civil. En cobranza empresarial, calificar bien el acto (art. 75 CCom ⟳) acelera o entierra la recuperación.
-
-### Errores que cuestan millones
-- Litigar en la **vía equivocada** (civil vs. mercantil) por no calificar el acto.
-- Aplicar la **prescripción** civil (más larga) cuando corría la mercantil (más corta), perdiendo la acción.
-
-### Preguntas
-- **Criterio:** ¿debe México unificar el derecho civil y el mercantil?
-- **Entrevista:** ¿cómo determina si un contrato es mercantil y por qué importa?
-- **Examen:** enuncie tres actos de comercio del art. 75 CCom.
-
-### Bibliografía por niveles
-- **Básico:** Mantilla Molina, *Derecho mercantil*.
-- **Intermedio:** Barrera Graf, *Instituciones de derecho mercantil*.
-- **Avanzado:** Rocco, *Principios de derecho mercantil*.
-- **Internacional:** Goode, *Commercial Law*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (historia y fundamento).** El derecho mercantil nació como **derecho de los comerciantes, por los comerciantes** (*lex mercatoria* medieval): usos de las ferias y los gremios que privilegiaban la celeridad, la buena fe y la ejecutabilidad sobre el formalismo civil. Se "estatalizó" con las codificaciones (Code de Commerce francés, 1807), y hoy tiende de nuevo a **desnacionalizarse** (nueva *lex mercatoria*, Principios UNIDROIT, arbitraje). Entender ese arco explica por qué el mercantil es más ágil y menos formalista que el civil: nació para que el comercio no se detenga.
-
-**El debate.** ¿Debe subsistir la **dualidad** civil/mercantil? Italia (1942) y Suiza **unificaron** el derecho privado; el *common law* nunca la tuvo. Los partidarios de unificar aducen que la distinción es artificial y genera litigios sobre "qué es acto de comercio"; los defensores de la autonomía responden que el tráfico empresarial exige reglas propias (celeridad, presunción de solidaridad, onerosidad). La tendencia contemporánea: de un derecho del **comerciante** a un derecho de la **empresa y del mercado**.
-
-**Mirada de AED.** El derecho mercantil reduce **costos de transacción** del comercio: estandariza (títulos, sociedades), presume solidaridad y onerosidad (acelera el crédito), y da vías ejecutivas (reduce el costo de cobro). Cada especialidad mercantil es un atajo para que el intercambio sea barato y rápido.
-
-**Comparado y lección para México.** El **UCC** estadounidense es un modelo de "codificación privada uniforme" adoptada por los estados: flexible, actualizable, orientada a los usos. **Lección:** México conserva un Código de Comercio de 1889 parcheado; ganaría con una recodificación moderna orientada a la empresa y armonizada con estándares internacionales.
-
-**Crítica.** La distinción civil/mercantil produce **inseguridad** (litigios sobre la calificación del acto, con efectos en prescripción y vía). Y el mercantil, al presumir profesionalidad, puede desproteger al pequeño comerciante frente al grande.
-
-**Jurisprudencia y operación real.** La calificación del acto (art. 75 CCom ⟳) decide la vía (ejecutiva mercantil vs. ordinaria civil) y la prescripción —cuestiones que la SCJN y los tribunales resuelven a diario en cobranza empresarial. En la práctica, el abogado **elige y fundamenta** la mercantilidad para acelerar la recuperación.
-
-**Para leer más:** Rocco, *Principios de derecho mercantil*; Broseta Pont, *Manual de derecho mercantil*; Goode, *Commercial Law*; Principios UNIDROIT.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

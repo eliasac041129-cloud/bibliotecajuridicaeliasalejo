@@ -133,6 +133,40 @@ tradicionalmente; el **suministro** asegura insumos a largo plazo reduciendo inc
 contrato asigna **riesgos** (de precio, de demanda, de crédito) entre las partes. La elección y el
 diseño de estos contratos son decisiones **económicas** que el abogado traduce en cláusulas.
 
+**Y el concepto que explica por qué estos contratos tienen las cláusulas que tienen: el *hold-up*.** Es la
+aportación de **Williamson** y ya aparece en las *joint ventures*
+([Libro 6 del Nivel IV](../Nivel-IV-Corporate-Law/06-Contratos-Estrategicos-y-Joint-Ventures.md)); aquí
+opera con la misma fuerza.
+
+Piensa en un distribuidor. Para vender el producto de su proveedor invierte en almacén, en fuerza de
+ventas, en publicidad local, en conocer al cliente. Esa es una **inversión específica**: vale mucho dentro
+de esa relación y poco fuera de ella. Y el día que la hizo, quedó expuesto —el proveedor puede terminar el
+contrato y quedarse con el mercado que el distribuidor construyó—.
+
+> **Aquí está la clave contraintuitiva:** las cláusulas de **duración mínima, preaviso e indemnización por
+> clientela** no son concesiones sentimentales al débil. Son lo que **hace posible que la inversión se
+> realice**. Sin esa protección, el distribuidor racional **subinvierte** —y el proveedor vende menos—.
+> Proteger la inversión específica es, para las dos partes, un buen negocio.
+>
+> De ahí la regla de oficio que rige toda esta familia contractual: **la salida se negocia en la entrada.**
+> Duración, preaviso, destino del inventario, titularidad de la clientela, uso de la marca y no competencia
+> posterior. Los litigios de terminación de distribución se ganan o se pierden en la redacción de esas seis
+> cosas, años antes de que alguien piense en litigar.
+
+**Dos notas comparadas de aplicación inmediata.** En franquicia, Estados Unidos impone un deber de
+**revelación precontractual** (la *FTC Franchise Rule*) mucho más exigente que el mexicano, porque el
+problema central de la franquicia es la **asimetría informativa** del franquiciatario que compra un modelo
+que no puede evaluar. Y en arrendamiento financiero, la norma contable **NIIF 16** subió los arrendamientos
+al balance, redefiniendo el pasivo reportado: un dato que importa al negociar *covenants* de deuda
+([Libro 5 del Nivel IV](../Nivel-IV-Corporate-Law/05-Derecho-Bancario-y-Financiamiento-Corporativo.md)).
+
+**Y la crítica, en las dos direcciones.** La atipicidad genera inseguridad —¿qué régimen supletorio aplica
+cuando el contrato calla?— y los contratos de adhesión mercantiles pueden esconder cláusulas abusivas. Pero
+la protección del débil **mal calibrada** produce el efecto contrario al buscado: si terminar un contrato
+de distribución se vuelve prohibitivamente caro, el proveedor deja de nombrar distribuidores pequeños y
+solo trabaja con grandes. La tutela excesiva se convierte en **barrera de entrada** contra quienes
+pretendía proteger.
+
 ## 7. Contexto político
 
 El Estado regula los contratos mercantiles cuando hay **asimetría** o **interés público**: protección
@@ -819,6 +853,16 @@ contratos a su máxima sofisticación.
   modelo).** Para la práctica internacional de distribución, franquicia y compraventa.
 - **Ley Federal de Competencia Económica (y guías de la COFECE) sobre restricciones verticales.**
   Esencial para diseñar exclusividades y franquicias sin caer en prácticas monopólicas.
+- **Oliver Williamson, *The Economic Institutions of Capitalism* (1985).** La fuente del *hold-up* y de las
+  inversiones específicas (§6). Es el libro que explica por qué existen estos contratos y por qué sus
+  cláusulas de salida son lo que de verdad importa.
+- **Javier Arce Gargollo, *Contratos mercantiles atípicos*.** La obra mexicana de referencia sobre esta
+  familia contractual: qué régimen aplica cuando el contrato no está tipificado.
+- **Directiva 86/653/CEE (agencia comercial)** y la ***FTC Franchise Rule*** estadounidense: los dos
+  referentes comparados sobre terminación e indemnización por clientela y sobre revelación precontractual en
+  franquicia.
+- **NIIF 16 (arrendamientos)**, para entender el efecto contable del *leasing* en el balance y en los
+  *covenants*.
 
 ## 43. Ruta hacia el siguiente libro
 
@@ -887,59 +931,6 @@ consumidor, es una destreza central.
 > valores** —emisoras, IPO, intermediarios y regulación—. El financiamiento corporativo a gran escala
 > y la antesala del M&A público nos esperan.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-Los contratos mercantiles (comisión, suministro, distribución, franquicia, factoraje, arrendamiento financiero, *leasing*) son la **infraestructura de la cadena de valor** de la empresa. El socio los lee buscando **exclusividades, terminación, indemnización por clientela y competencia**: ahí están el riesgo y el poder de negociación. Y sabe que muchos son **atípicos**, integrados por analogía y por los usos del comercio.
-
-### Doctrina y debate
-- **Onerosidad y presunción de solidaridad** mercantil; los **usos y prácticas** como fuente.
-- **Contratos de colaboración vs. de cambio;** debate sobre la protección del distribuidor/franquiciatario como "parte débil" (indemnización por clientela, inspirada en la directiva europea de agencia).
-- **Atipicidad:** cómo se integran las lagunas (analogía con el tipo más cercano + buena fe).
-
-### Derecho comparado
-La **franquicia** y la **distribución** están más protegidas en la UE (indemnización por clientela del agente) que en México o EE. UU., donde domina la libertad contractual. El *leasing* (arrendamiento financiero) tiene tratamiento contable y fiscal específico (IFRS 16) que el abogado debe conocer para no crear pasivos ocultos.
-
-### Caso real
-**Terminación de distribución y "indemnización por clientela":** multinacionales que terminan a su distribuidor local enfrentan reclamos por la clientela generada. Diseñar bien la **cláusula de terminación y no competencia** evita indemnizaciones millonarias. Lección: en los contratos de canal, la salida se negocia en la entrada.
-
-### Errores que cuestan millones
-- Confundir **distribución** con **agencia** (regímenes de terminación distintos).
-- No regular la **terminación** ni el destino del *stock*, la clientela y la marca.
-
-### Preguntas
-- **Criterio:** ¿debe la ley proteger al distribuidor como "parte débil" o dejarlo a la libertad contractual?
-- **Entrevista:** ¿cómo redactaría la salida de un contrato de distribución exclusiva?
-- **Examen:** distinga comisión mercantil, distribución y franquicia.
-
-### Bibliografía por niveles
-- **Básico:** Arce Gargollo, *Contratos mercantiles atípicos*.
-- **Intermedio:** Vásquez del Mercado, *Contratos mercantiles*.
-- **Avanzado:** Broseta Pont, *Manual de derecho mercantil*.
-- **Internacional:** Principios UNIDROIT sobre los contratos comerciales internacionales.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** Los contratos mercantiles típicos (suministro, distribución, franquicia, factoraje, *leasing*) existen porque el mercado desarrolló **soluciones estandarizadas** a problemas recurrentes de la cadena de valor: cómo asegurar aprovisionamiento (suministro), cómo llegar al cliente sin integrarse (distribución/franquicia), cómo financiar sin desprenderse del activo (*leasing*), cómo convertir cuentas por cobrar en liquidez (factoraje). Cada uno es una respuesta a un dilema de **"hacer vs. comprar vs. contratar"** (Coase/Williamson).
-
-**El debate.** ¿Debe el derecho proteger al **contratante débil** (distribuidor, franquiciatario) o dejarlo a la libertad contractual? La UE creó la **indemnización por clientela** del agente (Directiva 86/653); México y EE. UU. se apoyan más en la libertad contractual. El debate: proteger genera seguridad para el débil pero **encarece** y rigidiza; no proteger abarata pero permite abusos del fuerte (terminaciones oportunistas tras que el distribuidor creó el mercado).
-
-**Mirada de AED.** Estos contratos gestionan el ***hold-up*** derivado de **inversiones específicas**: el distribuidor que invierte en crear mercado teme que el proveedor lo termine y capture la clientela; de ahí las cláusulas de duración, preaviso e indemnización, que **protegen la inversión específica** y hacen posible que se realice. Sin esa protección, se subinvierte (Williamson).
-
-**Comparado y lección para México.** El *leasing* tiene tratamiento contable-fiscal específico (IFRS 16 lo subió al balance) que redefine pasivos; la franquicia está más regulada en EE. UU. (*FTC Franchise Rule*, deber de revelación precontractual). **Lección:** México debe cuidar la **asimetría informativa** en franquicias (revelación) y la **terminación** en distribución, sin sofocar la libertad contractual.
-
-**Crítica.** La atipicidad genera **inseguridad** (¿qué régimen supletorio aplica?), y los contratos de adhesión mercantiles pueden esconder cláusulas abusivas. La protección del débil, mal calibrada, puede volverse una **barrera de entrada** que perjudica justo a los pequeños que dice proteger.
-
-**Jurisprudencia y operación real.** Litigios de **terminación de distribución** e "indemnización por clientela" son frecuentes; su resultado depende de la redacción de la salida. En la práctica, en estos contratos "la salida se negocia en la entrada": duración, preaviso, destino del *stock*, clientela, marca y no competencia.
-
-**Para leer más:** Williamson, *The Economic Institutions of Capitalism* (1985); Arce Gargollo, *Contratos mercantiles atípicos*; Directiva 86/653/CEE (agencia); IFRS 16.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*
