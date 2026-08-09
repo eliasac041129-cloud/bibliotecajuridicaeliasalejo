@@ -473,6 +473,59 @@ pueda perder trabajo (Manifiesto §XI.3).
 | **11** | Capa fina de estrategia + reestructuraciones + inserciones puntuales (*framing*, silencio, EVA, NPV, creación de valor) + Sistema de Repaso ampliado | I-4, I-5, **C-11**, I-6 |
 | **12** | Costura final: rectores, índice, mapa, QA, control de calidad re-sellado, LIBRO regenerado | — |
 
+### 7.3.bis · El método verificado de disolución de estratos (C-1)
+
+> **Estado: piloto ejecutado y validado en IV-01 · 2 de 53 tratados sin apéndices.** El resto es un
+> programa por capítulo, no una operación masiva. Este apartado existe para que cualquiera pueda
+> continuarlo con el mismo estándar.
+
+**Resultado medido del piloto (IV-01 Fundamentos de M&A):**
+
+| | Palabras | Conceptos clave conservados |
+|---|---:|---|
+| `main` (con dos apéndices) | 10,969 | — |
+| **`RAMA-DEFINITIVA` (disuelto)** | **11,341 (+3.4 %)** | **23 de 23 ✅** |
+| `v5.0` (para contraste) | 4,878 (−55 %) | — |
+
+**Por qué el resultado es ligeramente positivo y no negativo:** al reubicar cada pieza en su sección
+natural hay que **tejerla con lo que ya estaba** —añadir la frase de conexión, el ejemplo, la
+consecuencia práctica—. Se pierde la redundancia y se gana contexto. Un resultado de −50 % es la
+prueba de que se cortó cuerpo, no costura.
+
+**El mapeo, que es fijo porque los apéndices tienen estructura fija:**
+
+| Pieza del apéndice | Su casa natural en el cuerpo |
+|--------------------|------------------------------|
+| Suplemento · *Cómo piensa un socio internacional* | La sección ✦ homónima. **Casi siempre redundante → se descarta** tras verificar |
+| Suplemento · *Doctrina y debate* + Cátedra · *El debate* | §29 Debate doctrinal (aportan **los autores con nombre**, que el cuerpo suele omitir) |
+| Suplemento · *Derecho comparado* + Cátedra · *Comparado y lección para México* | §22 Derecho comparado (aportan el **sistema contrastante** que falta) |
+| Suplemento · *Caso real* | §18 Casos reales |
+| Cátedra · *Jurisprudencia y operación real* | §24 Jurisprudencia (aporta la **traducción a documentos de escritorio**) |
+| Suplemento · *Errores que cuestan millones* | La sección ✦ homónima. **Casi siempre redundante → se descarta** |
+| Suplemento · *Preguntas* | §32 Preguntas difíciles, o como pregunta abierta al cierre del §29 |
+| Suplemento · *Bibliografía* + Cátedra · *Para leer más* | §27 Doctrina internacional y §42 Bibliografía comentada |
+| Cátedra · *Por qué existe (historia y fundamento)* | §4, §5 o §6. **Verificar primero:** el cuerpo suele tenerlo ya, y mejor |
+| Cátedra · *Mirada de AED* | §6 Contexto económico |
+| Cátedra · *Crítica* | §28 Opiniones críticas |
+
+**El procedimiento, en seis pasos:**
+
+1. **Leer los dos apéndices completos** (~900 palabras) y las secciones destino que les corresponden.
+2. **Marcar qué es genuinamente aditivo y qué se repite.** En el piloto, las olas de fusiones y todo
+   Delaware ya estaban en el cuerpo —con más detalle en §4 que en la Cátedra—. Lo aditivo eran los
+   **autores con nombre**, el **contraste británico**, el **AED del contrato** y los **casos recientes**.
+3. **Insertar lo aditivo tejido con el texto existente**, no como bloque pegado. Con su frase de
+   conexión y su consecuencia práctica.
+4. **Descartar la redundancia sin piedad.** Si el cuerpo ya lo dice mejor, el apéndice no aporta.
+5. **Eliminar los dos encabezados de apéndice** y cerrar con la nota editorial de voz consolidada.
+6. **Verificar por script:** conteo de palabras antes/después y búsqueda de cada concepto clave para
+   demostrar que **ninguno se perdió**. Sin esta verificación no se da por hecho el capítulo.
+
+> **Regla de oro del bloque:** si un capítulo pierde más del 10 % de sus palabras, se detiene y se
+> revisa. La disolución **reubica**; no adelgaza.
+
+---
+
 ### 7.4 El estándar de voz (la regla que gobierna cada bloque nuevo)
 
 La instrucción §VI es, en el juicio de esta auditoría, su aportación más valiosa — y la más difícil
