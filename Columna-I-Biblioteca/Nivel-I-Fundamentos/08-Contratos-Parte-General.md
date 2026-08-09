@@ -315,6 +315,48 @@ al modelo **transaccional** del intercambio discreto. Útil para entender por qu
 contratos corporativos privilegian mecanismos de gobernanza y resolución de disputas sobre la
 mera asignación rígida de prestaciones.
 
+
+### El declive de la libertad contractual, y por qué no es una mala noticia
+
+La libertad contractual y el *pacta sunt servanda* (art. 1796 CCF ⟳) son el núcleo de esta materia, y su
+fundamento es una premisa razonable: **las partes conocen mejor que nadie qué les conviene**.
+
+El problema aparece cuando la premisa falla. **Atiyah** documentó lo que llamó el *declive de la libertad
+contractual*: la contratación en masa, los contratos de adhesión y la protección del consumidor erosionaron
+la ficción de dos partes iguales que negocian término por término. Nadie negocia los términos de uso de una
+plataforma.
+
+> *Postura del Consejo:* eso no es una traición al principio, es su **aplicación consecuente**. Si la
+> libertad se justifica porque las partes son las mejores jueces de su interés, entonces **donde no hay
+> capacidad real de negociar, el fundamento no opera** y la regla imperativa recupera su lugar. Lo
+> importante para un abogado corporativo es saber **de qué lado del umbral está su contrato**: entre partes
+> sofisticadas con asesoría, la autonomía es amplísima y hay que aprovecharla; en adhesión o con asimetría
+> informativa, hay reglas que no se pueden pactar en contra — y creer lo contrario produce cláusulas nulas.
+
+### La imprevisión: ¿se puede revisar un contrato cuando el mundo cambia?
+
+Es el debate más práctico del libro y volvió a primer plano con la pandemia.
+
+La **santidad del pacto** dice que no: el contrato se firmó con sus riesgos y cada parte asumió los suyos.
+La doctrina de la **imprevisión** (*rebus sic stantibus*) dice que sí, de forma acotada, cuando un
+acontecimiento **extraordinario e imprevisible** destruye el equilibrio de las prestaciones.
+
+El *common law* es reacio —su figura de *frustration* es estrecha—; la tradición civil la admite con
+requisitos exigentes. Y el episodio de **COVID-19** reactivó todo el terreno: fuerza mayor, imposibilidad,
+*hardship*, y la pregunta de quién soporta un riesgo que nadie asignó.
+
+> **La lección de oficio, y es de las más rentables de este nivel:** no dejes que la imprevisión sea tu plan.
+> Un contrato de largo plazo bien hecho **asigna expresamente** los riesgos extraordinarios —cláusula de
+> fuerza mayor con lista y consecuencias, mecanismo de renegociación, *hardship*, ajuste de precio por
+> índice—. Litigar la imprevisión es lo que se hace cuando la redacción falló.
+
+**Y el marco que ordena la materia:** el contrato reduce **costos de transacción** de la cooperación y
+asigna riesgos a quien mejor los soporta. Las **reglas por defecto** (*default rules*) llenan lo no pactado
+—y por eso importa tanto saber qué dicen, como se explica en
+[Contratos Civiles en Particular](../Nivel-II-Derecho-Civil-Profundo/02-Contratos-Civiles-en-Particular.md)—
+mientras las **imperativas** protegen frente a las fallas de la premisa. Un contrato es, en el fondo,
+**derecho privado hecho a la medida** por quienes lo van a cumplir.
+
 ## 7. Autores más importantes
 
 **Doctrina mexicana:**
@@ -857,59 +899,6 @@ Empresa Familiar     ★★★★☆
 *La teoría del contrato es **la herramienta #1** del corporativo: todo lo que hace se documenta en
 contratos.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El contrato es el **producto** que vende un abogado corporativo. El socio no redacta cláusulas "bonitas": redacta **asignación de riesgo**. Cada cláusula responde a la pregunta *"¿qué pasa si...?"*. Por eso lee un contrato al revés: primero **incumplimiento, terminación, indemnización y solución de controversias**, y luego el objeto. Ahí se gana o se pierde el pleito de dentro de tres años.
-
-### Doctrina y debate
-- **Autonomía de la voluntad** y ***pacta sunt servanda*** (art. 1796 CCF ⟳) como pilares; su límite: orden público, buena fe y abuso del derecho.
-- **Teoría de la imprevisión (*rebus sic stantibus*):** ¿puede revisarse un contrato cuando un evento extraordinario destruye su equilibrio? México la incorporó de forma acotada; debate clásico frente a la santidad del pacto.
-- **Atiyah (*The Rise and Fall of Freedom of Contract*):** cómo la libertad contractual clásica cedió ante la contratación en masa y la protección del débil (consumidor, adhesión).
-
-### Derecho comparado
-La **formación** del contrato (oferta y aceptación) es común, pero el *common law* exige **consideration** (contraprestación) y aplica la *parol evidence rule* (lo escrito prevalece). En compraventa internacional rige la **CISG** (Convención de Viena, 1980), que México ratificó: un marco híbrido que todo corporativo transfronterizo debe conocer.
-
-### Caso real
-**Renegociación de contratos de largo plazo:** en crisis (2008, 2020) empresas como aerolíneas y energéticas invocaron *hardship* y fuerza mayor para renegociar suministros y arrendamientos. Los contratos con **cláusulas de revisión** bien diseñadas evitaron litigios de años; los rígidos terminaron en tribunales.
-
-### Errores que cuestan millones
-- Redactar un objeto impecable y descuidar la **cláusula de solución de controversias** (foro, ley aplicable, arbitraje): se litiga dónde y cómo no conviene.
-- Contratos de adhesión con cláusulas **abusivas** anulables.
-
-### Preguntas
-- **Criterio:** ¿debe el juez poder revisar un contrato desequilibrado por hechos sobrevenidos? (*pacta sunt servanda* vs. *rebus sic stantibus*).
-- **Entrevista:** ¿qué cláusula revisa primero en un contrato ajeno y por qué?
-- **Examen:** explique la formación del consentimiento (oferta y aceptación).
-
-### Bibliografía por niveles
-- **Básico:** Zamora y Valencia, *Contratos civiles*.
-- **Intermedio:** Sánchez Medal, *De los contratos civiles*.
-- **Avanzado:** Messineo, *Doctrina general del contrato*.
-- **Internacional:** Atiyah, *The Rise and Fall of Freedom of Contract*; CISG (Convención de Viena).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El contrato es el instrumento de la **cooperación voluntaria**: permite a extraños coordinar conductas futuras y asignar riesgos, creando valor por el intercambio. La **libertad contractual** y el ***pacta sunt servanda*** (art. 1796 CCF ⟳) son su núcleo; su fundamento último es que las partes conocen mejor que nadie qué les conviene (autonomía), matizado cuando esa premisa falla (asimetría, adhesión).
-
-**El debate.** **Libertad contractual clásica vs. su "declive" (Atiyah).** La contratación en masa, la adhesión y la protección del consumidor erosionaron la ficción de partes iguales que negocian. Debate de la **imprevisión (*rebus sic stantibus*)**: ¿puede revisarse un contrato cuando un evento extraordinario destruye su equilibrio, o la santidad del pacto es absoluta? El *common law* es reacio (*frustration* estrecha); el civil law la admite acotada. COVID-19 reavivó el debate (fuerza mayor, *hardship*).
-
-**Mirada de AED.** El contrato reduce **costos de transacción** de la cooperación y asigna riesgos al que mejor los soporta. Las **reglas por defecto** (*default rules*) llenan lo no pactado; las **reglas imperativas** protegen frente a fallas (adhesión, información). El contrato es "derecho privado a la medida" que las partes crean para sí.
-
-**Comparado y lección para México.** Formación (oferta/aceptación) común, pero el *common law* exige **consideration** y aplica la *parol evidence rule* (lo escrito prevalece). La **CISG** rige la compraventa internacional salvo pacto. **Lección:** la cláusula de **ley aplicable y solución de controversias** define dónde y cómo se litiga —de las más valiosas y las más descuidadas.
-
-**Crítica.** La libertad contractual "formal" puede legitimar **abusos** (contratos de adhesión, cláusulas abusivas); de ahí el derecho del consumidor. Y la imprevisión, criticada por introducir **incertidumbre** en el pacto.
-
-**Jurisprudencia y operación real.** *Carlill v. Carbolic Smoke Ball* (RU, 1893): oferta al público y formación del contrato. En la práctica, el socio lee el contrato "al revés" (incumplimiento, terminación, indemnización, foro) porque ahí se gana el pleito de dentro de tres años.
-
-**Para leer más:** Atiyah, *The Rise and Fall of Freedom of Contract*; Fuller, *Consideration and Form*; CISG (1980); *Carlill v. Carbolic Smoke Ball* (1893).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

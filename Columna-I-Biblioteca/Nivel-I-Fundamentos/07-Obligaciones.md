@@ -335,6 +335,49 @@ consecuencias que normalmente derivan del hecho) la acota. El art. 2110 CCF ⟳ 
 inmediata y directa") adopta una limitación causal, pariente de la regla anglosajona de
 *foreseeability* (*Hadley v. Baxendale*).
 
+
+### ¿Por qué obliga una promesa? Y la pregunta que de ahí se sigue
+
+La obligación es la institución que convierte una promesa —que es aire— en un **derecho exigible**, que es
+un activo. Sin ella no hay crédito, ni contrato a plazo, ni intercambio diferido. Pero *por qué* obliga
+admite tres respuestas y conviene conocerlas.
+
+**Por la voluntad:** quien se obligó quiso obligarse. **Por la confianza** —el *reliance* de **Fuller y
+Perdue**—: se protege a quien **actuó confiando** en la promesa y por eso quedó expuesto. **Por la
+eficiencia:** un sistema donde las promesas se cumplen permite intercambios que de otro modo no ocurrirían.
+
+**Y de ahí el debate que de verdad importa: el de los remedios.** ¿Qué se le debe al acreedor cuando el
+deudor no cumple?
+
+| Tradición | La regla | Su lógica |
+|---|---|---|
+| *Civil law* (México) | **Cumplimiento forzoso** en especie como regla | La palabra dada se cumple; el acreedor tiene derecho a *lo prometido* |
+| *Common law* | **Indemnización de daños** como regla; el cumplimiento forzoso es excepcional | El acreedor tiene derecho a *quedar indemne*, no necesariamente a la cosa |
+
+**Holmes** llevó la segunda posición a su formulación más provocadora: el contrato te da a elegir entre
+**cumplir o pagar daños** —la idea del *incumplimiento eficiente* (*efficient breach*)—. Si el recurso vale
+más en otro uso, incumplir y compensar puede ser socialmente preferible.
+
+**Y la crítica, que es seria:** esa doctrina **erosiona la moral del pacto** —convierte la palabra en una
+opción con precio— y además ignora que litigar el monto del daño tiene costos que la teoría suele suponer
+inexistentes.
+
+> **Vista con ojos económicos, toda esta discusión es sobre incentivos.** La indemnización por *expectation*
+> —poner al acreedor como si se hubiera cumplido— incentiva el cumplimiento salvo cuando incumplir es
+> genuinamente eficiente. Y la **cláusula penal** y los *liquidated damages* hacen algo muy inteligente:
+> **asignan ex ante el costo del incumplimiento**, ahorrando el litigio sobre cuánto valió el daño.
+>
+> **Por qué esto te importa el día que redactes.** Cuando negocies una pena convencional, una indemnidad o
+> una cláusula de cumplimiento específico, estás eligiendo **en qué tradición quieres estar** y, sobre todo,
+> **si quieres darle a la otra parte la opción de arrepentirse pagando**. Esa es exactamente la decisión que
+> resolvió el caso Twitter/X–Musk, tratado en el
+> [Libro 4 del Nivel IV](../Nivel-IV-Corporate-Law/04-Documentacion-Term-Sheet-SPA-APA-SHA.md).
+
+**El caso fundacional del comparado**, que sigue vivo en cada cláusula de limitación de responsabilidad:
+*Hadley v. Baxendale* (Reino Unido, 1854) estableció la regla de la **previsibilidad** del daño contractual
+—solo se indemniza lo que era previsible al contratar—. Cada vez que un contrato excluye "daños
+consecuenciales o indirectos", está codificando esa regla.
+
 ## 7. Autores más importantes
 
 **Doctrina mexicana (imprescindible):**
@@ -883,59 +926,6 @@ Empresa Familiar     ★★★★☆
 *La teoría de las obligaciones es la **base de todo contrato y todo crédito**: es de las materias más
 transversales del corporativo.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El derecho de obligaciones es el **motor del contrato**: define qué se debe, cómo se cumple y qué pasa si no. El socio piensa en **remedios**: ante un incumplimiento, ¿exijo cumplimiento forzoso, resolución con daños, o ejecuto la garantía? Y sobre todo: **¿cómo asigno hoy, por escrito, el riesgo del incumplimiento de mañana?** Ahí nacen las cláusulas de indemnización, penas convencionales y *liquidated damages*.
-
-### Doctrina y debate
-- **Estructura de la obligación:** la dualidad alemana ***Schuld* (deuda) / *Haftung* (responsabilidad)**: se puede deber sin responder (obligación natural) y responder por deuda ajena (fiador).
-- **Fuentes:** contrato, cuasicontrato, hecho ilícito, enriquecimiento sin causa, declaración unilateral, ley.
-- **Doctrina:** Pothier (base del Code y del CCF), Messineo, Von Tuhr; en México Borja Soriano y Gutiérrez y González ("las obligaciones" como su gran obra).
-
-### Derecho comparado
-Ante el incumplimiento, el *civil law* privilegia el **cumplimiento forzoso** (*specific performance* como regla); el *common law* privilegia la **indemnización** (*expectation damages*) y reserva el cumplimiento forzoso para lo excepcional (Holmes: "el contrato da a elegir entre cumplir o pagar daños"). Esta diferencia explica por qué los contratos anglosajones detallan tanto los *remedies*.
-
-### Caso real
-**Cláusulas de fuerza mayor y COVID-19:** la pandemia (2020) puso a prueba miles de contratos: ¿el confinamiento liberaba de cumplir? La respuesta dependió de la redacción de la **fuerza mayor** y del *hardship*. Lección: el remedio no se improvisa en la crisis; se redacta en la calma.
-
-### Errores que cuestan millones
-- Pactar una **pena convencional** que exceda el valor de lo principal (reductible) o que se confunda con daños ya pactados.
-- Olvidar la **mora** y sus requisitos (interpelación) al reclamar intereses moratorios.
-
-### Preguntas
-- **Criterio:** ¿debe el derecho obligar a cumplir en especie o basta con pagar daños? (Holmes vs. civil law).
-- **Entrevista:** distinga cláusula penal, indemnización y *liquidated damages*.
-- **Examen:** enuncie las fuentes de las obligaciones y un ejemplo de cada una.
-
-### Bibliografía por niveles
-- **Básico:** Borja Soriano, *Teoría general de las obligaciones*.
-- **Intermedio:** Gutiérrez y González, *Derecho de las obligaciones*.
-- **Avanzado:** Messineo, *Doctrina general del contrato*; Von Tuhr, *Tratado de las obligaciones*.
-- **Internacional:** Díez-Picazo, *Fundamentos del Derecho Civil Patrimonial*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La obligación es el **vínculo jurídico** que permite confiar en promesas: sin ella, no habría crédito, ni contrato a plazo, ni intercambio diferido. Es la institución que convierte una promesa (aire) en un derecho exigible (activo). Toda la economía del intercambio descansa en que las obligaciones se cumplan —o se remedien.
-
-**El debate.** **¿Por qué obliga la promesa?** Teorías de la voluntad, de la confianza (*reliance*, Fuller & Perdue: se protege la confianza que la promesa genera) y de la eficiencia. Debate de los **remedios**: cumplimiento forzoso (civil law, regla) vs. indemnización (common law, regla) —Holmes: el contrato da a elegir entre cumplir o pagar daños (*efficient breach*). ¿Debe el derecho permitir incumplir eficientemente (pagar daños y quedarse con la ganancia) o exigir cumplir?
-
-**Mirada de AED.** Los remedios contractuales son **incentivos**: la indemnización por *expectation* (poner a la víctima como si se hubiera cumplido) incentiva el cumplimiento salvo cuando incumplir es eficiente (el recurso vale más en otro uso). La cláusula penal y los *liquidated damages* asignan ex ante el costo del incumplimiento, ahorrando el litigio sobre daños.
-
-**Comparado y lección para México.** *Civil law*: cumplimiento en especie como regla; *common law*: daños como regla, *specific performance* excepcional. La **CISG** y los Principios UNIDROIT armonizan para el comercio internacional. **Lección:** al redactar remedios (penas, indemnidad, *specific performance*) hay que saber qué régimen aplica —una cláusula puede ser reductible aquí y no allá.
-
-**Crítica.** La teoría del *efficient breach* es criticada por **erosionar la moral del pacto** (santidad de la palabra) y por ignorar costos de transacción del litigio de daños. La cláusula penal excesiva, por punitiva.
-
-**Jurisprudencia y operación real.** *Hadley v. Baxendale* (RU, 1854): regla clásica de previsibilidad del daño contractual —viva en toda cláusula de limitación de responsabilidad. En la práctica, el diseño de indemnización, mora e intereses en un contrato es teoría de las obligaciones convertida en dinero.
-
-**Para leer más:** Fuller & Perdue, *The Reliance Interest in Contract Damages* (Yale L.J., 1936); Holmes, *The Path of the Law* (1897); *Hadley v. Baxendale* (1854); Díez-Picazo, *Fundamentos*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*
