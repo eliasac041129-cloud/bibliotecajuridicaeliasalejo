@@ -936,6 +936,36 @@ referencia universal); el compliance "habla FCPA" (estándar global anticorrupci
 europeo" (CSRD/SFDR como marco más avanzado). El abogado mexicano de élite debe **conocer los tres
 referentes** porque condicionan a las empresas mexicanas con operaciones o capital internacional.
 
+### Dos arquitecturas del consejo, y qué le falta a México
+
+Frente al problema de agencia del §6, el mundo desarrolló **dos respuestas estructurales distintas**, y
+conocerlas evita creer que el modelo que uno conoce es el único posible.
+
+**El consejo unitario** (Estados Unidos, Reino Unido, México): un solo órgano que administra y vigila, con
+**consejeros independientes** y comités —de auditoría, de prácticas societarias— como contrapeso interno.
+La vigilancia se logra por composición.
+
+**El consejo dual con cogestión** (Alemania): dos órganos separados. Una dirección que gestiona y un
+**consejo de vigilancia** que supervisa, en el cual —y esto es lo distintivo— **se sientan representantes
+de los trabajadores**. La vigilancia se logra por separación estructural y por pluralidad de intereses
+representados. Es, de hecho, una respuesta institucional al debate *shareholder/stakeholder* del §29:
+Alemania no lo resolvió con declaraciones de propósito, lo resolvió con asientos.
+
+El estándar global que hoy damos por natural no cayó del cielo: lo fijaron el **Cadbury Report** británico
+(1992) —que introdujo la separación de funciones, los independientes y el comité de auditoría— y los
+**Principios de Gobierno Corporativo de la OCDE**, de donde bebe el Código de Principios y Mejores
+Prácticas mexicano ⟳.
+
+> **Y aquí la observación que importa para tu práctica, dicha sin complacencia.** México **adoptó el
+> andamiaje**: la LMV exige independientes y comités, el Código de Principios existe, las emisoras
+> reportan. Lo que no tiene es el **acervo jurisprudencial** que en Delaware llena de contenido concreto
+> los deberes fiduciarios. Un consejero mexicano tiene el deber de diligencia; lo que no tiene es un
+> cuerpo de sentencias que le diga **cuánta diligencia basta** en un caso parecido al suyo.
+>
+> Consecuencia práctica: el trabajo de tu opinión legal y de tus actas **suple** esa ausencia. Donde en
+> Delaware el consejero se orienta por *Van Gorkom* y *Caremark*, aquí se orienta por lo que su abogado le
+> explicó y por lo que quedó documentado. Es más responsabilidad para ti, no menos.
+
 ## 23. Derecho mexicano
 
 El marco mexicano de las tres dimensiones:
@@ -977,6 +1007,38 @@ Criterios relevantes:
 En el ámbito internacional, el ***case law* de Delaware** (Caremark, Revlon, Unocal, Van Gorkom) es
 **estudio obligado** —modela los deberes fiduciarios globalmente—, junto con las **resoluciones FCPA** del
 DOJ/SEC (que orientan el diseño de los programas de compliance).
+
+### La línea *Caremark*: el deber de vigilancia, y por qué revivió
+
+Merece desarrollo propio porque es la doctrina que convierte una falla de *compliance* en
+**responsabilidad personal del consejero**.
+
+***In re Caremark*** (Del. Ch. 1996) estableció que el consejo tiene un **deber de vigilancia**
+(*oversight*): no basta con no participar en el ilícito; hay que haber implantado un sistema razonable de
+información y control que permita **enterarse**. Durante años se consideró la reclamación más difícil de
+ganar del derecho societario —el estándar exigía prácticamente una falla total del sistema—.
+
+***Marchand v. Barnhill*** (Del. 2019) la reactivó. Su aportación fue precisar que cuando existe un
+**riesgo esencial y regulado** en el corazón del negocio —en ese caso, la seguridad alimentaria—, el
+consejo debe tener un mecanismo específico de vigilancia **sobre ese riesgo**, y no puede ampararse en
+que "había reportes" genéricos. Es decir: la vigilancia se juzga **contra el riesgo propio de esa
+empresa**.
+
+> **La lectura conjunta de los grandes escándalos, y es la tesis de esta sección.** Enron, Odebrecht,
+> Siemens y Wells Fargo se cuentan habitualmente como fracasos de negocio o como casos de corrupción. Son,
+> antes que eso, **fallas de vigilancia**: en todos, la información existía en algún nivel de la
+> organización y no llegó —o llegó y no se actuó—.
+>
+> Eso es exactamente lo que el
+> [módulo 08 de la Columna IV](../../Columna-IV-Sistema-del-Socio/08-Gestionar-Hacia-Abajo.md) llama *tu
+> capacidad de enterarte a tiempo*, visto a escala de una corporación. Y por eso el *compliance* no es
+> papelería: es el sistema nervioso que permite al consejo cumplir un deber que la ley le impone.
+>
+> **Cómo se traduce a tu escritorio:** un programa se diseña para que resista el escrutinio de un fiscal y
+> de un juez, y eso significa que debe poder **demostrar** tres cosas con documentos —que se identificaron
+> los riesgos propios del negocio, que existía un canal por el que la información subía, y que cuando
+> subió, alguien actuó y quedó registrado—. Un programa que no puede demostrar las tres es cosmético,
+> aunque tenga un manual de doscientas páginas.
 
 ## 25. Criterios de la Suprema Corte / reguladores
 
@@ -1041,6 +1103,27 @@ del greenwashing, sin caer ni en el cinismo ("todo es moda") ni en la ingenuidad
 estas tres dimensiones te habilita para el rol más prestigioso del derecho corporativo: **asesor del
 consejo de administración**. Es la culminación de la formación: del técnico de operaciones al consejero de
 la institución.
+
+**Y la crítica que esta materia debe hacerse a sí misma: el gobierno corporativo puede ser teatro.** La
+acusación de ***box-ticking*** —cumplir la casilla sin cumplir la función— es la más seria que se le hace a
+esta disciplina, y está bien fundada. Tres formas concretas en que ocurre:
+
+- **Independientes que no son independientes.** Formalmente cumplen el requisito; en la práctica fueron
+  invitados por el fundador, le deben la posición y no lo contradicen. WeWork y Theranos son los casos de
+  manual (patrón 2 de
+  [Reconocer el desastre antes](../../Columna-III-Laboratorio/15-Reconocer-el-Desastre-Antes.md)).
+- **Remuneración desacoplada del desempeño.** El trabajo de **Bebchuk y Fried** en *Pay Without
+  Performance* documentó cómo los paquetes se diseñan de modo que pagan bien casi en cualquier escenario, y
+  cómo el consejo capturado no lo corrige.
+- **ESG como relato.** Las acusaciones de *greenwashing* y de politización de la agenda no son ruido: hay
+  reportes de sostenibilidad que miden lo que es fácil de medir en lugar de lo que importa.
+
+*Postura del Consejo:* la existencia del teatro no invalida la institución —invalida su versión cosmética—.
+Y la distinción es verificable con una sola prueba, que recomendamos aplicar a cualquier consejo que
+asesores: **¿cuándo fue la última vez que este órgano dijo no a la dirección, y consta?** Si la respuesta
+es nunca, no hay contrapeso, hay ceremonia. Un abogado que pregunta eso —y que redacta el acta de modo que
+la respuesta quede registrada— está haciendo más por el gobierno de esa empresa que todo el código de
+mejores prácticas.
 
 ## 29. Debate doctrinal
 
@@ -1364,7 +1447,26 @@ Nivel IV**, el corazón del objetivo.
 - **Kraakman, Hansmann et al., *The Anatomy of Corporate Law*.** Análisis funcional del gobierno
   corporativo.
 - **El debate del propósito de la empresa (Friedman; Business Roundtable 2019).** Shareholder vs.
-  stakeholder.
+  stakeholder. Lee las **dos** puntas: Friedman (*The New York Times*, 1970) y **R. Edward Freeman**, cuya
+  *teoría de los stakeholders* dio la formulación académica al otro lado. Y lee la objeción, que es la más
+  interesante de las tres: **Lucian Bebchuk** ha argumentado que el *stakeholderism* puede funcionar como
+  una cortina que **aísla a los administradores de la rendición de cuentas** —si respondes ante todos, en
+  la práctica no respondes ante nadie—. No hay que estar de acuerdo con él; hay que poder contestarle.
+- **Bebchuk & Fried, *Pay Without Performance* (2004).** El estudio de referencia sobre remuneración
+  desacoplada del desempeño y sobre por qué el consejo, capturado, no la corrige. Es el sustento del
+  debate del *say-on-pay* y lectura obligada antes de opinar sobre un plan de compensación.
+- **John C. Coffee, *Gatekeepers* (2006).** Por qué fallan los guardianes del sistema —auditores,
+  abogados, analistas, calificadoras— cuando sus incentivos los alinean con quien les paga. **Es el libro
+  que un abogado corporativo debería leer con más incomodidad**, porque el guardián del que habla también
+  eres tú. Conecta con el
+  [módulo 06 de la Columna VI](../../Columna-VI-Inteligencia-Humana/06-La-Frontera-Etica.md).
+- **Kaplan & Walker y la literatura de efectividad de programas de *compliance*.** La pregunta empírica que
+  importa: qué distingue un programa que reduce la sanción esperada de uno que solo agrega costo.
+- **Jurisprudencia de Delaware sobre el deber de vigilancia:** *In re Caremark* (Del. Ch. 1996) y
+  *Marchand v. Barnhill* (Del. 2019).
+- **Estándares internacionales:** *Resource Guide to the FCPA* (DOJ/SEC), Convención Anticohecho de la
+  **OCDE**, recomendaciones del **GAFI** en materia de prevención de lavado, **Cadbury Report** (1992) y
+  Principios de Gobierno Corporativo de la OCDE.
 
 ## 43. Ruta hacia el siguiente nivel
 
@@ -1447,59 +1549,6 @@ empresa como institución**, el perfil del abogado corporativo de élite.
 > aprenderás las herramientas que coronan al gran abogado corporativo: **negociación, finanzas, valuación
 > y estrategia**. El destino —ser uno de los mejores— está cada vez más cerca.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-*Compliance* no es burocracia: es **transferir el riesgo del delito de la empresa al programa**. El socio diseña programas que, ante una investigación, demuestren **cultura, controles y reacción** —lo que reduce sanciones y, a veces, evita la imputación. En M&A, hereda el riesgo del vendedor: un pasivo de corrupción o lavado no visto en el DD puede costar más que la empresa comprada (**responsabilidad del sucesor**).
-
-### Doctrina y debate
-- **¿El *compliance* crea valor o solo cuesta?** (debate del prompt): la evidencia sugiere que un programa **real** reduce el costo esperado de sanciones y litigios; uno **cosmético** (*paper program*) solo agrega costo y falsa seguridad.
-- **Responsabilidad penal de la persona moral** (en México, art. 421 CNPP y criterios de *compliance* como atenuante ⟳): el programa efectivo puede eximir o atenuar.
-- **ESG:** ¿deber fiduciario ampliado o *greenwashing*? Debate Friedman vs. *stakeholder capitalism*.
-
-### Derecho comparado
-Tres regímenes marcan el estándar: **FCPA** (EE. UU., cohecho a funcionarios extranjeros, jurisdicción extraterritorial), **UK Bribery Act** (más severo, incluye cohecho privado y el delito de "no prevención"), y en México la **LGRA** y el **Sistema Nacional Anticorrupción** ⟳. En PLD/AML, los estándares GAFI son globales.
-
-### Caso real
-**Odebrecht / Lava Jato:** el mayor esquema de sobornos de la historia (~788 mdd en coimas ⚠️ *verificar*) tumbó gobiernos y empresas en toda Latinoamérica. **Siemens (FCPA, 2008, ~1,600 mdd ⚠️)** y **Walmart de México (FCPA)** mostraron que la matriz responde por su filial. Lección: sin *compliance* real, la corrupción de un gerente local se vuelve un pasivo global.
-
-### Errores que cuestan millones
-- ***Paper program*** sin capacitación, monitoreo ni consecuencias.
-- No hacer **DD anticorrupción** del *target* (responsabilidad del sucesor).
-
-### Preguntas
-- **Criterio:** ¿el *compliance* genera valor o es burocracia defensiva? ¿Y el ESG?
-- **Entrevista:** ¿qué elementos hacen "efectivo" a un programa de *compliance*?
-- **Examen:** compare FCPA y UK Bribery Act en un punto clave.
-
-### Bibliografía por niveles
-- **Básico:** *Resource Guide to the FCPA* (DOJ/SEC).
-- **Intermedio:** materiales del Sistema Nacional Anticorrupción y la LGRA.
-- **Avanzado:** Kaplan & Walker, *Compliance Programs* (literatura de efectividad).
-- **Internacional:** OCDE, Convención Anticohecho; estándares GAFI (AML).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El gobierno corporativo nace del problema fundacional de **Berle & Means (1932)**: en la corporación de capital disperso, quien **controla** (administradores) no es quien **arriesga** (accionistas). Todo el andamiaje —consejo independiente, comités, auditoría, revelación— existe para reducir ese **costo de agencia**. El *compliance* añade una segunda capa: internalizar el costo del delito corporativo trasladándolo a controles internos.
-
-**El debate.** (1) **Shareholder vs. stakeholder**: Friedman (1970, "la responsabilidad social es aumentar utilidades") vs. Freeman (teoría de los *stakeholders*) y el *Business Roundtable* de 2019 que abrazó el propósito ampliado. ¿El ESG es deber fiduciario o distracción? Bebchuk ha argumentado que el "stakeholderism" puede ser una cortina que **aísla** a los administradores de la rendición de cuentas. (2) **¿El *compliance* crea valor o es burocracia?** La evidencia: los programas *reales* reducen el costo esperado de sanción; los *cosméticos* solo agregan costo.
-
-**Mirada de AED.** El consejo independiente, el *say-on-pay* y la revelación son **mecanismos de monitoreo** cuyo valor debe exceder su costo. El ESG, en clave económica, es la **internalización de externalidades** (ambientales, sociales) que el mercado y el precio de la acción empiezan a "precificar" vía costo de capital. El *compliance* efectivo reduce la probabilidad × magnitud de la sanción esperada.
-
-**Comparado y lección para México.** Consejo **unitario** (EE. UU./RU) vs. **dual con cogestión** (Alemania: trabajadores en el consejo de vigilancia) —dos respuestas al mismo problema de control. El **Cadbury Report** (1992) y los **Principios OCDE** fijaron el estándar global (independientes, comité de auditoría). **Lección:** México adoptó el andamiaje (LMV, Código de Principios ⟳) pero le falta el **acervo jurisprudencial** que en Delaware da contenido real a los deberes fiduciarios.
-
-**Crítica.** El gobierno corporativo ha sido criticado como **teatro de cumplimiento** (*box-ticking*): consejos "independientes" capturados por el fundador (WeWork, Theranos), remuneración desacoplada del desempeño (Bebchuk & Fried, *Pay Without Performance*). El ESG enfrenta la acusación de *greenwashing* y de politización.
-
-**Jurisprudencia y operación real.** Delaware define los deberes de **diligencia y lealtad** (*Caremark*, 1996: deber de vigilancia/*oversight* del consejo, base de la responsabilidad por fallas de *compliance*; *Marchand v. Barnhill*, 2019, lo reactivó). Escándalos como **Enron, Odebrecht, Siemens y Wells Fargo** son, todos, fallas de *Caremark* antes que de negocio. En la práctica, el abogado diseña el programa para que resista el escrutinio de un fiscal y de un juez.
-
-**Para leer más:** Berle & Means, *The Modern Corporation and Private Property* (1932); Friedman (NYT, 1970); Bebchuk & Fried, *Pay Without Performance* (2004); *In re Caremark* (Del. Ch. 1996); Coffee, *Gatekeepers* (2006).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*
