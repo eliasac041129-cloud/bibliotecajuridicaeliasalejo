@@ -44,7 +44,7 @@ historia cometió un error profesional tan real como si hubiera citado un artíc
 
 ## II. Por qué esta columna no existía (y por qué era un problema)
 
-Las cinco columnas anteriores responden preguntas legítimas y las responden bien:
+Las cinco columnas anteriores a esta responden preguntas legítimas y las responden bien:
 
 | Columna | Pregunta |
 |---------|----------|

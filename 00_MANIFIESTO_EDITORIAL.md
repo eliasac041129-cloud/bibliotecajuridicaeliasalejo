@@ -3,7 +3,7 @@
 
 > **Nota de jerarquía (V2.0).** A partir de la versión 2.0 del proyecto, el documento rector
 > supremo es el [**00 · Documento Fundacional AJE**](./00_DOCUMENTO_FUNDACIONAL_AJE.md), que
-> define la misión, los seis Principios Rectores y el sistema completo de cinco columnas. Este
+> define la misión, los seis Principios Rectores y el sistema completo de seis columnas. Este
 > Manifiesto **deja de ser "la Constitución"** y pasa a ser su **Anexo de Estándar Editorial**:
 > regula exclusivamente *cómo se escribe* la Columna I (la Biblioteca) —visión editorial,
 > estándar V3 de 43 secciones, derecho comparado y control de calidad—. Si este Manifiesto

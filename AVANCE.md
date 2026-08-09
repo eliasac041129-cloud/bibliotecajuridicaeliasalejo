@@ -12,10 +12,10 @@
 
 | Columna | Nombre | Pregunta | Estado | Documento |
 |---------|--------|----------|--------|-----------|
-| **I** | Biblioteca Jurídica | ¿Qué debo aprender? | ✅ Completa (5 niveles + Ramas Esenciales · 52 tratados) | `Columna-I-Biblioteca/` |
+| **I** | Biblioteca Jurídica | ¿Qué debo aprender? | ✅ Completa (5 niveles + Ramas Esenciales · 53 tratados) | `Columna-I-Biblioteca/` |
 | **II** | Hoja de Ruta | ¿Qué hacer, cuándo y por qué? | ✅ Completa | [`01_HOJA_DE_RUTA_AJE.md`](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) + [`02_PLAN_OPERATIVO_DIARIO_AJE.md`](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) |
-| **III** | Laboratorio Profesional | ¿Cómo se trabaja de verdad? | ✅ Completa (3 tramos · 11 ejercicios) | `Columna-III-Laboratorio/` |
-| **IV** | Sistema del Socio | ¿Cómo se construye la carrera? | ✅ Completa (7 módulos) | `Columna-IV-Sistema-del-Socio/` |
+| **III** | Laboratorio Profesional | ¿Cómo se trabaja de verdad? | ✅ Completa (4 tramos · 15 ejercicios) | `Columna-III-Laboratorio/` |
+| **IV** | Sistema del Socio | ¿Cómo se construye la carrera? | ✅ Completa (9 módulos) | `Columna-IV-Sistema-del-Socio/` |
 | **V** | Patrimonio y Libertad Financiera | ¿Cómo administrar la riqueza? | ✅ Completa (6 módulos) · 🟡 elevación C-5 | `Columna-V-Patrimonio/` |
 | **VI** | Inteligencia Humana y Comunicación Profesional | ¿Cómo entiendo a las personas y sostengo mi posición? | 🟡 En construcción (Edición Final) | `Columna-VI-Inteligencia-Humana/` |
 | — | **Cierre de la colección** | ¿Quién quiero llegar a ser? | 🟡 En construcción (Edición Final) | `El-Arquitecto-Juridico-Empresarial.md` |
@@ -121,7 +121,7 @@ abogado corporativo necesita reconocer para no cometer un error caro fuera de su
 
 ## Columnas III, IV y V (detalle)
 
-### Columna III · Laboratorio Profesional — ✅ 11 ejercicios · 🟡 Tramo 4 en construcción
+### Columna III · Laboratorio Profesional — ✅ 15 ejercicios en 4 tramos
 | Tramo | Ejercicios | Estado |
 |-------|-----------|--------|
 | 1 · El ciclo de una operación de M&A | 01–06 | ✅ |

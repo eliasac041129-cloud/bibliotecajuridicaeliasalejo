@@ -17,7 +17,7 @@
 
 | Archivo | Qué es | Cómo se usa |
 |---------|--------|-------------|
-| [`flashcards-anki.csv`](./flashcards-anki.csv) | Mazo de tarjetas para **repaso espaciado** (importable en Anki) | Impórtalo a Anki y repasa 15-20 min/día |
+| [`flashcards-anki.csv`](./flashcards-anki.csv) | Mazo de **206 tarjetas** para **repaso espaciado** (importable en Anki) | Impórtalo a Anki y repasa 15-20 min/día |
 | [`banco-de-preguntas.md`](./banco-de-preguntas.md) | **Banco de preguntas** por área, con respuestas modelo | Autoexamínate por escrito (no solo mental) |
 
 ---
@@ -68,5 +68,7 @@ Cada tratado de la Biblioteca ya trae su sección **35. Flashcards**. Para ampli
 3. Pégalas al final de [`flashcards-anki.csv`](./flashcards-anki.csv) (o impórtalas por separado).
 4. Marca ⚠️ los datos duros que debas verificar.
 
-*Sistema vivo: crece con cada tratado que domines. El objetivo no es "tener" las tarjetas, sino
+*Sistema vivo: crece con cada tratado que domines. **Ampliado en la Edición Final** con 41 tarjetas nuevas de las Columnas IV, V y VI, del Tramo 4 del Laboratorio y del tratado V-05.*
+
+*El objetivo no es "tener" las tarjetas, sino El objetivo no es "tener" las tarjetas, sino
 **repasarlas** hasta que el conocimiento sea tuyo.*

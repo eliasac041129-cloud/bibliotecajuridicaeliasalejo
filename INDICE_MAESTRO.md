@@ -9,7 +9,7 @@
 
 | Documento | Función |
 |-----------|---------|
-| [00 · Documento Fundacional AJE](./00_DOCUMENTO_FUNDACIONAL_AJE.md) | **Rector supremo.** Misión, visión, 5 columnas, 6 principios. |
+| [00 · Documento Fundacional AJE](./00_DOCUMENTO_FUNDACIONAL_AJE.md) | **Rector supremo.** Misión, visión, 6 columnas, 6 principios. |
 | [00 · Manifiesto Editorial](./00_MANIFIESTO_EDITORIAL.md) | Anexo de Estándar Editorial (cómo se escribe cada libro · V3). |
 | [01 · Hoja de Ruta AJE](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) | Columna II · estrategia profesional. |
 | [02 · El Sistema Diario](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) | Plan operativo · qué haces hoy, hora por hora. |
@@ -117,7 +117,7 @@
 - [03 · Plan de Inglés Jurídico](./Columna-II-Hoja-de-Ruta/03_PLAN_DE_INGLES_JURIDICO_AJE.md) — la llave no negociable
 - [04 · La Tesis Estratégica](./Columna-II-Hoja-de-Ruta/04_LA_TESIS_ESTRATEGICA.md) — tesis (R&W en el SPA) como activo de carrera
 
-## 5. Columna III · Laboratorio Profesional — ✅ completo (3 tramos · 11 ejercicios)
+## 5. Columna III · Laboratorio Profesional — ✅ completo (4 tramos · 15 ejercicios)
 - [00 · Laboratorio Profesional (documento rector)](./Columna-III-Laboratorio/00_LABORATORIO_PROFESIONAL_AJE.md)
 - **Tramo 1 · Ciclo de M&A:**
 - [01 · El Memorándum Legal](./Columna-III-Laboratorio/01-El-Memorandum-Legal.md) — ✅
@@ -131,13 +131,22 @@
 - [08 · Actas, Asambleas y Resoluciones](./Columna-III-Laboratorio/08-Actas-Asambleas-y-Resoluciones.md) — ✅
 - [09 · La Opinión Legal](./Columna-III-Laboratorio/09-La-Opinion-Legal.md) — ✅
 - [10 · La Presentación al Cliente y al Consejo](./Columna-III-Laboratorio/10-La-Presentacion-al-Cliente-y-al-Consejo.md) — ✅
-- **Tramo 3 · Destrezas de negociación:**
+- **Tramo 3 · Destrezas de negociación documental:**
 - [11 · El Redline: marcar el borrador de la contraparte](./Columna-III-Laboratorio/11-El-Redline-Marcado-del-Borrador-de-la-Contraparte.md) — ✅
+- **Tramo 4 · Simuladores de decisión:**
+- [12 · Negociar el contrato cláusula por cláusula](./Columna-III-Laboratorio/12-Negociar-el-Contrato-Clausula-por-Clausula.md) — ✅ *el canje, con la aritmética a la vista*
+- [13 · Cuando la contraparte se echa atrás](./Columna-III-Laboratorio/13-Cuando-la-Contraparte-se-Echa-Atras.md) — ✅ *seis casos sin respuesta modelo*
+- [14 · La vida completa de una empresa](./Columna-III-Laboratorio/14-La-Vida-Completa-de-una-Empresa.md) — ✅ *Dulces del Valle 1998-2032 en 12 decisiones*
+- [15 · Reconocer el desastre antes](./Columna-III-Laboratorio/15-Reconocer-el-Desastre-Antes.md) — ✅ *los siete patrones de fracaso*
 
 > Los ejercicios 01-10 recorren una misma operación de M&A ("Proyecto Caramelo") de principio a fin; el 11
-> añade la destreza más usada por el asociado junior: **marcar (redline) el borrador de la contraparte**.
+> añade la destreza más usada por el asociado junior —**marcar el borrador de la contraparte**—; y el
+> **Tramo 4** cambia de naturaleza: en lugar de entregables, entrena **decisiones**. El
+> [ejercicio 14](./Columna-III-Laboratorio/14-La-Vida-Completa-de-una-Empresa.md) es, además, la
+> **columna vertebral narrativa** de toda la obra: sitúa cada tratado en una de las doce etapas de la
+> vida de una empresa.
 
-## 6. Columnas IV y V
+## 6. Columnas IV, V y VI
 ### Columna IV · Sistema del Socio — ✅ completa
 - [00 · Sistema del Socio (documento rector)](./Columna-IV-Sistema-del-Socio/00_SISTEMA_DEL_SOCIO_AJE.md)
 - [01 · La Pirámide del Despacho](./Columna-IV-Sistema-del-Socio/01-La-Piramide-del-Despacho.md) — ✅
@@ -147,6 +156,8 @@
 - [05 · Marca Personal y Reputación](./Columna-IV-Sistema-del-Socio/05-Marca-Personal-y-Reputacion.md) — ✅
 - [06 · Rutas de Carrera](./Columna-IV-Sistema-del-Socio/06-Rutas-de-Carrera.md) — ✅
 - [07 · Honorarios: Cómo Poner Precio a tu Trabajo](./Columna-IV-Sistema-del-Socio/07-Honorarios-Como-Poner-Precio.md) — ✅
+- [08 · Gestionar Hacia Abajo: liderazgo, delegación y feedback](./Columna-IV-Sistema-del-Socio/08-Gestionar-Hacia-Abajo.md) — ✅ *el espejo del 02*
+- [09 · Crisis y Formación](./Columna-IV-Sistema-del-Socio/09-Crisis-y-Formacion-de-Juniors.md) — ✅
 
 ### Columna V · Patrimonio y Libertad Financiera — ✅ completa
 - [00 · Patrimonio y Libertad Financiera (documento rector)](./Columna-V-Patrimonio/00_PATRIMONIO_Y_LIBERTAD_FINANCIERA_AJE.md)
@@ -157,9 +168,33 @@
 - [05 · Protección y Estructura](./Columna-V-Patrimonio/05-Proteccion-y-Estructura.md) — ✅
 - [06 · El Plan Realista a la Libertad](./Columna-V-Patrimonio/06-El-Plan-Realista-a-la-Libertad.md) — ✅
 
-> **Las cinco columnas del Proyecto AJE están completas.**
+### Columna VI · Inteligencia Humana y Comunicación Profesional — ✅ completa
+> **Atada al tratado de [Ética Profesional](./Columna-I-Biblioteca/Ramas-Esenciales/11-Etica-Profesional-y-Responsabilidad-del-Abogado.md):**
+> sin ese ancla, esta columna se degrada en un manual de manipulación. Rige su **regla científica**
+> (✅ replicado · ⚠️ discutido · ❌ no usar) y la prohibición absoluta de presentar el lenguaje corporal
+> como detector de mentiras.
+
+- [00 · Inteligencia Humana (documento rector)](./Columna-VI-Inteligencia-Humana/00_INTELIGENCIA_HUMANA_AJE.md) — *el modelo de las tres lecturas*
+- [01 · Psicología de la Decisión](./Columna-VI-Inteligencia-Humana/01-Psicologia-de-la-Decision.md) — ✅
+- [02 · Leer Personas y Situaciones](./Columna-VI-Inteligencia-Humana/02-Leer-Personas-y-Situaciones.md) — ✅ *no leas la cara, lee la estructura*
+- [03 · Límites y Poder Personal](./Columna-VI-Inteligencia-Humana/03-Limites-y-Poder-Personal.md) — ✅
+- [04 · Comunicación de Alto Nivel y Escucha Estratégica](./Columna-VI-Inteligencia-Humana/04-Comunicacion-de-Alto-Nivel-y-Escucha-Estrategica.md) — ✅
+- [05 · Conversaciones Difíciles](./Columna-VI-Inteligencia-Humana/05-Conversaciones-Dificiles.md) — ✅
+- [06 · La Frontera Ética: persuadir sin manipular](./Columna-VI-Inteligencia-Humana/06-La-Frontera-Etica.md) — ✅ *cierre de la columna*
+
+## 7. Cierre de la colección
+- [**El Arquitecto Jurídico Empresarial**](./EL-ARQUITECTO-JURIDICO-EMPRESARIAL.md) — la síntesis. No es
+  un tratado ni un libro de superación personal: es lo que queda cuando ya sabes todo lo anterior y la
+  pregunta deja de ser *cómo* y pasa a ser **para qué**. Se lee al final y se relee cada dos o tres años.
+
+## 8. Documentos de la Edición Final
+- [**Auditoría de la Edición Final**](./AUDITORIA-EDICION-FINAL.md) — el diagnóstico medido de la obra:
+  qué está terminado, qué era superficial, qué faltaba de verdad, **qué no debía escribirse** y qué
+  vacíos la propia auditoría tuvo que descartar al verificarlos. Rige el trabajo de `RAMA-DEFINITIVA`.
+
+> **Las seis columnas del Proyecto AJE están completas**, y la colección tiene cierre.
 
 ---
 
-*Total Columna I: **52 tratados** (38 en los 5 niveles + 14 en Ramas Esenciales). Índice mantenido a
+*Total Columna I: **53 tratados** (39 en los 5 niveles + 14 en Ramas Esenciales). Índice mantenido a
 mano; actualízalo al crecer.*

@@ -14,16 +14,16 @@
 
 ## 1. Alcance revisado
 
-- **52 tratados** de la Columna I (38 en Niveles I–V + 14 en Ramas Esenciales). *Actualizado en v2.2 con
+- **53 tratados** de la Columna I (39 en Niveles I–V + 14 en Ramas Esenciales). *Actualizado en v2.2 con
   los tratados 12 (Procesal Penal), 13 (Familiar y Sucesiones) y 14 (Agrario), verificados con 47 secciones,
   0 enlaces rotos y markdown sano.*
-- Documentos rectores, Laboratorio (11 ejercicios), Sistema de Repaso.
+- Documentos rectores, Laboratorio (15 ejercicios en 4 tramos), Sistema de Repaso (206 tarjetas), Columnas IV, V y VI.
 
 ## 2. Resultados (✅ = correcto)
 
 | Chequeo | Resultado |
 |---------|-----------|
-| **Integridad de archivos** | ✅ Los 52 tratados completos, sin truncamientos. |
+| **Integridad de archivos** | ✅ Los 53 tratados completos, sin truncamientos. |
 | **Enlaces internos (`.md`)** | ✅ **0 enlaces rotos** (se resolvieron todas las referencias cruzadas). |
 | **Markdown** | ✅ Sano (todos los bloques de código ` ``` ` cerrados). |
 | **Typos** | ✅ Corregido 1 ("doned es" → "donde es", ejercicio 11 del Laboratorio). |
@@ -61,7 +61,7 @@ La pasada detectó **tres formatos** conviviendo. Se **homologan por norma** (ve
   **LGTOC** (5º/76/170/175), **LMV** (1/2/22), **CCF** (1792/1794/1803/2248), **LFT** (47/48/123/132),
   **CPF** (7º/386; **390 = «Derogado»**) y **Ley de Amparo** (1º/5º/107/170). Fechas de vigencia en el README de fuentes.
 - ✅ **Nueva convención ⟳ (apóstrofe de vigencia):** añadida a **cada artículo citado** de toda la biblioteca
-  (**982 marcas**) más un callout explicativo en los **52 tratados**. Recuerda al lector que **✅ verifica a
+  (**982 marcas**) más un callout explicativo en los tratados. Recuerda al lector que **✅ verifica a
   una fecha, no para siempre**, y lo obliga a recontrastar el artículo en su código. Verificado: 0 marcas
   dentro de bloques de código, 0 archivos con markdown roto.
 - ✅ **CORAZÓN CORPORATIVO COMPLETO (v3.3):** 8 leyes más cotejadas verbatim en
@@ -115,7 +115,7 @@ La lista vigente es la de la **Edición Final**, clasificada por severidad en la
 
 | Prioridad | Pendiente | Estado |
 |-----------|-----------|--------|
-| **C-1** | Disolver los tres estratos en los 52 tratados (voz única, sin perder sustancia) | 🟡 |
+| **C-1** | Disolver los tres estratos en los 53 tratados (voz única, sin perder sustancia) | 🟡 **2 de 53** · método validado en la [Auditoría](./AUDITORIA-EDICION-FINAL.md) §7.3.bis |
 | **C-2** | La empresa por dentro (Nivel V-05) | 🟡 |
 | **C-3 / C-4** | Columna VI · Inteligencia Humana y Comunicación Profesional | 🟡 |
 | **C-5** | Elevar la Columna V (Patrimonio) al estándar de la obra | 🟡 |
