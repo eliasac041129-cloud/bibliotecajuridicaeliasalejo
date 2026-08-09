@@ -188,6 +188,31 @@ gobiernan:
   económico de cuánto riesgo retiene cada parte. La negociación de estos límites es, en realidad, una
   **negociación de precio encubierta**.
 
+**Y la razón profunda por la que un SPA es como es: es un contrato incompleto.** Esta es, probablemente,
+la idea teórica más útil de todo el libro, y viene de la economía de los contratos (Grossman, Hart y
+Moore; el programa por el que Hart recibió el Nobel). Su punto es demoledor por lo obvio: **es imposible
+prever todos los estados posibles del mundo** entre la firma y el cierre, y mucho menos en los años
+siguientes. Ningún documento, por largo que sea, puede enumerar todas las contingencias.
+
+Si eso es cierto, entonces un SPA **no busca cubrir todo** —sería una tarea imposible—. Busca algo más
+inteligente: **asignar los derechos de control y el riesgo residual**. Es decir, contestar de antemano
+dos preguntas para todo lo que nadie previó: *¿quién decide?* y *¿quién paga?*
+
+Con esa lente, las cuatro cláusulas de riesgo dejan de ser una lista y se vuelven un sistema con reparto
+de funciones:
+
+| Cláusula | Qué gobierna | Qué riesgo asigna |
+|---|---|---|
+| **Declaraciones y garantías** | El estado del mundo **a la firma** | El riesgo de información asimétrica (Akerlof): operan como un seguro contractual sobre lo que el vendedor sabe y el comprador no |
+| ***Covenants*** | La **conducta** entre firma y cierre | El riesgo de que la empresa se administre mal o se vacíe en el intervalo |
+| **Condiciones de cierre** | Los **hechos** que deben ocurrir | El riesgo de que el mundo cambie antes de cerrar (autorizaciones, MAC) |
+| **Indemnización** (*cap*, *basket*, *survival*, *escrow*) | Las **consecuencias** de que algo resulte falso | El riesgo residual: quién paga, hasta cuánto y con qué respaldo |
+
+> **La consecuencia práctica para tu forma de redactar.** Cuando no puedas prever un escenario —y no vas
+> a poder— deja de intentar describirlo y **decide quién lo soporta**. Un contrato que asigna bien el
+> riesgo de lo desconocido es mejor que uno que intenta enumerarlo y falla. Ahí está la diferencia entre
+> un redactor prolijo y un abogado que entiende lo que está haciendo.
+
 ## 7. Contexto político y regulatorio
 
 La libertad para diseñar los contratos del M&A es amplia (autonomía de la voluntad), pero opera dentro de
@@ -866,6 +891,29 @@ meta simplemente no se cumplió. *Lección:* el *earn-out* cierra la brecha de v
 puerta al litigio; debe redactarse con métricas objetivas, *covenants* de gestión y mecanismos de
 resolución claros.
 
+**Twitter/X – Musk (2022, ~44,000 mdd ⚠️ *verificar*): el caso que demuestra que estas cláusulas no son
+relleno.** Después de firmar, el comprador intentó desistirse invocando información sobre cuentas
+automatizadas. No pudo. El acuerdo contenía una **MAC estrecha** —que no cubría lo que se alegaba— y una
+cláusula de ***specific performance*** (cumplimiento forzoso). Con esa combinación, el tribunal de
+Delaware estaba en posición de **obligarlo a cerrar**, y cerró.
+
+> **La lección, y hay que subrayarla porque es contraintuitiva.** Casi todo el mundo cree que un
+> comprador con suficiente dinero para pagar daños puede arrepentirse de una operación. Es la vieja idea
+> de Holmes sobre el *common law*: el contrato te da la opción de cumplir **o** de pagar por no cumplir
+> (la *efficient breach*). La cláusula de *specific performance* existe precisamente para **eliminar esa
+> opción** —invierte la lógica de Holmes: aquí no se quiere permitir el pago de daños, se quiere forzar
+> el cierre—.
+>
+> Es decir: **la MAC y los remedios deciden si tu cliente puede arrepentirse.** Redactarlos con desgana
+> es regalar o destruir una opción que vale el precio entero de la operación. Y por eso la MAC se
+> negocia palabra por palabra, no por analogía con un precedente.
+
+Y la contraparte doctrinal del caso: *Akorn v. Fresenius* (Del. Ch. 2018) fijó, del otro lado, **cuándo
+sí** se puede abandonar por MAC. El estándar de Delaware es exigente y su criterio útil es el de la
+**durabilidad**: un deterioro que importa es el que afecta al negocio de forma duradera, no una mala
+coyuntura ni un trimestre malo. Entre los dos casos queda dibujada la frontera práctica: la MAC no es una
+puerta de salida cómoda, y quien la redacte pensando que lo es, se equivoca en las dos direcciones.
+
 ## 19. Casos empresariales
 
 **El fondo de PE que negocia el SHA tanto como el precio.** Un fondo invierte en una empresa familiar
@@ -952,6 +1000,38 @@ la tradición jurídica. Tabla comparada esencial para el abogado de M&A:
 el estándar global) pero las **ancla en el derecho mexicano** (penas convencionales, condiciones,
 renuncias válidas, definición de pérdidas compatible con el CCF) para que sean **exigibles aquí**. Importar
 una cláusula sin adaptarla es un error de novato que puede volverla **inejecutable**.
+
+### Los tres re-anclajes que hay que hacer siempre
+
+El SPA es una construcción anglosajona trasplantada, y el trabajo del abogado mexicano **no es
+traducirlo: es re-anclarlo**. Tres puntos concretos donde eso se decide:
+
+**1 · No importes figuras vacías.** La *consideration* —el requisito de contraprestación del *common
+law*— no se exige en el derecho mexicano. Una cláusula que la invoque no añade validez: añade ruido. Aquí
+rige el **artículo 1832 del CCF** ⟳ ✅ *(cotejado verbatim en [`fuentes-legales/`](../../fuentes-legales/CCF-Codigo-Civil-Federal.txt))*:
+*"en los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse,
+sin que para la validez del contrato se requieran formalidades determinadas, fuera de los casos
+expresamente designados por la ley."* Esa amplitud es una **ventaja**: da espacio a la ingeniería
+contractual sin formalismos innecesarios.
+
+**2 · Engánchalo a la compraventa del Código.** El SPA es, en su naturaleza, una compraventa: el
+**artículo 2248 del CCF** ⟳ ✅ define que *"habrá compra-venta cuando uno de los contratantes se obliga a
+transferir la propiedad de una cosa o de un derecho, y el otro a su vez se obliga a pagar por ellos un
+precio cierto y en dinero."* De ahí se sigue algo que el *common law* no tiene: el régimen legal de
+**saneamiento** opera como **piso** debajo de tus *reps*. Es una red de seguridad adicional, y conviene
+no renunciar a ella por descuido al redactar las limitaciones de responsabilidad.
+
+**3 · Cuida cómo se transmiten realmente las acciones.** El **artículo 129 de la LGSM** ⟳ ✅ dispone que
+*"la sociedad considerará como dueño de las acciones a quien aparezca inscrito como tal en el registro"*
+y que deberá inscribir las transmisiones a petición de cualquier titular. Traducción operativa: **el SPA
+no transmite por sí solo la titularidad frente a la sociedad.** Sin endoso y sin inscripción en el libro
+de registro de acciones, tu cliente pagó y no es accionista para efectos societarios. Es uno de los
+errores de cierre más caros y más evitables, y por eso está en el
+[Closing Checklist](../../Columna-III-Laboratorio/06-El-Closing-Checklist.md).
+
+> **La regla, en una línea:** conserva la **lógica** anglosajona de asignación de riesgo y sustituye sus
+> **soportes** por los del derecho mexicano. Quien copia, produce cláusulas inejecutables; quien
+> re-ancla, produce un SPA que gana en Nueva York y se ejecuta en México.
 
 ## 23. Derecho mexicano
 
@@ -1065,6 +1145,29 @@ siguiente generación.
 
 **Quinto: adaptar, no copiar, las cláusulas anglosajonas.** Importar un SPA de Nueva York sin anclarlo en
 el derecho mexicano produce cláusulas **inejecutables**. El abogado de élite domina **ambos** mundos.
+
+**Sexto, y es una crítica dirigida contra nuestra propia profesión.** Los SPA crecen. Cien páginas,
+doscientas, más *schedules* interminables. Cada versión incorpora la cláusula que salvó a alguien en un
+litigio ajeno, y ninguna versión quita nada. El resultado es una **carrera armamentista contractual** con
+tres efectos que conviene mirar de frente:
+
+- **Eleva los costos de transacción** de toda operación, incluidas las que no los justifican.
+- **Favorece a quien tiene más recursos legales**, porque la parte con el equipo más grande impone el
+  documento y su lectura.
+- **Y no está claro que proteja más.** Un contrato que nadie del lado del cliente ha leído completo
+  protege menos de lo que aparenta: los riesgos verdaderamente relevantes se pierden entre los
+  irrelevantes, exactamente como el reporte de *due diligence* de cuatrocientas páginas que criticamos en
+  el [Libro 2](./02-Due-Diligence.md).
+
+La pregunta incómoda, entonces, es si la extensión protege al cliente o transfiere renta al despacho. La
+reacción existe y tiene nombre: el movimiento de **redacción en lenguaje claro** (*plain-language
+drafting*), cuya referencia obligada es **Kenneth Adams**, *A Manual of Style for Contract Drafting*.
+
+*Postura del Consejo:* la extensión no es una virtud ni un defecto en sí. La prueba es funcional y la
+recomendamos como control de calidad: **si no puedes explicarle a tu cliente, en dos minutos, qué hace
+una cláusula y qué pasaría sin ella, esa cláusula no está defendiendo a nadie.** Y una regla de oficio que
+se deriva: la cláusula que se copió "porque venía en el modelo" es la que más probabilidades tiene de
+contradecir a otra del mismo contrato.
 
 ## 29. Debate doctrinal
 
@@ -1401,6 +1504,16 @@ escriben los acuerdos corporativos**.
 - **Código Civil Federal / Código de Comercio (compraventa, saneamiento, vicios del consentimiento,
   penas convencionales).** La base local en la que se **anclan** las cláusulas para que sean exigibles.
 - **Materiales sobre W&I insurance.** Cómo el seguro de reps & warranties reconfigura la indemnización.
+- **Lou Kling & Eileen Nugent, *Negotiated Acquisitions of Companies, Subsidiaries and Divisions*.** La
+  obra de referencia de la práctica transaccional estadounidense: si quieres **una sola** fuente avanzada
+  sobre por qué cada cláusula del SPA está redactada así, es esta.
+- **Kenneth Adams, *A Manual of Style for Contract Drafting*.** El antídoto contra la carrera
+  armamentista del §28: cómo se redacta con precisión y sin grasa. Cámbiale el vicio de copiar modelos.
+- **Grossman, Hart & Moore, sobre derechos de propiedad y contratos incompletos** (*Journal of Political
+  Economy*, 1990, y trabajos previos). El fundamento teórico del §6: por qué ningún contrato puede prever
+  todo y qué hace entonces un buen contrato.
+- **[Banco de Formatos](../../Banco-de-Formatos/)** de esta obra (term sheet, SPA, acta) para el nivel
+  básico: leer un modelo completo antes de estudiar sus cláusulas por separado.
 
 ## 43. Ruta hacia el siguiente libro
 
@@ -1479,59 +1592,6 @@ toman y se blindan las grandes decisiones corporativas**.
 > Bancario y Financiamiento Corporativo** aprenderás **cómo se paga** todo esto —la deuda, las garantías,
 > los covenants financieros, el acquisition finance—, la otra mitad de casi cualquier operación compleja.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-La documentación es donde el abogado **materializa la asignación de riesgo**. El socio sabe que el 90% del valor jurídico de un *deal* vive en cuatro lugares del SPA: **declaraciones y garantías**, **obligaciones de hacer/no hacer (*covenants*)**, **condiciones de cierre** e **indemnización** (con sus *caps*, *baskets*, *survival* y *escrow*). El resto es andamiaje. Y el **SHA** define la convivencia futura: consejo, veto, salidas.
-
-### Doctrina y debate
-- **Función de las *reps & warranties*:** distribuir el riesgo de información (Akerlof) y crear un derecho de indemnización con base contractual, más fuerte que el saneamiento legal.
-- **Debate clásico (planteado por el propio prompt):** *¿deben las reps & warranties sobrevivir cinco años?* Un *survival* largo protege al comprador pero encarece y eterniza el riesgo del vendedor; el mercado tiende a 12-24 meses (salvo fundamentales/fiscales/laborales). No hay respuesta única: **depende del riesgo y del poder de negociación**.
-- ***Sandbagging*:** ¿puede el comprador reclamar por una *rep* falsa que **ya conocía**? Cláusula *pro-sandbagging* vs. *anti-sandbagging*.
-
-### Derecho comparado
-El SPA moderno es una **importación anglosajona**; el reto en México es adaptarlo sin importar figuras vacías (*consideration*) y engancharlo al derecho local (saneamiento, nulidad, art. 1832/2248 CCF; transmisión art. 129 LGSM ⟳). El **R&W insurance** y las cláusulas *MAC*, *earn-out* y *escrow* ya son estándar en el mercado mexicano de *deals* medianos y grandes.
-
-### Caso real
-**Twitter/X–Musk (2022):** Musk quiso invocar información (cuentas *bot*) para desistirse; el SPA tenía cláusulas de *specific performance* y una MAC estrecha. Delaware iba a **forzar el cierre**, y Musk cerró en ~44,000 mdd ⚠️ *verificar*. Lección: la MAC y los *remedies* del SPA no son relleno: deciden si te puedes arrepentir.
-
-### Errores que cuestan millones
-- *Survival* y *cap* mal calibrados; **cesta (*basket*)** ambigua (¿deducible o *tipping*?).
-- SHA sin **mecanismo de salida** (deadlock, *tag/drag*, *put/call*): socios atrapados.
-
-### Preguntas
-- **Criterio:** ¿cinco años de *survival* para las *reps*? Defienda comprador y vendedor.
-- **Entrevista:** explique *cap*, *basket* y *escrow* y cómo interactúan.
-- **Examen:** enuncie las cuatro secciones de mayor riesgo de un SPA.
-
-### Bibliografía por niveles
-- **Básico:** [Banco de Formatos](../../Banco-de-Formatos/) (SPA, term sheet, SHA).
-- **Intermedio:** ABA, *Model Stock Purchase Agreement with Commentary*.
-- **Avanzado:** Adams, *A Manual of Style for Contract Drafting*.
-- **Internacional:** Kling & Nugent, *Negotiated Acquisitions of Companies, Subsidiaries and Divisions*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El SPA es un **contrato incompleto** (Grossman-Hart-Moore): es imposible prever todo estado del mundo entre firma y cierre, y más allá. Por eso el documento no busca "cubrir todo", sino **asignar derechos de control y riesgo residual**: quién decide y quién paga cuando aparece lo no previsto. Las *reps & warranties* son "seguros" contractuales; los *covenants* gobiernan la conducta interina; las condiciones distribuyen el riesgo de que el mundo cambie antes del cierre.
-
-**El debate.** (1) ***Survival* de las *reps***: ¿5 años o 12-24 meses? Un plazo largo protege al comprador pero mantiene al vendedor rehén e infla el precio de reserva; el mercado convergió en plazos cortos salvo *fundamental reps* (título, capacidad) y fiscales/laborales. (2) **MAC "objetiva" vs. "subjetiva"**: ¿cuánto deterioro permite abandonar? Delaware puso el listón altísimo (durabilidad, no coyuntura). (3) ***Sandbagging***. Ninguno tiene respuesta única: dependen del **poder de negociación** y del apetito de riesgo.
-
-**Mirada de AED.** El diseño del *cap*, el *basket* (deducible vs. *tipping*) y el *escrow* es **ingeniería de incentivos**: alinea al vendedor para revelar (si oculta, paga), y limita el riesgo del comprador a lo negociado. La cláusula de *specific performance* elimina la **opción de incumplir** (teoría de la *efficient breach* de Holmes al revés: aquí se quiere forzar el cierre, no permitir el pago de daños).
-
-**Comparado y lección para México.** El SPA es una construcción **anglosajona** trasplantada; su riesgo en México es la **importación de figuras vacías** (una *consideration* que aquí no se exige) o el choque con normas imperativas locales (saneamiento, nulidad, transmisión de acciones art. 129 LGSM ⟳). **Lección:** el buen abogado mexicano no traduce el SPA: lo **re-ancla** al CCF y la LGSM, preservando su lógica de asignación de riesgo.
-
-**Crítica.** La creciente extensión de los SPA (100+ páginas, *schedules* interminables) refleja una **carrera armamentista contractual** que eleva costos de transacción y favorece a quien tiene más recursos legales. ¿Protege realmente o solo transfiere renta a los despachos? El movimiento de *plain-language drafting* (Ken Adams) es la reacción.
-
-**Jurisprudencia y operación real.** *Akorn v. Fresenius* (Del. Ch. 2018) definió cuándo una MAC permite abandonar; el litigio *Twitter v. Musk* (2022) puso a prueba la *specific performance*. En la práctica, el 80% del valor jurídico del *deal* vive en cuatro cláusulas —*reps*, *covenants*, condiciones, indemnización— y en el SHA que rige la convivencia posterior (consejo, veto, *tag/drag*, *deadlock*).
-
-**Para leer más:** ABA, *Model Stock Purchase Agreement with Commentary*; Kenneth Adams, *A Manual of Style for Contract Drafting*; Hart & Moore, *Property Rights and the Nature of the Firm* (JPE, 1990).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*
