@@ -19,6 +19,11 @@ que la trate como un proyecto a medio hacer la empeoraría.
 
 La auditoría arroja tres conclusiones, en orden de importancia:
 
+> **Nota de revisión (2ª pasada).** Este documento se corrigió a sí mismo en un punto: la primera
+> versión declaró el §XV de la instrucción (negociación) enteramente redundante. Una medición más
+> fina demostró que solo lo es su primera mitad. Ver §3.E.bis y C-10. La conclusión 3 de abajo
+> recoge ya la versión corregida.
+
 **1. Existe una bifurcación abierta y peligrosa que hay que resolver antes de escribir una línea.**
 La rama `origin/v5.0-direccion-editorial` (no fusionada) reduce los tratados en ~80 % de su
 extensión bajo la bandera de "consolidar en voz única". El diagnóstico que la motivó es **correcto**;
@@ -31,11 +36,15 @@ Columna I. La obra sabe enseñar Derecho a nivel de tratado y enseña carrera, n
 patrimonio a nivel de folleto. Ahí está el vacío verdadero, y coincide casi exactamente con lo que
 la instrucción de la Edición Final identificó por intuición. Ver §3 y §6.
 
-**3. Los vacíos que la instrucción supone son reales en su mayoría, pero no todos, y uno de ellos
-está mejor cubierto de lo que el autor cree.** La negociación (§XV de la instrucción) **ya está
-desarrollada a nivel de tratado**, incluidos BATNA, ZOPA, anclaje, sesgos, tácticas duras y defensa.
-Escribir un módulo nuevo de negociación sería duplicar. Lo que falta no es la teoría: es el
-**entrenamiento situacional** (§XVI: "la contraparte se echa atrás"). Ver §6.
+**3. Los vacíos que la instrucción supone son reales en su mayoría, pero dos de ellos están mejor
+cubiertos de lo que el autor cree — y uno de esos dos esconde, aun así, la pieza más valiosa de la
+edición.** Las **finanzas** (§IX) están escritas a nivel de tratado: solo faltan EVA, NPV/VPN y el
+marco de creación de valor. La **teoría de negociación** (§XV, 1ª mitad) también: BATNA, ZOPA,
+anclaje, sesgos, tácticas duras y sus defensas están en V-01. Pero la **2ª mitad del §XV** —negociar
+*cap* contra *basket* contra *escrow*, cláusula por cláusula— **no existe en ninguna parte**: la
+teoría está en V-01, las cláusulas en IV-04, y el canje entre ambas en ningún libro. Junto con el
+§XVI ("la contraparte se echa atrás", ausencia total), es lo que convierte saber en criterio.
+Ver §3.E.bis y §6.
 
 ---
 
@@ -129,10 +138,17 @@ existe un lugar donde se explique la empresa como organismo**: cómo decide, có
 piensa un CEO frente a un CFO frente a un dueño familiar. El lector aprende a documentar
 operaciones de una empresa que nunca se le describió por dentro. **Vacío real.**
 
-### C · Finanzas — **●**
-V-02 (Finanzas y Contabilidad para Abogados, 16,401 pal.) y V-03 (Valuación, 16,528 pal.) cubren
-estados financieros, EBITDA, EV/Equity, DCF, WACC, múltiplos, LBO (18 archivos), cap table,
-dilución. **Prácticamente todo el §IX de la instrucción ya está escrito.** No duplicar.
+### C · Finanzas — **●** (con tres micro-huecos)
+V-02 (16,401 pal.) y V-03 (16,528 pal.) cubren la lista del §IX con densidad de tratado. Menciones
+medidas en esos dos libros: `estados financieros` 41 · `EBITDA` 98 · `balance` 30 · `flujo de
+efectivo` 22 · `capital de trabajo` 26 · `liquidez` 25 · `estructura de capital` 21 ·
+`apalancamiento` 20 · `LBO` 16 · `Equity Value` 32 · `Enterprise Value` 10 · `DCF` 108 · `WACC` 49 ·
+`ROIC` 7 · `valuación` 220. **Prácticamente todo el §IX ya está escrito. No duplicar.**
+
+**Tres micro-huecos verificados:** **EVA** (ausente), **NPV/VPN** (4 archivos en toda la obra: se
+usa TIR sin su par), y **"creación de valor" como marco explícito** (0 menciones en V-02, siendo el
+concepto del §IX que más importa a un abogado). Además `cap table` y `dilución` viven en IV-07
+(PE/VC) y no en el libro de finanzas —correcto de ubicación, pero **falta el cruce**.
 
 ### D · Estrategia — **●** (con una salvedad)
 V-04 (16,788 pal.) desarrolla Porter (5 fuerzas, genéricas), estrategia corporativa, teoría de
@@ -147,10 +163,40 @@ contra-anclaje, patrón de concesiones, **siete sesgos aplicados**, manejo de em
 tiempo, *nibbling*, faroles), cierre, *deal design*, *setup*, y **negociación como agente** con el
 problema de agencia del abogado.
 
-> **Consecuencia editorial:** el §XV de la instrucción ("crear entrenamiento en BATNA, ZOPA,
-> anclaje...") **pediría escribir algo que ya existe**. Lo que falta no es la teoría: es el
-> **simulador situacional** del §XVI. Esta es la corrección más importante que la auditoría hace a
-> la instrucción.
+**Pero una segunda medición, más fina, corrigió esta conclusión** (ver §3.E.bis). La primera pasada
+de esta auditoría afirmó que el §XV de la instrucción "pedía escribir algo que ya existe". Es cierto
+solo de su **primera mitad** (el marco teórico). Su **segunda mitad** —aplicar la negociación a
+cláusulas concretas— señala un vacío real que la primera medición no detectó.
+
+### E.bis · El puente que falta: negociar cláusula por cláusula — **○**
+
+La teoría de negociación vive en V-01. Las cláusulas viven en IV-04. **El puente entre ambas no
+existe.** Medición cruzada:
+
+| Término | V-01 (Negociación) | IV-04 (SPA/SHA) |
+|---------|-------------------:|----------------:|
+| `survival` | **0** | 12 |
+| `closing conditions` | **0** | 1 |
+| `salidas de socios` | **0** | 0 |
+| `basket` | **1** | 37 |
+| `cap` | **2** | 21 |
+| `exclusividad` | **1** | 18 |
+| `covenant` | 3 | 33 |
+| `honorarios` | **1** | 0 |
+| `framing` | **0** | 0 |
+| `silencio` (como táctica) | **0** | 2 |
+| `renegociación` | **0** | 1 |
+
+IV-04 trata esas cláusulas como **redacción y asignación de riesgo**; V-01 enseña a negociar **en
+abstracto**. Nadie enseña a **canjear**: qué se cede en el *cap* para ganar en el *basket*, cómo
+interactúan *escrow* y *survival*, qué vale más en la mesa. Además, **framing y el silencio faltan
+de verdad en V-01**.
+
+> **Consecuencia editorial (corregida):** el §XV de la instrucción **no debe rechazarse: debe
+> partirse.** Su marco teórico ya está escrito y no se toca. Su aplicación cláusula por cláusula es
+> un vacío **crítico** (C-10) y probablemente la pieza de mayor valor de esta edición, porque une las
+> dos partes más fuertes de la obra. Lo que sí es 100 % construcción nueva es el §XVI (C-6):
+> `"ya no quiere firmar"` 0 menciones · `"cambió las condiciones"` 0 · `"amenaza con retirarse"` 0.
 
 ### F · Psicología y comportamiento — **◐ tirando a ○**
 "Sesgo" aparece en 8 archivos, Kahneman en 5, anclaje en 6 — **pero casi todo dentro de V-01, como
@@ -276,6 +322,8 @@ cubierto adecuadamente, no se incorpora nada.**
 | **C-7** | **Casos de fracaso** — fraudes, malas adquisiciones, fallos de gobierno, conflictos entre socios, y **cómo reconocerlos antes** | Hay material disperso (Enron 11 archivos, fraude 29) pero **ningún lugar que enseñe el patrón**. Instrucción §XXVI. | Nueva pieza transversal | 10–12k |
 | **C-8** | **El último libro: *El Arquitecto Jurídico Empresarial*** | La obra hoy **termina en Game Theory**. No tiene cierre. Instrucción §XXVIII. Es la pieza que convierte la colección en sistema. | Cierre de la colección | 10–12k |
 | **C-9** | **Corrección de los 7 defectos de integridad** del §5 | Una obra que presume de trazabilidad no puede contradecirse a sí misma en sus propios conteos. | Rectores y apoyo | mínimo |
+| **C-10** | **El puente: negociar el contrato cláusula por cláusula** — precio, honorarios, plazos, responsabilidad, indemnizaciones, R&W, *cap*, *basket*, *survival*, *earn-out*, exclusividad, *closing conditions*, *covenants*, gobierno, salidas de socios — **con el cálculo numérico visible** | Vacío demostrado en §3.E.bis: la teoría está en V-01, las cláusulas en IV-04, **el canje no está en ninguna parte**. Une las dos partes más fuertes de la obra. Instrucción §XV, segunda mitad. | Nueva pieza (Columna I Nivel V o Laboratorio) | 12–14k |
+| **C-11** | **Inserciones puntuales:** *framing* y el silencio en V-01; EVA, NPV/VPN y creación de valor en V-02 | Huecos pequeños en tratados por lo demás completos. Se **insertan**, no se reescribe nada. | V-01, V-02 | +2.5–3k |
 
 ### 6.2 IMPORTANTE — incorporar porque mejora sustancialmente la formación
 
@@ -304,8 +352,8 @@ Esta sección es tan importante como las anteriores: es lo que impide que la obr
 
 | Elemento que la instrucción sugiere | Por qué NO |
 |-------------------------------------|-----------|
-| **Módulo nuevo de negociación** (BATNA, ZOPA, anclaje, concesiones, tácticas — §XV) | **Ya existe a nivel de tratado** en V-01 §14.A–E, incluidas las defensas contra tácticas duras. Escribirlo sería duplicar 16,823 palabras. Lo que falta es el simulador (C-6). |
-| **Módulo nuevo de finanzas para abogados** (§IX) | **Ya existe**: V-02 (16,401 pal.) + V-03 (16,528 pal.) cubren estados financieros, EBITDA, EV/Equity, DCF, WACC, ROIC, NPV, IRR, apalancamiento, cap table, dilución, LBO. |
+| **Reescritura de la teoría de negociación** (BATNA, ZOPA, poder, anclaje, concesiones, reciprocidad, ultimátums, tácticas duras y sus defensas — §XV, primera mitad) | **Ya existe a nivel de tratado** en V-01 §14.A–E. Reescribirlo sería duplicar 16,823 palabras. ⚠️ **Nótese:** esto **no** exime la segunda mitad del §XV, que sí es un vacío crítico (C-10), ni el §XVI (C-6). |
+| **Módulo nuevo de finanzas para abogados** (§IX) | **Ya existe**: V-02 (16,401 pal.) + V-03 (16,528 pal.). Solo se insertan los tres micro-huecos de C-11; no se escribe un módulo. |
 | **Nuevas ramas del Derecho** por completitud enciclopédica | La instrucción misma lo prohíbe (§III). 52 tratados cubren el perfil con exceso. |
 | **Hoja de ruta profesional nueva** (§XXIII) | **Ya existe**: Columna II, Fases 0–5 (21→45 años), con plan de 90 días, guiones y errores por fase. Solo requiere costura con las piezas nuevas. |
 | **Reescritura del Documento Fundacional o del Manifiesto** | Son buenos, honestos y ya incorporan la autocrítica. Solo se amplían para registrar la Columna VI si se aprueba. |
@@ -318,19 +366,46 @@ Esta sección es tan importante como las anteriores: es lo que impide que la obr
 
 ### 7.1 La decisión de forma: ¿dónde viven las piezas nuevas?
 
-Los vacíos C-3, C-4, I-1 e I-2 comparten una naturaleza: **no son Derecho, ni oficio, ni carrera, ni
-patrimonio**. Son la competencia humana del profesional. Meterlos en la Columna IV la
-desnaturalizaría (la Columna IV es el *negocio* del Derecho). Se propone, por tanto, **una sexta
-columna** — la única ampliación estructural de esta edición:
+Los vacíos C-3, C-4, I-1 e I-2 comparten una naturaleza —no son Derecho, ni oficio, ni carrera, ni
+patrimonio— pero **no son una sola cosa**. Se dividen en dos grupos con destinos distintos, y esa
+partición es la decisión de forma de esta edición:
+
+**Grupo A · competencia humana.** Psicología de la decisión, leer personas y situaciones, límites y
+poder personal, comunicación de alto nivel, escucha estratégica, conversaciones difíciles, frontera
+ética. **No depende de tener carrera:** un pasante de 21 años necesita decir "no" y reconocer un
+abuso de inexperiencia el primer día. Es **transversal** —se usa en el Laboratorio, en una
+negociación de la Columna I y hablando con un banquero en la Columna V—. Si vive dentro de la
+Columna IV, cuyo rector ordena leerla "en secuencia" empezando por la pirámide del despacho,
+**llega tarde en el orden de lectura**. → **Columna VI.**
+
+**Grupo B · dirigir personas.** Liderazgo, delegación, feedback, formación de juniors, dirección de
+reuniones, manejo de crisis. **Solo existe si ya hay gente debajo.** Y aquí hay un hueco anterior a
+esta auditoría: el módulo IV-02 es *"Gestionar hacia arriba"* y **no existe su espejo**. Esto no es
+material para una columna nueva: es el módulo que la Columna IV siempre debió tener.
+→ **Columna IV, módulos 08–09.**
+
+Se propone, por tanto, **una sexta columna** (Grupo A) más **dos módulos nuevos en la IV** (Grupo B).
+La sexta columna es la única ampliación estructural de esta edición:
 
 > ### Columna VI · Inteligencia Humana y Comunicación Profesional
 > *¿Cómo entiendo a las personas, me comunico con ellas y sostengo mi posición sin perder mi
 > integridad?*
 
-Es la columna que la instrucción describe en sus §XI–XX sin nombrarla. Y tiene una justificación
+Es la columna que la instrucción describe en sus §XI–XIX sin nombrarla. Y tiene una justificación
 interna: las cinco columnas actuales responden *qué saber* (I), *qué hacer* (II), *cómo producir*
 (III), *cómo construir carrera* (IV) y *cómo administrar la riqueza* (V). **Ninguna responde cómo
 tratar con seres humanos**, que es donde se pierden la mayoría de las operaciones y de las carreras.
+
+**Costos y riesgo, declarados.** Una sexta columna obliga a re-coser `README`, `INDICE_MAESTRO`,
+`AVANCE`, `MAPA_BIBLIOTECA-A-MATERIAS`, el Documento Fundacional, `CONTROL-DE-CALIDAD` y el build de
+`LIBRO/` (asumido en el bloque 12). El **riesgo más alto de toda la edición** es que una columna de
+competencia humana **degenere en autoayuda**, que la instrucción prohíbe en sus §XI y §XXVIII. Tres
+defensas obligatorias: (1) cada módulo se ancla a Ramas-11 (Ética Profesional) y al aparato ya
+escrito; (2) rige la regla anti-pseudociencia sin excepción; (3) **todo módulo aterriza en una
+situación jurídica concreta** —una junta, una cláusula, un cliente— nunca en un consejo de vida.
+
+**Alternativa descartada:** alojarlo como un Tramo de la Columna III. El Laboratorio produce
+**entregables** (memo, term sheet, redline); la competencia humana no es un entregable.
 
 ### 7.2 Arquitectura de cierre
 
@@ -348,15 +423,19 @@ Proyecto AJE · Edición Final
 │
 ├── III · Laboratorio  ····················· 11 → 15 ejercicios
 │     ├── Tramo 4 · NUEVO: simuladores de decisión (C-6)
+│     ├── C-10 · el puente: negociar cláusula por cláusula
 │     └── I-3 · la simulación empresarial permanente extendida
 │
-├── IV · Sistema del Socio  ················ 7 módulos  [ELEVAR · I-1]
-│     └── + liderazgo, delegación, feedback, crisis, formación de juniors
+├── IV · Sistema del Socio  ················ 7 → 9 módulos  [ELEVAR · I-1]
+│     ├── elevación de los 7 existentes al estándar de la obra
+│     ├── 08 · NUEVO · Gestionar hacia abajo: liderazgo, delegación y feedback
+│     │        ← el espejo del módulo 02, ausente desde el origen
+│     └── 09 · NUEVO · Manejo de crisis y formación de juniors
 │
 ├── V · Patrimonio  ······················· 6 módulos  [ELEVAR · C-5]
 │     └── + buró y crédito, seguros, retiro, impuestos personales, errores frecuentes
 │
-├── VI · Inteligencia Humana  ············· NUEVA · 6 módulos
+├── VI · Inteligencia Humana  ············· NUEVA · 6 módulos  [Grupo A]
 │     ├── 01 · Psicología de la decisión (I-2)
 │     ├── 02 · Leer personas y situaciones, sin pseudociencia (C-3)
 │     ├── 03 · Límites, poder personal y firmeza sin agresividad (C-3)
@@ -386,12 +465,12 @@ pueda perder trabajo (Manifiesto §XI.3).
 | **3** | Nivel V-05 · La Empresa por Dentro | C-2 |
 | **4** | Columna V elevada (6 módulos al estándar de la obra) | C-5 |
 | **5** | Columna IV elevada (liderazgo, delegación, feedback, crisis) | I-1 |
-| **6** | Laboratorio Tramo 4 · simuladores de decisión + simulación empresarial extendida | C-6, I-3 |
+| **6** | **El puente: negociar cláusula por cláusula** + Laboratorio Tramo 4 (simuladores "se echa atrás") + simulación empresarial extendida | **C-10**, C-6, I-3 |
 | **7** | Casos de fracaso (pieza transversal) | C-7 |
 | **8** | Disolución de los tres estratos · Nivel IV y V (los 14 insignia primero) | C-1 |
 | **9** | Disolución de los tres estratos · Niveles I–III y Ramas (38 restantes) | C-1 |
 | **10** | *El Arquitecto Jurídico Empresarial* (el último libro) | C-8 |
-| **11** | Capa fina de estrategia + reestructuraciones + Sistema de Repaso ampliado | I-4, I-5, I-6 |
+| **11** | Capa fina de estrategia + reestructuraciones + inserciones puntuales (*framing*, silencio, EVA, NPV, creación de valor) + Sistema de Repaso ampliado | I-4, I-5, **C-11**, I-6 |
 | **12** | Costura final: rectores, índice, mapa, QA, control de calidad re-sellado, LIBRO regenerado | — |
 
 ### 7.4 El estándar de voz (la regla que gobierna cada bloque nuevo)
@@ -420,7 +499,8 @@ de cumplir. Se traduce en cinco reglas operativas verificables:
 - No reescribirá la Columna I.
 - No fusionará `v5.0-direccion-editorial`.
 - No añadirá ramas del Derecho por completitud.
-- No duplicará negociación, finanzas, valuación ni hoja de ruta, que ya están completas.
+- No duplicará la **teoría** de negociación, ni finanzas, ni valuación, ni la hoja de ruta, que ya
+  están completas. Sí escribirá el **puente** que ninguna de ellas contiene (C-10).
 - No cambiará la identidad, la misión ni los seis principios rectores.
 - No tocará `fuentes-legales/` ni el sistema ✅ / ⚠️ / ⟳.
 - No crecerá por volumen: cada palabra nueva responde a un vacío **demostrado** en §3 y clasificado
@@ -441,7 +521,7 @@ La obra se considerará cerrada cuando las catorce se respondan con evidencia, n
 | 5 | ¿Comprende el negocio? | C-2 |
 | 6 | ¿Puede conversar con un CFO? | V-02, V-03 + C-2 |
 | 7 | ¿Comprende las decisiones empresariales? | V-04 + I-4 |
-| 8 | ¿Puede defender una posición? | V-01 + C-6 + Columna VI-03 |
+| 8 | ¿Puede defender una posición? | V-01 + **C-10** + C-6 + Columna VI-03 |
 | 9 | ¿Puede explicar algo complejo? | Laboratorio 07/09/10 + VI-04 |
 | 10 | ¿Reconoce poder y riesgo sin pseudociencia? | VI-02 con la regla científica |
 | 11 | ¿Puede dirigir personas? | I-1 |
@@ -452,10 +532,12 @@ La obra se considerará cerrada cuando las catorce se respondan con evidencia, n
 ---
 
 > **Nota final del Consejo.** La instrucción de la Edición Final acertó en su intuición central: lo
-> que falta no es Derecho. Se equivocó en dos puntos, y esta auditoría los corrige: **la negociación
-> y las finanzas ya están escritas a nivel de tratado** (§6.4), y **existe una rama en vuelo que
-> haría exactamente lo que la instrucción prohíbe** (§4). Corregidos esos dos puntos, el plan de §7
-> cierra el sistema. Después de esta edición no debería hacer falta otra reconstrucción conceptual:
+> que falta no es Derecho. Sobre sus §IX y §XV, la auditoría se pronuncia con un matiz que le costó
+> dos mediciones alcanzar: **las finanzas están escritas** (solo tres micro-huecos, C-11), y de la
+> negociación **la teoría está escrita pero el canje no** (C-10) —la primera versión de este
+> documento afirmó que el §XV entero era redundante, y **se corrigió**: era redundante en su primera
+> mitad y certero en la segunda. Y sobre la forma: **existe una rama en vuelo que haría exactamente
+> lo que la instrucción prohíbe** (§4). Corregidos esos puntos, el plan de §7 cierra el sistema. Después de esta edición no debería hacer falta otra reconstrucción conceptual:
 > solo actualización legislativa, jurisprudencial, tecnológica y de experiencia real.
 
 *Auditoría de la Edición Final · Proyecto AJE · rama `RAMA-DEFINITIVA` · 2026-08. Documento de
