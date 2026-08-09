@@ -120,14 +120,24 @@ no lectura pasiva:
 > borrador del otro despacho y marcarlo**. Es la destreza más usada y la menos enseñada. El Tramo 3
 > es el puente entre redactar (Tramo 1) y negociar de verdad (Tramo 4).
 
-### Tramo 4 · Simuladores de decisión (🟡 en construcción · Edición Final)
+### Tramo 4 · Simuladores de decisión (✅ completo · Edición Final)
 
-| # | Ejercicio | Entregable | Estado |
-|---|-----------|------------|--------|
-| 12 | Negociar el contrato cláusula por cláusula | El canje: *cap* · *basket* · *escrow* · *survival* | 🟡 |
-| 13 | Cuando la contraparte se echa atrás | Decisión bajo presión y reencuadre de la operación | 🟡 |
-| 14 | La vida completa de una empresa (simulación permanente) | El hilo de "Proyecto Caramelo" extendido | 🟡 |
-| 15 | Reconocer el desastre antes de que ocurra | Diagnóstico temprano de fracaso | 🟡 |
+| # | Ejercicio | Qué entrena | Estado |
+|---|-----------|-------------|--------|
+| 12 | [Negociar el contrato cláusula por cláusula](./12-Negociar-el-Contrato-Clausula-por-Clausula.md) | El canje: *cap* · *basket* · *escrow* · *survival*, **con la aritmética a la vista** | ✅ |
+| 13 | [Cuando la contraparte se echa atrás](./13-Cuando-la-Contraparte-se-Echa-Atras.md) | Decidir bajo presión con información incompleta (6 casos) | ✅ |
+| 14 | [La vida completa de una empresa](./14-La-Vida-Completa-de-una-Empresa.md) | El arco de 34 años de Dulces del Valle en 12 decisiones | ✅ |
+| 15 | [Reconocer el desastre antes](./15-Reconocer-el-Desastre-Antes.md) | Los 7 patrones de fracaso y sus señales tempranas | ✅ |
+
+> **Por qué este tramo es distinto de los tres anteriores.** Los Tramos 1 a 3 entrenan **entregables**:
+> cosas que se escriben y se entregan. El Tramo 4 entrena algo que no se entrega y que sin embargo
+> decide las operaciones: **la decisión**. Aquí no hay una respuesta modelo al final de la página; hay
+> información disponible, información faltante, intereses, poder relativo, BATNA y consecuencias. Su
+> anatomía es deliberadamente distinta y su regla de uso es una sola: **escribe tu respuesta antes de
+> leer el análisis**, porque entender un razonamiento ajeno se siente igual que tener criterio y no lo
+> es.
+>
+> Cierra los vacíos **C-6, C-7, C-10 e I-3** de la [Auditoría](../AUDITORIA-EDICION-FINAL.md).
 
 > **Por qué existe este tramo.** Los tramos anteriores entrenan **entregables**: cosas que se
 > escriben y se entregan. El Tramo 4 entrena algo que no se entrega y sin embargo decide las

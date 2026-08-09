@@ -41,8 +41,9 @@ agrega). Cuando la contraparte devuelve tu borrador con su redline, tu trabajo e
 ## 2. El caso: Proyecto Caramelo, la vuelta del SPA
 
 **Contexto (continúa el caso del Laboratorio).** Representas al **comprador** (un fondo) en la
-adquisición de "Dulces Caramelo, S.A.". Enviaste tu borrador del SPA. El abogado del **vendedor** te
-devuelve su redline sobre tres cláusulas clave. Tu tarea: **marcar su marcado**.
+adquisición de **Dulces del Valle, S.A. de C.V.** ("Proyecto Caramelo"). Enviaste tu borrador del SPA.
+El abogado del **vendedor** te devuelve su redline sobre tres cláusulas clave. Tu tarea: **marcar su
+marcado**.
 
 A continuación, el texto **original tuyo** (comprador) y el **cambio del vendedor**. Analiza cada uno
 **antes** de leer la solución comentada (sección 4).
