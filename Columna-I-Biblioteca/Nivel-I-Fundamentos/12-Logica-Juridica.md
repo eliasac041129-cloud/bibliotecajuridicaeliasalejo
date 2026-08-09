@@ -242,6 +242,30 @@ a cálculo: la decisión jurídica combina lógica, argumentación y valoración
   justificación). La **lógica no monótona/derrotable** modela mejor el razonamiento jurídico
   real.
 
+
+### ¿El fallo es deducción o decisión?
+
+El formalismo —la *jurisprudencia de conceptos*— veía la sentencia como un silogismo: premisa mayor la
+norma, premisa menor el hecho, conclusión el fallo. El realismo estadounidense respondió con dureza.
+**Holmes** lo dijo en la frase más citada de la materia: *la vida del derecho no ha sido lógica, sino
+experiencia*. Y **Llewellyn** mostró que los cánones de interpretación vienen en pares opuestos, de modo que
+casi siempre hay uno disponible para justificar cualquiera de las dos soluciones.
+
+La síntesis razonable: **la lógica disciplina la decisión, no la sustituye.** En los casos fáciles el
+silogismo describe bien lo que ocurre; en los difíciles, la elección de premisas es el trabajo real —y eso es
+justificación externa, del [Libro 11](./11-Argumentacion-Juridica.md)—.
+
+**Y una precisión técnica que vale la pena tener:** la **lógica deóntica** (von Wright) mostró que el
+razonamiento con normas tiene reglas **propias**, distintas de la lógica de proposiciones. Las proposiciones
+son verdaderas o falsas; las normas son **obligatorias, prohibidas o permitidas**, y de una norma no se sigue
+un hecho ni de un hecho se sigue una norma. Confundir los dos planos —deducir el deber ser del ser— es una
+de las falacias más frecuentes en los escritos jurídicos.
+
+> **Por qué el rigor lógico se paga solo, en términos muy prácticos:** **reduce el costo del error.** Un
+> dictamen con un salto lógico no se cae por elegancia: se cae en la audiencia, o peor, se descubre cuando el
+> cliente ya actuó. Y detectar la falacia del adversario es, con frecuencia, más rentable que construir un
+> argumento nuevo — porque desmontar una premisa deja sin sustento todo lo que colgaba de ella.
+
 ## 7. Autores más importantes
 
 - **Aristóteles:** lógica formal, silogismo, principios lógicos.
@@ -667,60 +691,6 @@ Empresa Familiar     ★★☆☆☆
 *La lógica jurídica es el **esqueleto invisible** de todo documento y argumento coherente: garantiza que el
 razonamiento sea válido.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-La lógica es el **control de calidad** del razonamiento jurídico: garantiza que la conclusión se siga de las premisas y detecta cuándo la contraparte hace trampa (falacias). El socio la usa para **auditar su propio dictamen** antes de firmarlo: ¿la premisa mayor (norma) es correcta?, ¿la menor (hechos) está probada?, ¿la conclusión realmente se deduce?
-
-### Doctrina y debate
-- **Silogismo jurídico y subsunción:** premisa mayor (norma), premisa menor (hecho), conclusión (fallo). Su límite: los "casos difíciles" (Hart) donde la subsunción no basta y entra la valoración.
-- **Lógica deóntica (von Wright):** la lógica de las normas (obligatorio, prohibido, permitido), distinta de la lógica de proposiciones (verdadero/falso).
-- **Ulrich Klug (*Lógica jurídica*):** aplicación de la lógica formal al derecho.
-- **Debate:** ¿el fallo judicial es una *deducción* o una *decisión* revestida de lógica? (formalismo vs. realismo).
-
-### Derecho comparado
-El razonamiento **silogístico** domina el discurso judicial continental; el **analógico** (de caso a caso) domina el anglosajón. Ambos comparten la exigencia de **no incurrir en falacias** (petición de principio, falso dilema, *ad hominem*, pendiente resbaladiza), armas frecuentes —y detectables— en la negociación y el litigio.
-
-### Caso real
-**Errores de subsunción en materia fiscal:** encuadrar un supuesto en la norma equivocada (p. ej. tratar como "gasto deducible" lo que la ley clasifica como "no deducible", art. 28 LISR ⟳) es un error lógico con consecuencia millonaria: crédito fiscal, recargos y multas. La lógica jurídica **evita el error antes de la auditoría**.
-
-### Errores que cuestan millones
-- **Falacia de afirmación del consecuente** al interpretar una norma condicional.
-- Subsumir hechos **no probados** (premisa menor sin sustento).
-
-### Preguntas
-- **Criterio:** ¿la sentencia se "deduce" o se "decide"?
-- **Entrevista:** identifique la falacia: "todo fraude implica engaño; hubo engaño; luego hubo fraude".
-- **Examen:** explique la estructura del silogismo jurídico con un ejemplo.
-
-### Bibliografía por niveles
-- **Básico:** Copi & Cohen, *Introducción a la lógica*.
-- **Intermedio:** Ulrich Klug, *Lógica jurídica*.
-- **Avanzado:** von Wright, *Norma y acción*.
-- **Internacional:** Alchourrón & Bulygin, *Sistemas normativos*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La lógica jurídica es el **control de validez** del razonamiento: garantiza que la conclusión se siga de las premisas y detecta las falacias del adversario. No garantiza la verdad de las premisas (eso es interpretación y prueba), pero sí la **corrección formal** del paso de premisas a conclusión —el esqueleto de todo dictamen y sentencia.
-
-**El debate.** **¿El fallo es deducción o decisión?** El formalismo (jurisprudencia de conceptos) lo veía como subsunción silogística pura; el realismo (Holmes, Llewellyn) respondió que el juez **decide primero** y razona después ("la vida del derecho no ha sido lógica, sino experiencia"). Síntesis: la lógica disciplina la decisión, pero no la sustituye en los casos difíciles. La **lógica deóntica** (von Wright) mostró que la lógica de las normas (obligatorio/prohibido/permitido) tiene reglas propias, distintas de la lógica de proposiciones (verdadero/falso).
-
-**Mirada de AED / pragmática.** El rigor lógico **reduce el costo del error**: auditar el silogismo (¿la premisa normativa es correcta?, ¿la fáctica está probada?, ¿la conclusión se deduce?) antes de firmar un dictamen evita responsabilidad profesional y pleitos perdidos. Detectar la falacia del contrario es un ahorro directo.
-
-**Comparado y lección para México.** El razonamiento **silogístico** domina el discurso judicial continental; el **analógico**, el anglosajón. **Lección:** dominar ambos —y las falacias frecuentes (petición de principio, falso dilema, pendiente resbaladiza, *ad hominem*)— es indispensable en negociación y litigio internacional, donde se argumenta caso a caso.
-
-**Crítica.** El "silogismo judicial" es criticado por **irrealista** (esconde la valoración); la lógica formal, por insuficiente para el razonamiento práctico (de ahí la argumentación y la retórica). La lógica es necesaria pero no suficiente.
-
-**Jurisprudencia y operación real.** Los **errores de subsunción** (encuadrar un hecho en la norma equivocada, p. ej. tratar como deducible lo no deducible, art. 28 LISR ⟳) tienen consecuencia millonaria. En la práctica, la lógica es el "control de calidad" que se aplica al propio dictamen antes de entregarlo.
-
-**Para leer más:** von Wright, *Norma y acción*; Klug, *Lógica jurídica*; Alchourrón & Bulygin, *Sistemas normativos*; Holmes, *The Common Law* (intro).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

@@ -236,6 +236,44 @@ descontado), el método de valuación estrella (Nivel V).
   order* dicen que sí (impuestos, costos de quiebra, asimetría). Define decisiones de
   financiamiento.
 
+
+### El artículo que fundó el análisis económico del derecho
+
+Si esta materia tiene un punto de origen identificable, es **Coase (1960)** y su razonamiento sobre el
+costo social. Su idea llega en dos movimientos y el segundo es el que importa.
+
+**Primer movimiento (el que se cita mal):** si los **costos de transacción fueran cero**, la asignación
+inicial de derechos sería irrelevante para la eficiencia, porque las partes negociarían hasta alcanzar el
+resultado más eficiente por sí solas.
+
+**Segundo movimiento (el verdadero punto):** **los costos de transacción no son cero.** Y por lo tanto la
+asignación inicial de derechos **sí importa enormemente**, y la tarea del derecho es **minimizar esos
+costos** —es decir, facilitar que los recursos lleguen a quien más valor les da—.
+
+> Mucha gente cita a Coase para decir que el derecho no importa. Coase demostró exactamente lo contrario:
+> **el derecho importa porque el mundo tiene fricción.** Cada registro público, cada regla estándar, cada
+> tipo contractual y cada vía ejecutiva es una reducción de fricción.
+
+Sobre esa base se construyó el resto: **Calabresi** con el *cheapest cost avoider* —asignar el riesgo a
+quien puede prevenirlo más barato, ver
+[Responsabilidad Civil](../Nivel-II-Derecho-Civil-Profundo/03-Responsabilidad-Civil.md)— y **Posner** con la
+tesis de que el *common law*, por evolución, tiende a resultados eficientes.
+
+### Las dos críticas que hay que conocer
+
+**La crítica conductual** (Kahneman, Thaler, Sunstein): los agentes **no son racionales** en el sentido que
+el modelo supone —hay sesgos, heurísticas, aversión a la pérdida—. Si eso es cierto, a veces un **empujón**
+(*nudge*) o un cambio en la regla por defecto logra más que una prohibición. Toda esta línea se desarrolla
+en el [módulo 01 de la Columna VI](../../Columna-VI-Inteligencia-Humana/01-Psicologia-de-la-Decision.md),
+aplicada a tus propias decisiones.
+
+**La crítica normativa, que es más de fondo:** ¿es la **eficiencia** el fin del derecho, o solo **un valor
+entre otros**? La distribución, la dignidad y la igualdad no se reducen a eficiencia, y un análisis que solo
+optimiza puede justificar resultados injustos. *Postura del Consejo:* el AED es una **herramienta de
+diagnóstico extraordinariamente potente y no un criterio último de justicia**. Sirve para predecir qué hará
+una norma; no decide qué debe querer una sociedad. Usarlo así —como lente, no como brújula moral— es lo que
+distingue a un abogado sofisticado de un tecnócrata.
+
 ## 7. Autores más importantes
 
 - **Adam Smith, David Ricardo, Alfred Marshall:** fundamentos de la microeconomía.
@@ -675,65 +713,6 @@ Empresa Familiar     ★★★★☆
 *La economía es el **segundo idioma** del corporativo de élite: sin ella, no se entiende el negocio detrás
 del derecho.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El cliente no piensa en artículos: piensa en **flujo de caja, riesgo y retorno**. El abogado que "traduce" derecho a economía —y viceversa— se vuelve indispensable porque **habla el idioma del negocio**. Ante cada cláusula, el socio se pregunta: *¿qué incentivo crea?, ¿qué costo de transacción reduce?, ¿qué riesgo asigna y a quién?*
-
-### Doctrina y debate
-- **Análisis Económico del Derecho (AED):** **Coase** (*The Problem of Social Cost*, 1960): con costos de transacción cero, la asignación inicial de derechos no importa (teorema de Coase); como no son cero, **el derecho debe minimizar los costos de transacción**.
-- **Calabresi** (*The Cost of Accidents*): asignar el riesgo a quien puede evitarlo al menor costo (*cheapest cost avoider*).
-- **Posner:** la eficiencia como criterio explicativo del *common law*.
-- **Crítica (Behavioral Law & Economics):** Kahneman, Thaler, Sunstein: los agentes no son perfectamente racionales; existen sesgos. Debate: ¿el AED describe el derecho o solo una parte?
-
-### Derecho comparado
-El AED nació en **Chicago** y permea la regulación estadounidense (competencia, responsabilidad, contratos). Europa y México lo adoptan con matices, equilibrándolo con valores no eficientistas (dignidad, redistribución). Un abogado de competencia **no puede** ignorar el AED: es el lenguaje de la autoridad y de los economistas del caso.
-
-### Finanzas mínimas para el jurista
-- **Valor presente neto (VPN/NPV)** y **valor del dinero en el tiempo**: un peso hoy vale más que uno mañana.
-- **Costo de oportunidad**: toda decisión renuncia a la mejor alternativa.
-Estos dos conceptos bastan para entender por qué el cliente prefiere cobrar hoy y pagar después, y para diseñar calendarios de pago y *earn-outs*.
-
-### Caso real
-**Externalidades y el caso *Bayer–Monsanto*:** tras adquirir Monsanto (2018) por ~63,000 mdd ⚠️ *verificar cifra*, Bayer heredó los litigios por el herbicida glifosato: una **externalidad** (daño a terceros) que el mercado no había "precificado" en el *due diligence*. Lección: el pasivo ambiental es un costo económico que el derecho traslada.
-
-### Errores que cuestan millones
-- Redactar cláusulas que crean **incentivos perversos** (p. ej. penas tan bajas que conviene incumplir).
-- Ignorar el **costo de oportunidad** del tiempo en un litigio o cierre.
-
-### Preguntas
-- **Criterio:** ¿el análisis económico del derecho explica *de verdad* el derecho, o solo lo que conviene al mercado?
-- **Entrevista:** explique el teorema de Coase a un cliente en una frase.
-- **Examen:** defina costo de transacción y dé dos ejemplos jurídicos.
-
-### Bibliografía por niveles
-- **Básico:** Cooter & Ulen, *Derecho y economía*.
-- **Intermedio:** Posner, *El análisis económico del derecho*.
-- **Avanzado:** Coase, *The Firm, the Market and the Law*; Calabresi, *The Cost of Accidents*.
-- **Internacional:** Kahneman, *Pensar rápido, pensar despacio*; Thaler & Sunstein, *Nudge*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El abogado corporativo asesora decisiones económicas; ignorar la economía es asesorar a ciegas. El **Análisis Económico del Derecho** (AED) surgió para responder una pregunta que la dogmática no se hacía: *¿qué efectos —incentivos, costos, eficiencia— produce esta norma o cláusula?* Convierte al derecho de un sistema de conceptos en un sistema de **consecuencias**.
-
-**El debate (fundacional).** **Coase (1960):** con costos de transacción cero, la asignación inicial de derechos es irrelevante para la eficiencia (las partes negocian); como no son cero, **el derecho debe minimizar los costos de transacción**. **Calabresi:** asignar el riesgo al *cheapest cost avoider*. **Posner:** el *common law* tiende a ser eficiente. **Crítica conductual (Kahneman, Thaler, Sunstein):** los agentes no son racionales (sesgos, heurísticas); el "empujón" (*nudge*) puede ser mejor que la prohibición. Debate normativo: ¿la **eficiencia** es el fin del derecho, o solo un valor entre otros (justicia, dignidad, distribución)?
-
-**Mirada de AED (aplicada).** Todo instrumento jurídico se lee como incentivo: la responsabilidad limitada abarata el capital; los *covenants* controlan el conflicto de agencia; las *reps & warranties* revelan información; la garantía real reduce el costo del crédito. El jurista que "traduce" derecho a incentivos habla el idioma del cliente y del regulador.
-
-**Comparado y lección para México.** El AED nació en **Chicago** y permea el derecho estadounidense (antitrust, responsabilidad, regulación); Europa y México lo integran matizado con valores no eficientistas. **Lección:** en competencia, regulación y financiero, el AED **ya es el lenguaje de la autoridad**; ignorarlo es litigar en un idioma que no se habla.
-
-**Crítica.** El AED es criticado por su supuesto de **racionalidad** (desmentido por la economía conductual), por reducir la justicia a eficiencia y por ignorar la **distribución** (una solución "eficiente" puede ser injusta). La respuesta: es una herramienta poderosa, no una teoría total del derecho.
-
-**Jurisprudencia y operación real.** El **teorema de Coase** ilumina por qué se pactan indemnidades y *escrows* (asignar el riesgo al que mejor lo soporta). **Bayer–Monsanto/glifosato** es una externalidad que el DD no "precificó". En la práctica, pensar en incentivos evita cláusulas que invitan a incumplir.
-
-**Para leer más:** Coase, *The Problem of Social Cost* (1960); Calabresi, *The Cost of Accidents*; Cooter & Ulen, *Derecho y economía*; Kahneman, *Pensar rápido, pensar despacio*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*
