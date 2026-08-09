@@ -153,6 +153,24 @@ El **precio** se determina por **valuación** (múltiplos, DCF — Libro 10 Nive
 fusiones **destruyen** valor (sinergias sobreestimadas, mala integración): por eso la estrategia y la
 due diligence son críticas.
 
+**La teoría que explica por qué esto existe.** Detrás de todo lo anterior hay una idea económica
+precisa, y conviene tenerla nombrada: el **mercado por el control corporativo** (Manne, 1965). Los
+activos productivos deben migrar hacia quien los administra mejor, y la adquisición —amistosa u
+hostil— es el mecanismo que reasigna el control cuando un equipo directivo destruye valor. Esa es la
+justificación económica del M&A y, al mismo tiempo, la razón por la que las defensas anti-OPA son
+polémicas: si bloquean la reasignación del control, protegen al directivo y no al accionista
+(§29).
+
+**Y el SPA, leído como instrumento económico.** En clave de Coase, el contrato de compraventa de
+acciones es un **dispositivo para reducir costos de transacción** en un mundo de información
+asimétrica (Akerlof): el comprador no puede saber todo lo que el vendedor sabe. Cada cláusula que
+estudiarás en el Libro 4 de este nivel es, vista así, una **asignación de riesgo al que mejor lo
+soporta o mejor lo conoce**: las *reps & warranties* trasladan el riesgo de información al que la
+tiene; el *escrow* resuelve la cobrabilidad; el *earn-out* reparte la incertidumbre sobre el futuro; y
+la cláusula de *specific performance* elimina la opción del comprador de incumplir pagando daños —la
+opción que Holmes describía como el corazón del contrato en el *common law*—. **Ningún término de un
+SPA es neutral: cada uno es un incentivo diseñado.**
+
 ## 7. Contexto político
 
 El M&A se desarrolla bajo el escrutinio del **poder público** (Libro 3, Nivel I):
@@ -511,9 +529,21 @@ ese riesgo con inteligencia** (reps, indemnización, escrow, condiciones). El ab
   venta/OPA (Libro 7 Nivel III); derecho vivo del M&A.
 - **M&A en México (estilizado):** consolidaciones en banca, telecom, alimentos y retail; operaciones
   cross-border con fondos globales; el papel de la COFECE en concentraciones relevantes.
+- **Disney–Fox (2019, ~71,300 mdd ⚠️ *verificar*):** guerra de ofertas entre Disney y Comcast por los
+  activos de Fox. Es la lección maestra sobre **proceso competitivo**: cuando hay subasta, el deber del
+  consejo de maximizar precio (*Revlon*) deja de ser una abstracción y se vuelve el motor de la
+  operación.
+- **Microsoft–Activision (2023, ~69,000 mdd ⚠️):** mostró que en las grandes operaciones el riesgo que
+  puede matar el *deal* hoy **no es financiero, es regulatorio** —CMA británica, FTC, Comisión
+  Europea—, y que el calendario de autorizaciones es la variable crítica del cronograma (§14.E).
+- **Musk–Twitter (2022, ~44,000 mdd ⚠️):** el intento de abandonar la operación después de firmar y el
+  litigio en Delaware que lo forzó a cerrar. **Es el caso que hay que tener en la cabeza al redactar
+  una MAC y una cláusula de *specific performance*:** demostró que, bien redactadas, no dejan salida —y
+  que ahí es donde se decide si el comprador puede arrepentirse—.
 
 > *Nota de método (Manifiesto XI.5):* los casos se exponen por su valor formativo; verificar datos y
-> jurisprudencia vigente antes de invocarlos.
+> jurisprudencia vigente antes de invocarlos. **Las cifras de una operación se discuten durante años:**
+> las marcas ⚠️ están puestas a propósito.
 
 ## 19. Casos empresariales
 
@@ -567,6 +597,7 @@ Una operación de M&A **ensambla todos los libros**:
 | **España / UE** | Directiva de OPAs (*takeover bids*); control de concentraciones (Comisión Europea + autoridades nacionales); *due diligence* y SPA de estilo europeo-anglosajón. |
 | **Estados Unidos** | **El referente y el motor del M&A global:** SPA/Merger Agreement estandarizados; **Delaware** (deberes fiduciarios, Revlon/Unocal); control antitrust (DOJ/FTC, **Hart-Scott-Rodino**); SEC y tender offers (Williams Act); R&W Insurance maduro. |
 | **Delaware** | **La capital del M&A:** su *corporate law* y la Court of Chancery definen los estándares de los deberes del consejo, las defensas anti-OPA y la *appraisal* (derecho de los disidentes a valuación). |
+| **Reino Unido** | **El modelo opuesto al de Delaware, y por eso el más instructivo:** el *Takeover Code* y su **regla de no-frustración** trasladan la decisión a los **accionistas** —el consejo no puede desplegar defensas sin voto de la junta—, y un **Takeover Panel** resuelve con rapidez extrajudicial. |
 | **UNIDROIT/OCDE** | Principios de gobierno corporativo (deberes del consejo en M&A); soft law sobre adquisiciones. |
 | **UNCITRAL** | Marco de comercio internacional y arbitraje (disputas post-closing). |
 | **CISG** | No aplica a la compra de acciones/empresa; sí a la compraventa de bienes/activos en algunos casos. |
@@ -579,6 +610,21 @@ Una operación de M&A **ensambla todos los libros**:
 > fiduciarios y las defensas. Por eso el abogado de M&A debe dominar **inglés jurídico** y la técnica
 > anglosajona, además del derecho local. (Los estándares de Delaware se profundizan en el Libro 3 y 6
 > del Nivel IV.)
+
+**Las dos soluciones al mismo problema, y qué debería aprender México.** Delaware y el Reino Unido
+enfrentaron la misma pregunta —*¿quién decide si la empresa se vende: el consejo o los accionistas?*— y
+la resolvieron al revés. Delaware la dejó en el consejo y **disciplinó su conducta** con deberes
+fiduciarios afinados caso por caso (*Van Gorkom*: informarse; *Revlon*: maximizar precio en un cambio
+de control; *Unocal*: defensas proporcionales), lo que da previsibilidad a cambio de litigio. El Reino
+Unido se la quitó al consejo: con la **regla de no-frustración**, quien decide es la junta, y un panel
+especializado resuelve en días lo que en Delaware tarda años de *discovery*.
+
+México no tiene ninguno de los dos: carece del cuerpo jurisprudencial denso de Delaware y de un
+*Takeover Panel*, y su régimen de OPA (LMV ⟳) es más formalista que sustantivo. **La lección
+comparada, dicha como postura del Consejo:** un mercado de control eficiente necesita **o** deberes
+fiduciarios densos y exigibles, **o** una autoridad ágil que decida rápido. Tener las dos cosas a
+medias es la peor combinación, porque el minoritario no tiene ni jurisprudencia que invocar ni foro
+que resuelva a tiempo.
 
 ## 23. Derecho mexicano
 
@@ -602,6 +648,24 @@ El M&A en México **integra** múltiples cuerpos (no hay "ley de M&A"):
 > Verificar vigencia antes de citar.
 - **Deberes fiduciarios del consejo (LMV / comparado Delaware):** Revlon (venta de control), Unocal
   (defensas), Van Gorkom (deber de informarse) — referencia del M&A (Libro 7 Nivel III).
+
+> **Cómo se convierte una sentencia de 1985 en tres documentos de tu escritorio.** Esto es lo que
+> distingue leer jurisprudencia de usarla. *Smith v. Van Gorkom* (Del. 1985) declaró responsables a
+> consejeros que aprobaron una venta **sin informarse suficientemente**: dos horas de junta, sin
+> valuación, sin leer el acuerdo. La consecuencia práctica no fue doctrinal, fue **operativa**, y sigue
+> viva en cada operación que documentas:
+>
+> - **El *fairness opinion*** del banco de inversión: existe, en buena medida, para acreditar que el
+>   consejo se informó sobre el precio.
+> - **El acta detallada del consejo**, con las alternativas consideradas, la información recibida y las
+>   razones: es el registro del proceso, no del resultado. Es la misma lógica del sesgo retrospectivo
+>   del [módulo 01 de la Columna VI](../../Columna-VI-Inteligencia-Humana/01-Psicologia-de-la-Decision.md).
+> - **La cláusula de *fiduciary out***: permite al consejo atender una oferta superior sin incumplir el
+>   contrato, precisamente porque *Revlon* le exige maximizar precio.
+>
+> Cuando levantes el acta de un consejo que aprueba una adquisición
+> ([Laboratorio 08](../../Columna-III-Laboratorio/08-Actas-Asambleas-y-Resoluciones.md)), estás
+> ejecutando *Van Gorkom* aunque no lo cites.
 - **Concentraciones (COFECE) y *gun jumping*:** resoluciones que sancionan cerrar antes de la
   autorización o no notificar.
 - **Indemnización y reps & warranties:** criterios sobre interpretación de las *reps*, materialidad,
@@ -638,6 +702,16 @@ El M&A en México **integra** múltiples cuerpos (no hay "ley de M&A"):
 - **Jurisprudencia y doctrina de Delaware** (deberes fiduciarios, defensas).
 - ***Barbarians at the Gate* (Burrough & Helyar):** lectura narrativa imprescindible para entender la
   dinámica humana y financiera de los grandes *deals*.
+- **Gilson & Black, *The Law and Finance of Corporate Acquisitions*:** el puente entre el derecho y las
+  finanzas del M&A. Es la obra que hay que leer cuando ya dominas la documentación y quieres entender
+  **por qué** cada término existe.
+- **Depamphilis, *Mergers, Acquisitions and Other Restructuring Activities*:** el manual de nivel
+  intermedio, con el aparato financiero y de proceso.
+- **Wachtell, Lipton, *Takeover Law and Practice*** (memorándum anual): el estado del arte de la
+  práctica estadounidense, actualizado cada año. Léelo para saber qué está cambiando.
+- **Los artículos fundacionales**, si quieres ir a la fuente: Manne (1965) sobre el mercado por el
+  control corporativo; Roll (1986) sobre la hipótesis de la *hubris*; Jensen sobre costos de agencia;
+  Bradley, Desai y Kim sobre sinergias.
 
 ## 28. Opiniones críticas (postura del Consejo)
 
@@ -655,8 +729,34 @@ El M&A en México **integra** múltiples cuerpos (no hay "ley de M&A"):
 
 - **Share deal vs. asset deal:** ¿prevalece la simplicidad (share) o el aislamiento de pasivos (asset)?
   El debate se decide caso a caso (pasivos, contratos, fiscal, regulatorio).
-- **¿El M&A crea o destruye valor?** Evidencia mixta: los **vendedores** suelen capturar la prima; los
-  **compradores** a menudo pagan de más. Implicación: el abogado debe ser realista sobre las sinergias.
+- **¿El M&A crea o destruye valor?** Es el debate central de la disciplina y tiene tres posiciones con
+  nombre propio, que conviene poder citar:
+  1. **La hipótesis de las sinergias** (Bradley, Desai y Kim): el comprador paga una prima porque el
+     conjunto vale legítimamente más que las partes. La prima es el precio de un valor real.
+  2. **La hipótesis de agencia, o del "imperio"** (Jensen): muchas adquisiciones benefician al tamaño,
+     la relevancia y la remuneración del equipo directivo, **no al accionista** que las paga. Es un
+     problema de agencia, no de estrategia.
+  3. **La hipótesis de la *hubris*** (Roll, 1986): los directivos sobreestiman su propia capacidad de
+     extraer valor y por eso pagan de más. En una subasta, el que gana suele ser el que más se equivocó
+     al alza — la *maldición del ganador*.
+
+  **La evidencia es incómoda y bastante consistente:** el accionista del *target* casi siempre gana
+  (captura la prima); el del **comprador** con frecuencia pierde. La síntesis que hoy predomina: el
+  M&A crea valor **agregado**, pero se reparte de forma desigual y todo depende de la **disciplina de
+  precio**. La implicación para ti es directa y define tu utilidad profesional: **el abogado aporta
+  escepticismo informado, no entusiasmo por cerrar** (§28) — y tiene que hacerlo sabiendo que su propio
+  incentivo suele estar del lado del cierre
+  ([Columna VI, módulo 01](../../Columna-VI-Inteligencia-Humana/01-Psicologia-de-la-Decision.md)).
+
+  > **La pregunta de criterio que deja abierta este debate**, y que deberías poder contestar en una
+  > entrevista: *si la mayoría de las adquisiciones destruye valor para el comprador, ¿por qué siguen
+  > ocurriendo?* Las tres hipótesis dan tres respuestas distintas, y las tres son parcialmente ciertas.
+
+- **¿Disciplina o cortoplacismo?** El gran intercambio entre **Bebchuk y Lipton** sobre el activismo
+  accionario: ¿las adquisiciones y los inversionistas activistas **disciplinan** a un *management*
+  acomodado, o lo obligan a sacrificar inversión de largo plazo para sostener el precio de la acción?
+  No hay consenso, y no es una discusión académica: es la conversación real que vas a tener con un
+  consejo bajo presión. Un abogado que solo conoce un lado del argumento asesora mal.
 - **Deberes del consejo: shareholder vs. stakeholder en una venta.** ¿Debe el consejo buscar solo el
   mejor precio para los accionistas (Revlon) o también atender a empleados/comunidad/ESG?
 - **Defensas anti-OPA:** ¿protegen a los accionistas o atrincheran a los directivos? (Unocal, poison
@@ -1002,55 +1102,9 @@ el M&A domina el lenguaje en el que se toman las grandes decisiones empresariale
 
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-Una fusión o adquisición no se decide por su lógica jurídica: se decide por **creación de valor** (sinergias, control, escala) y se ejecuta gestionando **riesgo e incertidumbre**. El socio piensa en tres tiempos —*signing*, periodo intermedio y *closing*— y en una pregunta obsesiva: *¿qué puede matar el deal entre la firma y el cierre?* De ahí nacen las condiciones, la cláusula **MAC/MAE** y las obligaciones de comportamiento del vendedor.
-
-### Doctrina y debate
-- **¿Por qué existen las fusiones?** Sinergias (Bradley, Desai, Kim), teoría del **imperio del *management*** (compras que benefician al ejecutivo, no al accionista) y **hubris** (Roll): muchas M&A destruyen valor. Debate: ¿la mayoría de las adquisiciones crean o destruyen valor para el comprador?
-- **Deberes fiduciarios en la venta de control** (Delaware): deber *Revlon* de maximizar precio; defensas anti-OPA (*poison pill*, *Unocal*).
-
-### Derecho comparado
-El *playbook* mundial de M&A es de **Delaware** y la *Big Law* de Nueva York/Londres (Kirkland, Skadden, Latham, White & Case, *Magic Circle*). México adapta ese *toolkit* (SPA, SHA, MAC) al derecho local (LGSM, LMV, LFCE ⟳). En operaciones públicas, las OPAs se rigen por la LMV y la CNBV.
-
-### Caso real
-**Disney–Fox (2019, ~71,300 mdd ⚠️ *verificar*):** guerra de ofertas Disney vs. Comcast por los activos de Fox; ejemplo maestro de **subasta, deber fiduciario de maximizar valor y aprobación antimonopolio**. **Microsoft–Activision (2023, ~69,000 mdd ⚠️):** mostró que hoy el verdadero riesgo del *deal* es **regulatorio** (CMA británica, FTC, Comisión Europea), no financiero.
-
-### Errores que cuestan millones
-- **Pagar de más** por sinergias sobreestimadas (*winner's curse*, hubris).
-- Redactar mal la **MAC/MAE** y no poder salir cuando el negocio se deteriora (o quedar atrapado, como Musk en Twitter).
-
-### Preguntas
-- **Criterio:** si la mayoría de las adquisiciones destruyen valor para el comprador, ¿por qué siguen ocurriendo?
-- **Entrevista:** explique la diferencia entre *signing* y *closing* y qué vive en medio.
-- **Examen:** ¿qué es una cláusula MAC y para qué sirve?
-
-### Bibliografía por niveles
-- **Básico:** Sanjay Anand / notas de práctica de M&A.
-- **Intermedio:** Depamphilis, *Mergers, Acquisitions, and Other Restructuring Activities*.
-- **Avanzado:** Gilson & Black, *The Law and Finance of Corporate Acquisitions*.
-- **Internacional:** Wachtell Lipton, *Takeover Law and Practice* (memorándum anual).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa de profundidad: el «por qué» detrás del «qué». Complementa —no repite— el Suplemento anterior. Pensada para que un asociado sénior o un socio la usen para reflexionar.*
-
-**Por qué existe (historia y fundamento).** La M&A moderna nace de una intuición económica: los activos deben migrar hacia quien los gestiona mejor (**mercado por el control corporativo**, Manne, 1965). Si un equipo directivo destruye valor, el mecanismo de la adquisición —hostil o amistosa— reasigna el control a quien puede extraer más flujo. Históricamente, las **olas de fusiones** (la horizontal de 1900, los conglomerados de los 60, las adquisiciones apalancadas de los 80, la consolidación tecnológica actual) responden cada una a un cambio en costos de capital, regulación o tecnología. Entender en qué ola estamos explica qué *deals* verá el abogado en su carrera.
-
-**El debate.** ¿Las fusiones crean o destruyen valor? Tres posiciones conviven: (i) la **hipótesis de sinergias** (Bradley-Desai-Kim): el comprador paga una prima porque el conjunto vale más que las partes; (ii) la **hipótesis de agencia/imperio** (Jensen): muchas adquisiciones benefician al ego y la remuneración del *management*, no al accionista; (iii) la ***hubris hypothesis*** (Roll, 1986): los directivos sobreestiman su capacidad y pagan de más (*winner's curse*). La evidencia empírica es incómoda: el accionista del *target* casi siempre gana (la prima), pero el del **comprador** a menudo pierde. Predomina hoy una síntesis: la M&A crea valor **agregado**, pero se reparte desigualmente y depende de la disciplina de precio.
-
-**Mirada de Análisis Económico del Derecho.** El SPA es, en clave de Coase, un **contrato para reducir costos de transacción** en un mundo de información asimétrica (Akerlof). La MAC, el *escrow*, el *earn-out* y las *reps & warranties* **asignan riesgos** al que mejor los soporta o los conoce; la cláusula de *specific performance* elimina la opción del comprador de incumplir pagando daños (Holmes). Cada término es un incentivo diseñado.
-
-**Comparado: qué resolvió cada sistema y qué aprende México.** **Delaware** resolvió el conflicto de agencia en la venta de control con deberes fiduciarios judicialmente afinados (*Revlon*, *Unocal*, *Van Gorkom*): dio previsibilidad al consejo. El **Reino Unido** optó por lo contrario: el *Takeover Code* traslada la decisión a los **accionistas** (regla de no-frustración: el consejo no puede defenderse sin voto de la junta). México carece de ese cuerpo jurisprudencial y de un *Takeover Panel*; su OPA (LMV ⟳) es más formalista. **Lección:** México ganaría adoptando estándares de deber fiduciario más densos y una autoridad ágil para OPAs.
-
-**Crítica.** El régimen de M&A ha sido acusado de favorecer el **cortoplacismo** (Bebchuk vs. Lipton, el gran debate sobre activismo accionario): ¿las adquisiciones y el activismo disciplinan al *management* o lo obligan a sacrificar inversión de largo plazo? No hay consenso; el abogado debe conocer ambos lados para asesorar a un consejo bajo presión.
-
-**Jurisprudencia y operación real.** *Smith v. Van Gorkom* (Del. 1985) volvió obligatorio informarse antes de aprobar una venta; *Revlon* (1986) fijó el deber de subastar al haber cambio de control; *Unocal* (1985) validó defensas proporcionales. En la práctica, estos criterios se traducen en el **fairness opinion** del banco, las actas del consejo y la cláusula de *fiduciary out*. Cuando Elon Musk quiso abandonar Twitter (2022), fue Delaware —y su doctrina de *specific performance*— lo que lo forzó a cerrar en ~44,000 mdd ⚠️.
-
-**Para leer más (avanzado):** Gilson & Black, *The Law and Finance of Corporate Acquisitions*; Manne, *Mergers and the Market for Corporate Control* (JPE, 1965); Roll, *The Hubris Hypothesis* (1986); el intercambio Bebchuk–Lipton sobre activismo.
+*Libro 1 del Nivel IV. **Voz consolidada (Edición Final):** este capítulo ya no lleva apéndices al
+cierre. La doctrina (Manne, Bradley-Desai-Kim, Jensen, Roll), el análisis económico del contrato
+(Coase, Akerlof, Holmes), el derecho comparado (Delaware frente al *Takeover Code* británico), la
+traducción operativa de *Van Gorkom* y los casos Disney-Fox, Microsoft-Activision y Musk-Twitter viven
+ahora **dentro** del razonamiento, en las secciones 6, 18, 22, 24, 27 y 29. Ver el vacío **C-1** de la
+[Auditoría](../../AUDITORIA-EDICION-FINAL.md).*
