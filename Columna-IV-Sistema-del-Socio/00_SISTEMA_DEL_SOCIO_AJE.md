@@ -49,6 +49,13 @@ monedas**, y la mayoría solo conoce la primera:
 > quien trae a los clientes tiene el poder—. Tu plan de carrera es, en el fondo, una migración
 > ordenada de la moneda 1 a la 3.
 
+**Y el puente que hace posible la migración.** Nadie pasa de la Moneda 1 a la 3 sin resolver un
+problema aritmético: generar negocio consume tiempo, y ese tiempo solo existe si dejas de ejecutar
+personalmente. Por eso entre la ejecución y la generación hay una destreza intermedia sin la cual la
+tercera moneda es inalcanzable: **lograr resultados a través de otros**. Es lo que el módulo 08
+desarrolla, y es la razón por la que un abogado brillante que no delega nunca llega a socio aunque
+tenga las relaciones: no tiene las horas.
+
 ---
 
 ## III. El mapa de la columna (orden de construcción)
@@ -62,11 +69,31 @@ monedas**, y la mayoría solo conoce la primera:
 | 05 | Marca personal y reputación | ¿Cómo me vuelvo conocido por algo? | ✅ Completo |
 | 06 | Rutas de carrera | Despacho grande, boutique, *in-house*, fundar: ¿cuál y cuándo? | ✅ Completo |
 | 07 | Honorarios: cómo poner precio | ¿Cómo cobro, cotizo y negocio mis honorarios? | ✅ Completo |
+| 08 | [Gestionar hacia abajo](./08-Gestionar-Hacia-Abajo.md) | ¿Cómo delego, corrijo y dirijo cuando la gente está debajo? | ✅ **Edición Final** |
+| 09 | [Crisis y formación](./09-Crisis-y-Formacion-de-Juniors.md) | ¿Qué hago las primeras 24 horas de un desastre, y cómo formo al equipo que me avisa? | ✅ **Edición Final** |
 
-> Columna IV completa: 7 módulos que enseñan a construir la carrera, no solo a hacer el trabajo.
+> Columna IV completa: 9 módulos que enseñan a construir la carrera, no solo a hacer el trabajo.
 
 > Se construyen **en secuencia**. El primero —la pirámide— es el mapa: hasta que no entiendes cómo
 > se asciende y qué se mide en cada peldaño, los demás módulos flotan en el aire.
+
+### La simetría que faltaba (nota de la Edición Final)
+
+Durante varias versiones esta columna tuvo un hueco que nadie había nombrado: el módulo 02 enseñaba a
+**gestionar hacia arriba** y no existía su espejo. La [Auditoría](../AUDITORIA-EDICION-FINAL.md) lo
+clasificó como vacío **I-1** y lo cerró con los módulos 08 y 09.
+
+No es un detalle de simetría formal. Es la transición donde más carreras técnicas se atoran: el
+abogado excelente que nunca aprendió a lograr resultados **a través de otros** se queda compitiendo
+con sus propios asociados por el trabajo que debería estar supervisando, mientras quien sí aprendió
+usa esas horas en la Moneda 3. A cinco años, ahí se decide quién es socio.
+
+> **Y la frontera con la Columna VI.** Los módulos 08 y 09 tratan el **oficio de dirigir** dentro del
+> negocio del Derecho. La competencia humana que los hace posibles —leer personas, sostener límites,
+> comunicar, tener conversaciones difíciles, no abusar del poder— vive en la
+> [Columna VI](../Columna-VI-Inteligencia-Humana/00_INTELIGENCIA_HUMANA_AJE.md). Las dos columnas se
+> citan constantemente y no se duplican: aquí está el *qué hacer como jefe*, allá el *cómo tratar con
+> personas*.
 
 ---
 

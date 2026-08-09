@@ -43,6 +43,78 @@ Un ejemplo ilustrativo (cifras hipotéticas, solo para entender la lógica):
 - Ese asociado factura al cliente, digamos, 3X en honorarios al año.
 - La diferencia (≈ 2X, menos gastos) es **utilidad del despacho**, que va a los socios de capital.
 
+### II.bis · Las cuentas completas (aquí es donde se entiende todo)
+
+Lo anterior es la intuición. Ahora los números, porque hasta que no ves la aritmética completa no
+entiendes por qué el despacho se comporta como se comporta. **Todas las cifras son hipotéticas y
+redondas para que la mecánica se vea; los niveles reales varían enormemente por mercado, tamaño y
+especialidad ⚠️.**
+
+Un asociado de tercer año en un despacho corporativo. Supón:
+
+| Concepto | Cifra hipotética |
+|----------|------------------|
+| Tarifa por hora que el despacho cobra por él | $2,500 |
+| Horas facturables al año (meta) | 1,700 |
+| **Facturación teórica** | **$4,250,000** |
+| Costo total para el despacho (sueldo + prestaciones + espacio + sistemas ≈ 1.4 × sueldo) | $1,400,000 |
+
+Parece una utilidad de casi 3 millones. **No lo es**, y la diferencia está en dos conceptos que casi
+ningún abogado joven conoce:
+
+**La tasa de realización** (*realization*). No todo lo que se registra se factura, y no todo lo que se
+factura se cobra. Se pierde por descuentos negociados, por horas que el socio decide no cobrar
+—porque el asociado tardó de más, o porque el cliente no aceptaría la cuenta—, por castigos en la
+revisión de la factura y por cartera que no se cobra.
+
+Si de esas 1,700 horas el despacho efectivamente cobra el 85 %:
+
+> $4,250,000 × 0.85 = **$3,612,500 de ingreso real**
+> Menos $1,400,000 de costo = **$2,212,500 de contribución** de ese asociado.
+
+Ahora multiplica por el equipo. Un socio con **seis** asociados a ese nivel genera unos **13.3
+millones** de contribución al año. De ahí salen los gastos generales del despacho que no dependen de
+un asunto —dirección, administración, renta, tecnología, seguros, capacitación—, y lo que queda es la
+utilidad que se reparte entre los socios de capital.
+
+**Y ahora la conclusión que este módulo existe para producir.** Compara las dos posiciones:
+
+| | El asociado | El socio |
+|---|---|---|
+| Su ingreso depende de | Sus propias horas | Las horas de todo su equipo + su cartera |
+| Su techo | Las horas de un ser humano | El tamaño del equipo que puede sostener con clientes |
+| Si se enferma un mes | Deja de producir | El equipo sigue produciendo |
+| Su ingreso al dejar de trabajar | Cero | Su participación, mientras sea socio |
+
+> **El número que lo explica todo:** el asociado del ejemplo aportó 2.2 millones de contribución y
+> se llevó 1 millón de sueldo. Esa diferencia no es un abuso —el despacho asumió el riesgo, trajo al
+> cliente y pagó su formación cuando no producía—. Es **el precio del apalancamiento**, y se paga
+> mientras estés del lado apalancado. La pregunta de tu carrera no es si el reparto es justo: es
+> **de qué lado de esa resta quieres estar a los cuarenta años.**
+
+### II.ter · Tres consecuencias prácticas para tu conducta de mañana
+
+Las cuentas anteriores no son teoría: cambian lo que deberías hacer esta semana.
+
+**1 · La realización es tu métrica invisible, y es la que te evalúa de verdad.** Dos asociados pueden
+registrar las mismas 1,700 horas y valer cosas distintas: si de las tuyas se cobra el 95 % y de las
+del otro el 70 %, tú generas casi un millón más al año. Y la realización cae por causas concretas y
+corregibles: tardar de más en tareas rutinarias, trabajo que hay que rehacer, y —la más frecuente—
+horas invertidas en algo que el cliente no había autorizado. Nadie te va a explicar esto en tu
+inducción, y es lo que el socio mira cuando decide a quién asciende.
+
+**2 · Entregar "casi listo" tiene un precio calculable.** Si el socio dedica dos horas de su tiempo
+—facturable a una tarifa mucho mayor— a arreglar tu trabajo, esas dos horas casi nunca se le cobran
+al cliente: se pierden. Tu descuido no es un asunto de calidad abstracta: **es una pérdida
+registrada.** Es la razón económica detrás del consejo del
+[módulo 01](./01-La-Piramide-del-Despacho.md).
+
+**3 · Por eso el módulo 08 es un módulo económico y no de liderazgo.** Cuando tengas gente debajo, tu
+producto deja de ser tus horas y pasa a ser la contribución del equipo. Un senior que no delega tiene
+un problema aritmético, no de estilo: está haciendo trabajo de 2,500 la hora con un costo de
+oportunidad mucho mayor, mientras el socio que sí delegó usa esas horas en la Moneda 3. Ver
+[Gestionar hacia abajo](./08-Gestionar-Hacia-Abajo.md).
+
 Por eso, **mientras más asociados productivos "apalanca" un socio, más gana**. Un socio con 8
 asociados bien aprovechados gana mucho más que uno que trabaja solo. El leverage es la máquina de
 hacer dinero del modelo.
