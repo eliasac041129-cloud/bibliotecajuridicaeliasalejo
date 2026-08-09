@@ -101,10 +101,14 @@ def cortar(path):
 
 
 def verificar(path, conceptos):
-    """Compara contra main y comprueba que no se perdió ningún concepto."""
+    """Compara contra main y comprueba que no se perdió ningún concepto.
+
+    El texto se normaliza (espacios colapsados) para que un concepto partido por
+    un salto de línea no produzca un falso negativo.
+    """
     orig = subprocess.run(['git', 'show', f'main:{path}'],
                           capture_output=True, text=True).stdout
-    new = open(path, encoding='utf-8').read()
+    new = re.sub(r'\s+', ' ', open(path, encoding='utf-8').read())
     if not orig:
         print(f'{path}: no existe en main (capítulo nuevo).')
         a = None

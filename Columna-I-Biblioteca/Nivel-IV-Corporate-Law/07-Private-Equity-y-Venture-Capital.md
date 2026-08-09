@@ -180,8 +180,14 @@ El PE/VC es **economía financiera** en estado puro. Tres ideas la gobiernan:
 - **El fondo como intermediario que busca retornos superiores.** Un fondo de PE/VC reúne capital de
   **inversionistas** (LPs) que buscan **retornos superiores** a los del mercado público (a cambio de menos
   liquidez y más riesgo). El fondo (gestionado por el GP) invierte ese capital en empresas privadas,
-  buscando un retorno medido por el **IRR** (*tasa interna de retorno*) y el **múltiplo** (cuántas veces
-  devuelve el capital). Su modelo de negocio: cobrar una **comisión de gestión** (*management fee*, ~2%
+  buscando un retorno medido por el **IRR** (*tasa interna de retorno*) y el **múltiplo** —el **MOIC**
+  (*multiple on invested capital*): cuántas veces devuelve el capital—. **Las dos métricas se leen juntas y
+  por una razón que conviene entender:** el IRR incorpora el tiempo y por eso se puede mejorar
+  simplemente cerrando antes; el MOIC ignora el tiempo y mide la magnitud. Un fondo puede tener un IRR
+  brillante y un MOIC mediocre (salió rápido de poco) o al revés (multiplicó mucho, en demasiados años).
+  Cuando alguien te presume solo una de las dos, pregunta por la otra —es la misma disciplina del VPN
+  frente a la TIR del [Libro 2 del Nivel V](../Nivel-V-Maestria/02-Finanzas-y-Contabilidad-para-Abogados.md)—.
+  Su modelo de negocio: cobrar una **comisión de gestión** (*management fee*, ~2%
   anual) y, sobre todo, quedarse con una parte de las **ganancias** (*carried interest* o *carry*, ~20% de
   las utilidades por encima de un umbral —*hurdle rate*—). El célebre "**2 y 20**".
 - **La creación de valor: cómo el fondo gana dinero.** El PE crea valor de tres formas: **(i)
@@ -196,6 +202,37 @@ El PE/VC es **economía financiera** en estado puro. Tres ideas la gobiernan:
   fracasos (son inevitables), sino **no perderse el gran éxito**; por eso invierte en muchas, apuesta al
   **upside** ilimitado, y estructura sus protecciones (preferencias) para los escenarios intermedios. El PE,
   en cambio, busca retornos más **consistentes** (menos fracasos, menos *home runs*).
+
+### Dos soluciones opuestas al mismo problema
+
+VC y PE existen para financiar lo que la banca no puede —innovación de altísimo riesgo el primero,
+transformación operativa apalancada el segundo— y lo interesante es que **resuelven el mismo problema de
+agencia por vías contrarias**. Entender esto explica por qué sus documentos no se parecen.
+
+**El VC resuelve la agencia con información y etapas.** No puede usar deuda: una empresa sin flujo no la
+soporta. Entonces usa **financiamiento por rondas contra hitos** y **valores convertibles** con derechos
+de control contingentes (Gilson y Black; Kaplan y Strömberg). La lógica: no entrego todo el capital de
+golpe, entrego un tramo, y el siguiente depende de que se cumpla lo prometido. **El control se reasigna
+según el desempeño**, no de una vez.
+
+**El PE resuelve la agencia con deuda y concentración de propiedad.** Es la tesis de **Jensen** en
+*Eclipse of the Public Corporation* (1989): en una empresa pública con accionariado disperso, el
+*management* dispone de **flujo de caja libre discrecional** y nadie lo vigila de cerca. El LBO ataca las
+dos cosas a la vez: concentra la propiedad en un dueño con incentivo y capacidad de vigilar, y **la deuda
+disciplina** —porque el servicio de la deuda consume el flujo que antes era discrecional—. El
+apalancamiento no es solo una palanca de retorno: en esta teoría, es un **mecanismo de gobierno**.
+
+> **Traducción para tu trabajo.** Cuando negocies para un fondo de VC, tu materia prima es la **cap
+> table** y los derechos de control por ronda. Cuando negocies para un fondo de PE, es el **paquete de
+> deuda y sus *covenants*** ([Libro 5](./05-Derecho-Bancario-y-Financiamiento-Corporativo.md)). Y cada
+> término del *term sheet* —preferencia de liquidación, antidilución, *vesting* de fundadores, *pool* de
+> opciones— es **teoría de agencia aplicada**: no son costumbres del mercado, son respuestas a un
+> problema de incentivos que puedes nombrar.
+>
+> Incluso el *carried interest* del propio fondo lo es: alinea al gestor con sus inversionistas, y a la
+> vez crea su propio conflicto —una participación en la ganancia sin participación proporcional en la
+> pérdida incentiva a **apostar con dinero ajeno**—. Saber esto es lo que te permite leer un contrato de
+> fondo sin ingenuidad.
 
 ## 7. Contexto político y regulatorio
 
@@ -584,7 +621,27 @@ fracasarán** y que el retorno vendrá de **una o dos** que exploten, estructura
 (preferencias, antidilución) para los escenarios **intermedios y malos** (recuperar algo si la empresa se
 vende barato), mientras que en el escenario **bueno** (la estrella) todos ganan tanto que las protecciones
 importan menos. Esta lógica explica por qué el VC insiste en la **preferencia de liquidación** (su red de
-seguridad para los casos regulares) y por qué, a la vez, **apuesta al upside** ilimitado. El fundador y su
+seguridad para los casos regulares) y por qué, a la vez, **apuesta al upside** ilimitado.
+
+> **La distinción que un fundador debe entender antes de firmar: preferencia *no participativa* frente a
+> *participativa*.** Es de las cláusulas que más dinero mueven y de las que menos se explican.
+>
+> - **No participativa (1x):** el inversionista **elige** entre recuperar su inversión **o** convertir a
+>   comunes y cobrar su porcentaje. Lo que le convenga, pero **no las dos cosas**.
+> - **Participativa (*double dip*):** recupera su inversión **y además** participa en el remanente según
+>   su porcentaje. Cobra dos veces del mismo pastel.
+>
+> Ejemplo mínimo: el fondo invirtió 20 por el 25 % y la empresa se vende en 100. Con preferencia **no
+> participativa** elige lo mejor entre 20 y el 25 % de 100 (= 25): cobra **25**. Con preferencia
+> **participativa** cobra 20 **más** el 25 % de los 80 restantes (= 20): cobra **40**. Quince de
+> diferencia salen del bolsillo de los fundadores, por una palabra.
+>
+> Y el agravante: cuando se acumulan varias rondas participativas, en una venta mediana **los fundadores
+> pueden recibir cero** aunque la empresa se haya vendido por una cifra respetable. El mercado ha ido
+> convergiendo hacia la no participativa ⚠️, pero aparece cuando el fundador negocia desde la debilidad —y
+> ahí es donde su abogado tiene que saber hacer esta cuenta en la mesa—.
+
+El fundador y su
 abogado deben entender esta lógica para negociar: ceder lo que protege al VC en los malos escenarios (donde
 de todas formas hay poco) y pelear lo que importa en los buenos (control, dilución razonable, vesting
 justo).
@@ -802,6 +859,30 @@ perderse el home run**—.
 *Lección:* el VC dejó de ser solo un fenómeno de Silicon Valley; el abogado mexicano de hoy participa en un
 ecosistema de capital de riesgo vibrante y en crecimiento —una oportunidad para tu generación—.
 
+**WeWork / SoftBank (2019): el gobierno del fundador llevado al extremo.** Una empresa que llegó a una
+valuación reportada de ~47,000 mdd ⚠️ *verificar* y que la perdió en semanas cuando el proceso de salida a
+bolsa expuso su gobierno corporativo y sus pérdidas. El caso alimentó el debate sobre las **acciones de
+voto múltiple**: ¿protegen la visión de largo plazo del fundador, o lo **entronizan** eliminando el único
+mecanismo que podía corregirlo? La respuesta honesta es que hacen las dos cosas, y que la diferencia la
+marca el consejo — cuando existe de verdad.
+
+**FTX (2022): capital de élite sin los controles que su propia teoría prescribe.** Fondos de primer nivel
+invirtieron **sin asientos en el consejo y sin derechos de información significativos**. El fraude los
+borró.
+
+> **La lección es más incómoda de lo que parece, y es la razón por la que este caso está aquí.** No
+> fracasaron por falta de conocimiento: el VC **inventó** los mecanismos de gobierno por etapas y control
+> contingente que acabas de estudiar en el §6. Los abandonaron. En mercados eufóricos, la competencia por
+> entrar en la operación "caliente" hace que el capital **renuncie a sus propias protecciones** —el FOMO
+> del [módulo 04 de la Columna V](../../Columna-V-Patrimonio/04-Principios-de-Inversion.md) operando con
+> miles de millones—.
+>
+> Y de ahí la conclusión profesional que te toca: **en VC, el *term sheet* y el gobierno no son
+> formalismo. Son la diferencia entre invertir y donar.** El abogado que insiste en el asiento en el
+> consejo cuando todos tienen prisa por firmar no está siendo lento: está haciendo el único trabajo que
+> importa. Ver el patrón 2 de
+> [Reconocer el desastre antes](../../Columna-III-Laboratorio/15-Reconocer-el-Desastre-Antes.md).
+
 ## 19. Casos empresariales
 
 **El PE que profesionaliza una empresa familiar.** Una empresa familiar exitosa pero **sin sucesión clara**
@@ -993,6 +1074,32 @@ PE/VC **vive en el cap table**.
 **Quinto: la fiscalidad estructura todo.** El diseño de fondos e inversiones es **intensamente fiscal**
 (carry, ganancias de capital, vehículos). Subestimar al fiscalista es el error que más caro cuesta en esta
 práctica.
+
+**Sexto: sobre el gran debate —¿el PE crea valor o lo extrae?— nuestra postura es que la pregunta está mal
+formulada.** La evidencia empírica está genuinamente dividida ⚠️ y por buenas razones: hay casos
+documentados de mejora real de productividad y gobierno, y hay casos de extracción —recapitalizaciones con
+dividendo (*dividend recaps*) que cargan deuda para pagarse a sí mismos, venta de activos (*asset
+stripping*), ingeniería fiscal agresiva, y traslado de riesgo a acreedores y empleados—.
+
+Que las dos cosas ocurran no es una contradicción: **son dos usos del mismo instrumento.** El
+apalancamiento que disciplina al *management* (Jensen) es el mismo que, llevado más allá del punto de
+*trade-off*, traslada el riesgo a terceros que no lo votaron. La diferencia no está en la técnica: está en
+**dónde se pone el nivel de deuda y quién absorbe el escenario malo**.
+
+*Postura del Consejo:* al abogado no le corresponde tomar partido en el debate académico, y sí le
+corresponde saber **de qué lado está la operación que está documentando** — y decirlo. Hay dos preguntas
+que lo revelan y ninguna requiere ser economista:
+
+1. **¿De dónde sale el retorno prometido?** Si sale de mejora operativa, hay una tesis. Si sale solo del
+   apalancamiento y de la venta de activos, el retorno es transferencia, no creación.
+2. **¿Quién soporta el escenario malo?** Si la respuesta es "los acreedores, los proveedores y los
+   trabajadores, y el fondo ya recuperó su capital vía dividendo", eso no es una estructura eficiente: es
+   una externalidad con documentación impecable.
+
+Hacer esas dos preguntas es, en esta práctica, la forma concreta del escepticismo informado — y conecta
+con la frontera del
+[módulo 06 de la Columna VI](../../Columna-VI-Inteligencia-Humana/06-La-Frontera-Etica.md): que una
+estructura sea legal no la vuelve defendible ante quien la examine sabiendo cómo terminó.
 
 ## 29. Debate doctrinal
 
@@ -1392,61 +1499,6 @@ con **cómo se mueve el capital y se crea valor** en el mundo real.
 > ESG** —que cierra el Nivel IV— aprenderás el marco que **protege y legitima** a la empresa y a quienes la
 > dirigen en cada operación que has estudiado.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-PE y VC son **capital con reloj**: entran para salir (5-10 años) con un múltiplo. El abogado debe entender **cómo gana el fondo** (IRR, MOIC), porque cada cláusula sirve a esa salida: **preferencia de liquidación, antidilución, *drag-along*, *vesting* de fundadores, *pool* de opciones**. En VC piensa en la **cap table** y la **dilución** ronda tras ronda; en PE, en el **LBO** (comprar con deuda) y los *covenants* que lo sostienen.
-
-### Doctrina y debate
-- **PE y disciplina de la deuda (Jensen, *Eclipse of the Public Corporation*, 1989):** el apalancamiento del LBO obliga a la eficiencia y reduce el *free cash flow* discrecional del *management*.
-- **VC como gobierno por etapas (Gilson & Black; Kaplan & Strömberg):** financiamiento por rondas, acciones preferentes convertibles y derechos de control contingentes para alinear a fundador e inversionista.
-- **Debate:** ¿el PE crea valor (eficiencia operativa) o lo extrae (*dividend recaps*, despidos, *asset stripping*)?
-
-### Finanzas mínimas
-- **IRR** (tasa interna de retorno) y **MOIC** (múltiplo sobre capital invertido): las dos métricas del fondo.
-- **LBO:** comprar con poca *equity* y mucha deuda; la deuda se paga con el flujo de la propia adquirida. Amplifica retornos… y pérdidas.
-- **Cap table y dilución:** cada ronda y cada opción reparte de nuevo el pastel; la **preferencia de liquidación** decide quién cobra primero en la venta.
-
-### Caso real
-**WeWork / SoftBank (2019):** VC sin disciplina; valuación de ~47,000 mdd ⚠️ *verificar* que se desplomó al exponerse el gobierno y las pérdidas. **FTX (2022):** fondos de primer nivel (Sequoia, etc.) invirtieron **sin *due diligence* ni asientos de control**; el fraude los borró. Lección: en VC, el *term sheet* y el gobierno no son formalismo —son la diferencia entre invertir y donar.
-
-### Errores que cuestan millones
-- Fundadores que firman **preferencias de liquidación participativas** y *down rounds* con antidilución *full ratchet* sin entender la dilución.
-- Invertir **sin derechos de información ni asiento** en el consejo (caso FTX).
-
-### Preguntas
-- **Criterio:** ¿el private equity crea o extrae valor? Defienda con evidencia.
-- **Entrevista:** explique preferencia de liquidación 1x participativa vs. no participativa.
-- **Examen:** ¿qué es un LBO y por qué amplifica el retorno?
-
-### Bibliografía por niveles
-- **Básico:** NVCA Model Legal Documents (term sheet).
-- **Intermedio:** Feld & Mendelson, *Venture Deals*.
-- **Avanzado:** Gilson, *Engineering a Venture Capital Market* (Stanford Law Review).
-- **Internacional:** Kaplan & Strömberg, *Financial Contracting Theory Meets the Real World*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El VC y el PE existen para financiar dos cosas que la banca no puede: **innovación de altísimo riesgo** (VC) y **transformación operativa apalancada** (PE). Ambos resuelven, por vías opuestas, el mismo problema de agencia. El VC lo hace con **financiamiento por etapas y valores convertibles** (Gilson & Black; Kaplan & Strömberg): entrega capital contra hitos y se reserva derechos de control contingentes. El PE lo hace con **deuda y concentración de propiedad** (Jensen, *Eclipse of the Public Corporation*, 1989): el apalancamiento disciplina al *management* y elimina el *free cash flow* discrecional.
-
-**El debate.** ¿El PE **crea** valor (mejora operativa, gobierno) o lo **extrae** (recortes, *dividend recaps*, ingeniería fiscal, traslado de riesgo a acreedores y empleados)? La evidencia empírica está dividida: hay mejoras de productividad reales, pero también casos de *asset stripping*. En VC, el debate es sobre la **gobernanza de fundadores** (acciones de voto múltiple: ¿protegen la visión o entronizan al fundador, como en WeWork?).
-
-**Mirada de AED.** La **preferencia de liquidación**, la **antidilución** y el ***vesting*** de fundadores son soluciones a problemas de incentivos: protegen al inversionista del riesgo a la baja y atan al fundador al proyecto. El *carried interest* (20%) alinea al GP con el LP, pero crea su propio conflicto (incentivo a apostar con dinero ajeno). Cada término del *term sheet* de la NVCA es teoría de agencia aplicada.
-
-**Comparado y lección para México.** El ecosistema de Delaware + NVCA estandarizó los documentos de VC, reduciendo costos y fricción —una razón de que Silicon Valley escale. México y Latinoamérica adaptan esos modelos (a menudo vía vehículos en Delaware o las Islas). **Lección:** homologar documentación (term sheets estandarizados) reduce el costo de capital emprendedor; la fricción legal es un impuesto a la innovación.
-
-**Crítica.** El caso **FTX** (2022) fue una falla de gobernanza y de *due diligence*: fondos de élite invirtieron **sin asientos en el consejo ni controles** —VC sin la disciplina que la propia teoría prescribe. La crítica: en los mercados eufóricos, el capital abandona sus propios mecanismos de protección (FOMO), y el derecho llega tarde.
-
-**Jurisprudencia y operación real.** Los litigios de *down rounds*, *cram-downs* y conflictos GP/LP alimentan la jurisprudencia de Delaware sobre deberes fiduciarios de los inversionistas de control frente a fundadores y minoritarios (*In re Trados* ⚠️ *verificar*: preferencia de liquidación vs. comunes). En la práctica, el abogado de VC vive en la **cap table** y en la negociación de la preferencia de liquidación —donde se decide quién cobra primero cuando se vende.
-
-**Para leer más:** Jensen, *Eclipse of the Public Corporation* (HBR, 1989); Gilson, *Engineering a Venture Capital Market* (Stan. L. Rev., 2003); Kaplan & Strömberg (Rev. Econ. Stud., 2003); NVCA Model Documents.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*
