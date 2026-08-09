@@ -198,6 +198,31 @@ Tres ideas centrales:
   "barata" que el equity (menos riesgo para quien la aporta), por qué una empresa riesgosa paga más por
   financiarse, y por qué el apalancamiento amplifica tanto las ganancias como las pérdidas (Libro 5).
 
+**Por qué existe la contabilidad, y por qué su virtud es también su vulnerabilidad.** La contabilidad es el
+lenguaje con el que una empresa **se cuenta a sí misma y a quien la financia**. Existe para reducir la
+misma asimetría de información que Berle y Means identificaron en el gobierno corporativo: quien gestiona
+sabe más que quien arriesga.
+
+Su pieza central es el principio de **devengado**: registrar los hechos **cuando ocurren**, no cuando entra
+o sale el dinero. Nació para reflejar mejor la realidad económica —una venta a crédito es una venta, aunque
+no hayas cobrado— y esa es una mejora enorme sobre el simple registro de caja.
+
+Pero mira lo que abrió: si registras hechos que aún no se materializaron en dinero, alguien tiene que
+**estimar**. ¿Cuánto de esa cartera se va a cobrar? ¿Cuánto vale este inventario? ¿En cuántos años se
+deprecia esta máquina? ¿Hay que provisionar este litigio y por cuánto?
+
+> **De ahí la advertencia que ordena todo este libro: la contabilidad tiene una *falsa objetividad*.** El
+> estado financiero se presenta con la autoridad de un número exacto, y detrás de cada renglón relevante
+> hay **juicio humano**: estimaciones de deterioro, provisiones, vidas útiles, reconocimiento de ingresos.
+>
+> Y esa es la razón por la que los grandes fraudes rara vez violan la aritmética. **Enron** y **Wirecard**
+> no sumaron mal: manipularon el **juicio** y la **revelación**. El número tranquiliza precisamente al
+> abogado que no sabe leerlo — y por eso este libro existe.
+>
+> El corolario práctico para tu trabajo: cuando revises estados financieros en un *due diligence*, las
+> preguntas que valen no son sobre los totales. Son *¿qué se estimó aquí, quién lo estimó y con qué
+> criterio?* y *¿cambió ese criterio respecto del año pasado?*
+
 ## 7. Contexto político y regulatorio
 
 La información financiera está fuertemente **regulada**, porque su confiabilidad es de interés público:
@@ -1026,6 +1051,38 @@ pero engañosa) y la **fraudulenta** es ética antes que técnica. El abogado de
 exige **práctica**: leer estados financieros **reales**, calcular ratios, hacer un DCF sencillo. El abogado
 debe **entrenar** con números, como el negociador entrena negociando.
 
+**Y una postura sobre el EBITDA, la métrica que vas a negociar más veces en tu vida.** El EBITDA es
+omnipresente en M&A y en crédito porque aproxima la generación de caja operativa y permite comparar
+empresas con distinta estructura de capital y fiscalidad. Es útil. Y tiene dos objeciones serias que
+conviene conocer antes de defender una definición en una mesa:
+
+**La objeción de Buffett**, formulada con su sarcasmo habitual: si excluyes la depreciación, estás
+suponiendo que la inversión en activos **no existe**. Para un negocio intensivo en capital —una planta, una
+flota, una red— la depreciación no es un artificio contable: es el costo real de reponer lo que se gasta.
+Un EBITDA alto en un negocio que necesita reinvertir constantemente puede convivir con un flujo libre
+cercano a cero.
+
+**La objeción de los *add-backs*.** En la práctica de M&A el vendedor presenta un "EBITDA ajustado" que
+suma de vuelta partidas presentadas como extraordinarias o no recurrentes: una reestructura, un litigio,
+gastos del dueño, sinergias futuras. Cada *add-back* aceptado **sube el precio** si el múltiplo se aplica
+sobre esa base. De ahí que la ironía que circula en el mercado —*"utilidad antes de las cosas malas"*— sea
+una advertencia técnica y no un chiste.
+
+> **Lo que esto significa para ti, y es dinero.** La **definición de EBITDA** en el contrato es una
+> cláusula económica de primer orden, no una definición. Gobierna el precio (si hay múltiplo), gobierna el
+> *covenant* financiero (si hay deuda, ver [Libro 5 del Nivel IV](../Nivel-IV-Corporate-Law/05-Derecho-Bancario-y-Financiamiento-Corporativo.md))
+> y gobierna el *earn-out* (si hay pago diferido). Negociar qué entra y qué no en esa definición —y con qué
+> tope a los *add-backs*— es una de las intervenciones de mayor valor que un abogado hace en toda la
+> operación. Y casi nunca la hace el que no entiende la crítica de Buffett.
+
+**Sobre el otro gran debate —*fair value* frente a costo histórico— nuestra postura es que conviene saber
+qué se gana y qué se pierde con cada uno.** El **valor razonable** (que las NIIF privilegian para ciertos
+activos) informa mejor sobre el presente y por eso es más útil para decidir; su costo es la **volatilidad
+procíclica** —se le reprochó agravar la crisis de 2008 al forzar castigos en cascada cuando los mercados
+caían—. El **costo histórico** es estable y verificable, y a cambio puede estar años desactualizado.
+Ninguno es "el correcto": son dos respuestas a la tensión entre relevancia y confiabilidad, y saber en cuál
+está medido un balance es parte de leerlo.
+
 ## 29. Debate doctrinal
 
 - **¿EBITDA o flujo de caja libre?** ¿Qué métrica refleja mejor la capacidad de generar valor? *Postura del
@@ -1342,6 +1399,21 @@ negocias y estructuras.
   abogado **necesita** (sin volverse contador).
 - **Práctica:** leer estados financieros **reales** de empresas (los reportes anuales de emisoras son
   públicos) y **calcular** sus ratios —el mejor entrenamiento—.
+- **Las cartas anuales de Warren Buffett a los accionistas de Berkshire Hathaway.** Son gratuitas, están en
+  línea y constituyen probablemente la mejor educación disponible sobre cómo leer una empresa con
+  escepticismo. Ahí está su crítica al EBITDA (§28) y una lección transversal para un abogado: **desconfiar
+  de las métricas que excluyen los costos incómodos**.
+- **Normas NIIF 15 (reconocimiento de ingresos) y NIIF 16 (arrendamientos).** Las dos que más cambiaron los
+  estados financieros de la última década: la 16 subió los arrendamientos al balance, alterando de golpe el
+  apalancamiento reportado de sectores enteros. Si negocias un *covenant* de deuda/EBITDA sin saber esto,
+  puedes estar negociando sobre una base distinta a la que crees.
+- **Sobre el fraude contable, como formación y no como morbo:** los expedientes de **Enron** (vehículos
+  fuera de balance), **WorldCom** (gastos capitalizados como inversión, ~11,000 mdd ⚠️) y **Wirecard**
+  (saldos de efectivo inexistentes, ~1,900 mdEUR ⚠️). Los tres originaron reformas —Sarbanes-Oxley entre
+  ellas— y los tres se detectan con las preguntas del §6.
+- **Berle & Means, *The Modern Corporation and Private Property* (1932).** Para entender que la contabilidad
+  y el gobierno corporativo resuelven el mismo problema desde dos lados; se cruza con el
+  [Libro 8 del Nivel IV](../Nivel-IV-Corporate-Law/08-Gobierno-Corporativo-Avanzado-Compliance-y-ESG.md).
 
 ## 43. Ruta hacia el siguiente libro
 
@@ -1421,59 +1493,6 @@ más valoran y mejor pagan—.
 > ponerle un número al valor —la herramienta que está en el corazón de cada M&A, cada inversión y cada
 > negociación de precio—.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El abogado que **lee un estado financiero** negocia distinto: sabe dónde esconde el vendedor el riesgo. El socio no necesita ser contador, pero sí leer los **tres estados** (resultados, balance, flujo de efectivo) y detectar señales: deuda fuera de balance, capital de trabajo manipulado antes de la venta, ingresos "inflados". La contabilidad es el **idioma del cliente**; ignorarlo es negociar a ciegas.
-
-### Doctrina y debate
-- **Ecuación contable** (Activo = Pasivo + Capital) y **devengado vs. flujo:** por qué una empresa "rentable" puede quebrar por falta de caja.
-- **EBITDA:** métrica omnipresente en M&A y su crítica (Buffett: "¿acaso el capex no existe?"); los **ajustes al EBITDA** (*add-backs*) son campo de batalla en el precio.
-- **Debate:** ¿el *fair value* (IFRS) da transparencia o volatilidad procíclica (como en 2008)?
-
-### Derecho comparado
-Dos marcos: **IFRS** (global, incluida México vía NIF convergentes) y **US GAAP**. Las diferencias (reconocimiento de ingresos, arrendamientos IFRS 16, deterioro) afectan la valuación y las *reps* contables del SPA. En *deals* transfronterizos, saber en qué marco están los números es esencial.
-
-### Caso real
-**Enron y WorldCom (2001-2002):** fraude contable puro —entidades fuera de balance (Enron), gastos capitalizados como activos (WorldCom, ~11,000 mdd ⚠️ *verificar*)— que originó **Sarbanes-Oxley**. **Wirecard (2020):** ~1,900 mdEUR ⚠️ que "no existían". Lección: los estados financieros mienten cuando nadie los sabe leer; el abogado que los entiende es la última línea de defensa.
-
-### Errores que cuestan millones
-- Aceptar un **EBITDA ajustado** con *add-backs* injustificados que inflan el precio.
-- Ignorar el **capital de trabajo** al cierre (mecanismos de ajuste de precio).
-
-### Preguntas
-- **Criterio:** ¿el EBITDA es una métrica honesta o "utilidad antes de las cosas malas"?
-- **Entrevista:** una empresa es rentable pero se queda sin caja: ¿cómo es posible?
-- **Examen:** enuncie los tres estados financieros y qué mide cada uno.
-
-### Bibliografía por niveles
-- **Básico:** Warren Buffett (cartas a accionistas, selección).
-- **Intermedio:** McKinsey, *Valuation* (caps. contables); NIF mexicanas.
-- **Avanzado:** Penman, *Financial Statement Analysis and Security Valuation*.
-- **Internacional:** IFRS Foundation, normas (IFRS 15, 16).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La contabilidad es el **lenguaje con que la empresa se cuenta a sí misma y al mundo**; existe para reducir la asimetría de información entre quien gestiona y quien financia (el mismo problema de agencia de Berle & Means, visto desde los números). El principio de **devengado** (registrar cuando ocurre, no cuando entra la caja) nació para reflejar la realidad económica; pero abrió la puerta al **juicio** —y al fraude.
-
-**El debate.** ***Fair value* (valor razonable) vs. costo histórico**: el valor razonable (IFRS) da información actual pero introduce **volatilidad procíclica** (se acusó de agravar 2008, al forzar castigos en cascada); el costo histórico es estable pero desactualizado. Debate del **EBITDA**: métrica omnipresente en M&A y crédito, atacada por Buffett ("¿el *capex* no existe?") y por los *add-backs* agresivos que inflan el precio. ¿Es una medida útil de generación de caja o "utilidad antes de las cosas malas"?
-
-**Mirada de AED.** Las normas contables son **reglas de revelación** cuyo valor es reducir el costo de capital (información creíble = menor prima de riesgo). El *earnings management* (manipular resultados dentro de la norma) es un problema de agencia: el gestor "suaviza" para su bono o para la cotización. La auditoría y el comité de auditoría son los *gatekeepers* que la teoría prescribe.
-
-**Comparado y lección para México.** **IFRS** (global, base de las NIF mexicanas) vs. **US GAAP**: difieren en reconocimiento de ingresos, arrendamientos (IFRS 16 subió los *leases* al balance) y deterioro. **Lección:** en *deals* transfronterizos, saber en qué marco están los números —y cómo cambia el EBITDA y la deuda según el marco— evita sorpresas de precio.
-
-**Crítica.** La contabilidad da una **falsa objetividad**: detrás de cada cifra hay estimaciones (deterioro, provisiones, vida útil). Enron y Wirecard no violaron tanto "la aritmética" como el **juicio** y la revelación. La crítica: el número tranquiliza al abogado que no sabe leerlo.
-
-**Jurisprudencia y operación real.** Los grandes fraudes —**Enron** (SPEs fuera de balance), **WorldCom** (~11,000 mdd ⚠️ de gastos capitalizados), **Wirecard** (~1,900 mdEUR ⚠️ inexistentes)— originaron Sarbanes-Oxley y reformas de auditoría. En la práctica, el abogado de M&A negocia definiciones de EBITDA, deuda neta y capital de trabajo como cláusulas que valen millones.
-
-**Para leer más:** Penman, *Financial Statement Analysis and Security Valuation*; cartas de Warren Buffett a los accionistas de Berkshire; normas IFRS 15 y 16.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

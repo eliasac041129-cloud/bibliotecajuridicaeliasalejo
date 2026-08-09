@@ -202,6 +202,30 @@ La negociación tiene una sólida base en la **teoría económica**, que ilumina
   **gestionar la información**: qué revelar, qué averiguar, cómo señalar. La teoría de juegos (Libro 4)
   formaliza esta interacción estratégica.
 
+**Y una idea de Schelling que cambia cómo entiendes las cláusulas que redactas.** Thomas Schelling, en *The
+Strategy of Conflict* (1960), formuló algo que parece una paradoja y no lo es: **a veces se gana poder
+reduciendo tus propias opciones.**
+
+La intuición corriente dice que tener más alternativas es siempre mejor. Schelling mostró que no: si puedes
+demostrar de forma **creíble** que no puedes ceder, la otra parte tiene que moverse. Es la lógica de quemar
+las naves, o del negociador que dice —con verdad— *"mi comité no me autoriza pasar de esta cifra"*. Su
+debilidad aparente es su fuerza real.
+
+La condición es la credibilidad: una restricción **verificable** funciona; una inventada se descubre y
+destruye tu palabra para todo lo demás (ver §14.D sobre urgencia fabricada y el
+[módulo 06 de la Columna VI](../../Columna-VI-Inteligencia-Humana/06-La-Frontera-Etica.md)).
+
+> **Aquí está la conexión que quiero que veas, porque reordena tu oficio.** **Las cláusulas contractuales
+> son compromisos creíbles institucionalizados.** Una pena convencional hace creíble una amenaza que sin
+> ella sería palabrería. Una cláusula de *specific performance* elimina la opción de arrepentirse —fue lo
+> que decidió el caso Twitter/X–Musk, tratado en el
+> [Libro 4 del Nivel IV](../Nivel-IV-Corporate-Law/04-Documentacion-Term-Sheet-SPA-APA-SHA.md)—. Un
+> *escrow* convierte una promesa de pago en un hecho.
+>
+> Es decir: **cuando redactas, no estás documentando el acuerdo: estás fabricando los compromisos creíbles
+> de la relación futura.** Ese es el puente entre la teoría de la negociación y la técnica contractual, y
+> es la razón por la que un buen negociador que redacta mal pierde en la segunda mitad del partido.
+
 ## 7. Contexto político y regulatorio
 
 Aunque la negociación es, ante todo, una habilidad y no una rama del derecho, opera dentro de **límites
@@ -899,6 +923,25 @@ poderosa —se gana en el *setup*, no solo en la mesa—.
 humillada** y se retiró por orgullo. *Lección:* la dimensión **emocional y relacional** es tan importante
 como la sustantiva; el negociador que ignora el "rostro" del otro pierde acuerdos que la geometría permitía.
 
+**Twitter/X – Musk (2022): una lección de BATNA en tres actos.** Vale la pena leerlo como caso de
+negociación y no solo como caso de M&A, porque enseña la secuencia completa.
+
+**Acto uno: firmó rápido y sin *due diligence*.** Renunció voluntariamente a la investigación que le habría
+dado información —y por tanto poder— antes de comprometerse.
+
+**Acto dos: intentó reabrir después de firmar**, invocando información sobre cuentas automatizadas. Pero ya
+no estaba negociando en el mercado: estaba negociando contra un documento.
+
+**Acto tres: su BATNA se reveló inexistente.** Con una MAC estrecha y una cláusula de cumplimiento forzoso,
+la alternativa a cerrar era un juicio en Delaware que probablemente perdería. Terminó cerrando en ~44,000
+mdd ⚠️ *verificar*.
+
+> **La lección, y es la más importante de este libro entero:** el poder de negociación se construye
+> **antes de firmar**. Después de la firma, el poder ya no lo determina tu tamaño, tu dinero ni tu
+> habilidad retórica: lo determina **el contrato**. Es el mismo principio que gobierna el
+> [ejercicio 13 del Laboratorio](../../Columna-III-Laboratorio/13-Cuando-la-Contraparte-se-Echa-Atras.md):
+> cuando alguien quiere echarse atrás, la pregunta no es qué quiere, es **qué puede**.
+
 ## 19. Casos empresariales
 
 **El fundador que negocia con el fondo de VC.** Un fundador necesita capital y negocia su Serie A con un VC.
@@ -1393,6 +1436,18 @@ porque transforma al técnico jurídico en **asesor estratégico de negocios**.
 - **Voss, *Never Split the Difference*.** Perspectiva táctica/emocional; complemento práctico.
 - **Doctrina civil sobre buena fe precontractual, dolo y responsabilidad precontractual.** El marco
   **jurídico** mexicano de la negociación.
+- **Thomas Schelling, *The Strategy of Conflict* (1960).** El libro que fundó el análisis estratégico de la
+  negociación y del conflicto. Su idea del **compromiso creíble** (§6) es la que conecta la teoría con las
+  cláusulas que rediges. Denso, corto y de los que se releen cada década.
+- **Howard Raiffa, *The Art and Science of Negotiation*.** El puente entre el análisis formal y la práctica:
+  cómo se estructura una negociación cuando quieres pensarla con rigor y no con anécdotas.
+- **Malhotra & Bazerman, *Negotiation Genius*.** El complemento conductual del método de Harvard: por qué
+  negociadores inteligentes dejan valor en la mesa. Es la aplicación directa de los sesgos del
+  [módulo 01 de la Columna VI](../../Columna-VI-Inteligencia-Humana/01-Psicologia-de-la-Decision.md).
+- **Lax & Sebenius, *3-D Negotiation*.** Para entender que la negociación no ocurre solo en la mesa: se gana
+  en el diseño del proceso y en la elección de las partes (*setup*).
+- **El expediente público de *Twitter v. Musk* (Del. Ch., 2022).** Léelo como caso de negociación: es la
+  mejor ilustración disponible de que el poder se construye antes de firmar.
 
 ## 43. Ruta hacia el siguiente libro
 
@@ -1470,59 +1525,6 @@ asesor de confianza del simple técnico—.
 > banqueros y fondos, y para no negociar nunca a ciegas—. El asesor estratégico de negocios que quieres ser
 > está tomando forma.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-Los *deals* no se ganan en el papel: se ganan en la mesa. El socio negocia por **intereses, no por posiciones**, y llega con una sola pieza que le da poder: su **BATNA** (mejor alternativa al acuerdo negociado). Quien tiene alternativa creíble, manda; quien "necesita" el trato, obedece. La técnica jurídica es condición necesaria; la negociación es la que **captura el valor**.
-
-### Doctrina y debate
-- **Modelo de Harvard (Fisher & Ury, *Getting to Yes*):** separar personas de problema; intereses vs. posiciones; opciones de beneficio mutuo; criterios objetivos.
-- **BATNA, ZOPA y valor de reserva** (Raiffa, *The Art and Science of Negotiation*): el marco analítico.
-- **Debate:** ¿crear valor (*integrative*, agrandar el pastel) o reclamarlo (*distributive*, repartirlo)? El "dilema del negociador" (Lax & Sebenius): cooperar expone; competir destruye valor.
-
-### Derecho comparado / práctica internacional
-La *Big Law* estructura la negociación en torno al *term sheet* y a la gestión del *deal*; los **estilos culturales** varían (directo anglosajón vs. relacional latino/asiático). El abogado transfronterizo lee la cultura tanto como el contrato.
-
-### Caso real
-**Twitter/X–Musk (2022):** Musk negoció y firmó rápido, sin *due diligence* de *bots*; luego quiso rebajar o salir. Su **BATNA era débil** (Delaware lo forzaría a cerrar) y terminó pagando el precio pactado (~44,000 mdd ⚠️ *verificar*). Lección: el poder de negociación se define **antes** de firmar; después, el contrato manda.
-
-### Errores que cuestan millones
-- Negociar por **posiciones** ("quiero X") en vez de intereses ("necesito resolver Y").
-- Entrar sin **BATNA** y revelar la urgencia.
-
-### Preguntas
-- **Criterio:** ¿cuándo conviene competir por el valor y cuándo cooperar para crearlo?
-- **Entrevista:** su cliente "necesita" cerrar hoy; ¿cómo protege su poder de negociación?
-- **Examen:** defina BATNA y ZOPA con un ejemplo.
-
-### Bibliografía por niveles
-- **Básico:** Fisher & Ury, *Sí… ¡de acuerdo!* (*Getting to Yes*).
-- **Intermedio:** Lax & Sebenius, *3-D Negotiation*.
-- **Avanzado:** Raiffa, *The Art and Science of Negotiation*.
-- **Internacional:** Malhotra & Bazerman, *Negotiation Genius*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La negociación es la disciplina de **crear y repartir valor** bajo información imperfecta. Su fundamento moderno es la **teoría de juegos** (Nash) y el programa de Harvard (Fisher & Ury): pasar de un regateo posicional de suma cero a la negociación **integrativa** (agrandar el pastel antes de repartirlo). El abogado negocia todo —precio, cláusulas, plazos, con la autoridad— y su materia prima es el **BATNA**: sin alternativa, no hay poder.
-
-**El debate.** ***Creating value* vs. *claiming value*** —el "dilema del negociador" (Lax & Sebenius): cooperar para crear valor te expone a que el otro lo reclame todo; competir para reclamar destruye valor conjunto. ¿Cuál prevalece? Depende del juego (único vs. repetido). Debate conductual: los sesgos (anclaje, aversión a la pérdida, exceso de confianza —Kahneman, Bazerman) explican por qué negociadores "racionales" dejan valor sobre la mesa.
-
-**Mirada de AED.** Una negociación eficiente **maximiza el excedente conjunto** y lo reparte según poder (BATNA) y habilidad. Los **compromisos creíbles** (quemar las naves) alteran el juego: reducen las propias opciones para forzar la mano del otro (Schelling, *The Strategy of Conflict*). Las cláusulas contractuales son compromisos creíbles institucionalizados (una penalidad hace creíble la amenaza).
-
-**Comparado y lección para México.** La *Big Law* estructura la negociación en torno al *term sheet* y a la gestión de proceso; los estilos **culturales** varían (directo anglosajón vs. relacional latino). **Lección:** el negociador mexicano internacional debe leer la cultura tanto como el contrato, y llegar con BATNA construido —no improvisado en la mesa.
-
-**Crítica.** El modelo de Harvard (*win-win*) ha sido criticado por **ingenuo** ante negociadores duros y de mala fe; de ahí la literatura de "negociar con quien no quiere jugar limpio" (Ury, *Getting Past No*). La crítica: en el mundo real, mucho valor se **reclama**, no se crea.
-
-**Jurisprudencia y operación real.** El caso **Twitter/X–Musk** (2022) es una lección de negociación y BATNA: Musk firmó rápido, sin *due diligence*, y su BATNA se reveló débil (Delaware lo forzaría a cerrar); terminó pagando ~44,000 mdd ⚠️. En la práctica, el poder se define **antes** de firmar; después manda el contrato.
-
-**Para leer más:** Fisher & Ury, *Getting to Yes*; Lax & Sebenius, *3-D Negotiation*; Schelling, *The Strategy of Conflict* (1960); Bazerman & Malhotra, *Negotiation Genius*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*
