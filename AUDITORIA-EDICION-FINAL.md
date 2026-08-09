@@ -475,9 +475,20 @@ pueda perder trabajo (Manifiesto §XI.3).
 
 ### 7.3.bis · El método verificado de disolución de estratos (C-1)
 
-> **Estado: piloto ejecutado y validado en IV-01 · 2 de 53 tratados sin apéndices.** El resto es un
-> programa por capítulo, no una operación masiva. Este apartado existe para que cualquiera pueda
-> continuarlo con el mismo estándar.
+> **Estado: 4 de 53 tratados con voz consolidada.** Hechos: V-05 (nativo), **IV-01** (piloto), **IV-02**,
+> **IV-03**. El resto es un **programa por capítulo**, no una operación masiva. Este apartado existe para
+> que cualquiera pueda continuarlo con el mismo estándar — y hay una herramienta para ello:
+> [`tools/estratos.py`](./tools/estratos.py), con tres comandos (`estado`, `extraer`, `cortar`,
+> `verificar`) que automatizan lo mecánico y **dejan el juicio editorial en manos humanas**.
+>
+> | Tratado | main | Consolidado | Conceptos |
+> |---------|-----:|------------:|:---------:|
+> | IV-01 Fundamentos de M&A | 10,969 | 11,341 (**+3.4 %**) | 23/23 ✅ |
+> | IV-02 Due Diligence | 16,704 | 16,802 (**+0.6 %**) | 20/20 ✅ |
+> | IV-03 Estructuras | 16,710 | 17,056 (**+2.1 %**) | 16/16 ✅ |
+>
+> Los tres resultados son **positivos**, que es la prueba de que la operación reubica en lugar de
+> adelgazar. Comparación con la rama descartada: v5.0 dejaba IV-02 en 3,601 palabras (−78 %).
 
 **Resultado medido del piloto (IV-01 Fundamentos de M&A):**
 

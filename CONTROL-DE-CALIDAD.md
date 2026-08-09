@@ -115,7 +115,7 @@ La lista vigente es la de la **Edición Final**, clasificada por severidad en la
 
 | Prioridad | Pendiente | Estado |
 |-----------|-----------|--------|
-| **C-1** | Disolver los tres estratos en los 53 tratados (voz única, sin perder sustancia) | 🟡 **2 de 53** · método validado en la [Auditoría](./AUDITORIA-EDICION-FINAL.md) §7.3.bis |
+| **C-1** | Disolver los tres estratos en los 53 tratados (voz única, sin perder sustancia) | 🟡 **4 de 53** · método validado y herramienta en [`tools/estratos.py`](./tools/estratos.py); ver [Auditoría](./AUDITORIA-EDICION-FINAL.md) §7.3.bis |
 | **C-2** | La empresa por dentro (Nivel V-05) | 🟡 |
 | **C-3 / C-4** | Columna VI · Inteligencia Humana y Comunicación Profesional | 🟡 |
 | **C-5** | Elevar la Columna V (Patrimonio) al estándar de la obra | 🟡 |
