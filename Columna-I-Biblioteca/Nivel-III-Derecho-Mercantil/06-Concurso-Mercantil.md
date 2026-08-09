@@ -152,6 +152,48 @@ El concurso cumple funciones económicas esenciales (Libros 9 y 10, Nivel I):
   porque la empresa **operando** (*going concern*) vale más que la suma de sus activos vendidos por
   separado (el goodwill, Libro 1 Nivel III).
 
+### Los tres mecanismos del concurso, explicados por el problema que resuelven
+
+El derecho concursal parece un conjunto de tecnicismos hasta que se entiende que cada pieza resuelve un
+problema económico preciso. Tres, y valen para cualquier jurisdicción.
+
+**1 · La suspensión de ejecuciones (*automatic stay*): contra la carrera destructiva.** Sin ella, cada
+acreedor tiene incentivo a ejecutar **primero** —el que llega antes cobra— y ese incentivo individualmente
+racional destruye valor colectivamente: se desmantela una empresa que valía más entera que en piezas. Es un
+problema clásico de acción colectiva, y **Thomas Jackson** lo formuló como el fundamento del sistema en *The
+Logic and Limits of Bankruptcy Law*: el concurso es el mecanismo que **impide la carrera** y permite que los
+acreedores actúen como actuarían si pudieran coordinarse.
+
+**2 · La regla de prioridad absoluta: contra la destrucción del crédito futuro.** El orden —acreedores
+antes que accionistas— no es una preferencia moral: es lo que hace posible el crédito **ex ante**. Si un
+acreedor supiera que podría cobrar después del accionista, no prestaría, o prestaría mucho más caro. La
+regla protege a quien presta hoy porque protege el orden de mañana. Su matiz debatido es la excepción de
+***new value***: permitir que el accionista-gestor conserve una porción si **aporta capital fresco**
+—útil cuando ese aporte salva la empresa, cuestionable cuando encubre una condonación disfrazada—.
+
+**3 · El financiamiento al deudor en posesión (*DIP financing*): contra el *debt overhang*.** Una empresa
+insolvente necesita dinero para operar mientras se reestructura, y nadie presta a un insolvente que ya tiene
+acreedores por delante. La solución es dar a ese nuevo crédito una **superprioridad**. Es el mismo problema
+del *debt overhang* de Myers que estudias en
+[Derecho Bancario](../Nivel-IV-Corporate-Law/05-Derecho-Bancario-y-Financiamiento-Corporativo.md), resuelto
+por vía concursal: cuando la deuda existente desincentiva la inversión buena, hay que ponerla en segundo
+lugar respecto del dinero nuevo.
+
+> **Y el debate de fondo, que sigue abierto: ¿reorganizar o liquidar?** La LCM y el Chapter 11
+> estadounidense tienen un sesgo **pro-reorganización** —preservar la empresa, el empleo, el valor del
+> negocio en marcha—. La escuela de Chicago, con **Baird** y **Rasmussen** (*The End of Bankruptcy*), objetó
+> con un argumento incómodo: muchas reorganizaciones mantienen vivas **empresas zombis** que deberían
+> liquidarse, y hoy existe un mercado de M&A de empresas en dificultades capaz de reasignar esos activos
+> mejor y más rápido que un procedimiento judicial.
+>
+> *Postura del Consejo:* la crítica es válida como advertencia y excesiva como regla. La reorganización se
+> justifica cuando el negocio **en marcha vale más que sus activos por separado** —es decir, cuando hay
+> *goodwill* real que se destruiría al liquidar—, y no se justifica cuando solo preserva el control de
+> quien ya demostró que no puede administrar. La pregunta operativa que hay que hacerle a cada expediente
+> es esa, y es la misma del §6: **¿qué se pierde si esta empresa se desarma?** Si la respuesta es "poco",
+> la reorganización solo está retrasando lo inevitable y consumiendo el patrimonio de los acreedores en el
+> camino.
+
 ## 7. Contexto político
 
 El concurso es una decisión de política económica de **equilibrio** entre intereses en conflicto:
@@ -495,6 +537,33 @@ naufragio —y a prepararse para él **antes** de que ocurra—.
   (salarios e indemnizaciones) en el concurso.
 
 > *Nota de método (Manifiesto XI.5):* verificar la vigencia y los datos de los casos y normas antes de
+**Vitro (2010-2013 ⚠️ *verificar*): el caso mexicano que enseñó insolvencia transfronteriza al mundo.** Un
+grupo mexicano reestructuró en México y buscó el reconocimiento de su plan en Estados Unidos. El punto de
+choque fueron las **garantías intragrupo** y el trato a los acreedores extranjeros: los tribunales
+estadounidenses se resistieron a reconocer un plan que, en su lectura, liberaba obligaciones de filiales
+garantes en términos que su propio derecho no habría permitido.
+
+**Aeroméxico y Oro Negro** ⚠️ litigaron, cada uno a su manera, en la frontera entre la LCM y el Chapter 11.
+
+> **Las tres lecciones prácticas, y son de las más valiosas del libro.**
+>
+> **Primera: la insolvencia moderna es multijurisdiccional.** El *forum shopping* —elegir dónde iniciar el
+> procedimiento— es una decisión estratégica de primer orden, y el reconocimiento del procedimiento
+> extranjero depende de la **cortesía internacional** (*comity*), que no es automática. La **Ley Modelo
+> UNCITRAL** de insolvencia transfronteriza existe precisamente para ordenar esto, y México se inspira en
+> ella.
+>
+> **Segunda: quien domina las dos sillas gana.** El abogado que entiende la LCM **y** el Chapter 11 tiene
+> una ventaja enorme sobre el que solo conoce una, porque las reestructuras grandes se negocian entre las
+> dos y el resultado depende de anticipar qué reconocerá el otro tribunal.
+>
+> **Tercera, y es la más simple de todas:** en un concurso, **el acreedor con garantía real perfeccionada
+> cobra; el quirografario espera**. Toda la técnica de
+> [Garantías](../Nivel-II-Derecho-Civil-Profundo/04-Garantias-y-Derechos-Reales-de-Garantia.md) —la
+> inscripción, la perfección, el registro— que parecía trámite en tiempos buenos, es exactamente lo que
+> decide quién recupera su dinero en tiempos malos. Ese es el momento en que se cobra el trabajo bien hecho
+> años antes.
+
 > invocarlos; se exponen por su valor formativo.
 
 ## 19. Casos empresariales
@@ -892,6 +961,17 @@ penúltima pieza del Nivel III antes del gobierno corporativo y del salto al Cor
 - **Directiva UE 2019/1023** sobre reestructuración preventiva y segunda oportunidad.
 - **Doctrina mexicana de reestructuración y *distressed*** (reciente): para los *workouts*, los
   prepacks y el *distressed M&A*.
+- **Thomas Jackson, *The Logic and Limits of Bankruptcy Law* (1986).** La obra que explica el concurso como
+  solución a un problema de acción colectiva (§6). Si vas a leer un solo libro teórico de esta materia, es
+  este.
+- **Baird & Rasmussen, *The End of Bankruptcy* (*Stanford Law Review*, 2002).** La crítica de Chicago a la
+  reorganización. Provocador y necesario: obliga a justificar por qué se salva una empresa en lugar de
+  liquidarla.
+- **Ley Modelo UNCITRAL sobre Insolvencia Transfronteriza.** El marco que ordena el reconocimiento entre
+  jurisdicciones y en el que se inspira el régimen mexicano. Imprescindible si vas a trabajar en
+  reestructuras de grupos con presencia internacional.
+- **Los expedientes de *Vitro*, *Aeroméxico* y *Oro Negro*** ⚠️, para ver la insolvencia transfronteriza
+  mexicana en la práctica y no en la teoría.
 
 ## 43. Ruta hacia el siguiente libro
 
@@ -961,59 +1041,6 @@ distingue al abogado de negocios completo.
 > buenos consejos y deberes fiduciarios, y que es la puerta directa al **Nivel IV: Corporate Law y
 > M&A**. El objetivo está cada vez más cerca.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-La insolvencia es un **juego de suma (casi) cero** por el valor que queda: el derecho concursal decide **quién cobra, cuánto y en qué orden**, y si la empresa se **reorganiza** (conciliación) o se **liquida** (quiebra). El socio piensa en **posición relativa**: dónde queda su cliente en la prelación, si su garantía resiste, y si conviene empujar la reestructura o la venta. Aquí el tiempo destruye valor: la velocidad es estrategia.
-
-### Doctrina y debate
-- ***Creditors' bargain theory* (Thomas Jackson):** el derecho concursal simula el acuerdo que los acreedores habrían pactado *ex ante* para evitar la "carrera" por los activos.
-- ***Absolute priority rule*:** los acreedores cobran antes que los accionistas; debate sobre sus excepciones (*new value*).
-- **Reorganización vs. liquidación:** ¿preservar la empresa en marcha (valor going concern) o liquidar? El sesgo pro-reorganización de la LCM y del Chapter 11 tiene críticos.
-
-### Derecho comparado
-El **Chapter 11** estadounidense (deudor en posesión, *DIP financing*, *automatic stay*) es el modelo global de reorganización. La **LCM** mexicana (conciliación + quiebra, IFECOM) se inspira en él y en la **Ley Modelo UNCITRAL** sobre insolvencia transfronteriza. Reino Unido usa *administration* y *schemes of arrangement*.
-
-### Caso real
-**Vitro (2010-2013) ⚠️ *verificar*:** célebre caso **transfronterizo** donde un concurso mexicano chocó con acreedores en EE. UU. (reconocimiento, *comity*, trato a garantías intragrupo). **Aeroméxico** y **Grupo Oro Negro** litigaron su reestructura entre México y el Chapter 11. Lección: la insolvencia moderna es **multijurisdiccional**; quien domina ambas sillas gana.
-
-### Errores que cuestan millones
-- Llegar tarde: no detectar el **incumplimiento generalizado** (art. 10 LCM ⟳) y perder opciones de reestructura.
-- Descuidar la **perfección de garantías** antes de la insolvencia (se vuelven quirografarias).
-
-### Preguntas
-- **Criterio:** ¿el derecho debe favorecer reorganizar o liquidar a la empresa insolvente?
-- **Entrevista:** ¿qué es el *automatic stay* y por qué cambia la negociación?
-- **Examen:** distinga las etapas de conciliación y quiebra en la LCM.
-
-### Bibliografía por niveles
-- **Básico:** Dávalos Mejía, *Títulos y contratos de crédito, quiebras*.
-- **Intermedio:** análisis de la LCM y del IFECOM.
-- **Avanzado:** Thomas Jackson, *The Logic and Limits of Bankruptcy Law*.
-- **Internacional:** UNCITRAL Model Law on Cross-Border Insolvency; US Bankruptcy Code (Chapter 11).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El derecho concursal resuelve un **problema de acción colectiva**: ante un deudor insolvente, cada acreedor tiene incentivo a cobrar primero (la "carrera al patrimonio"), lo que destruye valor —desmantela una empresa que valdría más operando (*going concern*) que liquidada en pedazos. La ***creditors' bargain theory*** de **Thomas Jackson** explica el concurso como el acuerdo que los acreedores habrían pactado *ex ante* para evitar esa carrera: un procedimiento colectivo, ordenado y con *stay*.
-
-**El debate.** **Reorganización vs. liquidación**: el Chapter 11 y la LCM tienen sesgo pro-reorganización (preservar empleo y empresa). Los críticos (Baird, escuela de Chicago) sostienen que muchas reorganizaciones **mantienen vivos "zombis"** que deberían liquidarse, y que el mercado de M&A de empresas en dificultades asigna mejor los activos. Debate paralelo: **prioridad absoluta** (accionistas cobran al final) vs. las excepciones (*new value*) que permiten al accionista-gestor conservar algo si aporta capital fresco.
-
-**Mirada de AED.** El *automatic stay* (suspensión) evita la destrucción de valor por ejecuciones descoordinadas; la **regla de prioridad absoluta** preserva los incentivos ex ante del crédito (si el acreedor supiera que cobrará después del accionista, no prestaría). El *DIP financing* (financiamiento al deudor en posesión, con superprioridad) resuelve el *debt overhang*: nadie prestaría a un insolvente sin esa prioridad.
-
-**Comparado y lección para México.** El **Chapter 11** (deudor en posesión, *cram-down*, *stay*) es el modelo global; el Reino Unido usa *administration* y *schemes/restructuring plans*; la LCM mexicana (conciliación + quiebra) se inspira en el Chapter 11 y en la **Ley Modelo UNCITRAL** de insolvencia transfronteriza. **Lección:** México necesita jueces concursales más especializados y rápidos —el tiempo es el enemigo del valor.
-
-**Crítica.** La LCM ha sido criticada por **lentitud** y por captura por acreedores sofisticados. El *forum shopping* transfronterizo (elegir la jurisdicción más favorable) y el trato a garantías intragrupo generan litigios de reconocimiento (*comity*).
-
-**Jurisprudencia y operación real.** **Vitro** (2010-2013 ⚠️): choque México–EE. UU. sobre reconocimiento y garantías intragrupo, leading case de insolvencia transfronteriza. **Aeroméxico** y **Oro Negro** litigaron entre la LCM y el Chapter 11. En la práctica, el acreedor con **garantía real perfeccionada** cobra; el quirografario reza. La insolvencia moderna es multijurisdiccional: quien domina las dos sillas gana.
-
-**Para leer más:** Thomas Jackson, *The Logic and Limits of Bankruptcy Law* (1986); Baird & Rasmussen, *The End of Bankruptcy* (Stan. L. Rev., 2002); UNCITRAL Model Law on Cross-Border Insolvency.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

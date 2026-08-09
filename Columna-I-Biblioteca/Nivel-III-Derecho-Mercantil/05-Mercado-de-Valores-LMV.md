@@ -143,6 +143,52 @@ El mercado de valores cumple funciones económicas centrales (Libros 9 y 10, Niv
 La **asimetría de información** (Akerlof, Libro 9) es el problema central que la regulación de
 *disclosure* combate: sin información veraz, el mercado de "limones" colapsaría.
 
+### ¿Y por qué la revelación tiene que ser obligatoria?
+
+Parece una pregunta ingenua y es el debate fundacional de esta materia. Si revelar información **reduce el
+costo de capital** del emisor —porque el inversionista exige menos prima cuando tiene menos incertidumbre—
+entonces el emisor tendría **incentivo propio** para revelar, sin que nadie lo obligue. Esa es la objeción
+de **Easterbrook y Fischel**, y es más fuerte de lo que parece.
+
+La respuesta que hoy predomina la formuló **John Coffee**: hay **bienes públicos informativos**. Parte de
+la información que produce un emisor es útil para el mercado **en su conjunto** —para comparar, para valuar
+al sector, para asignar capital— y de esa utilidad el emisor no puede apropiarse. Como no puede cobrarla,
+la produce por debajo de lo socialmente óptimo. Ese es el fallo de mercado que justifica el mandato.
+
+El otro pilar es la **hipótesis del mercado eficiente** (Fama): si los precios incorporan rápidamente la
+información pública, entonces obligar a revelar es la forma más eficiente de lograr precios correctos —no
+hace falta que un regulador juzgue el valor de la empresa, basta con que la información fluya—. Y su
+matización viene de las finanzas conductuales (**Shiller**): existen burbujas, los precios se desvían de los
+fundamentos, y por tanto la revelación es necesaria pero no suficiente.
+
+> **Y una tesis provocadora que conviene conocer para poder rechazarla con argumentos.** **Henry Manne**
+> llegó a defender que el *insider trading* debería permitirse, porque incentivaría a producir información
+> y esta se incorporaría al precio más rápido. Es una posición **minoritaria y rechazada**, y su rechazo se
+> apoya en dos razones que un abogado debe poder articular: destruye la **confianza** en la integridad del
+> mercado —que es su insumo básico—, y hace que el inversionista común descuente sistemáticamente su
+> disposición a participar, encareciendo el capital para todos.
+
+**El caso fundacional.** ***SEC v. Texas Gulf Sulphur*** (1968) es la piedra angular del régimen de
+información privilegiada y fijó el principio de ***disclose or abstain***: quien posee información
+relevante no pública **revela o se abstiene de operar**. No hay una tercera opción, y esa regla —con sus
+variantes— es hoy universal.
+
+**Y la crítica que la propia materia se hace: la revelación como ritual.** El *disclosure* creció hasta la
+**sobrecarga informativa**: prospectos de cientos de páginas que nadie lee completos, donde el riesgo
+relevante queda sepultado entre advertencias genéricas. Es el mismo fenómeno que el
+[Libro 4 del Nivel IV](../Nivel-IV-Corporate-Law/04-Documentacion-Term-Sheet-SPA-APA-SHA.md) describe como
+carrera armamentista contractual, y produce la misma paradoja: **más páginas, menos protección real**. A
+Sarbanes-Oxley se le reprochó, en la misma línea, haber encarecido tanto cotizar que empujó a muchas
+empresas a permanecer privadas —contribuyendo al auge del capital privado del
+[Libro 7 del Nivel IV](../Nivel-IV-Corporate-Law/07-Private-Equity-y-Venture-Capital.md)—.
+
+> **La lección de oficio, y es la que aplica a tu trabajo mañana:** el riesgo real de un emisor casi nunca
+> es haber omitido un dato exótico. Es la **revelación tardía** o **selectiva** —informar a unos antes que
+> a otros— y la **responsabilidad por el prospecto**. En el episodio de la adquisición de Twitter, por
+> ejemplo, el retraso en la presentación del aviso de participación relevante fue objeto de señalamiento
+> por la autoridad estadounidense ⚠️ *verificar*. Nadie se equivocó en una definición contable: se
+> equivocaron en el calendario.
+
 ## 7. Contexto político
 
 El mercado de valores es estratégico para el Estado: financia el desarrollo, gestiona el ahorro para
@@ -870,6 +916,18 @@ públicas. Con él, casi cerramos el Nivel III y quedamos a un paso del Corporat
   (México).** Los estándares de mejores prácticas.
 - **Doctrina sobre la LMV de 2005 (S.A.B., S.A.P.I., gobierno corporativo).** Para el detalle del
   régimen mexicano.
+- **Fama, *Efficient Capital Markets* (*Journal of Finance*, 1970).** La hipótesis del mercado eficiente,
+  que es el supuesto sobre el que se construyó todo el régimen de revelación. Hay que conocerla para
+  entender por qué el sistema apuesta por informar en lugar de por autorizar.
+- **Coffee, *Market Failure and the Economic Case for a Mandatory Disclosure System* (*Virginia Law
+  Review*, 1984).** La respuesta que justifica el mandato: los bienes públicos informativos (§6). Es el
+  artículo que hay que citar cuando alguien pregunte por qué no basta con la revelación voluntaria.
+- **Easterbrook & Fischel**, su capítulo sobre *disclosure*, para el lado escéptico del debate; y
+  **Shiller** para la crítica conductual a la eficiencia (burbujas).
+- **Jurisprudencia fundacional:** *SEC v. Texas Gulf Sulphur* (1968), origen de la regla *disclose or
+  abstain* en materia de información privilegiada.
+- **Régimen europeo:** el **Reglamento de Abuso de Mercado (MAR)**, útil como contraste con el modelo
+  estadounidense y con la LMV mexicana.
 
 ## 43. Ruta hacia el siguiente libro
 
@@ -934,59 +992,6 @@ de las grandes corporaciones.
 > **gobierno corporativo**. Después, el **Nivel IV** reunirá todo en el corazón del objetivo: las
 > **Fusiones y Adquisiciones**. Estás a un paso.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El mercado de valores es cómo una empresa **se financia con el público** (capital o deuda) a cambio de someterse a un régimen severo de **revelación (*disclosure*)** y de proteger al inversionista. El socio piensa en tres ejes: **oferta pública vs. privada** (qué desencadena la regulación), **revelación** (qué hay que decir y cuándo) y **abuso de mercado** (uso de información privilegiada, manipulación). Aquí un error de *disclosure* no es multa: es responsabilidad civil colectiva y penal.
-
-### Doctrina y debate
-- **Hipótesis del mercado eficiente (Fama):** los precios incorporan la información disponible; fundamento teórico del *mandatory disclosure*.
-- **Debate sobre la revelación obligatoria:** ¿debe el Estado imponerla (Coffee) o el mercado la produciría solo (Easterbrook & Fischel)? Es el corazón del derecho bursátil.
-- **Costos de agencia** entre accionistas dispersos y administradores (Berle & Means; Jensen & Meckling).
-
-### Derecho comparado
-EE. UU. edificó el modelo: ***Securities Act* 1933** (oferta) y ***Exchange Act* 1934** (mercado secundario, SEC), reforzados por **Sarbanes-Oxley** (2002, tras Enron) y **Dodd-Frank** (2010, tras la crisis). La UE tiene el **MAR** (*Market Abuse Regulation*). México: **LMV** y **CNBV** ⟳, con influencia directa del modelo estadounidense.
-
-### Caso real
-**Elon Musk y Twitter/X (2022):** además de la batalla del SPA (intento de desistirse y litigio en Delaware que lo forzó a cerrar en ~44,000 mdd ⚠️ *verificar*), Musk fue señalado por **revelar tarde** su participación relevante (*Schedule 13D*). Lección doble: en mercados públicos, *disclosure* tardío y "arrepentimiento" de comprador tienen consecuencias severas.
-
-### Errores que cuestan millones
-- **Uso de información privilegiada** (*insider trading*) o **revelación selectiva**.
-- Estructurar como "privada" una colocación que en realidad fue **oferta pública** (sanción y nulidad).
-
-### Preguntas
-- **Criterio:** ¿la revelación obligatoria es necesaria o el mercado la generaría solo?
-- **Entrevista:** ¿qué distingue una oferta pública de una privada y por qué importa?
-- **Examen:** explique en qué consiste el uso indebido de información privilegiada.
-
-### Bibliografía por niveles
-- **Básico:** Ignacio Gómez-Palacio, *Derecho de los mercados de valores*.
-- **Intermedio:** documentos regulatorios de la CNBV y la LMV.
-- **Avanzado:** Coffee & Sale, *Securities Regulation*.
-- **Internacional:** Easterbrook & Fischel, *The Economic Structure of Corporate Law* (disclosure).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El derecho bursátil existe para resolver la **asimetría de información** entre emisores y el público inversionista y para dar **confianza** a un mercado impersonal. Su historia es reactiva: la **crisis de 1929** parió la *Securities Act* (1933) y la *Exchange Act* (1934); **Enron/WorldCom** parieron Sarbanes-Oxley (2002); la crisis de 2008 parió Dodd-Frank. Cada gran fraude ha ampliado el deber de revelar.
-
-**El debate.** ¿Revelación **obligatoria** o voluntaria? La **hipótesis del mercado eficiente** (Fama) fundamenta que los precios incorporan la información pública —de ahí el *mandatory disclosure*. Pero Easterbrook & Fischel argumentaron que el emisor tiene incentivos propios para revelar (menor costo de capital), poniendo en duda la necesidad del mandato; Coffee respondió que hay **bienes públicos informativos** (información útil para el mercado en su conjunto) que el emisor no produciría solo. Predomina el mandato, matizado. Segundo debate: las finanzas conductuales (Shiller) cuestionan la eficiencia —hay burbujas.
-
-**Mirada de AED.** La prohibición del ***insider trading*** se justifica por **integridad y eficiencia** del mercado (Manne, provocador, llegó a defenderlo como incentivo a producir información —tesis minoritaria y rechazada). La revelación reduce el costo de capital porque disminuye la prima por incertidumbre que exige el inversionista.
-
-**Comparado y lección para México.** EE. UU. construyó el modelo (SEC, *disclosure*, *class actions* de valores como mecanismo de *enforcement* privado); la UE tiene el **MAR**. México (LMV, CNBV ⟳) tiene un mercado pequeño y concentrado, con poco *enforcement* privado. **Lección:** sin *enforcement* creíble (público y privado) y sin liquidez, la mejor ley bursátil es letra muerta; el reto mexicano es profundizar el mercado.
-
-**Crítica.** El *disclosure* ha crecido hasta la **sobrecarga informativa**: prospectos de cientos de páginas que nadie lee (crítica de la "revelación como ritual"). Y Sarbanes-Oxley fue acusada de encarecer tanto cotizar que empujó empresas a **quedarse privadas** (auge del capital privado).
-
-**Jurisprudencia y operación real.** *SEC v. Texas Gulf Sulphur* (EE. UU., 1968): piedra angular del *insider trading* y del deber de *disclose or abstain*. En la práctica, el riesgo real de un emisor es la **revelación tardía o selectiva** y la **responsabilidad por el prospecto**; en el caso Musk/Twitter, el *disclosure* tardío del 13D fue señalado por la SEC.
-
-**Para leer más:** Fama, *Efficient Capital Markets* (J. Finance, 1970); Coffee, *Market Failure and the Economic Case for a Mandatory Disclosure System* (Va. L. Rev., 1984); Easterbrook & Fischel, cap. sobre *disclosure*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*
