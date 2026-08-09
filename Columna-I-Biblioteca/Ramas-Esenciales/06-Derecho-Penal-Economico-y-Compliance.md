@@ -471,6 +471,23 @@ infundadas. Y una línea ética inquebrantable (Principio 2 del proyecto): el ab
   "debió" controlar?
 
 
+- **El modelo económico del delito (Becker) y su consecuencia directa sobre el diseño de un programa de
+  cumplimiento.** Gary Becker propuso analizar el delito como una decisión: se comete cuando el beneficio
+  esperado excede el **costo esperado**, y ese costo es el producto de dos factores —**probabilidad de ser
+  detectado × magnitud de la sanción**—. La consecuencia es contraintuitiva y muy útil: para disuadir, una
+  **sanción moderada con alta probabilidad de detección** suele funcionar mejor que una sanción severísima
+  que casi nunca se aplica.
+  > **Traducción a tu trabajo:** eso es, exactamente, el argumento económico a favor del *compliance*. Un
+  > programa real no disuade porque amenace: disuade porque **eleva la probabilidad de que la conducta se
+  > detecte** —canales de denuncia, auditoría, controles, trazabilidad—. Y explica por qué las autoridades
+  > premian los programas efectivos: aumentan la detección a costo del propio regulado.
+- **Y la evidencia de que el riesgo es real y transnacional.** Los casos **Siemens** y la investigación
+  conocida como **Lava Jato** —con el expediente de Odebrecht— mostraron esquemas de pagos irregulares
+  organizados a escala internacional, con consecuencias penales, económicas y políticas en múltiples países.
+  La lección para una empresa mexicana con operaciones o socios en el extranjero es de exposición: la
+  conducta de un intermediario en un país puede activar la responsabilidad en otro. Ver el patrón 6 de
+  [Reconocer el desastre antes](../../Columna-III-Laboratorio/15-Reconocer-el-Desastre-Antes.md).
+
 ## 30. Errores comunes
 
 1. **Confundir planeación fiscal con defraudación.** La primera es legal; la segunda, con engaño/simulación,
@@ -713,59 +730,6 @@ Empresa Familiar     ★★★☆☆
 verifica todo tipo penal, artículo, pena y monto contra su texto vigente (CPF, CFF, CNPP, LMV, Ley
 Antilavado) en el DOF y los criterios en el SJF.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El penal económico es el riesgo que **manda a la cárcel al cliente y al abogado**: fraude, administración fraudulenta, defraudación fiscal, lavado (PLD), uso de información privilegiada. El socio piensa en **prevención** (programa de *compliance* que exime o atenúa, art. 421 CNPP ⟳) y en **contención** (qué hacer en las primeras 48 horas de una investigación). En M&A, la responsabilidad **penal de la persona moral** se hereda: un delito del *target* no visto en el DD contamina al comprador.
-
-### Doctrina y debate
-- **Bien jurídico colectivo** (orden económico, hacienda pública) frente al penal clásico individual.
-- **Responsabilidad penal de la persona moral:** modelos de *respondeat superior* (EE. UU., por el acto del empleado) vs. **culpabilidad de la organización** (defecto de organización; *compliance* como eximente).
-- **Debate:** ¿el *compliance* penal previene delitos o solo reparte culpas hacia abajo?
-
-### Derecho comparado
-**FCPA** (EE. UU.) y **UK Bribery Act** definen el estándar anticorrupción con alcance extraterritorial. La responsabilidad corporativa penal es amplia en EE. UU. y más acotada (pero creciente) en el civil law. México la incorporó en el CNPP ⟳.
-
-### Caso real
-**FTX / Sam Bankman-Fried (condenado en 2024 ⚠️ *verificar*):** fraude y desvío de fondos de clientes; el colapso mostró la ausencia total de controles. **Enron** (ejecutivos presos) y **Odebrecht** (cohecho transnacional). Lección: sin *compliance* real, el delito de un ejecutivo se vuelve la ruina penal de toda la organización.
-
-### Errores que cuestan millones
-- ***Paper compliance*** que no exime ni atenúa.
-- No hacer **DD anticorrupción/PLD** del *target* (responsabilidad del sucesor).
-
-### Preguntas
-- **Criterio:** ¿debe la persona moral responder penalmente, o solo las personas físicas?
-- **Entrevista:** ¿qué hace en las primeras 48 horas de una investigación penal a su cliente?
-- **Examen:** ¿cómo puede el *compliance* atenuar o excluir la responsabilidad penal corporativa?
-
-### Bibliografía por niveles
-- **Básico:** *Resource Guide to the FCPA* (DOJ/SEC).
-- **Intermedio:** Silva Sánchez, *Fundamentos del derecho penal de la empresa*.
-- **Avanzado:** Tiedemann, *Derecho penal económico*.
-- **Internacional:** Convención Anticohecho de la OCDE.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El penal económico protege **bienes jurídicos colectivos** (orden económico, hacienda, mercado) que el penal clásico —centrado en la persona— no alcanzaba. Su expansión responde a que el daño de un fraude corporativo o de un cartel supera al de mil delitos individuales. La **responsabilidad penal de la persona moral** (art. 421 CNPP ⟳) rompe el dogma *societas delinquere non potest* porque los incentivos importan: solo amenazando a la empresa se logra que invierta en prevención.
-
-**El debate.** ***Respondeat superior* (EE. UU.: la empresa responde por el acto del empleado en su beneficio) vs. culpabilidad por defecto de organización** (modelo europeo: responde si falló en prevenir). El debate: el modelo estadounidense es amplio pero convierte al fiscal en regulador vía *deferred prosecution agreements* (DPA); el europeo premia el *compliance* efectivo como eximente. ¿El *compliance* previene delitos o solo **traslada la culpa hacia abajo** (al empleado) y compra indulgencia?
-
-**Mirada de AED.** Becker (economía del delito): el delito se disuade con **probabilidad de detección × severidad de la sanción**. El *compliance* eleva la detección interna; los DPA y la delación premiada (colaboración eficaz) resuelven el problema de que los delitos corporativos son difíciles de probar sin cooperación desde dentro. El riesgo: sobre-*compliance* defensivo que solo genera costo.
-
-**Comparado y lección para México.** **FCPA** (EE. UU., extraterritorial) y **UK Bribery Act** (con el delito de "no prevención del cohecho") fijaron el estándar; los DPA transformaron el *enforcement*. México incorporó responsabilidad penal corporativa (CNPP) y el Sistema Nacional Anticorrupción. **Lección:** sin un *enforcement* creíble y mecanismos de cooperación (DPA a la mexicana), la responsabilidad corporativa es simbólica.
-
-**Crítica.** Los DPA son criticados por permitir que las grandes empresas "compren" la absolución (multa sin condena), erosionando la igualdad ante la ley. Y el *compliance*, por volverse una **industria** que vende tranquilidad más que prevención real.
-
-**Jurisprudencia y operación real.** **Siemens** (FCPA, 2008, ~1,600 mdd ⚠️), **Odebrecht/Lava Jato** (~788 mdd en sobornos ⚠️), **FTX/SBF** (condena 2024 ⚠️). En M&A, la **responsabilidad del sucesor** por delitos del *target* obliga a *due diligence* anticorrupción/PLD; un pasivo penal no visto contamina al comprador.
-
-**Para leer más:** Becker, *Crime and Punishment: An Economic Approach* (1968); Silva Sánchez, *La responsabilidad penal de las personas jurídicas*; *Resource Guide to the FCPA* (DOJ/SEC).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

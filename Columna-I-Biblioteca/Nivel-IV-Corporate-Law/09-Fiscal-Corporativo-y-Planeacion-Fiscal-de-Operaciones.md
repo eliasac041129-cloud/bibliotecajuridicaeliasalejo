@@ -161,6 +161,43 @@ diseñado busca **neutralidad** (no distorsionar decisiones económicas sanas) y
 razonable, surge la planeación; cuando la planeación se vuelve abuso, surge la reacción del fisco. Es
 un equilibrio dinámico, casi un juego repetido (Nivel V), entre contribuyente y autoridad.
 
+### El debate matriz del derecho fiscal, y sus dos sentencias fundadoras
+
+Todo lo que sigue en este libro se apoya en una tensión de casi un siglo, y conviene conocer sus dos polos
+porque siguen vivos en cada discusión con la autoridad.
+
+**El polo de la forma: *IRC v. Duke of Westminster*** (Reino Unido, 1936). Su idea, formulada con una
+claridad que todavía se cita: **cada quien puede ordenar sus negocios para que el impuesto sea el menor
+posible**. De ahí nace la doctrina de la **economía de opción**: si la ley ofrece dos caminos y uno paga
+menos, elegirlo no es abuso — es ejercer un derecho. Sin este principio no existiría la planeación fiscal
+legítima, y tampoco la seguridad jurídica.
+
+**El polo de la sustancia: *Gregory v. Helvering*** (Estados Unidos, 1935). El caso resolvió lo contrario
+en un supuesto concreto: una reorganización que cumplía **todos** los requisitos formales de la ley pero
+que **no tenía propósito de negocio** —existía solo para producir el efecto fiscal— no surtía efectos.
+Nació así la doctrina de la **sustancia económica sobre la forma**.
+
+> **Los dos casos no se contradicen tanto como parece, y entender por qué es lo que te vuelve útil.**
+> *Westminster* protege la libertad de **elegir entre estructuras reales**. *Gregory* niega efectos a
+> estructuras que **no son reales**. La pregunta que separa un caso del otro no es *"¿cumple la forma?"*
+> sino *"¿habría hecho el contribuyente esto si el beneficio fiscal no existiera?"*.
+
+Hoy predomina la sustancia, y no por moda: se instrumentó en normas positivas. Las **GAAR** —cláusulas
+generales antiabuso— habilitan a la autoridad a recaracterizar lo artificioso, y en México esa función la
+cumple la **razón de negocios del artículo 5o.-A del CFF** ⟳ ✅ *(cotejado verbatim; ver también el Libro
+3 de este nivel)*. Estados Unidos codificó su *economic substance doctrine* en 2010.
+
+**Y la objeción formalista, que hay que tomar en serio.** Si la autoridad puede recaracterizar lo que
+cumple la letra de la ley, ¿dónde queda la **previsibilidad**? La crítica advierte que una GAAR vaga
+convierte al fisco en legislador y traslada al contribuyente el riesgo de una interpretación futura. No es
+un argumento gremial: es un problema real de seguridad jurídica.
+
+*Postura del Consejo:* la tendencia hacia la sustancia es **irreversible** y el abogado que la ignora
+asesora hacia un pasivo latente. Pero la respuesta al riesgo de arbitrariedad no es negar la GAAR: es
+**documentar la razón de negocios cuando existe**. Una estructura con propósito real, cuyo expediente
+acredita ese propósito desde el inicio, resiste. Una que se justifica a posteriori, no. Ese es, en esta
+materia, el trabajo concreto del abogado: **construir el expediente al mismo tiempo que la estructura.**
+
 ## 7. Contexto político
 
 Los impuestos son el corazón del **pacto fiscal**: cuánto aporta cada quien al sostenimiento del
@@ -528,6 +565,51 @@ eficiente que vender activos sueltos. ⚠️ *Requisitos de neutralidad y perman
 - **Patrón "sin razón de negocios".** Estructuras formalmente válidas pero cuyo único fin era el
   ahorro fiscal, recaracterizadas vía la cláusula anti-abuso. *Verificar precedentes vigentes.*
 
+**Apple–Irlanda: la versión contemporánea del debate, por una vía inesperada.** La Comisión Europea
+sostuvo que el tratamiento fiscal concedido a la compañía constituía una **ayuda de Estado** prohibida, y
+el asunto culminó en el TJUE con una resolución en contra de la empresa y del Estado por unos 13,000
+millones de euros ⚠️ *verificar*. Lo interesante para un abogado corporativo no es la cifra: es el
+**instrumento**. La Comisión no atacó la estructura con derecho fiscal ni con una GAAR, sino con **derecho
+de la competencia** —el régimen de ayudas de Estado—.
+
+> **La lección de método: el riesgo fiscal ya no llega solo por la puerta fiscal.** Puede entrar por
+> competencia (ayudas de Estado), por transparencia (obligaciones de revelación y esquemas reportables),
+> por vía reputacional o por presión de inversionistas. Un análisis que solo consulta al fiscalista está
+> incompleto, y es la razón por la que en este nivel insistimos en analizar **fiscal, pasivos y
+> aprobaciones en paralelo** (Libro 3).
+
+**Y el otro frente, el reputacional.** Las filtraciones documentales masivas —conocidas como *Panama
+Papers* y *Paradise Papers*— instalaron en la conversación pública una idea que jurídicamente es
+incómoda y prácticamente es decisiva: **que algo sea legal no lo vuelve necesariamente legítimo a ojos del
+mercado**. Estructuras impecables han costado clientes, contratos públicos y valor de marca. Cuando
+asesores una estructura, la pregunta completa ya no es *"¿es legal?"* sino *"¿es legal y podría explicarse
+en público sin que le cueste a mi cliente más de lo que le ahorra?"*. Es la prueba del tercero del
+[módulo 06 de la Columna VI](../../Columna-VI-Inteligencia-Humana/06-La-Frontera-Etica.md).
+
+### Cómo se traduce todo esto en una operación de M&A
+
+Aquí es donde este libro se conecta con el resto del nivel, y el mecanismo es concreto. Cuando el
+fiscalista encuentra una contingencia en el *due diligence*, no basta con reportarla: hay que **medir su
+vida útil**. El **artículo 67 del CFF** ⟳ ✅ *(cotejado verbatim en [`fuentes-legales/`](../../fuentes-legales/CFF-Codigo-Fiscal-de-la-Federacion.txt))*
+dispone que las facultades de la autoridad para determinar contribuciones omitidas e imponer sanciones
+*"se extinguen en el plazo de cinco años"* contados desde los supuestos que el propio artículo enumera —con
+plazos mayores en los casos que ahí se prevén—.
+
+Ese plazo es el que **debe gobernar el *survival* de las declaraciones fiscales del SPA**, y no el plazo
+comercial de doce o dieciocho meses. Si aceptas un *survival* corto para la materia fiscal, tu cliente se
+queda con la contingencia viva y sin nadie a quién cobrarle. De ahí la triple traducción que el fiscalista
+y tú deben producir juntos:
+
+| Hallazgo fiscal | Su traducción contractual |
+|---|---|
+| Cuantificado y cierto | **Ajuste de precio** |
+| Contingente | **Declaración fiscal específica + indemnidad sin *basket*** |
+| De vida larga (caducidad art. 67 ⟳) | ***Survival* alineado a la caducidad**, no al plazo general |
+| Sin respaldo patrimonial confiable | ***Escrow* o retención** por el plazo correspondiente |
+
+Es exactamente el canje que se entrena en el
+[ejercicio 12 del Laboratorio](../../Columna-III-Laboratorio/12-Negociar-el-Contrato-Clausula-por-Clausula.md).
+
 ## 19. Casos empresariales (en la vida de una compañía)
 
 - **Distribuir utilidades:** ¿sueldo a los dueños-administradores (deducible para la empresa, pero
@@ -586,6 +668,26 @@ régimen concreto debe verificarse en la legislación vigente del país.*
 > "neutralidad" de México/España/UE responden a la **misma intuición** (no gravar la mera
 > reorganización), con requisitos distintos. Quien hace deals *cross-border* debe dominar las dos
 > lógicas y a sus fiscalistas locales.
+
+**Tres piezas del vocabulario internacional que hay que reconocer.** No para dominarlas —eso es trabajo del
+fiscalista— sino para no perderse en la conversación:
+
+- **GILTI y BEAT** (Estados Unidos, reforma de 2017). Dos mecanismos que atacan, por vías distintas, el
+  traslado de utilidades al exterior: el primero grava cierta renta de subsidiarias extranjeras; el segundo
+  actúa como un impuesto mínimo frente a pagos erosivos a partes relacionadas en el exterior ⚠️. Su efecto
+  práctico: **volvieron mucho menos rentables las estructuras de erosión clásicas**.
+- **Los pilares del proyecto BEPS de la OCDE**, incluido el impulso hacia una **tributación mínima
+  global** ⚠️. La dirección es inequívoca: reducir el espacio de la competencia fiscal entre Estados.
+- **El *establecimiento permanente***, que es el concepto donde más se equivoca una empresa mediana que
+  se internacionaliza: la actividad en otro país puede generar obligación de tributar **allá** sin que
+  nadie haya constituido una sociedad. Es la trampa de la expansión que describe
+  [La empresa por dentro](../Nivel-V-Maestria/05-La-Empresa-por-Dentro.md).
+
+> **La conclusión comparada, y es la más útil del apartado.** La tendencia global es **irreversible hacia
+> la sustancia**: cada año hay menos espacio para las estructuras sin actividad real y más obligaciones de
+> revelación. El abogado que hoy diseña "cascarones" no está construyendo un ahorro: está construyendo un
+> **pasivo diferido** para su cliente, que se materializará cuando la norma alcance a la estructura —y
+> alcanzará—.
 
 ## 23. Derecho mexicano (régimen positivo)
 
@@ -876,6 +978,17 @@ Ante una operación con dimensión fiscal:
   aplica en la práctica y cómo se resuelve la línea elusión/abuso.
 - **Guías prácticas de *M&A tax* de despachos** — para el "cómo se estructura" real (con cautela:
   verificar vigencia).
+- **Las dos sentencias fundadoras, y se leen en una tarde:** *Gregory v. Helvering* (Estados Unidos, 1935)
+  e *IRC v. Duke of Westminster* (Reino Unido, 1936). Son los polos del debate del §6 y siguen siendo la
+  mejor formación conceptual disponible en esta materia. Léelas antes de cualquier manual.
+- **Informes del proyecto BEPS de la OCDE.** La fuente primaria de la agenda internacional: erosión de
+  base, traslado de utilidades, *treaty shopping* y tributación mínima. Densos, y es donde está escrito lo
+  que va a pasar.
+- **Tulio Rosembuj, *El fraude de ley y el abuso de las formas*.** Para la construcción dogmática del
+  abuso en tradición civil: es el complemento continental de las dos sentencias anglosajonas.
+- **Código Fiscal de la Federación, artículos 5o.-A (razón de negocios) y 67 (caducidad)** ⟳ — texto
+  oficial en [`fuentes-legales/`](../../fuentes-legales/CFF-Codigo-Fiscal-de-la-Federacion.txt). Los dos
+  artículos que más veces vas a necesitar en una operación.
 
 ## 43. Ruta hacia el siguiente libro
 
@@ -954,59 +1067,6 @@ a honorarios altos y recurrentes.*
 *Nivel IV · Libro 9 · Fiscal Corporativo y Planeación Fiscal de Operaciones. Estándar V3.
 Subordinado al Documento Fundacional AJE y al Protocolo de Verificación.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El fiscalista corporativo piensa en **rendimiento después de impuestos**: una operación brillante que ignora la carga fiscal destruye valor. Su terreno es la frontera —cada vez más vigilada— entre **planeación legítima (economía de opción)** y **elusión/evasión**. La brújula es la **sustancia**: ¿la operación tiene una **razón de negocios** real (art. 5-A CFF ✅ ⟳) más allá del ahorro fiscal?
-
-### Doctrina y debate
-- **Sustancia sobre forma** y **cláusula general antiabuso (GAAR):** el fisco puede recaracterizar operaciones sin sustancia económica. Debate: ¿dónde termina la planeación y empieza el abuso?
-- **BEPS (OCDE):** erosión de la base y traslado de utilidades; *treaty shopping*, precios de transferencia (*arm's length*), establecimiento permanente.
-- **Debate:** ¿la moralidad fiscal existe o solo la legalidad? (Postura de las multinacionales vs. la opinión pública tras los *leaks*).
-
-### Derecho comparado
-El proyecto **BEPS** (OCDE/G20) reordenó la fiscalidad internacional; EE. UU. añadió **GILTI/BEAT** (2017). La UE persigue las ayudas de Estado fiscales. México incorporó **razón de negocios (5-A CFF)**, revelación de esquemas reportables y reglas de precios de transferencia (LISR ⟳).
-
-### Caso real
-**Apple–Irlanda (ayudas de Estado, UE):** la Comisión Europea ordenó recuperar **~13,000 mdEUR ⚠️ *verificar*** por un régimen fiscal considerado ayuda ilegal (confirmado por el TJUE en 2024 ⚠️). **Starbucks y Amazon** enfrentaron casos análogos. Lección: la planeación agresiva sin sustancia se volvió riesgo reputacional y de recuperación multimillonaria.
-
-### Errores que cuestan millones
-- Estructuras **sin sustancia** (sociedades instrumentales) que el fisco recaracteriza (5-A CFF ⟳).
-- Ignorar **precios de transferencia** entre partes relacionadas.
-
-### Preguntas
-- **Criterio:** ¿la "planeación fiscal agresiva" es legítima si es legal?
-- **Entrevista:** ¿qué es una "razón de negocios" y por qué salva (o hunde) una reestructura?
-- **Examen:** explique el principio de sustancia sobre forma.
-
-### Bibliografía por niveles
-- **Básico:** ver el tratado base y [Derecho Fiscal](../Ramas-Esenciales/01-Derecho-Fiscal.md).
-- **Intermedio:** OCDE, *Acciones BEPS* (resúmenes).
-- **Avanzado:** Rosembuj, *El fraude de ley y el abuso de las formas*.
-- **Internacional:** OCDE, *Model Tax Convention*; informes BEPS 2015.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La planeación fiscal existe porque el impuesto es un **costo** como cualquier otro, y el contribuyente tiene derecho a organizar sus asuntos para pagar lo que la ley exige —ni más ni menos (doctrina de la **economía de opción**, con raíz en *IRC v. Duke of Westminster*, RU 1936: "cada quien puede ordenar sus negocios para reducir el impuesto"). La frontera —y el conflicto perpetuo— es cuándo esa libertad se vuelve **abuso**.
-
-**El debate.** *Duke of Westminster* (forma) vs. **sustancia sobre forma** (*Gregory v. Helvering*, EE. UU. 1935: una reorganización sin propósito de negocio no surte efectos fiscales). Es el debate matriz del derecho fiscal: **formalismo vs. sustancia económica**. Predomina hoy la sustancia: las **GAAR** (cláusulas generales antiabuso) y la **razón de negocios** (art. 5-A CFF ⟳) recaracterizan lo artificioso. Pero la crítica formalista advierte del riesgo para la **seguridad jurídica**: si el fisco puede recaracterizar, ¿dónde queda la previsibilidad?
-
-**Mirada de AED.** El impuesto distorsiona decisiones; una buena planeación **neutraliza** distorsiones (que la fiscalidad no dicte una estructura ineficiente). Pero la planeación agresiva genera una **carrera** (competencia fiscal entre Estados, *treaty shopping*) que erosiona la base y traslada el costo a quien no puede planear —un problema de acción colectiva global que **BEPS** intenta resolver.
-
-**Comparado y lección para México.** EE. UU. codificó la **economic substance doctrine** (2010) y añadió **GILTI/BEAT** (2017); la UE persigue **ayudas de Estado** fiscales (Apple–Irlanda). México incorporó razón de negocios, esquemas reportables y precios de transferencia. **Lección:** la tendencia global es irreversible hacia la **sustancia**; el abogado que estructure "cascarones" sin sustancia asesora hacia un pasivo futuro.
-
-**Crítica.** ¿Existe una "moral fiscal" o solo la legalidad? Los *leaks* (Panama/Paradise Papers) instalaron la idea de que lo legal puede ser ilegítimo, presionando a las empresas por **riesgo reputacional**, no solo jurídico. La crítica inversa: la vaguedad de las GAAR convierte al fisco en legislador.
-
-**Jurisprudencia y operación real.** *Gregory v. Helvering* (1935) y *Duke of Westminster* (1936) son los polos; **Apple–Irlanda** (TJUE, 2024 ⚠️: ~13,000 mdEUR) es su versión contemporánea. En M&A, el fiscalista cuantifica la contingencia hasta la **caducidad (art. 67 CFF ⟳)** y la traslada al vendedor vía *reps* fiscales, indemnidad específica y *escrow*.
-
-**Para leer más:** *Gregory v. Helvering* (US 1935); *IRC v. Duke of Westminster* (UK 1936); OCDE, informes BEPS; Rosembuj, *El fraude de ley y el abuso de las formas*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

@@ -481,6 +481,24 @@ contractuales** frente al riesgo regulatorio. El buen administrativista combina 
   al ciudadano?
 
 
+- **Deferencia frente a control estricto: ¿cuánto debe respetar el juez la interpretación del regulador?** El
+  caso paradigmático es el estadounidense: la doctrina ***Chevron*** (1984) obligaba a los tribunales a
+  deferir a la interpretación razonable de la agencia sobre normas ambiguas; ***Loper Bright* (2024) la
+  revirtió** ⚠️ *verificar*, devolviendo al juez la última palabra interpretativa. Los dos lados tienen
+  argumento: la deferencia respeta la **pericia técnica** y la legitimidad del Ejecutivo electo, pero puede
+  **blindar la arbitrariedad**; el control estricto protege al gobernado, y a cambio **judicializa la
+  política pública** y traslada decisiones técnicas a jueces generalistas.
+  *Postura del Consejo:* para un abogado corporativo el efecto práctico es lo que importa —cuanto menor es la
+  deferencia, **más rentable es litigar la interpretación del regulador**, y más importa construir el
+  expediente administrativo desde el primer día—.
+- **La captura del regulador (Stigler).** El aporte más incómodo de la economía a esta materia: los
+  reguladores tienden a ser capturados por la industria que regulan, porque esta tiene **intereses
+  concentrados** y el público tiene intereses **difusos**. Es decir, quien más se beneficia de una regla suele
+  ser quien más recursos dedica a influirla. No es una teoría de la conspiración: es un problema de acción
+  colectiva. Su consecuencia para ti es doble: explica por qué a veces la regulación protege al incumbente
+  más que al consumidor, y obliga a examinar **a quién beneficia realmente** una norma nueva antes de
+  celebrarla o combatirla.
+
 ## 30. Errores comunes
 
 1. **No pedir la suspensión.** Por la **presunción de ejecutoriedad**, el acto se ejecuta (clausura,
@@ -729,59 +747,6 @@ Empresa Familiar     ★★★☆☆
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 3 · Estándar V3. Contenido conceptual a 2026-07;
 verifica toda norma, autoridad, artículo y criterio contra su texto vigente (DOF y SJF).*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-Toda empresa regulada vive del derecho administrativo: permisos, concesiones, licencias, actos de autoridad, contratos con el Estado. El socio piensa en **acto administrativo** (sus elementos y vicios), en **discrecionalidad vs. arbitrariedad** y en las **vías de defensa** (recurso administrativo, juicio contencioso ante el TFJA, amparo). Regular bien la relación con el Estado evita que una firma pierda su licencia de operar.
-
-### Doctrina y debate
-- **Acto administrativo:** elementos, presunción de legalidad, ejecutividad y ejecutoriedad; nulidad y anulabilidad.
-- **Servicio público, concesión y regulación** (Jèze, Hauriou, la escuela francesa; en México, Fraga, Serra Rojas, Nava Negrete).
-- **Debate:** ¿*deference* a la autoridad regulatoria (como el *Chevron* estadounidense, revertido en 2024 por *Loper Bright* ⚠️) o control judicial estricto?
-
-### Derecho comparado
-Francia creó el derecho administrativo (*Conseil d'État*, arrêt *Blanco*). EE. UU. lo estructura vía *Administrative Procedure Act* y la doctrina *Chevron* (deferencia), recientemente limitada. México: **LFPA**, la **LFPCA** (juicio ante el TFJA ⟳) y órganos reguladores.
-
-### Caso real
-**Cancelaciones de permisos y contratos públicos en energía (México, 2019-2024) ⚠️ *verificar*:** disputas sobre permisos revocados escalaron a **arbitrajes de inversión (T-MEC/TLCUEM)**. Lección: el acto administrativo adverso a una inversión extranjera puede convertirse en reclamo internacional multimillonario.
-
-### Errores que cuestan millones
-- Dejar firme un acto por **no agotar** el recurso o el juicio en plazo.
-- Confundir **nulidad** y **anulabilidad** del acto administrativo (efectos distintos).
-
-### Preguntas
-- **Criterio:** ¿deben los jueces deferir al criterio técnico del regulador?
-- **Entrevista:** ¿qué vías tiene su cliente contra una multa administrativa?
-- **Examen:** enuncie los elementos del acto administrativo.
-
-### Bibliografía por niveles
-- **Básico:** Serra Rojas, *Derecho administrativo*.
-- **Intermedio:** Nava Negrete, *Derecho administrativo mexicano*.
-- **Avanzado:** García de Enterría, *Curso de Derecho Administrativo*.
-- **Internacional:** Craig, *Administrative Law*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El derecho administrativo nació para someter al **poder ejecutivo al derecho**: que el Estado, al actuar (permisos, concesiones, sanciones), lo haga conforme a normas y bajo control judicial. Su origen es francés (*Conseil d'État*, arrêt *Blanco*, 1873): un derecho especial para la Administración, distinto del civil. Su fundamento: el **principio de legalidad** (la Administración solo puede lo que la ley le faculta) y el control de la **discrecionalidad**.
-
-**El debate.** **Deferencia vs. control estricto:** ¿deben los jueces respetar la interpretación técnica del regulador o revisarla a fondo? EE. UU. vivió la doctrina ***Chevron*** (1984, deferencia) y su **reversión en *Loper Bright*** (2024 ⚠️): el péndulo volvió al control judicial. El debate: la deferencia respeta la pericia técnica y la democracia (el regulador responde al Ejecutivo electo), pero puede blindar la arbitrariedad; el control estricto protege al gobernado pero "judicializa" la política pública.
-
-**Mirada de AED.** La regulación corrige fallas de mercado (monopolios naturales, externalidades, asimetrías), pero sufre **captura del regulador** (Stigler: la industria "captura" a quien la regula) y costos de cumplimiento. El análisis de impacto regulatorio (AIR/RIA) es la herramienta económica para que la regulación pase el test costo-beneficio.
-
-**Comparado y lección para México.** Francia (derecho administrativo autónomo), EE. UU. (*APA* + agencias), Reino Unido (*judicial review*). México: LFPA, LFPCA (juicio ante el TFJA ⟳) y órganos reguladores. **Lección:** la calidad regulatoria y la **certeza** de los actos administrativos son determinantes del clima de inversión; su erosión escala a arbitrajes internacionales.
-
-**Crítica.** El derecho administrativo mexicano es criticado por la **discrecionalidad excesiva**, la lentitud del contencioso y la vulnerabilidad de permisos y concesiones a cambios políticos —fuente de reclamos bajo el T-MEC.
-
-**Jurisprudencia y operación real.** *Chevron* (1984) y *Loper Bright* (2024 ⚠️) marcan el debate global de deferencia. En México, la cancelación de permisos en energía (2019-2024 ⚠️) escaló a **arbitrajes de inversión**. En la práctica, el abogado agota recurso/juicio en plazo (o pierde el acto) y evalúa la vía del arbitraje internacional.
-
-**Para leer más:** García de Enterría, *Curso de Derecho Administrativo*; Stigler, *The Theory of Economic Regulation* (1971); *Loper Bright v. Raimondo* (US 2024).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

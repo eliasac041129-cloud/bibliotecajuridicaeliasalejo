@@ -897,6 +897,28 @@ todos los competidores terminaron con márgenes mínimos —el dilema del prisio
 *Lección:* competir solo en **precio** (en productos indiferenciados) lleva a la destrucción mutua; la
 **diferenciación** (competir en algo más que el precio) es la salida estratégica —y legal— al dilema.
 
+**La guerra de ofertas por Fox (2018): teoría de subastas en vivo.** Disney y Comcast compitieron por los
+activos de Fox en un proceso que ilustra, mejor que cualquier modelo, tres cosas a la vez: que la
+competencia entre oferentes **transfiere valor al vendedor**; que el deber del consejo de maximizar precio
+(*Revlon*) deja de ser abstracto cuando hay dos postores; y que la subasta produce el riesgo clásico de la
+**maldición del ganador** —quien gana suele ser el que más se equivocó al alza—.
+
+**Las defensas anti-OPA: cambiar las reglas del juego en lugar de jugar mejor.** La *poison pill* —la
+píldora envenenada, validada en ***Moran v. Household International*** (Del. 1985)— es el ejemplo más puro
+de estrategia jurídica pura: no mejora la oferta de nadie, **altera la estructura de incentivos** del
+atacante haciendo prohibitivamente costoso adquirir el control sin negociar con el consejo.
+
+> **Aquí está el puente entre este libro y todo el Nivel IV, y es la idea que quiero que te quede.**
+> Los **compromisos creíbles** de Schelling y las **señales** de Spence no son metáforas: en el mundo
+> corporativo se **instrumentan jurídicamente**. Una *poison pill*, una pena convencional, un *escrow*, una
+> garantía o una cláusula de cumplimiento forzoso son formas de **atarse las manos o de atar las del otro**
+> para cambiar el juego.
+>
+> Y de ahí la conclusión profesional: **el abogado corporativo no documenta la estrategia, la
+> instrumenta.** Cuando el equipo discute si defenderse o negociar, la respuesta técnica —qué defensa es
+> proporcional y sostenible— es jurídica. Por eso el §22 insiste en que tu lugar es la mesa donde se
+> decide, no la sala donde se formaliza.
+
 ## 19. Casos empresariales
 
 **El consejo que cuestiona la adquisición (el abogado-estratega protege).** Un CEO entusiasta propone una
@@ -1106,6 +1128,25 @@ que su **reputación** es su mayor activo. La estrategia de élite es **intelige
   teoría de juegos) pero su aplicación exige **juicio, creatividad y visión** (anticipar lo impredecible,
   innovar, leer a las personas)—. Los marcos disciplinan el pensamiento, pero no sustituyen el **criterio**
   —la marca del verdadero estratega—.
+- **¿La ventaja viene del posicionamiento o de los recursos?** Es el debate estructural de la disciplina.
+  **Porter** dice que se elige un sector atractivo y se defiende una posición dentro de él (las cinco
+  fuerzas miran **hacia afuera**). La ***resource-based view*** de **Jay Barney** responde que la ventaja
+  sostenible viene de **recursos internos** que son valiosos, raros, difíciles de imitar y no sustituibles
+  —mira **hacia adentro**—. *Postura del Consejo:* no son alternativas excluyentes, y para un abogado la
+  segunda es más útil de lo que parece: **buena parte de esos recursos "difíciles de imitar" son
+  instrumentos jurídicos** —marcas, patentes, secretos, contratos de exclusividad, concesiones—, como
+  desarrolla [La empresa por dentro](./05-La-Empresa-por-Dentro.md). Es decir: el criterio de Barney para
+  identificar una ventaja sostenible es también un criterio para saber **qué activos jurídicos hay que
+  defender con más fuerza**.
+- **¿Competir o cooperar?** El dilema del prisionero predice traición mutua en una sola jugada. **Robert
+  Axelrod**, en *The Evolution of Cooperation*, mostró algo distinto para **juegos repetidos**: la
+  estrategia que domina no es la más agresiva ni la más generosa, sino la **cooperación condicional**
+  —*tit-for-tat*: empezar cooperando, responder a la traición y volver a cooperar en cuanto el otro lo
+  haga—. *Por qué esto importa muchísimo en tu profesión:* el mercado jurídico-empresarial es un **juego
+  repetido con pocos jugadores**. Los mismos despachos, fondos y banqueros se sientan en mesas distintas
+  durante treinta años. Por eso la reputación no es un adorno moral: es la **estrategia dominante** en la
+  estructura de juego en la que vas a vivir. Es el mismo argumento, por otra vía, del
+  [módulo 06 de la Columna VI](../../Columna-VI-Inteligencia-Humana/06-La-Frontera-Etica.md).
 
 ## 30. Errores comunes
 
@@ -1504,59 +1545,6 @@ formación: del técnico jurídico al **asesor estratégico integral**.
 > exige—. Ve y conviértete en uno de los mejores. **Aquí termina la biblioteca; aquí comienza tu
 > leyenda.**
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El abogado de élite piensa **varios movimientos por delante**, como en ajedrez: cada cláusula, cada oferta, cada carta a la contraparte provoca una **reacción**. La teoría de juegos le da el marco: anticipar la respuesta del otro y diseñar la jugada que lo lleva al resultado que conviene a su cliente. Estrategia es **elegir en qué juego jugar** y con qué reglas.
-
-### Doctrina y debate
-- **Equilibrio de Nash; dilema del prisionero:** por qué las partes racionales llegan a resultados subóptimos (carrera de garantías, guerra de ofertas) y cómo los **contratos y compromisos creíbles** los evitan.
-- **Juegos repetidos y reputación (Axelrod, *La evolución de la cooperación*):** por qué en relaciones de largo plazo conviene cooperar; la reputación como activo del despacho y del cliente.
-- **Estrategia (Porter, *cinco fuerzas*; Brandenburger & Nalebuff, *Co-opetition*):** el marco de negocio que el abogado debe entender para asesorar, no solo redactar.
-
-### Derecho comparado / práctica
-La teoría de juegos modela **OPAs hostiles y defensas** (*poison pill* como cambio de las reglas del juego), **subastas** (Disney–Fox), **litigio como amenaza creíble** y **negociación regulatoria**. Los fondos y bancos de inversión piensan así por default; el abogado que también lo hace se sienta en la mesa de estrategia.
-
-### Caso real
-**Guerra de ofertas Disney vs. Comcast por Fox (2018):** una **subasta** de manual —cada oferta modificaba el pago del otro—; entender la teoría del juego explica por qué Disney elevó a ~71,300 mdd ⚠️ *verificar*. **OPAs hostiles y *poison pills*:** defensas que alteran los incentivos del atacante (jurisprudencia *Unocal*/*Moran* en Delaware).
-
-### Errores que cuestan millones
-- Jugar un juego **de una sola vez** (exprimir) en una relación que es **repetida** (destruye reputación y trato futuro).
-- No anticipar la **reacción** de la contraparte o del regulador.
-
-### Preguntas
-- **Criterio:** ¿cuándo conviene "quemar las naves" (compromiso irreversible) en una negociación?
-- **Entrevista:** modele una guerra de ofertas como juego: ¿cuándo conviene retirarse?
-- **Examen:** explique el dilema del prisionero aplicado a un pacto entre competidores.
-
-### Bibliografía por niveles
-- **Básico:** Dixit & Nalebuff, *El arte de la estrategia*.
-- **Intermedio:** Brandenburger & Nalebuff, *Co-opetition*.
-- **Avanzado:** Axelrod, *La evolución de la cooperación*.
-- **Internacional:** Porter, *Competitive Strategy*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La estrategia es la disciplina de **elegir dónde competir y cómo ganar** anticipando la reacción de los demás. La teoría de juegos (von Neumann-Morgenstern, Nash) le dio rigor matemático: toda decisión corporativa relevante es **interdependiente** —su valor depende de lo que hagan competidores, reguladores y contrapartes. El abogado que la domina deja de redactar reacciones y empieza a **diseñar jugadas**.
-
-**El debate.** ¿La ventaja competitiva viene del **posicionamiento** en la industria (Porter, *cinco fuerzas*: elegir un sector atractivo y defender una posición) o de los **recursos y capacidades** internos (*resource-based view*, Barney)? Y en juegos: ¿competir (dilema del prisionero) o cooperar? Axelrod mostró que en **juegos repetidos** la cooperación condicional (*tit-for-tat*) domina —lo que explica por qué la reputación y las relaciones de largo plazo valen tanto en el mundo jurídico-empresarial.
-
-**Mirada de AED.** Los **compromisos creíbles** (Schelling) y las **señales** (Spence) son el puente entre estrategia y derecho: un contrato, una garantía o una *poison pill* son formas de **atarse las manos** para cambiar los incentivos del otro. El equilibrio de Nash explica por qué, sin contrato, las partes racionales llegan a resultados subóptimos (carrera de garantías, guerras de precios) que el derecho corrige.
-
-**Comparado y lección para México.** El *toolkit* estratégico es global; su aplicación jurídica más fina está en **Delaware** (defensas anti-OPA como cambio de las reglas del juego). **Lección:** el abogado corporativo mexicano debe sentarse en la mesa de estrategia —no solo documentar lo decidido—; ahí es donde se crea o se destruye el valor que él luego formaliza.
-
-**Crítica.** La teoría de juegos asume **racionalidad** que la realidad desmiente (sesgos, emociones, información imperfecta). La estrategia "de manual" (Porter) ha sido criticada por estática frente a mercados disruptivos (Christensen, *innovación disruptiva*): las cinco fuerzas no vieron venir a los *insurgentes* digitales.
-
-**Jurisprudencia y operación real.** La **guerra de ofertas Disney vs. Comcast por Fox** (2018) es teoría de subastas en vivo; las **defensas anti-OPA** (*poison pill*, validadas en *Moran v. Household*, Del. 1985) son cambios estratégicos de las reglas. En la práctica, el abogado modela cada movimiento —oferta, carta, demanda— anticipando la respuesta.
-
-**Para leer más:** Dixit & Nalebuff, *The Art of Strategy*; Schelling, *The Strategy of Conflict*; Porter, *Competitive Strategy*; Axelrod, *The Evolution of Cooperation*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

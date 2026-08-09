@@ -217,7 +217,7 @@ def portada():
  <div class="especialidad">Especialidad en Derecho Fiscal-Corporativo · Fusiones y Adquisiciones (M&amp;A) · Competencia Económica · Financiamiento y Gobierno Corporativo</div>
  <div class="subtitulo">Obra de doctrina y práctica construida sobre 27 leyes oficiales verificadas <em>verbatim</em>, con disciplina de vigencia&nbsp;⟳.</div>
  <div class="filete"></div>
- <div class="edicion">Edición ampliada · con los Suplementos del Consejo Editorial<br>(doctrina, derecho comparado, casos reales y bibliografía en cada capítulo)</div>
+ <div class="edicion">Edición Final · voz consolidada<br>(doctrina, derecho comparado, casos reales y bibliografía integrados en el razonamiento de cada capítulo)</div>
  <div class="autor">Elias Alejo</div>
  <div class="sello">Biblioteca Jurídica AJE</div>
  <div class="fecha">{FECHA}</div>
@@ -226,8 +226,8 @@ def portada():
 def pagina_legal():
     return f"""<section class="page nueva-pagina">
  <div style="margin-top:60%;font-size:.95rem;color:#4d4130;">
- <p><strong>Manual para Ejercer el Derecho Corporativo.</strong> Segunda edición, ampliada con los
- <strong>Suplementos del Consejo Editorial</strong> —{FECHA}.</p>
+ <p><strong>Manual para Ejercer el Derecho Corporativo.</strong> Edición Final, con la
+ <strong>voz consolidada</strong> de los 53 tratados —{FECHA}.</p>
  <p>Autor: <strong>Elias Alejo</strong>. Obra formativa de la <em>Biblioteca Jurídica AJE</em>, elaborada
  durante la formación del autor en la Facultad de Estudios Superiores Aragón, UNAM.</p>
  <p>Esta obra es un <strong>instrumento de estudio y ejercicio profesional</strong>. Todo fundamento legal
@@ -284,12 +284,18 @@ def consideraciones():
  <em>«¿sigue vigente y con este mismo número hoy? Reitéralo en su código antes de citarlo.»</em> El Derecho
  cambia sin avisar —lo comprobamos: artículos derogados e incluso un código entero (el CFPC) en vías de
  abrogación. <strong>Jamás cites de memoria.</strong> La última palabra la tiene el código, no el libro.</p>
- <h3>3. El Suplemento del Consejo Editorial</h3>
- <p>Cada capítulo cierra con un <strong>⚖️ Suplemento del Consejo Editorial</strong> que lo eleva a nivel de
- obra de referencia: <em>cómo piensa un socio internacional</em>, doctrina y debate (con autores clásicos y
- contemporáneos), <em>derecho comparado</em>, un <em>caso real</em>, los <em>errores que cuestan millones</em>,
- preguntas de criterio, entrevista y examen, y una <em>bibliografía por niveles</em>. No lo leas de corrido:
- úsalo para <strong>discutir, comparar y formar criterio</strong>.</p>
+ <h3>3. La voz consolidada (Edición Final)</h3>
+ <p>Hasta la edición anterior, cada capítulo cerraba con dos apéndices —un <em>Suplemento</em> y una
+ <em>Profundización</em>— que aportaban doctrina, derecho comparado, casos y bibliografía. Funcionaban, y
+ tenían un defecto: se repetían con estructura idéntica en los cincuenta y dos capítulos, de modo que la obra
+ se leía como un libro con dos anexos pegados al final.</p>
+ <p>En esta edición <strong>ese material vive dentro del razonamiento</strong>. La doctrina aparece donde se
+ discute el concepto; el derecho comparado, donde se contrasta la solución mexicana; el caso real, donde
+ ilustra la regla; la bibliografía, al cierre. Nada se perdió —se verificó capítulo por capítulo— y lo que
+ se repetía se dice ahora <strong>una sola vez, en su mejor versión</strong>.</p>
+ <p>Lo que el lector encontrará en cada capítulo, por tanto, no es un apéndice que se pueda saltar, sino
+ <em>cómo razona un socio internacional</em>, los debates con sus autores, el comparado con su lección para
+ México y los <em>errores que cuestan millones</em>, <strong>integrados donde hacen falta</strong>.</p>
  <h3>4. De la lectura a la práctica</h3>
  <p>Al final encontrarás el <strong>Anexo A — Banco de Formatos</strong> (term sheet, acta de asamblea, pagaré,
  contrato de compraventa de acciones, aviso de privacidad, demanda de amparo) y el <strong>Anexo B — Banco de
@@ -342,9 +348,10 @@ def estructura():
  <li><strong>Anexo A — Banco de Formatos:</strong> plantillas reales listas para practicar.</li>
  <li><strong>Anexo B — Banco de Jurisprudencia:</strong> criterios clave de la SCJN por rama, con remisión al SJF.</li>
  </ul>
- <p>Además, <strong>cada capítulo cierra con un ⚖️ Suplemento del Consejo Editorial</strong> (doctrina, derecho
- comparado, caso real, errores costosos, preguntas y bibliografía) y conserva sus marcas de verificación
- (✅ / ⚠️ / ⟳), para que el estudio nunca se separe de la disciplina de la fuente ni del criterio internacional.</p>
+ <p>Además, <strong>cada capítulo integra en su propio razonamiento</strong> la doctrina con sus autores, el
+ derecho comparado con su lección para México, los casos reales y los errores costosos, y conserva sus marcas
+ de verificación (✅ / ⚠️ / ⟳), para que el estudio nunca se separe de la disciplina de la fuente ni del
+ criterio internacional.</p>
  <div class="ornamento"></div>
 </section>"""
 

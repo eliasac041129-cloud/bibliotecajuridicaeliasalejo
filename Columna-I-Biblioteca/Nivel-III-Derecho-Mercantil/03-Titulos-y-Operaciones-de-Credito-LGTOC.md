@@ -141,6 +141,33 @@ Las **operaciones de crédito** (apertura, descuento, reporto, fideicomiso) son 
 financieras** con que bancos y empresas asignan capital y riesgo en el tiempo. Sin ellas, no habría
 sistema financiero moderno.
 
+**Y el paralelo que ilumina toda esta materia.** La autonomía cambiaria —que el tercero de buena fe adquiera
+el título libre de las excepciones que existían entre los anteriores— cumple **exactamente la misma función
+económica** que la partición de activos en las sociedades (Libro 2): hace que el instrumento sea
+**fungible y líquido**, porque nadie tiene que investigar la historia de las relaciones previas para saber
+qué está comprando.
+
+Es el mismo principio en dos institutos distintos: **reducir la necesidad de que cada participante
+investigue a los demás**. Cuando entiendes eso, la rigidez formal de los títulos deja de parecer un
+capricho decimonónico y se ve como lo que es —el precio que se paga por la liquidez—.
+
+**El gemelo anglosajón**, útil para operaciones transfronterizas: el **artículo 3 del UCC** estadounidense
+regula los *negotiable instruments* y su figura del ***holder in due course*** es funcionalmente equivalente
+a nuestra autonomía. Y la **desmaterialización** —los títulos que ya no son papel, custodiados en
+depósitos centrales como Indeval en México o Euroclear en Europa— es un fenómeno global que la LGTOC de
+1932 ⟳ ha tenido que absorber por reformas sucesivas.
+
+**Y la tensión viva de la materia: rigor formal contra equidad.** El rigor cambiario puede ser
+**desproporcionado**: perder la acción por un defecto de forma (art. 14 LGTOC ⟳) castiga al suscriptor no
+sofisticado que firmó sin entender. Ese es el terreno donde la SCJN reintrodujo equidad por otra vía —el
+control de oficio de la **usura**, en las jurisprudencias *1a./J. 46/2014* y *47/2014* ⟳ *(verificar en el
+SJF; ver el [Banco de Jurisprudencia](../../Banco-de-Jurisprudencia/Criterios-Clave-por-Rama.md))*—, que
+transformó la práctica de la cobranza en México.
+
+> **La lección de método:** cuando un sistema es rígido por buenas razones económicas, la equidad no entra
+> por la puerta principal —entra por una institución lateral—. Aquí entró por la usura. Reconocer ese
+> patrón te sirve en muchas otras materias.
+
 ## 7. Contexto político
 
 El Estado regula intensamente esta materia por su impacto en la **estabilidad financiera** y la
@@ -902,6 +929,14 @@ y la lista del **art. 8 ⟳**, y tendrás la llave del litigio cambiario y del f
   demanda en comercio exterior.
 - **LGTOC (texto vigente) y Código de Comercio (vía ejecutiva, arts. 1391 ⟳ y ss.).** El derecho
   positivo; estúdialo con el código a la mano.
+- **Cesare Vivante, *Tratado de derecho mercantil*.** El clásico del que proviene la construcción moderna
+  de la teoría cambiaria. Denso y fundacional.
+- **Raúl Cervantes Ahumada, *Títulos y operaciones de crédito*.** La obra mexicana de referencia en la
+  materia; el puente entre la doctrina clásica y la LGTOC.
+- **UCC, artículo 3 (*negotiable instruments*).** El régimen anglosajón y su *holder in due course*, gemelo
+  funcional de nuestra autonomía (§6). Imprescindible si operas con instrumentos internacionales.
+- **Jurisprudencias de la SCJN sobre usura** (*1a./J. 46/2014* y *47/2014* ⟳): el contrapeso de equidad al
+  rigor cambiario. Verifícalas en el SJF antes de invocarlas.
 
 ## 43. Ruta hacia el siguiente libro
 
@@ -966,59 +1001,6 @@ posibles las grandes operaciones.
 > valores y el M&A, llevaremos el crédito y el fideicomiso a su máxima escala. El financiamiento
 > corporativo del Nivel IV empieza a tomar forma.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-Los títulos de crédito son **valor que circula**: incorporan un derecho en un documento (o registro) que se transmite con facilidad y da acción ejecutiva. El socio piensa en **liquidez y ejecutabilidad**: un pagaré bien hecho cobra por vía ejecutiva; una garantía documentada mal se vuelve un pleito ordinario de años. En financiamiento, el título es el instrumento que convierte una promesa en un activo negociable.
-
-### Doctrina y debate
-- **Principios cambiarios:** **incorporación, literalidad, autonomía y abstracción**. La autonomía protege al tercero de buena fe (adquiere un derecho "limpio", sin excepciones personales del deudor original).
-- **Vivante** (teoría clásica del título-valor) y su recepción latinoamericana (Cervantes Ahumada, Tena).
-- **Desmaterialización:** del papel al **registro electrónico** (valores anotados en cuenta): el título ya no necesita soporte físico. Debate sobre cómo sobreviven los principios cambiarios en lo digital.
-
-### Derecho comparado
-El *common law* regula los *negotiable instruments* en el **UCC Art. 3** con lógica muy similar (autonomía = *holder in due course*). La desmaterialización de valores (Euroclear, Indeval en México) es global. El corporativo que estructura emisiones debe manejar tanto el título tradicional como el valor anotado en cuenta.
-
-### Caso real
-**Usura y pagarés (SCJN):** las jurisprudencias *1a./J. 46/2014* y *47/2014* (⟳ verificar en SJF) facultaron al juez a **reducir de oficio** intereses notoriamente excesivos en pagarés. Cambió la práctica de cobranza en todo el país: hoy nadie redacta un pagaré sin cuidar la tasa. *(Ver [Banco de Jurisprudencia](../../Banco-de-Jurisprudencia/Criterios-Clave-por-Rama.md).)*
-
-### Errores que cuestan millones
-- Omitir un **requisito esencial** (art. 170 LGTOC ⟳) y perder la vía ejecutiva.
-- Pactar intereses **usurarios** reductibles por el juez, o no distinguir ordinarios de moratorios.
-
-### Preguntas
-- **Criterio:** ¿cómo sobreviven la literalidad y la autonomía en un mundo de valores electrónicos?
-- **Entrevista:** explique la autonomía cambiaria a un cliente que va a endosar un pagaré.
-- **Examen:** enuncie los cuatro principios de los títulos de crédito.
-
-### Bibliografía por niveles
-- **Básico:** Cervantes Ahumada, *Títulos y operaciones de crédito*.
-- **Intermedio:** Felipe de J. Tena, *Derecho mercantil mexicano*.
-- **Avanzado:** Vivante, *Tratado de derecho mercantil*.
-- **Internacional:** UCC Article 3 (*Negotiable Instruments*).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El título de crédito es una **tecnología para hacer circular el valor** con seguridad. Antes de él, ceder un crédito era riesgoso: el cesionario heredaba todas las excepciones que el deudor tenía contra el cedente. La genialidad del título —incorporación, literalidad, **autonomía** y abstracción— es que el adquirente de buena fe recibe un derecho **"limpio"**, independiente de las relaciones previas. Eso reduce el costo de verificación a casi cero y permite que el papel (hoy el registro) circule como dinero. Es, en esencia, una máquina de **reducir costos de transacción** del crédito.
-
-**El debate.** Naturaleza del título: teoría **contractual** vs. teoría de la **creación** (la obligación nace del solo acto de emisión, aun sin entrega válida) vs. teorías de la apariencia. El debate no es ocioso: define frente a quién y con qué excepciones responde el suscriptor. Debate contemporáneo: la **desmaterialización** —¿sobreviven la literalidad y la incorporación cuando el "título" es un asiento electrónico (valores anotados en cuenta, y ahora *tokens*)?
-
-**Mirada de AED.** La autonomía cambiaria asigna el riesgo de las excepciones al deudor original, no al tercero de buena fe: así el título es **fungible y líquido** (como el dinero), y el mercado de crédito se profundiza. Es el mismo principio económico que hace valiosa la responsabilidad limitada: reducir la necesidad de que cada participante investigue a los demás.
-
-**Comparado y lección para México.** El **UCC Art. 3** (*negotiable instruments*) y el *holder in due course* son el gemelo anglosajón de nuestra autonomía. La desmaterialización (Indeval, Euroclear) es global. **Lección:** el marco mexicano (LGTOC de 1932 ⟳) debe seguir adaptándose a los valores electrónicos y a los activos digitales sin perder los principios cambiarios que dan certeza.
-
-**Crítica.** El rigor cambiario (perder la acción por un requisito formal, art. 14 LGTOC ⟳) puede ser **desproporcionado** y atrapar a suscriptores no sofisticados; de ahí el auge del control judicial de la **usura** como contrapeso de equidad.
-
-**Jurisprudencia y operación real.** Las jurisprudencias de la SCJN sobre **usura** (*1a./J. 46/2014* y *47/2014* ⟳) reintrodujeron equidad en un terreno de rigor formal: el juez reduce de oficio intereses excesivos. Transformó la práctica de cobranza. *(Verifica en el SJF; ver [Banco de Jurisprudencia](../../Banco-de-Jurisprudencia/Criterios-Clave-por-Rama.md).)*
-
-**Para leer más:** Vivante, *Tratado de derecho mercantil*; Cervantes Ahumada, *Títulos y operaciones de crédito*; UCC Article 3.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

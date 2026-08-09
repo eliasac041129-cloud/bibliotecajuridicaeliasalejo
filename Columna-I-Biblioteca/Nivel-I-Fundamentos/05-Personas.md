@@ -321,6 +321,43 @@ moderna (y derecho mexicano vigente): **sí** puede ser penalmente responsable, 
 propias (multas, disolución, intervención), lo que fundamenta los **programas de
 compliance** (Nivel IV).
 
+
+### ¿Qué "es" una persona moral? El debate y sus consecuencias muy concretas
+
+Parece metafísica y decide cuestiones prácticas de primer orden.
+
+**Teoría de la ficción** (Savigny): la persona moral no existe en la realidad, la **crea el Estado**. Si
+eso es cierto, solo tiene los atributos que la ley le conceda expresamente.
+
+**Teoría de la realidad** (Gierke): el grupo es un **organismo social real**, con voluntad propia, que el
+derecho reconoce en lugar de inventar.
+
+**Y la visión dominante hoy**, el *nexo de contratos*: la sociedad no es un ente sino un **haz de
+relaciones** entre quienes aportan capital, trabajo y gestión (se desarrolla en
+[Sociedades Mercantiles](../Nivel-III-Derecho-Mercantil/02-Sociedades-Mercantiles-LGSM.md)).
+
+> **Y aquí está por qué no es un debate ocioso.** De la respuesta depende si a una persona moral se le
+> pueden imputar **dolo y culpa**, si puede tener **responsabilidad penal** —que es todo el fundamento del
+> *compliance* moderno, ver
+> [Derecho Penal Económico](../Ramas-Esenciales/06-Derecho-Penal-Economico-y-Compliance.md)— y si es
+> titular de **derechos fundamentales**. Sobre lo último hay un debate vivo e incómodo: en Estados Unidos,
+> el caso *Citizens United* reconoció libertad de expresión a las corporaciones en materia de gasto
+> político, con crítica muy extendida. ¿Debe una empresa tener derechos humanos, y cuáles?
+
+### La invención económica que hay detrás
+
+La personalidad separada habilita el ***asset partitioning*** de Hansmann y Kraakman —la partición
+patrimonial en **dos direcciones**, que se explica a fondo en el
+[Libro 2 del Nivel III](../Nivel-III-Derecho-Mercantil/02-Sociedades-Mercantiles-LGSM.md)— y con él la
+responsabilidad limitada. El efecto conjunto es reducir el costo de capital y volver **líquidas** las
+participaciones.
+
+Su costo es el **riesgo moral** frente a los acreedores, con especial gravedad frente a los
+**involuntarios**: la víctima de un daño no eligió contratar con una filial sin patrimonio. El derecho lo
+mitiga con el levantamiento del velo, la responsabilidad de administradores y —en el terreno de las
+emisoras— regímenes de revelación y control interno reforzados tras escándalos como **Enron**, que dieron
+lugar a **Sarbanes-Oxley**.
+
 ## 7. Autores más importantes
 
 **Teoría general de la persona:**
@@ -832,58 +869,6 @@ Empresa Familiar     ★★★★★
 *La persona moral es el **sujeto central** del derecho corporativo; su personalidad, capacidad y
 representación se verifican en cada operación.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-En un cierre, lo primero que revisa un socio no es el precio: es **quién firma y con qué facultades**. Persona, capacidad y representación son el terreno donde se caen las operaciones. Un poder mal otorgado o insuficiente (para actos de dominio, de administración o pleitos y cobranzas) puede volver **inoponible** todo el contrato. El corporativo piensa en **legitimación**: no basta querer obligarse, hay que **poder** hacerlo.
-
-### Doctrina y debate
-- **Naturaleza de la persona moral:** teoría de la **ficción** (Savigny: la persona jurídica es una creación del derecho) frente a la teoría de la **realidad** (Gierke: es un ente real con voluntad propia). El debate no es académico: determina hasta dónde se le imputan dolo, responsabilidad penal (*compliance*) y derechos fundamentales.
-- **Atributos de la personalidad:** nombre, domicilio, patrimonio, nacionalidad, capacidad; en la persona moral, además, **objeto social** (límite de su capacidad: doctrina *ultra vires*).
-
-### Derecho comparado
-La **responsabilidad limitada** y la personalidad separada de la sociedad son universales, pero su excepción —el **levantamiento del velo corporativo** (*piercing the corporate veil*)— se aplica con criterios más desarrollados en EE. UU. (fraude, *alter ego*, infracapitalización) que en México, donde es excepcional. El abogado transfronterizo debe saber **cuándo el velo protege y cuándo se rasga**.
-
-### Caso real
-**Estructuras de *holding* y velo corporativo:** en fraudes como **Enron** (2001), la manipulación mediante entidades de propósito específico (SPE) mostró el lado oscuro de la personalidad separada; la respuesta regulatoria (Sarbanes-Oxley) reforzó la responsabilidad de administradores. Lección: la persona moral es un escudo legítimo, no una capa de invisibilidad.
-
-### Errores que cuestan millones
-- Firmar con un apoderado **sin facultades para actos de dominio** (art. 2554 CCF ⟳): el acto no obliga a la sociedad.
-- No verificar la **vigencia del poder** ni su eventual revocación en el *closing*.
-
-### Preguntas
-- **Criterio:** ¿la persona moral "existe" o es una ficción útil? ¿Debe tener derechos humanos?
-- **Entrevista:** ¿qué revisaría del poder del firmante antes de un cierre?
-- **Examen:** enuncie los atributos de la personalidad de las personas física y moral.
-
-### Bibliografía por niveles
-- **Básico:** Galindo Garfias, *Derecho Civil. Primer curso*.
-- **Intermedio:** Rojina Villegas, *Compendio de Derecho Civil*.
-- **Avanzado:** Gierke, *Das Wesen der menschlichen Verbände* (naturaleza de las asociaciones).
-- **Internacional:** Easterbrook & Fischel, *The Economic Structure of Corporate Law* (persona moral e incentivos).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La categoría de "persona" define **quién puede ser titular de derechos y obligaciones**. La gran invención jurídica es la **persona moral**: dotar de subjetividad a un ente colectivo permite reunir capital, contratar y perdurar más allá de sus miembros. Sin persona moral no hay empresa moderna, ni mercado de capitales, ni continuidad del negocio.
-
-**El debate.** **¿Qué "es" la persona moral?** Teoría de la **ficción** (Savigny: la crea el Estado, no existe en la realidad) vs. teoría de la **realidad** (Gierke: es un organismo social real con voluntad propia). No es debate ocioso: determina si se le imputan **dolo, culpa, responsabilidad penal (compliance) y derechos fundamentales**. La tendencia (nexus of contracts) la ve como haz de relaciones, no como ente. Debate vivo: ¿debe la persona moral tener derechos humanos? (*Citizens United* en EE. UU. reconoció libertad de expresión a corporaciones —muy criticado).
-
-**Mirada de AED.** La personalidad separada permite el ***asset partitioning*** (Hansmann & Kraakman) y la responsabilidad limitada, que reducen el costo de capital y hacen líquidas las acciones. Su costo: el **riesgo moral** frente a acreedores (sobre todo involuntarios: víctimas de daños), que el derecho mitiga con el *piercing*, la responsabilidad de administradores y el capital.
-
-**Comparado y lección para México.** El *piercing the corporate veil* (levantamiento del velo) está más desarrollado en EE. UU. (fraude, *alter ego*, infracapitalización) que en México, donde es excepcional. **Lección:** en estructuras de *holding*, entender **cuándo el velo protege y cuándo se rasga** define la exposición real del cliente.
-
-**Crítica.** La responsabilidad limitada es criticada por permitir **externalizar** riesgos (ambientales, de producto) a filiales infracapitalizadas, dejando sin reparación a víctimas involuntarias. Y la "personalidad" corporativa, por servir de escudo a controladores.
-
-**Jurisprudencia y operación real.** *Salomon v. Salomon* (RU, 1897, personalidad separada); *Walkovszky v. Carlton* (NY, 1966, infracapitalización). En la práctica, lo primero que revisa un socio en un cierre es **quién firma y con qué facultades** (representación): un poder insuficiente vuelve inoponible todo el contrato.
-
-**Para leer más:** Gierke, *Das Wesen der menschlichen Verbände*; Hansmann & Kraakman, *The Essential Role of Organizational Law*; *Salomon v. Salomon* (1897).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

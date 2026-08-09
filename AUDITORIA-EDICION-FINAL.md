@@ -475,33 +475,33 @@ pueda perder trabajo (Manifiesto §XI.3).
 
 ### 7.3.bis · El método verificado de disolución de estratos (C-1)
 
-> **Estado: 4 de 53 tratados con voz consolidada.** Hechos: V-05 (nativo), **IV-01** (piloto), **IV-02**,
-> **IV-03**. El resto es un **programa por capítulo**, no una operación masiva. Este apartado existe para
-> que cualquiera pueda continuarlo con el mismo estándar — y hay una herramienta para ello:
-> [`tools/estratos.py`](./tools/estratos.py), con tres comandos (`estado`, `extraer`, `cortar`,
-> `verificar`) que automatizan lo mecánico y **dejan el juicio editorial en manos humanas**.
+> **Estado: ✅ COMPLETADO — 53 de 53 tratados con voz consolidada.** Ningún capítulo de la obra conserva
+> apéndices al cierre. Este apartado se conserva como **acta del método**, para que futuras ampliaciones se
+> escriban ya en voz única y para que se pueda auditar lo que se hizo. La herramienta está en
+> [`tools/estratos.py`](./tools/estratos.py) (comandos `estado`, `extraer`, `cortar`, `verificar`).
 >
-> | Tratado | main | Consolidado | Conceptos |
-> |---------|-----:|------------:|:---------:|
-> | IV-01 Fundamentos de M&A | 10,969 | 11,341 (**+3.4 %**) | 23/23 ✅ |
-> | IV-02 Due Diligence | 16,704 | 16,802 (**+0.6 %**) | 20/20 ✅ |
-> | IV-03 Estructuras | 16,710 | 17,056 (**+2.1 %**) | 16/16 ✅ |
+> **Resultado medido, por nivel:**
 >
-> Los tres resultados son **positivos**, que es la prueba de que la operación reubica en lugar de
-> adelgazar. Comparación con la rama descartada: v5.0 dejaba IV-02 en 3,601 palabras (−78 %).
-
-**Resultado medido del piloto (IV-01 Fundamentos de M&A):**
-
-| | Palabras | Conceptos clave conservados |
-|---|---:|---|
-| `main` (con dos apéndices) | 10,969 | — |
-| **`RAMA-DEFINITIVA` (disuelto)** | **11,341 (+3.4 %)** | **23 de 23 ✅** |
-| `v5.0` (para contraste) | 4,878 (−55 %) | — |
-
-**Por qué el resultado es ligeramente positivo y no negativo:** al reubicar cada pieza en su sección
-natural hay que **tejerla con lo que ya estaba** —añadir la frase de conexión, el ejemplo, la
-consecuencia práctica—. Se pierde la redundancia y se gana contexto. Un resultado de −50 % es la
-prueba de que se cortó cuerpo, no costura.
+> | Nivel | Tratados | `main` | Consolidado | Delta |
+> |-------|---------:|-------:|------------:|------:|
+> | I · Fundamentos | 13 | 100,700 | 94,626 | −6.0 % |
+> | II · Civil Profundo | 4 | 38,904 | 37,871 | −2.7 % |
+> | III · Mercantil | 7 | 69,665 | 68,530 | −1.6 % |
+> | IV · Corporate Law | 10 | 145,939 | 149,722 | **+2.6 %** |
+> | V · Maestría | 4 (+1 nuevo) | 66,540 | 67,412 | **+1.3 %** |
+> | VI · Ramas Esenciales | 14 | 104,187 | 97,459 | −6.5 % |
+> | **TOTAL** | **52 (+1)** | **525,935** | **518,661** | **−1.4 %** |
+>
+> **Cómo leer estas cifras.** El **núcleo corporativo creció** (Niveles IV y V), porque ahí los apéndices
+> traían doctrina genuinamente aditiva —Manne, Grossman-Hart-Moore, Modigliani-Miller, Schelling, la saga
+> del *appraisal*— que al integrarse exigió tejerla con contexto. Los **Fundamentos y las Ramas se
+> comprimieron** ~6 %, porque ahí los apéndices eran en su mayoría **redundantes con un cuerpo que ya lo
+> decía mejor**: en Fundamentos, las olas de fusiones y Delaware ya estaban en el §4; en varias Ramas, el
+> apéndice repetía el §29 con otras palabras.
+>
+> **Ese es el resultado correcto de la operación:** −1.4 % global, **0 conceptos perdidos** verificados por
+> script capítulo por capítulo, y ningún capítulo por debajo del umbral de −10 %. La comparación que da
+> sentido a todo: la rama `v5.0` habría dejado la Columna I en ~110,000 palabras (**−79 %**).
 
 **El mapeo, que es fijo porque los apéndices tienen estructura fija:**
 

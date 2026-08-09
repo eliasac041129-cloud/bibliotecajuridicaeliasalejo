@@ -453,6 +453,36 @@ tarea" (serían un jugador más). La batalla técnica está en esa definición.
 - **Abuso en sectores en red** (telecom, energía): el incumbente dificulta el acceso de competidores a
   una infraestructura esencial. ⚠️ *Verificar casos vigentes.*
 
+**Tres operaciones que enseñan cómo opera de verdad esta materia.**
+
+***US v. Microsoft*** (2001) fijó el marco del **abuso de posición dominante en tecnología**: el problema
+no era el tamaño, sino la conducta de aprovechar el dominio en un mercado para cerrar otro. Es el
+antecedente conceptual de todos los casos digitales posteriores.
+
+**Microsoft–Activision** (2023) mostró quién es hoy el verdadero *gatekeeper* de las megafusiones: la
+autoridad de competencia, y no una sola —el proceso incluyó un bloqueo inicial de la **CMA británica**
+antes de resolverse con compromisos ⚠️—. Para un abogado mexicano la lección es de calendario: en una
+operación multijurisdiccional, **el cronograma lo dicta la autoridad más lenta y más exigente**, no la
+propia.
+
+**Grupo Modelo–AB InBev** exigió la **desinversión del negocio de Corona en Estados Unidos** como
+condición. Es el mismo caso que aparece en el
+[Libro 3](./03-Estructuras-Fusiones-Escisiones-Adquisiciones.md) y por la misma razón: **la autoridad de
+competencia puede rediseñar la estructura de la operación.**
+
+> **Cómo se traduce esto a tu trabajo, en tres reglas.**
+>
+> **1 · El análisis antimonopolio va antes de firmar, no después.** Si el riesgo aparece cuando el precio
+> ya se acordó, el vendedor no va a querer absorber el costo de los *remedies*.
+>
+> **2 · Se llega a la mesa con los *remedies* ya decididos:** qué se está dispuesto a desinvertir y qué
+> no. Negociar eso improvisando frente a la autoridad es negociar desde la debilidad.
+>
+> **3 · Y no se toca la empresa objetivo antes de la autorización.** Coordinar precios, integrar equipos
+> comerciales o compartir información sensible antes de la luz verde es ***gun jumping***, se sanciona, y
+> es uno de los errores más caros y más evitables de esta práctica. El [closing
+> checklist](../../Columna-III-Laboratorio/06-El-Closing-Checklist.md) existe, en parte, para prevenirlo.
+
 ## 19. Casos empresariales (en la vida de una compañía)
 
 - **Programa de *compliance* de competencia:** una empresa capacita a su personal para **no** caer en
@@ -573,6 +603,43 @@ las herramientas clásicas bastan para ellos. ⚠️ *Autores y documentos concr
   evitar poder dañino; el peso que se da a las **eficiencias** alegadas.
 - **Mercados digitales:** ¿bastan las herramientas clásicas para plataformas con efectos de red y
   poder basado en datos, o hacen falta reglas nuevas? ⚠️ *Estado vigente: verificar.*
+
+### El debate más vivo del derecho corporativo actual, con sus dos escuelas
+
+Esta materia tiene la peculiaridad de que su **pregunta fundacional está abierta hoy**, y no en un
+seminario: en las decisiones que se toman sobre las mayores empresas del mundo. Conviene poder nombrar a
+las dos escuelas, porque tu forma de argumentar un caso depende de cuál te resulte más persuasiva.
+
+**La Escuela de Chicago (Robert Bork, *The Antitrust Paradox*, 1978).** Su tesis: el **único** fin legítimo
+del derecho de competencia es el **bienestar del consumidor**, y se mide fundamentalmente en **precios**. De
+ahí se sigue que la mayoría de las concentraciones son eficientes, que el gran tamaño no es por sí mismo un
+problema, y que **intervenir de más daña más que intervenir de menos**. Esta escuela ganó y reorganizó el
+antitrust mundial durante cuatro décadas —incluido el mexicano—.
+
+**La corriente neo-brandeisiana (Lina Khan, *Amazon's Antitrust Paradox*, 2017).** Su objeción es
+específica y potente: el criterio de precios es **ciego frente a las plataformas digitales**, porque estas
+suelen **bajar** los precios al consumidor mientras acumulan control estructural sobre mercados, datos y
+canales adyacentes. Si el termómetro es el precio, el termómetro no detecta el poder. Propone volver a
+mirar **estructura y poder**, no solo resultado en precio.
+
+**Las críticas cruzadas, que son igual de instructivas:**
+
+- A Chicago se le reprocha haber sido capturada por una ideología pro-fusión que permitió una ola de
+  concentración. **Thomas Philippon**, en *The Great Reversal*, documenta que Estados Unidos dejó de ser el
+  mercado más competitivo del mundo ⚠️ — un argumento empírico incómodo para la escuela dominante.
+- A los neo-brandeisianos se les reprocha **inseguridad jurídica**: si el criterio deja de ser el precio,
+  ¿cuál es? Sin un estándar medible, el análisis se vuelve discrecional y el resultado, imprevisible.
+
+> **La postura del Consejo, y es de método más que de ideología.** Lo que un abogado necesita no es
+> afiliarse: es saber **con qué vara lo van a medir en su jurisdicción y en su caso**. México sigue el
+> modelo del bienestar del consumidor (LFCE ⟳); la Unión Europea, más atenta a la estructura, va por
+> delante en mercados digitales. Un abogado que solo conoce una escuela argumenta la mitad de los casos.
+>
+> Y hay una razón histórica para no despachar la discusión como técnica: la **Sherman Act** (1890) nació
+> contra los *trusts* de **Rockefeller** y **Carnegie** por motivos económicos **y políticos** —la idea de
+> que el poder económico concentrado amenaza a la democracia—. Esa dimensión política, que Chicago dejó
+> fuera por razones de rigor analítico, es exactamente la que los neo-brandeisianos volvieron a poner sobre
+> la mesa. El péndulo no es una moda: es un debate de un siglo que vuelve a estar abierto.
 
 
 ## 30. Errores comunes
@@ -772,6 +839,17 @@ Ante una operación con dimensión de competencia:
   ediciones actualizadas.*
 - **Guías de M&A antitrust de despachos** — para el "cómo se maneja en el deal" (con cautela: verificar
   vigencia).
+- **Los dos textos del debate, y hay que leer los dos:** Robert Bork, *The Antitrust Paradox* (1978), y
+  Lina Khan, *Amazon's Antitrust Paradox* (*Yale Law Journal*, 2017). El segundo se lee en una sesión y es
+  probablemente el artículo jurídico más influyente de la última década.
+- **Thomas Philippon, *The Great Reversal* (2019).** La evidencia empírica sobre la concentración de los
+  mercados estadounidenses. Es el contrapeso de datos al argumento teórico de Chicago.
+- **Whish & Bailey, *Competition Law*.** El manual de referencia en inglés, con el aparato europeo completo
+  (arts. 101 y 102 TFUE, Reglamento de Concentraciones). Si vas a hacer operaciones con dimensión europea,
+  es la obra.
+- **Jurisprudencia y decisiones:** *US v. Microsoft* (2001) para abuso de dominancia en tecnología, y los
+  expedientes públicos de Microsoft–Activision y Grupo Modelo–AB InBev para ver cómo se negocian los
+  *remedies* con la autoridad.
 
 ## 43. Ruta hacia el siguiente libro
 
@@ -845,59 +923,6 @@ sin los cuales ninguna operación grande se diseña ni se cierra.*
 *Nivel IV · Libro 10 · Competencia Económica y Control de Concentraciones. Estándar V3. Subordinado al
 Documento Fundacional AJE y al Protocolo de Verificación.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-En una M&A grande, hoy **el mayor riesgo no es financiar ni documentar: es que la autoridad de competencia diga no** (o imponga condiciones que maten las sinergias). El socio piensa en **teoría del daño**: ¿esta operación reduce la competencia?, ¿supera los umbrales de notificación?, ¿qué desinversiones (*remedies*) evitarían el bloqueo? La estrategia antimonopolio se diseña **antes** de firmar.
-
-### Doctrina y debate
-- **Escuela de Chicago (Bork, *The Antitrust Paradox*):** el único fin del derecho de competencia es el **bienestar del consumidor** (precios/eficiencia).
-- **Neo-brandeisianos (Lina Khan, *Amazon's Antitrust Paradox*, 2017):** el poder de mercado (sobre todo *big tech*) daña aunque los precios bajen; hay que mirar estructura y poder, no solo precio. **Este es el debate más caliente del derecho corporativo actual.**
-- **Prácticas:** monopólicas **absolutas** (carteles, per se ilícitas, art. 53 LFCE ⟳) vs. **relativas** (abuso de posición dominante, regla de la razón, art. 56 ⟳).
-
-### Derecho comparado
-EE. UU.: **Sherman Act (1890)** y **Clayton Act** (control de fusiones, *Hart-Scott-Rodino*); UE: **arts. 101 y 102 TFUE** y el Reglamento de Concentraciones. México: **LFCE** y —tras la reforma 2024-2025— la **Comisión Nacional Antimonopolio (CNA)**, que sustituyó a la COFECE ⟳.
-
-### Caso real
-**Microsoft–Activision (2023):** aprobada en EE. UU. y la UE pero **bloqueada inicialmente por la CMA británica**; se cerró tras reestructurar los derechos de *streaming*. **Grupo Modelo–AB InBev** exigió **desinvertir Corona en EE. UU.** **US v. Microsoft (2001)** definió el abuso de posición dominante en tecnología. Lección: la competencia es hoy el verdadero *gatekeeper* de las megafusiones.
-
-### Errores que cuestan millones
-- No notificar una **concentración** que superaba los umbrales (nulidad y multa, art. 86 LFCE ⟳).
-- Intercambiar información sensible con competidores en el DD (riesgo de **gun jumping**).
-
-### Preguntas
-- **Criterio:** ¿debe el derecho de competencia proteger solo al consumidor (Bork) o también la estructura del mercado (Khan)?
-- **Entrevista:** ¿cómo evaluaría el riesgo antimonopolio de una fusión antes de firmar?
-- **Examen:** distinga prácticas monopólicas absolutas y relativas.
-
-### Bibliografía por niveles
-- **Básico:** guías de la CNA/COFECE sobre concentraciones.
-- **Intermedio:** Whish & Bailey, *Competition Law*.
-- **Avanzado:** Bork, *The Antitrust Paradox*.
-- **Internacional:** Lina Khan, *Amazon's Antitrust Paradox* (Yale Law Journal, 2017).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El derecho de competencia existe para corregir una **falla de mercado**: el poder de mercado permite subir precios, reducir producción y frenar innovación, destruyendo el excedente del consumidor. Su historia es una lucha de visiones: de la **Sherman Act** (1890), nacida contra los *trusts* de Rockefeller y Carnegie por razones tanto económicas como **políticas** (el poder concentrado amenaza la democracia), a la revolución de eficiencia de la Escuela de Chicago (años 70).
-
-**El debate (el más vivo del derecho corporativo actual).** **Escuela de Chicago (Bork, *The Antitrust Paradox*, 1978):** el único fin legítimo es el **bienestar del consumidor** medido en precios; las concentraciones suelen ser eficientes; intervenir de más daña. **Neo-brandeisianos (Lina Khan, *Amazon's Antitrust Paradox*, 2017):** el enfoque de precios es ciego ante el poder de las plataformas (que bajan precios pero dominan estructuras, datos y mercados adyacentes); hay que volver a mirar **estructura y poder**, no solo precio. El péndulo se mueve hacia una síntesis post-Chicago.
-
-**Mirada de AED.** El análisis moderno es económico puro: **definición de mercado relevante**, índices de concentración (**HHI**), teoría del daño (unilateral, coordinado, de conglomerado), eficiencias compensatorias. El abogado de competencia **litiga con economistas**: el caso se gana con modelos, no solo con normas.
-
-**Comparado y lección para México.** EE. UU. (Sherman/Clayton, *Hart-Scott-Rodino*) enfatiza el consumidor; la **UE (arts. 101-102 TFUE)** es más intervencionista con el abuso de posición dominante (*ordoliberalismo* alemán: proteger la estructura competitiva). México (LFCE) sigue el modelo del consumidor; tras 2024-2025 la **CNA** sustituyó a la COFECE ⟳. **Lección:** en *big tech* y mercados digitales, la UE va por delante (DMA); México y EE. UU. observan.
-
-**Crítica.** A Chicago se le reprocha haber sido **capturada** por una ideología pro-fusión que permitió una ola de concentración (Philippon, *The Great Reversal*: EE. UU. dejó de ser el mercado más competitivo). A los neo-brandeisianos se les reprocha **inseguridad jurídica** y volver a un antitrust "populista" sin anclaje económico.
-
-**Jurisprudencia y operación real.** *US v. Microsoft* (2001) definió el abuso de posición dominante en tecnología; **Microsoft–Activision** (2023) mostró que hoy la autoridad de competencia es el verdadero *gatekeeper* de las megafusiones (bloqueo inicial de la CMA británica). **Grupo Modelo–AB InBev** exigió desinvertir Corona. En la práctica, el riesgo antimonopolio se evalúa **antes de firmar**, y las *remedies* (desinversiones) se negocian con la autoridad.
-
-**Para leer más:** Bork, *The Antitrust Paradox* (1978); Khan, *Amazon's Antitrust Paradox* (Yale L.J., 2017); Philippon, *The Great Reversal* (2019); Whish & Bailey, *Competition Law*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

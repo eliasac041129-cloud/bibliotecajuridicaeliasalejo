@@ -264,6 +264,37 @@ es **funcional**: cada palabra sirve a la persuasión.
   para cada caso difícil (Dworkin) o el juez tiene discrecionalidad (Hart)? Define cuánto margen
   reconoce el sistema al argumento.
 
+
+### ¿Demostrar o justificar? La distinción que ordena esta materia
+
+El formalismo veía la decisión jurídica como **subsunción lógica**: se aplica la norma al hecho y la
+conclusión se sigue. El realismo respondió que eso es una fachada —el juez **decide** y luego razona—.
+
+La síntesis moderna (**Wróblewski**, **MacCormick**) resolvió el falso dilema distinguiendo **dos niveles de
+justificación**, y esta distinción es la herramienta más útil del libro:
+
+- **Justificación interna:** que la conclusión **se siga** de las premisas. Es un asunto de lógica y se
+  controla con las técnicas del [Libro 12](./12-Logica-Juridica.md).
+- **Justificación externa:** **por qué esas premisas** y no otras. Por qué esa interpretación de la norma,
+  por qué esa valoración de la prueba, por qué ese precedente. Aquí es donde se gana o se pierde un caso
+  difícil.
+
+> **Aplicación inmediata a tu trabajo.** Cuando revises tu propio dictamen o el escrito de la contraparte,
+> hazlo en dos pasadas separadas. Primera: ¿la conclusión se sigue? Segunda —y es la que casi nadie hace—:
+> **¿están justificadas las premisas?** La mayoría de los argumentos jurídicos débiles son internamente
+> impecables y externamente indefendibles: el silogismo funciona, pero la premisa mayor era una
+> interpretación elegida sin argumentar.
+
+**Alexy** sostuvo que el discurso jurídico es un caso especial del discurso práctico racional, con reglas
+propias; y **Perelman** aportó una idea que a los abogados les resulta incómoda y es cierta: argumentar es
+**persuadir a un auditorio** concreto. La lógica formal no agota el razonamiento práctico —y el auditorio de
+un juez, de un árbitro, de un consejo de administración y de un regulador **no son el mismo**, ni se les
+persuade con los mismos argumentos—.
+
+Y el debate abierto: la **ponderación** de principios, ¿es un método racional y controlable (Alexy) o
+decisionismo con lenguaje técnico (crítica de Habermas y de otros)? Un abogado que argumenta con
+ponderación debería poder responder esa objeción.
+
 ## 7. Autores más importantes
 
 - **Aristóteles** (*Retórica*, *Tópicos*): ethos/pathos/logos, tópicos.
@@ -707,61 +738,6 @@ Empresa Familiar     ★★★☆☆
 ```
 *La argumentación es la **destreza central** del abogado: se usa en cada escrito, opinión y negociación.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El derecho se gana **argumentando**, no citando. El socio sabe que un juez, un árbitro o una contraparte no compran conclusiones: compran **razones**. Por eso construye su caso como una arquitectura: premisa normativa sólida, hechos bien encuadrados y una **teoría del caso** que hace que su interpretación parezca la única razonable. Y —clave— **anticipa el contraargumento** y lo desactiva antes de que llegue.
-
-### Doctrina y debate
-- **Toulmin:** estructura del argumento (pretensión, datos, garantía, respaldo, refutación) — el esqueleto de todo escrito persuasivo.
-- **Perelman (*La nueva retórica*):** argumentar es persuadir a un auditorio; el derecho es razonamiento práctico, no lógica formal pura.
-- **Alexy (*Teoría de la argumentación jurídica*):** el discurso jurídico como caso especial del discurso práctico racional; reglas del discurso.
-- **MacCormick, Atienza (*Las razones del derecho*, *Curso de argumentación jurídica*).**
-- **Debate:** ¿la ponderación de principios (Alexy) es racional o encubre decisionismo?
-
-### Derecho comparado
-En el *common law*, la argumentación gira en torno al **precedente** (analogía, *distinguishing*, *overruling*); en el *civil law*, en torno a la **subsunción** y la interpretación de la ley. El litigio internacional y el **arbitraje** mezclan ambos: el abogado mexicano debe saber argumentar por analogía de casos, no solo por texto legal.
-
-### Caso real
-**Ponderación en la SCJN:** en colisiones de derechos (libertad de expresión vs. honor; datos personales vs. información), la Corte aplica el **test de proporcionalidad** (idoneidad, necesidad, proporcionalidad en sentido estricto) de raíz alexiana. Dominar ese test es hoy indispensable para litigar constitucional y para el *compliance* de datos.
-
-### Errores que cuestan millones
-- Confundir **citar** con **argumentar**: pegar tesis sin construir la inferencia.
-- No anticipar el **mejor argumento del adversario** (y quedar expuesto en la réplica).
-
-### Preguntas
-- **Criterio:** ¿la ponderación es método racional o retórica sofisticada?
-- **Entrevista:** estructure, con el modelo de Toulmin, por qué su cliente no incumplió.
-- **Examen:** enuncie las fases del test de proporcionalidad.
-
-### Bibliografía por niveles
-- **Básico:** Atienza, *El sentido del Derecho*.
-- **Intermedio:** Atienza, *Curso de argumentación jurídica*.
-- **Avanzado:** Alexy, *Teoría de la argumentación jurídica*.
-- **Internacional:** Perelman, *Tratado de la argumentación*; Toulmin, *Los usos de la argumentación*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El derecho no se aplica solo: se **argumenta**. La teoría de la argumentación existe porque en los casos difíciles la subsunción lógica no basta —hay que **justificar racionalmente** una elección entre interpretaciones posibles. Persuadir con razones (no con autoridad ni retórica vacía) es lo que legitima la decisión jurídica en una democracia.
-
-**El debate.** **¿La decisión jurídica es demostración o justificación?** El positivismo formalista veía subsunción lógica; el realismo, decisión encubierta. La síntesis (Wróblewski, MacCormick): hay **justificación interna** (la conclusión se sigue de las premisas) y **justificación externa** (por qué esas premisas). **Alexy:** el discurso jurídico es un caso especial del discurso práctico racional, con reglas. **Perelman:** argumentar es persuadir a un **auditorio**; la lógica formal no agota el razonamiento práctico. Debate sobre la **ponderación** de principios: ¿método racional (Alexy) o decisionismo disfrazado (Habermas la matiza; los críticos la rechazan)?
-
-**Mirada de AED / pragmática.** Argumentar bien es, económicamente, **reducir el costo de convencer** al juez, árbitro o contraparte: una arquitectura clara de premisas ahorra tiempo y aumenta la probabilidad de éxito. Anticipar el contraargumento (teoría de juegos aplicada al litigio) desactiva la réplica del adversario.
-
-**Comparado y lección para México.** *Common law*: argumentación por **precedente y analogía** (*distinguishing*, *overruling*); civil law: por **subsunción e interpretación de la ley**. El arbitraje internacional mezcla ambas. **Lección:** el abogado mexicano de alto nivel debe argumentar por analogía de casos (no solo por texto legal) para litigar constitucional e internacionalmente.
-
-**Crítica.** La ponderación (Alexy) es criticada por dar **apariencia de método** a lo que sería intuición valorativa; la nueva retórica (Perelman), por relativizar la verdad. Debate abierto sobre la racionalidad de la interpretación constitucional.
-
-**Jurisprudencia y operación real.** El **test de proporcionalidad** (idoneidad, necesidad, proporcionalidad estricta) de raíz alexiana es hoy usado por la SCJN en colisiones de derechos —indispensable en litigio constitucional y en *compliance* de datos. En la práctica, un dictamen se gana por su arquitectura argumentativa, no por el número de tesis citadas.
-
-**Para leer más:** Alexy, *Teoría de la argumentación jurídica*; MacCormick, *Legal Reasoning and Legal Theory*; Perelman, *Tratado de la argumentación*; Atienza, *Curso de argumentación jurídica*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

@@ -453,6 +453,18 @@ convierte una *startup* prometedora en una operación imposible de financiar—.
   Libro 09).
 
 
+- **¿Cuánta protección es la óptima? El problema del plazo.** La propiedad intelectual resuelve un problema
+  económico preciso: las ideas son **bienes no rivales** —usarlas no las agota— y por tanto, sin protección,
+  nadie invertiría en producirlas porque cualquiera las copiaría. El monopolio temporal es el incentivo. Pero
+  ese mismo monopolio tiene un costo: mientras dura, **impide la difusión y el uso por otros**, incluida la
+  innovación acumulativa que partiría de esa idea.
+  > De ahí que la pregunta correcta no sea *"¿hay que proteger?"* sino **"¿por cuánto tiempo y con qué
+  > amplitud?"**. Un plazo demasiado corto no incentiva; demasiado largo bloquea. Y la respuesta óptima
+  > **varía por industria**: el ciclo de desarrollo de un medicamento no se parece al de un programa
+  > informático, y aplicarles el mismo plazo produce sobreprotección en un caso y subprotección en el otro.
+  > Es la razón por la que existen regímenes especiales, excepciones y licencias obligatorias — y el marco con
+  > el que un abogado debe evaluar cualquier propuesta de reforma en la materia.
+
 ## 30. Errores comunes
 
 1. **No registrar la marca a tiempo** (sistema atributivo): un tercero la registra primero y bloquea el
@@ -695,59 +707,6 @@ Empresa Familiar     ★★★☆☆
 verifica todo artículo, plazo, clase y requisito contra su texto vigente (LFPPI, LFDA, T-MEC) en el DOF y
 ante el IMPI/INDAUTOR.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-En la economía del conocimiento, **el activo más valioso de muchas empresas es intangible**: marcas, patentes, software, secretos industriales. En una adquisición tecnológica, el socio hace **IP due diligence**: ¿la empresa **es dueña** de su tecnología o la licencia?, ¿los empleados cedieron su creación?, ¿hay infracción de terceros? Comprar una *startup* sin verificar su IP es comprar una caja que puede estar vacía.
-
-### Doctrina y debate
-- **Fundamento:** teoría **utilitarista** (la PI como incentivo a innovar, monopolio temporal a cambio de divulgación) vs. teoría del **derecho natural** del creador (Locke, trabajo intelectual).
-- ***Tragedy of the anticommons* (Heller):** demasiadas patentes fragmentadas frenan la innovación (*patent thickets*).
-- **Debate:** ¿la PI fomenta o asfixia la innovación? (patentes farmacéuticas, *patent trolls*).
-
-### Derecho comparado
-**TRIPS** (OMC) armonizó mínimos globales. Marcas y patentes son **territoriales** y suelen ser ***first-to-file***. La LFPPI mexicana (2020, ⟳) modernizó el régimen; el derecho de autor (LFDA ⟳) protege la obra sin registro. USPTO/EUIPO son referentes de práctica.
-
-### Caso real
-**Apple v. Samsung (2011-2018):** guerra global de patentes de *smartphones* con condenas de cientos de millones ⚠️ *verificar*. En M&A tecnológica, el valor de la adquisición **fue** la cartera de patentes (p. ej. compras defensivas de portafolios). Lección: la IP no es un anexo del *deal*; a veces **es** el *deal*.
-
-### Errores que cuestan millones
-- Comprar una empresa cuya IP clave está a nombre de un **fundador o proveedor** (no cedida).
-- No proteger el **secreto industrial** con NDAs y controles (una vez público, no hay marcha atrás).
-
-### Preguntas
-- **Criterio:** ¿la propiedad intelectual promueve o frena la innovación?
-- **Entrevista:** ¿qué revisa en un *IP due diligence* de una *startup* de software?
-- **Examen:** distinga marca, patente, derecho de autor y secreto industrial.
-
-### Bibliografía por niveles
-- **Básico:** Rangel Medina, *Derecho de la propiedad industrial e intelectual*.
-- **Intermedio:** LFPPI y LFDA comentadas.
-- **Avanzado:** Landes & Posner, *The Economic Structure of Intellectual Property Law*.
-- **Internacional:** Acuerdo TRIPS (OMC); WIPO materiales.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La PI resuelve un problema económico: la información es un **bien público** (no rival, no excluible) —una vez creada, copiarla cuesta casi nada, así que sin protección **nadie invertiría** en crearla (fallo de apropiabilidad). La PI crea un **monopolio temporal artificial** (patente, derecho de autor) para restaurar el incentivo a innovar, a cambio de la **divulgación** (la patente publica la invención). Es un *trade-off* deliberado entre incentivo y acceso.
-
-**El debate.** **Utilitarista (incentivo, dominante en EE. UU.)** vs. **derecho natural/moral del autor (droit d'auteur europeo).** ¿La PI fomenta o **asfixia** la innovación? La *tragedy of the anticommons* (Heller): demasiadas patentes fragmentadas (*patent thickets*) frenan el desarrollo; los *patent trolls* litigan sin producir. Debate farmacéutico: patentes vs. acceso a medicamentos (licencias obligatorias). El movimiento *open source*/Creative Commons cuestiona el modelo propietario.
-
-**Mirada de AED.** El plazo y alcance óptimos de la PI equilibran el **costo del monopolio** (precios altos, acceso reducido) contra el **beneficio del incentivo** (más creación). Demasiada protección genera *deadweight loss* y bloqueo; muy poca, subinversión. La PI es, además, un **activo transable**: se licencia, se aporta, se garantiza —de ahí su centralidad en M&A tecnológica.
-
-**Comparado y lección para México.** **TRIPS** (OMC) armonizó mínimos globales; el sistema es **territorial** y suele ser *first-to-file*. EE. UU. y la UE lideran; México modernizó con la **LFPPI (2020 ⟳)**. **Lección:** para una economía que aspira a innovar, la clave no es solo proteger, sino **hacer cumplir** (combate a la piratería) y facilitar la transferencia de tecnología.
-
-**Crítica.** La PI ha sido criticada por **sobreprotección** (extensión de plazos por presión de las industrias del entretenimiento y farmacéutica) y por convertirse en barrera de entrada que favorece a los incumbentes.
-
-**Jurisprudencia y operación real.** *Apple v. Samsung* (2011-2018): guerra global de patentes con condenas de cientos de millones ⚠️. En M&A tecnológica, el **IP due diligence** determina si la *startup* **es dueña** de su tecnología o solo la licencia —a veces la cartera de PI *es* el *deal*.
-
-**Para leer más:** Landes & Posner, *The Economic Structure of Intellectual Property Law*; Heller, *The Tragedy of the Anticommons* (Harvard L. Rev., 1998); Acuerdo TRIPS.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

@@ -611,6 +611,15 @@ El equilibrio —**planear con sustancia, defender con la Constitución**— es 
   delincuencia organizada — ¿combate necesario o exceso punitivo? ⚠️
 
 
+- **Formalismo frente a sustancia económica: el debate matriz.** Sus dos sentencias fundadoras son
+  *IRC v. Duke of Westminster* (RU, 1936) —cada quien puede ordenar sus negocios para pagar menos: la
+  **economía de opción**— y *Gregory v. Helvering* (EE. UU., 1935) —una operación sin propósito de negocio no
+  surte efectos fiscales aunque cumpla la forma—. La pregunta que las separa no es *"¿cumple la letra?"* sino
+  ***"¿habría hecho el contribuyente esto si el beneficio fiscal no existiera?"***. Hoy predomina la
+  sustancia, instrumentada en las cláusulas generales antiabuso y en la **razón de negocios** del art. 5o.-A
+  CFF ⟳. El desarrollo completo, con la objeción formalista sobre seguridad jurídica, está en
+  [Fiscal Corporativo](../Nivel-IV-Corporate-Law/09-Fiscal-Corporativo-y-Planeacion-Fiscal-de-Operaciones.md).
+
 ## 30. Errores comunes (del estudiante y del practicante)
 
 1. **Confundir caducidad y prescripción.** Caducidad = mueren las **facultades** del fisco para
@@ -878,59 +887,6 @@ Empresa Familiar     ★★★★★
 *Tratado del Proyecto AJE · Ramas Esenciales · Libro 1 · Estándar V3. Contenido conceptual a
 2026-07; verifica toda norma, tasa, monto y artículo contra su texto vigente en el DOF y el SAT.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El fiscalista corporativo mide todo **después de impuestos** y vive en la frontera entre **economía de opción (legítima)** y **elusión/evasión**. Su brújula es la **sustancia**: ¿la operación tiene razón de negocios real (art. 5-A CFF ✅ ⟳) más allá del ahorro? En un *deal*, cuantifica la contingencia fiscal hasta la **caducidad** (art. 67 CFF ✅ ⟳) y la traslada al vendedor vía *reps* fiscales e indemnización específica.
-
-### Doctrina y debate
-- **Sustancia sobre forma / cláusula antiabuso (GAAR):** el fisco recaracteriza lo carente de sustancia.
-- **Capacidad contributiva y proporcionalidad/equidad** (art. 31-IV CPEUM ✅ ⟳) como límites constitucionales al tributo.
-- **Debate:** ¿existe una "moral fiscal" o solo la legalidad? La planeación agresiva legal, ¿es legítima?
-
-### Derecho comparado
-**BEPS (OCDE)** reordenó la fiscalidad internacional; EE. UU. sumó **GILTI/BEAT** (2017); la UE persigue ayudas de Estado fiscales. México incorporó razón de negocios, esquemas reportables y precios de transferencia (LISR ⟳).
-
-### Caso real
-**Apple–Irlanda:** la Comisión Europea ordenó recuperar **~13,000 mdEUR ⚠️ *verificar*** (confirmado por el TJUE en 2024 ⚠️). Lección: la estructura sin sustancia dejó de ser "eficiencia" y pasó a ser pasivo multimillonario y reputacional.
-
-### Errores que cuestan millones
-- Estructuras **sin sustancia** recaracterizadas (5-A CFF ⟳).
-- No blindar en el SPA la **contingencia fiscal** hasta la caducidad (67 CFF ⟳).
-
-### Preguntas
-- **Criterio:** ¿la planeación fiscal agresiva pero legal es legítima?
-- **Entrevista:** ¿cómo asigna el riesgo fiscal del *target* en un SPA?
-- **Examen:** explique la razón de negocios (5-A CFF).
-
-### Bibliografía por niveles
-- **Básico:** ver el tratado base y el [Suplemento de IV-09](../Nivel-IV-Corporate-Law/09-Fiscal-Corporativo-y-Planeacion-Fiscal-de-Operaciones.md).
-- **Intermedio:** OCDE, *Acciones BEPS*.
-- **Avanzado:** Rosembuj, *El fraude de ley y el abuso de las formas*.
-- **Internacional:** OCDE, *Model Tax Convention*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El tributo es el precio de la civilización (Holmes) y, jurídicamente, la forma en que el Estado —que renunció a ser dueño de los medios de producción— financia lo público sin expropiar: grava el flujo, no el capital. Su límite es constitucional: **capacidad contributiva, proporcionalidad y equidad** (art. 31-IV CPEUM ✅ ⟳). Todo el derecho fiscal oscila entre dos polos: la **recaudación** (interés del fisco) y la **seguridad jurídica** (interés del contribuyente).
-
-**El debate.** **Formalismo vs. sustancia:** *Duke of Westminster* (RU, 1936: cada quien organiza sus negocios para pagar menos) vs. *Gregory v. Helvering* (EE. UU., 1935: sin propósito de negocio, la operación no surte efectos fiscales). México se inclinó por la sustancia con la **razón de negocios** (art. 5-A CFF ✅ ⟳). El debate: ¿la cláusula antiabuso protege la equidad o destruye la seguridad jurídica al convertir al fisco en intérprete de la "verdadera" intención?
-
-**Mirada de AED.** El impuesto **distorsiona** decisiones (invertir, endeudarse, repartir dividendos); un buen sistema minimiza la *deadweight loss* (pérdida de eficiencia) y el costo de cumplimiento. La planeación agresiva y la competencia fiscal internacional generan una **carrera a la baja** (problema de acción colectiva global) que BEPS intenta corregir. El *enforcement* fiscal es un cálculo de probabilidad de detección × sanción (Becker, economía del delito).
-
-**Comparado y lección para México.** EE. UU. codificó la *economic substance doctrine* (2010) y GILTI/BEAT; la UE persigue ayudas de Estado (Apple–Irlanda). México adoptó razón de negocios, esquemas reportables y precios de transferencia. **Lección:** la sustancia es tendencia irreversible; el reto mexicano es dar **certeza** al contribuyente de buena fe mientras combate al abusivo.
-
-**Crítica.** Las GAAR son criticadas por **vaguedad** (¿qué es "razón de negocios"?), que traslada al contribuyente el riesgo de la interpretación del fisco. Y el sistema fiscal mexicano, por su **complejidad** y volatilidad anual, que él mismo eleva el costo de cumplimiento y empuja a la informalidad.
-
-**Jurisprudencia y operación real.** *Gregory v. Helvering* (1935) y *Duke of Westminster* (1936) son los polos históricos; **Apple–Irlanda** (TJUE 2024 ⚠️) su versión actual. En M&A, el fiscalista cuantifica la contingencia hasta la **caducidad de 5 años (art. 67 CFF ✅ ⟳)** y la traslada al vendedor.
-
-**Para leer más:** *Gregory v. Helvering* (US 1935); OCDE, informes BEPS; Tipke, *Moral tributaria del Estado y de los contribuyentes*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

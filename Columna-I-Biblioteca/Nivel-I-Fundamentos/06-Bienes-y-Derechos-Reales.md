@@ -317,6 +317,48 @@ entrega); y el **abstracto** alemán (negocio dispositivo separado y abstracto d
 obligacional). La elección del sistema afecta cuándo pasa el riesgo y la propiedad —cuestión
 clave al estructurar la transmisión de activos en un *asset deal*.
 
+
+### El *numerus clausus*: la pregunta que revela la lógica de todo el libro
+
+Aquí hay una asimetría que casi nadie se detiene a explicar y que, bien entendida, ordena la materia
+completa: **los contratos son libres —puedes inventar el que quieras— y los derechos reales son típicos y
+tasados.** No puedes crear por contrato un derecho real nuevo. ¿Por qué?
+
+La respuesta clásica apela a la naturaleza de las cosas. La respuesta económica —**Merrill y Smith**— es
+mucho más satisfactoria: un derecho real es **oponible frente a todos**, de modo que si las partes pudieran
+crear cargas "a la medida", **todo tercero que quisiera adquirir o financiar ese bien tendría que investigar
+qué gravámenes idiosincráticos pesan sobre él**. El costo de esa investigación lo pagaría el mercado
+entero.
+
+> El *numerus clausus* **estandariza** las cargas posibles y por eso **abarata la información**. Es la misma
+> lógica de estandarización que hace útiles los títulos de crédito y los tipos societarios: cuando un
+> instrumento es oponible a terceros, la libertad de diseño se paga con costos de verificación ajenos.
+>
+> Y de aquí una consecuencia práctica: cuando un cliente quiera un derecho "a la medida" sobre un bien, la
+> respuesta técnica no es negarse, es **encauzarlo** —por vía contractual con efectos personales, por
+> fideicomiso, o por la figura real típica que más se aproxime—.
+
+**El otro debate clásico**: la concepción **clásica** ve el derecho real como poder directo sobre la cosa; la
+**obligacionista** (Planiol) sostiene que todo derecho real esconde una **obligación pasiva universal** de
+respeto a cargo de todos los demás. La segunda explica mejor por qué la oponibilidad exige publicidad.
+
+### Propiedad, registro e inversión
+
+Tres ideas económicas que dan sentido a lo demás:
+
+**Sin propiedad definida, nadie invierte.** Nadie mejora un activo que no controla. Es la observación de
+**Hardin** sobre la *tragedia de los comunes*: el recurso de todos y de nadie se sobreexplota, porque cada
+uno captura el beneficio de usarlo y comparte el costo de agotarlo.
+
+**La propiedad convierte un recurso en capital.** Es la tesis de **De Soto**: un inmueble sin título no es
+riqueza utilizable —no se puede hipotecar, ni vender con certeza, ni aportar a una sociedad—. La
+formalización es lo que lo vuelve **financiable**.
+
+**Y el registro resuelve la asimetría de información.** La publicidad registral es lo que permite saber
+quién es dueño y **quién cobra primero**. Por eso la prelación y la perfección de garantías —ver
+[Garantías](../Nivel-II-Derecho-Civil-Profundo/04-Garantias-y-Derechos-Reales-de-Garantia.md)— son, en el
+fondo, un problema de este libro.
+
 ## 7. Autores más importantes
 
 **Doctrina mexicana:**
@@ -863,58 +905,6 @@ Empresa Familiar     ★★★★☆
 *Bienes y garantías reales son el corazón de los **asset deals** y del **financiamiento garantizado**
 (banca).*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-En financiamiento y garantías, la pregunta del socio es: **¿qué tengo, cómo lo aseguro y en qué lugar quedo si el deudor cae?** Ahí la distinción entre **derecho real** (sobre la cosa, oponible *erga omnes*, con persecución y preferencia) y **derecho personal** (frente a una persona) lo es todo: un acreedor con garantía real cobra antes; uno quirografario, al final. El corporativo piensa en **prelación**.
-
-### Doctrina y debate
-- **Derecho real vs. personal:** la teoría clásica (poder directo sobre la cosa) frente a la teoría **obligacionista** (Planiol: todo derecho real esconde una obligación pasiva universal) y la tesis intermedia de **Ginossar**.
-- ***Numerus clausus*:** los derechos reales son típicos y tasados por la ley (no se crean por contrato), a diferencia de los contratos (atípicos permitidos). Debate: ¿por qué el mercado no puede "inventar" derechos reales?
-
-### Derecho comparado
-La propiedad **unitaria** del *civil law* contrasta con la propiedad **fragmentada** del *common law* (doctrina de *estates* y *title*: *fee simple*, *leasehold*, etc.). En garantías, el **Artículo 9 del UCC** estadounidense creó el concepto unificado de *security interest* con registro (*filing*) —modelo que inspiró las garantías mobiliarias modernas (RUG en México ⟳).
-
-### Caso real
-**Garantías mobiliarias en el crédito corporativo:** la prenda sin transmisión de posesión y el fideicomiso de garantía permiten a una empresa financiarse sin entregar sus activos productivos. En reestructuras (p. ej. **Aeroméxico**, Chapter 11, 2020-2022 ⚠️ *verificar*), la posición de cada acreedor dependió de la **naturaleza y perfección** de su garantía real.
-
-### Errores que cuestan millones
-- Constituir una garantía y **no perfeccionarla/inscribirla**: frente a terceros, no existe.
-- Confundir **posesión** con **propiedad** en el *due diligence* de activos.
-
-### Preguntas
-- **Criterio:** ¿por qué el derecho impide crear derechos reales por contrato (*numerus clausus*)?
-- **Entrevista:** ordene la prelación entre un acreedor hipotecario, uno prendario y uno quirografario.
-- **Examen:** distinga derecho real y derecho personal con tres consecuencias prácticas.
-
-### Bibliografía por niveles
-- **Básico:** Rojina Villegas, *Bienes, derechos reales y sucesiones*.
-- **Intermedio:** Ibarrola, *Cosas y sucesiones*.
-- **Avanzado:** Planiol y Ripert, *Tratado práctico de Derecho Civil*.
-- **Internacional:** Merrill & Smith, *Property: Principles and Policies*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** Los derechos reales existen para asignar de forma **estable y oponible frente a todos** el uso y disfrute de las cosas escasas —condición sine qua non de la inversión: nadie mejora un activo que no controla. La propiedad es la institución que convierte un recurso en **capital** (De Soto): permite garantizarlo, transmitirlo y financiarlo.
-
-**El debate.** **Concepción clásica (poder directo sobre la cosa) vs. obligacionista (Planiol: todo derecho real esconde una obligación pasiva universal de respeto).** Debate del ***numerus clausus***: ¿por qué los derechos reales son típicos y tasados (no se crean por contrato) cuando los contratos sí son libres? Respuesta económica (Merrill & Smith): permitir crear derechos reales "a la medida" impondría a terceros el costo de **investigar** cargas idiosincráticas —el *numerus clausus* estandariza y abarata la información.
-
-**Mirada de AED.** La propiedad bien definida internaliza costos y beneficios (evita la "tragedia de los comunes", Hardin) e incentiva la inversión. El **registro** (publicidad) resuelve la asimetría de información sobre cargas y prelación: reduce el costo de verificar quién es dueño y quién cobra primero.
-
-**Comparado y lección para México.** Propiedad **unitaria** (civil law) vs. **fragmentada** (*estates* del *common law*: *fee simple*, *leasehold*). El **UCC Art. 9** unificó las garantías mobiliarias con registro. **Lección:** la **certeza registral** y la agilidad de la garantía real son infraestructura del crédito; el rezago registral encarece el financiamiento en México.
-
-**Crítica.** El *numerus clausus* es criticado por **rígido** (impide innovación en formas de tenencia); la propiedad absoluta, por ignorar su **función social** (art. 27 CPEUM). Debate perpetuo entre eficiencia y equidad en el acceso a la tierra.
-
-**Jurisprudencia y operación real.** En financiamiento y reestructuras, la **prelación** entre acreedor hipotecario, prendario y quirografario decide quién recupera. En la práctica, constituir la garantía no basta: sin **perfección/inscripción**, no existe frente a terceros.
-
-**Para leer más:** Merrill & Smith, *Optimal Standardization in the Law of Property: The Numerus Clausus Principle* (Yale L.J., 2000); Hardin, *The Tragedy of the Commons* (Science, 1968); De Soto, *El misterio del capital*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

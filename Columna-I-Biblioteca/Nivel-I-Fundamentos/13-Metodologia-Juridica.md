@@ -237,6 +237,37 @@ cliente y al tribunal.
   clásica es documental (fuentes); la contemporánea incorpora datos empíricos, economía,
   sociología y tecnología. Debate sobre cuánto debe el derecho abrirse a otras disciplinas.
 
+
+### El debate que divide a las cortes supremas
+
+**Originalismo y textualismo frente a interpretación evolutiva.** ¿Debe interpretarse una norma conforme a
+la **voluntad histórica** de quien la dictó y al **texto** tal como se entendía entonces —posición que
+**Scalia** defendió con más rigor que nadie— o debe **actualizarse** su sentido a las necesidades del
+presente?
+
+Es el eje que divide a la Suprema Corte estadounidense y resuena en México cada vez que se discute si un
+derecho constitucional cubre una situación que sus redactores no imaginaron. Los dos lados tienen un
+argumento fuerte y conviene poder formularlos: el originalismo defiende la **previsibilidad** y la
+legitimidad democrática —quien no fue electo no debería reescribir—; la interpretación evolutiva defiende
+que un texto rígido aplicado a una realidad nueva produce resultados que **nadie** habría querido.
+
+**Los métodos: ¿jerarquía o caja de herramientas?** **Savigny** sistematizó los clásicos —gramatical,
+lógico, histórico y sistemático— a los que se añadieron el **teleológico** (el fin de la norma) y la
+**interpretación conforme a la Constitución**. La pregunta práctica es si existe un orden de prelación entre
+ellos o si son instrumentos que se eligen según el caso.
+
+> *Postura del Consejo:* funcionan como **caja de herramientas con un límite de honestidad**. Elegir el
+> método que favorece a tu cliente es legítimo —es lo que hace un abogado—; **ocultar que los otros métodos
+> apuntan en otra dirección no lo es**, y además es mala técnica: el que argumenta un solo método regala la
+> réplica. Un dictamen sólido aplica varios y explica por qué uno debe prevalecer.
+
+**Y la excepción que hay que conocer siempre:** en materia **fiscal y penal** rige la **interpretación
+estricta** de los elementos esenciales (*nullum tributum sine lege*, *nulla poena sine lege*). No se pueden
+crear tributos ni delitos por analogía ni por vía interpretativa extensiva. Es el límite que un abogado
+corporativo debe tener presente cuando un asesor propone una lectura "creativa" de una norma fiscal — ver
+[Derecho Fiscal](../Ramas-Esenciales/01-Derecho-Fiscal.md) y
+[Fiscal Corporativo](../Nivel-IV-Corporate-Law/09-Fiscal-Corporativo-y-Planeacion-Fiscal-de-Operaciones.md).
+
 ## 7. Autores más importantes
 
 - **Christopher Columbus Langdell:** creador del *case method* (Harvard).
@@ -661,60 +692,6 @@ Empresa Familiar     ★★★☆☆
 *La metodología —y la disciplina de **verificar en la fuente**— es lo que separa al abogado confiable del
 peligroso. Es el Principio Supremo del proyecto hecho hábito.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-Interpretar es el 60% del trabajo: la ley casi nunca dice, con claridad, lo que el caso necesita. El socio domina los **métodos de interpretación** y —sobre todo— sabe **cuál invocar según convenga** al cliente (y anticipar cuál usará el juez). Metodología también es cómo se **investiga** un problema nuevo: dónde buscar, qué es fuente y qué es opinión.
-
-### Doctrina y debate
-- **Métodos clásicos (Savigny):** gramatical, lógico, histórico y sistemático; a los que se sumó el **teleológico** (fin de la norma) y el **conforme a la Constitución**.
-- **Escuelas:** exégesis (apego al texto) → jurisprudencia de conceptos → jurisprudencia de intereses (Ihering, Heck) → jurisprudencia de valoraciones.
-- **Interpretación estricta vs. extensiva:** en materia **fiscal y penal**, las normas de excepción y de cargas se interpretan de forma **estricta** (nullum tributum/nulla poena sine lege).
-- **Debate:** ¿debe el intérprete buscar la "voluntad del legislador" (originalismo) o la "voluntad de la ley" actualizada (interpretación evolutiva)?
-
-### Derecho comparado
-La disputa **originalismo vs. constitución viviente** domina la Suprema Corte de EE. UU. y resuena en México en la interpretación de derechos. En lo metodológico, el jurista continental parte del texto; el anglosajón, del precedente y su *ratio decidendi*.
-
-### Caso real
-**Interpretación de estímulos y regímenes fiscales:** la autoridad y los contribuyentes libran batallas interpretativas sobre si un supuesto encuadra o no en un beneficio. La regla de **interpretación estricta** de las normas fiscales (relacionada con el art. 5 CFF ⟳) suele definir el resultado. Método = dinero.
-
-### Errores que cuestan millones
-- Usar interpretación **extensiva** donde la ley exige **estricta** (fiscal/penal).
-- Confundir **fuente** (ley, jurisprudencia) con **doctrina** (opinión) al fundar un dictamen.
-
-### Preguntas
-- **Criterio:** ¿debe interpretarse la ley según lo que quiso el legislador o según lo que hoy necesita la sociedad?
-- **Entrevista:** ¿qué método de interpretación invocaría para ampliar un beneficio fiscal, y cuál temería del fisco?
-- **Examen:** enuncie los métodos de interpretación de Savigny.
-
-### Bibliografía por niveles
-- **Básico:** Witker, *Metodología jurídica*.
-- **Intermedio:** García Máynez, *Introducción a la lógica jurídica*.
-- **Avanzado:** Savigny, *Sistema del Derecho Romano actual* (interpretación).
-- **Internacional:** Guastini, *Interpretar y argumentar*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** Interpretar es el 60% del trabajo jurídico: la ley casi nunca dice con claridad lo que el caso necesita. La metodología existe para hacer la interpretación **racional y controlable** —no capricho— y para saber **investigar** un problema nuevo (qué es fuente, qué es doctrina, dónde buscar). Es la disciplina que separa al que "opina" del que **fundamenta**.
-
-**El debate.** **Originalismo vs. constitución/ley viviente:** ¿interpretar según la voluntad histórica del legislador (Scalia, textualismo) o actualizar el sentido a las necesidades presentes (interpretación evolutiva)? Es el debate que divide a la Suprema Corte de EE. UU. y resuena en México. Debate de los **métodos** (Savigny: gramatical, lógico, histórico, sistemático; + teleológico + conforme a la Constitución): ¿jerarquía entre ellos o caja de herramientas? Y la **interpretación estricta** en materia fiscal y penal (nullum tributum/nulla poena sine lege).
-
-**Mirada de AED / pragmática.** Los métodos son **argumentos disponibles**: el buen abogado sabe cuál invocar según convenga al cliente y —clave— **anticipa cuál usará el juez o el fisco**. Elegir el método es, estratégicamente, elegir el terreno de batalla interpretativo.
-
-**Comparado y lección para México.** La disputa **originalismo vs. living constitution** domina EE. UU.; en lo metodológico, el jurista continental parte del texto y el anglosajón del precedente (*ratio decidendi*). **Lección:** en materia fiscal, invocar la **interpretación estricta** (relacionada con el art. 5 CFF ⟳) suele decidir si un supuesto encuadra o no en un beneficio —método convertido en dinero.
-
-**Crítica.** El originalismo es criticado por **anacrónico** (congela el derecho); la interpretación evolutiva, por dar demasiado poder al juez (activismo). La multiplicidad de métodos, por permitir "elegir" el resultado y racionalizarlo después.
-
-**Jurisprudencia y operación real.** Las **batallas interpretativas fiscales** (¿encuadra este supuesto en el estímulo?) se ganan con método. En la práctica, todo dictamen sólido explicita **qué método** de interpretación usa y por qué —eso lo hace defendible ante impugnación.
-
-**Para leer más:** Savigny, *Sistema del Derecho Romano actual* (interpretación); Guastini, *Interpretar y argumentar*; Scalia, *A Matter of Interpretation*; Witker, *Metodología jurídica*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

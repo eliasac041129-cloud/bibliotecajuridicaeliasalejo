@@ -472,6 +472,24 @@ derrumba.
 - **Reformas recientes/propuestas al régimen agrario y energético** y su impacto en la propiedad social ⚠️.
 
 
+- **De Soto y el capital muerto: por qué la formalización de la tierra es un problema económico.** Hernando
+  de Soto documentó que en muchos países en desarrollo existe una enorme masa de activos —sobre todo tierra y
+  vivienda— que la gente **posee de hecho pero no puede usar como capital**: no se pueden hipotecar, ni
+  transmitir con certeza, ni aportar a una sociedad, porque el título no es claro o no es registrable. A eso
+  llamó **capital muerto**.
+  > **Y por eso este libro está en un programa de derecho corporativo.** El régimen de la tierra social —con
+  > sus reglas propias de titularidad, transmisión y aprovechamiento ⟳— determina si un terreno puede ser
+  > garantía de un crédito, aportarse a un vehículo de inversión o sostener un proyecto de energía o
+  > infraestructura. **La verificación del régimen de propiedad de la tierra es, en México, uno de los
+  > hallazgos de *due diligence* que más operaciones ha detenido**, y casi nunca lo revisa quien no sabe que
+  > debe revisarlo.
+  >
+  > Conecta con [Bienes y Derechos Reales](../Nivel-I-Fundamentos/06-Bienes-y-Derechos-Reales.md) —la
+  > propiedad como institución que convierte un recurso en capital— y con
+  > [Garantías](../Nivel-II-Derecho-Civil-Profundo/04-Garantias-y-Derechos-Reales-de-Garantia.md): un activo
+  > sin título registrable no puede perfeccionarse como garantía, y por tanto **no vale como respaldo de
+  > deuda por más que valga en el mercado**.
+
 ## 30. Errores comunes
 
 1. **"Comprar" tierra ejidal por contrato privado** sin dominio pleno ni asamblea válida → titularidad
@@ -725,58 +743,6 @@ Empresa Familiar     ★★★☆☆
 verifica todo artículo (art. 27 CPEUM ⟳, Ley Agraria), órgano y procedimiento contra su texto vigente (DOF) y
 los criterios en el SJF y los Tribunales Agrarios.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El agrario parece ajeno al corporativo hasta que un proyecto de **energía, minería, infraestructura o inmobiliario** se topa con un **ejido**. Ahí el socio descubre que la **propiedad social** (ejidal y comunal) tiene reglas propias: no se compra como cualquier terreno. Piensa en **certeza de la tierra**: ¿quién es el titular?, ¿se requiere asamblea ejidal?, ¿aplica la consulta a comunidades? Un proyecto de miles de millones se detiene por un vicio en la tenencia.
-
-### Doctrina y debate
-- **Propiedad social (art. 27 CPEUM ✅ ⟳):** ejido y comunidad; su régimen de dominio pleno, usufructo y restricciones de enajenación.
-- **Debate:** ¿la propiedad social protege al campesino o traba la inversión y la certeza jurídica? Tensión histórica desde la Revolución.
-
-### Derecho comparado
-Pocos países tienen una figura equivalente al **ejido**; es una aportación mexicana del constitucionalismo social de 1917. En proyectos transnacionales, esto sorprende al inversionista extranjero acostumbrado a propiedad privada plena. La **consulta previa** a pueblos indígenas (Convenio 169 OIT) añade una capa que México debe respetar.
-
-### Caso real
-**Proyectos de energía e infraestructura frenados por conflictos de tierra/consulta ⚠️ *verificar casos*:** parques eólicos, mineras y obras han sido suspendidos por amparos de comunidades por falta de consulta o vicios en la tenencia ejidal. Lección: la **due diligence de tierra y consulta** es tan crítica como la financiera en proyectos con huella territorial.
-
-### Errores que cuestan millones
-- Adquirir o arrendar tierra ejidal **sin la asamblea** y formalidades del régimen agrario.
-- Omitir la **consulta previa** a comunidades (nulidad y suspensión del proyecto vía amparo).
-
-### Preguntas
-- **Criterio:** ¿la propiedad social debe mantenerse o migrar a propiedad privada plena?
-- **Entrevista:** ¿qué revisa antes de instalar un proyecto en tierra ejidal?
-- **Examen:** explique el régimen de la propiedad social del art. 27 CPEUM.
-
-### Bibliografía por niveles
-- **Básico:** Rivera Rodríguez, *Derecho agrario mexicano*.
-- **Intermedio:** Ley Agraria comentada; jurisprudencia de tribunales agrarios.
-- **Avanzado:** análisis del art. 27 y la reforma de 1992.
-- **Internacional:** Convenio 169 de la OIT (consulta previa).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El derecho agrario mexicano es hijo de la **Revolución**: el art. 27 (1917) convirtió la tierra en cuestión de justicia social, creando la **propiedad social** (ejido y comunidad) como reparación histórica. Su lógica no es la del mercado (maximizar el valor de la tierra) sino la **tutelar-social** (proteger al campesino y la tenencia colectiva). Por eso la tierra ejidal **no se compra como cualquier terreno**: sorprende al inversionista formado en la propiedad privada plena.
-
-**El debate.** **Propiedad social vs. certeza y mercado:** la reforma de **1992** (fin del reparto, dominio pleno, posibilidad de asociar y enajenar) buscó dar certeza y atraer inversión; los críticos vieron el fin de la conquista revolucionaria y riesgo de despojo. Debate vivo en energía, minería e infraestructura: cómo conciliar proyectos de miles de millones con la **propiedad social** y la **consulta previa** a pueblos indígenas (Convenio 169 OIT).
-
-**Mirada de AED.** La **inseguridad de la tenencia** (títulos difusos, decisiones asamblearias) eleva los **costos de transacción** de cualquier proyecto sobre tierra social y desincentiva la inversión —el problema clásico de De Soto (*El misterio del capital*): sin derechos de propiedad claros, el activo no se puede movilizar ni financiar. La consulta previa internaliza el costo social del proyecto.
-
-**Comparado y lección para México.** Pocos países tienen figura equivalente al ejido; es aportación mexicana del constitucionalismo social. La consulta previa (Convenio 169 OIT) es estándar internacional. **Lección:** en proyectos con huella territorial, el **due diligence de tierra y consulta** es tan crítico como el financiero; omitirlo detiene el proyecto vía amparo.
-
-**Crítica.** El régimen es criticado por generar **inseguridad jurídica** que frena inversión y desarrollo rural; y, del otro lado, por exponer a las comunidades al despojo y a consultas simuladas.
-
-**Jurisprudencia y operación real.** Proyectos de energía e infraestructura han sido suspendidos por amparos de comunidades por **falta de consulta** o vicios en la tenencia ⚠️. En la práctica, el abogado verifica la titularidad, exige la **asamblea ejidal** y documenta la consulta antes de que el proyecto arranque.
-
-**Para leer más:** Hernando de Soto, *El misterio del capital*; art. 27 CPEUM y la reforma de 1992; Convenio 169 de la OIT.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

@@ -134,6 +134,45 @@ contratos típicos son **tecnologías de intercambio y de gestión del riesgo** 
 La economía institucional (Libro 9, Nivel I) lo confirma: contratos típicos bien definidos
 **reducen costos de transacción** porque las partes no tienen que renegociar todo desde cero.
 
+### Los ladrillos: por qué este libro es la base del Nivel IV
+
+Conviene decir de entrada para qué sirve, de verdad, dominar los contratos típicos. **Los contratos
+corporativos complejos no son figuras nuevas: son combinaciones cualificadas de estos ladrillos.**
+
+| El contrato corporativo | Los ladrillos que lo componen |
+|---|---|
+| Un **SPA** | Una **compraventa** cualificada (art. 2248 CCF ⟳) con reparto convencional de riesgo |
+| Un **contrato de crédito** | Un **mutuo** con garantías accesorias |
+| Un ***escrow*** | **Depósito** más **mandato** |
+| Un **fideicomiso de garantía** | Afectación con **mandato** de ejecución |
+| Un **contrato de administración** | **Mandato** con obligaciones de medio |
+
+> **La consecuencia práctica es la que da valor a este libro:** identificar el **tipo base** te dice cuál es
+> el **régimen supletorio** que se aplicará a todo lo que el contrato **no** diga. Y como ningún contrato lo
+> dice todo, ese régimen supletorio siempre acaba operando.
+>
+> Dicho de otro modo: **saber qué gana tu cliente por callar** es tan importante como saber qué redactar. Un
+> abogado que no reconoce el tipo base está negociando sin saber cuál es su punto de partida legal.
+
+**Y la conexión que cierra el círculo con el Nivel IV:** la obligación de **sanear por vicios ocultos y por
+evicción** que la compraventa impone al vendedor es el **antecedente civil directo** de las
+*representations & warranties* del SPA. Las *reps* anglosajonas no inventaron la idea de que el vendedor
+responde por lo que entrega: la **contractualizaron y la calibraron** —con topes, plazos y umbrales—. Por eso
+el
+[Libro 4 del Nivel IV](../Nivel-IV-Corporate-Law/04-Documentacion-Term-Sheet-SPA-APA-SHA.md) insiste en que
+el saneamiento legal opera como **piso** debajo de las *reps* pactadas, y en que renunciar a él por descuido
+al redactar las limitaciones de responsabilidad es un error caro.
+
+**El comparado, en una línea:** el *civil law* regula minuciosamente cada tipo contractual; el *common law*
+deja más al acuerdo y a los *implied terms*. Y en compraventa internacional de mercancías, la **CISG**
+desplaza al derecho local salvo pacto en contrario — un detalle que decide **qué régimen de saneamiento
+aplica** en una operación transfronteriza, y que se pasa por alto con una frecuencia notable.
+
+**La crítica que el Consejo comparte:** la tipificación excesiva puede volverse una **camisa de fuerza**
+cuando el negocio real no encaja en ningún tipo, y de ahí la importancia de los contratos **atípicos y
+mixtos** y de la técnica de integración de lagunas por analogía con el tipo más cercano
+([Libro 4 del Nivel III](../Nivel-III-Derecho-Mercantil/04-Contratos-Mercantiles.md)).
+
 ## 7. Contexto político
 
 El Estado regula estos contratos cuando hay **asimetría de poder** o **interés público**: límites a
@@ -963,59 +1002,6 @@ que cuestan millones**.
 > contenido y límite a toda **indemnización**. Seguimos construyendo al abogado de M&A, contrato a
 > contrato.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-Los contratos "civiles en particular" (compraventa, arrendamiento, mandato, mutuo, prenda, depósito, comodato, fianza) son los **ladrillos** con que se arman los contratos corporativos complejos: un SPA es una compraventa cualificada; un crédito es un mutuo con garantías; un *escrow* combina depósito y mandato. El socio reconoce el **tipo contractual base** para importar su régimen supletorio y anticipar qué calla el contrato que la ley ya resuelve.
-
-### Doctrina y debate
-- **Contratos típicos vs. atípicos y mixtos:** cómo integrar lagunas (analogía con el tipo más cercano).
-- **Compraventa** como contrato madre (art. 2248 CCF ⟳): obligaciones de sanear por **vicios ocultos** y por **evicción** —directamente conectadas con las *representations & warranties* del SPA.
-- **Mandato y representación** (base de todo poder corporativo).
-
-### Derecho comparado
-El *civil law* regula minuciosamente cada contrato típico; el *common law* deja más al acuerdo de las partes y a *implied terms*. En compraventa internacional, la **CISG** desplaza al derecho local salvo pacto en contrario: un detalle que decide qué régimen de saneamiento aplica en una operación transfronteriza.
-
-### Caso real
-**Saneamiento por evicción y vicios en M&A:** cuando tras comprar una empresa aparece que un activo clave no era del vendedor (evicción) o tenía un defecto oculto (contingencia), el comprador acude al régimen de saneamiento **más** a las garantías contractuales. Por eso el SPA "contractualiza" y amplía lo que el Código ya prevé.
-
-### Errores que cuestan millones
-- No pactar el **saneamiento** y depender solo del mínimo legal.
-- Usar un tipo contractual equivocado (llamar "arrendamiento" a lo que es *leasing* financiero, con efectos fiscales distintos ⟳).
-
-### Preguntas
-- **Criterio:** ¿conviene "contractualizar" garantías que la ley ya da? ¿Por qué el mercado lo hace?
-- **Entrevista:** ¿qué obligación de saneamiento del vendedor refuerza en un SPA?
-- **Examen:** distinga vicios ocultos y evicción.
-
-### Bibliografía por niveles
-- **Básico:** Zamora y Valencia, *Contratos civiles*.
-- **Intermedio:** Sánchez Medal, *De los contratos civiles*.
-- **Avanzado:** Lorenzetti, *Tratado de los contratos*.
-- **Internacional:** CISG (Convención de Viena, 1980); Schlechtriem & Schwenzer, *Commentary on the CISG*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** Los contratos típicos (compraventa, arrendamiento, mandato, mutuo, fianza…) existen porque el derecho **estandariza** las relaciones más frecuentes, ahorrando a las partes negociar todo desde cero: cada tipo trae un **régimen supletorio** que llena lo que el contrato calla. Son, en clave económica, **cláusulas por defecto** (*default rules*) que reducen costos de transacción —el contrato solo negocia las desviaciones.
-
-**El debate.** ***Default rules*: ¿mayoritarias o penalizadoras?** (Ayres & Gertner): ¿la regla supletoria debe ser la que la mayoría querría (ahorra negociación) o una "penalizadora" que fuerce a las partes informadas a revelar información (*information-forcing*)? Debate del **saneamiento** (vicios ocultos, evicción): ¿protección imperativa o renunciable? Y el gran tema: cómo se integran los **contratos atípicos y mixtos** (analogía con el tipo más cercano + buena fe).
-
-**Mirada de AED.** La compraventa es el contrato madre; su régimen de **saneamiento** asigna el riesgo de defectos y de evicción —el mismo riesgo que el SPA "contractualiza" y amplía con *reps & warranties*. Entender la *default rule* legal permite saber **qué gana el cliente por callar** (la ley lo protege) y qué debe negociar expresamente.
-
-**Comparado y lección para México.** El civil law regula minuciosamente cada tipo; el *common law* deja más a *implied terms* y al acuerdo. La **CISG** (Viena, 1980) desplaza al derecho local en compraventa internacional salvo pacto. **Lección:** al redactar, saber qué régimen supletorio aplica evita reinventar (o perder) protecciones que la ley ya da gratis.
-
-**Crítica.** La tipificación puede volverse **camisa de fuerza** ante negocios nuevos (llamar "arrendamiento" a un *leasing* financiero, con efectos fiscales distintos ⟳); y el saneamiento legal, insuficiente para operaciones complejas —de ahí la migración al SPA.
-
-**Jurisprudencia y operación real.** El régimen de **evicción y vicios ocultos** reaparece en M&A cuando, tras el cierre, un activo resulta ajeno o defectuoso. En la práctica, el buen abogado reconoce el **tipo base** bajo el contrato complejo para importar su régimen y anticipar lo que calla.
-
-**Para leer más:** Ayres & Gertner, *Filling Gaps in Incomplete Contracts* (Yale L.J., 1989); CISG (1980); Lorenzetti, *Tratado de los contratos*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

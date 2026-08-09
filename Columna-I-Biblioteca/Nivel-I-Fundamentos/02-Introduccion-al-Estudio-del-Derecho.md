@@ -254,6 +254,39 @@ Exégesis (Francia, s. XIX) reducía el derecho a la ley y al juez a su "boca". 
 Gény (libre investigación científica) y la jurisprudencia de intereses (Heck) reaccionaron:
 interpretar es atender a los fines y a los intereses en conflicto, no solo a la letra.
 
+
+### El eje de la filosofía jurídica del siglo XX: el debate Hart–Dworkin
+
+Es la discusión más profunda de la materia y conviene poder situarla, porque de ella depende cómo
+resuelves un caso difícil.
+
+**Kelsen** separa derecho y moral: la validez de una norma proviene de otra superior, hasta la norma
+fundante (*Grundnorm*). **Hart** matiza: el derecho es una unión de reglas primarias (de conducta) y
+secundarias (de reconocimiento, cambio y adjudicación), y lo que identifica al derecho es una **regla de
+reconocimiento** aceptada socialmente. Y añade lo decisivo: en los **casos difíciles**, donde las reglas
+no dan respuesta, el juez tiene **discreción** —crea derecho—.
+
+**Dworkin lo refuta** y ahí está el corazón del debate: no existe esa discreción fuerte, porque además de
+reglas el sistema contiene **principios**, y un juez ideal —al que llama *Hércules*— podría derivar de
+ellos la **única respuesta correcta**. **Alexy** desarrolla esa línea: los principios son *mandatos de
+optimización* que no se aplican sino que se **ponderan**.
+
+Y en el extremo, **Radbruch**, escribiendo después del nazismo: la ley **extremadamente injusta no es
+derecho**. Es la fórmula que permitió juzgar en Núremberg conductas que habían sido legales conforme al
+ordenamiento vigente.
+
+> **Por qué esto no es un lujo académico para un abogado corporativo.** Cada vez que argumentas con
+> principios en lugar de con reglas —buena fe, abuso del derecho, interés social, razón de negocios— estás
+> operando dentro de este debate. Y cada vez que un tribunal pondera dos derechos en conflicto, está
+> haciendo lo que Alexy describió. Saber nombrarlo te permite argumentar con precisión en lugar de por
+> intuición.
+
+**La tercera vía que conviene conocer: el realismo.** Holmes lo formuló sin adornos —*el derecho es lo que
+los tribunales harán de hecho*— y su figura del *hombre malo* (al que solo le interesan las consecuencias
+de su conducta) es el antecedente directo del análisis económico: el derecho como **sistema de precios de
+la conducta**. Es una visión incompleta y es extraordinariamente útil cuando tu trabajo consiste en
+predecir riesgo para un cliente.
+
 ---
 
 ## 7. Autores más importantes
@@ -298,6 +331,19 @@ interpretar es atender a los fines y a los intereses en conflicto, no solo a la 
 Para el abogado de M&A esto es crucial: negociar la **ley aplicable** y la **jurisdicción**
 de un contrato implica entender cómo cada sistema interpreta e integra. Un contrato regido
 por *New York law* se lee distinto de uno regido por derecho mexicano.
+
+
+**Y una consecuencia mexicana concreta del debate anterior.** Tras la reforma de 2011, México incorporó el
+llamado **bloque** o parámetro de regularidad constitucional: los derechos humanos de fuente internacional
+se integran al parámetro de control. En términos de la teoría que acabas de ver, **la pirámide de Kelsen
+dejó de ser una pirámide simple**: hay una capa de normas que no se ordenan solo por jerarquía formal sino
+por el principio de la protección más amplia.
+
+Para un abogado eso tiene un efecto práctico inmediato: los conflictos normativos ya no siempre se resuelven
+preguntando *qué norma es superior*, sino también *qué interpretación protege más*. Es la ponderación de
+Alexy convertida en técnica de litigio, y es la razón por la que hoy un caso mercantil puede argumentarse
+con criterios de la Corte Interamericana. Ver
+[Derecho Constitucional y Amparo](../Ramas-Esenciales/02-Derecho-Constitucional-y-Amparo.md).
 
 ---
 
@@ -746,61 +792,6 @@ Empresa Familiar     ★★★☆☆
 *La teoría de las fuentes y la interpretación es la **caja de herramientas mental** de todo abogado: se usa
 en cada lectura de ley y de contrato.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Profundiza en doctrina, comparado, caso y criterio; disciplina de vigencia ⟳.*
-
-### Cómo piensa un socio internacional
-La "teoría del derecho" parece lo más alejado de un *deal*, y es lo más cercano: cuando dos normas chocan (una ley local y un tratado, un reglamento y la ley), el abogado que domina la **jerarquía de fuentes** y los criterios de resolución de antinomias (jerarquía, especialidad, temporalidad) resuelve en minutos lo que a otro le toma días. El socio piensa en **fuentes** antes que en artículos.
-
-### Doctrina y debate
-- **Positivismo (Kelsen, *Teoría pura del derecho*):** el sistema como pirámide que culmina en la *Grundnorm* (norma fundante hipotética); validez ≠ justicia.
-- **Positivismo suave (Hart, *The Concept of Law*):** el derecho como unión de reglas primarias y secundarias, identificadas por una **regla de reconocimiento**.
-- **No-positivismo (Dworkin, *Taking Rights Seriously*):** además de reglas, hay **principios**; el juez no tiene "discreción fuerte". Reglas = todo o nada; principios = mandatos de optimización (**Alexy**), que se **ponderan**.
-- **Clásico mexicano:** Eduardo García Máynez, *Introducción al Estudio del Derecho*.
-- **Debate:** ¿la ponderación de principios es método racional o disfraz de decisionismo judicial?
-
-### Derecho comparado
-En *civil law* la **ley** es la fuente primaria y la jurisprudencia la interpreta; en *common law* el **precedente** es fuente directa (*stare decisis*). México incorporó un híbrido: jurisprudencia obligatoria por reiteración/contradicción, y —tras 2011— el **bloque de constitucionalidad** con tratados de derechos humanos.
-
-### Caso real
-**Expediente Varios 912/2010 (caso Radilla) ⚠️ *verificar***: a raíz de la sentencia de la Corte Interamericana, la SCJN reconoció el **control de convencionalidad ex officio** y reordenó la pirámide de Kelsen en México (arts. 1º y 133 CPEUM ⟳). Teoría pura convertida en práctica que hoy invocan litigantes todos los días.
-
-### Errores que cuestan millones
-- Aplicar una norma **derogada o inferior** por no verificar la jerarquía y la vigencia (⟳).
-- Confundir **vigencia** con **validez** y **eficacia**.
-
-### Preguntas
-- **Criterio:** ¿puede una ley válida ser injusta y aun así obligar? (Kelsen vs. Radbruch).
-- **Entrevista:** ¿cómo resolvería una antinomia entre un tratado y una ley federal?
-- **Examen:** explique la regla de reconocimiento de Hart.
-
-### Bibliografía por niveles
-- **Básico:** García Máynez, *Introducción al Estudio del Derecho*.
-- **Intermedio:** Kelsen, *Teoría pura del derecho*.
-- **Avanzado:** Hart, *El concepto de derecho*; Dworkin, *Los derechos en serio*.
-- **Internacional:** Alexy, *Teoría de los derechos fundamentales*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La teoría del derecho existe para responder la pregunta que todo abogado esquiva pero necesita: **¿qué es el derecho y por qué obliga?** Sin una respuesta, no se puede resolver un conflicto de normas, ni saber cuándo una ley injusta deja de obligar, ni interpretar en los casos difíciles. Es el sistema operativo sobre el que corre todo lo demás.
-
-**El debate (el más profundo del derecho).** **Positivismo vs. no-positivismo.** Kelsen: derecho y moral separados; la validez viene de la norma superior (*Grundnorm*). Hart: el derecho es unión de reglas primarias y secundarias, identificadas por una **regla de reconocimiento** social; en los "casos difíciles" el juez tiene **discreción**. Dworkin lo refuta: no hay discreción fuerte porque además de reglas hay **principios** que ya contienen la respuesta correcta (*Hercules*). Alexy: los principios son mandatos de optimización que se **ponderan**. El **debate Hart–Dworkin** es el eje de la filosofía jurídica del siglo XX. Y **Radbruch**: la ley extremadamente injusta no es derecho (respuesta al nazismo).
-
-**Mirada de AED.** Una tercera vía: el realismo y el AED ven el derecho como **predicción e incentivos** (Holmes: "el derecho es lo que los tribunales harán de hecho"; el *bad man* solo quiere saber las consecuencias). El derecho como sistema de precios de conductas.
-
-**Comparado y lección para México.** *Civil law* (primacía de la ley) vs. *common law* (precedente). Tras 2011, México incorporó el **bloque de constitucionalidad**: la pirámide de Kelsen se volvió más compleja. **Lección:** el abogado que domina jerarquía de fuentes y criterios de antinomia (jerarquía, especialidad, temporalidad) resuelve en minutos lo que a otro le toma días.
-
-**Crítica.** Al positivismo se le reprocha no poder condenar el "derecho" injusto (Núremberg); a Dworkin, presuponer una "única respuesta correcta" idealizada; a la ponderación (Alexy), encubrir decisionismo judicial con apariencia de método.
-
-**Jurisprudencia y operación real.** *Radilla* (912/2010) ⚠️ reordenó la pirámide en México (control de convencionalidad). En la práctica, invocar la regla de reconocimiento correcta y la jerarquía de fuentes es la base de todo dictamen que resista impugnación.
-
-**Para leer más:** Hart, *El concepto de derecho*; Dworkin, *Los derechos en serio* y *El imperio de la justicia*; Kelsen, *Teoría pura del derecho*; Radbruch, *Arbitrariedad legal y derecho supralegal*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

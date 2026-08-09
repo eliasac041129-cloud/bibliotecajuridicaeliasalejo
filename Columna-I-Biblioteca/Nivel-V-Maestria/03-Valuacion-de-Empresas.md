@@ -957,6 +957,46 @@ En el ámbito internacional, el ***case law* de Delaware sobre *appraisal rights
 determinan el "valor justo" —el peso del DCF vs. el precio del deal—) es la referencia mundial en valuación
 litigiosa y estudio recomendado.
 
+### La saga del *appraisal* en Delaware: cuando el juez se vuelve valuador
+
+Ninguna jurisdicción ha producido más doctrina sobre valuación que Delaware, y por una razón institucional:
+su derecho de ***appraisal*** permite al accionista disidente de una fusión pedir a un tribunal que
+determine el **valor justo** de sus acciones. Eso obligó a los jueces a hacer algo insólito: **valuar
+empresas**.
+
+La evolución tiene tres estaciones y vale seguirla porque el debate es exactamente el de este libro:
+
+**Estación uno — *Weinberger v. UOP*** (Del. 1983). Abandonó una fórmula rígida anterior y abrió la puerta a
+**cualquier técnica de valuación generalmente aceptada** —incluido el DCF—. Fue la modernización
+metodológica: el derecho aceptó las finanzas.
+
+**Estación dos — el *appraisal arbitrage*.** La consecuencia no prevista: si un tribunal puede fijar un
+valor superior al precio de la operación, aparece un negocio consistente en comprar acciones justo antes de
+la fusión **para litigar el precio**. La valuación judicial pasó de remedio a estrategia de inversión.
+
+**Estación tres — *DFC Global v. Muirfield* y *Dell* (2017), y después *Aruba*** ⚠️ *verificar*. La corte
+corrigió el rumbo dando **mucho más peso al precio de la propia operación** cuando el proceso de venta fue
+competitivo, informado y libre de conflictos. El razonamiento es económico y elegante: si un mercado
+funcionó bien —hubo subasta, hubo información, hubo múltiples oferentes— **ese precio es la mejor evidencia
+de valor disponible**, y probablemente mejor que el DCF de un perito con supuestos discutibles.
+
+> **Y aquí está la síntesis que un abogado debe llevarse, porque cierra el debate del §29.** La pregunta
+> *"¿DCF o múltiplos o precio de mercado?"* no tiene una respuesta universal: tiene una respuesta que
+> **depende de la calidad del proceso**. Un precio producido por una subasta competitiva es difícil de
+> superar como prueba de valor. Un precio producido por una negociación bilateral con conflictos de interés
+> no prueba nada, y ahí el DCF recupera su papel.
+>
+> **Consecuencia práctica, y es de las más rentables de este libro:** cuando asesores una venta, el
+> **diseño del proceso** no es solo una técnica para maximizar precio (Libro 1 del Nivel IV). Es también la
+> mejor **defensa** frente a una reclamación posterior de los minoritarios sobre el valor. Un proceso
+> competitivo y bien documentado hace dos cosas a la vez: sube el precio y blinda la decisión. Ver
+> [Actas y resoluciones](../../Columna-III-Laboratorio/08-Actas-Asambleas-y-Resoluciones.md).
+>
+> **La lección para México**, donde la valuación aparece sobre todo en derecho de disidencia, en
+> expropiación y en fórmulas de salida de acuerdos de accionistas: nos haría bien un criterio explícito
+> sobre **cuándo el precio de una transacción competitiva es la mejor prueba de valor**. Mientras no lo
+> haya, esa función la cumple —otra vez— tu documentación.
+
 ## 25. Criterios de la Suprema Corte / reguladores
 
 - **CNBV:** regulación de **OPAs** (precio justo, *fairness opinion*) y valuación de emisoras.
@@ -1406,59 +1446,6 @@ lenguaje en que se deciden los millones—.
 > y Game Theory** —el que cierra el Nivel V y, con él, toda la biblioteca—. El abogado corporativo de élite
 > que te propusiste ser está a un libro de distancia.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El precio de un *deal* no cae del cielo: sale de un **modelo de valuación**. El abogado que entiende cómo se valúa negocia mejor las cláusulas que **protegen ese valor**: *earn-out* (parte del precio contra resultados futuros), ajustes de capital de trabajo, *escrow*. Sabe que "valor" y "precio" no son lo mismo, y que cada método esconde supuestos negociables.
-
-### Doctrina y debate
-- **Tres enfoques:** **DCF** (flujos descontados a **WACC**), **múltiplos** (EV/EBITDA, P/E de comparables) y **valor de activos**. *Enterprise Value* vs. *Equity Value* (la diferencia es la deuda neta: origen de mil disputas de precio).
-- **WACC y CAPM:** el costo del capital como tasa de descuento; sensibilidad brutal a los supuestos (una décima cambia millones).
-- **Debate:** ¿es el DCF "ciencia" o "basura sofisticada"? (*garbage in, garbage out*): quien controla los supuestos controla el valor.
-
-### Derecho comparado / práctica
-En litigio societario (*appraisal rights* en Delaware), los tribunales **valúan** empresas: el juez arbitra entre los DCF de las partes. En México, la valuación aparece en *put/call*, disidencia y expropiación. El abogado no hace el modelo, pero **audita sus supuestos**.
-
-### Caso real
-***Appraisal* en Delaware (p. ej. *Dell*, 2016 ⚠️ *verificar*):** accionistas disidentes pidieron al tribunal fijar el "valor justo"; la corte comparó DCF y precio de mercado. **Earn-outs** en *deals* reales terminan en litigio cuando el vendedor y el comprador discrepan sobre si se "ganaron". Lección: cada supuesto de valuación es una cláusula potencial.
-
-### Errores que cuestan millones
-- Confundir **Enterprise Value** con **Equity Value** al fijar el precio.
-- Aceptar un **earn-out** con métricas ambiguas o bajo control del comprador.
-
-### Preguntas
-- **Criterio:** ¿el DCF descubre valor o solo formaliza una corazonada?
-- **Entrevista:** ¿por qué dos DCF de la misma empresa dan cifras distintas?
-- **Examen:** distinga Enterprise Value y Equity Value.
-
-### Bibliografía por niveles
-- **Básico:** Damodaran, *The Little Book of Valuation*.
-- **Intermedio:** McKinsey (Koller et al.), *Valuation*.
-- **Avanzado:** Damodaran, *Investment Valuation*.
-- **Internacional:** Brealey, Myers & Allen, *Principles of Corporate Finance*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** Valuar es traducir el futuro incierto a un número presente. Su fundamento es el **valor del dinero en el tiempo** y el principio de que el valor de un activo es el **valor presente de sus flujos futuros esperados** descontados por su riesgo. Todo lo demás —múltiplos, activos— son atajos o cotejos de ese principio. El derecho necesita la valuación porque muchas normas exigen fijar un "valor justo": disidencia, expropiación, *appraisal*, put/call.
-
-**El debate.** ¿El **DCF** descubre valor o lo fabrica? Crítica: *garbage in, garbage out* —su sensibilidad al WACC y a la tasa de crecimiento perpetuo lo hace manipulable. Los defensores de **múltiplos** dicen que el mercado (comparables) es más honesto; los críticos responden que los múltiplos importan las burbujas del mercado. Debate técnico central: **Enterprise Value vs. Equity Value** (la deuda neta) —origen del 80% de las disputas de precio. Y en *appraisal*, ¿debe prevalecer el **precio de mercado/deal** o el DCF del perito? Delaware ha oscilado.
-
-**Mirada de AED.** La valuación es un ejercicio de **información y expectativas**: en un mercado eficiente, el precio ya es la mejor estimación (de ahí que Delaware, en *DFC Global* y *Aruba*, diera peso al precio del *deal* como evidencia de valor cuando el proceso fue competitivo). El *earn-out* es una **solución contractual a la discrepancia de valuación**: si comprador y vendedor no coinciden, se paga contra resultados futuros —difiriendo el desacuerdo y creando, a la vez, un nuevo foco de litigio.
-
-**Comparado y lección para México.** En Delaware, el ***appraisal*** convirtió a los jueces en valuadores; su jurisprudencia reciente (*Dell*, *DFC Global*, *Aruba* ⚠️ *verificar*) reduce el "*appraisal arbitrage*" dando peso al precio de mercado. **Lección:** México, donde la valuación aparece en disidencia y expropiación, ganaría con criterios claros sobre cuándo el precio de una transacción competitiva es la mejor prueba de valor.
-
-**Crítica.** La valuación proyecta una **falsa precisión**: tres decimales de WACC esconden supuestos heroicos. La crítica conductual: el analista "ancla" en el número que el cliente quiere y construye los supuestos hacia atrás.
-
-**Jurisprudencia y operación real.** *Weinberger v. UOP* (Del. 1983) modernizó la metodología de valuación admisible; *Dell* y *DFC Global* (2017) elevaron el peso del precio de mercado. En la práctica, el abogado no hace el modelo, pero **audita los supuestos** y traduce la valuación a cláusulas: ajuste de capital de trabajo, deuda neta, *earn-out*, *escrow*.
-
-**Para leer más:** Damodaran, *Investment Valuation*; Koller/McKinsey, *Valuation*; *Weinberger v. UOP* (Del. 1983); *DFC Global v. Muirfield* (Del. 2017).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

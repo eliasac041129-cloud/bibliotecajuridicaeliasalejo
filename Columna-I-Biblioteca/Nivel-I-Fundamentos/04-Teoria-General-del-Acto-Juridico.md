@@ -334,6 +334,47 @@ otros —como México (art. 17 CCF ⟳)— de modo **subjetivo-objetivo** (despr
 explotación de la ignorancia, inexperiencia o miseria). Esto eleva el estándar para anular
 por lesión y protege la seguridad de los negocios entre partes sofisticadas.
 
+
+### Voluntad o declaración: el debate del que depende cómo redactas
+
+Es la discusión clásica de esta materia y tiene una consecuencia práctica que se ve todos los días.
+
+**La teoría de la voluntad** (Savigny, Windscheid): vale lo que **internamente quisiste**; si tu voluntad
+real difería de lo declarado, el acto puede caer. Protege al autor del acto.
+
+**La teoría de la declaración**: vale lo que **externamente declaraste**, porque el tercero que confió en tu
+declaración merece protección y porque la seguridad del tráfico exige que las manifestaciones se puedan
+tomar en serio.
+
+El derecho moderno se inclina por la **declaración**, con correctivos por vicios del consentimiento
+(error, dolo, violencia). Y aquí está la consecuencia que quiero que veas:
+
+> **Por eso los contratos se redactan con obsesión.** Un contrato bien hecho **fija la declaración** para que
+> nadie tenga que litigar la voluntad. Las definiciones, las declaraciones de las partes, las cláusulas de
+> integridad del acuerdo (*entire agreement*) y los considerandos existen para que la interpretación futura
+> no dependa de reconstruir qué pensaba cada uno. **Redactar es blindar la declaración.**
+
+**Betti** añade un matiz que evita el formalismo puro: el negocio jurídico es un acto de autonomía con una
+**función económico-social**, y el ordenamiento no tutela cualquier capricho, sino aquello que cumple una
+función merecedora de protección. Es la raíz de figuras como el fraude a la ley y el abuso del derecho.
+
+### Los vicios del consentimiento como asignación del riesgo informativo
+
+Vale la pena leer este tema con la lente que usarás en el Nivel IV, porque es la misma.
+
+Las reglas sobre error y dolo no son solo moral: **asignan el riesgo de la información**. El **dolo**
+traslada el riesgo a quien engañó. El **error unilateral** lo deja, por regla, en quien se equivocó —salvo
+que fuera reconocible por la otra parte—. Es exactamente la lógica de Akerlof que estudiarás en
+[Economía para Juristas](./10-Economia-para-Juristas.md): el derecho fuerza a revelar para que el
+intercambio ocurra a un precio justo.
+
+> **Y de ahí la continuidad que da sentido a todo el programa:** las *representations & warranties* de un
+> SPA son **esta teoría llevada a la ingeniería contractual** —el vendedor declara, y si su declaración es
+> falsa, paga—. Cuando llegues al
+> [Libro 4 del Nivel IV](../Nivel-IV-Corporate-Law/04-Documentacion-Term-Sheet-SPA-APA-SHA.md) vas a
+> reconocer que no estás aprendiendo una figura importada: estás viendo la teoría del acto jurídico
+> calibrada con topes, plazos y umbrales.
+
 ## 7. Autores más importantes
 
 **Tradición alemana (negocio jurídico):**
@@ -872,60 +913,6 @@ Empresa Familiar     ★★★★☆
 *La teoría del acto jurídico es la **gramática de los contratos y operaciones**: se usa en cada documento
 del corporativo.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El acto jurídico es el **átomo** de todo lo que hace un corporativo: un contrato, un aumento de capital, una fusión, un voto en asamblea, son actos jurídicos. El socio no memoriza requisitos: los usa como **checklist de riesgo**. Ante cualquier operación se pregunta, en automático: ¿hay **consentimiento** libre de vicios?, ¿el **objeto** es lícito y posible?, ¿se respetó la **forma**? Ahí está el 90% de las nulidades.
-
-### Doctrina y debate
-- **Teoría del negocio jurídico (Savigny, Windscheid):** la *Willenstheorie* (teoría de la voluntad) frente a la *Erklärungstheorie* (teoría de la declaración): ¿vale lo que quisiste o lo que declaraste? El derecho moderno protege la **confianza** en la declaración (seguridad del tráfico).
-- **Betti (*Teoría general del negocio jurídico*):** el negocio como acto de **autonomía privada** con función económico-social.
-- **Von Tuhr; en México:** Rojina Villegas, Gutiérrez y González, Borja Soriano, Domínguez Martínez.
-- **Debate:** ¿voluntad real o declaración? Es la raíz de por qué las *representations & warranties* de un SPA se redactan con obsesión: fijan por escrito la "declaración" para no litigar la "voluntad".
-
-### Derecho comparado
-El **negocio jurídico** (alemán, *Rechtsgeschäft*) es más abstracto que el **acto jurídico** francés (Domat, Pothier) que heredó México. El *common law* no tiene "acto jurídico": razona sobre *contract* con su exigencia de **consideration** (contraprestación), inexistente en el civil law. Por eso un abogado mexicano debe cuidar que un contrato "traducido" del inglés no importe figuras (como la *consideration* nominal) que aquí sobran o fallan.
-
-### Caso real
-**Dolo en declaraciones de M&A:** cuando el vendedor oculta un pasivo (contingencia fiscal o litigio) y el comprador lo descubre tras el cierre, la vía es la **nulidad por vicio del consentimiento (dolo)** o la indemnización contractual. Por eso el SPA blinda con *disclosure schedules*: convierten lo "sabido" en oponible y desactivan el dolo.
-
-### Errores que cuestan millones
-- Confundir **inexistencia** (falta objeto/consentimiento, art. 2224 CCF ⟳), **nulidad absoluta** (objeto ilícito, art. 2225 ⟳) y **nulidad relativa** (vicios, art. 2228 ⟳): el régimen de convalidación y prescripción cambia por completo.
-- Descuidar la **forma** exigida (p. ej., escritura pública) y creer que "el fondo basta".
-
-### Preguntas
-- **Criterio:** ¿debe prevalecer la voluntad real o la declaración externa? Defienda una postura.
-- **Entrevista:** ¿cómo protege un contrato contra el dolo del vendedor?
-- **Examen:** distinga inexistencia, nulidad absoluta y relativa con sus efectos.
-
-### Bibliografía por niveles
-- **Básico:** Rojina Villegas, *Compendio de Derecho Civil*.
-- **Intermedio:** Gutiérrez y González, *Derecho de las Obligaciones*.
-- **Avanzado:** Betti, *Teoría general del negocio jurídico*.
-- **Internacional:** Von Tuhr, *Derecho Civil. Teoría general del Derecho Civil alemán*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El acto jurídico es el instrumento con que la **autonomía privada** crea derecho para sí misma: contratar, testar, votar en asamblea, aportar capital. Su teoría existe para determinar cuándo esa creación es **válida y eficaz** —y cuándo el ordenamiento la desconoce (nulidad). Es el átomo de toda operación corporativa.
-
-**El debate.** **Teoría de la voluntad (Savigny, Windscheid) vs. teoría de la declaración.** ¿Vale lo que internamente quisiste o lo que externamente declaraste? La voluntad protege al autor; la declaración protege la **confianza del tercero** y la seguridad del tráfico. El derecho moderno se inclina por la **declaración** (con correctivos por vicios), y por eso los contratos se redactan con obsesión: fijan la "declaración" para no litigar la "voluntad". **Betti** aportó la visión del negocio como acto de autonomía con **función económico-social** (no vale cualquier capricho, sino el que cumple una función tutelable).
-
-**Mirada de AED.** Las reglas sobre vicios del consentimiento (error, dolo) asignan el **riesgo de la información**: el dolo (engaño) traslada el riesgo al que engañó; el error unilateral, generalmente al que erró (salvo que fuera reconocible). Es la misma lógica de Akerlof: el derecho fuerza a revelar para que el intercambio sea eficiente. Las *reps & warranties* del SPA son esta teoría llevada a la ingeniería contractual.
-
-**Comparado y lección para México.** El **negocio jurídico** alemán (abstracto) vs. el **acto jurídico** francés (heredado por México) vs. el ***contract*** anglosajón (con *consideration*, sin categoría de "acto jurídico"). **Lección:** al importar contratos anglosajones, no trasplantar figuras vacías; anclar los vicios y la nulidad al CCF.
-
-**Crítica.** La teoría clásica del acto jurídico es criticada por **abstracta y formalista**; el AED la reinterpreta en clave de incentivos e información. La distinción inexistencia/nulidad absoluta/relativa, por su complejidad práctica.
-
-**Jurisprudencia y operación real.** El **dolo en declaraciones de M&A** (ocultar un pasivo) abre la vía de nulidad o indemnización; por eso el *disclosure schedule* "contractualiza" lo sabido y desactiva el dolo. En la práctica, el 90% de las nulidades nacen en el consentimiento (vicios), el objeto (ilícito) o la forma.
-
-**Para leer más:** Betti, *Teoría general del negocio jurídico*; Von Tuhr, *Teoría general del Derecho Civil alemán*; Flume, *El negocio jurídico*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

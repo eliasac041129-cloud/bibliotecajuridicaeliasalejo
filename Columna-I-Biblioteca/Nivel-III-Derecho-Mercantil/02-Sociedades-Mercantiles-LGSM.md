@@ -148,6 +148,59 @@ La sociedad anónima resuelve tres problemas económicos fundamentales (Libros 9
 La **liquidez** de las acciones (poder venderlas) y la **negociabilidad** son lo que hace atractiva
 la inversión. Sin la S.A., no existirían los grandes mercados de capital ni las multinacionales.
 
+### La verdadera magia no es la responsabilidad limitada
+
+Aquí hay una precisión que casi nadie hace y que cambia la forma de entender esta materia. Todo el mundo
+dice que el gran invento fue la **responsabilidad limitada**. Hansmann y Kraakman mostraron que el invento
+es más profundo y tiene un nombre mejor: la ***partición de activos*** (*asset partitioning*), y opera en
+**dos direcciones**:
+
+1. **Los acreedores de la sociedad no alcanzan el patrimonio del socio.** Esto es la responsabilidad
+   limitada, que es la dirección conocida.
+2. **Los acreedores personales del socio no alcanzan el patrimonio de la sociedad.** Esta es la dirección
+   que se olvida, y sin ella la primera valdría poco: si los problemas personales de un accionista pudieran
+   arrastrar los activos de la empresa, **nadie invertiría junto a un desconocido**, porque estaría
+   asumiendo el riesgo de la vida privada de gente que no controla.
+
+> **Por qué esto importa en la práctica y no solo en la teoría.** La segunda dirección es la que hace que
+> las acciones sean **fungibles y líquidas** —que valgan lo mismo en manos de cualquiera— y por tanto la
+> que hace posible un mercado de capitales. Es también el argumento que le explicas a un empresario que se
+> pregunta para qué formalizar: la sociedad no solo lo protege de la empresa; **protege a la empresa de
+> él**.
+
+**Y su costo, que hay que decir con la misma claridad.** La responsabilidad limitada traslada riesgo a los
+acreedores, y de forma especialmente discutible a los **acreedores involuntarios** —la víctima de un daño
+no eligió contratar con una filial infracapitalizada—. El derecho lo mitiga por tres vías: el capital
+mínimo (hoy en desuso, ver §29), el levantamiento del velo corporativo y la responsabilidad personal de
+los administradores. Ninguna de las tres es completa, y por eso el debate sigue abierto.
+
+### Y la pregunta de fondo: ¿qué *es* una sociedad?
+
+No es una discusión escolástica: de la respuesta depende **cuánto puedes pactar en los estatutos**.
+
+- **Teoría de la ficción** (Savigny): la persona moral es una creación del Estado, que la concede. Si eso
+  es cierto, sus reglas son **imperativas** y hay poco margen.
+- **Teoría de la realidad** (Gierke): el grupo tiene una existencia social propia que el derecho reconoce,
+  no inventa.
+- **La sociedad como *nexo de contratos*** (Jensen y Meckling; Easterbrook y Fischel), que es la visión
+  dominante hoy: la sociedad no es una "cosa", es una **red de contratos** entre quienes aportan capital,
+  trabajo y gestión.
+
+> **La consecuencia práctica de la tercera visión es enorme y muy concreta:** si la sociedad es una red de
+> contratos, entonces buena parte del derecho societario es **dispositivo** —reglas por defecto que las
+> partes pueden modificar— y no imperativo. Eso es lo que legitima que un acuerdo de accionistas altere
+> mayorías, cree derechos de veto, condicione transmisiones y diseñe salidas.
+>
+> Tu trabajo, entonces, consiste en saber **dónde termina lo dispositivo y empieza lo imperativo** en el
+> derecho mexicano. Ahí está la frontera real de tu creatividad, y equivocarse en ella produce cláusulas
+> nulas — que es peor que no haberlas redactado, porque el cliente creía estar protegido.
+
+**Y la crítica que conviene conocer:** al *nexus of contracts* se le reprocha **naturalizar la primacía del
+accionista**, tratando como contrato lo que también es una institución con efectos sobre trabajadores,
+acreedores y comunidad. Es la misma discusión *shareholder/stakeholder* del
+[Libro 7 de este nivel](./07-Gobierno-Corporativo.md) y del
+[Libro 8 del Nivel IV](../Nivel-IV-Corporate-Law/08-Gobierno-Corporativo-Avanzado-Compliance-y-ESG.md).
+
 ## 7. Contexto político
 
 La regulación societaria equilibra **libertad** (de asociarse, de pactar la organización) y
@@ -565,6 +618,29 @@ lo que estudiamos aquí es lo que se negocia y se transfiere ese día.
   protecciones del fondo (preferente, anti-dilución, veto, tag/drag): la práctica habitual del
   venture capital mexicano.
 
+**Los dos casos fundacionales del common law, que explican la personalidad separada y su límite.**
+
+***Salomon v. Salomon & Co.*** (Reino Unido, 1897) es la piedra angular de toda esta materia. Un
+comerciante transformó su negocio en sociedad, se quedó con casi todas las acciones y además con una
+garantía como acreedor. Cuando la sociedad quebró, los demás acreedores alegaron que la sociedad era él
+mismo. La Cámara de los Lores resolvió que **no**: la sociedad es una **persona distinta**, aunque su
+dueño sea uno solo y aunque se haya creado precisamente para limitar el riesgo. Ese es el fundamento de que
+un empresario pueda estructurar su patrimonio en sociedades sin que eso sea, por sí mismo, un fraude.
+
+***Walkovszky v. Carlton*** (Nueva York, 1966) marcó el límite. Un dueño de taxis había repartido su flota
+entre múltiples sociedades, cada una con dos vehículos y el seguro mínimo, de modo que la víctima de un
+atropellamiento solo podía cobrar contra una cáscara. El caso —y su célebre voto disidente— instaló la
+discusión sobre el **levantamiento del velo** por **infracapitalización deliberada** frente a acreedores
+involuntarios.
+
+> **Léelos juntos, porque juntos dicen la regla completa:** estructurar en sociedades para limitar riesgo
+> es legítimo (*Salomon*); **vaciar de sustancia una sociedad para dejar sin remedio a quien no eligió
+> contratar contigo, no** (*Walkovszky*). Esa es exactamente la misma frontera que el art. 2163 CCF ⟳
+> traza para los actos en perjuicio de acreedores —tratada en
+> [Protección y estructura](../../Columna-V-Patrimonio/05-Proteccion-y-Estructura.md)— y la que el
+> [módulo 06 de la Columna VI](../../Columna-VI-Inteligencia-Humana/06-La-Frontera-Etica.md) plantea como
+> problema de criterio profesional.
+
 > *Nota de método (Manifiesto XI.5):* verificar la vigencia de los criterios antes de invocarlos.
 
 ## 19. Casos empresariales
@@ -630,6 +706,25 @@ lo que estudiamos aquí es lo que se negocia y se transfiere ese día.
 > diferencias están en la **flexibilidad** (Delaware/S.A.P.I. al máximo) y en la **protección de
 > minorías**. El abogado de M&A cross-border "traduce" estructuras: una S.A.P.I. mexicana es
 > funcionalmente cercana a una *Delaware corporation* con *shareholders agreement*.
+
+**Por qué ganó Delaware, y por qué la respuesta habitual es equivocada.** Más de la mitad de las sociedades
+listadas en Estados Unidos están constituidas en Delaware, un estado pequeño. La explicación popular es que
+ganó por ser **laxo** —una "carrera hacia el fondo"—. La evidencia apunta a otra cosa: ganó por
+**previsibilidad**. Tiene un cuerpo jurisprudencial denso construido durante un siglo, un tribunal
+especializado en materia societaria (la Court of Chancery) que resuelve rápido y con jueces que dominan la
+materia, y una legislatura que actualiza la ley con seriedad técnica.
+
+> **La lección para México, y es la misma que aparece en el
+> [Libro 1 del Nivel IV](../Nivel-IV-Corporate-Law/01-Fundamentos-de-MA.md):** la competencia entre
+> jurisdicciones societarias premia la **certeza**, no la permisividad. Un inversionista no elige la
+> jurisdicción donde puede hacer lo que quiera; elige la que le permite **saber qué va a pasar** si hay un
+> conflicto. Lo que a México le falta no es flexibilidad legal —la S.A.P.I. y la S.A.S. la dieron—: le falta
+> **acervo jurisprudencial y un foro especializado y ágil**.
+>
+> Y de ahí una consecuencia directa para tu práctica: cuando un cliente extranjero pregunta por qué su
+> vehículo debería estar en México, la respuesta honesta no es sobre trámites. Es sobre **dónde quiere
+> litigar** si algo sale mal. Muchas estructuras que parecen fiscales son, en realidad, elecciones de
+> tribunal.
 
 ## 23. Derecho mexicano
 
@@ -966,6 +1061,19 @@ esto, el lector empieza a dominar el objeto mismo del derecho corporativo.
   global (agencia, protección de inversores, control).
 - **Ley del Mercado de Valores (S.A.P.I. y S.A.B.) y LGSM.** El derecho positivo; estúdialo con el
   texto vigente a la mano.
+- **Hansmann & Kraakman, *The Essential Role of Organizational Law* (*Yale Law Journal*, 2000).** El
+  artículo que reformuló la pregunta: no es la responsabilidad limitada, es la **partición de activos**
+  (§6). Corto y transforma cómo ves esta materia.
+- **Easterbrook & Fischel, *The Economic Structure of Corporate Law*.** La exposición canónica del análisis
+  económico del derecho societario y del *nexus of contracts*. Es la obra a la que hay que responder si se
+  quiere sostener la posición contraria.
+- **Kraakman et al., *The Anatomy of Corporate Law*.** El estudio funcional comparado: cómo distintos
+  sistemas resuelven los mismos tres problemas de agencia. Es el mejor mapa disponible para un abogado que
+  opera entre jurisdicciones.
+- **Jensen & Meckling (1976)** para el origen de la teoría de agencia aplicada a la sociedad; y, del lado
+  clásico continental, la discusión **Savigny–Gierke** sobre la naturaleza de la persona moral (§6).
+- **Jurisprudencia fundacional:** *Salomon v. Salomon & Co.* (RU, 1897) y *Walkovszky v. Carlton* (NY, 1966).
+  Las dos se leen en una tarde y contienen la regla completa sobre personalidad separada y su límite.
 
 ## 43. Ruta hacia el siguiente libro
 
@@ -1032,59 +1140,6 @@ el que estructura operaciones sólidas y protege a su cliente.
 > el pago** —los títulos y operaciones de crédito—, y más adelante, en el Nivel IV, juntaremos todo
 > para comprar y vender empresas. El M&A está a la vuelta.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-La sociedad es el **vehículo** de casi todo lo corporativo. El socio no memoriza los siete tipos: piensa en **atributos de diseño** —responsabilidad (limitada/ilimitada), gobierno (quién decide qué), transmisión de participaciones y régimen fiscal— y elige o combina el vehículo que asigna mejor el poder y el riesgo. La **S.A.** y la **S. de R.L.** concentran el 95% de la práctica; el resto es historia.
-
-### Doctrina y debate
-- **La empresa como "nexo de contratos" (Jensen & Meckling; Easterbrook & Fischel):** la sociedad no es una "cosa", sino una red de contratos entre aportantes de capital, administradores y acreedores. De ahí nacen los **costos de agencia**.
-- **Responsabilidad limitada:** ¿privilegio eficiente que fomenta la inversión (Hansmann & Kraakman) o traslado de riesgo a los acreedores? Debate central del derecho societario.
-- **Capital social:** su función de garantía está en crisis (tendencia a capitales mínimos simbólicos, *cf.* la S.A.S.).
-
-### Derecho comparado
-**Delaware** domina el derecho societario estadounidense (más de la mitad de las empresas listadas): su *Court of Chancery* y su cuerpo de precedentes (deberes fiduciarios, *business judgment rule*) son el estándar global. México se acerca vía gobierno corporativo (LMV) pero sin ese acervo jurisprudencial. La **S.A.S.** mexicana imitó la agilidad de la *LLC* y las *startups*.
-
-### Caso real
-***Business judgment rule* y deberes fiduciarios:** en Delaware, casos como *Smith v. Van Gorkom* (1985) impusieron a los consejeros el deber de **informarse** antes de aprobar una venta; *Revlon* (1986) fijó el deber de maximizar valor en una venta de control. Todo consejero mexicano de empresa listada opera hoy bajo principios equivalentes (deber de diligencia y lealtad, LMV ⟳).
-
-### Errores que cuestan millones
-- Elegir el **tipo social equivocado** (p. ej. S.A. donde convenía S. de R.L. por transparencia fiscal en EE. UU.).
-- Descuidar los **deberes fiduciarios** del consejo y exponerse a responsabilidad personal.
-
-### Preguntas
-- **Criterio:** ¿la responsabilidad limitada debería existir siempre? (Hansmann vs. críticos).
-- **Entrevista:** ¿S.A. o S. de R.L. para un fondo de EE. UU. que invierte en México, y por qué?
-- **Examen:** enuncie los deberes fiduciarios de los administradores.
-
-### Bibliografía por niveles
-- **Básico:** Mantilla Molina, *Derecho mercantil* (sociedades).
-- **Intermedio:** Barrera Graf, *Las sociedades en derecho mexicano*.
-- **Avanzado:** Easterbrook & Fischel, *The Economic Structure of Corporate Law*.
-- **Internacional:** Kraakman et al., *The Anatomy of Corporate Law*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La sociedad de capital con **responsabilidad limitada** es, según Hansmann & Kraakman, la innovación jurídica que hizo posible el capitalismo moderno: permite reunir capital de extraños sin que cada aportante arriesgue todo su patrimonio, y —crucial— logra la ***asset partitioning*** (separación patrimonial en dos direcciones: los acreedores de la sociedad no alcanzan al socio, y los del socio no alcanzan a la sociedad). Esa "partición de activos" es la verdadera magia, más que la responsabilidad limitada.
-
-**El debate.** ¿Qué "es" la sociedad? Teoría de la **ficción** (Savigny: creación del Estado) vs. de la **realidad** (Gierke) vs. la dominante hoy: el ***nexus of contracts*** (Jensen & Meckling; Easterbrook & Fischel): la sociedad no es una "cosa" sino una red de contratos entre aportantes de capital, trabajo y gestión. De ahí que el derecho societario sea, en gran medida, **derecho dispositivo** (reglas por defecto que las partes pueden modificar), no imperativo. Debate vivo: ¿debe existir la responsabilidad limitada, o traslada injustamente el riesgo a los acreedores involuntarios (víctimas de daños)?
-
-**Mirada de AED.** La responsabilidad limitada reduce el costo de capital (los inversionistas no tienen que vigilarse entre sí ni monitorear al *management* con la intensidad que exigiría la responsabilidad ilimitada) y hace las acciones **fungibles y líquidas** (posible el mercado bursátil). Su costo: el **riesgo moral** frente a acreedores, que el derecho mitiga con capital mínimo (hoy en desuso), *piercing* y responsabilidad de administradores.
-
-**Comparado y lección para México.** **Delaware** ganó la "carrera" (más de la mitad de las listadas de EE. UU.) no por laxitud sino por un **cuerpo jurisprudencial predecible** y un tribunal especializado (Court of Chancery). La **S. de R.L.** alemana (GmbH) y la **LLC** estadounidense inspiraron flexibilidad; la **S.A.S.** mexicana imitó a las *startups*. **Lección:** la competencia entre jurisdicciones societarias premia la **previsibilidad**, no la permisividad; a México le falta un foro y un acervo como el de Delaware.
-
-**Crítica.** El *nexus of contracts* ha sido criticado por **naturalizar** la primacía del accionista e ignorar a otros *stakeholders* (progressive corporate law). Y la responsabilidad limitada, por permitir estructuras que evaden responsabilidad ambiental o de producto vía filiales infracapitalizadas.
-
-**Jurisprudencia y operación real.** *Salomon v. Salomon* (RU, 1897): la piedra angular de la personalidad separada. *Walkovszky v. Carlton* (NY, 1966): *piercing* e infracapitalización (los taxis). En la práctica, la elección S.A. vs. S. de R.L. se decide por **transparencia fiscal en EE. UU.** (*check-the-box*), gobierno y transmisión —no por la teoría.
-
-**Para leer más:** Hansmann & Kraakman, *The Essential Role of Organizational Law* (Yale L.J., 2000); Easterbrook & Fischel, *The Economic Structure of Corporate Law*; Kraakman et al., *The Anatomy of Corporate Law*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

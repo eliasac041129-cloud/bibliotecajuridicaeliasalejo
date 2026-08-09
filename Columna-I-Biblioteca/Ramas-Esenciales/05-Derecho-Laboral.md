@@ -472,6 +472,21 @@ sensata: **cumplir bien, documentar, y en M&A pesar y aislar los pasivos** con e
 - **Salarios caídos topados:** ¿protegen al trabajador o al patrón moroso?
 
 
+- **El origen constitucional del derecho social, y por qué México llegó primero.** La Constitución de 1917
+  fue **la primera del mundo** en elevar los derechos laborales a rango constitucional (art. 123 ⟳),
+  anticipándose en dos años a la **Constitución de Weimar** (1919), que suele citarse como el modelo del
+  constitucionalismo social europeo. No es un dato de orgullo nacional: explica por qué en México el derecho
+  del trabajo tiene una **densidad constitucional** que no tiene en las jurisdicciones anglosajonas, y por
+  qué una cláusula laboral que sería válida en un contrato de Nueva York puede ser inoponible aquí.
+- **Y el debate de política pública que hay que conocer sin ingenuidad:** la literatura de organismos
+  internacionales —el Banco Mundial entre ellos— ha discutido durante décadas si una protección laboral muy
+  rígida **reduce la informalidad o la aumenta** ⚠️ *(la evidencia es disputada y depende del diseño
+  concreto)*. El argumento es que, si despedir es muy caro, contratar formalmente se vuelve más riesgoso y
+  parte del empleo migra a la informalidad —donde no hay ninguna protección—. *Postura del Consejo:* el
+  abogado corporativo no resuelve ese debate, y sí debe conocerlo para no confundir **protección formal** con
+  **protección efectiva**; y para entender que la calidad de un régimen laboral se mide en trabajadores
+  realmente cubiertos, no en artículos.
+
 ## 30. Errores comunes
 
 1. **"Contratar por honorarios" a verdaderos trabajadores.** La **primacía de la realidad** lo reclasifica:
@@ -727,59 +742,6 @@ Empresa Familiar     ★★★★☆
 verifica todo artículo (LFT/123), monto, plazo y régimen (IMSS, INFONAVIT, REPSE) contra su texto vigente
 (DOF y SJF).*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-En M&A, el pasivo laboral es de los que **más sorpresas dan**: sustitución patronal, pasivos por indemnización, riesgos de subcontratación (REPSE), sindicatos y PTU. El socio piensa en **contingencia y continuidad**: ¿qué obligaciones hereda el comprador?, ¿hay sindicato?, ¿la nómina esconde *outsourcing* ilegal? Un pasivo laboral no visto ajusta el precio o mata el *deal*.
-
-### Doctrina y debate
-- **Principio protector y estabilidad en el empleo** (art. 123 CPEUM ✅ ⟳): el derecho laboral como derecho social, no paritario.
-- **Sustitución patronal:** el adquirente hereda la relación laboral y sus antigüedades.
-- **Debate:** flexibilidad vs. protección; ¿la reforma de subcontratación (2021) protegió al trabajador o encareció la formalidad?
-
-### Derecho comparado
-EE. UU.: ***employment at will*** (despido libre, con excepciones) —opuesto a la estabilidad mexicana. La reforma laboral mexicana de **2019** (justicia laboral, nuevos Tribunales, libertad sindical, voto libre y secreto) responde a compromisos del **T-MEC** (Anexo laboral y mecanismo de respuesta rápida).
-
-### Caso real
-**Mecanismo Laboral de Respuesta Rápida (T-MEC, 2021-2024) ⚠️ *verificar*:** EE. UU. activó quejas contra plantas en México por libertad sindical; el incumplimiento amenazó con **aranceles**. Lección: hoy el derecho laboral mexicano es **materia de comercio internacional**; una violación sindical local puede costar el acceso al mercado estadounidense.
-
-### Errores que cuestan millones
-- No detectar ***outsourcing* ilegal** (post reforma REPSE 2021) en el DD.
-- Ignorar la **sustitución patronal** y heredar antigüedades y pasivos.
-
-### Preguntas
-- **Criterio:** ¿la estabilidad en el empleo protege al trabajador o desincentiva la contratación formal?
-- **Entrevista:** ¿qué pasivos laborales revisa antes de comprar una empresa?
-- **Examen:** explique la sustitución patronal (arts. relevantes LFT ⟳).
-
-### Bibliografía por niveles
-- **Básico:** De Buen, *Derecho del trabajo*.
-- **Intermedio:** De la Cueva, *El nuevo derecho mexicano del trabajo*.
-- **Avanzado:** análisis del capítulo laboral del T-MEC.
-- **Internacional:** convenios de la OIT (libertad sindical, 87 y 98).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El derecho del trabajo nació para corregir una **asimetría de poder**: en la relación individual, el trabajador negocia desde la necesidad y el patrón desde el capital. Por eso es un derecho **tutelar** (principio protector, *in dubio pro operario*), no paritario —constitucionalizado en México en el art. 123 (1917), pionero mundial junto con Weimar. Su lógica no es la igualdad formal del contrato civil, sino la **compensación de la desigualdad real**.
-
-**El debate.** **Flexibilidad vs. protección (*flexicurity*):** ¿la rigidez protectora (estabilidad, indemnizaciones) protege al trabajador o **desincentiva la contratación formal** y alimenta la informalidad? La escuela del *law & economics* laboral (y el Banco Mundial) sostiene lo segundo; la tradición tutelar responde que sin protección el mercado laboral se vuelve abusivo. México vive la tensión: 50%+ de informalidad ⚠️. Debate reciente: la reforma de **subcontratación 2021** —¿protegió o encareció la formalidad?
-
-**Mirada de AED.** El salario mínimo, la estabilidad y las indemnizaciones son **precios y seguros** con efectos de incentivo: pueden reducir empleo formal (si el costo excede la productividad marginal) o aumentar productividad y demanda (tesis del salario de eficiencia). El *outsourcing* fue, en clave económica, **arbitraje regulatorio** (evadir PTU y cargas); la reforma 2021 lo cerró.
-
-**Comparado y lección para México.** EE. UU.: ***employment at will*** (despido libre) —máxima flexibilidad. Europa continental: alta protección. La reforma laboral mexicana de **2019** (justicia laboral, libertad sindical, voto libre y secreto) respondió a compromisos del **T-MEC**. **Lección:** hoy el derecho laboral mexicano es **materia de comercio internacional** —una violación sindical local puede detonar aranceles.
-
-**Crítica.** El modelo tutelar rígido es acusado de **beneficiar al *insider*** (el que ya tiene empleo formal) a costa del *outsider* (informal, joven). Y el sindicalismo mexicano histórico, de corporativo y de "contratos de protección".
-
-**Jurisprudencia y operación real.** El **Mecanismo Laboral de Respuesta Rápida** del T-MEC (2021-2024 ⚠️) activó quejas contra plantas mexicanas por libertad sindical. En M&A, el pasivo laboral (sustitución patronal, antigüedades, REPSE) ajusta el precio o mata el *deal*.
-
-**Para leer más:** De la Cueva, *El nuevo derecho mexicano del trabajo*; Convenios OIT 87 y 98; capítulo laboral del T-MEC; literatura de *flexicurity* (OCDE).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

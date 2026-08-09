@@ -468,6 +468,21 @@ proyecto hecho persona.
 - **Honorarios de éxito (cuota litis) y publicidad:** sus límites éticos.
 
 
+- **La lección institucional de Sarbanes-Oxley para la ética del abogado.** Tras Enron, la reforma
+  estadounidense no se limitó a los contadores: introdujo obligaciones que alcanzan a los **asesores
+  jurídicos** de las emisoras, con reglas de **reporte hacia arriba** —llevar la evidencia de un posible
+  ilícito al nivel superior de la organización, y en su caso al comité de auditoría o al consejo—.
+  > **Por qué esto importa más allá de su ámbito de aplicación.** Consagró un principio que ya era ético y se
+  > volvió normativo: cuando el abogado de una entidad detecta una irregularidad relevante, **su cliente es
+  > la entidad, no el directivo que le da instrucciones**. Es la distinción más difícil de sostener en la
+  > práctica —porque quien te contrata, te evalúa y te paga es una persona, y tu cliente es una
+  > organización— y es exactamente el conflicto que aparece en el caso 5 del
+  > [ejercicio 13 del Laboratorio](../../Columna-III-Laboratorio/13-Cuando-la-Contraparte-se-Echa-Atras.md) y
+  > en el [módulo 06 de la Columna VI](../../Columna-VI-Inteligencia-Humana/06-La-Frontera-Etica.md).
+  >
+  > Y conecta con la tesis de Coffee en *Gatekeepers*: los guardianes del sistema fallan cuando sus
+  > incentivos los alinean con quien les paga. Nosotros somos uno de esos guardianes.
+
 ## 30. Errores comunes
 
 1. **No detectar/revelar un conflicto de interés** (representar intereses opuestos): descalificación y
@@ -717,59 +732,6 @@ Empresa Familiar     ★★★★★
 verifica el código de ética y la ley de profesiones aplicables a tu colegio y entidad, y los criterios
 relevantes en el SJF.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-La ética no es un adorno: es el activo que tarda 20 años en construirse y 20 minutos en perderse. El socio sabe que su deber de **lealtad y confidencialidad** con el cliente convive con su deber con el **tribunal y el orden jurídico**, y que el punto de fricción —*"hasta dónde defiendo"*— define su carrera. En el mundo corporativo, el abogado es además ***gatekeeper***: su firma valida operaciones ante el mercado.
-
-### Doctrina y debate
-- **Secreto profesional, conflicto de interés y lealtad** como deberes nucleares.
-- **El "rol amoral" del abogado (Wasserstrom):** ¿puede el abogado hacer por el cliente lo que sería inmoral hacer por sí mismo? Debate fundacional de la ética jurídica.
-- **Teoría del *gatekeeper* (Coffee, *Gatekeepers*):** abogados, auditores y bancos como guardianes cuya falla causa fraudes sistémicos.
-
-### Derecho comparado
-Las **ABA Model Rules of Professional Conduct** (EE. UU.) y el ***attorney-client privilege*** son el estándar más desarrollado; la UE regula el secreto profesional con matices (caso *Akzo Nobel* sobre abogado interno). México combina códigos deontológicos y la regulación de responsabilidad profesional.
-
-### Caso real
-**Enron / Arthur Andersen (2002):** la caída de la auditora (destrucción de documentos) mostró el colapso del *gatekeeper*. En **FTX**, abogados y asesores quedaron señalados por validar lo invalidable. Lección: el profesional que "no vio" lo que debía ver responde —profesional, civil y penalmente.
-
-### Errores que cuestan millones (y la carrera)
-- **Conflicto de interés** no revelado (representar a ambas partes o intereses opuestos).
-- Ayudar a "vestir" una operación sin sustancia: de asesor se pasa a **partícipe**.
-
-### Preguntas
-- **Criterio:** ¿hasta dónde debe llegar el abogado en defensa de su cliente? ¿Dónde está el límite?
-- **Entrevista:** su cliente le pide estructurar algo en el filo de la ley; ¿qué hace?
-- **Examen:** explique el conflicto de interés y cómo se gestiona.
-
-### Bibliografía por niveles
-- **Básico:** códigos de ética de los colegios de abogados.
-- **Intermedio:** Pérez Fernández del Castillo, *Ética jurídica*.
-- **Avanzado:** Wasserstrom, *Lawyers as Professionals: Some Moral Issues*.
-- **Internacional:** ABA *Model Rules*; Coffee, *Gatekeepers*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La ética profesional existe porque el abogado tiene un **doble deber en tensión**: lealtad al cliente y deber con la justicia y el sistema. El secreto profesional y el privilegio abogado-cliente no protegen al abogado: protegen la **confianza** sin la cual el cliente no diría la verdad a quien debe defenderlo (fundamento sistémico, no personal). El abogado corporativo es además ***gatekeeper***: su opinión valida operaciones ante el mercado.
-
-**El debate.** **El "rol amoral" (Wasserstrom):** ¿puede el abogado hacer por el cliente lo que sería inmoral hacer por sí mismo? La visión "estándar" del rol dice sí (defensa celosa dentro de la ley); los críticos exigen responsabilidad moral por las consecuencias. Debate del *gatekeeper* (Coffee): ¿debe el abogado **denunciar** al cliente que comete fraude (deber con terceros/mercado) o guardar el secreto (deber con el cliente)? Sarbanes-Oxley y las reglas *up-the-ladder* inclinaron la balanza hacia el deber sistémico.
-
-**Mirada de AED.** El abogado-*gatekeeper* tiene "capital reputacional" que presta a las transacciones; cuando falla (Enron/Andersen), colapsa el mercado que dependía de su verificación. El conflicto de interés es un problema de agencia: el abogado que sirve a dos amos maximiza mal. Las reglas éticas alinean incentivos y protegen el bien público de la confianza.
-
-**Comparado y lección para México.** Las **ABA Model Rules** y el *privilege* estadounidense son el estándar más desarrollado; la UE matiza el privilegio del abogado interno (*Akzo Nobel*). México tiene deontología dispersa y débil *enforcement* colegial. **Lección:** la profesión mexicana ganaría con **colegiación y disciplina** efectivas; sin consecuencias, el código de ética es decorativo.
-
-**Crítica.** La defensa "celosa" puede degenerar en **complicidad**; y el secreto profesional, en escudo de la ilegalidad. La crítica pide más responsabilidad del abogado como filtro, sin destruir la confianza que lo hace útil.
-
-**Jurisprudencia y operación real.** **Enron/Arthur Andersen** (2002): el colapso del *gatekeeper*. En **FTX**, asesores señalados por validar lo invalidable. En la práctica, el conflicto de interés no revelado y la asistencia a estructuras sin sustancia son las dos vías por las que el abogado pasa de asesor a partícipe.
-
-**Para leer más:** Wasserstrom, *Lawyers as Professionals: Some Moral Issues*; Coffee, *Gatekeepers* (2006); ABA *Model Rules of Professional Conduct*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

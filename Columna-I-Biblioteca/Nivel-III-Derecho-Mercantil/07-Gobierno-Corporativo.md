@@ -560,6 +560,63 @@ los débiles.
 > judgment rule), que el abogado de M&A debe dominar (Nivel IV). La diferencia estructural relevante es
 > el modelo de consejo **monista** (México, EE. UU., España) vs. **dualista** (Alemania).
 
+### El error de trasplante más importante de esta materia
+
+Aquí está, en nuestra opinión, la idea más valiosa de todo el libro, y conviene decirla sin rodeos porque
+casi nadie la formula así.
+
+**El gobierno corporativo que se enseña en el mundo fue diseñado para resolver un problema que México casi
+no tiene.**
+
+El modelo anglosajón —consejeros independientes, comités, *say-on-pay*, revelación— nació para la
+corporación de **capital disperso** que describieron Berle y Means: miles de accionistas pequeños y unos
+administradores que controlan sin arriesgar. El conflicto que resuelve es **accionistas frente a
+administradores**.
+
+En México, como en la mayor parte de América Latina, Asia y Europa continental, la estructura típica es
+otra: **capital concentrado**. Hay un accionista o una familia de control que **sí** vigila a los
+administradores —no necesita mecanismos para hacerlo, tiene el mando—. El conflicto real, entonces, no es
+accionistas contra administradores: es **accionista de control frente a accionistas minoritarios**.
+
+> **Y de ahí la consecuencia práctica, que es la razón de ser de este apartado:** trasplantar el aparato
+> del capital disperso a una empresa de capital concentrado **resuelve el conflicto equivocado**. Un
+> consejero "independiente" designado por el propio controlador no protege a la minoría del controlador: es
+> independiente del *management* —que ya obedece al controlador— y no de quien manda.
+>
+> Los mecanismos que de verdad importan en este entorno son otros, y son los que debes negociar:
+> **derechos de veto** sobre decisiones estructurales, **derecho a información**, **asiento en el consejo**,
+> supervisión de **operaciones con partes relacionadas**, **voto acumulativo** y —sobre todo— **mecanismos
+> de salida con fórmula de valuación** (ver el
+> [Libro 4 del Nivel IV](../Nivel-IV-Corporate-Law/04-Documentacion-Term-Sheet-SPA-APA-SHA.md)).
+
+Esta lectura tiene respaldo académico serio y vale conocerlo: el programa de investigación de **La Porta,
+López-de-Silanes, Shleifer y Vishny** (*Law and Finance*, 1998) documentó que la **protección jurídica de
+la minoría** correlaciona con la profundidad de los mercados de capital y con la dispersión de la
+propiedad. Y **Mark Roe** (*Political Determinants of Corporate Governance*) añadió la explicación
+política: las estructuras de propiedad no son solo producto del derecho, sino de decisiones políticas
+históricas sobre el papel del trabajo y del capital —lo que explica la **cogestión** alemana
+(*Mitbestimmung*) mejor que cualquier análisis puramente jurídico—.
+
+**Y el instrumento comparado que más útil resulta:** el llamado *marco MFW*, derivado de
+***Kahn v. M&F Worldwide*** (Del. 2014). Su aportación es un **camino seguro** para las operaciones con el
+accionista de control: si la operación se condiciona desde el inicio a la aprobación de un **comité
+independiente con poder real de negociar y de decir no**, y además al **voto favorable de la mayoría de la
+minoría**, la operación se juzga con la deferencia del juicio de negocios en lugar de con el escrutinio más
+severo. Es decir: **el derecho premia el procedimiento que protege a la minoría**.
+
+> México no tiene ese marco. Pero su lógica es importable a un acuerdo de accionistas o a la estructura de
+> aprobación de una operación con partes relacionadas — y hacerlo es una de las aportaciones más
+> sofisticadas que un abogado corporativo mexicano puede ofrecer a un cliente minoritario o a un consejo
+> que quiere blindar una decisión.
+
+**Y de aquí se sigue la crítica que cierra el apartado: el riesgo del *box-ticking*.** Si el aparato
+importado resuelve el conflicto equivocado, cumplirlo formalmente produce **independencia de casilla**:
+consejeros que satisfacen el requisito legal y son designados por el propio controlador, comités que
+sesionan y no deciden, códigos que se adhieren y no se aplican. La forma se cumple y la función no.
+El tratamiento completo de esta crítica —con Bebchuk y Fried sobre remuneración, y la prueba de "cuándo
+fue la última vez que este consejo dijo no"— está en el
+[Libro 8 del Nivel IV](../Nivel-IV-Corporate-Law/08-Gobierno-Corporativo-Avanzado-Compliance-y-ESG.md).
+
 ## 23. Derecho mexicano
 
 - **LGSM (sociedades en general):** administración (142 y ss.), responsabilidad de administradores
@@ -892,7 +949,21 @@ Está listo para el **Nivel IV: Corporate Law y M&A**, el corazón del objetivo.
 - **Principios de Gobierno Corporativo de la OCDE/G20.** El estándar internacional.
 - **Jurisprudencia de Delaware (Revlon, Unocal, Caremark, Smith v. Van Gorkom).** Los deberes
   fiduciarios y las defensas anti-OPA; estudio obligado para M&A (Nivel IV).
-- **Bainbridge / Bebchuk.** Para los debates (poder del consejo vs. accionistas, compensación).
+- **Bainbridge / Bebchuk.** Para los debates (poder del consejo vs. accionistas, compensación). De Bebchuk
+  y Fried, *Pay Without Performance*: la tesis de que la remuneración no alinea incentivos sino que es
+  **síntoma** del poder gerencial.
+- **La Porta, López-de-Silanes, Shleifer & Vishny, *Law and Finance* (*Journal of Political Economy*,
+  1998).** El estudio que vinculó protección jurídica de la minoría con profundidad de los mercados. Es el
+  sustento empírico del §22 y una de las investigaciones jurídico-económicas más citadas de la historia.
+- **Mark Roe, *Political Determinants of Corporate Governance* (2003).** Por qué las estructuras de
+  propiedad son también producto de la política y no solo del derecho. Explica la cogestión alemana y, por
+  contraste, la nuestra.
+- ***Kahn v. M&F Worldwide*** (Del. 2014), para el marco de operaciones con accionista de control
+  (comité independiente + voto de la mayoría de la minoría); y ***In re Caremark*** (Del. Ch. 1996) para el
+  deber de vigilancia, que se desarrolla en el
+  [Libro 8 del Nivel IV](../Nivel-IV-Corporate-Law/08-Gobierno-Corporativo-Avanzado-Compliance-y-ESG.md).
+- **Cadbury Report (1992) y Principios de Gobierno Corporativo de la OCDE**, de donde proviene el estándar
+  que adoptó el Código de Principios y Mejores Prácticas mexicano ⟳.
 
 ## 43. Ruta hacia el siguiente libro / nivel
 
@@ -965,60 +1036,6 @@ prestigio del derecho de los negocios—.
 > aprendido converge en las **Fusiones y Adquisiciones**. El abogado corporativo de élite está cada
 > vez más a tu alcance.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-Gobierno corporativo es **cómo se distribuye y controla el poder** dentro de la empresa: consejo, dirección, accionistas y órganos de vigilancia. El socio lo diseña para resolver el **problema de agencia** (que quien decide no arriesga su dinero) y para proteger a la minoría. En un *deal*, el gobierno es lo que el inversionista negocia con más fiereza: asientos en el consejo, materias reservadas, información y salidas.
-
-### Doctrina y debate
-- **Berle & Means (1932):** la **separación entre propiedad y control** en la corporación moderna: el problema fundacional del campo.
-- **Teoría de la agencia (Jensen & Meckling):** consejo, auditoría e incentivos como mecanismos para alinear al administrador con el accionista.
-- **Bebchuk (*Pay Without Performance*):** la remuneración ejecutiva como síntoma —no solución— del problema de agencia.
-- **Shareholder vs. stakeholder:** Friedman ("la responsabilidad social de la empresa es aumentar sus utilidades") vs. Freeman (teoría de los *stakeholders*) y el actual auge del **ESG**. Debate: ¿el ESG crea valor o es *greenwashing*?
-
-### Derecho comparado
-Consejo **unitario** (*one-tier*, EE. UU./Reino Unido) vs. **dual** (*two-tier*, Alemania, con *codeterminación* de trabajadores). El **Informe Cadbury** (1992, RU) y los **Principios de la OCDE** fijaron el estándar (consejeros independientes, comités de auditoría, *say-on-pay*). México los incorporó en la **LMV** y el **Código de Principios de Gobierno Corporativo** ⟳.
-
-### Caso real
-**WeWork (2019):** el gobierno disfuncional —poder desmedido del fundador Adam Neumann, autocontratos, acciones de voto múltiple— hizo colapsar la OPI y desplomó la valuación de ~47,000 mdd ⚠️ *verificar*. **Enron, WorldCom, Wells Fargo (cuentas falsas), Theranos:** todos, fallas de gobierno antes que de negocio. Lección: el mercado castiga el mal gobierno con descuento de valuación.
-
-### Errores que cuestan millones
-- Consejos **capturados** por el fundador/accionista de control, sin independencia real.
-- Acciones de **voto múltiple** sin contrapesos (riesgo para la minoría).
-
-### Preguntas
-- **Criterio:** ¿la empresa debe servir solo al accionista (Friedman) o a todos los *stakeholders* (Freeman)? ¿El ESG genera valor?
-- **Entrevista:** ¿qué protecciones de gobierno exigiría como inversionista minoritario?
-- **Examen:** explique el problema de agencia y dos mecanismos para mitigarlo.
-
-### Bibliografía por niveles
-- **Básico:** OCDE, *Principios de Gobierno Corporativo*.
-- **Intermedio:** Informe Cadbury; Código de Principios de Gobierno Corporativo (México).
-- **Avanzado:** Berle & Means, *The Modern Corporation and Private Property*.
-- **Internacional:** Bebchuk & Fried, *Pay Without Performance*; Kraakman et al., *The Anatomy of Corporate Law*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El gobierno corporativo administra dos conflictos, no uno. En economías de capital **disperso** (EE. UU./RU) el conflicto es **accionistas vs. administradores** (Berle & Means). En economías de capital **concentrado** (México, Europa continental, Asia) el conflicto dominante es **accionista de control vs. minoritarios** (expropiación del minoritario vía autocontratos, *tunneling*). México pertenece al segundo mundo: por eso su gobierno corporativo debe proteger sobre todo a la **minoría**, no tanto disciplinar a un *management* todopoderoso.
-
-**El debate.** La **Law & Finance** (La Porta, López-de-Silanes, Shleifer, Vishny, 1998): los países de *common law* protegen mejor al inversionista que los de *civil law*, lo que explicaría mercados de capital más profundos. Tesis influyente y polémica: críticos (Roe) responden que la **política** (socialdemocracia, poder laboral), no el origen legal, explica la estructura de propiedad. El debate importa a México: ¿su mercado es pequeño por su derecho o por su economía política?
-
-**Mirada de AED.** Consejeros independientes, comités y *say-on-pay* son **tecnologías de monitoreo** para reducir el costo de agencia. En capital concentrado, los mecanismos clave son distintos: **derechos de la minoría** (veto, información, *appraisal*), operaciones con partes relacionadas supervisadas, y voto acumulativo.
-
-**Comparado y lección para México.** Alemania: cogestión (*Mitbestimmung*) y consejo dual. EE. UU.: consejo unitario y mercado por el control. **Cadbury** (RU) y **OCDE** dieron el estándar. **Lección:** trasplantar el modelo de capital disperso (independientes contra el *management*) a México —de capital concentrado— resuelve el conflicto equivocado; lo urgente es blindar a la minoría frente al controlador.
-
-**Crítica.** Gobierno como ***box-ticking***: consejos "independientes" designados por el propio controlador (independencia formal, no real). Bebchuk & Fried: la remuneración no alinea, es **síntoma** del poder gerencial. Y el ESG, acusado de diluir la rendición de cuentas.
-
-**Jurisprudencia y operación real.** Delaware: *Caremark* (deber de vigilancia), *Weinberger* y *MFW* (operaciones con partes relacionadas / *controlling shareholder*, con el *MFW framework* que da *business judgment* si hay comité independiente + voto de minoría). En la práctica, el inversionista minoritario negocia en el SHA justo lo que la ley mexicana no le garantiza: veto, asientos, información y salidas.
-
-**Para leer más:** Berle & Means (1932); La Porta et al., *Law and Finance* (JPE, 1998); Roe, *Political Determinants of Corporate Governance* (2003); *Kahn v. M&F Worldwide* (Del. 2014).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

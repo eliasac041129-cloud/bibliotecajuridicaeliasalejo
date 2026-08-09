@@ -136,6 +136,47 @@ del *project finance* (donde los **flujos futuros** del proyecto se afectan en g
 **prenda sin transmisión** desbloqueó el crédito sobre **activos productivos** (inventario,
 maquinaria) sin paralizar la operación: una innovación que **liberó capital** para las empresas.
 
+### Las tres preguntas del acreedor, y por qué la perfección lo es todo
+
+Toda esta materia se ordena con tres preguntas que un banco hace siempre, en este orden: **si el deudor no
+paga, ¿de qué me cobro, con qué rapidez y antes que quién?**
+
+- *¿De qué?* → el **objeto** de la garantía y su valor realizable.
+- *¿Con qué rapidez?* → la **vía de ejecución**, que es la variable más subestimada.
+- *¿Antes que quién?* → la **prelación**, que depende casi enteramente de la **perfección**.
+
+> **Y de ahí la frase que resume el libro: una garantía solo vale si está perfeccionada.** Un contrato de
+> prenda impecable, no inscrito, puede valer cero frente a un tercero que sí inscribió. La perfección no es
+> el trámite posterior al trabajo jurídico: **es el trabajo jurídico**. Es también la razón por la que en un
+> concurso —como se ve en el [Libro 6 del Nivel III](../Nivel-III-Derecho-Mercantil/06-Concurso-Mercantil.md)—
+> el acreedor con garantía real perfeccionada cobra y el quirografario espera.
+
+**El modelo que reorganizó esta materia en el mundo: el artículo 9 del UCC.** Estados Unidos unificó todas
+las garantías mobiliarias bajo un concepto único —el *security interest*—, con un registro central
+(*perfection by filing*) y una regla de prelación simple y predecible (*first to file*). Su virtud no es la
+elegancia dogmática: es que **un acreedor puede saber en minutos si el activo está libre**. La **Ley Modelo
+de la OEA** y la reforma mexicana que creó el **RUG** siguen esa lógica; en materia inmobiliaria, la
+prelación sigue dependiendo de la inscripción registral (*prior tempore, potior iure*).
+
+**El debate vivo: formalidad contra agilidad.** La **prohibición del pacto comisorio** —el acreedor no puede
+apropiarse de la cosa sin proceso— protege al deudor de un abuso real: la desproporción entre una deuda
+pequeña y un bien valioso. Su costo es la lentitud, que destruye valor para todos. De ahí el auge de las
+figuras que buscan **ejecución ágil sin desamparar al deudor**: el fideicomiso de garantía, los llamados
+pactos marcianos —donde la apropiación se admite con valuación objetiva y devolución del excedente— y los
+procedimientos extrajudiciales.
+
+> *Postura del Consejo:* el criterio correcto no es elegir entre proteger al deudor y agilizar al acreedor,
+> sino **separar las dos cosas que la prohibición mezcla**. Lo que hay que impedir es la **apropiación
+> desproporcionada**, no la ejecución rápida. Un mecanismo con **valuación independiente y devolución del
+> excedente** logra las dos cosas — y es la dirección en la que se mueve el derecho comparado.
+
+**La otra tensión, que aparece en toda reestructura: la accesoriedad.** La garantía sigue a lo principal, de
+modo que si la obligación garantizada se **nova**, la garantía puede extinguirse. Es el mismo punto del
+[Libro 1 de este nivel](./01-Teoria-General-de-las-Obligaciones-Profundizacion.md), y la razón por la que en
+las "batallas de garantías" de los grandes concursos mexicanos —Vitro es el caso de referencia ⚠️— la
+discusión decisiva fue **qué garantías intragrupo sobrevivían y con qué prelación**. Quien no cuidó la
+reserva expresa y la ratificación de los garantes, perdió.
+
 ## 7. Contexto político
 
 El Estado regula las garantías equilibrando dos intereses: **facilitar el crédito** (garantías
@@ -921,59 +962,6 @@ de las especialidades mejor pagadas del mercado.
 > Mercantil**, donde la sociedad anónima, el título de crédito y la emisora bursátil te convertirán
 > en especialista. El M&A está cada vez más cerca.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-Las garantías son **el corazón del financiamiento**. La pregunta del socio y del banco es siempre la misma: *si el deudor no paga, ¿de qué me cobro, con qué rapidez y antes que quién?* Dominar prenda, hipoteca, fianza, aval, fideicomiso de garantía y garantías mobiliarias —y su **perfección y prelación**— es lo que permite estructurar deuda que el mercado acepta.
-
-### Doctrina y debate
-- **Accesoriedad:** la garantía sigue a lo principal; si la obligación se nova, la garantía puede extinguirse (clave en reestructuras).
-- **Prohibición del pacto comisorio:** el acreedor no puede quedarse la cosa sin proceso; debate moderno frente a los **pactos marcianos** y la ejecución extrajudicial que buscan agilidad.
-- **Garantías mobiliarias sin desposesión** (prenda sin transmisión de posesión, RUG): permiten financiar sin paralizar la operación de la empresa.
-
-### Derecho comparado
-El **Artículo 9 del UCC** (EE. UU.) unificó las garantías mobiliarias bajo el concepto de *security interest* con registro (*perfection by filing*) y reglas claras de prelación (*first to file*). La *Ley Modelo de la OEA* y las reformas mexicanas (RUG) siguen ese modelo. En hipoteca inmobiliaria, la inscripción registral define la prelación (*prior tempore, potior iure*).
-
-### Caso real
-**Reestructuras y "batalla de garantías":** en concursos como **Vitro** o **Aeroméxico** ⚠️ *verificar*, el resultado dependió de quién tenía garantías **reales y perfeccionadas** frente a acreedores quirografarios. La diferencia entre recuperar 90 centavos o 10 por peso estuvo en la calidad de la garantía.
-
-### Errores que cuestan millones
-- **No perfeccionar** (inscribir/notificar) la garantía: existe entre partes pero no frente a terceros.
-- Aceptar una garantía sobre un bien ya gravado sin verificar la **prelación**.
-
-### Preguntas
-- **Criterio:** ¿debe permitirse la ejecución extrajudicial de garantías para dar celeridad, o protege al deudor la vía judicial?
-- **Entrevista:** ordene la prelación entre hipoteca inscrita, prenda registrada y crédito quirografario.
-- **Examen:** explique la prohibición del pacto comisorio y su razón.
-
-### Bibliografía por niveles
-- **Básico:** Rojina Villegas, *Bienes y derechos reales*.
-- **Intermedio:** Domínguez Martínez, *Derecho civil. Contratos*.
-- **Avanzado:** Vásquez del Mercado, *Contratos mercantiles* (garantías).
-- **Internacional:** UCC Article 9; Ley Modelo Interamericana sobre Garantías Mobiliarias (OEA).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** Las garantías existen para resolver el **problema fundamental del crédito**: prestar es entregar valor hoy contra una promesa futura, y la promesa puede incumplirse. La garantía real reduce el **riesgo de crédito** (dando un activo del que cobrarse) y el **costo del crédito** (menor riesgo = menor tasa). Sin garantías eficientes, el crédito es caro y escaso: por eso su diseño es infraestructura del desarrollo económico.
-
-**El debate.** **Formalidad/desposesión vs. agilidad:** la prenda clásica exigía entregar la cosa (desposesión), lo que paralizaba el activo productivo; la **prenda sin transmisión de posesión** y el fideicomiso de garantía permiten financiar sin detener la operación —a costa de mayor riesgo de ocultamiento. Debate de la **prohibición del pacto comisorio** (el acreedor no puede quedarse la cosa automáticamente): protege al deudor de abusos, pero **ralentiza** la ejecución; de ahí la presión por ejecución extrajudicial y "pactos marcianos".
-
-**Mirada de AED.** La **prelación** (quién cobra primero) y la **perfección** (dar publicidad frente a terceros) resuelven un problema de información y de acción colectiva entre acreedores. El **UCC Art. 9** (EE. UU.) demostró que un sistema de registro único (*first-to-file*) y garantías flotantes reduce drásticamente el costo del crédito —una de las reformas jurídicas de mayor impacto económico del siglo XX.
-
-**Comparado y lección para México.** El UCC Art. 9 y la **Ley Modelo Interamericana de Garantías Mobiliarias (OEA)** inspiraron el **RUG** mexicano. **Lección:** la garantía solo vale si es **perfeccionable y ejecutable rápido**; México avanzó con el RUG, pero la **ejecución** sigue siendo lenta —ahí está la frontera de reforma.
-
-**Crítica.** La prohibición del pacto comisorio y la lentitud de la ejecución judicial encarecen el crédito (el acreedor "precifica" el costo de ejecutar). Del otro lado, la ejecución extrajudicial expone al deudor a abusos.
-
-**Jurisprudencia y operación real.** En reestructuras (Vitro, Aeroméxico ⚠️), la diferencia entre recuperar 90 o 10 centavos por peso estuvo en la **perfección y prelación** de la garantía. En la práctica, el abogado de financiamiento vive obsesionado con perfeccionar e inscribir: una garantía no perfeccionada no existe frente a terceros.
-
-**Para leer más:** UCC Article 9; Ley Modelo Interamericana sobre Garantías Mobiliarias (OEA); Wood, *Comparative Law of Security Interests and Title Finance*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

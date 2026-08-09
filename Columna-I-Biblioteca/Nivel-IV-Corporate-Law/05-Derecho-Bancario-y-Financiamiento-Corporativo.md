@@ -193,6 +193,44 @@ El financiamiento corporativo es **economía pura** aplicada al derecho. Tres id
   riesgo de que el deudor se deteriore o actúe en perjuicio del acreedor (el problema de **riesgo moral**:
   que tras recibir el préstamo, el deudor tome más riesgo del prometido).
 
+### Por qué existe la deuda, y por qué existen los *covenants*
+
+Dos preguntas distintas con dos respuestas teóricas precisas. Conviene tenerlas nombradas, porque son las
+que te permiten explicarle a un director financiero **por qué** su contrato dice lo que dice.
+
+**Por qué una empresa se endeuda.** El punto de partida es **Modigliani y Miller** (1958): en un mundo sin
+impuestos ni costos de quiebra, la estructura de capital sería irrelevante. Su propio matiz de 1963
+introdujo lo que cambió todo: los intereses son **deducibles**, y ese **escudo fiscal** vuelve la deuda
+más barata que el capital. Pero el escudo no crece indefinidamente, porque a mayor deuda aumentan los
+**costos de insolvencia** —el riesgo de quiebra, la pérdida de flexibilidad, los proveedores que exigen
+anticipo—. De la tensión entre esas dos fuerzas sale la **teoría del *trade-off***: existe un nivel de
+apalancamiento donde el beneficio fiscal marginal iguala el costo esperado de insolvencia. Es la
+traducción teórica de la sexta causa de muerte del
+[tratado V-05](../Nivel-V-Maestria/05-La-Empresa-por-Dentro.md): apalancamiento **más un golpe**.
+
+**Por qué el contrato limita al deudor.** Porque una vez recibido el dinero, los intereses del accionista
+y del acreedor divergen. Es el **conflicto de agencia de la deuda** (Jensen y Meckling, 1976), y tiene
+formas con nombre propio que conviene reconocer al negociar:
+
+| Conducta | En qué consiste | El *covenant* que la ataja |
+|---|---|---|
+| **Sustitución de activos** (*asset substitution*) | Tomar más riesgo del prometido: el accionista gana con el escenario alto y el acreedor pierde con el bajo | Limitaciones de inversión, de cambio de giro y de disposición de activos |
+| **Dilución de la deuda** | Endeudarse más y con mejor prelación, degradando al acreedor original | Limitación de endeudamiento adicional y de gravámenes (*negative pledge*) |
+| **Extracción de valor** | Repartir dividendos o pagar a partes relacionadas con dinero que respalda la deuda | Restricción de pagos y de operaciones con relacionadas |
+| ***Debt overhang*** (Myers) | Dejar de invertir en proyectos buenos porque el beneficio iría a los acreedores | Es el problema inverso: justifica los *cure rights* y la flexibilidad de inversión |
+
+De ahí la formulación clásica de **Smith y Warner**: los *covenants* no son fricción burocrática, son el
+mecanismo que **reduce el costo de agencia de la deuda** — y al reducirlo, **abaratan el crédito**. Es
+decir: el cliente que pelea por eliminar todos los *covenants* está peleando, sin saberlo, por una tasa
+más alta.
+
+> **Visto en clave de análisis económico, un *covenant* es un mecanismo de control contingente:**
+> transfiere derechos de decisión al acreedor **precisamente cuando los ratios se deterioran**, que es
+> justo el momento en que el conflicto de agencia se agrava porque la empresa se acerca a la insolvencia.
+> Es gobierno corporativo por contrato. Y el *intercreditor agreement* resuelve por anticipado la
+> "carrera" entre acreedores: un problema de acción colectiva que, sin acuerdo previo, destruye valor para
+> todos.
+
 ## 7. Contexto político y regulatorio
 
 El financiamiento opera dentro de un marco regulatorio **intenso**, porque la banca es una actividad de
@@ -856,6 +894,30 @@ bancario y emisión de bonos/certificados bursátiles). *Lección:* el *project 
 **hace posible** la infraestructura de gran escala, y una práctica de altísimo valor para el abogado
 mexicano —especialmente en energía y renovables—.
 
+**Silicon Valley Bank (marzo de 2023): la estructura de capital se activa en 72 horas.** Un banco cae por
+un mecanismo que ningún *covenant* de su cartera de créditos habría detectado: **riesgo de duración**. Su
+cartera de bonos perdió valor de mercado al subir las tasas, la noticia se difundió, y los depositantes
+—que pueden retirar a la vista— retiraron. Un *bank run* clásico, en días.
+
+**Credit Suisse (2023): cuando la prelación esperada no se respeta.** En el rescate por UBS, los
+tenedores de bonos **AT1** —instrumentos híbridos de capital regulatorio— fueron **borrados por unos
+17,000 millones ⚠️ *verificar*** mientras los accionistas conservaban algo de valor. Eso invirtió el orden
+que los inversionistas creían pactado, y detonó litigios.
+
+> **Las dos lecciones para un abogado, y son de oficio puro.**
+>
+> **Primera: lee la prelación en el documento, no en la intuición.** "Deuda antes que capital" es una
+> regla general, no una ley física: los términos concretos del instrumento y el marco regulatorio de
+> resolución bancaria pueden alterarla. Si tu cliente compra un híbrido, la cláusula de absorción de
+> pérdidas es **la** cláusula, no una del montón.
+>
+> **Segunda: la velocidad es un riesgo jurídico.** Estos episodios no dan tiempo para negociar
+> renuncias ni reestructuras: se resuelven en un fin de semana. Por eso el trabajo valioso se hace
+> antes —en el *headroom* del *covenant*, en los *cure rights*, en la definición de EBITDA— y no cuando
+> ya empezó. Es el mismo principio del
+> [protocolo de crisis](../../Columna-IV-Sistema-del-Socio/09-Crisis-y-Formacion-de-Juniors.md): lo que
+> no decidiste en frío, no lo vas a decidir bien a las tres de la mañana.
+
 ## 19. Casos empresariales
 
 **La empresa familiar que crece con deuda inteligente.** Una empresa familiar rentable quiere construir una
@@ -1054,6 +1116,21 @@ financiera** y de protección de acreedores —que no son trabas, sino salvaguar
 financiamiento de élite es global. El abogado mexicano que aspira a operaciones complejas debe manejar
 estos estándares con fluidez.
 
+**Y la crítica que el Consejo asume, aunque incomode al oficio.** El apalancamiento excesivo tiene una
+propiedad asimétrica que 2008 y 2023 volvieron a exhibir: **las ganancias son privadas y una parte de las
+pérdidas se socializa** —vía rescates, vía contagio, vía el costo que paga el sistema—. La crítica
+**macroprudencial** posterior a 2008 reprocha que la ingeniería financiera —y la jurídica que la
+documenta— privilegió el retorno sobre la **resiliencia**.
+
+No es una objeción moral abstracta: tiene consecuencia profesional. El abogado que documenta un
+financiamiento no es responsable de la política macroprudencial, y sí es responsable de una cosa concreta:
+**que su cliente entienda cuánta pista le queda.** Un director financiero que firma con el covenant a un
+mal trimestre de distancia y no lo sabe, no fue bien asesorado — aunque cada cláusula esté impecable.
+
+*Postura del Consejo:* la métrica de calidad de este trabajo no es cerrar el financiamiento al costo más
+bajo. Es que **el cliente conozca, en números, la distancia entre su empresa y el precipicio**, y que la
+haya elegido.
+
 ## 29. Debate doctrinal
 
 - **¿Covenant-lite sí o no?** ¿Conviene la deuda con pocos covenants (más flexible para el deudor) o con
@@ -1075,6 +1152,20 @@ estos estándares con fluidez.
 - **Banco vs. mercado (crédito vs. bonos): ¿qué es mejor para la empresa?** *Postura del Consejo:* no hay
   respuesta única —el crédito da **flexibilidad** (renegociable); el bono da **plazo, monto y liquidez**
   pero es **rígido**—. La empresa sofisticada **combina** ambos según necesidad.
+- **¿*Covenant-lite* o protección robusta?** En los años de tasas bajas y exceso de liquidez, el mercado
+  fue del deudor y los acreedores renunciaron a *covenants* de mantenimiento. Los críticos advirtieron que
+  se estaba destruyendo la **señal temprana de deterioro**. *Postura del Consejo:* el valor de un
+  *covenant* es **procíclico** —parece fricción inútil en el auge y resulta salvador en la caída—, y
+  medir su utilidad en la parte alta del ciclo es un error de método. Y hay una asimetría que el abogado
+  debe explicar: sin *covenants*, el acreedor no se entera antes; se entera **cuando ya no hay nada que
+  negociar**.
+- **Dos filosofías de control que conviene no confundir.** El crédito bancario usa ***maintenance
+  covenants***: se prueban **periódicamente** (cada trimestre la empresa debe estar dentro del ratio). El
+  *high yield* usa ***incurrence covenants***: se prueban **solo cuando la empresa quiere hacer algo**
+  (endeudarse más, pagar dividendos). La diferencia es enorme en la práctica: con los primeros, un mal
+  trimestre te pone en incumplimiento sin que hayas hecho nada; con los segundos, puedes deteriorarte sin
+  incumplir mientras no actúes. *Lección de negociación:* cuando el cliente pide "los covenants del
+  mercado", hay que preguntar **de qué mercado**.
 
 ## 30. Errores comunes
 
@@ -1370,6 +1461,17 @@ financiamiento empresarial** que quieres ser. Y observa el hilo: los contratos d
   capital del crédito en México.
 - **Doctrina de finanzas corporativas (estructura de capital).** La base económica de la decisión
   deuda/equity (conecta con el Nivel V).
+- **Philip Wood, *Law and Practice of International Finance*.** La referencia de nivel intermedio-avanzado
+  sobre financiamiento internacional: si vas a documentar crédito sindicado o transfronterizo, es la obra
+  a la que se vuelve.
+- **Smith & Warner, *On Financial Contracting* (*Journal of Financial Economics*, 1979).** El artículo que
+  explicó los *covenants* como solución al costo de agencia de la deuda. Es la fuente teórica del §6 y se
+  lee en una tarde.
+- **Modigliani & Miller (*American Economic Review*, 1958, y su corrección de 1963); Jensen & Meckling
+  (1976); Myers sobre *debt overhang*.** Los cuatro trabajos que fundamentan por qué existe la deuda y por
+  qué el contrato limita al deudor.
+- **Guías LMA y LSTA (resúmenes) y materiales sobre *high yield* e *indenture*.** Para el nivel básico y
+  para reconocer las dos gramáticas documentales del §29.
 
 ## 43. Ruta hacia el siguiente libro
 
@@ -1448,59 +1550,6 @@ un negociador y un estructurador mucho más completo.
 > · Contratos Estratégicos y Joint Ventures** aprenderás a estructurar la **colaboración** entre empresas
 > —las alianzas que crean valor sin comprar ni prestar, sino **uniendo fuerzas**—.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-Financiar es **vender riesgo a cambio de rendimiento**. El socio que documenta un crédito piensa como el banco: *¿cómo me aseguro de que me paguen y qué hago si dejan de pagar?* La respuesta vive en tres piezas: **paquete de garantías**, ***covenants*** (obligaciones de hacer/no hacer y ratios financieros) y **cláusulas de incumplimiento (*events of default*) y aceleración**. Los *covenants* son **gobierno del acreedor**: controlan a la empresa sin ser dueños.
-
-### Doctrina y debate
-- **Los *covenants* como mitigadores del costo de agencia de la deuda** (Smith & Warner): el acreedor limita al accionista para que no expropie valor (endeudarse más, repartir dividendos, vender activos).
-- **Ratios típicos:** apalancamiento (*Deuda/EBITDA*), cobertura de servicio de deuda (*DSCR*), *interest coverage*. El abogado debe entender qué miden para negociar sus *headroom* y *cure rights*.
-- **Debate:** *covenant-lite* (poca protección, era de dinero barato) vs. protección robusta: ¿quién gana cuando el ciclo cambia?
-
-### Derecho comparado
-Dos estándares de documentación dominan: **LMA** (Loan Market Association, Europa) y **LSTA** (EE. UU.). El crédito sindicado, el *project finance* (con *waterfall* de pagos) y los bonos (*high yield*, con su *indenture*) son globales. México documenta bajo ley local o Nueva York según el acreedor.
-
-### Caso real
-**Silicon Valley Bank (marzo 2023):** un *bank run* clásico por **riesgo de duración** (cartera de bonos que perdió valor al subir tasas) tumbó al banco en días. **Credit Suisse (2023):** el rescate por UBS **borró ~17,000 mdd ⚠️ *verificar* en bonos AT1** antes que a los accionistas, alterando la prelación esperada y detonando litigios. Lección: la estructura de capital y la prelación no son teoría; se activan en 72 horas.
-
-### Errores que cuestan millones
-- *Covenants* mal calibrados (sin *headroom* ni *cure rights*): un trimestre malo dispara el *default*.
-- Paquete de garantías **no perfeccionado** o *intercreditor agreement* ambiguo sobre prelación.
-
-### Preguntas
-- **Criterio:** ¿los *covenant-lite* democratizan el crédito o siembran la próxima crisis?
-- **Entrevista:** explique un *leverage covenant* y qué pasa si se incumple.
-- **Examen:** distinga *covenant* afirmativo, negativo y financiero.
-
-### Bibliografía por niveles
-- **Básico:** guías LMA/LSTA (resúmenes).
-- **Intermedio:** Wood, *Law and Practice of International Finance*.
-- **Avanzado:** Smith & Warner, *On Financial Contracting* (covenants).
-- **Internacional:** Fuller, *Corporate Borrowing: Law and Practice*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El financiamiento con deuda existe porque el **apalancamiento** amplifica el retorno sobre el capital y —tesis de **Modigliani-Miller** (1958) y su matiz fiscal de 1963— el escudo fiscal de los intereses hace atractiva la deuda hasta el punto en que los **costos de insolvencia** la contrarrestan (teoría del *trade-off*). Los *covenants* existen para resolver el **conflicto de agencia entre accionistas y acreedores**: sin ellos, el accionista tiene incentivo a endeudarse más, repartir dividendos o "apostar" con dinero ajeno (*asset substitution*, *debt overhang* — Jensen-Meckling, Myers).
-
-**El debate.** *Covenant-lite* vs. protección robusta. En la era de tasas bajas y exceso de liquidez, los acreedores renunciaron a *covenants* (mercado del deudor); los críticos advirtieron que se sembraba la próxima crisis al perder la señal temprana de deterioro. El debate: ¿los *covenants* son fricción ineficiente o el sistema inmunológico del crédito? Predomina que su valor es **procíclico**: irrelevantes en auge, salvadores en la caída.
-
-**Mirada de AED.** Un *covenant* es un **mecanismo de control contingente**: transfiere derechos de decisión al acreedor cuando ciertos ratios se deterioran, justo cuando el conflicto de agencia se agrava (la empresa cerca de la insolvencia). Es gobierno corporativo por contrato. El *intercreditor agreement* resuelve, ex ante, la "carrera" entre acreedores (un problema de acción colectiva à la Jackson).
-
-**Comparado y lección para México.** Los estándares **LMA** (Europa) y **LSTA** (EE. UU.) uniformaron la documentación y redujeron costos. El *high yield* estadounidense y su *indenture* con *incurrence covenants* (vs. *maintenance covenants* del crédito bancario) reflejan dos filosofías de control. **Lección:** México, que documenta bajo ley local o de Nueva York según el acreedor, debe dominar ambas gramáticas y cuidar la **perfección de garantías** (RUG) para que el paquete no sea papel.
-
-**Crítica.** El apalancamiento excesivo **socializa pérdidas**: SVB y Credit Suisse (2023) mostraron cómo el riesgo se traslada al sistema y al Estado (rescates), mientras las ganancias fueron privadas. La crítica *macroprudencial* (post-2008) reprocha que la ingeniería financiera privilegió el retorno sobre la resiliencia.
-
-**Jurisprudencia y operación real.** El *wipeout* de los bonos **AT1 de Credit Suisse** (2023, ~17,000 mdEUR ⚠️) alteró la prelación esperada y desató litigios: recordó que la estructura de capital se activa en 72 horas. En la práctica, el abogado negocia *headroom*, *cure rights* y definiciones de EBITDA como si de ello dependiera la supervivencia del cliente —porque depende.
-
-**Para leer más:** Modigliani & Miller (AER, 1958); Jensen & Meckling (JFE, 1976); Smith & Warner, *On Financial Contracting* (JFE, 1979); Wood, *Law and Practice of International Finance*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

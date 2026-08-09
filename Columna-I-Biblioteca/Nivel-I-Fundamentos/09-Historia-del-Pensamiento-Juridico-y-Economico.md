@@ -243,6 +243,38 @@ contratos y la regulación (*nudges*). El abogado negociador que entiende sesgos
   autónomo; el realismo, como lo que los jueces hacen de hecho, influido por factores sociales
   y económicos. Influye en cómo se predice y se litiga.
 
+
+### Los tres duelos que se reabren en cada crisis
+
+Este libro sirve para algo muy concreto: **anticipar**. Las reformas del futuro son variaciones de debates
+viejos, y quien conoce el arco puede leer una tendencia antes de que se legisle.
+
+**Keynes frente a Hayek: ¿el Estado estabiliza o distorsiona?** Para **Keynes**, en una contracción la
+demanda agregada colapsa y el Estado debe sostenerla. Para **Hayek**, el conocimiento relevante está
+**disperso** entre millones de agentes y ninguna autoridad puede centralizarlo: la planificación falla no
+por mala fe sino por un problema de información. El duelo no se resolvió y **cada crisis lo reabre** —1929,
+2008, 2020— con consecuencias regulatorias inmediatas para las empresas.
+
+**Marx frente a la economía clásica: ¿el derecho es neutral?** ¿Es el marco imparcial del intercambio, o una
+superestructura que consolida la posición de quien tiene el capital? No hay que ser marxista para admitir
+que la pregunta es legítima y que aparece, con otro vocabulario, en cada debate sobre asimetría contractual,
+protección del consumidor o derecho laboral.
+
+**Iusnaturalismo frente a positivismo: ¿hay derecho por encima de la ley?** Es el mismo eje del
+[Libro 2 de este nivel](./02-Introduccion-al-Estudio-del-Derecho.md), visto históricamente. Después de
+1945, la respuesta dejó de ser académica.
+
+> **Y el capítulo más reciente de esta historia es el que más te va a servir:** el **análisis económico del
+> derecho** (Coase, Posner, Calabresi) aplicó las herramientas de la economía a las instituciones jurídicas
+> y transformó la manera de discutir responsabilidad, contratos, propiedad y regulación. Se desarrolla en el
+> [Libro 10](./10-Economia-para-Juristas.md), y conviene verlo como lo que es: no una moda, sino **la última
+> estación de un arco de dos siglos**.
+
+**Y la lectura que recomendamos para tener el mapa completo en la cabeza:** Robert Heilbroner, *Los
+filósofos terrenales* (*The Worldly Philosophers*) —la historia del pensamiento económico contada como una
+sucesión de personas que intentaban entender su época—. Es probablemente el libro más útil de esta materia
+para un abogado, porque se lee como una novela y deja el arco entero ordenado.
+
 ## 7. Autores más importantes
 
 **Pensamiento jurídico:** Aristóteles, Tomás de Aquino, Grocio, Locke, Savigny, Bentham,
@@ -682,58 +714,6 @@ Empresa Familiar     ★★★☆☆
 *Materia de **cultura y fondo**: no se aplica directamente, pero forma el **criterio** del jurista y su
 capacidad de argumentar desde los principios.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-Saber de dónde vienen las ideas jurídicas y económicas permite **anticipar hacia dónde va la regulación**. El socio que entiende el péndulo histórico entre **mercado y Estado** (liberalización, luego regulación, luego desregulación) lee las reformas antes de que ocurran y posiciona a su cliente. La historia no es adorno: es **análisis de tendencia**.
-
-### Doctrina y debate
-- **En lo jurídico:** iusnaturalismo (Aquino, Grocio) → positivismo (Bentham, Austin, Kelsen) → realismo (Holmes, Llewellyn) → no-positivismo (Dworkin).
-- **En lo económico:** Adam Smith (*La riqueza de las naciones*, mano invisible) → Marx (crítica del capital) → **Keynes** (intervención estatal, demanda agregada) → **Hayek** (orden espontáneo, crítica a la planificación) → **Friedman** (monetarismo, Escuela de Chicago).
-- **Debate central:** ¿el mercado se autorregula o requiere al Estado? Cada crisis reabre el duelo **Keynes vs. Hayek**.
-
-### Derecho comparado
-La tradición **continental** (codificación, papel central del Estado) frente a la **anglosajona** (*common law*, confianza en el mercado y el precedente) refleja dos filosofías políticas distintas. México, país codificado con creciente influencia del *análisis económico* estadounidense, vive esa tensión en su regulación de competencia y financiera.
-
-### Caso real
-**Crisis financiera de 2008:** el colapso de **Lehman Brothers** revivió el debate Keynes/Hayek: rescates estatales (Keynes) frente a "dejar quebrar" (Hayek). La respuesta —Dodd-Frank en EE. UU.— reguló a la banca por una década. Entender esa historia explica el actual marco de capital y *compliance* bancario.
-
-### Errores que cuestan millones
-- Asumir que la regulación vigente es "permanente": el péndulo histórico se mueve (nacionalizaciones, privatizaciones, reformas).
-
-### Preguntas
-- **Criterio:** ¿el Estado debe rescatar empresas "demasiado grandes para quebrar"?
-- **Entrevista:** contraste la visión de Keynes y la de Hayek sobre la crisis.
-- **Examen:** ubique el tránsito del iusnaturalismo al positivismo.
-
-### Bibliografía por niveles
-- **Básico:** Adam Smith (selección), *La riqueza de las naciones*.
-- **Intermedio:** Robert Heilbroner, *Los filósofos terrenales*.
-- **Avanzado:** Keynes, *Teoría general*; Hayek, *Camino de servidumbre*.
-- **Internacional:** Skidelsky, *Keynes: el regreso del maestro*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** Conocer la historia de las ideas jurídicas y económicas es **entrenar el juicio para anticipar**: las reformas del futuro son variaciones de debates viejos. Quien conoce el arco iusnaturalismo→positivismo→realismo, o mercado→Estado→mercado, **lee las tendencias** antes de que se legislen.
-
-**El debate (los grandes duelos).** **Keynes vs. Hayek:** ¿el Estado estabiliza la economía (demanda agregada) o la distorsiona (el conocimiento está disperso, la planificación falla)? **Marx vs. la economía clásica:** ¿el derecho es superestructura al servicio del capital o marco neutral del intercambio? **Iusnaturalismo vs. positivismo:** ¿hay derecho por encima de la ley? Cada crisis (1929, 2008, 2020) reabre estos duelos y redefine la regulación que el abogado corporativo deberá navegar.
-
-**Mirada de AED.** El **análisis económico del derecho** (Coase, Posner, Calabresi) es el capítulo más reciente de esta historia: aplicó la economía a instituciones jurídicas, transformando el antitrust, la responsabilidad y los contratos. Su rival contemporáneo, la **economía conductual** (Kahneman, Thaler), matiza el supuesto de racionalidad.
-
-**Comparado y lección para México.** La tradición **continental** (codificación, Estado central) vs. la **anglosajona** (*common law*, confianza en mercado y precedente) reflejan filosofías políticas distintas. **Lección:** México, país codificado con creciente influencia del AED estadounidense (competencia, financiero), vive esa tensión; el abogado que conoce ambas gramáticas asesora mejor en un mundo integrado.
-
-**Crítica.** La historia "whig" (progreso lineal) es ingenua: el derecho avanza y retrocede (nacionalizaciones/privatizaciones). Y el AED es criticado por reducir la justicia a eficiencia, ignorando distribución y dignidad.
-
-**Jurisprudencia y operación real.** La respuesta a **2008** (Dodd-Frank) y a **Enron** (Sarbanes-Oxley) muestra cómo la crisis convierte el debate ideológico en regulación concreta. Entender esa dinámica permite anticipar el marco de *compliance* y capital de la próxima década.
-
-**Para leer más:** Heilbroner, *Los filósofos terrenales*; Keynes, *Teoría general*; Hayek, *Camino de servidumbre*; Skidelsky, *Keynes*; Posner, *El análisis económico del derecho*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

@@ -195,6 +195,52 @@ solo (o lo lograría peor)**. Tres ideas la gobiernan:
   sin control) o **colaborar** (JV: un híbrido que comparte control y riesgo). La JV conviene cuando los
   beneficios de combinar recursos superan los costos de coordinarse y el riesgo de oportunismo.
 
+### El *hold-up*: el problema que explica casi toda cláusula de una JV
+
+Hay un concepto que ordena este libro entero, y viene de **Williamson**: los **activos específicos de la
+relación**. Son las inversiones que valen mucho **dentro** de la alianza y poco o nada **fuera** de ella:
+una línea de producción adaptada al producto del socio, un equipo entrenado en su tecnología, una marca
+conjunta, una red de distribución construida para un solo cliente.
+
+Y aquí está el problema: **en el momento en que haces esa inversión, quedas expuesto.** Antes de invertir
+tenías alternativas; después, tu contraparte sabe que salirte te cuesta más que aguantar. Eso permite que
+renegocie condiciones a tu costa, y se llama ***hold-up*** —literalmente, un secuestro—. No requiere mala
+fe: basta con que la otra parte advierta que tu poder de negociación cayó.
+
+De ese riesgo se derivan, una por una, las cláusulas que a un principiante le parecen pesimistas:
+
+| La cláusula | El *hold-up* que previene |
+|---|---|
+| Compromisos de aportación con calendario y penalidad | Que el socio no aporte lo prometido cuando tú ya aportaste |
+| Propiedad de la IP creada y licencias de reversión | Que al salir se quede con lo que se desarrolló con tu tecnología |
+| No competencia y no solicitación | Que use lo aprendido para competirte con tu propio equipo y clientela |
+| *Deadlock*, *put/call*, *tag/drag* | Que te deje atrapado sin salida ni precio |
+| Destino de los activos y de la clientela al disolver | Que la disolución sea el mecanismo para quedarse con el valor |
+
+> **La consecuencia práctica, y es la regla del libro:** **la entrada se diseña pensando en la salida.**
+> No por desconfianza, sino porque el momento de mayor equilibrio de poder entre las partes es **antes de
+> firmar** — y por tanto es el único momento en que puedes obtener protecciones simétricas. Un socio que
+> se niega a discutir la salida te está dando información valiosa sobre cómo será el matrimonio.
+
+### Y la razón por la que ningún contrato de JV puede ser suficientemente detallado
+
+Aquí conecta con la teoría de los **contratos incompletos** (Grossman, Hart y Moore; Nobel de Hart en
+2016), que ya viste aplicada al SPA en el
+[Libro 4](./04-Documentacion-Term-Sheet-SPA-APA-SHA.md): es imposible prever todos los estados del mundo,
+y en una JV el horizonte es de años, no de meses. Por tanto lo que importa no es la cantidad de
+definiciones, sino **quién tiene el derecho de control residual** —quién decide sobre lo que nadie previó—.
+
+De ahí una jerarquía que conviene tener clara al repartir tu tiempo de negociación: **una cláusula de
+*deadlock* bien hecha y un cuadro de mayorías de veto bien calibrado valen más que mil definiciones.**
+
+Y el contrapunto necesario, porque el derecho no lo es todo: la literatura de **contratos relacionales**
+(Macaulay, Macneil) documentó algo que cualquier empresario sabe y muchos abogados olvidan — en relaciones
+de largo plazo, **las partes resuelven la mayoría de sus diferencias sin abrir el contrato**. La confianza
+acumulada y la disposición a renegociar hacen más trabajo que la letra. El contrato no es el mecanismo
+cotidiano de gobierno: es la red de seguridad para cuando ese mecanismo falla. Escribirlo como si fuera lo
+único que existe produce alianzas rígidas; escribirlo como si nunca fuera a usarse produce socios
+atrapados.
+
 ## 7. Contexto político y regulatorio
 
 Las estructuras de colaboración operan bajo límites regulatorios importantes que el abogado debe dominar:
@@ -792,6 +838,23 @@ idea de negocio, sino por **choques culturales y de gobierno** y por **mecanismo
 tanto de la **química entre socios** como de la **calidad jurídica** de su gobierno y sus salidas. El
 abogado no puede dar la química, pero **sí** puede —y debe— dar las salidas.
 
+**Y el destino de la JV paritaria sin válvula de escape: la disolución judicial.** Cuando un 50/50 se
+bloquea y no hay mecanismo pactado, el conflicto no se resuelve en la asamblea: migra a un tribunal. Y ese
+camino tiene tres características que conviene explicarle al cliente **antes** de que acepte la paridad
+sin desempate:
+
+- **Es lento.** Años, durante los cuales la empresa no invierte, no contrata y pierde clientes.
+- **Destruye valor.** Lo que se reparte al final es una empresa deteriorada, no la que estaba en disputa.
+- **Y el resultado no lo controlan las partes.** Deciden terceros, con información incompleta y criterios
+  generales.
+
+La jurisprudencia comparada sobre sociedades cerradas —los casos de **opresión de minorías** y de
+disolución por bloqueo— existe precisamente porque este escenario es frecuente. Pero acudir a ella es
+haber perdido: **es el remedio para quien no diseñó el mecanismo.**
+
+> **La conclusión del libro, en una línea:** un 50/50 sin válvula de escape no es un acuerdo entre
+> iguales. Es una bomba de tiempo con dos llaves y ninguna cerradura.
+
 ## 19. Casos empresariales
 
 **La empresa familiar que se alía en vez de vender.** Una empresa familiar mexicana, líder regional, recibe
@@ -986,6 +1049,25 @@ extrae —o se destruye— valor, y ahí nacen los litigios al separarse.
 **Quinto: elige bien el grado de integración.** No toda colaboración debe ser una equity JV. A veces un
 **contrato de suministro o una alianza** logra el objetivo con menos costo y rigidez. El abogado sofisticado
 recomienda el **mínimo de integración** que cumple el objetivo —ni más (rigidez) ni menos (ambigüedad)—.
+
+**Y la crítica que hay que decirle al cliente antes de firmar: las JV fracasan mucho.** La tasa de
+fracaso de las alianzas es notoriamente alta ⚠️ —las estimaciones varían según cómo se defina el
+fracaso—, y las causas se repiten con una monotonía que debería alertarnos:
+
+- **Nacen por moda o por miedo:** "aliarse con el líder del sector" sin haber resuelto qué decide cada
+  quién.
+- **Asimetría de aportaciones:** uno aporta dinero y el otro "conocimiento del mercado". La segunda
+  aportación se agota; la primera queda en el balance.
+- ***Hold-up* progresivo:** la relación se desequilibra a medida que uno invierte en activos específicos.
+- **Y un sesgo conductual bien documentado:** al negociar, las partes **sobreestiman la cooperación
+  futura y subestiman el conflicto**. Están en su mejor momento, con expectativas altas, y la
+  conversación sobre la ruptura se siente desleal. Es exactamente el momento en que hay que tenerla.
+
+*Postura del Consejo:* la contribución más valiosa del abogado en una JV no es redactar bien el objeto
+social. Es **insistir, contra la incomodidad de todos, en que se pacte la salida** — y hacerlo con el
+argumento correcto, que no es de desconfianza sino de simetría: *"la salida se negocia ahora porque ahora
+los dos tienen el mismo poder; dentro de tres años, no."* Ese encuadre está en el
+[módulo 04 de la Columna VI](../../Columna-VI-Inteligencia-Humana/04-Comunicacion-de-Alto-Nivel-y-Escucha-Estrategica.md).
 
 ## 29. Debate doctrinal
 
@@ -1390,59 +1472,6 @@ repertorio** de las operaciones corporativas complejas —exactamente el especia
 > aprenderás a verlas desde el lado del **inversionista profesional** que las combina para crear —y
 > capturar— valor.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-Una *joint venture* (JV) o alianza estratégica es un **matrimonio corporativo**: fácil de casar, difícil de divorciar. El socio dedica el 80% de la negociación a dos cosas que parecen pesimistas pero son las que salvan valor: **gobierno (quién decide y cómo se rompe un empate/*deadlock*)** y **salida (*put/call*, *tag/drag*, disolución)**. La entrada la diseña pensando en la salida.
-
-### Doctrina y debate
-- **Contratos incompletos (Grossman-Hart-Moore):** ningún contrato prevé todo; por eso importan la **asignación de derechos de control residual** y los mecanismos de gobierno para lo no previsto (Nobel de Hart, 2016).
-- **Contratos relacionales (Macaulay, Macneil):** en relaciones de largo plazo, la confianza y la renegociación pesan tanto como la letra.
-- **Debate:** ¿más detalle contractual (rigidez) o más mecanismos de gobierno flexibles?
-
-### Derecho comparado
-Las JV se documentan con lógica anglosajona (*shareholders'/JV agreement*) adaptada al vehículo local. Cláusulas de *deadlock* como el ***Texas shoot-out*** o el ***Russian roulette*** (uno fija precio, el otro elige comprar o vender) son estándar internacional para romper empates 50/50.
-
-### Caso real
-***Deadlocks* que destruyen valor:** JV paritarias (50/50) sin mecanismo de desempate han paralizado empresas rentables hasta llevarlas a disolución judicial. En contraste, alianzas como **Sony Ericsson** funcionaron con gobierno claro y luego se resolvieron por compra de una parte a la otra. Lección: el 50/50 sin válvula de escape es una bomba de tiempo.
-
-### Errores que cuestan millones
-- JV **50/50 sin mecanismo de *deadlock***.
-- No pactar **no competencia, propiedad de la IP creada y destino de los activos** al disolver.
-
-### Preguntas
-- **Criterio:** ¿conviene una JV paritaria o siempre debe haber un socio con control?
-- **Entrevista:** explique un mecanismo de *Russian roulette* y cuándo lo usaría.
-- **Examen:** ¿qué es un *deadlock* y cómo se previene?
-
-### Bibliografía por niveles
-- **Básico:** modelos de *JV agreement* (firmas).
-- **Intermedio:** Wolf, *Effective International Joint Venture Management*.
-- **Avanzado:** Hart, *Firms, Contracts and Financial Structure* (contratos incompletos).
-- **Internacional:** Grossman & Hart, *The Costs and Benefits of Ownership* (JLE).
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La JV es una respuesta a la pregunta de **Coase (1937): ¿hacer, comprar o aliarse?** Cuando ni el mercado (contrato simple) ni la jerarquía (fusión) son óptimos —porque hay activos específicos, riesgo compartido y necesidad de cooperación de largo plazo— surge el **híbrido**: la JV. Su existencia se explica por los **activos específicos de la relación** (Williamson): inversiones que valen mucho dentro de la alianza y poco fuera, lo que crea riesgo de *hold-up* (que una parte "secuestre" a la otra).
-
-**El debate.** Contrato detallado (rigidez, previsión) vs. **gobernanza flexible** (mecanismos para lo no previsto). La teoría de los **contratos incompletos** (Hart, Nobel 2016) dice que como no se puede prever todo, importa quién tiene el **derecho de control residual**; de ahí que la cláusula de *deadlock* y las mayorías de veto sean más importantes que mil definiciones. Debate paralelo: JV 50/50 (paridad, pero riesgo de parálisis) vs. control claro (eficiencia, pero un socio subordinado).
-
-**Mirada de AED.** Las cláusulas de *deadlock* (**Texas shoot-out**, **Russian roulette**) son mecanismos de *revelación de valor*: obligan a cada parte a fijar un precio honesto porque no sabe si comprará o venderá (diseño à la teoría de subastas). *Tag/drag*, no competencia y propiedad de la IP creada asignan el valor de la salida —que es donde las JV se pelean.
-
-**Comparado y lección para México.** El *common law* desarrolló una rica caja de mecanismos de *deadlock* y salida que se usan globalmente. **Lección:** una JV mexicana debe importar esos mecanismos y anclarlos al vehículo local (S.A. o S. de R.L.), y prever la **disolución** con reglas claras sobre activos, clientela e IP, para no depender de la disolución judicial (lenta y destructiva de valor).
-
-**Crítica.** Las JV tienen una **alta tasa de fracaso**; la crítica señala que muchas nacen por moda ("aliarse con el líder") sin resolver la gobernanza, y que el *hold-up* y la asimetría de aportaciones las erosionan. La lección conductual: se sobreestima la cooperación futura y se subestima el conflicto.
-
-**Jurisprudencia y operación real.** Los litigios de *deadlock* y disolución de sociedades cerradas (opresión de minorías) nutren la jurisprudencia comparada. En la práctica, la JV se negocia mirando la salida: *Sony Ericsson* funcionó con gobierno claro y terminó por compra de una parte a la otra; las paritarias sin válvula de escape terminan en tribunales.
-
-**Para leer más:** Coase, *The Nature of the Firm* (1937); Williamson, *The Economic Institutions of Capitalism* (1985); Hart, *Firms, Contracts and Financial Structure* (1995).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*
