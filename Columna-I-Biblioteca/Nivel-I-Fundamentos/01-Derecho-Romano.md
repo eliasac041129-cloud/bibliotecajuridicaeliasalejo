@@ -337,6 +337,41 @@ respuestas distintas a la misma pregunta: ¿por qué este acuerdo merece protecc
 que ambas descienden, en parte, de la reflexión romana sobre la *causa* de la *traditio* y
 de las obligaciones, permite dialogar entre sistemas en una operación cross-border.
 
+
+### El debate que fundó la ciencia jurídica moderna
+
+Dos discusiones históricas explican por qué esta materia se estudia como se estudia.
+
+**Savigny frente a Thibaut: ¿se codifica o se descubre el derecho?** A comienzos del siglo XIX, Thibaut
+propuso dar a Alemania un **código racional** para el presente. Savigny se opuso: el derecho no se
+*inventa*, **brota del espíritu del pueblo** (*Volksgeist*) y se descubre estudiando su tradición histórica
+—de ahí la Escuela Histórica y el estudio científico del derecho romano—. El debate definió la ciencia
+jurídica moderna, y su eco llega hasta hoy cada vez que se discute si una reforma debe importar un modelo
+extranjero o partir de la práctica nacional.
+
+**Ihering contra el formalismo.** Más tarde, Ihering rompió con la llamada *jurisprudencia de conceptos*
+—deducir soluciones de definiciones, como si el derecho fuera geometría— y propuso la **jurisprudencia de
+intereses**: las normas son el resultado de **fines e intereses en pugna**, y hay que interpretarlas
+mirando el interés que protegen. Fue la primera crítica seria al formalismo y es, en el fondo, el
+antecedente del análisis económico del derecho que estudiarás en el
+[Libro 10 de este nivel](./10-Economia-para-Juristas.md).
+
+### Roma, vista con ojos económicos
+
+Vale la pena notar algo que suele pasarse por alto: muchas soluciones romanas eran **reducciones
+intuitivas de costos de transacción**, dos milenios antes de que alguien las formulara así.
+
+- La ***hypotheca*** —garantía **sin desposesión**— permitía obtener crédito sin paralizar el activo
+  productivo. Es exactamente el problema que México volvió a resolver, siglos después, con la prenda sin
+  transmisión de posesión y el RUG (ver
+  [Garantías](../Nivel-II-Derecho-Civil-Profundo/04-Garantias-y-Derechos-Reales-de-Garantia.md)).
+- El ***fideicommissum*** separaba **titularidad** y **beneficio**: el embrión del *trust* anglosajón y del
+  fideicomiso mexicano.
+
+> No es que los romanos fueran economistas. Es que los problemas del intercambio son permanentes, y quien
+> los resuelve bien tiende a llegar a soluciones parecidas. Ahí está la razón profunda para estudiar esta
+> materia: no es arqueología, es **el código fuente** del sistema con el que vas a trabajar.
+
 ---
 
 ## 7. Autores más importantes
@@ -401,6 +436,20 @@ del common law. Son el mejor laboratorio para el abogado transaccional internaci
 > *representations*), pero se ejecutan sobre derechos sustantivos de tradición romanista
 > (la sociedad mexicana, sus activos, sus garantías). Dominar ambas raíces es la ventaja
 > competitiva.
+
+
+**Y la lección práctica del comparado, que es la que justifica el esfuerzo.** La familia romano-germánica
+—la nuestra— razona desde la **ley y el concepto**; el *common law*, desde el **caso**. Pero ambas beben de
+Roma: el *common law* la recibió por vía del derecho canónico y de la *equity*.
+
+Por eso quien domina las categorías romanas puede **traducir** instituciones entre sistemas en lugar de
+copiarlas: reconoce que un *trust* se parece a un *fideicommissum*, que un *security interest* cumple la
+función de la *hypotheca*, que la *consideration* ocupa el lugar de la causa. Esa capacidad de traducción
+—no la erudición— es lo que vuelve útil el derecho romano en una operación transfronteriza.
+
+**Para profundizar:** Reinhard Zimmermann, *The Law of Obligations: Roman Foundations of the Civilian
+Tradition*, es la obra que mejor muestra esa continuidad; y en México, Bravo González para el estudio
+sistemático de las instituciones.
 
 ---
 
@@ -989,60 +1038,6 @@ Empresa Familiar     ★★★★☆
 *El derecho romano no se ejerce directamente, pero **estructura el pensamiento** de todo el derecho privado
 corporativo: por eso su valor "de fondo" es alto.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. No sustituye el capítulo: lo profundiza con doctrina, derecho comparado, caso real y criterio profesional. Todo artículo citado conserva su disciplina de vigencia ⟳.*
-
-### Cómo piensa un socio internacional
-Ningún socio de M&A "usa" derecho romano de forma explícita; lo usa **estructuralmente**. Cuando lee una cláusula de garantía, reconoce el *pignus* y la *hypotheca*; cuando estructura un fideicomiso de garantía reconoce el *fideicommissum*; cuando analiza quién responde con qué, piensa en *patrimonio* como universalidad. El romanista entrenado **detecta la institución bajo el nombre comercial** y por eso no se pierde en contratos anglosajones: sabe que el *trust* y el *escrow* son parientes del *fideicommissum*, y que el *security interest* del UCC hace el trabajo de la *hypotheca*.
-
-### Doctrina y debate
-- **Escuela Histórica (Savigny):** el derecho como producto del *Volksgeist* (espíritu del pueblo), no de la razón abstracta; base de la codificación alemana y de la pandectística.
-- **Jurisprudencia de intereses (Ihering, *La lucha por el derecho*):** el derecho como resultado de intereses en pugna, no de pura lógica conceptual —una crítica temprana al formalismo.
-- **Pandectística (Windscheid):** sistematizó el derecho romano en categorías que heredó el BGB y, por vía francesa y española, el Código Civil mexicano.
-- **Debate vivo:** ¿la dogmática romanista sigue siendo útil o es un lastre historicista frente al análisis económico del derecho? Toma postura.
-
-### Derecho comparado
-México pertenece a la familia **romano-germánica** (*civil law*): derecho codificado, primacía de la ley. El *common law* (EE. UU., Reino Unido) razona por **precedente** (*stare decisis*). Un abogado corporativo mexicano que negocia con un despacho de Nueva York debe entender que para el estadounidense **el caso manda**, mientras que para él **manda el código**: esa diferencia de "sistema operativo" explica el 80% de los malentendidos transfronterizos.
-
-### Caso real
-**El fideicomiso mexicano y las reestructuras de deuda.** En crisis como la de **Vitro** (concurso mercantil, 2010-2013 ⚠️ *verificar fechas*), las garantías fiduciarias —herederas directas del *fideicommissum*— fueron el campo de batalla entre acreedores. Quien dominaba la naturaleza real de la garantía (no su etiqueta) ganó posiciones. Lección: la institución romana, bien entendida, decide millones.
-
-### Errores que cuestan millones
-- Confundir **posesión** con **propiedad** al hacer *due diligence* de activos.
-- Tratar el **patrimonio** como una lista de bienes y olvidar que incluye pasivos (clave al comprar acciones vs. activos).
-
-### Preguntas
-- **Criterio:** ¿por qué un país "moderno" debería seguir enseñando un derecho de hace dos mil años?
-- **Entrevista:** explique la diferencia entre un derecho real y un derecho personal, y por qué importa en una garantía.
-- **Examen:** distinga *pignus*, *hypotheca* y *fiducia*, y su reflejo en el derecho mexicano vigente.
-
-### Bibliografía por niveles
-- **Básico:** Margadant, *El Derecho Privado Romano*; Bravo González, *Derecho Romano*.
-- **Intermedio:** Iglesias, *Derecho Romano*; Álvaro d'Ors, *Derecho Privado Romano*.
-- **Avanzado:** Fritz Schulz, *Principles of Roman Law*.
-- **Internacional:** Reinhard Zimmermann, *The Law of Obligations: Roman Foundations of the Civilian Tradition*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El derecho romano es la **gramática profunda** del derecho privado occidental: creó las categorías (obligación, contrato, propiedad, posesión, persona) con las que aún pensamos. No sobrevive porque sea antiguo, sino porque resolvió, con elegancia lógica, los problemas permanentes del intercambio y la convivencia. Estudiarlo es estudiar el **código fuente** del sistema.
-
-**El debate.** **Escuela Histórica (Savigny): el derecho brota del *Volksgeist*** (no se "inventa", se descubre en la tradición) vs. **codificación racionalista** (Thibaut: un código racional para el presente). El debate Savigny–Thibaut sobre codificar Alemania definió la ciencia jurídica moderna. Después, **Ihering** rompió con la "jurisprudencia de conceptos" (lógica pura) hacia la **jurisprudencia de intereses** (el derecho como resultado de fines e intereses en pugna) —crítica temprana al formalismo que resuena hoy en el AED.
-
-**Mirada de AED.** Muchas instituciones romanas eran **soluciones de eficiencia** intuitivas: la *hypotheca* (garantía sin desposesión) permitía financiar sin paralizar el activo; el *fideicommissum* separaba propiedad y beneficio (embrión del *trust*). Roma "descubrió" reducciones de costos de transacción que el AED apenas formalizó dos milenios después.
-
-**Comparado y lección para México.** La familia **romano-germánica** (México) razona desde la ley y el concepto; el *common law*, desde el caso. Pero ambos beben de Roma (el *common law* vía el derecho canónico y la equidad). **Lección:** dominar las categorías romanas permite al abogado mexicano "traducir" instituciones anglosajonas (*trust* ≈ *fideicommissum*; *security interest* ≈ *hypotheca*) sin perderse.
-
-**Crítica.** El romanismo ha sido acusado de **historicismo estéril** (dogmática desconectada de la realidad económica) —crítica que el propio Ihering inició y que el AED radicalizó. La respuesta: sin las categorías, no hay pensamiento jurídico riguroso.
-
-**Jurisprudencia y operación real.** El **fideicomiso de garantía** (heredero del *fideicommissum*) fue el campo de batalla de reestructuras como Vitro ⚠️. En la práctica, quien entiende la naturaleza romana de una figura (real vs. personal, propiedad vs. posesión) no se deja engañar por su etiqueta comercial.
-
-**Para leer más:** Savigny, *De la vocación de nuestro siglo para la legislación*; Ihering, *La lucha por el derecho* y *El fin en el derecho*; Zimmermann, *The Law of Obligations*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

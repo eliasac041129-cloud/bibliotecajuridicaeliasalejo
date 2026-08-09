@@ -144,3 +144,33 @@ if __name__ == '__main__':
         verificar(sys.argv[2], sys.argv[3:])
     else:
         print(__doc__)
+
+
+
+# ---------------------------------------------------------------------------
+# Utilidad de inserción (para uso desde otros scripts, no desde la CLI)
+# ---------------------------------------------------------------------------
+
+def insertar_en_seccion(path, num, texto):
+    """Inserta `texto` al final de la sección '## <num>.' de un capítulo.
+
+    Respeta el separador '---' de cierre de sección si existe: el texto se
+    coloca ANTES del separador, de modo que queda dentro de la sección.
+    Devuelve True si insertó, False si no encontró la sección.
+    """
+    t = open(path, encoding='utf-8').read()
+    ini = re.search(r'^## ' + str(num) + r'\.', t, re.M)
+    if not ini:
+        return False
+    sig = re.search(r'^## \d+\.', t[ini.end():], re.M)
+    fin = ini.end() + sig.start() if sig else len(t)
+    bloque = t[ini.start():fin]
+    # colocar antes del último separador de la sección, si lo hay
+    m = list(re.finditer(r'\n---\s*\n', bloque))
+    if m:
+        corte = m[-1].start()
+        nuevo = bloque[:corte] + '\n' + texto.rstrip() + '\n' + bloque[corte:]
+    else:
+        nuevo = bloque.rstrip() + '\n\n' + texto.rstrip() + '\n\n'
+    open(path, 'w', encoding='utf-8').write(t[:ini.start()] + nuevo + t[fin:])
+    return True

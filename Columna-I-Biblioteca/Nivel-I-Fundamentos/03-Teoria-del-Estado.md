@@ -316,6 +316,52 @@ sociales) exige un Estado que regule la economía y garantice derechos prestacio
 debate define cuánta **regulación** soporta la actividad empresarial: el corazón del
 derecho económico.
 
+
+### Las dos discusiones que hay que poder situar
+
+**Hobbes, Locke y Rousseau: el mismo pacto, tres conclusiones distintas.** Para **Hobbes**, la alternativa
+al Estado es la guerra de todos contra todos, y por eso el poder debe ser prácticamente absoluto. Para
+**Locke**, los derechos —señaladamente la **propiedad**— son **anteriores** al Estado, que existe para
+protegerlos y por tanto está **limitado** por ellos; es el fundamento intelectual del constitucionalismo y,
+de paso, del derecho de propiedad con el que trabajas. Para **Rousseau**, la legitimidad viene de la
+**voluntad general**.
+
+**Schmitt frente a Kelsen: ¿qué es la soberanía?** Para **Schmitt**, soberano es *quien decide sobre el
+estado de excepción* —una visión decisionista, donde el poder se revela en la emergencia—. Para **Kelsen**,
+la soberanía es una construcción **normativa**, sin soberano personal. Ese debate reaparece **cada vez que
+hay una emergencia** —una pandemia, una crisis de seguridad, una medida extraordinaria— y saber nombrarlo
+ayuda a distinguir una facultad excepcional legítima de una excepción que devora la regla.
+
+Y **Weber** aporta la definición operativa que más se usa: el Estado como **monopolio de la violencia
+legítima**, con su tipología de la legitimidad —tradicional, carismática y **legal-racional**—. La última es
+la del Estado moderno, y es la que un abogado invoca cada vez que exige que la autoridad actúe conforme a
+un procedimiento.
+
+### El Estado visto con ojos económicos (y por qué le importa a un abogado de negocios)
+
+Tres ideas que conectan esta materia con tu práctica:
+
+**El Estado provee bienes públicos** —seguridad, justicia, moneda— que el mercado no produce en cantidad
+suficiente porque nadie puede apropiarse de su beneficio.
+
+**Y define y protege los derechos de propiedad**, sin los cuales no hay intercambio posible. **Douglass
+North** construyó sobre esto la tesis que más debería interesar a un abogado corporativo: **las
+instituciones explican por qué unas naciones prosperan y otras no**; y **Acemoglu y Robinson** la
+popularizaron distinguiendo instituciones **inclusivas** de **extractivas**. Si eso es cierto, entonces la
+calidad del sistema jurídico no es un asunto de abogados: es una variable económica de primer orden.
+
+**Pero el Estado también es un actor con incentivos propios.** La escuela de la *elección pública*
+(**Buchanan**) advierte que puede ser **capturado** por intereses concentrados o actuar de forma
+expropiatoria. De ahí que el constitucionalismo consista, en buena medida, en poner límites a quien tiene el
+monopolio de la fuerza.
+
+> **Lo que esto significa en tu trabajo, dicho sin ingenuidad.** Cuando negocias con un regulador,
+> estructuras una inversión de largo plazo o evalúas riesgo país, estás midiendo **calidad institucional**:
+> independencia judicial, previsibilidad, ausencia de captura. Es la misma variable que explica por qué
+> Delaware ganó la competencia societaria (ver
+> [Sociedades](../Nivel-III-Derecho-Mercantil/02-Sociedades-Mercantiles-LGSM.md)): **no gana la
+> jurisdicción más permisiva, gana la más previsible.**
+
 ## 7. Autores más importantes
 
 - **Aristóteles** (*Política*): formas de gobierno; el hombre como animal político.
@@ -834,60 +880,6 @@ Empresa Familiar     ★★☆☆☆
 ```
 *Entender el Estado y sus autoridades es la base del **riesgo regulatorio**, que decide muchas operaciones.*
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El abogado corporativo trata con el Estado todos los días: regulador, recaudador, autorizador de concentraciones, contraparte en contratos públicos. Entender **de dónde viene el poder del Estado y cuáles son sus límites** es lo que separa a quien negocia una regulación de quien solo la padece. El socio piensa en **legitimidad, competencia y límites** del poder.
-
-### Doctrina y debate
-- **Contractualismo:** Hobbes (*Leviatán*: el Estado como pacto para escapar de la guerra de todos contra todos), Locke (límites y propiedad), Rousseau (voluntad general).
-- **Jellinek (*Teoría General del Estado*):** los tres elementos —**población, territorio y poder (soberanía)**— y la doctrina de la autolimitación del Estado.
-- **Weber:** el Estado como el monopolio del **uso legítimo de la violencia** física en un territorio.
-- **Schmitt vs. Kelsen:** ¿la soberanía es "quien decide sobre el estado de excepción" (Schmitt) o una construcción normativa (Kelsen)? Debate que reaparece en cada emergencia.
-
-### Derecho comparado
-**Presidencialismo** (México, EE. UU.) vs. **parlamentarismo** (Reino Unido, España): en el primero, Ejecutivo y Legislativo se eligen por separado y hay rigidez; en el segundo, el gobierno emana del parlamento y puede caer por moción de censura. El **federalismo** mexicano (art. 40 CPEUM ⟳) reparte competencias como el estadounidense, pero con un centralismo fiscal mucho mayor.
-
-### Caso real
-**La reforma judicial mexicana (DOF 15-sep-2024 ⟳):** la elección de jueces por voto popular reabrió el debate clásico sobre la **división de poderes** y la independencia judicial (Montesquieu, *El espíritu de las leyes*). Es teoría del Estado en tiempo real, con impacto directo en la seguridad jurídica que evalúa todo inversionista.
-
-### Errores que cuestan millones
-- Subestimar el **riesgo regulatorio y político** (soberanía = el Estado puede cambiar las reglas) en operaciones de largo plazo.
-- Ignorar el reparto **federal/local** de competencias al planear una operación.
-
-### Preguntas
-- **Criterio:** ¿la elección popular de jueces fortalece o debilita el Estado de derecho?
-- **Entrevista:** ¿qué es la soberanía y por qué le importa a un inversionista extranjero?
-- **Examen:** enuncie los elementos del Estado según Jellinek.
-
-### Bibliografía por niveles
-- **Básico:** Porrúa Pérez, *Teoría del Estado*.
-- **Intermedio:** Jellinek, *Teoría General del Estado*.
-- **Avanzado:** Hermann Heller, *Teoría del Estado*; Weber, *La política como vocación*.
-- **Internacional:** Bobbio, *Estado, gobierno y sociedad*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La teoría del Estado responde por qué **existe y obliga** el poder político. El **contractualismo** (Hobbes, Locke, Rousseau) lo funda en un pacto: renunciamos a parte de la libertad natural a cambio de seguridad y orden. Para el abogado corporativo, entender el origen y los **límites** del poder estatal es entender al regulador, al recaudador y al legislador con los que trata a diario.
-
-**El debate.** **Hobbes (Leviatán absoluto para escapar de la guerra) vs. Locke (poder limitado, derechos de propiedad previos al Estado) vs. Rousseau (voluntad general).** Debate del siglo XX: **Schmitt vs. Kelsen** —¿la soberanía es "quien decide sobre el estado de excepción" (Schmitt, decisionismo) o una construcción normativa sin soberano personal (Kelsen)? Reaparece en cada emergencia (pandemias, seguridad). Y **Weber**: el Estado como monopolio de la violencia legítima y la tensión entre los tres tipos de legitimidad (tradicional, carismática, legal-racional).
-
-**Mirada de AED.** El Estado existe para proveer **bienes públicos** (seguridad, justicia, moneda) que el mercado no produce, y para definir y proteger los **derechos de propiedad** sin los cuales no hay intercambio (North: las instituciones explican por qué unas naciones prosperan y otras no). Pero el Estado también es un actor con incentivos propios (*public choice*, Buchanan): puede ser capturado o expropiar.
-
-**Comparado y lección para México.** **Presidencialismo** (México/EE. UU., rígido) vs. **parlamentarismo** (RU, flexible); federalismo. **Lección:** la **calidad institucional** (independencia judicial, límites al poder, seguridad jurídica) es la variable que más pesa en el riesgo-país y en la decisión de invertir —teoría del Estado convertida en tasa de descuento.
-
-**Crítica.** El contractualismo es criticado por ficticio (nadie firmó el pacto); el Estado moderno, por su expansión (*Leviatán* fiscal y regulatorio) o, del otro lado, por su captura y debilidad.
-
-**Jurisprudencia y operación real.** La **reforma judicial 2024** (elección de jueces ⟳) es teoría del Estado en vivo: toca la división de poderes (Montesquieu) y la independencia judicial —con impacto directo en la seguridad jurídica que evalúa cada inversionista.
-
-**Para leer más:** Hobbes, *Leviatán*; Weber, *Economía y sociedad*; Douglass North, *Instituciones, cambio institucional y desempeño económico*; Acemoglu & Robinson, *Por qué fracasan los países*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*
