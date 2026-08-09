@@ -444,6 +444,37 @@ la estrategia es elegir qué NO hacer*". Una empresa que "quiere hacer de todo p
 estrategia** (se dispersa, no logra ventaja en nada). La estrategia exige **focalizar** recursos en una
 posición **única y defendible**.
 
+**El *kernel*: las tres partes que toda estrategia debe tener (Rumelt).** Porter dice qué **es** la
+estrategia; Rumelt da la herramienta para saber si lo que tienes enfrente **lo es**. Toda estrategia
+que merezca el nombre tiene un núcleo de tres piezas, y si le falta una, no es estrategia:
+
+1. **Un diagnóstico.** Una explicación de cuál es **el** problema —no la lista de todos los problemas—.
+   Simplifica una realidad abrumadora identificando qué es lo crítico. *"Perdemos margen porque nuestro
+   canal de distribución nos vuelve prescindibles ante el cliente final."*
+2. **Una política rectora.** El enfoque general elegido para enfrentar ese diagnóstico, que **excluye
+   otros**. *"Vamos a construir relación directa con el cliente final, aunque nos cueste el canal."*
+3. **Acciones coherentes.** Un conjunto de medidas que se **refuerzan entre sí** y que están
+   efectivamente coordinadas. No una lista de iniciativas de cada área.
+
+La utilidad práctica de este marco para un abogado es inmediata y poco obvia: **te permite detectar la
+mala estrategia en una sesión de consejo**, y la mala estrategia es la causa de operaciones que no
+debieron hacerse. Rumelt identifica cuatro señales:
+
+| Señal de mala estrategia | Cómo se oye en una junta |
+|--------------------------|--------------------------|
+| **Palabrería** (*fluff*) | Abstracciones que suenan sofisticadas y no dicen nada: "seremos la plataforma líder centrada en el cliente" |
+| **No enfrentar el problema** | El plan describe metas y nunca nombra el obstáculo real |
+| **Confundir metas con estrategia** | "Creceremos 20 % anual" es una meta; falta el *cómo* |
+| **Objetivos incoherentes entre sí** | Cada área trae su iniciativa y varias se estorban |
+
+> **Y aquí está la conexión con tu oficio, que es el punto.** Cuando un consejo aprueba una adquisición
+> cuya justificación es *"consolidar el sector y capturar sinergias"*, tienes delante una meta sin
+> diagnóstico —palabrería, en términos de Rumelt—. La pregunta profesional no es jurídica y aun así te
+> corresponde hacerla: *¿cuál es el problema que esta operación resuelve, y por qué esta es la mejor
+> forma de resolverlo?* Si nadie puede contestarla, estás ante el patrón 5 de
+> [Reconocer el desastre antes](../../Columna-III-Laboratorio/15-Reconocer-el-Desastre-Antes.md) — la
+> adquisición que destruye valor— y tu escepticismo informado vale más que tu redacción.
+
 **Estrategia NO es eficacia operativa (una distinción crucial de Porter).** Muchos confunden estrategia con
 "hacer las cosas bien" (ser eficiente, tener calidad, mejorar procesos). Porter lo aclara: la **eficacia
 operativa** (hacer **lo mismo** que los rivales, pero **mejor**) es necesaria pero **no es estrategia** —

@@ -163,3 +163,49 @@ Bilingüe: "Governing law / seat / language"|Ley aplicable / sede / idioma (clá
 ¿Qué es el gun-jumping?|Consumar/integrar una concentración antes de la autorización de competencia (prohibido)|M&A
 ¿Qué es la CUFIN?|Cuenta de Utilidad Fiscal Neta: identifica utilidades que ya pagaron ISR y pueden repartirse como dividendo sin ISR adicional ⚠️|Fiscal
 ¿Sede vs. lugar de audiencias en arbitraje?|La sede define la lex arbitri y los tribunales de nulidad; el lugar de audiencias es conveniencia física|DIP-Arbitraje
+
+¿Qué es el mercado por el control corporativo?|Manne (1965): los activos migran hacia quien los administra mejor; la adquisición reasigna el control cuando el management destruye valor|M&A
+¿Las tres hipótesis sobre si el M&A crea valor?|Sinergias (Bradley-Desai-Kim), agencia/imperio (Jensen), hubris (Roll 1986). El target gana la prima; el comprador a menudo pierde|M&A
+¿Qué resolvió Smith v. Van Gorkom (Del. 1985)?|El consejo debe informarse antes de aprobar una venta. De ahí nacen el fairness opinion, el acta detallada y el fiduciary out|M&A
+¿Qué es la regla de no-frustración del Takeover Code británico?|El consejo no puede desplegar defensas anti-OPA sin voto de la junta: decide el accionista, no el administrador|Comparado
+¿Diferencia entre basket deducible y de disparo (tipping)?|Deducible: el vendedor paga solo el exceso sobre el umbral. De disparo: superado el umbral paga todo desde el primer peso|M&A
+Con precio 120M, cap 10% y basket 1%, ¿cuánto cobra el comprador por una reclamación de 1.5M?|Deducible: 300,000. De disparo: 1,500,000. Diferencia de 1.2M por una palabra|M&A
+¿Por qué el survival de las reps fiscales y laborales no puede ser de 12 meses?|Porque el plazo de la autoridad para revisar es mayor: el plazo contractual no acorta el de la autoridad, solo tu derecho a cobrarle al vendedor|M&A
+¿Por qué el vendedor pelea más el escrow que el cap?|El cap es una obligación futura y contingente; el escrow es caja que no recibe hoy. No se sienten igual aunque valgan lo mismo|M&A
+¿Qué es el materiality scrape?|Elimina los calificativos de materialidad de las declaraciones solo para calcular la indemnización: se lee con calificativo para saber si hubo incumplimiento y sin él para el daño|M&A
+¿Cuándo crea valor una empresa?|Cuando ROIC > WACC. Si ROIC < WACC, crecer destruye valor aunque haya utilidades|Finanzas
+¿Diferencia entre VPN y TIR?|VPN en pesos: cuánto valor se crea. TIR en porcentaje: qué tan rentable. La TIR es manipulable por el calendario de flujos|Finanzas
+¿Qué es el ciclo de conversión de efectivo y por qué mata empresas rentables?|Los días entre pagar al proveedor y cobrar al cliente. Al crecer, el financiamiento requerido crece: la utilidad sube y la caja se agota|Finanzas
+¿Las seis causas de muerte de una empresa?|Sin caja al crecer; apalancamiento más un golpe; concentración; adquisición mal integrada; fraude y gobierno ausente; conflicto entre socios|Empresa
+¿Las cuatro respuestas posibles a un riesgo?|Evitar, reducir, transferir (contrato, seguro, cobertura) y retener con provisión|Empresa
+¿Cuál es la primera pregunta de un comité de crédito?|De dónde va a salir el flujo para pagar. La garantía es la segunda pregunta, no la primera|Financiamiento
+¿Qué mide la tasa de realización en un despacho?|El porcentaje de lo facturado que efectivamente se cobra. Dos asociados con las mismas horas valen distinto según su realización|Carrera
+¿Las tres monedas del abogado?|Ejecución (el trabajo), confianza (que te confíen lo importante), generación (traer clientes). Se asciende al dominar la siguiente|Carrera
+¿Qué es la regla anti-pseudociencia de la Columna VI?|Una señal aislada no demuestra nada; un patrón de inconsistencias justifica investigar. El lenguaje corporal NO detecta mentiras|Humano
+¿Cuál es la precisión humana para detectar engaño por la conducta?|Alrededor del 54%, apenas sobre el azar (Bond y DePaulo 2006). Los profesionales entrenados no superan a los legos|Humano
+¿Las cuatro fuentes reales del poder personal?|Alternativas (BATNA personal), competencia demostrable, información/escasez y el registro escrito. No el carácter|Humano
+¿Por qué un límite sin consecuencia no existe?|Porque es una queja: enseña que puedes ser incomodado sin costo. El límite tiene frase, consecuencia y registro|Humano
+¿Las tres lecturas de toda interacción profesional?|Contenido (qué dicen), interés (qué necesitan de verdad) y relación (poder, dependencia, miedo). Cuando 1 y 3 no coinciden, gana la 3|Humano
+¿Qué hay que preguntar cuando alguien es rígido en un punto menor?|Si lo puede decidir él. Mucha rigidez aparente es falta de autoridad, no dureza|Negociación
+¿Qué es el framing y dónde está su límite?|Presentar hechos ciertos desde el ángulo que te favorece: legítimo. Inventar el referente (fecha o comparable falso) es engaño|Negociación
+¿Cuál es la mejor pregunta para descubrir prioridades en una negociación?|La de contraste: "si tuvieras que elegir entre cerrar el 30 de junio o conservar el cap en 15%, ¿cuál?"|Negociación
+¿Qué define la mala fe en los contratos según el art. 1815 CCF?|La disimulación del error de uno de los contratantes, una vez conocido. Y el 1816: anula el contrato si fue causa determinante|Civil
+¿Cuál es la prueba de la transparencia para distinguir persuadir de manipular?|Si revelar lo que estás haciendo destruye su eficacia, es manipulación. Si no la destruye, es persuasión|Etica
+¿Cuándo un acto de protección patrimonial es anulable?|Art. 2163 CCF: si de él resulta la insolvencia del deudor y el crédito es anterior al acto|Patrimonio
+¿Qué tiene de especial la deducción de la fracción V del art. 151 LISR?|Las aportaciones de retiro quedan FUERA del tope general (menor entre 5 UMA anuales o 15% de ingresos): tienen su propio cajón|Patrimonio
+¿Por qué no tener historial de crédito es peor que tenerlo?|Sin historial no eres buen pagador: eres desconocido, y un desconocido recibe peores condiciones que un buen pagador|Patrimonio
+¿Cuánto debe ser el fondo de emergencia de un abogado independiente?|9 a 12 meses de gasto esencial, no 3 a 6: el ingreso es irregular y no hay red laboral|Patrimonio
+¿Qué seguro casi ningún abogado mexicano tiene y debería?|Responsabilidad civil profesional. Sin él, un error propio responde con el patrimonio personal|Patrimonio
+¿Cuál es el testamento según el art. 1295 CCF?|Acto personalísimo, revocable y libre. Que sea revocable desactiva la excusa de "todavía no, porque las cosas pueden cambiar"|Patrimonio
+¿La señal individual más fuerte de que una empresa va mal?|La renuncia del CFO, del contralor o del auditor. Cualquiera de las tres, sola, justifica investigar|Fracaso
+¿Cuál es la señal reina del fraude contable?|La utilidad crece y el flujo de operación no. El efectivo no se puede fabricar con asientos|Fracaso
+¿Los cinco niveles de delegación?|Ejecuta; investiga y reporta; recomienda; actúa e informa; actúa. El nivel 3 es donde más se aprende|Liderazgo
+¿La pregunta más útil ante el error de un subordinado?|¿Faltó tiempo, instrucción o criterio? Dos de las tres respuestas son responsabilidad del jefe|Liderazgo
+¿Qué determina si tu equipo te avisa temprano de un problema?|Lo que le pasó a la última persona que avisó. Castigar el reporte produce menos reportes, no menos errores|Liderazgo
+¿El kernel de Rumelt?|Diagnóstico (cuál es EL problema), política rectora (el enfoque que excluye otros) y acciones coherentes que se refuerzan|Estrategia
+¿Las cuatro señales de mala estrategia según Rumelt?|Palabrería, no enfrentar el problema, confundir metas con estrategia y objetivos incoherentes entre sí|Estrategia
+¿Qué pregunta desactiva el costo hundido en una operación?|Si esta operación llegara hoy a mi escritorio, con esta información y sin historia previa, ¿la recomendaría?|Decisión
+¿Por qué saber que existe el anclaje no protege del anclaje?|Porque opera antes de tu atención. El antídoto no es introspección: es proceso (vista exterior, pre-mortem, libreta de decisiones, checklist, precompromiso)|Decisión
+¿Qué es la vista exterior o clase de referencia?|Estimar preguntando qué pasó en los últimos veinte casos parecidos, en lugar de proyectar desde dentro del proyecto|Decisión
+¿Qué protege la business judgment rule y por qué?|El proceso de decisión, no el resultado: juzgar resultados a posteriori castiga la toma razonable de riesgo (sesgo retrospectivo)|Gobierno
+¿Qué es el gun jumping?|Coordinar precios u operar la target antes de la autorización de competencia. Se sanciona con multas y puede afectar la validez|Competencia
