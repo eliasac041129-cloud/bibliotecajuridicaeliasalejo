@@ -5,8 +5,8 @@
 > diseñado para transformar la forma de pensar, analizar, decidir y actuar de su lector, hasta
 > convertirlo en un **asesor indispensable** para quienes toman las decisiones empresariales más importantes.
 
-> **Estado: `v4.0` — "Referencia Verificada" (2026-07).** **52 tratados** (Niveles I-V + 14 Ramas
-> Esenciales) + Laboratorio (11 ejercicios) + Sistema de Repaso + **Glosario Bilingüe** + **Banco de
+> **Estado: `v4.0` — "Referencia Verificada" (2026-07).** **53 tratados** (Niveles I-V + 14 Ramas
+> Esenciales) + Laboratorio (15 ejercicios) + Sistema de Repaso + **Glosario Bilingüe** + **Banco de
 > Formatos** + **Banco de Jurisprudencia**.
 >
 > **Qué hace única a esta biblioteca (v4.0):**
@@ -26,7 +26,7 @@
 
 | Orden | Documento | Qué es |
 |-------|-----------|--------|
-| 1 | [**00 · Documento Fundacional AJE**](./00_DOCUMENTO_FUNDACIONAL_AJE.md) | **Rector supremo.** Misión, visión, las 5 columnas, los 6 principios rectores. Se relee antes de cada libro y decisión. |
+| 1 | [**00 · Documento Fundacional AJE**](./00_DOCUMENTO_FUNDACIONAL_AJE.md) | **Rector supremo.** Misión, visión, las 6 columnas, los 6 principios rectores. Se relee antes de cada libro y decisión. |
 | 2 | [**00 · Manifiesto Editorial**](./00_MANIFIESTO_EDITORIAL.md) | **Anexo de Estándar Editorial.** Cómo se escribe cada libro: estándar V3 (43 secciones), derecho comparado, control de calidad. Subordinado al Fundacional. |
 | 3 | [**01 · Hoja de Ruta AJE**](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) | **Columna II.** Estrategia profesional: qué hacer, cuándo y por qué — de la universidad a socio o fundador. |
 | 4 | [**02 · El Sistema Diario**](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) | **Plan operativo.** Qué haces hoy, a qué hora y por cuánto tiempo. Convierte todo el repo en una rutina diaria. |
@@ -36,25 +36,34 @@
 
 ---
 
-## El sistema: cinco columnas
+## El sistema: seis columnas
 
 El Proyecto AJE se compone de cinco sistemas inseparables. **No se construyen todos a la vez**:
 se levantan **en secuencia**, según lo que el lector necesita en cada etapa.
 
 | Columna | Nombre | Pregunta que responde | Estado |
 |---------|--------|------------------------|--------|
-| **I** | **Biblioteca Jurídica** | ¿Qué debo aprender? | ✅ Completa (5 niveles + Ramas Esenciales · 52 tratados) |
+| **I** | **Biblioteca Jurídica** | ¿Qué debo aprender? | ✅ Completa (5 niveles + Ramas Esenciales · 53 tratados) |
 | **II** | **Hoja de Ruta** | ¿Qué hacer, cuándo y por qué? | ✅ Completa |
-| **III** | **Laboratorio Profesional** | ¿Cómo trabaja de verdad un abogado corporativo? | ✅ Completa (3 tramos · 11 ejercicios) |
-| **IV** | **Sistema del Socio** | ¿Cómo se construye una carrera jurídica extraordinaria? | ✅ Completa (6 módulos) |
+| **III** | **Laboratorio Profesional** | ¿Cómo trabaja de verdad un abogado corporativo? | ✅ Completa (4 tramos · 15 ejercicios) |
+| **IV** | **Sistema del Socio** | ¿Cómo se construye una carrera jurídica extraordinaria? | ✅ Completa (9 módulos) |
 | **V** | **Patrimonio y Libertad Financiera** | ¿Cómo administrar la riqueza que genera la carrera? | ✅ Completa (6 módulos) |
+| **VI** | **[Inteligencia Humana y Comunicación Profesional](./Columna-VI-Inteligencia-Humana/00_INTELIGENCIA_HUMANA_AJE.md)** | ¿Cómo entiendo a las personas, me comunico y sostengo mi posición sin perder integridad? | ✅ Completa (6 módulos) |
+| **✦** | **[El Arquitecto Jurídico Empresarial](./EL-ARQUITECTO-JURIDICO-EMPRESARIAL.md)** | ¿Para qué quiero todo esto? | ✅ Cierre de la colección |
 
 > **La secuencia, en una frase:** primero **saber** (I) y **saber qué hacer** (II); luego **saber
-> hacer** (III); después **saber dirigir la carrera** (IV) y **saber administrar la riqueza** (V).
-> Con las cinco construidas, el sistema del Proyecto AJE está **completo**: lo único que queda es
-> ejecutarlo un día a la vez (ver [El Sistema Diario](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md)).
+> hacer** (III); después **saber dirigir la carrera** (IV), **saber administrar la riqueza** (V) y
+> **saber tratar con personas** (VI). La colección cierra con un libro distinto de todos los demás:
+> [*El Arquitecto Jurídico Empresarial*](./EL-ARQUITECTO-JURIDICO-EMPRESARIAL.md), que no enseña
+> técnica sino criterio sobre para qué sirve.
 
-### Estructura del repositorio (las 5 columnas como carpetas paralelas)
+> **¿Por qué una sexta columna?** Las cinco originales responden *qué saber*, *qué hacer*, *cómo
+> producir*, *cómo construir carrera* y *cómo administrar la riqueza*. **Ninguna respondía cómo tratar
+> con seres humanos** —que es donde se pierden la mayoría de las operaciones y de las carreras—. La
+> [Auditoría de la Edición Final](./AUDITORIA-EDICION-FINAL.md) §7 documenta la medición que justificó
+> crearla, y la §7.1 explica por qué esas piezas no cabían dentro de la Columna IV.
+
+### Estructura del repositorio (las 6 columnas como carpetas paralelas)
 
 ```
 bibliotecajuridicaeliasalejo/
@@ -64,7 +73,7 @@ bibliotecajuridicaeliasalejo/
 ├── 00_MANIFIESTO_EDITORIAL.md         ← anexo de estándar editorial
 ├── INDICE_MAESTRO.md                  ← mapa navegable de todo
 │
-├── Columna-I-Biblioteca/              ← QUÉ aprender (52 tratados: 38 en Niveles I-V + 14 Ramas Esenciales)
+├── Columna-I-Biblioteca/              ← QUÉ aprender (53 tratados: 39 en Niveles I-V + 14 Ramas Esenciales)
 │   ├── Nivel-I-Fundamentos/
 │   ├── Nivel-II-Derecho-Civil-Profundo/
 │   ├── Nivel-III-Derecho-Mercantil/
@@ -76,9 +85,13 @@ bibliotecajuridicaeliasalejo/
 │   ├── 02_PLAN_OPERATIVO_DIARIO_AJE.md   (el Sistema Diario)
 │   └── 03_PLAN_DE_INGLES_JURIDICO_AJE.md
 │
-├── Columna-III-Laboratorio/           ← CÓMO se trabaja (entregables)
-├── Columna-IV-Sistema-del-Socio/      ← CÓMO se construye la carrera
-├── Columna-V-Patrimonio/              ← CÓMO se administra la riqueza
+├── Columna-III-Laboratorio/           ← CÓMO se trabaja (15 ejercicios en 4 tramos)
+├── Columna-IV-Sistema-del-Socio/      ← CÓMO se construye la carrera (9 módulos)
+├── Columna-V-Patrimonio/              ← CÓMO se administra la riqueza (6 módulos)
+├── Columna-VI-Inteligencia-Humana/    ← CÓMO se trata con personas (6 módulos)
+│
+├── EL-ARQUITECTO-JURIDICO-EMPRESARIAL.md  ← cierre de la colección
+├── AUDITORIA-EDICION-FINAL.md             ← diagnóstico medido de la obra
 │
 ├── fuentes-legales/                   ← 27 leyes oficiales verificadas (UTF-8) + originales Word
 ├── Banco-de-Formatos/                 ← plantillas reales (SPA, term sheet, acta, pagaré, amparo…)
@@ -91,7 +104,7 @@ bibliotecajuridicaeliasalejo/
 ```
 
 > Los documentos **00** (constitución) y los de apoyo viven en la raíz porque son **transversales**
-> a todo el sistema; las **cinco columnas** son carpetas paralelas, cada una con su documento
+> a todo el sistema; las **seis columnas** son carpetas paralelas, cada una con su documento
 > rector `00_...` interno.
 
 ---
@@ -154,7 +167,11 @@ El detalle está en [PLANTILLA-LIBRO.md](./PLANTILLA-LIBRO.md).
 ## Estado de avance
 
 Consulta [AVANCE.md](./AVANCE.md) (tablero de control de la biblioteca y de las columnas) y
-[CHANGELOG.md](./CHANGELOG.md) (bitácora de versiones V1 → V2).
+[CHANGELOG.md](./CHANGELOG.md) (bitácora completa de versiones, de la v1.0 a la vigente).
+
+> **Edición en curso.** La [Auditoría de la Edición Final](./AUDITORIA-EDICION-FINAL.md) es el
+> diagnóstico medido de la obra: qué está terminado, qué es superficial, qué falta de verdad y qué
+> **no** debe escribirse. Rige el trabajo de la rama `RAMA-DEFINITIVA`.
 
 ---
 

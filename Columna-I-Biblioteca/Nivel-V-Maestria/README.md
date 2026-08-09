@@ -17,6 +17,14 @@
    precio (deuda neta, capital de trabajo, *locked box* vs. *completion accounts*).
 4. **Estrategia corporativa y Game Theory** — modelos de negocio, ventaja competitiva,
    teoría de juegos aplicada a la negociación y a las subastas de M&A.
+5. **La empresa por dentro** — cómo gana, pierde, crece, decide y muere una empresa: margen,
+   ciclo de efectivo, ROIC vs. WACC, la escalera de crecimiento y de capital, el consejo por
+   dentro, la administración del riesgo, y cómo piensan el CEO, el CFO, el dueño familiar, el
+   fondo y el banco.
+
+> **Orden de lectura recomendado.** Empieza por el **5 (La empresa por dentro)**: explica *por qué*
+> importan los números que los libros 2 y 3 enseñan a calcular. Es contraintuitivo leer el último
+> primero, y funciona mejor así.
 
 ## Por qué este nivel cierra el círculo
 

@@ -6,6 +6,85 @@
 
 ---
 
+## [5.0] — 2026-08 · «Edición Final: auditoría, complementación y cierre del sistema» — *rama `RAMA-DEFINITIVA`*
+
+> **Qué es la Edición Final.** La última evolución **conceptual** de la obra. No es una reconstrucción:
+> es una intervención dirigida por medición. Empezó con una **auditoría** de las 617,363 palabras
+> existentes que clasificó cada vacío por severidad —y que descartó varios que resultaron falsos—.
+> Después de esta edición, la obra solo debería necesitar actualización legislativa, jurisprudencial,
+> tecnológica y de experiencia real. Ver [`AUDITORIA-EDICION-FINAL.md`](./AUDITORIA-EDICION-FINAL.md).
+
+### Lo primero: la decisión de no destruir
+- Existía una rama **`v5.0-direccion-editorial`** sin fusionar que recortaba los tratados **78-83 %**
+  bajo la bandera de "consolidar en voz única". La auditoría midió que los apéndices redundantes que
+  decía eliminar eran apenas el **4-8 %** de cada capítulo: ~70 puntos de esa poda caían sobre el
+  **cuerpo**. **Se decidió NO fusionarla** y ejecutar su diagnóstico —que era correcto— correctamente.
+  La rama se conserva como archivo histórico.
+
+### Nuevo: Columna VI · Inteligencia Humana y Comunicación Profesional (23,458 palabras)
+- Seis módulos: psicología de la decisión, leer personas y situaciones, límites y poder personal,
+  comunicación de alto nivel y escucha estratégica, conversaciones difíciles y la frontera ética.
+- **Regla científica vinculante** y semáforo propio (**✅ replicado · ⚠️ discutido · ❌ no usar**): la
+  columna desmonta explícitamente el lenguaje corporal como detector de mentiras (54 % de acierto,
+  Bond y DePaulo), el *power posing*, el *ego depletion* y el mito del "93 % no verbal".
+- Modelo central: **las tres lecturas** (contenido · interés · relación).
+
+### Nuevo: tratado 53 · Nivel V-05 «La Empresa por Dentro» (8,542 palabras)
+- El vacío que la obra daba por supuesto: cómo gana, pierde, crece, decide y muere una empresa.
+  **ROIC > WACC**, ciclo de conversión de efectivo, seis modelos de negocio, las cuatro respuestas al
+  riesgo, los siete actores de la mesa y las señales de una empresa enferma seis meses antes.
+- Escrito ya en **voz consolidada**, sin apéndices: es el piloto del nuevo estándar.
+
+### Nuevo: cierre de la colección
+- [**El Arquitecto Jurídico Empresarial**](./EL-ARQUITECTO-JURIDICO-EMPRESARIAL.md). La obra terminaba
+  en Game Theory y no tenía cierre. Incluye lo que la obra **no puede** dar, y una sección sobre salud
+  y relaciones que ninguna columna cubría.
+
+### Laboratorio: Tramo 4 · Simuladores de decisión (25,146 → 38,414 palabras)
+- **12 · El canje**: negociar *cap*, *basket*, *escrow* y *survival* **con la aritmética a la vista**
+  (la diferencia entre *basket* deducible y de disparo son 1.2 mdp por reclamación).
+- **13 · Cuando la contraparte se echa atrás**: seis casos **sin respuesta modelo**.
+- **14 · La vida completa de una empresa**: Dulces del Valle 1998-2032 en doce decisiones; es la
+  **columna vertebral narrativa** de toda la obra.
+- **15 · Reconocer el desastre antes**: siete patrones de fracaso y diez señales tempranas.
+
+### Elevaciones
+- **Columna V · Patrimonio: 6,553 → 17,179 palabras.** Era la más delgada de la obra. Ahora con la
+  fiscalidad real del abogado mexicano (el IVA y el ISR que cobras y no son tuyos), las deducciones del
+  **art. 151 LISR** y el hallazgo de que su **fracción V tiene cajón propio**, el Buró de Crédito sin
+  mitos, los cuatro seguros incluida la RC profesional, régimen matrimonial (arts. 178-208 CCF),
+  testamento (1281-1295 CCF) y la frontera del **art. 2163 CCF**.
+- **Columna IV · Sistema del Socio: 7 → 9 módulos.** Tenía «gestionar hacia arriba» y **no su espejo**:
+  se añadieron **08 · Gestionar hacia abajo** y **09 · Crisis y formación**. El módulo 04 ahora trae la
+  aritmética completa del *leverage* y de la tasa de realización.
+- **Inserciones puntuales:** *framing* y el silencio en V-01; **VPN/NPV** como par de la TIR en V-02; el
+  ***kernel* de Rumelt** y las cuatro señales de mala estrategia en V-04.
+- **Sistema de Repaso: 165 → 206 tarjetas.**
+
+### Voz consolidada (C-1) — en curso
+- **2 de 53 tratados** sin apéndices. El piloto (IV-01 Fundamentos de M&A) pasó de 10,969 a **11,341
+  palabras (+3.4 %)** con **23 de 23 conceptos conservados**, integrando doctrina (Manne,
+  Bradley-Desai-Kim, Jensen, Roll), el AED del contrato (Coase, Akerlof, Holmes), el contraste
+  Delaware/*Takeover Code* y la traducción operativa de *Van Gorkom*. El **método está documentado y
+  validado** en la Auditoría §7.3.bis para continuarlo con el mismo estándar.
+
+### Correcciones de integridad
+- Columna IV declaraba 6 módulos y tenía 7 · el rector del Laboratorio no documentaba el Tramo 3 ·
+  «58 tratados» contra los reales en tres archivos · `CONTROL-DE-CALIDAD` seguía sellado en v2.1 con
+  pendientes ya cumplidos · la empresa ficticia tenía dos nombres («Dulces Caramelo» / «Dulces del
+  Valle»).
+
+### Vacíos que la propia auditoría descartó al verificarlos
+- **I-5 (workouts fuera de concurso): descartado.** III-06 §14.F ya cubría *workout* extrajudicial,
+  *pre-pack*, *holdout* y *distressed M&A*. La medición original contó menciones sin leer la sección.
+- **I-4 (estrategia): reducido.** V-04 sí desarrollaba Christensen y océano azul; solo faltaba el
+  *kernel* de Rumelt.
+- **§IX y §XV del mandato: parcialmente redundantes.** Finanzas y la teoría de negociación ya estaban
+  escritas; lo que faltaba era el **puente** entre negociación y cláusulas (ejercicio 12).
+- Registrar lo que **no** se escribió es parte del método: la obra no crece por volumen.
+
+---
+
 ## [4.6] — 2026-07 · «Profundidad intelectual: Cátedra del Consejo Editorial» — *rama `v4.6-profundizacion`, PR*
 
 > **Qué es la v4.6.** El salto de "manual excelente" a "obra de referencia". No agrega temas: agrega
@@ -159,7 +238,7 @@ Cada capítulo (Partes I a VI) recibió un suplemento con siete secciones:
 ### Añadido — convención ⟳ (apóstrofe de vigencia)
 - Marcador **⟳** tras **cada artículo citado** de toda la biblioteca (**982 marcas**), aplicado con un
   script idempotente y seguro (no toca bloques de código).
-- **Callout explicativo** bajo el título de los **58 tratados**, con el caso real del **art. 390 CPF derogado**.
+- **Callout explicativo** bajo el título de los **52 tratados**, con el caso real del **art. 390 CPF derogado**.
 - Símbolo definido en el **Protocolo §II**; registro en **§V/§VI**; `CONTROL-DE-CALIDAD` actualizado.
 
 ### Nota de calidad

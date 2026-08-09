@@ -16,7 +16,7 @@
   corporate law y la maestría (negociación, finanzas, valuación, estrategia). Es la **Columna I** del
   sistema.
 - **V2.0 (este documento y lo que sigue):** el proyecto deja de ser "una biblioteca" y se convierte en un
-  **sistema de cinco columnas** (conocimiento + hoja de ruta + laboratorio + sistema del socio +
+  **sistema de seis columnas** (conocimiento + hoja de ruta + laboratorio + sistema del socio +
   patrimonio), gobernado por seis **principios rectores** y por un **principio supremo de integridad
   intelectual** que ninguna obra construida con apoyo de inteligencia artificial puede permitirse ignorar.
 
@@ -102,7 +102,7 @@ México y Latinoamérica.
 ## VI. LAS CINCO COLUMNAS DEL PROYECTO (y su secuencia)
 
 El Proyecto AJE se compone de cinco sistemas inseparables. **Pero no se construyen todos a la vez:** un
-sistema de cinco columnas levantado en paralelo se diluye y no se termina ninguna. Se construyen **en
+sistema de seis columnas levantado en paralelo se diluye y no se termina ninguna. Se construyen **en
 secuencia**, según lo que el lector necesita en cada etapa de su vida (este es el **Principio de
 Secuenciación**, sección VII).
 
@@ -217,7 +217,7 @@ esos activos, **se descarta**.
 
 Ningún libro se estudia de forma aislada. Cada capítulo debe indicar: qué conocimientos previos requiere,
 qué libros lo complementan, qué aplicaciones profesionales tiene, qué operaciones lo usan, qué riesgos
-evita, qué habilidades desarrolla y **cómo se conecta con el resto del sistema** (las cinco columnas). El
+evita, qué habilidades desarrolla y **cómo se conecta con el resto del sistema** (las seis columnas). El
 valor del proyecto está en que todo es **un único sistema intelectual**, no piezas sueltas.
 
 ### Principio 6 — Bilingüismo (el Derecho corporativo de élite habla inglés)
@@ -270,7 +270,7 @@ Antes de escribir cualquier párrafo, capítulo o libro, deben responderse:
 6. ¿Cómo se aplica en una **operación empresarial real**?
 7. ¿Qué **error profesional** evita dominar este tema?
 8. ¿Qué **valor económico** genera para un cliente comprenderlo?
-9. ¿Cómo se **conecta** con el resto del sistema (las cinco columnas)?
+9. ¿Cómo se **conecta** con el resto del sistema (las seis columnas)?
 10. Si solo pudiera conservarse **una idea** del capítulo, ¿cuál sería?
 11. *(V2.0)* ¿Cada dato, cita o número es **real y verificable**, o estoy inventando? ¿Marqué lo que debe
     verificarse contra el texto vigente?

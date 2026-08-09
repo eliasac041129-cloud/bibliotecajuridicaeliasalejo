@@ -658,6 +658,46 @@ sesgos (Kahneman) te protege y te orienta:
 - **Reactive devaluation:** devaluamos una propuesta **solo porque la hizo el otro lado**. Evalúa las
   propuestas por su mérito, no por su origen.
 
+**El *framing* (el encuadre: la misma cifra, dos significados).** Ninguna propuesta se evalúa en el
+vacío: se evalúa contra el marco de referencia en que se presenta. Y el marco lo eliges tú o lo elige el
+otro. Es la aplicación directa de la aversión a la pérdida que acabas de ver: la gente responde distinto a
+la **misma** oferta según se le presente como ganancia o como pérdida evitada.
+
+- **Encuadra como pérdida evitada lo que quieres que se acepte.** *"Si no cerramos esta semana, pierdes la
+  ventana fiscal del ejercicio"* mueve más que *"si cerramos esta semana, ganas la ventaja fiscal"*.
+- **Elige el punto de comparación.** Un *cap* del 10 % es "bajo" contra el 20 % que pediste y "alto" contra
+  el 5 % que ofrecieron. **Quien fija el referente gana la discusión antes de empezarla** — y por eso la
+  primera cifra que se dice en voz alta importa tanto (ver el anclaje, arriba).
+- **Encuadra en la unidad que te conviene.** "Dos puntos porcentuales" y "veinticuatro millones de pesos"
+  pueden ser lo mismo y no se sienten igual. Ninguna de las dos formulaciones es engañosa: las dos son
+  ciertas, y elegir cuál usas es legítimo.
+- **Reencuadra lo que te presentan.** Si te dicen *"solo te pedimos un 3 % más"*, la respuesta profesional
+  traduce: *"ese 3 % son 3.6 millones y equivale a todo el escrow que negociamos"*. Reencuadrar no es
+  discutir: es cambiar la vara.
+
+> **Dónde está el límite, porque aquí lo hay.** Encuadrar es presentar **hechos ciertos** desde el ángulo
+> que favorece tu posición, y es legítimo: pasa la prueba de la transparencia —puedes decir en voz alta
+> *"lo estoy presentando así porque me conviene"* y el marco sigue siendo verdadero—. Inventar el
+> referente (una fecha falsa, un comparable que no existe) **no** es *framing*: es engaño, y ahí la
+> frontera está en el
+> [módulo 06 de la Columna VI](../../Columna-VI-Inteligencia-Humana/06-La-Frontera-Etica.md).
+
+**El silencio (la herramienta más barata y la menos usada).** Los abogados hablamos demasiado en las
+negociaciones, y hablar de más regala información y concesiones que nadie pidió.
+
+- **Después de tu propuesta, cállate.** El instinto de justificarla —"te explico por qué es razonable…"—
+  suele producir una concesión antes de que el otro haya dicho nada. Haz la oferta y espera.
+- **Después de la respuesta del otro, cuenta hasta tres.** En ese hueco incómodo la gente añade lo que no
+  pensaba decir: una restricción, una fecha real, un interés. Es la técnica de escucha del
+  [módulo 04 de la Columna VI](../../Columna-VI-Inteligencia-Humana/04-Comunicacion-de-Alto-Nivel-y-Escucha-Estrategica.md),
+  y en una mesa vale dinero.
+- **El silencio también se usa contra ti.** Si la contraparte calla después de tu propuesta esperando que
+  la mejores solo, **no la mejores**. Reformula con una pregunta —*"¿qué parte no te funciona?"*— y
+  devuélvele el turno.
+- **Y en la pausa larga:** cuando la negociación se tensa, suspender la sesión es una jugada, no una
+  derrota. Enfría el juicio de los dos lados —recuerda que el tuyo también está sesgado— y frecuentemente
+  la contraparte vuelve con una posición mejor que la que tenía al salir.
+
 **Las emociones (manejarlas, no negarlas).** Las emociones están siempre presentes:
 - **Maneja las tuyas:** no negocies con ira ni miedo; haz una **pausa** si te alteras (la emoción nubla el
   juicio). El **autocontrol** es poder.

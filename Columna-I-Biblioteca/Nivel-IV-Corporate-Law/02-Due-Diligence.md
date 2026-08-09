@@ -163,10 +163,36 @@ exclusividad, etc.—. El abogado moderno no compite con la máquina en velocida
 
 Económicamente, la due diligence es un mecanismo para reducir la **asimetría de información**, el
 problema que el premio Nobel George Akerlof describió en su célebre análisis del "mercado de los
-limones": el vendedor **siempre sabe más** sobre la empresa que el comprador. Esa asimetría, si no se
-corrige, lleva a dos males: o el comprador paga de más (porque no ve los defectos) o se retrae de
-comprar (porque desconfía y descuenta en exceso). La due diligence es la inversión que el comprador hace
-para **igualar el terreno informativo** y poder valuar con realismo.
+limones" (*The Market for Lemons*, 1970): el vendedor **siempre sabe más** sobre la empresa que el
+comprador. Esa asimetría, si no se corrige, lleva a dos males: o el comprador paga de más (porque no ve
+los defectos) o se retrae de comprar (porque desconfía y descuenta en exceso). La due diligence es la
+inversión que el comprador hace para **igualar el terreno informativo** y poder valuar con realismo.
+
+**Vista así, la DD no es una revisión: es una tecnología de reducción de asimetría.** Y no trabaja
+sola: forma un sistema con las *representations & warranties* y el *disclosure*, cuya función conjunta
+es **convertir información privada en información oponible** —es decir, en algo que genera consecuencias
+si resulta falso—. Ese es el mecanismo económico exacto por el que una operación puede cerrarse a un
+precio justo cuando las dos partes saben cosas distintas.
+
+De ahí se deriva la regla operativa más útil de este libro, y conviene fijarla desde el principio:
+**todo hallazgo de la DD tiene tres destinos posibles y solo tres.**
+
+| Naturaleza del riesgo | Su destino contractual |
+|---|---|
+| **Cuantificable** (sé cuánto vale) | **Ajuste de precio** |
+| **Contingente** (puede o no ocurrir) | **Indemnización específica** y su respaldo (*escrow*, retención) |
+| **Inaceptable** (no lo asumo) | **Condición de cierre** o derecho de retirada (*walk-right*) |
+
+Un hallazgo que no llega a ninguno de los tres es papel muerto: costó honorarios y no protege a nadie.
+Es la prueba a la que hay que someter cada renglón del reporte, y la razón por la que este libro insiste
+en que la DD se juzga por lo que **se traduce**, no por lo que se revisa (§28).
+
+Y el mercado añadió una cuarta salida que no existía hace veinte años: el **seguro de manifestaciones y
+garantías** (*R&W insurance*), que traslada el riesgo a una aseguradora especializada. Es un ejemplo
+notable de cómo el mercado aprende a **precificar incertidumbre jurídica**: hoy es estándar en
+operaciones grandes en Estados Unidos y Europa y cada vez más frecuente en México ⚠️, y su efecto
+práctico es permitir **salidas limpias** al vendedor —lo que desatora negociaciones que parecían
+muertas, como se ve en el [ejercicio 12 del Laboratorio](../../Columna-III-Laboratorio/12-Negociar-el-Contrato-Clausula-por-Clausula.md)—.
 
 Tiene, además, una clara **lógica de costo-beneficio**. La due diligence cuesta dinero (honorarios de
 abogados, contadores, asesores; tiempo de los ejecutivos) y, sobre todo, **tiempo** —que en un deal es
@@ -802,6 +828,22 @@ por la prisa de cerrar). *Lección:* la **Quality of Earnings** importa más que
 se paga un múltiplo alto por una empresa de software; y ninguna presión por cerrar justifica saltarse la
 verificación de los ingresos.
 
+**Bayer – Monsanto (2018), el caso del riesgo que sí se vio y no se dimensionó.** Es el complemento
+perfecto del anterior y enseña algo distinto. Bayer adquirió Monsanto sabiendo que existía litigio en
+torno al glifosato: **el hallazgo no se le escapó a nadie**. Lo que falló fue el **dimensionamiento**: la
+exposición terminó traduciéndose en miles de demandas y provisiones por decenas de miles de millones de
+dólares ⚠️ *verificar*, muy por encima de lo previsto al firmar.
+
+> **La lección conjunta de los dos casos, y es la más importante del libro.** HP–Autonomy enseña que
+> **lo que la DD no ve, el comprador lo paga**. Bayer–Monsanto enseña algo más incómodo: **lo que la DD
+> ve pero calcula mal, también lo paga.** Detectar un riesgo es la mitad del trabajo; la otra mitad es
+> ponerle un número y un rango —y sobre eso, recuerda del
+> [módulo 01 de la Columna VI](../../Columna-VI-Inteligencia-Humana/01-Psicologia-de-la-Decision.md) que
+> tus rangos son sistemáticamente demasiado estrechos, y que conviene ensancharlos a propósito—.
+>
+> Es también la razón por la que un litigio latente rara vez se resuelve con una indemnización genérica:
+> requiere su propia cláusula, su propio tope y su propia fuente de pago.
+
 **Bank of America – Countrywide / Merrill Lynch (2008).** En plena crisis financiera, adquisiciones hechas
 con DD apresurada dejaron a Bank of America con **pasivos legales y regulatorios** enormes (heredados de
 las prácticas hipotecarias y de los activos tóxicos de las empresas adquiridas), que costaron decenas de
@@ -1025,6 +1067,23 @@ el que usa la herramienta para liberar tiempo y concentrarse en el criterio, **m
 dominarla con criterio es lo que forma al socio. Quien aprende a **ver el riesgo y a traducirlo** temprano,
 acelera su carrera más que quien solo "redacta contratos".
 
+**Quinto, y es la crítica que más nos importa: la DD puede producir una falsa sensación de control.** Se
+revisaron doce mil documentos, hay un reporte de cuatrocientas páginas, y aun así nadie vio el fraude
+(HP–Autonomy) ni midió bien la externalidad latente (Bayer–Monsanto). El volumen de la revisión se
+confunde con la calidad del juicio, y son cosas distintas.
+
+Y hay una razón conductual detrás, no solo técnica. Una vez que el equipo decidió que la operación va, la
+información nueva deja de evaluarse y empieza a clasificarse: lo que confirma se examina con benevolencia
+y lo que contradice se examina con lupa hasta encontrarle un defecto. Es el **sesgo de confirmación**,
+agravado por el hecho de que **casi todos los que rodean la mesa —incluidos los abogados— tienen un
+incentivo económico en que la operación cierre**. Nadie miente; todos son asimétricamente rigurosos.
+
+> **La defensa no es la buena intención: es el proceso.** Un *pre-mortem* antes de aprobar —"estamos a
+> dieciocho meses del cierre y esto fue un desastre; cada uno escriba por qué"— rescata en veinte minutos
+> los hallazgos incómodos que la fiebre de la operación había vuelto impolíticos. Está desarrollado en el
+> [módulo 01 de la Columna VI](../../Columna-VI-Inteligencia-Humana/01-Psicologia-de-la-Decision.md),
+> junto con la pregunta que desactiva el costo hundido.
+
 ## 29. Debate doctrinal
 
 - **¿*Caveat emptor* o deber de revelar? (common law vs. civil law).** El common law parte de que el
@@ -1037,10 +1096,20 @@ acelera su carrera más que quien solo "redacta contratos".
   Se resuelve **expresamente** en el SPA. *Postura del Consejo:* el comprador prefiere cláusula
   *pro-sandbagging* (puede reclamar aunque supiera); el vendedor, lo contrario; quien tiene más poder de
   negociación impone su preferencia. Es un punto donde la DD y el contrato se cruzan de forma fascinante.
-- **¿Hasta dónde llega la DD razonable?** ¿Cuánto es suficiente? El debate sobre el **alcance óptimo**
-  enfrenta la exhaustividad (más seguridad) contra el costo y el tiempo (más fricción). *Postura del
-  Consejo:* la respuesta es la **proporcionalidad al riesgo** (la matriz probabilidad × impacto), no un
-  estándar fijo.
+- **¿Hasta dónde llega la DD razonable? ¿Exhaustiva o basada en materialidad (*risk-based*)?** La escuela
+  tradicional pedía revisarlo todo; la moderna —hoy dominante— sostiene que el alcance se decide con un
+  análisis costo-beneficio: **el costo marginal de revisar debe justificarse por el riesgo evitado**.
+  *Postura del Consejo:* la respuesta es la **proporcionalidad al riesgo** (la matriz probabilidad ×
+  impacto), no un estándar fijo. Y una nota de oficio: el *data room* virtual y la revisión asistida por
+  herramientas han abaratado tanto el rastreo que el cuello de botella se movió —ya no está en encontrar,
+  está en **decidir qué importa**—.
+
+> **Dónde desemboca todo esto en la práctica: la *issue list*.** El producto final de una DD útil no es
+> el reporte: es la lista de asuntos —jerarquizada— que se lleva a la mesa y **se negocia línea por
+> línea** contra el SPA. Cada renglón carga su hallazgo, su cuantificación y su destino de los tres del
+> §6. Ese documento es el puente real entre este libro y el
+> [Libro 4](./04-Documentacion-Term-Sheet-SPA-APA-SHA.md), y su negociación concreta se entrena en el
+> [ejercicio 12 del Laboratorio](../../Columna-III-Laboratorio/12-Negociar-el-Contrato-Clausula-por-Clausula.md).
 - **DD vs. seguros de reps & warranties (*W&I insurance*).** Tendencia creciente: trasladar el riesgo de
   las reps a un **seguro** (*Warranty & Indemnity insurance*) en vez de a un *escrow*. *Debate:* ¿el
   seguro reduce el incentivo a hacer una DD rigurosa? *Postura del Consejo:* no debería —las aseguradoras
@@ -1422,58 +1491,6 @@ músculo mental que define al gran abogado de transacciones: **ver el riesgo don
 > **Libro 3 · Estructuras: fusiones, escisiones y adquisiciones**, donde aprenderás, con precisión
 > técnica, **cómo** se compra y se combina una empresa.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-El *due diligence* (DD) es **comprar información para asignar riesgo**. El socio no busca "revisar todo": busca los ***deal breakers*** (contingencias que matan la operación) y los ***deal points*** (hallazgos que cambian precio o cláusulas). Cada hallazgo tiene tres destinos posibles: **ajuste de precio, indemnización específica o condición de cierre**. El DD sin conexión con el SPA es papel muerto.
-
-### Doctrina y debate
-- **Asimetría de información (Akerlof, *The Market for Lemons*):** el vendedor sabe más que el comprador; el DD y las *representations & warranties* existen para cerrar esa brecha.
-- **Debate:** ¿DD exhaustivo (costoso, lento) o DD basado en riesgo/materialidad? La tendencia es **risk-based** y por *data room* virtual con IA.
-
-### Derecho comparado
-En EE. UU. el DD alimenta las *reps & warranties* y el *disclosure schedule*; el mercado desarrolló el seguro **R&W (Representations & Warranties Insurance)** que traslada el riesgo a una aseguradora —hoy común también en México en *deals* grandes. En la UE, ciertos pasivos (ambientales, laborales) pesan más.
-
-### Caso real
-**Bayer–Monsanto (2018):** el DD **no dimensionó** el riesgo del litigio por glifosato; Bayer heredó miles de demandas y provisiones por decenas de miles de mdd ⚠️ *verificar*. **HP–Autonomy (2011):** HP alegó fraude contable no detectado y castigó ~8,800 mdd ⚠️. Lección: lo que el DD no ve, el comprador lo paga.
-
-### Errores que cuestan millones
-- DD que **no se traduce** en cláusulas del SPA (hallazgo sin remedio).
-- No revisar **cambio de control** en contratos clave (un cliente o crédito puede terminar por la adquisición).
-
-### Preguntas
-- **Criterio:** ¿conviene un DD exhaustivo o uno basado en materialidad? ¿Cuándo cambia?
-- **Entrevista:** encontró una contingencia fiscal de $10M en el DD; ¿qué tres cosas puede hacer en el SPA?
-- **Examen:** ¿qué es una cláusula de cambio de control y por qué se revisa en DD?
-
-### Bibliografía por niveles
-- **Básico:** guías de *due diligence* de firmas (checklists).
-- **Intermedio:** Reed, Lajoux, *The Art of M&A Due Diligence*.
-- **Avanzado:** Akerlof, *The Market for Lemons* (fundamento económico).
-- **Internacional:** ABA, *Model Stock Purchase Agreement with Commentary*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** El *due diligence* es la respuesta jurídica al problema de los **«limones» de Akerlof** (1970): cuando el vendedor sabe más que el comprador sobre la calidad del activo, el mercado se contrae porque el comprador teme pagar de más. El DD, las *reps & warranties* y el *disclosure* son **tecnologías de reducción de asimetría**: convierten información privada en información oponible, permitiendo que la transacción ocurra a un precio justo.
-
-**El debate.** ¿DD exhaustivo o basado en materialidad? La escuela "tradicional" pedía revisarlo todo; la moderna —dominante— sostiene que el DD debe ser **risk-based**: el costo marginal de revisar debe justificarse por el riesgo evitado (un análisis coste-beneficio puro). Segundo debate: ***sandbagging*** — si el comprador descubrió en el DD que una *rep* era falsa, ¿puede igualmente reclamar tras el cierre? La postura *pro-sandbagging* (Delaware, por defecto) dice sí (el riesgo se pactó); la *anti-sandbagging* lo niega por buena fe. Se negocia expresamente.
-
-**Mirada de AED.** El DD reasigna el **riesgo de lo desconocido** mediante tres palancas: ajuste de precio (riesgo cuantificable), indemnización/*escrow* (riesgo contingente) y condición de cierre o *walk-right* (riesgo inaceptable). El **seguro de *reps & warranties*** (R&W insurance) es una innovación de mercado que traslada ese riesgo a un tercero especializado —un ejemplo de cómo el mercado "precifica" incertidumbre jurídica.
-
-**Comparado y lección para México.** En EE. UU. el DD alimenta un *disclosure schedule* detallado que **modula** las *reps*; el R&W insurance es estándar. En el *civil law*, el régimen legal de **saneamiento por vicios y evicción** ofrece una red de seguridad que el *common law* no tiene, pero es más rígida. **Lección:** México puede combinar lo mejor —contractualizar *reps* al estilo anglosajón sin renunciar al saneamiento legal como piso.
-
-**Crítica.** El DD puede generar una **falsa sensación de control**: revisó miles de documentos pero no vio el fraude (HP–Autonomy) ni dimensionó una externalidad latente (Bayer–Monsanto/glifosato). La crítica conductual (Kahneman) advierte del *sesgo de confirmación*: el equipo que "quiere el deal" minimiza los hallazgos incómodos.
-
-**Jurisprudencia y operación real.** En Delaware, casos sobre *sandbagging* y sobre el alcance de la MAC (*Akorn v. Fresenius*, 2018 ⚠️ *verificar*: la primera vez que un tribunal de Delaware permitió abandonar un *deal* por MAC) definen hoy cómo se redacta el DD y sus consecuencias. En la práctica, el DD desemboca en la ***issue list*** que se negocia línea por línea en el SPA.
-
-**Para leer más:** Akerlof, *The Market for Lemons* (QJE, 1970); Reed & Lajoux, *The Art of M&A Due Diligence*; opinión *Akorn v. Fresenius* (Del. Ch. 2018).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

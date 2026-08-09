@@ -8,7 +8,7 @@ import markdown
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
-FECHA = "Julio de 2026"
+FECHA = "Agosto de 2026"
 
 # ---------- escudo UNAM inline ----------
 svg = open("LIBRO/assets/escudo-unam.svg", encoding="utf-8").read()
@@ -59,7 +59,7 @@ PARTES = [
  ("Parte II", "Derecho Civil Profundo", "Nivel-II-Derecho-Civil-Profundo"),
  ("Parte III", "Derecho Mercantil", "Nivel-III-Derecho-Mercantil"),
  ("Parte IV", "Derecho Corporativo (Corporate Law)", "Nivel-IV-Corporate-Law"),
- ("Parte V", "Maestría: Negociación, Finanzas y Estrategia", "Nivel-V-Maestria"),
+ ("Parte V", "Maestría: Negociación, Finanzas, Estrategia y Empresa", "Nivel-V-Maestria"),
  ("Parte VI", "Ramas Esenciales del Ejercicio", "Ramas-Esenciales"),
 ]
 

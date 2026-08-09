@@ -183,6 +183,31 @@ autorizaciones), no la que minimiza una sola variable. Un abogado que solo piens
 puede recomendar un *asset deal* que dispare los impuestos y haga perder contratos clave: el equilibrio,
 no el extremo, es la respuesta económica correcta.
 
+**Por qué existen tantas figuras, dicho en una línea.** La elección de estructura es un problema de
+**minimización de costos totales** en cuatro monedas simultáneas: fiscales, de transferencia
+(consentimientos de terceros y cláusulas de *change of control*), de asunción de pasivos y regulatorios.
+Y la razón de que coexistan la fusión, la escisión, el *share deal*, el *asset deal* y la aportación es
+que **ninguna domina en todos los escenarios**: cada figura internaliza uno de esos costos y externaliza
+otro. No hay una estructura mejor; hay una estructura mejor **para este caso**.
+
+**Y por qué el derecho concede la neutralidad fiscal.** Gravar una reorganización que no realiza valor
+económico real —que solo reordena la propiedad de los mismos activos— equivaldría a poner un **impuesto a
+la reasignación**: desincentivaría operaciones eficientes. En clave de Coase, el sistema procura no
+interferir con la migración de los activos hacia su uso más valioso. De ahí el límite natural del
+beneficio: cuando la operación **solo** persigue el efecto fiscal y no reordena nada económicamente real,
+la sustancia se vuelve el filtro. En México ese filtro tiene nombre y artículo:
+
+> **Artículo 5o.-A del Código Fiscal de la Federación** ⟳ ✅ *(cotejado verbatim contra el texto oficial
+> en [`fuentes-legales/`](../../fuentes-legales/CFF-Codigo-Fiscal-de-la-Federacion.txt))*:
+>
+> *"Los actos jurídicos que carezcan de una razón de negocios y que generen un beneficio fiscal directo o
+> indirecto, tendrán los efectos fiscales que correspondan a los que se habrían realizado para la
+> obtención del beneficio económico razonablemente esperado por el contribuyente."*
+>
+> Es la **razón de negocios** convertida en norma general antiabuso, y es la frontera que todo diseño de
+> estructura debe poder cruzar con la cabeza en alto. Se desarrolla en
+> [Fiscal Corporativo](./09-Fiscal-Corporativo-y-Planeacion-Fiscal-de-Operaciones.md).
+
 ## 7. Contexto político y regulatorio
 
 Las estructuras de reorganización están condicionadas por varios marcos regulatorios que el abogado debe
@@ -853,6 +878,21 @@ procedimiento concursal) precisamente para **adquirir los activos sanos sin here
 pasivos. *Lección:* la estructura **asset deal** es la herramienta natural para aislar valor en
 situaciones de riesgo de pasivos elevado (conecta con el libro de Concurso Mercantil del Nivel III).
 
+**Grupo Modelo – AB InBev (2013, ~20,100 mdd ⚠️ *verificar*), o quién decide de verdad la estructura.**
+Para obtener la autorización antimonopolio en Estados Unidos, la operación tuvo que incorporar la
+**desinversión del negocio de Corona en ese mercado** —vendido a Constellation Brands— como condición
+estructural.
+
+> **La lección es la más importante de este libro y contradice la intuición del principiante:** la
+> estructura no la dicta la fiscalidad. La puede **rediseñar la autoridad de competencia**, y lo hace en
+> las operaciones grandes. Un diseño impecable en el eje fiscal y de pasivos puede ser inviable en el eje
+> regulatorio, y por eso los cuatro ejes del §6 se analizan **en paralelo desde el primer día**, no en
+> secuencia. Ver [Competencia Económica y Control de Concentraciones](./10-Competencia-Economica-y-Control-de-Concentraciones.md).
+>
+> Y su corolario práctico: en toda operación con riesgo de concentración, el diseño debe incluir de
+> antemano **qué se está dispuesto a desinvertir** (los *remedies*) y qué no. Llegar a esa conversación
+> sin haberla preparado es negociar la estructura desde la debilidad.
+
 ## 19. Casos empresariales
 
 **El grupo familiar que se reorganiza antes de crecer.** Una familia tiene, en **una sola sociedad**, una
@@ -941,6 +981,22 @@ idénticas aquí: la ***reverse triangular merger*** (el comprador crea una subs
 la *target*, sobreviviendo la *target* como filial del comprador —preserva los contratos de la *target* y
 evita votos individuales—) y el ***scheme of arrangement*** británico. Aparecen constantemente en deals
 internacionales y en la estructura de adquisiciones de empresas con presencia en EE.UU. o Reino Unido.
+
+**La ingeniería estadounidense, y qué debería importar a México.** El *Internal Revenue Code* dedica su
+**Subcapítulo C** a las reorganizaciones y tipifica varias (las conocidas como **tipo A, B y C**), cada
+una con sus requisitos para preservar la neutralidad fiscal. Es, con distancia, el catálogo más
+sofisticado del mundo, y su rasgo interesante no es fiscal sino **contractual**: figuras como el
+*reverse triangular merger* se diseñaron precisamente para que **la sociedad objetivo sobreviva** y por
+tanto sus contratos, permisos y licencias **no se disparen** por cambio de control.
+
+México reconoce la fusión y la escisión (LGSM ⟳) con neutralidad fiscal condicionada al cumplimiento de
+requisitos, pero sin esa riqueza de vehículos.
+
+> **La lección aprovechable, y es concreta:** cuando diseñes una adquisición en la que los contratos
+> clave tienen cláusulas de *change of control* —el caso del cliente concentrado que aparece en todo este
+> nivel— la pregunta correcta no es *"¿share o asset?"*, sino **"¿qué estructura permite que la sociedad
+> objetivo siga siendo la misma persona jurídica?"**. Esa es la lógica del *reverse triangular merger*, y
+> es importable como razonamiento aunque el vehículo no exista aquí con ese nombre.
 
 ## 23. Derecho mexicano
 
@@ -1048,6 +1104,25 @@ complican tanto la estructura (decenas de sociedades, cadenas interminables) que
 ingobernable y costoso de administrar. La **elegancia** —la estructura más simple que logra el objetivo—
 es una virtud, no un lujo.
 
+**Y la crítica de fondo, que el Consejo asume aunque incomode a la profesión.** La sofisticación
+estructural habilita el **arbitraje fiscal y regulatorio**: estructuras que existen únicamente para
+minimizar impuestos, sin sustancia económica. Es lo que el proyecto **BEPS** y las normas generales
+antiabuso (**GAAR**, en México el art. 5o.-A CFF ⟳) vienen a combatir, y la crítica es legítima: el
+ingenio estructural puede desplazar valor del fisco —y por tanto de la sociedad— hacia los accionistas
+**sin crear riqueza real**.
+
+Nuestra postura no es que el abogado deba renunciar a estructurar con eficiencia: es que debe saber
+distinguir dos cosas que se parecen mucho en un diagrama y no se parecen en nada ante una autoridad. Una
+estructura que reordena un negocio real y de paso es eficiente fiscalmente, se defiende. Una que no
+reordena nada y solo produce un beneficio fiscal, no —y el profesional que la diseña está construyendo un
+pasivo latente para su cliente y para sí mismo—. Es el mismo criterio del
+[módulo 06 de la Columna VI](../../Columna-VI-Inteligencia-Humana/06-La-Frontera-Etica.md): la pregunta no
+es si es defendible hoy, sino si lo será cuando alguien lo examine sabiendo cómo terminó.
+
+**La matriz de tres columnas con la que se decide en la práctica.** Cuando el diagrama se vuelve
+discutible, un socio ordena la decisión así: **fiscal · pasivos · aprobaciones**. Se escriben las tres
+columnas para cada estructura candidata y se elige la que mejor equilibra, no la que gana en una sola.
+
 ## 29. Debate doctrinal
 
 - **Share deal vs. asset deal: ¿quién soporta los pasivos "que siguen al negocio"?** Debate sobre el
@@ -1069,6 +1144,22 @@ es una virtud, no un lujo.
   law (triangular mergers, schemes) o la seguridad de las figuras tasadas del civil law? *Postura del
   Consejo:* cada sistema tiene su virtud; el abogado mexicano de élite debe **conocer ambos** porque opera
   en deals transfronterizos donde conviven.
+- **¿La neutralidad fiscal de las reestructuras es un incentivo legítimo o una puerta a la elusión?** El
+  argumento a favor es el del §6: no gravar lo que no realiza valor evita un impuesto a la eficiencia. El
+  argumento en contra es que la frontera entre reorganizar y disfrazar es porosa y se explota. *Postura del
+  Consejo:* la neutralidad es correcta como principio y **la razón de negocios del art. 5o.-A CFF ⟳ es su
+  contrapeso necesario**, no su enemigo. Un sistema con neutralidad y sin cláusula antiabuso invita al
+  abuso; uno con antiabuso y sin neutralidad castiga la reorganización honesta.
+- **El límite del *asset deal*: la responsabilidad del sucesor.** Aquí hay un punto que suele
+  sorprender al comprador. Elegir activos no siempre aísla del todo: distintos ordenamientos y materias
+  imponen que **ciertos pasivos sigan al negocio** aunque no se hayan asumido en el contrato —de forma
+  característica en materia **laboral** (la sustitución patronal), **fiscal** y **ambiental**—. La razón es
+  de política pública: si bastara con comprar los activos para dejar atrás las obligaciones, el *asset
+  deal* sería un instrumento de fraude a los acreedores. *Postura del Consejo:* nunca se venda al cliente
+  el *asset deal* como un blindaje absoluto; es un filtro **fuerte y con excepciones nombradas**, y esas
+  excepciones se cubren con indemnidad específica, no con la estructura. Ver
+  [Derecho Laboral](../Ramas-Esenciales/05-Derecho-Laboral.md) y
+  [Derecho Ambiental](../Ramas-Esenciales/10-Derecho-Ambiental.md).
 
 ## 30. Errores comunes
 
@@ -1458,59 +1549,6 @@ buscan para sus operaciones más importantes.
 > cláusula, el Term Sheet, el SPA, el APA y el SHA —el lenguaje en el que se escriben los deals—. La cadena
 > del M&A se completa: **investigar → estructurar → documentar**.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-La **estructura** es donde el abogado corporativo crea (o destruye) más valor: la misma operación —comprar un negocio— puede costar millones de más o de menos según se haga por **acciones (*share deal*) o activos (*asset deal*)**, por **fusión, escisión** o mediante un *holding*. El socio piensa en cuatro ejes simultáneos: **riesgo (pasivos), fiscalidad, control y aprobaciones regulatorias**. La estructura óptima equilibra los cuatro.
-
-### Doctrina y debate
-- ***Share deal* vs. *asset deal*:** en el primero se hereda la sociedad con **todos sus pasivos** (ocultos incluidos); en el segundo se eligen activos y pasivos, pero se disparan costos fiscales y de transferencia y consentimientos de terceros.
-- **Fusión (por absorción o por integración) y escisión:** neutralidad fiscal si se cumplen requisitos (⟳ verificar CFF/LISR).
-- **Debate:** ¿la neutralidad fiscal de las reestructuras es un beneficio legítimo o una puerta a la elusión? Conecta con la **razón de negocios** (art. 5-A CFF ⟳).
-
-### Derecho comparado
-En EE. UU. la **reorganización tipo A/B/C** del *Internal Revenue Code* define la neutralidad fiscal; existen figuras (*triangular mergers*, *reverse triangular merger*) diseñadas para preservar contratos y beneficios. México reconoce fusión y escisión (LGSM ⟳) con su propia neutralidad fiscal condicionada.
-
-### Caso real
-**Grupo Modelo–AB InBev (2013, ~20,100 mdd ⚠️ *verificar*):** para obtener luz verde antimonopolio en EE. UU. (DOJ), la estructura tuvo que incluir la **desinversión de Corona en EE. UU.** (venta a Constellation Brands). Lección: la estructura no la dicta solo la fiscalidad; la **autoridad de competencia rediseña el deal**.
-
-### Errores que cuestan millones
-- Elegir *share deal* sin blindaje y **heredar un pasivo fiscal/ambiental** oculto.
-- Perder la **neutralidad fiscal** por incumplir un requisito formal de la fusión/escisión (⟳).
-
-### Preguntas
-- **Criterio:** ¿*share* o *asset deal* para comprar una empresa con litigios ambientales? Justifique.
-- **Entrevista:** ¿por qué un comprador preferiría un *reverse triangular merger*?
-- **Examen:** distinga fusión por absorción y escisión.
-
-### Bibliografía por niveles
-- **Básico:** notas de estructuración de M&A (firmas mexicanas).
-- **Intermedio:** Depamphilis, *Mergers & Acquisitions*.
-- **Avanzado:** Ginsburg & Levin, *Mergers, Acquisitions, and Buyouts* (fiscal-estructural).
-- **Internacional:** IRC Subchapter C (reorganizaciones), materiales comparados.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La elección de estructura es, en el fondo, un problema de **minimización de costos totales**: fiscales, de transferencia (consentimientos de terceros, *change of control*), de asunción de pasivos y regulatorios. La razón de que existan tantas figuras (fusión, escisión, *share/asset deal*, aportación) es que ninguna domina en todos los escenarios: cada una **internaliza** un costo y externaliza otro.
-
-**El debate.** *Share deal* vs. *asset deal* encarna un dilema clásico de asignación de riesgo: en el *share deal* el comprador hereda **todos** los pasivos (eficiencia de continuidad, pero riesgo de contingencias ocultas); en el *asset deal* elige activos (control del riesgo, pero costos fiscales y de consentimiento altos, y riesgo de **responsabilidad del sucesor** que el derecho impone para evitar fraudes a acreedores). El debate fiscal-corporativo: ¿hasta dónde la **neutralidad fiscal** de las reestructuras es un incentivo legítimo a la eficiencia y dónde empieza la elusión (razón de negocios, art. 5-A CFF ⟳)?
-
-**Mirada de AED.** La neutralidad fiscal existe porque gravar una reorganización que no realiza valor económico real (solo reordena la propiedad) **desincentivaría** operaciones eficientes: sería un impuesto a la reasignación de activos. El derecho, en clave de Coase, busca no interferir con la migración de activos hacia su uso más valioso —salvo que la operación **solo** persiga el beneficio fiscal (ahí la sustancia económica se vuelve el filtro).
-
-**Comparado y lección para México.** El **IRC estadounidense** (reorganizaciones tipo A/B/C, *forward/reverse triangular mergers*) es la ingeniería más sofisticada del mundo para preservar neutralidad y contratos; el *reverse triangular merger* se diseñó precisamente para que la *target* sobreviva y sus contratos no se "disparen" por cambio de control. México reconoce fusión y escisión con neutralidad condicionada, pero sin esa riqueza de vehículos. **Lección:** importar la lógica del *reverse triangular merger* al diseñar adquisiciones donde los contratos clave tienen cláusulas de *change of control*.
-
-**Crítica.** La sofisticación estructural genera **arbitraje regulatorio y fiscal**: estructuras que existen solo para minimizar impuestos sin sustancia (combatidas por BEPS y las GAAR). La crítica: el ingenio estructural puede desplazar valor del fisco (y de la sociedad) hacia los accionistas sin crear riqueza real.
-
-**Jurisprudencia y operación real.** El caso **Grupo Modelo–AB InBev** mostró que la estructura la rediseña la **autoridad de competencia**: la desinversión de Corona en EE. UU. fue condición estructural, no fiscal. En reestructuras de deuda (Vitro), la estructura intragrupo de garantías definió la prelación. En la práctica, la estructura se decide en una matriz de tres columnas: **fiscal · pasivos · aprobaciones**.
-
-**Para leer más:** Ginsburg & Levin, *Mergers, Acquisitions, and Buyouts*; Depamphilis, *Mergers & Acquisitions*; informes BEPS (Acciones 2 y 6).
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

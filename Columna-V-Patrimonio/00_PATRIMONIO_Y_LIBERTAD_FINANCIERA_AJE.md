@@ -57,17 +57,35 @@ Tres palancas, en orden de importancia para alguien que parte de cero:
 
 | # | Módulo | Pregunta que responde | Estado |
 |---|--------|------------------------|--------|
-| 01 | Mentalidad patrimonial | ¿Cuál es la diferencia entre ganar, tener y ser libre? | ✅ Completo |
-| 02 | Finanzas personales del abogado | ¿Cómo ordeno mi dinero: presupuesto, deuda, emergencia? | ✅ Completo |
-| 03 | Construcción de patrimonio | ¿Cómo convierto ingreso en activos que crecen? | ✅ Completo |
-| 04 | Principios de inversión | ¿Cómo se invierte con cabeza (sin recetas ni promesas)? | ✅ Completo |
-| 05 | Protección y estructura | ¿Cómo protejo lo construido: seguros, fiscal, sucesión? | ✅ Completo |
-| 06 | El plan realista a la libertad | ¿Cómo se va de cero a libre, sin estafas ni atajos? | ✅ Completo |
-
-> Columna V completa: 6 módulos. Con ella se cierra el sistema de 5 columnas del Proyecto AJE.
+| 01 | [Mentalidad patrimonial](./01-Mentalidad-Patrimonial.md) | ¿Cuál es la diferencia entre ganar, tener y ser libre? | ✅ |
+| 02 | [Finanzas personales del abogado](./02-Finanzas-Personales-del-Abogado.md) | ¿Cómo ordeno mi dinero cuando mi ingreso es irregular y parte de lo que cobro no es mío? | ✅ |
+| 03 | [Construcción de patrimonio](./03-Construccion-de-Patrimonio.md) | ¿Cómo convierto ingreso en activos que crecen? | ✅ |
+| 04 | [Principios de inversión](./04-Principios-de-Inversion.md) | ¿Cómo se decide, y cómo reconozco a quien me quiere estafar? | ✅ |
+| 05 | [Protección y estructura](./05-Proteccion-y-Estructura.md) | ¿Cómo protejo lo construido: seguros, régimen matrimonial, sucesión, retiro? | ✅ |
+| 06 | [El plan realista a la libertad](./06-El-Plan-Realista-a-la-Libertad.md) | ¿Cómo se va de cero a libre, sin estafas ni atajos? | ✅ |
 
 > Se construyen **en secuencia**. El primero —la mentalidad— es la base: sin entender la
 > diferencia entre ingreso y patrimonio, ningún número te volverá libre.
+
+### La especificidad mexicana (lo que distingue a esta columna de un libro de finanzas personales)
+
+La Edición Final elevó los seis módulos y les añadió lo que ningún manual genérico te va a dar:
+**la fiscalidad y la legalidad reales de un abogado mexicano**, verificadas contra los textos
+oficiales en [`fuentes-legales/`](../fuentes-legales/):
+
+- El **IVA y el ISR que cobras y no son tuyos**, y el sistema de tres cuentas que lo resuelve (02).
+- Las **deducciones personales del art. 151 LISR** ⟳ y el hallazgo de que la fracción V (retiro)
+  tiene su **propio cajón, fuera del tope general** — el mejor rendimiento legal disponible (02, 05).
+- El **Buró de Crédito** sin mitos, y por qué no tener historial es peor que tenerlo (02).
+- El **régimen matrimonial** (arts. 178-208 CCF ⟳) como la mayor decisión patrimonial de tu vida.
+- El **testamento** (arts. 1281-1295 CCF ⟳): revocable y libre, y aun así los abogados mueren
+  intestados.
+- La **frontera del art. 2163 CCF** ⟳: dónde acaba la planeación patrimonial y empieza el acto en
+  perjuicio de acreedores.
+- El **seguro de responsabilidad civil profesional**, que casi ningún abogado mexicano tiene.
+
+> **⚠️ Todo dato numérico de esta columna es volátil.** Tasas, límites, UMA, CAT y regímenes cambian
+> cada año. Los artículos llevan **⟳**: la última palabra la tiene el código vigente, no este libro.
 
 ---
 
@@ -83,6 +101,31 @@ Tres palancas, en orden de importancia para alguien que parte de cero:
 - **El valor primero (Documento Fundacional).** La riqueza es **consecuencia** del valor
   profesional que creas (Columnas I-IV). Esta columna administra el resultado; no lo sustituye.
   No hay patrimonio sólido sin una carrera que lo alimente.
+- **Usa tu propia formación jurídica.** Un abogado que no lee el prospecto de lo que compra, que no
+  sabe bajo qué régimen matrimonial está o que muere intestado está desperdiciando la única ventaja
+  competitiva que tiene sobre cualquier otro ahorrador. En esta columna, **tu oficio es la
+  herramienta**.
+
+---
+
+## V. La tesis que esta columna comparte con la Columna VI
+
+Hay una razón por la que esta columna no es un apéndice de finanzas personales, y conviene decirla en
+el documento rector porque atraviesa los seis módulos:
+
+> **Tu patrimonio es la infraestructura material de tu independencia profesional.**
+
+El [módulo 03 de la Columna VI](../Columna-VI-Inteligencia-Humana/03-Limites-y-Poder-Personal.md)
+demuestra que la capacidad de sostener un límite —decir no a un cliente que pide algo indebido,
+renunciar a un despacho que te maltrata, negarte a firmar una opinión que no te convence— es casi una
+función lineal de tus alternativas. Y tu alternativa más confiable no es tu carácter: es el dinero que
+ya tienes.
+
+De ahí que el fondo de emergencia del módulo 02 no sea un instrumento financiero, y que el módulo 06
+cierre con la frase que resume toda la columna:
+
+> *Un profesional sin patrimonio puede ser honesto. Un profesional con patrimonio puede permitírselo
+> siempre.*
 
 ---
 

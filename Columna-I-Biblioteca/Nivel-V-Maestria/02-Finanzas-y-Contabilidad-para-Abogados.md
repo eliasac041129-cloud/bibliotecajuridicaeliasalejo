@@ -592,6 +592,28 @@ riesgo-rendimiento— explican **casi todo** en las operaciones que estructuras:
   una estable —base de la valuación (Libro 3)—.
 - Por qué los fondos miden su retorno con el **IRR** (que incorpora el tiempo) y no solo con cuánto
   ganaron.
+
+**Las dos formas de contestar "¿conviene o no?": VPN e IRR.** Son las dos caras de la misma moneda y
+conviene tenerlas separadas, porque en una negociación se usan para cosas distintas:
+
+- El **valor presente neto (VPN, o *NPV*)** trae todos los flujos futuros a valor de hoy con la tasa de
+  descuento que corresponde al riesgo, y les resta la inversión. La regla es de una simplicidad brutal:
+  **si el VPN es positivo, el proyecto crea valor; si es negativo, lo destruye.** Está en **pesos**, y por
+  eso es la medida que contesta *cuánto* valor se crea.
+- La **tasa interna de retorno (TIR, o *IRR*)** es la tasa de descuento que haría el VPN igual a cero: el
+  rendimiento implícito del proyecto. Está en **porcentaje**, y por eso es la medida que contesta *qué tan
+  rentable* es — y la que usan los fondos, porque les permite comparar proyectos de tamaños distintos.
+
+> **Por qué esto le importa a un abogado y no solo a un financiero.** Primero, porque cuando alguien
+> defiende una operación con una TIR alta, la pregunta correcta es *¿de qué tamaño es el VPN?* — una TIR
+> del 40 % sobre una inversión pequeña puede valer menos, en pesos, que una del 15 % sobre una grande, y
+> la TIR sola oculta eso. Segundo, porque la TIR es **manipulable por el calendario**: adelantar flujos la
+> sube sin crear valor, y un *earn-out* o un pago diferido mal calibrado puede mejorar la TIR del
+> vendedor y empeorar el VPN del comprador. Y tercero, porque el VPN es la traducción financiera exacta de
+> la idea central de [La empresa por dentro](./05-La-Empresa-por-Dentro.md): un proyecto con VPN positivo
+> es un proyecto donde el retorno supera el costo del capital, es decir, donde **ROIC > WACC**. Es la
+> misma afirmación dicha en dos idiomas.
+
 *La lección:* entender que **el dinero tiene valor en el tiempo y que el riesgo se paga** es lo que permite
 al abogado razonar **financieramente** —y entender la lógica económica detrás de cada cláusula y cada
 estructura—.

@@ -2,19 +2,23 @@
 
 > Leyenda: ✅ Completo · 🟡 En proceso · ⬜ Pendiente
 
-## Estado de las cinco columnas (V2.0)
+## Estado de las columnas
 
-> Desde la V2.0, el proyecto es un **sistema de cinco columnas** (ver
+> El proyecto es un **sistema de columnas** (ver
 > [Documento Fundacional](./00_DOCUMENTO_FUNDACIONAL_AJE.md), sección VI). Se construyen **en
-> secuencia**, no en paralelo.
+> secuencia**, no en paralelo. Desde la V2.0 fueron cinco; la **Edición Final añade la VI**
+> (Inteligencia Humana y Comunicación Profesional) más el cierre de la colección. La justificación
+> medida de esa ampliación está en la [Auditoría de la Edición Final](./AUDITORIA-EDICION-FINAL.md) §7.
 
 | Columna | Nombre | Pregunta | Estado | Documento |
 |---------|--------|----------|--------|-----------|
-| **I** | Biblioteca Jurídica | ¿Qué debo aprender? | ✅ Completa (5 niveles + Ramas Esenciales · 52 tratados) | `Columna-I-Biblioteca/` |
+| **I** | Biblioteca Jurídica | ¿Qué debo aprender? | ✅ Completa (5 niveles + Ramas Esenciales · 53 tratados) | `Columna-I-Biblioteca/` |
 | **II** | Hoja de Ruta | ¿Qué hacer, cuándo y por qué? | ✅ Completa | [`01_HOJA_DE_RUTA_AJE.md`](./Columna-II-Hoja-de-Ruta/01_HOJA_DE_RUTA_AJE.md) + [`02_PLAN_OPERATIVO_DIARIO_AJE.md`](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) |
-| **III** | Laboratorio Profesional | ¿Cómo se trabaja de verdad? | ✅ Completa (3 tramos · 11 ejercicios) | `Columna-III-Laboratorio/` |
-| **IV** | Sistema del Socio | ¿Cómo se construye la carrera? | ✅ Completa (6 módulos) | `Columna-IV-Sistema-del-Socio/` |
-| **V** | Patrimonio y Libertad Financiera | ¿Cómo administrar la riqueza? | ✅ Completa (6 módulos) | `Columna-V-Patrimonio/` |
+| **III** | Laboratorio Profesional | ¿Cómo se trabaja de verdad? | ✅ Completa (4 tramos · 15 ejercicios) | `Columna-III-Laboratorio/` |
+| **IV** | Sistema del Socio | ¿Cómo se construye la carrera? | ✅ Completa (9 módulos) | `Columna-IV-Sistema-del-Socio/` |
+| **V** | Patrimonio y Libertad Financiera | ¿Cómo administrar la riqueza? | ✅ Completa (6 módulos) · 🟡 elevación C-5 | `Columna-V-Patrimonio/` |
+| **VI** | Inteligencia Humana y Comunicación Profesional | ¿Cómo entiendo a las personas y sostengo mi posición? | 🟡 En construcción (Edición Final) | `Columna-VI-Inteligencia-Humana/` |
+| — | **Cierre de la colección** | ¿Quién quiero llegar a ser? | 🟡 En construcción (Edición Final) | `El-Arquitecto-Juridico-Empresarial.md` |
 
 ---
 
@@ -93,9 +97,85 @@ integridad. Este archivo es el tablero de control.
 | 3 | Valuación de empresas | ✅ | 5–6 sem |
 | 4 | Estrategia corporativa y Game Theory | ✅ | 4–5 sem |
 
+## Ramas Esenciales — ✅ COMPLETO (estándar V3 pleno · 47 secciones)
+**⏱ Dominio del nivel: ~8–10 meses** · *No es un "nivel VI": es el cinturón de materias que un
+abogado corporativo necesita reconocer para no cometer un error caro fuera de su especialidad.*
+| # | Tratado | Estado | ⏱ Dominio |
+|---|---------|--------|-----------|
+| 1 | Derecho Fiscal | ✅ | 6–8 sem |
+| 2 | Derecho Constitucional y Amparo | ✅ | 4–5 sem |
+| 3 | Derecho Administrativo | ✅ | 3–4 sem |
+| 4 | Derecho Procesal Civil y Mercantil | ✅ | 4–5 sem |
+| 5 | Derecho Laboral | ✅ | 4–5 sem |
+| 6 | Derecho Penal Económico y Compliance | ✅ | 4–5 sem |
+| 7 | Propiedad Intelectual | ✅ | 3–4 sem |
+| 8 | Derecho Internacional Privado y Arbitraje | ✅ | 4–5 sem |
+| 9 | Protección de Datos Personales | ✅ | 3 sem |
+| 10 | Derecho Ambiental | ✅ | 2–3 sem |
+| 11 | Ética Profesional y Responsabilidad del Abogado | ✅ | 2 sem |
+| 12 | Derecho Procesal Penal | ✅ | 3–4 sem |
+| 13 | Derecho Familiar y Sucesiones | ✅ | 3–4 sem |
+| 14 | Derecho Agrario | ✅ | 2 sem |
+
+---
+
+## Columnas III, IV y V (detalle)
+
+### Columna III · Laboratorio Profesional — ✅ 15 ejercicios en 4 tramos
+| Tramo | Ejercicios | Estado |
+|-------|-----------|--------|
+| 1 · El ciclo de una operación de M&A | 01–06 | ✅ |
+| 2 · Comunicación y soporte | 07–10 | ✅ |
+| 3 · Destrezas de negociación documental | 11 (el *redline*) | ✅ |
+| 4 · Simuladores de decisión | 12–15 | 🟡 Edición Final |
+
+### Columna IV · Sistema del Socio — ✅ 7 módulos · 🟡 elevación en curso
+| # | Módulo | Estado |
+|---|--------|--------|
+| 01 | La pirámide del despacho | ✅ |
+| 02 | Gestionar hacia arriba (*managing up*) | ✅ |
+| 03 | Generación de negocio (*rainmaking*) | ✅ |
+| 04 | La economía del despacho | ✅ |
+| 05 | Marca personal y reputación | ✅ |
+| 06 | Rutas de carrera | ✅ |
+| 07 | Honorarios: cómo poner precio | ✅ |
+| 08 | Gestionar hacia abajo: liderazgo, delegación y feedback | 🟡 Edición Final |
+| 09 | Manejo de crisis y formación de juniors | 🟡 Edición Final |
+
+### Columna V · Patrimonio y Libertad Financiera — ✅ 6 módulos · 🟡 elevación en curso
+| # | Módulo | Estado |
+|---|--------|--------|
+| 01 | Mentalidad patrimonial | ✅ |
+| 02 | Finanzas personales del abogado | ✅ |
+| 03 | Construcción de patrimonio | ✅ |
+| 04 | Principios de inversión | ✅ |
+| 05 | Protección y estructura | ✅ |
+| 06 | El plan realista a la libertad | ✅ |
+
+> **Nota honesta de la Edición Final.** La Columna V está *completa* en cobertura y **es la más
+> delgada de la obra** en profundidad (~940 palabras por módulo, frente a ~10,000 en la Columna I).
+> La [Auditoría](./AUDITORIA-EDICION-FINAL.md) la clasifica como vacío **crítico C-5**. "✅" aquí
+> significa *existe y es correcto*, no *está al estándar de la obra*.
+
+### Columna VI · Inteligencia Humana y Comunicación Profesional — 🟡 NUEVA (Edición Final)
+| # | Módulo | Estado |
+|---|--------|--------|
+| 01 | Psicología de la decisión | 🟡 |
+| 02 | Leer personas y situaciones, sin pseudociencia | 🟡 |
+| 03 | Límites, poder personal y firmeza sin agresividad | 🟡 |
+| 04 | Comunicación de alto nivel y escucha estratégica | 🟡 |
+| 05 | Conversaciones difíciles | 🟡 |
+| 06 | La frontera ética: persuadir sin manipular | 🟡 |
+
 ---
 
 ### ⏱ Ruta total estimada a la maestría del programa
 **~30–36 meses de estudio activo y constante** (menos de los 4 años que te propones), si se
 mantiene un ritmo sostenido en paralelo a la carrera y la práctica. El dominio real, no obstante,
 se consolida **aplicando** lo aprendido en casos, prácticas y operaciones.
+
+> **Advertencia que vale más que el calendario.** Terminar los 30–36 meses no te vuelve un
+> Arquitecto Jurídico Empresarial: te vuelve alguien **preparado para empezar a serlo**. Lo que esta
+> obra puede darte es el mapa; el criterio lo produce equivocarse con consecuencias reales. Ver el
+> cierre de la colección (*El Arquitecto Jurídico Empresarial*) y la
+> [Auditoría de la Edición Final](./AUDITORIA-EDICION-FINAL.md).
