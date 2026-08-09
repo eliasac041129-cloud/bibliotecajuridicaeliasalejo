@@ -1,97 +1,226 @@
 # Patrimonio · Módulo 01 — Mentalidad Patrimonial
 
-> **Columna V · Patrimonio y Libertad Financiera.** Subordinado al
-> [Documento Fundacional AJE](../00_DOCUMENTO_FUNDACIONAL_AJE.md) y al
-> [documento rector de la columna](./00_PATRIMONIO_Y_LIBERTAD_FINANCIERA_AJE.md).
+> **Columna V.** Subordinado al [Documento Fundacional AJE](../00_DOCUMENTO_FUNDACIONAL_AJE.md) y al
+> [rector de la columna](./00_PATRIMONIO_Y_LIBERTAD_FINANCIERA_AJE.md).
 >
-> **⚠️** Formación conceptual, **no** asesoría financiera. Ver advertencia del documento rector.
+> **⚠️ Formación conceptual, no asesoría financiera.** No recomienda productos ni decisiones. Toda
+> decisión real se toma con asesores calificados y contra la normativa vigente.
 >
-> **Pregunta que responde:** ¿cuál es la diferencia real entre ganar dinero, tener patrimonio y
-> ser libre — y por qué entenderla lo cambia todo?
+> **La pregunta:** ¿cuál es la diferencia real entre ganar dinero, tener patrimonio y ser libre — y
+> por qué a los abogados de alto ingreso les cuesta tanto entenderla?
 
 ---
 
-## I. La trampa del ingreso alto
+## Dos abogados a los cuarenta y cinco
 
-El error mental más caro de un profesional exitoso: **confundir ingreso alto con riqueza**. Gana
-mucho, gasta mucho, y a los 50 años descubre que no posee nada que no dependa de seguir
-trabajando. Es lo que se llama vivir con un ingreso alto y un patrimonio de cero.
+Se titularon el mismo año, en la misma facultad, con promedios parecidos. Los dos entraron a
+despachos corporativos. Los dos llegaron a socios, uno en una firma grande y otro en una boutique.
+Sus ingresos acumulados a lo largo de veintitrés años fueron casi idénticos.
 
-> **La pregunta que revela la verdad:** *si dejaras de trabajar hoy, ¿cuánto tiempo podrías
-> sostener tu vida con lo que ya posees?* Si la respuesta es "unas semanas", no importa cuánto
-> ganes: no eres rico, eres un empleado bien pagado de tu propio estilo de vida.
+**Andrés** vive en una casa que le encanta, con una hipoteca a la que le faltan diecinueve años. Tiene
+dos autos financiados, los dos niños en colegio bilingüe, un club, viajes en Semana Santa y en
+diciembre. Gana muchísimo. Y si mañana el despacho lo invitara a salir —o si se enfermara ocho meses,
+o si el cliente que representa el 40 % de su facturación se fuera— tendría alrededor de **cinco
+semanas** de aire. Sus activos son la casa (que no produce nada y cuesta cada mes) y una Afore que
+nunca revisó. Andrés no es un irresponsable: es un hombre que gana 100 y gasta 98, y que cada vez que
+ganó más, gastó más.
 
----
+**Beatriz** vive en una casa más modesta en la misma ciudad. Un auto, pagado. Los niños en una escuela
+buena y no la más caras. Y tiene un patrimonio invertido que, si dejara de trabajar hoy, cubriría sus
+gastos durante **cuatro años** — y que en once años más, sin aportar un peso adicional, cubriría sus
+gastos indefinidamente.
 
-## II. Los tres conceptos que debes separar para siempre
+Beatriz no ganó más. No invirtió mejor —de hecho invirtió de forma bastante aburrida—. Hizo una sola
+cosa distinta, sostenida durante veintitrés años: **cada vez que su ingreso subió, subió primero su
+ahorro y después su gasto.** Eso es todo. Esa es la diferencia entre las dos vidas.
 
-| Concepto | Qué es | Ejemplo |
-|----------|--------|---------|
-| **Ingreso** (*flujo*) | El dinero que entra por tu trabajo | Tu sueldo u honorarios |
-| **Patrimonio** (*acervo*) | Lo que posees menos lo que debes (activos − deudas) | Inversiones, propiedades, negocio |
-| **Libertad financiera** | Cuando tus activos producen lo suficiente para vivir sin trabajar | Rentas, dividendos, intereses que cubren tus gastos |
+Y hay una consecuencia que no aparece en ningún estado de cuenta y que es la más importante de este
+módulo: **Beatriz puede decir que no.** Puede rechazar un cliente que le pide algo turbio, puede
+renunciar a un despacho que la maltrata, puede negarse a firmar una opinión que no le convence. Andrés,
+técnicamente, no puede. No porque le falte carácter: porque su estructura financiera no se lo permite.
 
-> **La mecánica de la libertad:** tomas parte de tu **ingreso**, lo conviertes en **patrimonio**
-> (activos), y cuando ese patrimonio produce un **ingreso pasivo** que cubre tus gastos, eres
-> **libre**. El trabajo deja de ser obligación y pasa a ser elección. Ese es el juego completo.
-
----
-
-## III. Activos vs. pasivos (la distinción que separa ricos de aparentes)
-
-Define con precisión, no con la intuición popular:
-
-- **Activo:** algo que **pone dinero en tu bolsillo** (una inversión que rinde, un negocio que
-  produce, una propiedad que renta).
-- **Pasivo:** algo que **saca dinero de tu bolsillo** (deudas, un auto de lujo financiado, gastos
-  recurrentes de estatus).
-
-> **El error de la falsa riqueza.** Mucha gente que "parece" rica (auto caro, ropa de marca,
-> deudas para aparentar) en realidad está acumulando **pasivos** que la empobrecen cada mes. El
-> verdaderamente rico suele verse más discreto: su dinero está en **activos que trabajan**, no en
-> objetos que gritan. *Comprar estatus es lo contrario de comprar libertad.*
-
-Esto es directamente relevante para tu meta de cierto estilo de vida (auto, zona, viajes): se
-llega a eso **construyendo primero los activos que lo paguen solos**, no comprándolo a crédito
-antes de tiempo. El orden importa: primero el activo, luego el lujo que el activo financia.
+> **Lo que quiero que entiendas desde la primera página de esta columna.** Esto no es un módulo sobre
+> dinero. Es un módulo sobre **independencia profesional**. Tu patrimonio es la infraestructura
+> material de tu ética, y esa afirmación se sostiene literalmente: el
+> [módulo 03 de la Columna VI](../Columna-VI-Inteligencia-Humana/03-Limites-y-Poder-Personal.md)
+> demuestra que la capacidad de sostener un límite es casi una función de tus alternativas, y tu
+> alternativa más confiable es el dinero que ya tienes.
 
 ---
 
-## IV. Errores que cuestan millones (de patrimonio)
+## La trampa específica del abogado de alto ingreso
 
-| Error | Por qué cuesta | Cómo evitarlo |
-|-------|----------------|---------------|
-| Confundir ingreso con riqueza | Ganas mucho y no posees nada | Mide tu patrimonio neto, no tu sueldo |
-| Inflar el estilo de vida con cada aumento (*lifestyle creep*) | Nunca sobra para invertir | Sube el ahorro antes que el gasto |
-| Comprar pasivos creyendo que son activos | Te empobrecen mes a mes | Pregunta: ¿esto mete o saca dinero? |
-| Comprar estatus a crédito | Cambias libertad futura por apariencia hoy | Primero el activo, luego el lujo que paga solo |
-| Posponer el ahorro "hasta ganar más" | Pierdes el tiempo, tu mayor aliado | Empieza con lo que haya, ahora |
+Casi toda la literatura de finanzas personales está escrita para alguien con un sueldo estable. Tú
+probablemente no vas a tener eso, y hay cuatro rasgos de la profesión que la vuelven peligrosa
+justamente por su éxito.
+
+**1 · El ingreso llega tarde y de golpe.** Estudias hasta los 23, ganas poco hasta los 27, y a partir
+de ahí puedes multiplicar tu ingreso varias veces en pocos años. Eso comprime todas las decisiones
+patrimoniales importantes en una ventana estrecha, y las toma alguien que nunca ha tenido dinero — que
+es la peor persona posible para tomarlas.
+
+**2 · El entorno es intensamente comparativo.** Tu vida profesional transcurre entre gente muy rica:
+clientes, banqueros, socios de firmas internacionales. Vas a comer donde comen ellos, vuelas cuando
+ellos vuelan, y el traje tiene que estar a la altura. El resultado es un fenómeno documentado: **tu
+grupo de referencia no es tu nivel de ingreso, es el de tus clientes.** Nadie te obliga a nada; la
+presión es ambiental y por eso es difícil de ver.
+
+**3 · El ingreso es irregular.** Si eres independiente o socio, no cobras doce veces al año en
+cantidades iguales: cobras a saltos, cuando cierra una operación o cuando el cliente paga. Y el error
+clásico es **calibrar el estilo de vida al mes bueno**.
+
+**4 · Cobras dinero que no es tuyo.** Este es exclusivo de tu profesión y hunde carreras. Cuando
+facturas honorarios, parte de lo que entra a tu cuenta es IVA trasladado y una parte de lo demás va a
+ser ISR. Ese dinero está en tu banco y **no es tu ingreso**. El módulo 02 lo trata en detalle porque
+es, probablemente, el error financiero más costoso y más frecuente del abogado independiente mexicano.
+
+> **La pregunta que revela tu situación real**, y quiero que la contestes hoy con un número, no con una
+> sensación: *si tu ingreso se detuviera esta semana, ¿cuántos meses podrías sostener tu vida con lo
+> que ya posees, sin endeudarte y sin vender nada a un precio malo?*
+>
+> Si la respuesta es "unas semanas", entonces no tienes un patrimonio: tienes un empleo bien pagado en
+> el que el empleado eres tú y el patrón es tu estilo de vida.
 
 ---
 
-## V. Tu turno (reflexión deliberada)
+## Tres conceptos que no son sinónimos
 
-1. **Calcula tu patrimonio neto hoy** (lo que posees − lo que debes). Aunque sea cero o negativo,
-   ese número es tu línea de salida. Lo importante es verlo crecer.
-2. **Responde la pregunta de la sección I:** si dejaras de recibir ingreso hoy, ¿cuánto durarías?
-   Eso define tu fragilidad financiera actual.
-3. **Lista 3 "activos" y 3 "pasivos"** que tengas o aspires a tener. Clasifícalos con la
-   definición correcta (¿mete o saca dinero?). ¿Cuáles son falsa riqueza?
+| | Qué es | Cómo se mide | Se puede perder |
+|---|---|---|---|
+| **Ingreso** | El dinero que entra por tu trabajo | Pesos al mes o al año | En una semana |
+| **Patrimonio neto** | Lo que posees menos lo que debes | Pesos, en una fecha | Lentamente, o de golpe |
+| **Libertad financiera** | Que tus activos produzcan lo que gastas | Un cociente, no un monto | Casi nunca |
+
+La mecánica completa cabe en una línea: **tomas una parte de tu ingreso, la conviertes en patrimonio,
+y cuando ese patrimonio produce más de lo que gastas, eres libre.**
+
+Y ahora la parte que casi nadie dice: **la libertad financiera no es un monto, es una relación entre
+dos números** —lo que producen tus activos y lo que gastas—. Eso significa que hay dos formas de
+avanzar hacia ella, y la mayoría de la gente solo trabaja una:
+
+- Subir lo que producen tus activos (más patrimonio).
+- **Bajar, o dejar de subir, lo que gastas.**
+
+Y la segunda es más poderosa de lo que parece, porque cada peso de gasto recurrente que evitas hace
+dos cosas a la vez: **libera un peso para invertir y baja para siempre la meta que tienes que
+alcanzar.** Reducir tu gasto anual en 200 mil pesos no equivale a ahorrar 200 mil: equivale a no
+necesitar los varios millones de patrimonio que harían falta para producir esos 200 mil todos los
+años.
+
+Por eso el enemigo silencioso de esta columna tiene nombre: **la inflación de estilo de vida**
+(*lifestyle creep*). No es el gasto grande y visible; son los compromisos recurrentes —la renta más
+alta, el colegio más caro, la mensualidad del auto, las suscripciones— que suben con cada aumento y
+que **no bajan cuando el ingreso baja**. El gasto recurrente es una obligación que contrataste contigo
+mismo, y es mucho más difícil de rescindir que un contrato.
 
 ---
 
-## VI. Conexión (hacia dónde sigue)
+## Activos, pasivos y el balance de una persona
 
-- **Sustento:** las 3 palancas del [documento rector](./00_PATRIMONIO_Y_LIBERTAD_FINANCIERA_AJE.md);
-  Finanzas y Contabilidad para Abogados (Biblioteca V-02) da la base técnica.
-- **Siguiente módulo:** **02 · Finanzas personales del abogado** — cómo ordenar tu dinero en la
-  práctica: presupuesto, fondo de emergencia y deuda. El primer paso concreto.
+Tienes una ventaja enorme sobre cualquier lector de un libro de finanzas personales: **ya sabes leer
+un balance.** Y si no lo sabes todavía, lo vas a saber en
+[Finanzas y Contabilidad para Abogados](../Columna-I-Biblioteca/Nivel-V-Maestria/02-Finanzas-y-Contabilidad-para-Abogados.md).
+Úsalo contigo.
 
-> **La idea que debe quedarte:** no eres lo que ganas, eres lo que conservas y haces crecer.
-> Separa ingreso, patrimonio y libertad — y dirige tu vida financiera hacia el tercero, no hacia
-> aparentar el primero.
+Una persona tiene un balance igual que una empresa: **activos − pasivos = patrimonio neto**. Y tiene
+un estado de resultados: ingresos − gastos = lo que queda. Y —esto es lo que el
+[módulo 05 de la Columna V de la Biblioteca](../Columna-I-Biblioteca/Nivel-V-Maestria/05-La-Empresa-por-Dentro.md)
+te enseñó sobre las empresas y aplica igual a las personas— **tiene un flujo de efectivo, que es lo
+que de verdad determina si sobrevive.**
+
+La distinción práctica que importa:
+
+- **Activo:** algo que produce dinero, o que al menos se aprecia y puede venderse. Una inversión, un
+  inmueble que renta, una participación en un negocio.
+- **Pasivo:** una obligación de pagar. Deuda, mensualidades, compromisos.
+- **Y una tercera categoría que la literatura popular confunde:** los bienes de uso. Tu casa, tu auto.
+
+Sobre esa tercera categoría hay que ser preciso, porque la simplificación popular ("tu casa es un
+pasivo") es incorrecta en términos contables y confunde a la gente. Tu casa **es un activo** —tiene
+valor y es realizable—. Lo que ocurre es que es un activo que **no produce flujo y sí consume flujo**:
+predial, mantenimiento, seguro, y la hipoteca. Un abogado debería decirlo con precisión:
+
+> **Tu casa es un activo ilíquido que genera flujo negativo y un beneficio en especie** (no pagas
+> renta). Eso no la vuelve una mala decisión: la vuelve una decisión que hay que tomar con los ojos
+> abiertos, entendiendo que aumenta tu patrimonio neto y **reduce** tu libertad de corto plazo.
+
+Con esa lente, el error que arruina a los profesionales de alto ingreso se ve clarísimo: **comprar
+bienes de uso, financiados, antes de tener activos que los paguen.** El auto de 900 mil pesos a
+sesenta meses no te empobrece por su precio: te empobrece porque te compromete a una salida de efectivo
+fija durante cinco años, y esa rigidez es exactamente lo contrario de la libertad.
+
+El orden correcto es aburrido y funciona: **primero construyes la máquina, después compras lo que la
+máquina paga sin dolor.** No es una regla de austeridad; es una regla de secuencia.
 
 ---
 
-*Patrimonio · Módulo 01 completado. Formación conceptual, no asesoría financiera. Subordinado al
-Documento Fundacional AJE.*
+## Lo que sí se puede prometer y lo que no
+
+Una advertencia que corresponde al Principio Supremo de esta obra, y que la mayoría de los libros del
+género no te da.
+
+**Lo que la aritmética sí respalda:** que una tasa de ahorro alta, sostenida durante dos o tres
+décadas e invertida de forma diversificada y de bajo costo, produce un patrimonio significativo. Eso
+no es motivación, es interés compuesto, y el módulo 03 lo desarrolla con números.
+
+**Lo que no se puede prometer:** un monto, una fecha, ni un rendimiento. Nadie sabe qué van a rendir
+los mercados en los próximos veinte años, y quien te diga una cifra está inventando. Los rendimientos
+históricos son información sobre el pasado ⚠️, no una garantía sobre el futuro.
+
+**Y lo que hay que decir aunque incomode:** la mayor parte de tu resultado patrimonial en los primeros
+diez años **no va a depender de cómo inviertas, sino de cuánto ganes y cuánto conserves.** Optimizar la
+cartera cuando tu tasa de ahorro es del 5 % es como discutir el color de la pintura de un edificio sin
+cimientos. Por eso las Columnas I a IV van antes que esta: **la carrera es el motor y esta columna es
+la transmisión.** Sin motor, no hay nada que transmitir.
+
+---
+
+## Errores que cuestan patrimonio
+
+| Error | El mecanismo por el que cuesta | El antídoto |
+|-------|-------------------------------|-------------|
+| Confundir ingreso con riqueza | Mides lo que entra y nunca lo que posees | Calcula tu patrimonio neto cada seis meses. Es el único marcador. |
+| Inflación de estilo de vida | Cada aumento se convierte en gasto recurrente irreversible | Regla del reparto previo: cuando suba tu ingreso, la mitad del aumento va a ahorro **antes** de tocar el resto |
+| Calibrar la vida al mes bueno | El ingreso irregular te engaña | Presupuesta con tu promedio de los últimos 12 meses, nunca con el mejor |
+| Gastar el IVA y el ISR que cobraste | Ese dinero nunca fue tuyo | Cuentas separadas desde el primer honorario (módulo 02) |
+| Comprar estatus a crédito | Cambias libertad futura por señal social presente | Pregunta: ¿esto lo compro con flujo de un activo o con flujo de mi trabajo? |
+| Posponer hasta "ganar más" | El tiempo es el insumo que no se recupera | Empieza con la cantidad que sea, este mes |
+| Creer que un ingreso alto te vuelve invulnerable | La concentración de clientes es riesgo de cartera | Diversifica clientes como diversificarías una cartera |
+
+---
+
+## Tu turno
+
+1. **Calcula tu patrimonio neto hoy.** Todo lo que posees menos todo lo que debes. Si es negativo, ese
+   es tu punto de partida y está bien: lo importante es que exista el número y que lo vuelvas a
+   calcular en seis meses.
+2. **Contesta la pregunta de los meses de aire.** Con un número. Divide lo que tienes disponible entre
+   tu gasto mensual esencial.
+3. **Haz la lista de tus compromisos recurrentes** —todo lo que te obliga a pagar cada mes durante más
+   de un año—. Súmalos. Ese total es tu verdadero nivel de esclavitud financiera, y es el número que
+   determina cuánto puedes decir que no.
+4. **Escribe la regla del reparto previo:** *"cuando mi ingreso suba, el __ % del aumento va a ahorro
+   antes de que yo decida nada más."* Elige el porcentaje ahora, mientras es teórico. Es mucho más
+   fácil decidirlo antes de tener el dinero en la mano.
+5. **Una pregunta de las incómodas:** ¿hay hoy alguna decisión profesional que no estás tomando porque
+   no puedes permitírtela económicamente? Si la hay, ya sabes para qué es esta columna.
+
+---
+
+## Conexión
+
+| Va con | Por qué |
+|--------|---------|
+| Módulo [02 · Finanzas personales del abogado](./02-Finanzas-Personales-del-Abogado.md) | El siguiente paso: ordenar la casa, con la fiscalidad real de un abogado mexicano. |
+| [Columna VI · 03 Límites y poder personal](../Columna-VI-Inteligencia-Humana/03-Limites-y-Poder-Personal.md) | La tesis central de este módulo: el patrimonio es infraestructura de integridad. |
+| [La empresa por dentro](../Columna-I-Biblioteca/Nivel-V-Maestria/05-La-Empresa-por-Dentro.md) | Balance, flujo y ciclo de efectivo aplican a una persona igual que a una empresa. |
+| [Columna IV · Rutas de carrera](../Columna-IV-Sistema-del-Socio/06-Rutas-de-Carrera.md) | Tu ingreso es el motor; sin carrera no hay patrimonio que administrar. |
+
+> **La idea que debe quedarte.** No eres lo que ganas: eres lo que conservas, inviertes y —sobre
+> todo— **lo que puedes rechazar**. Andrés y Beatriz ganaron lo mismo. Solo una de las dos es
+> independiente.
+
+---
+
+*Patrimonio · Módulo 01. Formación conceptual, no asesoría financiera. Elevado en la Edición Final
+(vacío C-5 de la [Auditoría](../AUDITORIA-EDICION-FINAL.md)).*
