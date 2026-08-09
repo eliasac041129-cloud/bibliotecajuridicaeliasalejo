@@ -136,6 +136,51 @@ traslada el costo del daño a quien crea el riesgo y se beneficia de la activida
 responsabilidad es un **costo esperado** que se gestiona con prevención (compliance), contratos
 (indemnización, *caps*) y seguros.
 
+### Quién debe pagar el accidente: la pregunta de Calabresi
+
+El análisis económico de la responsabilidad civil aportó una reformulación que cambia la manera de redactar
+cláusulas. La pregunta clásica del derecho es *¿quién tuvo la culpa?*. **Guido Calabresi** propuso una
+distinta y complementaria: **¿quién podía evitar el daño más barato?** —el ***cheapest cost avoider***—.
+
+La idea es que la responsabilidad, además de reparar, **crea incentivos hacia el futuro**: asignar el costo a
+quien estaba en mejor posición de prevenirlo es lo que reduce el número total de accidentes. Y esa es
+exactamente la lógica que explica el desplazamiento histórico de la culpa hacia la **responsabilidad
+objetiva** por actividades peligrosas (art. 1913 CCF ⟳): no porque el operador de una actividad riesgosa sea
+más reprochable, sino porque **es quien puede prevenir, asegurar y precificar el riesgo a menor costo**.
+
+> **Cómo se traduce esto a tu trabajo, y es directo.** Cuando negocies una asignación de responsabilidad en
+> un contrato, la pregunta útil no es quién parece más responsable en abstracto, sino **quién controla el
+> riesgo y quién puede asegurarlo más barato**. Casi siempre esa parte debería soportarlo, y casi siempre lo
+> aceptará si se le explica así — porque le cuesta menos a él que a la otra. Es la versión civil de la regla
+> del [tratado V-05](../Nivel-V-Maestria/05-La-Empresa-por-Dentro.md): el riesgo se asigna a quien mejor lo
+> soporta o mejor lo conoce.
+
+### Daños punitivos: la diferencia que puede multiplicar una condena
+
+La tradición continental indemniza el **daño efectivamente causado**: la función es reparar. El *tort law*
+estadounidense admite además ***punitive damages***, cuya función es **castigar y disuadir**, y que pueden
+exceder por múltiplos el daño real.
+
+En México la SCJN ha desarrollado el **daño moral** y la idea de una indemnización con función ejemplar
+⚠️ *verificar criterios vigentes antes de invocarlos*, sin adoptar la figura anglosajona. El debate sigue
+abierto: los punitivos disuaden conductas que la reparación no alcanza a disuadir, y a la vez introducen
+montos difíciles de predecir.
+
+> **Y por qué esto es crítico en la práctica corporativa, no solo en el litigio.** La diferencia decide el
+> tamaño de tu exposición según **qué ley aplica**. Un mismo hecho puede generar una indemnización
+> reparatoria en México y una condena de otro orden de magnitud bajo ley extranjera. Por eso, en un contrato
+> con cláusula de ley y foro extranjeros, la **cláusula de límite de responsabilidad** y la definición de
+> **daños indemnizables** —¿solo directos? ¿se excluyen consecuenciales y punitivos?— dejan de ser rutina y
+> se vuelven la cláusula económica principal.
+
+**El caso de estudio: Volkswagen y el *Dieselgate*** (2015). El fraude en la certificación de emisiones
+derivó en un pasivo agregado de decenas de miles de millones de dólares ⚠️ *verificar* entre sanciones,
+acuerdos, recompras e indemnizaciones en múltiples jurisdicciones. Es el ejemplo más claro de tres cosas a la
+vez: que la responsabilidad civil puede exceder cualquier previsión contractual, que el riesgo **regulatorio,
+penal y civil se activan juntos**, y que el origen fue una decisión de ingeniería que alguien, en algún
+nivel, aprobó sabiendo. Ver el patrón 3 de
+[Reconocer el desastre antes](../../Columna-III-Laboratorio/15-Reconocer-el-Desastre-Antes.md).
+
 ## 7. Contexto político
 
 El Estado define **cuánto riesgo** tolera y **cómo lo distribuye**: amplía la responsabilidad
@@ -917,59 +962,6 @@ ruinosas o inservibles.
 > bienes concretos. Con él cerramos el derecho civil profundo y quedamos listos para el Derecho
 > Mercantil.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-La responsabilidad civil es **gestión de riesgo puro**: quién paga cuando algo sale mal. El socio la usa para diseñar **cláusulas de indemnización, límites de responsabilidad (*caps*), exclusiones y seguros** (D&O, responsabilidad del producto). Ante cualquier operación se pregunta: *¿qué daño puede surgir, quién responde, hasta cuánto y quién lo asegura?*
-
-### Doctrina y debate
-- **Responsabilidad contractual vs. extracontractual (aquiliana):** distintos regímenes de culpa, prueba y prescripción.
-- **Culpa vs. riesgo creado (responsabilidad objetiva):** del "no hay responsabilidad sin culpa" clásico a la **responsabilidad objetiva** por actividades peligrosas (art. 1913 CCF ⟳). Debate económico: **Calabresi** —asignar el costo del accidente al *cheapest cost avoider*.
-- **Daño moral y punitivos:** ¿debe el derecho mexicano admitir daños punitivos? La SCJN ha desarrollado el daño moral y la "indemnización ejemplar" ⚠️ *verificar criterios*.
-
-### Derecho comparado
-Los ***punitive damages*** son emblemáticos del *tort law* estadounidense (indemnizaciones millonarias disuasivas) y ajenos a la tradición continental, que indemniza el **daño efectivamente causado**. Esta diferencia es crítica al litigar o contratar con cláusula de ley extranjera.
-
-### Caso real
-**Volkswagen "Dieselgate" (2015):** el fraude en emisiones costó a VW más de **30,000 mdd** ⚠️ *verificar cifra* en multas, recompras e indemnizaciones a escala global —responsabilidad civil, administrativa y penal combinadas. Lección: el riesgo de producto y de *compliance* es un pasivo que puede exceder el valor de la empresa.
-
-### Errores que cuestan millones
-- No pactar un **límite de responsabilidad** ni excluir daños indirectos/lucro cesante.
-- Ignorar la **responsabilidad objetiva** por actividades riesgosas (no basta "no tuve culpa").
-
-### Preguntas
-- **Criterio:** ¿deben existir los daños punitivos en México?
-- **Entrevista:** ¿cómo limitaría la responsabilidad de su cliente en un contrato de servicios?
-- **Examen:** distinga responsabilidad subjetiva y objetiva, con ejemplo.
-
-### Bibliografía por niveles
-- **Básico:** Rojina Villegas, *Obligaciones* (hechos ilícitos).
-- **Intermedio:** Gutiérrez y González, *Responsabilidad civil*.
-- **Avanzado:** Calabresi, *The Cost of Accidents*.
-- **Internacional:** Viney, *Traité de droit civil: les conditions de la responsabilité*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La responsabilidad civil cumple tres funciones: **reparar** (a la víctima), **disuadir** (al causante) y **distribuir** el riesgo (vía seguros). Su evolución va de la culpa (no hay responsabilidad sin reproche moral) al **riesgo creado** (responsabilidad objetiva por actividades peligrosas, art. 1913 CCF ⟳): quien crea el riesgo y lucra con él, responde aunque no tenga culpa.
-
-**El debate.** **Culpa vs. responsabilidad objetiva:** ¿castigar al negligente o asignar el costo del daño a quien mejor lo evita/asegura? **Calabresi** (*The Cost of Accidents*): el sistema óptimo minimiza la suma de costos de accidentes + costos de evitarlos, asignando la responsabilidad al ***cheapest cost avoider***. Debate de los **daños punitivos**: emblema del *tort* estadounidense (disuasión), ajenos al civil law que solo repara el daño causado —¿deben existir en México?
-
-**Mirada de AED.** La responsabilidad civil es un **sistema de precios del daño**: al obligar a internalizar el costo de los accidentes, incentiva el nivel óptimo de precaución (fórmula de Learned Hand en *US v. Carroll Towing*: hay negligencia si el costo de prevenir < probabilidad × magnitud del daño). El seguro (D&O, RC producto) distribuye el riesgo pero puede generar riesgo moral.
-
-**Comparado y lección para México.** EE. UU.: *tort law* con **punitive damages** y jurados que fijan indemnizaciones enormes (disuasión). Europa/México: reparación del daño efectivo + daño moral acotado. **Lección:** el diseño de límites de responsabilidad, exclusiones y seguros en contratos debe considerar **qué régimen aplica** (una cláusula bajo ley de Nueva York puede exponer a punitivos).
-
-**Crítica.** Los punitivos son criticados por **arbitrarios** y por generar "lotería del *tort*"; la responsabilidad objetiva, por **sobredisuadir** (frenar actividades socialmente útiles pero riesgosas). El daño moral, por su difícil cuantificación.
-
-**Jurisprudencia y operación real.** *US v. Carroll Towing* (1947, fórmula de Hand); la SCJN ha desarrollado el **daño moral** y la "indemnización ejemplar" ⚠️. **Volkswagen Dieselgate** (+30,000 mdd ⚠️) muestra la responsabilidad de producto a escala global. En M&A, la RC latente (producto, ambiental) es un pasivo que se diligencia y se traslada.
-
-**Para leer más:** Calabresi, *The Cost of Accidents* (1970); Landes & Posner, *The Economic Structure of Tort Law*; Viney, *Les conditions de la responsabilité*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*

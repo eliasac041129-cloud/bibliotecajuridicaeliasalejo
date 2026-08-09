@@ -131,6 +131,42 @@ convierte un derecho a cobrar en el futuro en dinero hoy. El **interés** es el 
 diferimiento y de ese riesgo. Toda la materia, vista en clave económica, es la **tecnología
 jurídica del tiempo y el riesgo** aplicada al dinero.
 
+### La obligación como activo que circula (y el punto exacto en que "sale" del patrimonio)
+
+Hay un cambio de mirada que separa al civilista de manual del abogado de financiamiento, y conviene hacerlo
+explícito: **la obligación no es estática, es un activo**. Se compra, se cede, se garantiza y se empaqueta.
+Toda la técnica fina de este libro —cesión, subrogación, novación, solidaridad, transmisión de deudas— es la
+gramática de esa circulación.
+
+Y la pregunta que gobierna las operaciones reales es una sola: **¿en qué momento exacto el crédito deja de
+pertenecer al cedente?** De la respuesta dependen tres cosas que valen millones:
+
+| La pregunta técnica | Lo que decide |
+|---|---|
+| ¿Cesión, subrogación o **novación**? | Si sobreviven las **garantías accesorias** o se extinguen con la obligación original |
+| ¿Cuándo se **perfecciona** frente a terceros? | Si el cesionario prevalece contra otros cesionarios y contra los acreedores del cedente |
+| ¿Salió del patrimonio del cedente (*true sale*)? | Si el crédito queda **aislado de la quiebra** del cedente |
+
+> **Por qué esta distinción es la más costosa de equivocar en una reestructura.** Si al reestructurar una
+> deuda el instrumento se **nova** en lugar de modificarse, la obligación original se extingue y con ella
+> pueden extinguirse las garantías. El acreedor cree estar mejorando su posición y en realidad la pierde. De
+> ahí la regla de oficio del §28: **reserva expresa de garantías y ratificación de los garantes** en toda
+> novación. No es una fórmula de estilo: es la diferencia entre estar garantizado y no estarlo.
+
+**El comparado que hay que conocer.** La **cesión de créditos** (*assignment*) es la pieza central de la
+titulización estadounidense, y su perfección frente a terceros se logra por vías distintas según el
+sistema: **notificación al deudor** en la tradición civil, **inscripción** (*filing*) bajo el UCC. Quien
+estructura un factoraje o un fideicomiso emisor debe saber en qué momento el crédito queda fuera del alcance
+de los acreedores del cedente — el llamado ***true sale***, que es el concepto sobre el que descansa el
+aislamiento del riesgo de quiebra.
+
+**Y el caso que enseñó al mundo el precio de hacerlo mal: la crisis de 2008.** Las hipotecas se cedieron y
+se empaquetaron en cadenas tan largas que, al llegar la ejecución, en muchos casos **no era posible
+acreditar quién era el titular del crédito ni si la cesión se había perfeccionado**. La lección no es sobre
+finanzas: es que **la titulización solo funciona si la cadena documental de cesiones es impecable**, y que
+un defecto de perfección multiplicado por un millón de créditos se convierte en un problema sistémico. Es
+la razón por la que un abogado de estructurados dedica tanto tiempo a algo que parece burocrático.
+
 ## 7. Contexto político
 
 El Estado (Libro 3, Nivel I) garantiza el cumplimiento de las obligaciones —sin coacción estatal
@@ -1019,59 +1055,6 @@ frágiles y se destruye valor en las reestructuras.
 > contratos civiles típicos —empezando por la compraventa, madre del *Share Purchase Agreement*—.
 > El camino al M&A pasa por aquí.
 
-
 ---
 
-## ⚖️ Suplemento del Consejo Editorial
-
-> *Elevación al estándar de obra de referencia. Doctrina, comparado, caso y criterio; disciplina ⟳.*
-
-### Cómo piensa un socio internacional
-La teoría fina de las obligaciones es la caja de herramientas del corporativo: **cesión de créditos, subrogación, novación, obligaciones solidarias y mancomunadas, transmisión de deudas**. En un financiamiento sindicado o en una reestructura, saber **quién puede ceder qué, a quién y con qué requisitos** define si la operación cierra. El socio piensa en **circulación del crédito**: la obligación no es estática, es un activo que se compra, se cede y se garantiza.
-
-### Doctrina y debate
-- ***Schuld* / *Haftung*** (deuda y responsabilidad) aplicado a la solidaridad y la fianza.
-- **Cesión vs. subrogación vs. novación:** ¿se transmite la misma obligación (cesión) o nace una nueva que extingue la anterior (novación)? La diferencia decide la suerte de las **garantías accesorias**.
-- **Messineo, Von Tuhr, Díez-Picazo;** en México, Gutiérrez y González.
-
-### Derecho comparado
-La **cesión de créditos** (*assignment*) es central en la titulización (*securitization*) estadounidense; su perfección frente a terceros exige notificación al deudor (civil law) o *filing* (UCC). El corporativo que estructura un *factoring* o un fideicomiso emisor debe dominar el punto exacto en que el crédito "sale" del patrimonio del cedente (aislamiento del riesgo de quiebra, *true sale*).
-
-### Caso real
-**Titulización y crisis 2008:** las hipotecas *subprime* se **cedieron** y empaquetaron (MBS/CDO); cuando el aislamiento (*true sale*) y las garantías fallaron, cayó el sistema. Toda esa ingeniería es teoría de las obligaciones (cesión, subrogación) a escala billonaria.
-
-### Errores que cuestan millones
-- Ceder un crédito y creer que las **garantías** lo siguen automáticamente sin cumplir formalidades.
-- Confundir **novación** (extingue garantías) con simple **modificación**.
-
-### Preguntas
-- **Criterio:** ¿la novación conviene al acreedor garantizado? Justifique.
-- **Entrevista:** ¿cómo aísla un crédito del riesgo de quiebra del cedente?
-- **Examen:** distinga cesión, subrogación y novación con efectos sobre las garantías.
-
-### Bibliografía por niveles
-- **Básico:** Gutiérrez y González, *Derecho de las obligaciones*.
-- **Intermedio:** Rojina Villegas, *Obligaciones*.
-- **Avanzado:** Díez-Picazo, *Fundamentos del Derecho Civil Patrimonial*, t. II.
-- **Internacional:** Zimmermann, *The Law of Obligations*.
-
-
----
-
-## 🎓 Profundización — Cátedra del Consejo Editorial
-
-> *Segunda capa: el «por qué» detrás del «qué». Complementa el Suplemento anterior.*
-
-**Por qué existe (fundamento).** La teoría de las obligaciones es la **gramática del intercambio**: define cómo se crea, transmite, garantiza y extingue el deber de dar, hacer o no hacer. La **circulación del crédito** (cesión, subrogación, novación) existe porque el crédito es un **activo**: poder transmitirlo lo hace líquido, y la liquidez es valor. Sin transmisibilidad del crédito no hay factoraje, titulización ni mercado de deuda.
-
-**El debate.** **Cesión vs. novación:** ¿se transmite la misma obligación (cesión, las garantías la siguen) o nace una nueva que extingue la anterior (novación, las garantías pueden caer)? El debate importa millones en reestructuras. **Perfección de la cesión frente a terceros:** ¿basta el acuerdo (consensualismo) o se exige notificación al deudor / registro? El sistema elegido define el riesgo del cesionario y el costo de la titulización.
-
-**Mirada de AED.** La transmisibilidad del crédito reduce **costos de transacción** y permite que el riesgo migre a quien mejor lo soporta (el mercado de deuda). Pero la cesión "en masa" (titulización) crea **riesgo moral** en el originador (si va a vender el crédito, se esfuerza menos en originar bien) —exactamente lo que falló en 2008 (*originate-to-distribute*).
-
-**Comparado y lección para México.** La *assignment* y el *true sale* estadounidenses (aislamiento del riesgo de quiebra del originador) son la base de la titulización; el civil law exige notificación al deudor para oponer la cesión. **Lección:** para desarrollar mercados de deuda y factoraje, México necesita reglas claras de **perfección y aislamiento** (*true sale*) que den certeza al cesionario.
-
-**Crítica.** La sofisticación de la cesión y la titulización puede **desconectar** el riesgo de quien lo origina (el problema *originate-to-distribute*), sembrando crisis sistémicas. La lección de 2008 sigue vigente.
-
-**Jurisprudencia y operación real.** La titulización *subprime* (2008) fue teoría de las obligaciones a escala billonaria: cesión, subrogación y aislamiento de riesgo que, al fallar, colapsaron el sistema. En la práctica, estructurar un fideicomiso emisor o un factoraje exige dominar el punto exacto en que el crédito "sale" del patrimonio del cedente.
-
-**Para leer más:** Díez-Picazo, *Fundamentos del Derecho Civil Patrimonial*, t. II; Zimmermann, *The Law of Obligations*; literatura sobre *securitization* y *true sale*.
+***Voz consolidada (Edición Final).** Este capítulo no lleva apéndices al cierre: la doctrina, el análisis económico, el derecho comparado, la jurisprudencia y la mirada del socio internacional viven **dentro** del razonamiento, en las secciones donde hacen falta. Ver el vacío **C-1** y el método en la [Auditoría de la Edición Final](../../AUDITORIA-EDICION-FINAL.md).*
