@@ -159,7 +159,7 @@ Cada capítulo (Partes I a VI) recibió un suplemento con siete secciones:
 ### Añadido — convención ⟳ (apóstrofe de vigencia)
 - Marcador **⟳** tras **cada artículo citado** de toda la biblioteca (**982 marcas**), aplicado con un
   script idempotente y seguro (no toca bloques de código).
-- **Callout explicativo** bajo el título de los **58 tratados**, con el caso real del **art. 390 CPF derogado**.
+- **Callout explicativo** bajo el título de los **52 tratados**, con el caso real del **art. 390 CPF derogado**.
 - Símbolo definido en el **Protocolo §II**; registro en **§V/§VI**; `CONTROL-DE-CALIDAD` actualizado.
 
 ### Nota de calidad

@@ -1,8 +1,14 @@
-# Control de Calidad — Registro de la pasada de QA (v2.1)
+# Control de Calidad — Registro de las pasadas de QA (vigente: v4.0)
 
-> **Qué es.** Registro auditable del control de calidad hecho antes de sellar la versión **v2.1**. Sigue la
-> filosofía del [Protocolo de Verificación](./PROTOCOLO_DE_VERIFICACION.md): lo que se revisa, se documenta.
-> **Fecha de la pasada: 2026-07.**
+> **Qué es.** Registro auditable y **acumulativo** del control de calidad de la obra. Sigue la filosofía del
+> [Protocolo de Verificación](./PROTOCOLO_DE_VERIFICACION.md): lo que se revisa, se documenta.
+>
+> **Sello vigente: `v4.0` "Referencia Verificada".** Última pasada completa: **2026-07**.
+> Este documento nació como registro de la pasada v2.1 y se ha mantenido acumulativo desde entonces
+> (§4 recoge las pasadas v3.1 a v4.0). El §6 y el §7 se re-sellaron para reflejar el estado real.
+>
+> **Pasada en curso:** Edición Final, rama `RAMA-DEFINITIVA`. Su diagnóstico y su lista de defectos
+> está en la [Auditoría de la Edición Final](./AUDITORIA-EDICION-FINAL.md).
 
 ---
 
@@ -55,7 +61,7 @@ La pasada detectó **tres formatos** conviviendo. Se **homologan por norma** (ve
   **LGTOC** (5º/76/170/175), **LMV** (1/2/22), **CCF** (1792/1794/1803/2248), **LFT** (47/48/123/132),
   **CPF** (7º/386; **390 = «Derogado»**) y **Ley de Amparo** (1º/5º/107/170). Fechas de vigencia en el README de fuentes.
 - ✅ **Nueva convención ⟳ (apóstrofe de vigencia):** añadida a **cada artículo citado** de toda la biblioteca
-  (**982 marcas**) más un callout explicativo en los **58 tratados**. Recuerda al lector que **✅ verifica a
+  (**982 marcas**) más un callout explicativo en los **52 tratados**. Recuerda al lector que **✅ verifica a
   una fecha, no para siempre**, y lo obliga a recontrastar el artículo en su código. Verificado: 0 marcas
   dentro de bloques de código, 0 archivos con markdown roto.
 - ✅ **CORAZÓN CORPORATIVO COMPLETO (v3.3):** 8 leyes más cotejadas verbatim en
@@ -85,24 +91,45 @@ La pasada detectó **tres formatos** conviviendo. Se **homologan por norma** (ve
 > consulta (DOF, SAT, SJF). Esta obra es un **sistema conceptual y de estudio**, no una fuente
 > autoritativa de citas.
 
-## 6. Qué significa el sello v2.1
+## 6. Qué significa el sello vigente (v4.0)
 
-- **v2.1 es una "versión de estudio" sellada:** consistente, sin defectos de forma, con datos de alto
-  riesgo (fechas, tasas, hechos de reforma) verificados y trazables.
-- **NO es aún una "referencia verificada para imprimir/citar":** eso llegará cuando se cierre la
-  verificación verbatim de artículos (punto 4) en una **v2.2**.
+- **v4.0 es una "referencia verificada":** las **27 leyes** del corpus están cotejadas **verbatim** en
+  [`fuentes-legales/`](./fuentes-legales/), el semáforo está alineado, y cada artículo citado lleva su
+  marca ⟳ de vigencia. Integridad de forma: 0 enlaces rotos, 0 markdown roto.
+- **Los ⚠️ que quedan son por diseño**, no por descuido: son datos volátiles (fechas de reforma, tasas,
+  montos, cifras de operaciones) que **deben** reverificarse en el ejercicio del lector. Un ⚠️ cerrado a
+  la fuerza sería menos honesto que un ⚠️ vivo.
+- **Lo que v4.0 todavía no es:** una obra **editorialmente integrada**. Cada tratado conserva dos
+  apéndices (⚖️ Suplemento y 🎓 Profundización) con estructura idéntica en los 52 —el defecto de forma
+  que la Edición Final corrige (vacío C-1 de la Auditoría).
 
-## 7. Pendientes para v2.2 (hoja de ruta de mejora)
+## 7. Pendientes reales (hoja de ruta viva)
 
-1. Verificación verbatim de números de artículo (grupo crítico).
-2. Banco de jurisprudencia real verificada en el SJF.
-3. Materias faltantes: Procesal Penal a fondo, Familiar, Agrario.
-4. Bibliografías con edición/año; glosario maestro bilingüe.
-5. Mazo Anki completo por tratado; calendario de estudio; más ejercicios de Laboratorio (VC,
-   financiamiento, SPA modelo anotado).
-6. (Opcional) Migrar el Nivel I al V3 pleno de 43 secciones.
+Los pendientes de la antigua v2.2 **se cumplieron todos** y quedan registrados en el §4 y en el
+[CHANGELOG](./CHANGELOG.md): verificación verbatim (v3.1–v3.4, 27 leyes), materias faltantes
+(Procesal Penal, Familiar y Agrario, incorporadas), bibliografías con edición/año, glosario maestro
+bilingüe, banco de jurisprudencia y más ejercicios de Laboratorio.
+
+La lista vigente es la de la **Edición Final**, clasificada por severidad en la
+[Auditoría](./AUDITORIA-EDICION-FINAL.md) §6:
+
+| Prioridad | Pendiente | Estado |
+|-----------|-----------|--------|
+| **C-1** | Disolver los tres estratos en los 52 tratados (voz única, sin perder sustancia) | 🟡 |
+| **C-2** | La empresa por dentro (Nivel V-05) | 🟡 |
+| **C-3 / C-4** | Columna VI · Inteligencia Humana y Comunicación Profesional | 🟡 |
+| **C-5** | Elevar la Columna V (Patrimonio) al estándar de la obra | 🟡 |
+| **C-6 / C-10** | Simuladores de decisión y el puente de negociación cláusula por cláusula | 🟡 |
+| **C-7** | Casos de fracaso | 🟡 |
+| **C-8** | El último libro: *El Arquitecto Jurídico Empresarial* | 🟡 |
+| **C-9** | Defectos de integridad (conteos, Tramo 3, re-sellado de este documento) | ✅ **cerrado** |
+| K-5 | Migrar el Nivel I al V3 pleno de 43 secciones | ❌ **descartado** (la Auditoría lo juzga innecesario: C-1 lo mejora más) |
+
+> **Nota de método.** Este documento dejó de tener "pendientes de la siguiente versión" como lista
+> propia: los hereda de la Auditoría, que es el instrumento donde se clasifican con evidencia. Aquí solo
+> se registra su estado.
 
 ---
 
-*Control de Calidad · Proyecto AJE · pasada de 2026-07 para el sello v2.1. Documento vivo: actualízalo en
-cada nueva pasada de QA.*
+*Control de Calidad · Proyecto AJE · registro acumulativo. Sello vigente **v4.0** (pasada de 2026-07);
+pasada de Edición Final en curso en `RAMA-DEFINITIVA`. Documento vivo: actualízalo en cada QA.*

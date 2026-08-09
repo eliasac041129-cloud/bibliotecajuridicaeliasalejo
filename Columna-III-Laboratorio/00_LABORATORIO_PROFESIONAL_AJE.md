@@ -107,8 +107,33 @@ no lectura pasiva:
 | 10 | La presentación al cliente y al consejo | Explicar y recomendar una operación | ✅ Completo |
 
 > El Tramo 2 cierra el oficio: del documento técnico (Tramo 1) a **comunicarlo, soportarlo
-> societariamente y recomendarlo** a quien decide. Con ambos tramos, el lector domina los
-> entregables esenciales de un abogado corporativo.
+> societariamente y recomendarlo** a quien decide.
+
+### Tramo 3 · Destrezas de negociación documental (✅ completo)
+
+| # | Ejercicio | Entregable | Estado |
+|---|-----------|------------|--------|
+| 11 | El *redline*: marcado del borrador de la contraparte | Borrador marcado con comentarios y posición | ✅ Completo |
+
+> **Por qué existe este tramo.** Los Tramos 1 y 2 entrenan a producir **tu** documento. Pero el 80 %
+> del tiempo de un asociado junior se consume en algo distinto y menos glamoroso: **recibir el
+> borrador del otro despacho y marcarlo**. Es la destreza más usada y la menos enseñada. El Tramo 3
+> es el puente entre redactar (Tramo 1) y negociar de verdad (Tramo 4).
+
+### Tramo 4 · Simuladores de decisión (🟡 en construcción · Edición Final)
+
+| # | Ejercicio | Entregable | Estado |
+|---|-----------|------------|--------|
+| 12 | Negociar el contrato cláusula por cláusula | El canje: *cap* · *basket* · *escrow* · *survival* | 🟡 |
+| 13 | Cuando la contraparte se echa atrás | Decisión bajo presión y reencuadre de la operación | 🟡 |
+| 14 | La vida completa de una empresa (simulación permanente) | El hilo de "Proyecto Caramelo" extendido | 🟡 |
+| 15 | Reconocer el desastre antes de que ocurra | Diagnóstico temprano de fracaso | 🟡 |
+
+> **Por qué existe este tramo.** Los tramos anteriores entrenan **entregables**: cosas que se
+> escriben y se entregan. El Tramo 4 entrena algo que no se entrega y sin embargo decide las
+> operaciones: **la decisión**. Aquí no hay respuesta correcta al final de la página; hay
+> información disponible, información faltante, intereses, poder relativo, BATNA y consecuencias.
+> Ver la [Auditoría de la Edición Final](../AUDITORIA-EDICION-FINAL.md) (vacíos C-6, C-7, C-10, I-3).
 
 > Se construyen **en secuencia**. El primero —el memorándum— es la base: todo lo demás se comunica,
 > tarde o temprano, a través de un memo o su lógica.

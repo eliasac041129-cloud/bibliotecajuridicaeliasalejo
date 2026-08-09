@@ -46,7 +46,7 @@ se levantan **en secuencia**, según lo que el lector necesita en cada etapa.
 | **I** | **Biblioteca Jurídica** | ¿Qué debo aprender? | ✅ Completa (5 niveles + Ramas Esenciales · 52 tratados) |
 | **II** | **Hoja de Ruta** | ¿Qué hacer, cuándo y por qué? | ✅ Completa |
 | **III** | **Laboratorio Profesional** | ¿Cómo trabaja de verdad un abogado corporativo? | ✅ Completa (3 tramos · 11 ejercicios) |
-| **IV** | **Sistema del Socio** | ¿Cómo se construye una carrera jurídica extraordinaria? | ✅ Completa (6 módulos) |
+| **IV** | **Sistema del Socio** | ¿Cómo se construye una carrera jurídica extraordinaria? | ✅ Completa (7 módulos) |
 | **V** | **Patrimonio y Libertad Financiera** | ¿Cómo administrar la riqueza que genera la carrera? | ✅ Completa (6 módulos) |
 
 > **La secuencia, en una frase:** primero **saber** (I) y **saber qué hacer** (II); luego **saber
@@ -154,7 +154,11 @@ El detalle está en [PLANTILLA-LIBRO.md](./PLANTILLA-LIBRO.md).
 ## Estado de avance
 
 Consulta [AVANCE.md](./AVANCE.md) (tablero de control de la biblioteca y de las columnas) y
-[CHANGELOG.md](./CHANGELOG.md) (bitácora de versiones V1 → V2).
+[CHANGELOG.md](./CHANGELOG.md) (bitácora completa de versiones, de la v1.0 a la vigente).
+
+> **Edición en curso.** La [Auditoría de la Edición Final](./AUDITORIA-EDICION-FINAL.md) es el
+> diagnóstico medido de la obra: qué está terminado, qué es superficial, qué falta de verdad y qué
+> **no** debe escribirse. Rige el trabajo de la rama `RAMA-DEFINITIVA`.
 
 ---
 
