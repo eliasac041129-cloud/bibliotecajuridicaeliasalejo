@@ -30,9 +30,38 @@ def escudo(cls):
 
 # ---------- conversión markdown -> HTML ----------
 MD = markdown.Markdown(extensions=["tables","fenced_code","sane_lists","attr_list","toc","md_in_html"])
+
+# Regla de CommonMark: una lista de viñetas puede interrumpir un párrafo, pero una
+# lista ordenada solo si arranca en «1.». Sin esa restricción, los índices internos
+# escritos como párrafo corrido ("17. En M&A · 18. Práctica internacional · …")
+# se convertirían en listas y Markdown los RENUMERARÍA, falseando el índice.
+_ITEM = re.compile(r"^(?:[-*+] |1[.)] )")
+_NO_INTERRUMPIR = re.compile(r"^(?:[-*+] |\d+[.)] |#|\||>|```|\s*$)")
+
+def separar_listas(text):
+    """Inserta la línea en blanco que Python-Markdown exige antes de una lista.
+
+    CommonMark (y por tanto GitHub) permite que una lista interrumpa un párrafo;
+    la extensión `sane_lists` no. Sin esta normalización, los 6,234 casos de la
+    obra en que una lista sigue de inmediato a su frase introductoria ("Requisitos:")
+    se aplanan en un párrafo corrido con guiones sueltos en medio del texto.
+    """
+    out, dentro_fence = [], False
+    for ln in text.split("\n"):
+        s = ln.lstrip()
+        if s.startswith("```"):
+            dentro_fence = not dentro_fence
+            out.append(ln); continue
+        if (not dentro_fence and _ITEM.match(s) and out
+                and not _NO_INTERRUMPIR.match(out[-1].lstrip())):
+            out.append("")
+        out.append(ln)
+    return "\n".join(out)
+
 def md2html(text):
     # permitir markdown dentro de los <div align="center"> (títulos de formatos)
     text = text.replace('<div align="center">', '<div align="center" markdown="1">')
+    text = separar_listas(text)
     MD.reset()
     html = MD.convert(text)
     # neutralizar enlaces internos (.md, carpetas) -> texto plano; conservar http
@@ -389,27 +418,29 @@ def colofon():
 </section>"""
 
 # ---------- ensamblado ----------
-body=[portada(), pagina_legal(), dedicatoria(), consideraciones(), finalidad(), estructura(), indice()]
-cur_part=None
-for plabel,ptitle,cap_title,anchor,html,is_first in chapters:
-    if is_first:
-        body.append(parte_portada(plabel,ptitle))
-    body.append(capitulo(plabel,cap_title,anchor,html))
-# Anexo formatos
-if anexo:
-    body.append(parte_portada("Anexo A","Banco de Formatos"))
-    for t,a,h in anexo:
-        body.append(capitulo("Anexo A", t, a, h))
-# Anexo B: Banco de Jurisprudencia
-if anexo_juris:
-    body.append(parte_portada("Anexo B","Banco de Jurisprudencia"))
-    for t,a,h in anexo_juris:
-        body.append(capitulo("Anexo B", t, a, h))
-body.append(colofon())
+def cuerpo_completo():
+    """Devuelve la lista de secciones del libro entero, en orden."""
+    body=[portada(), pagina_legal(), dedicatoria(), consideraciones(), finalidad(), estructura(), indice()]
+    for plabel,ptitle,cap_title,anchor,html,is_first in chapters:
+        if is_first:
+            body.append(parte_portada(plabel,ptitle))
+        body.append(capitulo(plabel,cap_title,anchor,html))
+    if anexo:
+        body.append(parte_portada("Anexo A","Banco de Formatos"))
+        for t,a,h in anexo:
+            body.append(capitulo("Anexo A", t, a, h))
+    if anexo_juris:
+        body.append(parte_portada("Anexo B","Banco de Jurisprudencia"))
+        for t,a,h in anexo_juris:
+            body.append(capitulo("Anexo B", t, a, h))
+    body.append(colofon())
+    return body
 
-barra = ('<div id="barra"><button onclick="window.print()">📖 Generar PDF / Imprimir</button></div>')
 
-HTML = f"""<!DOCTYPE html>
+def main():
+    body = cuerpo_completo()
+    barra = ('<div id="barra"><button onclick="window.print()">📖 Generar PDF / Imprimir</button></div>')
+    HTML = f"""<!DOCTYPE html>
 <html lang="es"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Manual para Ejercer el Derecho Corporativo — Elias Alejo</title>
@@ -418,7 +449,10 @@ HTML = f"""<!DOCTYPE html>
 {barra}
 {''.join(body)}
 </body></html>"""
+    os.makedirs("LIBRO", exist_ok=True)
+    open("LIBRO/Manual-para-Ejercer-el-Derecho-Corporativo.html","w",encoding="utf-8").write(HTML)
+    print(f"OK libro generado. Capítulos: {cap_n}. Tamaño: {len(HTML)//1024} KB")
 
-os.makedirs("LIBRO", exist_ok=True)
-open("LIBRO/Manual-para-Ejercer-el-Derecho-Corporativo.html","w",encoding="utf-8").write(HTML)
-print(f"OK libro generado. Capítulos: {cap_n}. Tamaño: {len(HTML)//1024} KB")
+
+if __name__ == "__main__":
+    main()
