@@ -157,7 +157,8 @@ mitad que no depende de nadie más.
 | Archivo | Qué hace | Depende de documentos |
 |---|---|---|
 | `00_RECTOR.md` | Este documento | No |
-| [`01_PROMPT_MAESTRO.md`](./01_PROMPT_MAESTRO.md) | El encargo íntegro, archivado como fuente de requisitos | No |
+| [`01_PROMPT_MAESTRO.md`](./01_PROMPT_MAESTRO.md) | El encargo íntegro v1, archivado como fuente de requisitos | No |
+| [`PROMPT-PARA-NUEVO-REPOSITORIO.md`](./PROMPT-PARA-NUEVO-REPOSITORIO.md) | **Encargo v2**, autónomo: lleva dentro los datos verificados, las normas, el calendario y los tres errores ya cometidos. Para arrancar un chat o repositorio nuevo | Ya no los necesita |
 | [`02_EXPEDIENTE_DE_INGESTA.md`](./02_EXPEDIENTE_DE_INGESTA.md) | Qué documento contesta qué, campo por campo | Es el que los pide |
 | [`03_DIAGNOSTICO_DE_EJECUCION.md`](./03_DIAGNOSTICO_DE_EJECUCION.md) | Los cuellos de botella reales, sin halago | No |
 | [`04_SISTEMA_ANTIFALLAS.md`](./04_SISTEMA_ANTIFALLAS.md) | Que perder una fecha vuelva a ser imposible | Parcial |
