@@ -32,7 +32,8 @@
 | 4 | [**02 · El Sistema Diario**](./Columna-II-Hoja-de-Ruta/02_PLAN_OPERATIVO_DIARIO_AJE.md) | **Plan operativo.** Qué haces hoy, a qué hora y por cuánto tiempo. Convierte todo el repo en una rutina diaria. |
 | 5 | [**03 · Plan de Inglés Jurídico**](./Columna-II-Hoja-de-Ruta/03_PLAN_DE_INGLES_JURIDICO_AJE.md) | **La llave no negociable.** Materializa el Principio 6 (Bilingüismo): rutina, recursos e inglés legal. |
 | 6 | [**04 · La Tesis Estratégica**](./Columna-II-Hoja-de-Ruta/04_LA_TESIS_ESTRATEGICA.md) | Convierte la tesis (R&W en el SPA) en activo de carrera: pregunta, hipótesis y esquema. |
-| 7 | [Índice Maestro](./INDICE_MAESTRO.md) · [Guía Metodológica](./GUIA-METODOLOGICA.md) · [Mapa Biblioteca↔Materias](./MAPA_BIBLIOTECA-A-MATERIAS.md) · [Protocolo de Verificación](./PROTOCOLO_DE_VERIFICACION.md) · [Control de Calidad](./CONTROL-DE-CALIDAD.md) · [Glosario Bilingüe](./GLOSARIO-BILINGUE.md) · [Avance](./AVANCE.md) · [Changelog](./CHANGELOG.md) | Navegación, método, puente con materias, integridad, QA, bilingüismo, estado y bitácora. |
+| 7 | [**HOY**](./PROYECTO-REMONTADA/HOY.md) | **Capa de ejecución.** La única página de uso diario del [Proyecto Remontada](./PROYECTO-REMONTADA/00_RECTOR.md): la próxima fecha irrecuperable, las tres tareas y el horario real. Se abre antes que cualquier otra cosa de este repositorio. |
+| 8 | [Índice Maestro](./INDICE_MAESTRO.md) · [Guía Metodológica](./GUIA-METODOLOGICA.md) · [Mapa Biblioteca↔Materias](./MAPA_BIBLIOTECA-A-MATERIAS.md) · [Protocolo de Verificación](./PROTOCOLO_DE_VERIFICACION.md) · [Control de Calidad](./CONTROL-DE-CALIDAD.md) · [Glosario Bilingüe](./GLOSARIO-BILINGUE.md) · [Avance](./AVANCE.md) · [Changelog](./CHANGELOG.md) | Navegación, método, puente con materias, integridad, QA, bilingüismo, estado y bitácora. |
 
 ---
 
@@ -63,6 +64,38 @@ se levantan **en secuencia**, según lo que el lector necesita en cada etapa.
 > [Auditoría de la Edición Final](./AUDITORIA-EDICION-FINAL.md) §7 documenta la medición que justificó
 > crearla, y la §7.1 explica por qué esas piezas no cabían dentro de la Columna IV.
 
+---
+
+## La capa de ejecución: [Proyecto Remontada](./PROYECTO-REMONTADA/00_RECTOR.md)
+
+Las seis columnas son la **obra**: conocimiento transferible a cualquier lector.
+[`PROYECTO-REMONTADA/`](./PROYECTO-REMONTADA/00_RECTOR.md) no lo es. Es el **expediente de ejecución**
+de una sola persona —sus materias, sus fechas, su horario— y por eso no es la Columna VII: no entra en
+el libro imprimible ni en los conteos de la obra. Si necesita un número, es la **Columna 0**: la que
+hay que ejecutar para que las otras seis sirvan de algo.
+
+Existe porque el [Documento Fundacional](./00_DOCUMENTO_FUNDACIONAL_AJE.md) §V ya había diagnosticado el
+problema —*"su reto real no es la capacidad, es dirigirla"*— y **ninguna de las 684,692 palabras de la
+obra lo resolvía en la práctica**. Búsqueda exhaustiva: `seriación` 0 ocurrencias, `plan 2254` 0,
+`servicio social` 0 en sentido académico, aritmética de promedio 0, fechas y alarmas 0, y 0 líneas sobre
+sueño, gimnasio, alimentación, vida espiritual o relaciones personales. El
+[cierre de la colección](./EL-ARQUITECTO-JURIDICO-EMPRESARIAL.md) §VII lo admite explícitamente.
+
+| Entrada | Qué hace |
+|---|---|
+| [**HOY**](./PROYECTO-REMONTADA/HOY.md) | **La única página diaria.** Fecha irrecuperable, tres tareas, horario hora por hora |
+| [Sistema antifallas](./PROYECTO-REMONTADA/04_SISTEMA_ANTIFALLAS.md) | Cinco reglas para que perder una fecha sea estructuralmente imposible |
+| [Diagnóstico de ejecución](./PROYECTO-REMONTADA/03_DIAGNOSTICO_DE_EJECUCION.md) | Los cuellos de botella reales. Corrige la premisa de que «falta disciplina» |
+| [Sistema semanal y diario](./PROYECTO-REMONTADA/05_SISTEMA_SEMANAL_Y_DIARIO.md) | La aritmética del tiempo: 2 h 45 min de estudio y 15 h semanales de traslado aprovechables |
+| [Ruta de la biblioteca](./PROYECTO-REMONTADA/06_RUTA_DE_LA_BIBLIOTECA.md) | Qué leer, qué posponer y **qué está prohibido leer ahora** |
+| [`tools/promedio.py`](./PROYECTO-REMONTADA/tools/promedio.py) | Promedio actual, techo matemático y escenarios. Se niega a validar metas imposibles |
+| [Pendiente de documentos](./PROYECTO-REMONTADA/PENDIENTE-DE-DOCUMENTOS.md) | Lo que **no** puede escribirse sin los documentos oficiales, y por qué |
+
+> **Su regla de uso, y es la que la hace funcionar:** solo
+> [`HOY.md`](./PROYECTO-REMONTADA/HOY.md) se lee a diario. Todo lo demás es referencia consultada en
+> fecha. Una carpeta de planes que se relee para motivarse es la siguiente forma de procrastinación, y
+> está diseñada explícitamente contra eso.
+
 ### Estructura del repositorio (las 6 columnas como carpetas paralelas)
 
 ```
@@ -83,7 +116,8 @@ bibliotecajuridicaeliasalejo/
 ├── Columna-II-Hoja-de-Ruta/           ← QUÉ hacer y cuándo
 │   ├── 01_HOJA_DE_RUTA_AJE.md
 │   ├── 02_PLAN_OPERATIVO_DIARIO_AJE.md   (el Sistema Diario)
-│   └── 03_PLAN_DE_INGLES_JURIDICO_AJE.md
+│   ├── 03_PLAN_DE_INGLES_JURIDICO_AJE.md
+│   └── 04_LA_TESIS_ESTRATEGICA.md        (tema, hipótesis y 7 capítulos)
 │
 ├── Columna-III-Laboratorio/           ← CÓMO se trabaja (15 ejercicios en 4 tramos)
 ├── Columna-IV-Sistema-del-Socio/      ← CÓMO se construye la carrera (9 módulos)
@@ -92,6 +126,12 @@ bibliotecajuridicaeliasalejo/
 │
 ├── EL-ARQUITECTO-JURIDICO-EMPRESARIAL.md  ← cierre de la colección
 ├── AUDITORIA-EDICION-FINAL.md             ← diagnóstico medido de la obra
+│
+├── PROYECTO-REMONTADA/                ← CAPA DE EJECUCIÓN (no es una columna)
+│   ├── HOY.md                             ← la única página de uso diario
+│   ├── 04_SISTEMA_ANTIFALLAS.md            ← que no se vuelva a perder una fecha
+│   ├── 05_SISTEMA_SEMANAL_Y_DIARIO.md      ← horario real, sueño, gym, comida, iglesia
+│   └── tools/promedio.py                   ← promedio actual, techo y escenarios
 │
 ├── fuentes-legales/                   ← 27 leyes oficiales verificadas (UTF-8) + originales Word
 ├── Banco-de-Formatos/                 ← plantillas reales (SPA, term sheet, acta, pagaré, amparo…)
