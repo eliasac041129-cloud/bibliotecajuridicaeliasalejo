@@ -191,8 +191,48 @@
 - [**Auditoría de la Edición Final**](./AUDITORIA-EDICION-FINAL.md) — el diagnóstico medido de la obra:
   qué está terminado, qué era superficial, qué faltaba de verdad, **qué no debía escribirse** y qué
   vacíos la propia auditoría tuvo que descartar al verificarlos. Rige el trabajo de `RAMA-DEFINITIVA`.
+- [**IMPRENTA/**](./IMPRENTA/README.md) — ficha técnica y PDF paginados en 155 × 230 mm, tres tomos.
+  Generados con `tools/build_impreso.py`; las cifras están medidas sobre el PDF, no estimadas.
 
-> **Las seis columnas del Proyecto AJE están completas**, y la colección tiene cierre.
+## 9. Capa de ejecución · [Proyecto Remontada](./PROYECTO-REMONTADA/00_RECTOR.md)
+
+No es una columna: es el **expediente de ejecución** de un lector concreto (materias, fechas, horario),
+y por eso queda fuera del libro imprimible y de los conteos de la obra. Se creó porque la obra
+diagnosticaba el problema de ejecución sin resolverlo: `seriación`, `plan 2254`, `servicio social`,
+aritmética de promedio, fechas y alarmas tenían **0 ocurrencias** en 684,692 palabras, igual que sueño,
+gimnasio, alimentación, vida espiritual y relaciones personales.
+
+- [**HOY**](./PROYECTO-REMONTADA/HOY.md) — **la única página de uso diario**: fecha irrecuperable, tres
+  tareas y el día hora por hora sobre el traslado real.
+- [00 · Rector](./PROYECTO-REMONTADA/00_RECTOR.md) — qué es, qué no duplica y la regla que impide que la
+  carpeta se convierta en la siguiente forma de procrastinación.
+- [01 · El encargo y su trazabilidad](./PROYECTO-REMONTADA/01_PROMPT_MAESTRO.md) — las 29 secciones del
+  prompt maestro y dónde se contesta cada una. 21 ✅ · 4 ⚠️ · 6 ⛔ por documentos.
+- [02 · Expediente de ingesta](./PROYECTO-REMONTADA/02_EXPEDIENTE_DE_INGESTA.md) — qué campo exacto se
+  extrae de cada uno de los once documentos oficiales.
+- [03 · Diagnóstico de ejecución](./PROYECTO-REMONTADA/03_DIAGNOSTICO_DE_EJECUCION.md) — los cuatro
+  cuellos de botella reales. **Corrige la premisa de que falta disciplina.**
+- [04 · Sistema antifallas](./PROYECTO-REMONTADA/04_SISTEMA_ANTIFALLAS.md) — cinco reglas, escalera
+  T-menos y testigo humano. El documento central de la carpeta.
+- [05 · Sistema semanal y diario](./PROYECTO-REMONTADA/05_SISTEMA_SEMANAL_Y_DIARIO.md) — la aritmética
+  del tiempo, sueño, gimnasio, alimentación, iglesia y relaciones.
+- [06 · Ruta de la biblioteca](./PROYECTO-REMONTADA/06_RUTA_DE_LA_BIBLIOTECA.md) — los tres usos
+  permitidos y **las 90,000 palabras que está prohibido leer ahora**.
+- [07 · Plan de tesis](./PROYECTO-REMONTADA/07_PLAN_DE_TESIS.md) — solo cronograma, asesor y trámites: el
+  contenido vive en [04 · La Tesis Estratégica](./Columna-II-Hoja-de-Ruta/04_LA_TESIS_ESTRATEGICA.md).
+- [08 · Formación del hombre](./PROYECTO-REMONTADA/08_FORMACION_DEL_HOMBRE.md) — los 15 valores
+  traducidos a conductas verificables, una por mes.
+- [09 · Plan económico](./PROYECTO-REMONTADA/09_PLAN_ECONOMICO.md) — cuánto trabajo aguanta el semestre
+  y la secuencia patrimonial por edades.
+- [10 · Tablero semanal](./PROYECTO-REMONTADA/10_TABLERO_SEMANAL.md) — las trece variables, con las tres
+  que predicen y diez que solo describen.
+- [Pendiente de documentos](./PROYECTO-REMONTADA/PENDIENTE-DE-DOCUMENTOS.md) — registro vivo de lo que
+  no puede escribirse sin los once PDF oficiales.
+- [`tools/promedio.py`](./PROYECTO-REMONTADA/tools/promedio.py) — promedio actual, techo matemático,
+  escenarios e impacto por materia. 10/10 pruebas de aritmética.
+
+> **Las seis columnas del Proyecto AJE están completas**, y la colección tiene cierre. Lo que queda
+> abierto no es la obra: es su ejecución.
 
 ---
 
