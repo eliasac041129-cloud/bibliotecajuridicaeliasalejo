@@ -10,7 +10,18 @@
 > explícitamente en lugar de inventarlo."* Un plan de tres semestres construido sobre una seriación
 > supuesta se ve idéntico a uno real hasta el día de la inscripción.
 
-**Fecha de este registro:** agosto de 2026. **Documentos cargados: 0 de 11.**
+**Fecha de este registro:** 16 de agosto de 2026. **Documentos cargados: 11 de 11.** ✅
+
+> ### Corrección: los documentos SÍ estaban
+>
+> Estaban en la rama `main` del repositorio. Yo busqué en el árbol de trabajo de `RAMA-DEFINITIVA` y
+> concluí que no existían. **Fue un fallo mío, y del tipo exacto que este proyecto documenta:** consultar
+> una fuente en lugar de la autoritativa y decidir sobre el resultado. Es la Regla 1 del
+> [sistema antifallas](./04_SISTEMA_ANTIFALLAS.md), incumplida en el mismo commit que la propuso.
+>
+> Los once están leídos, con texto extraíble y sin necesidad de OCR. El diagnóstico real está en
+> [`11_DIAGNOSTICO_ACADEMICO.md`](./11_DIAGNOSTICO_ACADEMICO.md) y las fechas en
+> [`12_CALENDARIO_MAESTRO.md`](./12_CALENDARIO_MAESTRO.md).
 
 ---
 

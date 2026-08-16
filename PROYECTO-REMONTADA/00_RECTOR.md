@@ -54,6 +54,7 @@ encabezado **cuándo se abre**. Si no es su fecha, no se abre.
 | [`04_SISTEMA_ANTIFALLAS.md`](./04_SISTEMA_ANTIFALLAS.md) | Domingos, en la revisión semanal |
 | [`02_EXPEDIENTE_DE_INGESTA.md`](./02_EXPEDIENTE_DE_INGESTA.md) | Una vez, al cargar los documentos oficiales |
 | [`03_DIAGNOSTICO_DE_EJECUCION.md`](./03_DIAGNOSTICO_DE_EJECUCION.md) | Una vez ahora; luego cada 90 días |
+| [`11_DIAGNOSTICO_ACADEMICO.md`](./11_DIAGNOSTICO_ACADEMICO.md) · [`12_CALENDARIO_MAESTRO.md`](./12_CALENDARIO_MAESTRO.md) | **Ahora, completos.** Después, al planear cada semestre |
 | Este documento | Cuando el sistema se rompa y haya que recordar por qué existe |
 
 **Nada de esta carpeta se lee "para motivarse".** Si el impulso es abrir estos archivos en lugar de
@@ -114,6 +115,18 @@ anterior falló precisamente por decidir sobre información que se creía correc
 
 ## V. Estado actual, con honestidad
 
+**Los once documentos oficiales están cargados y leídos.** Estaban en la rama `main`; se buscaron
+primero en el árbol de trabajo de `RAMA-DEFINITIVA` y se concluyó, mal, que no existían. Ese error
+—consultar una fuente en lugar de la autoritativa— es exactamente el que la Regla 1 del
+[sistema antifallas](./04_SISTEMA_ANTIFALLAS.md) prohíbe, y se cometió en el mismo commit que la
+propuso. Queda registrado porque el proyecto documenta sus errores.
+
+El diagnóstico real está en [`11_DIAGNOSTICO_ACADEMICO.md`](./11_DIAGNOSTICO_ACADEMICO.md) y las fechas
+en [`12_CALENDARIO_MAESTRO.md`](./12_CALENDARIO_MAESTRO.md). Lo que sigue en ⛔ FALTA es solo la oferta
+real de extraordinarios por asignatura, que hay que preguntar en la Jefatura de Carrera.
+
+<details><summary>Redacción original, cuando se creyó que no estaban</summary>
+
 Al momento de crear esta carpeta, los once documentos oficiales **no están cargados en el
 repositorio**. Se verificó: no existe ningún `.pdf` en el workspace salvo los que genera
 `tools/build_impreso.py`.
@@ -129,6 +142,8 @@ Lo que sí se construyó sin esperar a los documentos es todo aquello cuya mater
 disponible: el sistema antifallas, el horario sobre el traslado real, el diagnóstico de ejecución, la
 ruta de la biblioteca, la capa humana y la calculadora de promedio. Son la mitad del trabajo, y son la
 mitad que no depende de nadie más.
+
+</details>
 
 > **Y hay un dato que conviene registrar, sin dramatismo, porque es el más útil de todos:** los
 > documentos se creyeron enviados y no llegaron. Eso es, exactamente, el modo de falla descrito en el
@@ -152,6 +167,9 @@ mitad que no depende de nadie más.
 | [`08_FORMACION_DEL_HOMBRE.md`](./08_FORMACION_DEL_HOMBRE.md) | Valores convertidos en conductas observables | No |
 | [`09_PLAN_ECONOMICO.md`](./09_PLAN_ECONOMICO.md) | Trabajo, ingreso y patrimonio sin destruir la carrera | No |
 | [`10_TABLERO_SEMANAL.md`](./10_TABLERO_SEMANAL.md) | Las trece variables que se miden cada semana | No |
+| [`11_DIAGNOSTICO_ACADEMICO.md`](./11_DIAGNOSTICO_ACADEMICO.md) | **El diagnóstico real**: 45/450 créditos, promedio 8.40, techo 9.85, sin seriación, límites del art. 22 y 24 | ✅ Sí, ya leídos |
+| [`12_CALENDARIO_MAESTRO.md`](./12_CALENDARIO_MAESTRO.md) | **Las 14 fechas del semestre 2027-I**, con la del 9–11 de septiembre | ✅ Sí, ya leídos |
+| [`historial.csv`](./historial.csv) | El kárdex transcrito. Reproduce el 6.88 oficial al cuarto decimal | ✅ Sí |
 | [`HOY.md`](./HOY.md) | **La única página de uso diario** | No |
 | [`PENDIENTE-DE-DOCUMENTOS.md`](./PENDIENTE-DE-DOCUMENTOS.md) | Registro vivo de todo lo que sigue en ⛔ FALTA | Es su objeto |
 | [`tools/promedio.py`](./tools/promedio.py) | Calculadora de promedio y escenarios | Necesita las calificaciones |

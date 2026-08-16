@@ -10,9 +10,16 @@
 ## ⬛ LO PRIMERO, ANTES DEL TELÉFONO
 
 ```
-PRÓXIMA FECHA IRRECUPERABLE: ______________________   faltan ____ días
-¿YA ESTÁ HECHA?              [ ] sí   [ ] no, se hace el ____________
+PRÓXIMA FECHA IRRECUPERABLE:  9, 10 y 11 de SEPTIEMBRE de 2026
+QUÉ ES:  registro de extraordinarios — EA 1ª vuelta y EE (largos)
+FALTAN: ____ días        ¿YA ESTÁ HECHA?   [ ] sí   [ ] no
+DÍA DE TRABAJO (T−3):  6 de septiembre — reunir pagos y requisitos
+ANTES DE ESO:  preguntar en Jefatura de Carrera qué materias hay en EE
 ```
+
+> 📄 Fuente: `calendario-2027-l.pdf`. Las demás fechas del semestre están en
+> [`12_CALENDARIO_MAESTRO.md`](./12_CALENDARIO_MAESTRO.md). Las clases empezaron
+> el 10 de agosto de 2026; **altas y bajas ya cerró** (12–14 de agosto).
 
 > Si faltan **3 días o menos** y no está hecha: **hoy no hay otra prioridad.** Se suspende el bloque
 > de estudio, el gimnasio y todo lo demás hasta que esté resuelta. Nada de esta carpeta es más
